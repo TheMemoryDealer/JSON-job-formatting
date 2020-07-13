@@ -1,0 +1,107 @@
+{
+  "name": "CityPoster",
+  "avatar": "https://photos.angel.co/startups/i/7582228-137ac17c77058cc3c009bfd20e96f120-medium_jpg.jpg?buster=1585146911",
+  "slogan": "CityPoster it's a Shazam-like app for posters in the city",
+  "description": "CityPoster it's a Shazam like app. It recognizes a poster in the city and it enriches the user with quality content and it enables handy online actions. No ugly QR code required.\n\nThe poster provider who is also the owner of the poster event, he will be able to advertise his events through the platform.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.meetup.com/it-it/ml-flutter/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "San Francisco",
+    "San Jose",
+    "London",
+    "Amsterdam",
+    "Zurich",
+    "Berlin",
+    "San Francisco Bay Area"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Sales and Marketing",
+    "Machine Learning",
+    "Augmented Reality",
+    "Smart City",
+    "Digital Marketing",
+    "Virtual Reality / Augmented Reality"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/aymen_",
+      "name": "Aymen Sayed",
+      "avatar": "https://photos.angel.co/users/5707337-medium_jpg?1579679727",
+      "bioHtml": "Machine Learning (Computer Vision)"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7582228",
+    "angelListUrl": "https://angel.co/company/cityposter"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "App developer - Flutter",
+      "description": "https://www.meetup.com/it-IT/ML-Flutter/",
+      "descriptionHtml": "<p><a href=\"https://www.meetup.com/it-IT/ML-Flutter/\" target=\"_blank\" rel=\"nofollow\">https://www.meetup.com/it-IT/ML-Flutter/</a></p>\n",
+      "position": "cofounder",
+      "experience": 0,
+      "visaSponsorship": true,
+      "locations": [
+        "London",
+        "Berlin",
+        "San Francisco Bay Area"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe",
+        "North America",
+        "England"
+      ],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/aymen_",
+        "name": "Aymen Sayed",
+        "avatar": "https://photos.angel.co/users/5707337-medium_jpg?1579679727"
+      },
+      "refs": {
+        "angelListId": "762974",
+        "angelListUrl": "https://angel.co/company/cityposter/jobs/762974-"
+      }
+    }
+  ]
+}

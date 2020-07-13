@@ -1,0 +1,123 @@
+{
+  "name": "ApTap",
+  "avatar": "https://photos.angel.co/startups/i/6230176-94168cb2099538610597b20babf5be6c-medium_jpg.jpg?buster=1535544542",
+  "slogan": "Bill Management Made Easy!",
+  "description": "ApTap’s white labelled API’s automatically organise and compare users’ bills. Users able to cancel, switch or sign up to services, with just a few taps, all within their banking app! \n\n1) Customers: Our DetecTap identify bills, build user profiles and compare deals, allowing users to cancel, switch or sign up on the spot with 3-clicks\n2) Banks: The simple user experience re-engages their customers by providing differential product offering and adding new revenue streams\n3) Partnerships : Richer market insights and higher conversion %’s through a new banking channel\n\nTraction \n1) Raised £300k pre-seed via angel investors\n2) Proof of concept with a major high street bank in April\n3) Comparison and switching APIs built and tested for utilities and broadband \n4) Partnership with EnergyLinx (GoCompare) and numerous major telco brands",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://aptap.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Fin Tech",
+    "Banking",
+    "Mobile Application",
+    "Software"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 400000,
+    "rounds": [
+      {
+        "type": "Pre-Seed",
+        "closedAt": 1565740800,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/nadal",
+      "name": "Nadal Sarkytbayev",
+      "avatar": "https://photos.angel.co/users/8288498-medium_jpg?1539259914",
+      "bioHtml": "Founder and CEO at ApTap\nMSc Theoretical Physics at Imperial College London\nMember of Founders of the Future \nLove science, sports and art"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/isa-ibrahim-1",
+      "name": "Isa Ibrahim",
+      "avatar": "https://photos.angel.co/users/8288503-medium_jpg?1539343962",
+      "bioHtml": "CTO and Co-Founder at ApTap. BEng in Material Science and Engineering from Imperial College and MSc in Environmental Design and Engineering from UCL"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/will-billingsley-1",
+      "name": "Will Billingsley",
+      "avatar": "https://photos.angel.co/users/8288415-medium_jpg?1535543612",
+      "bioHtml": "Cofounder at ApTap. Director at Billingsley Music Services. Love skiing, football and drumming. Imperial College graduate in Biology and Management."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6230176",
+    "angelListUrl": "https://angel.co/company/aptapuk"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Developer",
+      "description": "**WHO WE ARE**\n\nApTap’s white labelled API’s automatically organise and compare a users’ bills. Users able to cancel, switch or sign up to services, with just a few taps, all within their banking app! \n\nBenefits:\n•\tCustomers - our DetecTap identify bills, build user profiles and compare deals, allowing users to cancel, switch or sign up on the spot with 3-clicks\n•\tBanks - the simple user experience re-engages their customers by providing differential product offering and adding new revenue streams\n•\tPartnerships -richer market insights and higher conversion %’s through a new banking channel.\n\nWe are team of three Co-Founders from Imperial College London with background in Physics, Biology, Engineering and we have great chemistry between us. \n\n**WHAT WE’RE AFTER**\n\nWe are currently searching for highly motivated, smart and skilled full-stack developer join our vibrant team. Creativity and capacity to learn are of utmost importance to us, as we’re building something that’s never been done before. You’ll play a vital role in developing strategies and hypotheses, and finally testing and proving product improvement by leveraging data.\n\nWe require individuals that are unphased by daunting challenges and are motivated by our passion and vision.\n\n**WHAT YOU’LL BE DOING**\n\n•\tGetting familiar with the current product, understanding the architecture and the underlying technology. Also realizing the problems encountered along the way\n•\tGaining a deep understanding of the purpose of the product. Also learning how and what data we collect\n•\tDeveloping strategic plans and setting timelines for evaluation, development, and deployment of all technical, web and mobile services.\n•\tBrainstorming ideas of how our current technology can be used to create new features and ideas about new features that could be implemented\n•\tBrainstorming ideas to improve the efficiency of the back-end and current technologies being employed. Also helping with implementing the solutions\n•\tYou’ll also get the chance to get into some of the backend code and help expand our API Library; a brand-new library of API’s that’s creating the world’s first subscription store\n\n**CORE COMPETENCY REQUIREMENTS**\n-\tProficiency with server-side languages such as Python, Ruby, Java, PHP and .Net\n-\tExperience using cloud services such as AWS, GCP and Microsoft Azure\n-\tExperience with MySQL and MongoDB\n-\tDesigning and developing APIs\n-\tExperience with Angular 2+ \n-\tFamiliarity with JavaScript frameworks such as Angular JS and React\n\n**PREFFERED COMPETENCY REQUIREMENTS**\n-\tExperience with micro-service architecture application \n-\tOAuth 2.0 (three-legged flows)\n-\tSecurity: encryption knowledge (minimum 128-bit encryption), JWT.io, Passport.js, end to end authentication (i.e. tokens)\n-\tUI/UX design experience \n-\tExcellent communication and teamwork skills \n\n\nJoin us in changing the game and building the world’s first Subscription Store. \nFeel free to contact and send your CVs to **nadal.s@aptap.co.uk** and we would love to hear from you and discuss things further. https://www.aptap.co.uk/",
+      "descriptionHtml": "<p><strong>WHO WE ARE</strong></p>\n\n<p>ApTap’s white labelled API’s automatically organise and compare a users’ bills. Users able to cancel, switch or sign up to services, with just a few taps, all within their banking app! </p>\n\n<p>Benefits:<br>\n• Customers - our DetecTap identify bills, build user profiles and compare deals, allowing users to cancel, switch or sign up on the spot with 3-clicks<br>\n• Banks - the simple user experience re-engages their customers by providing differential product offering and adding new revenue streams<br>\n• Partnerships -richer market insights and higher conversion %’s through a new banking channel.</p>\n\n<p>We are team of three Co-Founders from Imperial College London with background in Physics, Biology, Engineering and we have great chemistry between us. </p>\n\n<p><strong>WHAT WE’RE AFTER</strong></p>\n\n<p>We are currently searching for highly motivated, smart and skilled full-stack developer join our vibrant team. Creativity and capacity to learn are of utmost importance to us, as we’re building something that’s never been done before. You’ll play a vital role in developing strategies and hypotheses, and finally testing and proving product improvement by leveraging data.</p>\n\n<p>We require individuals that are unphased by daunting challenges and are motivated by our passion and vision.</p>\n\n<p><strong>WHAT YOU’LL BE DOING</strong></p>\n\n<p>• Getting familiar with the current product, understanding the architecture and the underlying technology. Also realizing the problems encountered along the way<br>\n• Gaining a deep understanding of the purpose of the product. Also learning how and what data we collect<br>\n• Developing strategic plans and setting timelines for evaluation, development, and deployment of all technical, web and mobile services.<br>\n• Brainstorming ideas of how our current technology can be used to create new features and ideas about new features that could be implemented<br>\n• Brainstorming ideas to improve the efficiency of the back-end and current technologies being employed. Also helping with implementing the solutions<br>\n• You’ll also get the chance to get into some of the backend code and help expand our API Library; a brand-new library of API’s that’s creating the world’s first subscription store</p>\n\n<p><strong>CORE COMPETENCY REQUIREMENTS</strong></p>\n\n<ul>\n<li>  Proficiency with server-side languages such as Python, Ruby, Java, PHP and .Net</li>\n<li>  Experience using cloud services such as AWS, GCP and Microsoft Azure</li>\n<li>  Experience with MySQL and MongoDB</li>\n<li>  Designing and developing APIs</li>\n<li>  Experience with Angular 2+ </li>\n<li>  Familiarity with JavaScript frameworks such as Angular JS and React</li>\n</ul>\n\n<p><strong>PREFFERED COMPETENCY REQUIREMENTS</strong></p>\n\n<ul>\n<li>  Experience with micro-service architecture application </li>\n<li>  OAuth 2.0 (three-legged flows)</li>\n<li>  Security: encryption knowledge (minimum 128-bit encryption), JWT.io, Passport.js, end to end authentication (i.e. tokens)</li>\n<li>  UI/UX design experience </li>\n<li>  Excellent communication and teamwork skills </li>\n</ul>\n\n<p>Join us in changing the game and building the world’s first Subscription Store. <br>\nFeel free to contact and send your CVs to <strong><a href=\"mailto:nadal.s@aptap.co.uk\" target=\"_blank\" rel=\"nofollow\">nadal.s@aptap.co.uk</a></strong> and we would love to hear from you and discuss things further. <a href=\"https://www.aptap.co.uk/\" target=\"_blank\" rel=\"nofollow\">https://www.aptap.co.uk/</a></p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        ".NET",
+        "MongoDB",
+        "REST APIs",
+        "AWS",
+        "React Native",
+        "Angular 2"
+      ],
+      "payment": {
+        "salary": "£40k – £60k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/nadal",
+        "name": "Nadal Sarkytbayev",
+        "avatar": "https://photos.angel.co/users/8288498-medium_jpg?1539259914"
+      },
+      "refs": {
+        "angelListId": "734211",
+        "angelListUrl": "https://angel.co/company/aptapuk/jobs/734211-"
+      }
+    }
+  ]
+}

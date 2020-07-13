@@ -1,0 +1,438 @@
+{
+  "name": "Chronomics",
+  "avatar": "https://photos.angel.co/startups/i/5135818-bd8025a40dbb53dd1530dafbda8fc5c9-medium_jpg.jpg?buster=1559903540",
+  "slogan": "",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.chronomics.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/chronomentary"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/chronomics/?ref=br_rs"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/27190433/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 1120000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1547251200,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/rob-thompson-3",
+      "name": "Rob Thompson",
+      "avatar": "https://photos.angel.co/users/2298068-medium_jpg?1508327170",
+      "bioHtml": "CTO at Chronomics building health tech for the future"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/toby-call",
+      "name": "Toby Call",
+      "avatar": "https://photos.angel.co/users/7340679-medium_jpg?1515348242",
+      "bioHtml": "Co-founder at Chronomics"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/daniel-martin-herranz",
+      "name": "Daniel Elias Martin Herranz",
+      "avatar": "https://photos.angel.co/users/7340718-medium_jpg?1518093495",
+      "bioHtml": "Founder and CSO at Chronomics Ltd."
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/charles-ball-4",
+      "name": "Charles Ball",
+      "avatar": "https://photos.angel.co/users/7340671-medium_jpg?1518089958",
+      "bioHtml": "Co-founder and COO at Chronomics"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/tom-stubbs-2",
+      "name": "Tom Stubbs",
+      "avatar": "https://photos.angel.co/users/7340565-medium_jpg?1520526318",
+      "bioHtml": "An epigenetic testing A.I platform to drive the future of personalised wellness."
+    },
+    {
+      "title": "Product Design",
+      "role": "Employee",
+      "url": "https://angel.co/u/edwin-simonds",
+      "name": "Edwin Simonds",
+      "avatar": "https://photos.angel.co/users/2521947-medium_jpg?1485957024",
+      "bioHtml": "I love to design and build digital products. Currently designing Envision - a visualisation app, and Chronomics - helping people live healthier lives"
+    },
+    {
+      "title": "Head of Operations",
+      "role": "Employee",
+      "url": "https://angel.co/u/sana-wahid",
+      "name": "Sana Wahid",
+      "avatar": "https://photos.angel.co/users/7274586-medium_jpg?1527667589",
+      "bioHtml": "Head of Operations at Chronomics. Previously Business Strategy at KOKO Networks, Lead Consultant at Newton Europe and IBM. "
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/jose-a-dianes",
+      "name": "Jose A Dianes",
+      "avatar": "https://photos.angel.co/users/9586899-medium_jpg?1561539606",
+      "bioHtml": " Data scientist at Chronomics"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5135818",
+    "angelListUrl": "https://angel.co/company/chronomics"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Backend Developer - Cutting edge health tech startup",
+      "description": "We are looking for a highly skilled backend developer with experience in at least one of these languages (Python/PHP/Node.js) and some dev ops (AWS) knowledge. As an early stage start-up we need someone with a can-do attitude who is happy to jump in and get their hands dirty which could be anything from learning GO, building a Lambda microservice or optimizing an AWS pipeline. You will get the chance to work with numerous different technologies, have a say in how we drive the company forward and learn a ton along the way. \n\nWorking alongside a team of PhD data scientists and bioinformaticians you will get to work on a cutting edge microservice architecture on AWS using serverless (Python/node.js) working with HUGE data (each DNA sample is 100GB…) to build a ground breaking epigenetics platform which is the first of its kind in the world.\n\n\nEssential Skills:\n*\tCan write secure, scalable, readable code in at least one or two languages \n*\tExperience designing and scaling systems\n*\tDesigning, building, consuming AND documenting REST APIs\n*\tAWS (Lambda/EC2/S3/ECS etc)\n*\tHappy on the command line\n*\tAgile development\n*\tFamiliarity with mobile and web development\n*\tWork as part of a focused team, but at the same time self-driven and able to work independently.\n\n\nNice to have:\n*\tSome dev ops (CI/CD/Docker)\n*\tExperience with other languages such as Python/JavaScript (React/Node)\n*\tExperience working on high scalability websites\n*\tExperience with big data\n*\tHave worked with genetics data\n*\tExperience with serverless and microservices architecture\n*\tGraph Databases\n\nBenefits\n* Share options so early contributors benefit from our success.\n* Epigenetic test!! \n* Flexible working hours mean a family & life friendly environment.\n* Fortnightly brainstorming team lunches.\n* Flexible office or home working.\n* We'll provide the laptop and IT you need to do your best work (macbook pro with monitors - you name it!).\n* Book budget - order it no questions asked.\n* Friday pub sessions.\n\nApply at https://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeJB8_FhE0wMg?trackingTag=angelList",
+      "descriptionHtml": "<p>We are looking for a highly skilled backend developer with experience in at least one of these languages (Python/PHP/Node.js) and some dev ops (AWS) knowledge. As an early stage start-up we need someone with a can-do attitude who is happy to jump in and get their hands dirty which could be anything from learning GO, building a Lambda microservice or optimizing an AWS pipeline. You will get the chance to work with numerous different technologies, have a say in how we drive the company forward and learn a ton along the way. </p>\n\n<p>Working alongside a team of PhD data scientists and bioinformaticians you will get to work on a cutting edge microservice architecture on AWS using serverless (Python/node.js) working with HUGE data (each DNA sample is 100GB…) to build a ground breaking epigenetics platform which is the first of its kind in the world.</p>\n\n<p>Essential Skills:</p>\n\n<ul>\n<li>  Can write secure, scalable, readable code in at least one or two languages </li>\n<li>  Experience designing and scaling systems</li>\n<li>  Designing, building, consuming AND documenting REST APIs</li>\n<li>  AWS (Lambda/EC2/S3/ECS etc)</li>\n<li>  Happy on the command line</li>\n<li>  Agile development</li>\n<li>  Familiarity with mobile and web development</li>\n<li>  Work as part of a focused team, but at the same time self-driven and able to work independently.</li>\n</ul>\n\n<p>Nice to have:</p>\n\n<ul>\n<li>  Some dev ops (CI/CD/Docker)</li>\n<li>  Experience with other languages such as Python/JavaScript (React/Node)</li>\n<li>  Experience working on high scalability websites</li>\n<li>  Experience with big data</li>\n<li>  Have worked with genetics data</li>\n<li>  Experience with serverless and microservices architecture</li>\n<li>  Graph Databases</li>\n</ul>\n\n<p>Benefits</p>\n\n<ul>\n<li>Share options so early contributors benefit from our success.</li>\n<li>Epigenetic test!! </li>\n<li>Flexible working hours mean a family &amp; life friendly environment.</li>\n<li>Fortnightly brainstorming team lunches.</li>\n<li>Flexible office or home working.</li>\n<li>We&#39;ll provide the laptop and IT you need to do your best work (macbook pro with monitors - you name it!).</li>\n<li>Book budget - order it no questions asked.</li>\n<li>Friday pub sessions.</li>\n</ul>\n\n<p>Apply at <a href=\"https://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeJB8_FhE0wMg?trackingTag=angelList\" target=\"_blank\" rel=\"nofollow\">https://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeJB8_FhE0wMg?trackingTag=angelList</a></p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "PHP",
+        "Databases",
+        "Dev Ops",
+        "AWS"
+      ],
+      "payment": {
+        "salary": "£30k – £60k",
+        "equity": "0.0% – 0.5%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Founder",
+        "url": "https://angel.co/u/rob-thompson-3",
+        "name": "Rob Thompson",
+        "avatar": "https://photos.angel.co/users/2298068-medium_jpg?1508327170"
+      },
+      "refs": {
+        "angelListId": "477905",
+        "angelListUrl": "https://angel.co/company/chronomics/jobs/477905-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Bioinformatician - Cutting edge health tech startup",
+      "description": "We are looking for a knowledgeable and skilled Bioinformatician who wants to help bring about a proactive healthcare revolution. As an early stage startup we need someone with a can-do attitude who is happy to jump in and get their hands dirty. This might include anything from setting up a new data processing pipeline, visualising a set of parameters and training a model that can be used within our product. This person will play a critical role in the team as a Bioinformatician, working with software engineers to derive our core pipelines and working with our data scientists to develop exciting and new indicators that will not only have huge value for the research community but will also have lasting health benefits for people around the world.\n\nAs an early stage startup with big ambitions you will get the chance to work with numerous different technologies, access a unique set of large biological data, collaborate with top academic experts, develop yourself through workshops and conferences, get your work published, have a say in how we drive the company forward and learn a ton along the way.\n\nEssential Skills:\n\nMSc or PhD (or equivalent) in Computational Biology, Epigenetics, Genetics, Bioinformatics, Computer Science, or related discipline.\nExperience in processing large-scale next-generation sequencing datasets (Illumina or others).\nStrong experience with Unix/Linux environment.\nProficient in Python, R or similar programming language.\nGood critical thinking, creativity and communication skills.\nPassion to develop a great product as part of an agile team.\nBias towards fast delivery while having high quality standards.\n\nNice to have:\n\nA degree in a life science discipline.\nEpigenetic sequencing dataset experience (e.g. methylation, ChIP-seq, RNA-seq).\nExperience using statistical modelling and/or machine learning approaches to analyse sequencing data.\nExperience with any of: SQL, biqQuery, Relational databases, MySQL querying and reporting.\nFamiliar with high-performance computing environments (e.g. Amazon EC2).\nExperience with using third-party APIs (e.g. REST or language-specific APIs).\n\nBenefits\nShare options so early contributors benefit from our success.\nEpigenetic test!! \nFlexible working hours mean a family & life friendly environment.\nFortnightly brainstorming team lunches.\nFlexible office or home working.\nWe'll provide the laptop and IT you need to do your best work (macbook pro with monitors - you name it!).\nBook budget - order it no questions asked.\nFriday pub sessions.\n\nApply online at https://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeHOQ7WdFQd8y?trackingTag=angelList\n\nAbout Us\nChronomics is an ambitious health tech start-up that believes people should be in charge of their own health. Health management should be proactive, not reactive and it should be personalised. We are using longitudinal biological data to bring about this revolution. A revolution where not only will people be in control of their own future but also in control of how they contribute to the future of humanity through the use of their data.\n\nThis product is just the first step towards a platform technology that will serve as the interface between the biological and digital world. It's an incredibly exciting time to come on board where you can really make a difference. Find out more at www.chronomics.com",
+      "descriptionHtml": "<p>We are looking for a knowledgeable and skilled Bioinformatician who wants to help bring about a proactive healthcare revolution. As an early stage startup we need someone with a can-do attitude who is happy to jump in and get their hands dirty. This might include anything from setting up a new data processing pipeline, visualising a set of parameters and training a model that can be used within our product. This person will play a critical role in the team as a Bioinformatician, working with software engineers to derive our core pipelines and working with our data scientists to develop exciting and new indicators that will not only have huge value for the research community but will also have lasting health benefits for people around the world.</p>\n\n<p>As an early stage startup with big ambitions you will get the chance to work with numerous different technologies, access a unique set of large biological data, collaborate with top academic experts, develop yourself through workshops and conferences, get your work published, have a say in how we drive the company forward and learn a ton along the way.</p>\n\n<p>Essential Skills:</p>\n\n<p>MSc or PhD (or equivalent) in Computational Biology, Epigenetics, Genetics, Bioinformatics, Computer Science, or related discipline.<br>\nExperience in processing large-scale next-generation sequencing datasets (Illumina or others).<br>\nStrong experience with Unix/Linux environment.<br>\nProficient in Python, R or similar programming language.<br>\nGood critical thinking, creativity and communication skills.<br>\nPassion to develop a great product as part of an agile team.<br>\nBias towards fast delivery while having high quality standards.</p>\n\n<p>Nice to have:</p>\n\n<p>A degree in a life science discipline.<br>\nEpigenetic sequencing dataset experience (e.g. methylation, ChIP-seq, RNA-seq).<br>\nExperience using statistical modelling and/or machine learning approaches to analyse sequencing data.<br>\nExperience with any of: SQL, biqQuery, Relational databases, MySQL querying and reporting.<br>\nFamiliar with high-performance computing environments (e.g. Amazon EC2).<br>\nExperience with using third-party APIs (e.g. REST or language-specific APIs).</p>\n\n<p>Benefits<br>\nShare options so early contributors benefit from our success.<br>\nEpigenetic test!! <br>\nFlexible working hours mean a family &amp; life friendly environment.<br>\nFortnightly brainstorming team lunches.<br>\nFlexible office or home working.<br>\nWe&#39;ll provide the laptop and IT you need to do your best work (macbook pro with monitors - you name it!).<br>\nBook budget - order it no questions asked.<br>\nFriday pub sessions.</p>\n\n<p>Apply online at <a href=\"https://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeHOQ7WdFQd8y?trackingTag=angelList\" target=\"_blank\" rel=\"nofollow\">https://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeHOQ7WdFQd8y?trackingTag=angelList</a></p>\n\n<p>About Us<br>\nChronomics is an ambitious health tech start-up that believes people should be in charge of their own health. Health management should be proactive, not reactive and it should be personalised. We are using longitudinal biological data to bring about this revolution. A revolution where not only will people be in control of their own future but also in control of how they contribute to the future of humanity through the use of their data.</p>\n\n<p>This product is just the first step towards a platform technology that will serve as the interface between the biological and digital world. It&#39;s an incredibly exciting time to come on board where you can really make a difference. Find out more at <a href=\"http://www.chronomics.com\" target=\"_blank\" rel=\"nofollow\">www.chronomics.com</a></p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£30k – £60k",
+        "equity": "0.0% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Founder",
+        "url": "https://angel.co/u/rob-thompson-3",
+        "name": "Rob Thompson",
+        "avatar": "https://photos.angel.co/users/2298068-medium_jpg?1508327170"
+      },
+      "refs": {
+        "angelListId": "500453",
+        "angelListUrl": "https://angel.co/company/chronomics/jobs/500453-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Creative Data Scientist",
+      "description": "We are looking for a knowledgeable and skilled researcher/engineer in AI/Machine Learning who wants to make a difference and help bring about a proactive healthcare revolution. As an early stage startup we need someone with a can-do attitude who is happy to jump in and get their hands dirty. This might include anything from tweaking our current models, developing new modelling/algorithmic strategies and training novel models that will be included as part of our product. This person will play a critical role in the team as a Creative Data Scientist, developing sophisticated biomarker and prediction algorithms that will not only have huge value for the research community but will also have lasting health benefits for people around the world.\n\nAs an early stage startup with big ambitions you will get the chance to work with numerous different technologies, access a unique genetic dataset, collaborate with top academic experts, get your work published, have a say in how we drive the company forward and learn a ton along the way. An interest in understanding biology and disease is a must.\n\nNormally wear a suit to interviews? Probably not your gig.\n\nEssential Skills:\n\n* A degree in Mathematics, Statistics, Computer Science or other quantitative field.\n* Good understanding of Statistical / Machine Learning methods.\n* Programing skills in at least one of Python/R/C++.\n* Relative experience in a research or commercial environment.\n* Ability to create innovative technical concepts to solve real-world Machine Learning problems.\n* Strong critical thinking, creativity and communication skills.\n* Passion to develop a great product as part of an agile team.\n* Bias towards fast delivery while having high quality standards.\n\nNice to have:\n\n*  PhD in a quantitative field. \n*  Experience with AWS. \n*  Experience in epidemiological research and longitudinal data analysis.\n*  NoSQL DBs like MongoDB.\n*  Familiarity with biological concepts and large omics datasets (e.g. genomics data).\n*  A good track record of Statistical / Machine Learning publications.\n\nBenefits \n* Share options so early contributors benefit from our success. \n* Flexible working hours mean a family & life friendly environment. \n* Fortnightly brainstorming team lunches. \n* Flexible office or home working. \n* We'll provide the laptop and IT you need to do your best work (macbook pro with monitors - you name it!). \n* Book budget - order it no questions asked. \n* Friday pub sessions.",
+      "descriptionHtml": "<p>We are looking for a knowledgeable and skilled researcher/engineer in AI/Machine Learning who wants to make a difference and help bring about a proactive healthcare revolution. As an early stage startup we need someone with a can-do attitude who is happy to jump in and get their hands dirty. This might include anything from tweaking our current models, developing new modelling/algorithmic strategies and training novel models that will be included as part of our product. This person will play a critical role in the team as a Creative Data Scientist, developing sophisticated biomarker and prediction algorithms that will not only have huge value for the research community but will also have lasting health benefits for people around the world.</p>\n\n<p>As an early stage startup with big ambitions you will get the chance to work with numerous different technologies, access a unique genetic dataset, collaborate with top academic experts, get your work published, have a say in how we drive the company forward and learn a ton along the way. An interest in understanding biology and disease is a must.</p>\n\n<p>Normally wear a suit to interviews? Probably not your gig.</p>\n\n<p>Essential Skills:</p>\n\n<ul>\n<li>A degree in Mathematics, Statistics, Computer Science or other quantitative field.</li>\n<li>Good understanding of Statistical / Machine Learning methods.</li>\n<li>Programing skills in at least one of Python/R/C++.</li>\n<li>Relative experience in a research or commercial environment.</li>\n<li>Ability to create innovative technical concepts to solve real-world Machine Learning problems.</li>\n<li>Strong critical thinking, creativity and communication skills.</li>\n<li>Passion to develop a great product as part of an agile team.</li>\n<li>Bias towards fast delivery while having high quality standards.</li>\n</ul>\n\n<p>Nice to have:</p>\n\n<ul>\n<li> PhD in a quantitative field. </li>\n<li> Experience with AWS. </li>\n<li> Experience in epidemiological research and longitudinal data analysis.</li>\n<li> NoSQL DBs like MongoDB.</li>\n<li> Familiarity with biological concepts and large omics datasets (e.g. genomics data).</li>\n<li> A good track record of Statistical / Machine Learning publications.</li>\n</ul>\n\n<p>Benefits </p>\n\n<ul>\n<li>Share options so early contributors benefit from our success. </li>\n<li>Flexible working hours mean a family &amp; life friendly environment. </li>\n<li>Fortnightly brainstorming team lunches. </li>\n<li>Flexible office or home working. </li>\n<li>We&#39;ll provide the laptop and IT you need to do your best work (macbook pro with monitors - you name it!). </li>\n<li>Book budget - order it no questions asked. </li>\n<li>Friday pub sessions.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Cambridge"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Genetic Algorithms",
+        "Programming in R"
+      ],
+      "payment": {
+        "salary": "£30k – £60k",
+        "equity": "0.0% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Founder",
+        "url": "https://angel.co/u/rob-thompson-3",
+        "name": "Rob Thompson",
+        "avatar": "https://photos.angel.co/users/2298068-medium_jpg?1508327170"
+      },
+      "refs": {
+        "angelListId": "388613",
+        "angelListUrl": "https://angel.co/company/chronomics/jobs/388613-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Customer Success Manager - Cutting edge health tech startup",
+      "description": "Our mission: \n\nOur health and wellbeing are governed more by our environment and lifestyle than by our genes. At Chronomics we enable you to quantify how your environment and lifestyle is affecting your health, so that you can make positive changes to live healthier and happier for longer. \n\nChronomics is an ambitious health tech start-up that believes people should be in charge of their own health. Health management should be proactive, not reactive and it should be personalised. We are using longitudinal biological data to bring about this revolution. A revolution where not only will people be in control of their own future but also in control of how they contribute to the future of humanity through the use of their data.\n\nThis product is just the first step towards a platform technology that will serve as the interface between the biological and digital world. It's an incredibly exciting time to come on board where you can really make a difference. Find out more at www.chronomics.com\n\nThe role:\n\nWe are a user-centric organisation and we want to empower our users to lead healthier lives. You will be key to this as the face of Chronomics, where you will act as a brand ambassador by building strong relationships with new and existing users and be the go-to for them. You will communicate, listen and respond effectively to their questions and concerns to enable a seamless user experience, high satisfaction and retention. \n\nYou’ll also act as the voice of the user internally by collecting, analysing and sharing feedback and insights from your interactions to our product, operations and growth teams. You’ll be part of a continuously improving capability, and will drive improvement in our internal user processes, as well as using insights to drive improvements organisation-wide. We’re a fast-growing company and as we scale, you’ll have the opportunity to contribute to and influence our user engagement and experience strategy. \n \nEssential Skills:\n\n•\tA genuine interest in putting the customer first\n•\t‘Thick skin’ with an ability to successfully and patiently handle complaints \n•\tGenuine interest in learning about our product to successfully respond to customers\n•\tExceptional communicator with a diverse range of customers globally \n•\tStrong analytical and critical thinking to analyse customer feedback \n•\tExcellent organisational skills to prioritise and manage in a fast-changing environment \n•\tFlexibility and the ability to be open minded when things undoubtedly change\n•\tTechnical proficiency in web-based software\n\nNice to have:\n•\tExperience with Zendesk/ Freshdesk/ Intercom\n\nPlease apply online via: \nhttps://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeHn-H-_4fLPU",
+      "descriptionHtml": "<p>Our mission: </p>\n\n<p>Our health and wellbeing are governed more by our environment and lifestyle than by our genes. At Chronomics we enable you to quantify how your environment and lifestyle is affecting your health, so that you can make positive changes to live healthier and happier for longer. </p>\n\n<p>Chronomics is an ambitious health tech start-up that believes people should be in charge of their own health. Health management should be proactive, not reactive and it should be personalised. We are using longitudinal biological data to bring about this revolution. A revolution where not only will people be in control of their own future but also in control of how they contribute to the future of humanity through the use of their data.</p>\n\n<p>This product is just the first step towards a platform technology that will serve as the interface between the biological and digital world. It&#39;s an incredibly exciting time to come on board where you can really make a difference. Find out more at <a href=\"http://www.chronomics.com\" target=\"_blank\" rel=\"nofollow\">www.chronomics.com</a></p>\n\n<p>The role:</p>\n\n<p>We are a user-centric organisation and we want to empower our users to lead healthier lives. You will be key to this as the face of Chronomics, where you will act as a brand ambassador by building strong relationships with new and existing users and be the go-to for them. You will communicate, listen and respond effectively to their questions and concerns to enable a seamless user experience, high satisfaction and retention. </p>\n\n<p>You’ll also act as the voice of the user internally by collecting, analysing and sharing feedback and insights from your interactions to our product, operations and growth teams. You’ll be part of a continuously improving capability, and will drive improvement in our internal user processes, as well as using insights to drive improvements organisation-wide. We’re a fast-growing company and as we scale, you’ll have the opportunity to contribute to and influence our user engagement and experience strategy. </p>\n\n<p>Essential Skills:</p>\n\n<p>• A genuine interest in putting the customer first<br>\n• ‘Thick skin’ with an ability to successfully and patiently handle complaints <br>\n• Genuine interest in learning about our product to successfully respond to customers<br>\n• Exceptional communicator with a diverse range of customers globally <br>\n• Strong analytical and critical thinking to analyse customer feedback <br>\n• Excellent organisational skills to prioritise and manage in a fast-changing environment <br>\n• Flexibility and the ability to be open minded when things undoubtedly change<br>\n• Technical proficiency in web-based software</p>\n\n<p>Nice to have:<br>\n• Experience with Zendesk/ Freshdesk/ Intercom</p>\n\n<p>Please apply online via: <br>\n<a href=\"https://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeHn-H-_4fLPU\" target=\"_blank\" rel=\"nofollow\">https://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeHn-H-_4fLPU</a></p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Head of Operations",
+        "role": "Employee",
+        "url": "https://angel.co/u/sana-wahid",
+        "name": "Sana Wahid",
+        "avatar": "https://photos.angel.co/users/7274586-medium_jpg?1527667589"
+      },
+      "refs": {
+        "angelListId": "701886",
+        "angelListUrl": "https://angel.co/company/chronomics/jobs/701886-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Digital Marketer - Cutting edge health tech start-up",
+      "description": "We are looking for a experienced digital marketer who wants to make a difference and help bring about a proactive healthcare revolution. This person will play a critical role in the team combining initiative, creativity and analytics to spearhead our marketing and sales team and have a crucial say in how we drive the company forward.\n\nAs an early stage start-up, we'll need you to wear many hats and get involved in other areas of the business as needed. Some of your other responsibilities may include:\n\n* Dealing with customer support issues.\n* Creating content for our media channels.\n* Building and engaging customers on social platforms.\n* Handling new business enquiries.\n* Managing ad campaigns on Google or Facebook.\n* Relaying customer feedback to developers.\n* Testing product functionality.\n\nEssential Skills:\n\n* Strong written and verbal communication skills\n* Highly organized with strong time-management skills and the ability to meet deadlines.\n* Deep understanding of digital marketing approaches.\n* Commercially astute.\n* Bags of initiative and flawless attention to detail.\n* Positive, ambitious and persistent.\n* Familiarity with marketing tools (e.g. CRM, Online analytics, Google Adwords etc)\n* Enthusiastic can-do attitude.\n* Motivated to make a difference.\n* Team player who can manage their own workload and day-to-day tasks\n\nNice to have:\n\n* Relevant industry experience.\n* B2C and B2B2C marketing experience\n* Worked in start-up and growth stage companies\n\n\nBenefits \n* Share options so early contributors benefit from our success. \n* Flexible working hours mean a family & life friendly environment. \n* Fortnightly brainstorming team lunches. \n* Flexible office or home working. \n* We'll provide the laptop and IT you need to do your best work (macbook pro with monitors - you name it!). \n* Book budget - order it no questions asked. \n* Friday pub sessions.\n\nApply at:\nhttps://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeB5zfJbVSSaY?trackingTag=angelList",
+      "descriptionHtml": "<p>We are looking for a experienced digital marketer who wants to make a difference and help bring about a proactive healthcare revolution. This person will play a critical role in the team combining initiative, creativity and analytics to spearhead our marketing and sales team and have a crucial say in how we drive the company forward.</p>\n\n<p>As an early stage start-up, we&#39;ll need you to wear many hats and get involved in other areas of the business as needed. Some of your other responsibilities may include:</p>\n\n<ul>\n<li>Dealing with customer support issues.</li>\n<li>Creating content for our media channels.</li>\n<li>Building and engaging customers on social platforms.</li>\n<li>Handling new business enquiries.</li>\n<li>Managing ad campaigns on Google or Facebook.</li>\n<li>Relaying customer feedback to developers.</li>\n<li>Testing product functionality.</li>\n</ul>\n\n<p>Essential Skills:</p>\n\n<ul>\n<li>Strong written and verbal communication skills</li>\n<li>Highly organized with strong time-management skills and the ability to meet deadlines.</li>\n<li>Deep understanding of digital marketing approaches.</li>\n<li>Commercially astute.</li>\n<li>Bags of initiative and flawless attention to detail.</li>\n<li>Positive, ambitious and persistent.</li>\n<li>Familiarity with marketing tools (e.g. CRM, Online analytics, Google Adwords etc)</li>\n<li>Enthusiastic can-do attitude.</li>\n<li>Motivated to make a difference.</li>\n<li>Team player who can manage their own workload and day-to-day tasks</li>\n</ul>\n\n<p>Nice to have:</p>\n\n<ul>\n<li>Relevant industry experience.</li>\n<li>B2C and B2B2C marketing experience</li>\n<li>Worked in start-up and growth stage companies</li>\n</ul>\n\n<p>Benefits </p>\n\n<ul>\n<li>Share options so early contributors benefit from our success. </li>\n<li>Flexible working hours mean a family &amp; life friendly environment. </li>\n<li>Fortnightly brainstorming team lunches. </li>\n<li>Flexible office or home working. </li>\n<li>We&#39;ll provide the laptop and IT you need to do your best work (macbook pro with monitors - you name it!). </li>\n<li>Book budget - order it no questions asked. </li>\n<li>Friday pub sessions.</li>\n</ul>\n\n<p>Apply at:<br>\n<a href=\"https://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeB5zfJbVSSaY?trackingTag=angelList\" target=\"_blank\" rel=\"nofollow\">https://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeB5zfJbVSSaY?trackingTag=angelList</a></p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Facebook Advertising",
+        "Digital Marketing",
+        "Google Adwords"
+      ],
+      "payment": {
+        "salary": "£20k – £50k",
+        "equity": "0.0% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Founder",
+        "url": "https://angel.co/u/rob-thompson-3",
+        "name": "Rob Thompson",
+        "avatar": "https://photos.angel.co/users/2298068-medium_jpg?1508327170"
+      },
+      "refs": {
+        "angelListId": "388616",
+        "angelListUrl": "https://angel.co/company/chronomics/jobs/388616-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Finance & Legal Analyst - Cutting edge health tech startup",
+      "description": "Our mission: \n\nOur health and wellbeing are governed more by our environment and lifestyle than by our genes. At Chronomics we enable you to quantify how your environment and lifestyle is affecting your health, so that you can make positive changes to live healthier and happier for longer. \n\nChronomics is an ambitious health tech start-up that believes people should be in charge of their own health. Health management should be proactive, not reactive and it should be personalised. We are using longitudinal biological data to bring about this revolution. A revolution where not only will people be in control of their own future but also in control of how they contribute to the future of humanity through the use of their data.\n\nThis product is just the first step towards a platform technology that will serve as the interface between the biological and digital world. It's an incredibly exciting time to come on board where you can really make a difference. Find out more at www.chronomics.com\n\nThe role:\n\nAt Chronomics, we pride ourselves in making data-driven decisions and having integrity in our relations with suppliers, partners and customers. In this role, you’ll drive visibility and control over the financial health of our company and ensure regulatory compliance with suppliers, partners and customer agreements. \n\nYou’ll manage the overall accounting and bookkeeping for the organization including accounts payable and receivable, banking, and payroll functions. You’ll provide monthly financial reporting and analysis of financial statements and quarterly VAT & sales tax returns. You’ll work with management to drive the budget process and variance analysis internally, and with vendors and staff in day to day financial management including issuing invoices, managing and establishing vendor accounts and relationships and managing staff expenses.\n\nOn the legal side, you’ll coordinate and review legal negotiations of NDA’s, contracts & agreements with suppliers, distributors and clients. You’ll also assist in ensuring compliance of company policies, internal control procedures & manuals are compliant with regulatory requirements. You’ll be part of a dynamic, fast-growing organisation where you’ll have the opportunity to learn fast and contribute significantly! \n \nEssential Skills:\n\n•\tAccountancy qualification - CIMA, ACCA or otherwise AAT\n•\tStrong analytical skills for interpreting financial information and assessing new business situations\n•\tAbility to read, analyse, and interpret technical documents, procedures & regulations\n•\tExcellent communication skills to liaise with a wide variety of stakeholders \n•\tExceptional attention to detail\n\nNice to have:\n\n•\tExperience in a fast-paced start-up environment\n\nPlease apply online via:\nhttps://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeH8C-4Qmyrlq",
+      "descriptionHtml": "<p>Our mission: </p>\n\n<p>Our health and wellbeing are governed more by our environment and lifestyle than by our genes. At Chronomics we enable you to quantify how your environment and lifestyle is affecting your health, so that you can make positive changes to live healthier and happier for longer. </p>\n\n<p>Chronomics is an ambitious health tech start-up that believes people should be in charge of their own health. Health management should be proactive, not reactive and it should be personalised. We are using longitudinal biological data to bring about this revolution. A revolution where not only will people be in control of their own future but also in control of how they contribute to the future of humanity through the use of their data.</p>\n\n<p>This product is just the first step towards a platform technology that will serve as the interface between the biological and digital world. It&#39;s an incredibly exciting time to come on board where you can really make a difference. Find out more at <a href=\"http://www.chronomics.com\" target=\"_blank\" rel=\"nofollow\">www.chronomics.com</a></p>\n\n<p>The role:</p>\n\n<p>At Chronomics, we pride ourselves in making data-driven decisions and having integrity in our relations with suppliers, partners and customers. In this role, you’ll drive visibility and control over the financial health of our company and ensure regulatory compliance with suppliers, partners and customer agreements. </p>\n\n<p>You’ll manage the overall accounting and bookkeeping for the organization including accounts payable and receivable, banking, and payroll functions. You’ll provide monthly financial reporting and analysis of financial statements and quarterly VAT &amp; sales tax returns. You’ll work with management to drive the budget process and variance analysis internally, and with vendors and staff in day to day financial management including issuing invoices, managing and establishing vendor accounts and relationships and managing staff expenses.</p>\n\n<p>On the legal side, you’ll coordinate and review legal negotiations of NDA’s, contracts &amp; agreements with suppliers, distributors and clients. You’ll also assist in ensuring compliance of company policies, internal control procedures &amp; manuals are compliant with regulatory requirements. You’ll be part of a dynamic, fast-growing organisation where you’ll have the opportunity to learn fast and contribute significantly! </p>\n\n<p>Essential Skills:</p>\n\n<p>• Accountancy qualification - CIMA, ACCA or otherwise AAT<br>\n• Strong analytical skills for interpreting financial information and assessing new business situations<br>\n• Ability to read, analyse, and interpret technical documents, procedures &amp; regulations<br>\n• Excellent communication skills to liaise with a wide variety of stakeholders <br>\n• Exceptional attention to detail</p>\n\n<p>Nice to have:</p>\n\n<p>• Experience in a fast-paced start-up environment</p>\n\n<p>Please apply online via:<br>\n<a href=\"https://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeH8C-4Qmyrlq\" target=\"_blank\" rel=\"nofollow\">https://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeH8C-4Qmyrlq</a></p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Head of Operations",
+        "role": "Employee",
+        "url": "https://angel.co/u/sana-wahid",
+        "name": "Sana Wahid",
+        "avatar": "https://photos.angel.co/users/7274586-medium_jpg?1527667589"
+      },
+      "refs": {
+        "angelListId": "701884",
+        "angelListUrl": "https://angel.co/company/chronomics/jobs/701884-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Head of Growth Marketing",
+      "description": "Our mission:\n \nOur health and wellbeing are governed more by our environment and lifestyle than by our genes. At Chronomics we are making the unseen actionable. We are enabling people across the planet to quantify how environment and lifestyle is affecting health, so that we can each make positive and personalised changes to live healthier and happier for longer.\n\nThe role:\n \nWe are looking for a Head of Growth Marketing to drive global growth of the company and take ownership of all marketing-related activities to drive this growth. Chronomics is leading a health revolution and this person will play a critical role in bringing this revolution to the world. This person will lead our B2C team and provide functional support to our B2B2C sales team. They will play a huge role in defining how we drive the product and company forwards.\n \nAs an early stage company, you’ll be involved in all aspects of the growth of the business and will be expected to be personally driving growth as well as orchestrating it. Some of your responsibilities will include:\n \n-       Accountability for achieving B2C targets.\n-       Driving a focused and dynamic growth marketing plan to build brand recognition and achieve revenue targets.\n-       Build and develop robust digital B2C sales channel, driving engagement and building conversion to drive down CPA. \n-       Responsibility for ensuring a data and analytics focus to growth.\n-       Working with the company at large to ensure growth objectives are being met. \n-       Drive performance marketing via PPC, affiliate, display, social and more.\n-       Grow B2B channel opportunities through lead generation and retention.\n-       Responsible for B2B product and sales collateral.\n-       Develop a content led growth marketing strategy, to reduce reliance on paid sources of traffic and improve our SEO.\n-       Design and implement integrated marketing strategies and campaigns, working with agencies, media companies as required.\n-       Identify and engage in business development opportunities with potential marketing partners.\n-       Grow company coverage with press, social, video and other campaigns.\n-       Champion overall brand and comms.\n-       Develop and grow marketing team.\n-       Play a key role in shaping overall company strategy.\n \nEssential Skills:\n \n-       At least 7 years’ experience in consumer marketing, both digital and above the line, as well as strategic company development.\n-       Experience executing and managing multi-pronged marketing campaigns, including performance marketing, social marketing, brand marketing, content marketing, public relation, digital relationships, affiliate marketing and marketing partnerships.\n-       Track record of driving a marketing team to achieve sales and growth targets.\n-       Highly organised, focused and disciplined with a strong attention to detail and follow through.\n-       Effective writing and presentation skills. \n-       Top analytical skills.\n-       Ability to work in a tight knit senior leadership team that support each other and collaborate closely to deliver excellent results whilst curating a great company culture.\n-       A leader with a humble curiosity to learn and grow as an individual and as part of a team.\n-       Enjoys challenge and considers conflict to be an opportunity.\n-       Natural communicator, sociable, and dynamic, bonds easily with others.\n-       Ambitious, driven to succeed, exceed targets and wants to grow with the company.\n \nNice to have:\n \n-       Relevant industry experience – Health and wellness industries.\n-       Worked at a leading internet company.\n-       Entrepreneurial experience at a similar stage.\n-       Worked in both start-up and growth stage companies.\n \nWho do you need to be?\n \nWe’re about openness, integrity, accessibility and great communication so these should be qualities that you have too. The usability of our products, open exchange of ideas with our collaborators and the commitment to our customer’s data ownership are values we won’t budge on and so we’ll want you to exemplify these too. \n \nWe recognise and respect the work each of us does. You won’t find micro-management or pettiness on our watch. We also have lives outside of our work and that’s just as important as our business. If we have a role to suit you, it’s an incredible opportunity to join not just a start up with an excellent culture, but a community dedicated to making fundamental changes to how we live.  \n \nBenefits:\n \n·      Share options so early contributors benefit from our success.\n·      Flexible working hours mean a family & life friendly environment.\n·      Fortnightly brainstorming team lunches.\n·      Flexible office or home working.\n·      We'll provide the laptop and IT you need to do your best work (macbook pro with monitors - you name it!).\n·      Book budget - order it no questions asked.\n·      Friday pub sessions.\n\nApply at:\nhttps://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeNIHaPsUDHCl?trackingTag=angelList",
+      "descriptionHtml": "<p>Our mission:</p>\n\n<p>Our health and wellbeing are governed more by our environment and lifestyle than by our genes. At Chronomics we are making the unseen actionable. We are enabling people across the planet to quantify how environment and lifestyle is affecting health, so that we can each make positive and personalised changes to live healthier and happier for longer.</p>\n\n<p>The role:</p>\n\n<p>We are looking for a Head of Growth Marketing to drive global growth of the company and take ownership of all marketing-related activities to drive this growth. Chronomics is leading a health revolution and this person will play a critical role in bringing this revolution to the world. This person will lead our B2C team and provide functional support to our B2B2C sales team. They will play a huge role in defining how we drive the product and company forwards.</p>\n\n<p>As an early stage company, you’ll be involved in all aspects of the growth of the business and will be expected to be personally driving growth as well as orchestrating it. Some of your responsibilities will include:</p>\n\n<ul>\n<li>      Accountability for achieving B2C targets.</li>\n<li>      Driving a focused and dynamic growth marketing plan to build brand recognition and achieve revenue targets.</li>\n<li>      Build and develop robust digital B2C sales channel, driving engagement and building conversion to drive down CPA. </li>\n<li>      Responsibility for ensuring a data and analytics focus to growth.</li>\n<li>      Working with the company at large to ensure growth objectives are being met. </li>\n<li>      Drive performance marketing via PPC, affiliate, display, social and more.</li>\n<li>      Grow B2B channel opportunities through lead generation and retention.</li>\n<li>      Responsible for B2B product and sales collateral.</li>\n<li>      Develop a content led growth marketing strategy, to reduce reliance on paid sources of traffic and improve our SEO.</li>\n<li>      Design and implement integrated marketing strategies and campaigns, working with agencies, media companies as required.</li>\n<li>      Identify and engage in business development opportunities with potential marketing partners.</li>\n<li>      Grow company coverage with press, social, video and other campaigns.</li>\n<li>      Champion overall brand and comms.</li>\n<li>      Develop and grow marketing team.</li>\n<li>      Play a key role in shaping overall company strategy.</li>\n</ul>\n\n<p>Essential Skills:</p>\n\n<ul>\n<li>      At least 7 years’ experience in consumer marketing, both digital and above the line, as well as strategic company development.</li>\n<li>      Experience executing and managing multi-pronged marketing campaigns, including performance marketing, social marketing, brand marketing, content marketing, public relation, digital relationships, affiliate marketing and marketing partnerships.</li>\n<li>      Track record of driving a marketing team to achieve sales and growth targets.</li>\n<li>      Highly organised, focused and disciplined with a strong attention to detail and follow through.</li>\n<li>      Effective writing and presentation skills. </li>\n<li>      Top analytical skills.</li>\n<li>      Ability to work in a tight knit senior leadership team that support each other and collaborate closely to deliver excellent results whilst curating a great company culture.</li>\n<li>      A leader with a humble curiosity to learn and grow as an individual and as part of a team.</li>\n<li>      Enjoys challenge and considers conflict to be an opportunity.</li>\n<li>      Natural communicator, sociable, and dynamic, bonds easily with others.</li>\n<li>      Ambitious, driven to succeed, exceed targets and wants to grow with the company.</li>\n</ul>\n\n<p>Nice to have:</p>\n\n<ul>\n<li>      Relevant industry experience – Health and wellness industries.</li>\n<li>      Worked at a leading internet company.</li>\n<li>      Entrepreneurial experience at a similar stage.</li>\n<li>      Worked in both start-up and growth stage companies.</li>\n</ul>\n\n<p>Who do you need to be?</p>\n\n<p>We’re about openness, integrity, accessibility and great communication so these should be qualities that you have too. The usability of our products, open exchange of ideas with our collaborators and the commitment to our customer’s data ownership are values we won’t budge on and so we’ll want you to exemplify these too. </p>\n\n<p>We recognise and respect the work each of us does. You won’t find micro-management or pettiness on our watch. We also have lives outside of our work and that’s just as important as our business. If we have a role to suit you, it’s an incredible opportunity to join not just a start up with an excellent culture, but a community dedicated to making fundamental changes to how we live.  </p>\n\n<p>Benefits:</p>\n\n<p>·      Share options so early contributors benefit from our success.<br>\n·      Flexible working hours mean a family &amp; life friendly environment.<br>\n·      Fortnightly brainstorming team lunches.<br>\n·      Flexible office or home working.<br>\n·      We&#39;ll provide the laptop and IT you need to do your best work (macbook pro with monitors - you name it!).<br>\n·      Book budget - order it no questions asked.<br>\n·      Friday pub sessions.</p>\n\n<p>Apply at:<br>\n<a href=\"https://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeNIHaPsUDHCl?trackingTag=angelList\" target=\"_blank\" rel=\"nofollow\">https://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeNIHaPsUDHCl?trackingTag=angelList</a></p>\n",
+      "position": "full-time",
+      "experience": 7,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Product Marketing",
+        "Content Marketing",
+        "Digital Marketing",
+        "Channel Marketing",
+        "Growth Marketing"
+      ],
+      "payment": {
+        "salary": "$30k – $70k",
+        "equity": "0.0% – 0.5%"
+      },
+      "recruiter": {
+        "title": "Founder",
+        "role": "Employee",
+        "url": "https://angel.co/u/tom-stubbs-2",
+        "name": "Tom Stubbs",
+        "avatar": "https://photos.angel.co/users/7340565-medium_jpg?1520526318"
+      },
+      "refs": {
+        "angelListId": "579810",
+        "angelListUrl": "https://angel.co/company/chronomics/jobs/579810-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Operations Manager - Cutting edge health tech startup",
+      "description": "Our mission: \n\nOur health and wellbeing are governed more by our environment and lifestyle than by our genes. At Chronomics we enable you to quantify how your environment and lifestyle is affecting your health, so that you can make positive changes to live healthier and happier for longer. \n\nChronomics is an ambitious health tech start-up that believes people should be in charge of their own health. Health management should be proactive, not reactive and it should be personalised. We are using longitudinal biological data to bring about this revolution. A revolution where not only will people be in control of their own future but also in control of how they contribute to the future of humanity through the use of their data.\n\nThis product is just the first step towards a platform technology that will serve as the interface between the biological and digital world. It's an incredibly exciting time to come on board where you can really make a difference. Find out more at www.chronomics.com\n\nThe role:\n\nAt Chronomics, we’re constantly evolving the way we do things, and you’ll be core to making this happen! As we partner with larger organisations, you’ll be at the heart of those relationships, project managing, streamlining and improving the end-to-end partner journey. You’ll lead the customisation, implementation and training for our partners, work with key stakeholders from their organisations to embed our product, and project manage their contracts within Chronomics to ensure they are delivered to expectation. \n\nAs that critical link between us and our partners, you’ll ensure we exceed our partner expectations internally with our operations, product and service. You’ll work closely across these functions to develop, standardise and continuously improve our offering to serve these contracts faster, cheaper and better. \n \nEssential Skills:\n\n•\tExperience in a project management, change management or operations role in a fast-paced environment \n•\tAbility to independently mobilise new initiatives \n•\tHighly organised and detailed with great project management skills\n•\tAbility to develop and cultivate relationships, navigate sensitivities, and manage input from stakeholders  \n•\tAble to operate effectively both in a collaborative team and autonomously\n•\tData driven to drive continuous improvement \n•\tDriven, energetic, tenacious and willing to learn fast\n\nNice to have:\n•\tExperience in a high growth start-up\n\nPlease apply online via:\nhttps://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeNqb7pZmWkxc",
+      "descriptionHtml": "<p>Our mission: </p>\n\n<p>Our health and wellbeing are governed more by our environment and lifestyle than by our genes. At Chronomics we enable you to quantify how your environment and lifestyle is affecting your health, so that you can make positive changes to live healthier and happier for longer. </p>\n\n<p>Chronomics is an ambitious health tech start-up that believes people should be in charge of their own health. Health management should be proactive, not reactive and it should be personalised. We are using longitudinal biological data to bring about this revolution. A revolution where not only will people be in control of their own future but also in control of how they contribute to the future of humanity through the use of their data.</p>\n\n<p>This product is just the first step towards a platform technology that will serve as the interface between the biological and digital world. It&#39;s an incredibly exciting time to come on board where you can really make a difference. Find out more at <a href=\"http://www.chronomics.com\" target=\"_blank\" rel=\"nofollow\">www.chronomics.com</a></p>\n\n<p>The role:</p>\n\n<p>At Chronomics, we’re constantly evolving the way we do things, and you’ll be core to making this happen! As we partner with larger organisations, you’ll be at the heart of those relationships, project managing, streamlining and improving the end-to-end partner journey. You’ll lead the customisation, implementation and training for our partners, work with key stakeholders from their organisations to embed our product, and project manage their contracts within Chronomics to ensure they are delivered to expectation. </p>\n\n<p>As that critical link between us and our partners, you’ll ensure we exceed our partner expectations internally with our operations, product and service. You’ll work closely across these functions to develop, standardise and continuously improve our offering to serve these contracts faster, cheaper and better. </p>\n\n<p>Essential Skills:</p>\n\n<p>• Experience in a project management, change management or operations role in a fast-paced environment <br>\n• Ability to independently mobilise new initiatives <br>\n• Highly organised and detailed with great project management skills<br>\n• Ability to develop and cultivate relationships, navigate sensitivities, and manage input from stakeholders<br><br>\n• Able to operate effectively both in a collaborative team and autonomously<br>\n• Data driven to drive continuous improvement <br>\n• Driven, energetic, tenacious and willing to learn fast</p>\n\n<p>Nice to have:<br>\n• Experience in a high growth start-up</p>\n\n<p>Please apply online via:<br>\n<a href=\"https://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeNqb7pZmWkxc\" target=\"_blank\" rel=\"nofollow\">https://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeNqb7pZmWkxc</a></p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Head of Operations",
+        "role": "Employee",
+        "url": "https://angel.co/u/sana-wahid",
+        "name": "Sana Wahid",
+        "avatar": "https://photos.angel.co/users/7274586-medium_jpg?1527667589"
+      },
+      "refs": {
+        "angelListId": "701888",
+        "angelListUrl": "https://angel.co/company/chronomics/jobs/701888-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Sales Executive - Cutting edge health tech start-up",
+      "description": "Our mission:\n \nOur health and wellbeing are governed more by our environment and lifestyle than by our genes. At Chronomics we are making the unseen actionable. We are enabling people across the planet to quantify how environment and lifestyle is affecting health, so that we can each make positive and personalised changes to live healthier and happier for longer.\n \nThe role:\n \nWe are looking for a sales executive who loves nothing more than bringing home deals. We are looking for someone with a competitive nature, who relishes a target and results driven role. Chronomics is leading a health revolution and this person will play a critical role in bringing this revolution to the world. This person will be expected to join our sales team and lead from the front. Through their initiative and actions, this person will have a huge say in how we drive the company forwards.\n \nAs an early stage start-up, you’ll be involved in all aspects of the sales process, working as part of a driven team building a billion dollar future. Some of your responsibilities will include:\n \n-       Achieve monthly growth revenue targets.\n-       Find, develop and close B2B contracts with new clients in global Wellness and Health markets. To include Clinics, Gyms, Spa, Corporate Wellness, Longevity, Healthcare.\n-       Drive lead generation to target and identify new opportunities. \n-       Manage prospects swiftly and efficiently through a structured sales funnel.\n-       Document and maintain CRM at all stages.\n-       Establish and evidence funnel to support delivering future targets.\n-       Maintain accurate sales forecasting.\n-       Share new learnings with team.\n-       Relaying customer feedback to developers.\n-       Testing product functionality.\n-       Handling new business enquiries.\n \nEssential Skills:\n \n-       Driven towards action not deliberation.\n-       Proven sales professional with experience of driving and closing deals.\n-       Highly organised, focused and disciplined.\n-       Effective writing and presentation skills. \n-       Top analytical skills.\n-       Natural communicator, sociable, and dynamic, bonds easily with others. \n-       A good reader of people.\n-       Resilient to rejection.\n-       Competitive.\n-       Resilient and tenacious – loves selling and gets a buzz out of closing every deal.\n-       Persuasive.\n-       Energetic and hard working. \n-       Self-motivated, takes initiative.  \n-       Eager listener and fast learner.\n-       Dependable and accountable. Not easily distracted.\n-       Not fazed by confrontation. \n-       Ambitious, driven to succeed, and wants to grow with the company.\n-       Comfortable with digital technology, processes and systems.\n \nNice to have:\n \n·      Relevant industry experience.\n·      B2B and B2B2C sales experience.\n·      Worked in start-up and growth stage companies.\n \nWho are we?\n \nChronomics is an ambitious health tech start-up that believes people should be in charge of their own health. Health management should be proactive, not reactive and it should be personalised.\n \nWe are using longitudinal biological data to bring about this revolution. A revolution where not only will people be in control of their own future but also in control of how they contribute to the future of humanity through the use of their data. \n \nWe've combined cutting edge wetlab and computational approaches with a motivated, expert team to go from founding to launching our product in less than six months. And this is only the beginning.\n \nThis product is just the first step towards a platform technology that will serve as the interface between the biological and digital world. It’s an incredibly exciting time to come on board.\n \nWho do you need to be?\n \nWe’re about openness, integrity, accessibility and great communication so these should be qualities that you have too. The usability of our products, open exchange of ideas with our collaborators and the commitment to our customer’s data ownership are values we won’t budge on and so we’ll want you to exemplify these too. \n \nWe recognise and respect the work each of us does. You won’t find micro-management or pettiness on our watch. If we have a role to suit you, it’s an incredible opportunity to join not just a start up with an excellent culture, but a community dedicated to making fundamental changes to how we live.  \n \nBenefits:\n \n·      Share options so early contributors benefit from our success.\n·      Flexible working hours mean a family & life friendly environment.\n·      Fortnightly brainstorming team lunches.\n·      Flexible office or home working.\n·      We'll provide the laptop and IT you need to do your best work (macbook pro with monitors - you name it!).\n·      Book budget - order it no questions asked.\n·      Friday pub sessions.\n \nApply at:\nhttps://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeAY1k73ypvQG?trackingTag=angelList",
+      "descriptionHtml": "<p>Our mission:</p>\n\n<p>Our health and wellbeing are governed more by our environment and lifestyle than by our genes. At Chronomics we are making the unseen actionable. We are enabling people across the planet to quantify how environment and lifestyle is affecting health, so that we can each make positive and personalised changes to live healthier and happier for longer.</p>\n\n<p>The role:</p>\n\n<p>We are looking for a sales executive who loves nothing more than bringing home deals. We are looking for someone with a competitive nature, who relishes a target and results driven role. Chronomics is leading a health revolution and this person will play a critical role in bringing this revolution to the world. This person will be expected to join our sales team and lead from the front. Through their initiative and actions, this person will have a huge say in how we drive the company forwards.</p>\n\n<p>As an early stage start-up, you’ll be involved in all aspects of the sales process, working as part of a driven team building a billion dollar future. Some of your responsibilities will include:</p>\n\n<ul>\n<li>      Achieve monthly growth revenue targets.</li>\n<li>      Find, develop and close B2B contracts with new clients in global Wellness and Health markets. To include Clinics, Gyms, Spa, Corporate Wellness, Longevity, Healthcare.</li>\n<li>      Drive lead generation to target and identify new opportunities. </li>\n<li>      Manage prospects swiftly and efficiently through a structured sales funnel.</li>\n<li>      Document and maintain CRM at all stages.</li>\n<li>      Establish and evidence funnel to support delivering future targets.</li>\n<li>      Maintain accurate sales forecasting.</li>\n<li>      Share new learnings with team.</li>\n<li>      Relaying customer feedback to developers.</li>\n<li>      Testing product functionality.</li>\n<li>      Handling new business enquiries.</li>\n</ul>\n\n<p>Essential Skills:</p>\n\n<ul>\n<li>      Driven towards action not deliberation.</li>\n<li>      Proven sales professional with experience of driving and closing deals.</li>\n<li>      Highly organised, focused and disciplined.</li>\n<li>      Effective writing and presentation skills. </li>\n<li>      Top analytical skills.</li>\n<li>      Natural communicator, sociable, and dynamic, bonds easily with others. </li>\n<li>      A good reader of people.</li>\n<li>      Resilient to rejection.</li>\n<li>      Competitive.</li>\n<li>      Resilient and tenacious – loves selling and gets a buzz out of closing every deal.</li>\n<li>      Persuasive.</li>\n<li>      Energetic and hard working. </li>\n<li>      Self-motivated, takes initiative.<br></li>\n<li>      Eager listener and fast learner.</li>\n<li>      Dependable and accountable. Not easily distracted.</li>\n<li>      Not fazed by confrontation. </li>\n<li>      Ambitious, driven to succeed, and wants to grow with the company.</li>\n<li>      Comfortable with digital technology, processes and systems.</li>\n</ul>\n\n<p>Nice to have:</p>\n\n<p>·      Relevant industry experience.<br>\n·      B2B and B2B2C sales experience.<br>\n·      Worked in start-up and growth stage companies.</p>\n\n<p>Who are we?</p>\n\n<p>Chronomics is an ambitious health tech start-up that believes people should be in charge of their own health. Health management should be proactive, not reactive and it should be personalised.</p>\n\n<p>We are using longitudinal biological data to bring about this revolution. A revolution where not only will people be in control of their own future but also in control of how they contribute to the future of humanity through the use of their data. </p>\n\n<p>We&#39;ve combined cutting edge wetlab and computational approaches with a motivated, expert team to go from founding to launching our product in less than six months. And this is only the beginning.</p>\n\n<p>This product is just the first step towards a platform technology that will serve as the interface between the biological and digital world. It’s an incredibly exciting time to come on board.</p>\n\n<p>Who do you need to be?</p>\n\n<p>We’re about openness, integrity, accessibility and great communication so these should be qualities that you have too. The usability of our products, open exchange of ideas with our collaborators and the commitment to our customer’s data ownership are values we won’t budge on and so we’ll want you to exemplify these too. </p>\n\n<p>We recognise and respect the work each of us does. You won’t find micro-management or pettiness on our watch. If we have a role to suit you, it’s an incredible opportunity to join not just a start up with an excellent culture, but a community dedicated to making fundamental changes to how we live.  </p>\n\n<p>Benefits:</p>\n\n<p>·      Share options so early contributors benefit from our success.<br>\n·      Flexible working hours mean a family &amp; life friendly environment.<br>\n·      Fortnightly brainstorming team lunches.<br>\n·      Flexible office or home working.<br>\n·      We&#39;ll provide the laptop and IT you need to do your best work (macbook pro with monitors - you name it!).<br>\n·      Book budget - order it no questions asked.<br>\n·      Friday pub sessions.</p>\n\n<p>Apply at:<br>\n<a href=\"https://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeAY1k73ypvQG?trackingTag=angelList\" target=\"_blank\" rel=\"nofollow\">https://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeAY1k73ypvQG?trackingTag=angelList</a></p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$30k – $70k"
+      },
+      "recruiter": {
+        "title": "Founder",
+        "role": "Employee",
+        "url": "https://angel.co/u/tom-stubbs-2",
+        "name": "Tom Stubbs",
+        "avatar": "https://photos.angel.co/users/7340565-medium_jpg?1520526318"
+      },
+      "refs": {
+        "angelListId": "579800",
+        "angelListUrl": "https://angel.co/company/chronomics/jobs/579800-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Talent & HR Manager - Cutting edge health tech startup",
+      "description": "Our mission: \n\nOur health and wellbeing are governed more by our environment and lifestyle than by our genes. At Chronomics we enable you to quantify how your environment and lifestyle is affecting your health, so that you can make positive changes to live healthier and happier for longer. \n\nChronomics is an ambitious health tech start-up that believes people should be in charge of their own health. Health management should be proactive, not reactive and it should be personalised. We are using longitudinal biological data to bring about this revolution. A revolution where not only will people be in control of their own future but also in control of how they contribute to the future of humanity through the use of their data.\n\nThis product is just the first step towards a platform technology that will serve as the interface between the biological and digital world. It's an incredibly exciting time to come on board where you can really make a difference. Find out more at www.chronomics.com\n\nThe role: \n\nAt the core of Chronomics is our people. Each member of the Chronomics family provides their own unique skill set that enable Chronomics to dream big and make the unthinkable possible. You’ll help us to grow the team by coordinating our recruitment processes and managing the hiring funnel, from advertisements to interviews to new hire orientations to ensure we attract, hire and retain exceptional people.\n\nAdditionally, you’ll be key to helping us improve our internal people capabilities, whether that’s facilitating training, learning and development materials or supporting with planning and roll out of HR programs, initiatives and employee benefits. You’ll facilitate the management team in building and sustaining a high-performance team culture and contribute to our people strategy as we grow!\n \nEssential Skills:\n\n•\t5+ years recruitment / candidate management / HR experience \n•\tAble to perform successfully in a fast-paced, multi-site, intellectually intense environment\n•\tExcellent interpersonal skills, ability to communicate with all organizational levels\n•\tAn active team player with strong organizational, analytical, and project management skills\n•\tHigh integrity, tact, a positive attitude, and an ability to maintain absolute confidentiality\n•\tExcellent written and verbal communication skills\n\nPlease apply online via: https://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeLrv2Khpe1qD",
+      "descriptionHtml": "<p>Our mission: </p>\n\n<p>Our health and wellbeing are governed more by our environment and lifestyle than by our genes. At Chronomics we enable you to quantify how your environment and lifestyle is affecting your health, so that you can make positive changes to live healthier and happier for longer. </p>\n\n<p>Chronomics is an ambitious health tech start-up that believes people should be in charge of their own health. Health management should be proactive, not reactive and it should be personalised. We are using longitudinal biological data to bring about this revolution. A revolution where not only will people be in control of their own future but also in control of how they contribute to the future of humanity through the use of their data.</p>\n\n<p>This product is just the first step towards a platform technology that will serve as the interface between the biological and digital world. It&#39;s an incredibly exciting time to come on board where you can really make a difference. Find out more at <a href=\"http://www.chronomics.com\" target=\"_blank\" rel=\"nofollow\">www.chronomics.com</a></p>\n\n<p>The role: </p>\n\n<p>At the core of Chronomics is our people. Each member of the Chronomics family provides their own unique skill set that enable Chronomics to dream big and make the unthinkable possible. You’ll help us to grow the team by coordinating our recruitment processes and managing the hiring funnel, from advertisements to interviews to new hire orientations to ensure we attract, hire and retain exceptional people.</p>\n\n<p>Additionally, you’ll be key to helping us improve our internal people capabilities, whether that’s facilitating training, learning and development materials or supporting with planning and roll out of HR programs, initiatives and employee benefits. You’ll facilitate the management team in building and sustaining a high-performance team culture and contribute to our people strategy as we grow!</p>\n\n<p>Essential Skills:</p>\n\n<p>• 5+ years recruitment / candidate management / HR experience <br>\n• Able to perform successfully in a fast-paced, multi-site, intellectually intense environment<br>\n• Excellent interpersonal skills, ability to communicate with all organizational levels<br>\n• An active team player with strong organizational, analytical, and project management skills<br>\n• High integrity, tact, a positive attitude, and an ability to maintain absolute confidentiality<br>\n• Excellent written and verbal communication skills</p>\n\n<p>Please apply online via: <a href=\"https://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeLrv2Khpe1qD\" target=\"_blank\" rel=\"nofollow\">https://hire.withgoogle.com/public/jobs/chronomicscom/view/P_AAAAABlAAAeLrv2Khpe1qD</a></p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Head of Operations",
+        "role": "Employee",
+        "url": "https://angel.co/u/sana-wahid",
+        "name": "Sana Wahid",
+        "avatar": "https://photos.angel.co/users/7274586-medium_jpg?1527667589"
+      },
+      "refs": {
+        "angelListId": "701883",
+        "angelListUrl": "https://angel.co/company/chronomics/jobs/701883-"
+      }
+    }
+  ]
+}

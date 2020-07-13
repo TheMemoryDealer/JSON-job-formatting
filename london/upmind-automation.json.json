@@ -1,0 +1,142 @@
+{
+  "name": "Upmind Automation",
+  "avatar": "https://photos.angel.co/startups/i/6229626-e4fe04d6e673abfe62b21e9b2f1a1732-medium_jpg.jpg?buster=1535537336",
+  "slogan": "Solution Stack for Service Businesses",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://upmind.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Sofia"
+  ],
+  "marketTags": [
+    "Small and Medium Businesses",
+    "Billing",
+    "SaaS",
+    "CRM"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/seb-de-lemos",
+      "name": "Seb de Lemos",
+      "avatar": "https://photos.angel.co/users/8174638-medium_jpg?1535534491",
+      "bioHtml": "Founded hosting companies (sold). Now founded Upmind.com and building something amazing. Also run a pub and small farm in the Cotswolds"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6229626",
+    "angelListUrl": "https://angel.co/company/upmind-automation"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Devops / Systems Administrator",
+      "description": "Our Stack\n\nUpmind is an API-first SAAS application, which means our backend handles all logic and exposes a RESTful API. This backend is built on modern cloud technology (largely AWS, though some Google - Firebase & Compute - also). APIs run as Lambda functions. As we develop further, we are microservicing components in such a way that we may be able to offer them as standalone products in the future. \n\nThe backend also makes use of Laravel and NodeJS. We use a combination of SNS and RabbitMQ for messaging, and MySQL/Firestore/DynamoDB for databases. These stack choices are fluid and subject to challenge from any member of staff – for example, if a new product offering from a cloud provider were to emerge.  We encourage everyone to speak up and have a say; we only want to hire people who bring something extra to the team.\n\nAt Upmind we are great advocates for open source technology, and a substantial portion of our software will be released under GNU GPL3.\n\nThe frontend is built out as a single page application atop the Vue JS framework – utilising a number of Vue's core libraries including VueRouter and VueX. Coupled with Bulma, a modern CSS framework, our primary focus is to deliver a clean, friendly and performant customer experience.\n\nResponsibilities\n\nYou will monitor and improve the health and performance of our backend stack, and assist our backend team as and when requested. \n\nYou will be expected to be part of a team that makes collaborative decisions and discussions. Your work could include the following:\n\nEnsure infrastructure options chosen are suitable for the scale and purposes we expect; Research alternative solutions if not. \nBe aware of new product offerings from Cloud providers and understand how they might benefit us.\nPredict costs. Analyse usage to ensure cost predictions and models are accurate.\nSet budgets and alerts to ensure usage cannot errantly spike due to a coding loop or error.\nEstablish system monitoring (proprietary or open source -- up to you) on all services. Track usage of individual AWS systems.\nSecure our systems and network from malicious attack. Ensure access is locked down, and that firewall rules are sensible.\nManage internal tools such as VPNs and git repositories.\nDocument as you go: record all aspects of our stack and setup, making everyone more efficient.\nSet up deployment methods throughout our stack, enabling continuous development and better collaboration. This will involve deployment on serverless stacks. \nAssist with a backup development system, potentially using ZFS.",
+      "descriptionHtml": "<p>Our Stack</p>\n\n<p>Upmind is an API-first SAAS application, which means our backend handles all logic and exposes a RESTful API. This backend is built on modern cloud technology (largely AWS, though some Google - Firebase &amp; Compute - also). APIs run as Lambda functions. As we develop further, we are microservicing components in such a way that we may be able to offer them as standalone products in the future. </p>\n\n<p>The backend also makes use of Laravel and NodeJS. We use a combination of SNS and RabbitMQ for messaging, and MySQL/Firestore/DynamoDB for databases. These stack choices are fluid and subject to challenge from any member of staff – for example, if a new product offering from a cloud provider were to emerge.  We encourage everyone to speak up and have a say; we only want to hire people who bring something extra to the team.</p>\n\n<p>At Upmind we are great advocates for open source technology, and a substantial portion of our software will be released under GNU GPL3.</p>\n\n<p>The frontend is built out as a single page application atop the Vue JS framework – utilising a number of Vue&#39;s core libraries including VueRouter and VueX. Coupled with Bulma, a modern CSS framework, our primary focus is to deliver a clean, friendly and performant customer experience.</p>\n\n<p>Responsibilities</p>\n\n<p>You will monitor and improve the health and performance of our backend stack, and assist our backend team as and when requested. </p>\n\n<p>You will be expected to be part of a team that makes collaborative decisions and discussions. Your work could include the following:</p>\n\n<p>Ensure infrastructure options chosen are suitable for the scale and purposes we expect; Research alternative solutions if not. <br>\nBe aware of new product offerings from Cloud providers and understand how they might benefit us.<br>\nPredict costs. Analyse usage to ensure cost predictions and models are accurate.<br>\nSet budgets and alerts to ensure usage cannot errantly spike due to a coding loop or error.<br>\nEstablish system monitoring (proprietary or open source -- up to you) on all services. Track usage of individual AWS systems.<br>\nSecure our systems and network from malicious attack. Ensure access is locked down, and that firewall rules are sensible.<br>\nManage internal tools such as VPNs and git repositories.<br>\nDocument as you go: record all aspects of our stack and setup, making everyone more efficient.<br>\nSet up deployment methods throughout our stack, enabling continuous development and better collaboration. This will involve deployment on serverless stacks. <br>\nAssist with a backup development system, potentially using ZFS.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Sofia"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "PHP",
+        "MySQL",
+        "Node.js",
+        "Rabbitmq",
+        "API",
+        "Amazon SNS",
+        "Laravel",
+        "ZFS",
+        "Google Cloud Platform",
+        "AWS"
+      ],
+      "payment": {
+        "salary": "£30k – £60k"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/seb-de-lemos",
+        "name": "Seb de Lemos",
+        "avatar": "https://photos.angel.co/users/8174638-medium_jpg?1535534491"
+      },
+      "refs": {
+        "angelListId": "419410",
+        "angelListUrl": "https://angel.co/company/upmind-automation/jobs/419410-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Vue.Js Developer",
+      "description": "We are putting together a frontend development team of crack javascript developers, led by our experienced Director of UX. We are after at least two competent, experienced and technical javascript developers to join our fun, hard-working team. We can accommodate a range of experience, but are ideally after one senior and one junior developer. All applicants should have decent knowledge of a framework such as React, Angular or Vue - however we are set on using the latter and you must be willing to immerse yourself in it, if you are not already.\n\nYou will be based either in our Coworking office at Paddington (WeWork), or our Coworking space in Sofia (Betahaus). We can be flexible with home-working, but some office-based work is essential for this collaborative project.\n\nOur Stack\n\nUpmind is an API-first SAAS application, which means our backend handles all logic and exposes a RESTful API. This backend is built on modern cloud technology (largely AWS, though some Google - Firebase & Compute - also). As we develop further, we are microservicing components in such a way that we may be able to offer them as standalone products in the future.\n\nThe backend also makes use of Laravel and NodeJS. We use a combination of SNS and RabbitMQ for messaging, and MySQL/Firestore/DynamoDB for databases. These stack choices are fluid and subject to challenge from any member of staff – for example, if a new product offering from a cloud provider were to emerge. We encourage everyone to speak up and have a say; we only want to hire people who bring something extra to the team.\n\nAt Upmind we are great advocates for open source technology, and a substantial portion of our software will be released under GNU GPL3.\n\nOur frontend is built out as a single page application (SPA) atop the Vue JS framework – utilising a number of Vue's core libraries including VueRouter and VueX. Coupled with Bulma, a modern and responsive CSS framework, our primary focus is to deliver a clean, friendly and performant customer experience.\n\nJoining this team you will have the opportunity to work with some of the latest (and most exciting) frontend technologies, be part of a truly agile workforce and impact the way we work by collectively reviewing and improving processes.\n\nResponsibilities\n\nCreate world-class UI solutions which impress\nWrite clean and componentised code, that is reusable and remains efficient at scale\nWork with our chosen tech: Vue, VueRouter, VueX, Webpack, Buefy\nWrite tests to validate your work (Karma/Jest/Nightwatch etc)\nHelp define and enforce team standards (formatting, documentation, naming conventions etc)\nTranslate wireframes and designs into beautiful and compact code\nEnsure users have enjoyable, simple experiences - even within complex flows\nBe vocal with criticism of systems, code and functionality you find fault with\nBe a team-player: both within your direct function and outside it\nMaintain the stack – keep on top of dependency vulnerabilities, version releases etc\nKeep abreast of new technologies, tools and products which could benefit the business\n\nPerson Specification\n\nYou have 3+ years commercial frontend development experience\nYou have worked in an agile development environment\nYou have an expert knowledge of Javascript/ES6\nYou have working experience of Vue JS or other similar frameworks (React/Angular)\nYou have working experience with build tools such as Webpack\nYou can write tests to validate your work (Karma/Jest/Nightwatch)\nYou are driven and can take ownership of your day-to-day responsibilities\nYou have great communication skills\nYou like to build great products whilst having fun\n\nDesirable\n\nExperience working on mid-to-large scale SPAs\nExperience with Cloud technologies such as Google Firebase, Google Compute, Google Pub/Sub, AWS Lambda etc\nA good eye for design and understanding of responsive considerations\nA willingness to educate and mentor team members\n\nBenefits\n\nCompetitive salary, based on experience.\nA fun but hard-working meritocratic environment, surrounded by a technical, pragmatic and focused team.\nPremium office space, with free hot, cold and alcoholic drinks. Frequent meals out, office events etc.\nOpportunity to travel between our offices in London and Bulgaria.\nExperience with cutting edge technologies, and freedom to investigate development options that may benefit our product.\nA learning and development budget to support your career progression and improvement.",
+      "descriptionHtml": "<p>We are putting together a frontend development team of crack javascript developers, led by our experienced Director of UX. We are after at least two competent, experienced and technical javascript developers to join our fun, hard-working team. We can accommodate a range of experience, but are ideally after one senior and one junior developer. All applicants should have decent knowledge of a framework such as React, Angular or Vue - however we are set on using the latter and you must be willing to immerse yourself in it, if you are not already.</p>\n\n<p>You will be based either in our Coworking office at Paddington (WeWork), or our Coworking space in Sofia (Betahaus). We can be flexible with home-working, but some office-based work is essential for this collaborative project.</p>\n\n<p>Our Stack</p>\n\n<p>Upmind is an API-first SAAS application, which means our backend handles all logic and exposes a RESTful API. This backend is built on modern cloud technology (largely AWS, though some Google - Firebase &amp; Compute - also). As we develop further, we are microservicing components in such a way that we may be able to offer them as standalone products in the future.</p>\n\n<p>The backend also makes use of Laravel and NodeJS. We use a combination of SNS and RabbitMQ for messaging, and MySQL/Firestore/DynamoDB for databases. These stack choices are fluid and subject to challenge from any member of staff – for example, if a new product offering from a cloud provider were to emerge. We encourage everyone to speak up and have a say; we only want to hire people who bring something extra to the team.</p>\n\n<p>At Upmind we are great advocates for open source technology, and a substantial portion of our software will be released under GNU GPL3.</p>\n\n<p>Our frontend is built out as a single page application (SPA) atop the Vue JS framework – utilising a number of Vue&#39;s core libraries including VueRouter and VueX. Coupled with Bulma, a modern and responsive CSS framework, our primary focus is to deliver a clean, friendly and performant customer experience.</p>\n\n<p>Joining this team you will have the opportunity to work with some of the latest (and most exciting) frontend technologies, be part of a truly agile workforce and impact the way we work by collectively reviewing and improving processes.</p>\n\n<p>Responsibilities</p>\n\n<p>Create world-class UI solutions which impress<br>\nWrite clean and componentised code, that is reusable and remains efficient at scale<br>\nWork with our chosen tech: Vue, VueRouter, VueX, Webpack, Buefy<br>\nWrite tests to validate your work (Karma/Jest/Nightwatch etc)<br>\nHelp define and enforce team standards (formatting, documentation, naming conventions etc)<br>\nTranslate wireframes and designs into beautiful and compact code<br>\nEnsure users have enjoyable, simple experiences - even within complex flows<br>\nBe vocal with criticism of systems, code and functionality you find fault with<br>\nBe a team-player: both within your direct function and outside it<br>\nMaintain the stack – keep on top of dependency vulnerabilities, version releases etc<br>\nKeep abreast of new technologies, tools and products which could benefit the business</p>\n\n<p>Person Specification</p>\n\n<p>You have 3+ years commercial frontend development experience<br>\nYou have worked in an agile development environment<br>\nYou have an expert knowledge of Javascript/ES6<br>\nYou have working experience of Vue JS or other similar frameworks (React/Angular)<br>\nYou have working experience with build tools such as Webpack<br>\nYou can write tests to validate your work (Karma/Jest/Nightwatch)<br>\nYou are driven and can take ownership of your day-to-day responsibilities<br>\nYou have great communication skills<br>\nYou like to build great products whilst having fun</p>\n\n<p>Desirable</p>\n\n<p>Experience working on mid-to-large scale SPAs<br>\nExperience with Cloud technologies such as Google Firebase, Google Compute, Google Pub/Sub, AWS Lambda etc<br>\nA good eye for design and understanding of responsive considerations<br>\nA willingness to educate and mentor team members</p>\n\n<p>Benefits</p>\n\n<p>Competitive salary, based on experience.<br>\nA fun but hard-working meritocratic environment, surrounded by a technical, pragmatic and focused team.<br>\nPremium office space, with free hot, cold and alcoholic drinks. Frequent meals out, office events etc.<br>\nOpportunity to travel between our offices in London and Bulgaria.<br>\nExperience with cutting edge technologies, and freedom to investigate development options that may benefit our product.<br>\nA learning and development budget to support your career progression and improvement.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Frontend Development",
+        "AngularJS",
+        "Firebase",
+        "React.js",
+        "Vue.Js",
+        "AWS"
+      ],
+      "payment": {
+        "salary": "£40k – £65k"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/seb-de-lemos",
+        "name": "Seb de Lemos",
+        "avatar": "https://photos.angel.co/users/8174638-medium_jpg?1535534491"
+      },
+      "refs": {
+        "angelListId": "419399",
+        "angelListUrl": "https://angel.co/company/upmind-automation/jobs/419399-"
+      }
+    }
+  ]
+}

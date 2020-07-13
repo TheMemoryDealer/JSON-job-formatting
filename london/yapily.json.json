@@ -1,0 +1,366 @@
+{
+  "name": "Yapily",
+  "avatar": "https://photos.angel.co/startups/i/6859359-2b91cdf20b7550478d1c2c50db3631b9-medium_jpg.jpg?buster=1556362363",
+  "slogan": "One API to gateway every bank's APIs",
+  "description": "Yapily is fast growing and forward-thinking fintech start up whose ambition is to become the nerve system of the future economy. In an Open Banking world, financial services will be cheaper, faster and bespoke to each individual: we are enabling this revolution. We are backed by amazing investors that led companies like Zalando, Zoopla, Tide, Transferwise, Trussle, Cleo, Freeagent, Robinhood and many other to success. \n\nYapily is building API connections to all banks, normalising and enriching the data, and providing it through a highly secure API. We’re the only native API platform designed from the ground up for Open Finance.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.yapily.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Financial Services",
+    "Developer APIs",
+    "Banking",
+    "Finance Technology",
+    "Open Data"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "",
+      "role": "Employee",
+      "url": "https://angel.co/u/darvesh-daswani-1",
+      "name": "Darvesh Daswani",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Business Development specialist with experience across Europe and Asia"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/joao-martins-21",
+      "name": "Joao Martins",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6859359",
+    "angelListUrl": "https://angel.co/company/yapily"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "Company Description\nYapily (www.yapily.com) is a well funded, dynamic and forward-thinking fintech start up which is proud of its strong technical background.\n\nYapily is building an open banking API connections to all retail banks, normalising and enriching the data, and providing it through a highly secure and performant API.\n\nDo you want to participate in the biggest technology revolution in finance? To define and build APIs, SDKs and other tools for developers, so they can create new and innovative fintech services? If any of this motivates you then look no further, come join us in a team of talented engineers to build connectivity to banks\nJob Description\nWe are looking for folks with solid analytical, design and problem diagnosis skills, expertise with systems programming, high-performance applications, distributed systems or service design is a plus. We need our engineers to be versatile, display leadership qualities and be enthusiastic to tackle new problems across the full-stack as we continue to push technology forward. With your technical expertise you will manage individual projects priorities, deadlines and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions.\n\nOur innovative systems include highly efficient and large scale platforms built on Java/Spring Boot/Hibernate, running on Docker containers and deployed in Kubernetes clusters in Google Cloud Platform. For this position you will have a strong background in OO design with Java. Experience working with web services, XML, JSON, Spring Boot and Apache services is desired. Linux system development experience is a plus. Equally important to these specific skills is the ability to multi-task, quickly adapt to new development environments and changing business requirements, learn new systems, create reliable/maintainable code, and find creative and scalable solutions to difficult problems.\n\nResponsibilities\n\nSupport, maintain, and build APIs, tooling, automations, and monitoring services using technologies and services such as, or similar to: GCP, AWS, Kubernetes, Docker, Java, Spring Boot, Vaadin, Reactor, Jenkins, PostgreSQL, Swagger, OpenAPI, etc.\nDefine REST API/JSON specification, test cases and build sample open source API code clients.\nBuild API clients to consume data from multiple sources, normalising and aggregating formats, in real time or distributed reactive streams.\nManage individual project priorities, deadlines and deliverables.\nQualifications\n \n\nBA/BS degree in Computer Science or equivalent technical work experience\nStrong Computer Science fundamentals\n3+ years of development experience\nAPI design and distributed backend systems\nRelational and non relational databases\nOutstanding knowledge of Java\nAble to bring experience and ideas that will help Yapily deliver highly efficient and reliable services\nYou must be eligible to live and work in the UK. We are not able to provide visa sponsorship.\nDesirable\n\nFinancial Technology and/or Payment industry experience\nSecurity and Cryptography knowledge\nOpenID, OAuth2.0, OAuth1.0, JWT\nSpring Boot framework & Spring Security\nSwagger or OpenAPI Specification\nCI/CD/TDD & Automation with Jenkins, Selenium, Postman, Newman\nAdditional Information\nThis is a fantastic opportunity to join a fast growing company.  At Yapily, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community! Get in touch!",
+      "descriptionHtml": "<p>Company Description<br>\nYapily (<a href=\"http://www.yapily.com\" target=\"_blank\" rel=\"nofollow\">www.yapily.com</a>) is a well funded, dynamic and forward-thinking fintech start up which is proud of its strong technical background.</p>\n\n<p>Yapily is building an open banking API connections to all retail banks, normalising and enriching the data, and providing it through a highly secure and performant API.</p>\n\n<p>Do you want to participate in the biggest technology revolution in finance? To define and build APIs, SDKs and other tools for developers, so they can create new and innovative fintech services? If any of this motivates you then look no further, come join us in a team of talented engineers to build connectivity to banks<br>\nJob Description<br>\nWe are looking for folks with solid analytical, design and problem diagnosis skills, expertise with systems programming, high-performance applications, distributed systems or service design is a plus. We need our engineers to be versatile, display leadership qualities and be enthusiastic to tackle new problems across the full-stack as we continue to push technology forward. With your technical expertise you will manage individual projects priorities, deadlines and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions.</p>\n\n<p>Our innovative systems include highly efficient and large scale platforms built on Java/Spring Boot/Hibernate, running on Docker containers and deployed in Kubernetes clusters in Google Cloud Platform. For this position you will have a strong background in OO design with Java. Experience working with web services, XML, JSON, Spring Boot and Apache services is desired. Linux system development experience is a plus. Equally important to these specific skills is the ability to multi-task, quickly adapt to new development environments and changing business requirements, learn new systems, create reliable/maintainable code, and find creative and scalable solutions to difficult problems.</p>\n\n<p>Responsibilities</p>\n\n<p>Support, maintain, and build APIs, tooling, automations, and monitoring services using technologies and services such as, or similar to: GCP, AWS, Kubernetes, Docker, Java, Spring Boot, Vaadin, Reactor, Jenkins, PostgreSQL, Swagger, OpenAPI, etc.<br>\nDefine REST API/JSON specification, test cases and build sample open source API code clients.<br>\nBuild API clients to consume data from multiple sources, normalising and aggregating formats, in real time or distributed reactive streams.<br>\nManage individual project priorities, deadlines and deliverables.<br>\nQualifications</p>\n\n<p>BA/BS degree in Computer Science or equivalent technical work experience<br>\nStrong Computer Science fundamentals<br>\n3+ years of development experience<br>\nAPI design and distributed backend systems<br>\nRelational and non relational databases<br>\nOutstanding knowledge of Java<br>\nAble to bring experience and ideas that will help Yapily deliver highly efficient and reliable services<br>\nYou must be eligible to live and work in the UK. We are not able to provide visa sponsorship.<br>\nDesirable</p>\n\n<p>Financial Technology and/or Payment industry experience<br>\nSecurity and Cryptography knowledge<br>\nOpenID, OAuth2.0, OAuth1.0, JWT<br>\nSpring Boot framework &amp; Spring Security<br>\nSwagger or OpenAPI Specification<br>\nCI/CD/TDD &amp; Automation with Jenkins, Selenium, Postman, Newman<br>\nAdditional Information<br>\nThis is a fantastic opportunity to join a fast growing company.  At Yapily, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community! Get in touch!</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Porto"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "Spring"
+      ],
+      "payment": {
+        "salary": "£40k – £70k"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Employee",
+        "url": "https://angel.co/u/darvesh-daswani-1",
+        "name": "Darvesh Daswani",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "545670",
+        "angelListUrl": "https://angel.co/company/yapily/jobs/545670-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Technical Product Owner",
+      "description": "Company Description\n\nYapily is fast growing and forward-thinking fintech start up whose ambition is to become the nerve system of the future economy. In an Open Banking world, financial services will be cheaper, faster and bespoke to each individual: we are enabling this revolution. We are backed by amazing investors that led companies like Zalando, Zoopla, Tide, Transferwise, Trussle, Cleo, Freeagent, Robinhood and many other to success. \n\nYapily is building API connections to all banks, normalising and enriching the data, and providing it through a highly secure API. We’re the only native API platform designed from the ground up for Open Finance.\n\nJob Description\n\nYou will be driving key initiatives within the Yapily product portfolio, working with the Head of Product and collaborating with Sales, Engineering, financial institutions, Regulators and our clients.\n\nYou will be responsible for ensuring that our approach to product development and launch is well managed and covers all aspects of the product, from design, feasibility, delivery and client adoption.\n\nThe product Owner ensures that features and functionality defined on the roadmap accurately reflect customer and market requirements.   Also responsible for supporting the business case creation for new products and for increasing the profitability of existing products. Working collaboratively with the Product and Engineering leadership team, the Product Owner builds product initiatives from existing ideas and helps develop new ideas based on industry experience and work in the market.\n\nKey responsibilities:\n\nResponsible for managing the planning and execution throughout the product lifecycle – from strategic planning to tactical activities. This includes gathering and prioritising the market, product and customer requirements, communicating the product vision, and working closely with Development/Engineering, Sales & Marketing and Business Development to ensure revenue and customer satisfaction goals are surpassed.\nSupport development by defining features and user stories that break down the requirements into end-to-end functionality\nOutline workflows and customer journeys required to guide engineering\nSupport the Project Manager to maintain a visible product roadmap and project schedule\nOwn and drive the business plan for the solution, working with key stakeholders to ensure the most effective decisions are reached regarding the lifecycle of the solution offering.\nManage the ongoing roadmap for specific products and work closely with Development to ensure that the solution(s) developed fulfil the needs of the customers in a timely manner.\nWorking closely with the Yapily customers to ensure that their requirements are appropriately captured, prioritised and considered alongside product planning across the Yapily product portfolio.\nSupport the go to market execution with team members to ensure sales, marketing, service and operations are ready across all markets.\nConduct technical research of both new features and competitor analysis along with business intelligence in support of the product roadmap.\nSupport Sales team with product and solution presentations and client visits, both in the UK and abroad.\nSupport the Marketing team with product and solution collateral to position the appropriate solution and support sales process.\nWith Product leadership, act as product champion for Sales, communicating the value proposition of the products to the Sales team and working with them to define and develop the necessary tools that support the selling of your product\nPromote the product line and business in general through select online media channels.  (Slack, LinkedIn, Medium, etc.)\n\nQualifications\n\nA minimum of 3 years’ experience of Product Management experienced within a technology vendor ideally within the financial services or API industry.\nAn ability to clearly define the Product Owner, Product Manager and Product Marketing roles and understand the cross over between these roles in an agile software development environment\nExcellent written and oral communication skills in English.\nCommercial acumen: a proven track record of understanding business value, with a key sensitivity to understanding sales and marketing challenges and building collateral to positively manage such challenges with the objective of strengthening business and making product / solution sales\nAttitude: proactive and focused.  Driven on delivering client solutions with the end user success always in mind while ensuring that sales and product revenue are optimised.\nResults oriented: structured and highly organised, in a fast paced and dynamic environment you will already have a strategy for ‘getting things done’ and able to driving results without supervision.\nExperience of operating within a B2B role\nExperience of working directly with clients and supporting POC initiatives to enable successful conversion to satisfied and paying customers\nAdditional information\nThis is a fantastic opportunity to join a fast-growing company. At Yapily, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community!\n\nFurther your career on an international level with a rapidly growing vendor, you'll be empowered to make a positive impact quickly. \n\nCheck us out at www.yapily.com or read about us at https://tcrn.ch/2J8TS55",
+      "descriptionHtml": "<p>Company Description</p>\n\n<p>Yapily is fast growing and forward-thinking fintech start up whose ambition is to become the nerve system of the future economy. In an Open Banking world, financial services will be cheaper, faster and bespoke to each individual: we are enabling this revolution. We are backed by amazing investors that led companies like Zalando, Zoopla, Tide, Transferwise, Trussle, Cleo, Freeagent, Robinhood and many other to success. </p>\n\n<p>Yapily is building API connections to all banks, normalising and enriching the data, and providing it through a highly secure API. We’re the only native API platform designed from the ground up for Open Finance.</p>\n\n<p>Job Description</p>\n\n<p>You will be driving key initiatives within the Yapily product portfolio, working with the Head of Product and collaborating with Sales, Engineering, financial institutions, Regulators and our clients.</p>\n\n<p>You will be responsible for ensuring that our approach to product development and launch is well managed and covers all aspects of the product, from design, feasibility, delivery and client adoption.</p>\n\n<p>The product Owner ensures that features and functionality defined on the roadmap accurately reflect customer and market requirements.   Also responsible for supporting the business case creation for new products and for increasing the profitability of existing products. Working collaboratively with the Product and Engineering leadership team, the Product Owner builds product initiatives from existing ideas and helps develop new ideas based on industry experience and work in the market.</p>\n\n<p>Key responsibilities:</p>\n\n<p>Responsible for managing the planning and execution throughout the product lifecycle – from strategic planning to tactical activities. This includes gathering and prioritising the market, product and customer requirements, communicating the product vision, and working closely with Development/Engineering, Sales &amp; Marketing and Business Development to ensure revenue and customer satisfaction goals are surpassed.<br>\nSupport development by defining features and user stories that break down the requirements into end-to-end functionality<br>\nOutline workflows and customer journeys required to guide engineering<br>\nSupport the Project Manager to maintain a visible product roadmap and project schedule<br>\nOwn and drive the business plan for the solution, working with key stakeholders to ensure the most effective decisions are reached regarding the lifecycle of the solution offering.<br>\nManage the ongoing roadmap for specific products and work closely with Development to ensure that the solution(s) developed fulfil the needs of the customers in a timely manner.<br>\nWorking closely with the Yapily customers to ensure that their requirements are appropriately captured, prioritised and considered alongside product planning across the Yapily product portfolio.<br>\nSupport the go to market execution with team members to ensure sales, marketing, service and operations are ready across all markets.<br>\nConduct technical research of both new features and competitor analysis along with business intelligence in support of the product roadmap.<br>\nSupport Sales team with product and solution presentations and client visits, both in the UK and abroad.<br>\nSupport the Marketing team with product and solution collateral to position the appropriate solution and support sales process.<br>\nWith Product leadership, act as product champion for Sales, communicating the value proposition of the products to the Sales team and working with them to define and develop the necessary tools that support the selling of your product<br>\nPromote the product line and business in general through select online media channels.  (Slack, LinkedIn, Medium, etc.)</p>\n\n<p>Qualifications</p>\n\n<p>A minimum of 3 years’ experience of Product Management experienced within a technology vendor ideally within the financial services or API industry.<br>\nAn ability to clearly define the Product Owner, Product Manager and Product Marketing roles and understand the cross over between these roles in an agile software development environment<br>\nExcellent written and oral communication skills in English.<br>\nCommercial acumen: a proven track record of understanding business value, with a key sensitivity to understanding sales and marketing challenges and building collateral to positively manage such challenges with the objective of strengthening business and making product / solution sales<br>\nAttitude: proactive and focused.  Driven on delivering client solutions with the end user success always in mind while ensuring that sales and product revenue are optimised.<br>\nResults oriented: structured and highly organised, in a fast paced and dynamic environment you will already have a strategy for ‘getting things done’ and able to driving results without supervision.<br>\nExperience of operating within a B2B role<br>\nExperience of working directly with clients and supporting POC initiatives to enable successful conversion to satisfied and paying customers<br>\nAdditional information<br>\nThis is a fantastic opportunity to join a fast-growing company. At Yapily, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community!</p>\n\n<p>Further your career on an international level with a rapidly growing vendor, you&#39;ll be empowered to make a positive impact quickly. </p>\n\n<p>Check us out at <a href=\"http://www.yapily.com\" target=\"_blank\" rel=\"nofollow\">www.yapily.com</a> or read about us at <a href=\"https://tcrn.ch/2J8TS55\" target=\"_blank\" rel=\"nofollow\">https://tcrn.ch/2J8TS55</a></p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£40k – £50k"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Employee",
+        "url": "https://angel.co/u/darvesh-daswani-1",
+        "name": "Darvesh Daswani",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "632819",
+        "angelListUrl": "https://angel.co/company/yapily/jobs/632819-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Legal Counsel",
+      "description": "Company Description\n\nYapily is fast growing and forward-thinking fintech start up whose ambition is to become the nerve system of the future economy. In an Open Banking world, financial services will be cheaper, faster and bespoke to each individual: we are enabling this revolution. We are backed by amazing investors that led companies like Zalando, Zoopla, Tide, Transferwise, Trussle, Cleo, Freeagent, Robinhood and many other to success. \n\nYapily is building API connections to all banks, normalising and enriching the data, and providing it through a highly secure API. We’re the only native API platform designed from the ground up for Open Finance.\n\nJob Description\n\nWe are now looking for a part-time in house legal counsel to help us as we expand. This is an excellent opportunity to get involved in one of the fastest growing areas in Fintech. \n\nResponsibilities\n\n• Drafting, reviewing and negotiating commercial contracts \n\n• Defining templates, terms and conditions for products new to the industry \n\n• Partnering the business leads in dispute resolution \n\n• Publishing agreements, technology agreements and responsibility for legal operations \n\n• Advising on data risk, privacy and protection matters \n\nRequired Skills & Experience: \n\n• Lawyer with fintech law experience and proven experience advising on financial technology law issues\n\n• Minimum 5 years PQE \n\n• Fintech expertise and experience advising on legal issues arising in connection with financial technology\n\n• Experience in-house working as part of team \n\n• Experience working on a cross border, multi-jurisdictional basis \n\n• Exceptional legal drafting, negotiation and analytical skills \n\n• Self-starter \n\n• Ability to manage the provision of legal advice on multiple projects in a high volume, fast-paced environment \n\n• Ability to work efficiently, with minimal supervision \n\n• Excellent written communication and interpersonal skills \n\n• Qualified & practicing solicitor of England and Wales Degree level education\n\nAdditional Information\n\nThis is a fantastic opportunity to join a fast growing company.  At Yapily, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community! Get in touch!",
+      "descriptionHtml": "<p>Company Description</p>\n\n<p>Yapily is fast growing and forward-thinking fintech start up whose ambition is to become the nerve system of the future economy. In an Open Banking world, financial services will be cheaper, faster and bespoke to each individual: we are enabling this revolution. We are backed by amazing investors that led companies like Zalando, Zoopla, Tide, Transferwise, Trussle, Cleo, Freeagent, Robinhood and many other to success. </p>\n\n<p>Yapily is building API connections to all banks, normalising and enriching the data, and providing it through a highly secure API. We’re the only native API platform designed from the ground up for Open Finance.</p>\n\n<p>Job Description</p>\n\n<p>We are now looking for a part-time in house legal counsel to help us as we expand. This is an excellent opportunity to get involved in one of the fastest growing areas in Fintech. </p>\n\n<p>Responsibilities</p>\n\n<p>• Drafting, reviewing and negotiating commercial contracts </p>\n\n<p>• Defining templates, terms and conditions for products new to the industry </p>\n\n<p>• Partnering the business leads in dispute resolution </p>\n\n<p>• Publishing agreements, technology agreements and responsibility for legal operations </p>\n\n<p>• Advising on data risk, privacy and protection matters </p>\n\n<p>Required Skills &amp; Experience: </p>\n\n<p>• Lawyer with fintech law experience and proven experience advising on financial technology law issues</p>\n\n<p>• Minimum 5 years PQE </p>\n\n<p>• Fintech expertise and experience advising on legal issues arising in connection with financial technology</p>\n\n<p>• Experience in-house working as part of team </p>\n\n<p>• Experience working on a cross border, multi-jurisdictional basis </p>\n\n<p>• Exceptional legal drafting, negotiation and analytical skills </p>\n\n<p>• Self-starter </p>\n\n<p>• Ability to manage the provision of legal advice on multiple projects in a high volume, fast-paced environment </p>\n\n<p>• Ability to work efficiently, with minimal supervision </p>\n\n<p>• Excellent written communication and interpersonal skills </p>\n\n<p>• Qualified &amp; practicing solicitor of England and Wales Degree level education</p>\n\n<p>Additional Information</p>\n\n<p>This is a fantastic opportunity to join a fast growing company.  At Yapily, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community! Get in touch!</p>\n",
+      "position": "contract",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Employee",
+        "url": "https://angel.co/u/darvesh-daswani-1",
+        "name": "Darvesh Daswani",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "681665",
+        "angelListUrl": "https://angel.co/company/yapily/jobs/681665-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Junior Software Engineer",
+      "description": "Company Description\n\nYapily (www.yapily.com) is a well funded, dynamic and forward-thinking fintech start up which is proud of its strong technical background.\n\nYapily is building an open banking API connections to all retail banks, normalising and enriching the data, and providing it through a highly secure and performant API.\n\nDo you want to participate in the biggest technology revolution in finance? To define and build APIs, SDKs and other tools for developers, so they can create new and innovative fintech services? If any of this motivates you then look no further, come join us in a team of talented engineers to build connectivity to banks\n\nJob Description\n\nWe are looking for folks with solid analytical, design and problem diagnosis skills, expertise with systems programming, high-performance applications, distributed systems or service design is a plus. We need our engineers to be versatile, display leadership qualities and be enthusiastic to tackle new problems across the full-stack as we continue to push technology forward. With your technical expertise you will manage individual projects priorities, deadlines and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions.\n\nOur innovative systems include highly efficient and large scale platforms built on Java/Spring Boot/Hibernate, running on Docker containers and deployed in Kubernetes clusters in Google Cloud Platform. For this position you will have a strong background in OO design with Java. Experience working with web services, XML, JSON, Spring Boot and Apache services is desired. Linux system development experience is a plus. Equally important to these specific skills is the ability to multi-task, quickly adapt to new development environments and changing business requirements, learn new systems, create reliable/maintainable code, and find creative and scalable solutions to difficult problems.\n\nResponsibilities\n\nSupport, maintain, and build APIs, tooling, automations, and monitoring services using technologies and services such as, or similar to: GCP, AWS, Kubernetes, Docker, Java, Spring Boot, Vaadin, Reactor, Jenkins, PostgreSQL, Swagger, OpenAPI, etc.\nDefine REST API/JSON specification, test cases and build sample open source API code clients.\nBuild API clients to consume data from multiple sources, normalising and aggregating formats, in real time or distributed reactive streams.\nManage individual project priorities, deadlines and deliverables.\n\nQualifications \n\nBA/BS degree in Computer Science or equivalent technical work experience\nStrong Computer Science fundamentals\n1+ years of development experience\nAPI design and distributed backend systems\nRelational and non relational databases\nOutstanding knowledge of Java\nAble to bring experience and ideas that will help Yapily deliver highly efficient and reliable services\nYou must be eligible to live and work in the UK. We are not able to provide visa sponsorship.\n\nDesirable\n\nFinancial Technology and/or Payment industry experience\nSecurity and Cryptography knowledge\nOpenID, OAuth2.0, OAuth1.0, JWT\nSpring Boot framework & Spring Security\nSwagger or OpenAPI Specification\nCI/CD/TDD & Automation with Jenkins, Selenium, Postman, Newman\n \nAdditional Information\n\nThis is a fantastic opportunity to join a fast growing company.  At Yapily, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community! Get in touch!",
+      "descriptionHtml": "<p>Company Description</p>\n\n<p>Yapily (<a href=\"http://www.yapily.com\" target=\"_blank\" rel=\"nofollow\">www.yapily.com</a>) is a well funded, dynamic and forward-thinking fintech start up which is proud of its strong technical background.</p>\n\n<p>Yapily is building an open banking API connections to all retail banks, normalising and enriching the data, and providing it through a highly secure and performant API.</p>\n\n<p>Do you want to participate in the biggest technology revolution in finance? To define and build APIs, SDKs and other tools for developers, so they can create new and innovative fintech services? If any of this motivates you then look no further, come join us in a team of talented engineers to build connectivity to banks</p>\n\n<p>Job Description</p>\n\n<p>We are looking for folks with solid analytical, design and problem diagnosis skills, expertise with systems programming, high-performance applications, distributed systems or service design is a plus. We need our engineers to be versatile, display leadership qualities and be enthusiastic to tackle new problems across the full-stack as we continue to push technology forward. With your technical expertise you will manage individual projects priorities, deadlines and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions.</p>\n\n<p>Our innovative systems include highly efficient and large scale platforms built on Java/Spring Boot/Hibernate, running on Docker containers and deployed in Kubernetes clusters in Google Cloud Platform. For this position you will have a strong background in OO design with Java. Experience working with web services, XML, JSON, Spring Boot and Apache services is desired. Linux system development experience is a plus. Equally important to these specific skills is the ability to multi-task, quickly adapt to new development environments and changing business requirements, learn new systems, create reliable/maintainable code, and find creative and scalable solutions to difficult problems.</p>\n\n<p>Responsibilities</p>\n\n<p>Support, maintain, and build APIs, tooling, automations, and monitoring services using technologies and services such as, or similar to: GCP, AWS, Kubernetes, Docker, Java, Spring Boot, Vaadin, Reactor, Jenkins, PostgreSQL, Swagger, OpenAPI, etc.<br>\nDefine REST API/JSON specification, test cases and build sample open source API code clients.<br>\nBuild API clients to consume data from multiple sources, normalising and aggregating formats, in real time or distributed reactive streams.<br>\nManage individual project priorities, deadlines and deliverables.</p>\n\n<p>Qualifications </p>\n\n<p>BA/BS degree in Computer Science or equivalent technical work experience<br>\nStrong Computer Science fundamentals<br>\n1+ years of development experience<br>\nAPI design and distributed backend systems<br>\nRelational and non relational databases<br>\nOutstanding knowledge of Java<br>\nAble to bring experience and ideas that will help Yapily deliver highly efficient and reliable services<br>\nYou must be eligible to live and work in the UK. We are not able to provide visa sponsorship.</p>\n\n<p>Desirable</p>\n\n<p>Financial Technology and/or Payment industry experience<br>\nSecurity and Cryptography knowledge<br>\nOpenID, OAuth2.0, OAuth1.0, JWT<br>\nSpring Boot framework &amp; Spring Security<br>\nSwagger or OpenAPI Specification<br>\nCI/CD/TDD &amp; Automation with Jenkins, Selenium, Postman, Newman</p>\n\n<p>Additional Information</p>\n\n<p>This is a fantastic opportunity to join a fast growing company.  At Yapily, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community! Get in touch!</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£30k – £50k"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Employee",
+        "url": "https://angel.co/u/darvesh-daswani-1",
+        "name": "Darvesh Daswani",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "681666",
+        "angelListUrl": "https://angel.co/company/yapily/jobs/681666-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Senior Customer Success Manager",
+      "description": "Company Description\n\nYapily is fast growing and forward-thinking fintech start up whose ambition is to become the nerve system of the future economy. In an Open Banking world, financial services will be cheaper, faster and bespoke to each individual: we are enabling this revolution. We are backed by amazing investors that led companies like Zalando, Zoopla, Tide, Transferwise, Trussle, Cleo, Freeagent, Robinhood and many other to success. \n\nYapily is building API connections to all banks, normalising and enriching the data, and providing it through a highly secure API. We’re the only native API platform designed from the ground up for Open Finance.\n\nJob Description\n\n· Act as the evangelist for Yapily within our existing clients and build strategic relationships from C-suite down\n\n· Seek new business opportunities within existing accounts and be comfortable increasing the usage within clients. \n\n· Help shape the product offering in response to our customers’ needs and strategic plans\n\n· Be prepared to roll sleeves up and sell as part of a scale up \n\n· Able to hit the ground running \n\nQualifications\n\n· 3+ years’ experience managing accounts in SaaS financial technology software sales\n\n· Experience in formal sales methodologies and ability to adapt them to the situation\n\n· Proven account management experience at C-suite level within corporates, banks and Fintechs\n\n· Track record of overachieving target as an individual contributor\n\n· Entrepreneurial and motivated spirit with hunger for new challenges\n\n· Good understanding of main technologies, trends and concepts\n\n· Takes a proactive approach to identifying new business opportunities\n\n· Experience and proven ability of representing a company to all customers, suppliers and authorities.\n\nAdditional information\n\nThis is a fantastic opportunity to join a fast growing company.  At Yapily, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community! Get in touch!",
+      "descriptionHtml": "<p>Company Description</p>\n\n<p>Yapily is fast growing and forward-thinking fintech start up whose ambition is to become the nerve system of the future economy. In an Open Banking world, financial services will be cheaper, faster and bespoke to each individual: we are enabling this revolution. We are backed by amazing investors that led companies like Zalando, Zoopla, Tide, Transferwise, Trussle, Cleo, Freeagent, Robinhood and many other to success. </p>\n\n<p>Yapily is building API connections to all banks, normalising and enriching the data, and providing it through a highly secure API. We’re the only native API platform designed from the ground up for Open Finance.</p>\n\n<p>Job Description</p>\n\n<p>· Act as the evangelist for Yapily within our existing clients and build strategic relationships from C-suite down</p>\n\n<p>· Seek new business opportunities within existing accounts and be comfortable increasing the usage within clients. </p>\n\n<p>· Help shape the product offering in response to our customers’ needs and strategic plans</p>\n\n<p>· Be prepared to roll sleeves up and sell as part of a scale up </p>\n\n<p>· Able to hit the ground running </p>\n\n<p>Qualifications</p>\n\n<p>· 3+ years’ experience managing accounts in SaaS financial technology software sales</p>\n\n<p>· Experience in formal sales methodologies and ability to adapt them to the situation</p>\n\n<p>· Proven account management experience at C-suite level within corporates, banks and Fintechs</p>\n\n<p>· Track record of overachieving target as an individual contributor</p>\n\n<p>· Entrepreneurial and motivated spirit with hunger for new challenges</p>\n\n<p>· Good understanding of main technologies, trends and concepts</p>\n\n<p>· Takes a proactive approach to identifying new business opportunities</p>\n\n<p>· Experience and proven ability of representing a company to all customers, suppliers and authorities.</p>\n\n<p>Additional information</p>\n\n<p>This is a fantastic opportunity to join a fast growing company.  At Yapily, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community! Get in touch!</p>\n",
+      "position": "full-time",
+      "experience": 6,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£60k – £75k"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Employee",
+        "url": "https://angel.co/u/darvesh-daswani-1",
+        "name": "Darvesh Daswani",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "683644",
+        "angelListUrl": "https://angel.co/company/yapily/jobs/683644-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Content Manager",
+      "description": "About Yapily \n\nYapily is a well funded, dynamic and forward-thinking fintech startup which is proud of its strong technical background. This is an incredibly exciting time for the business as we begin to look towards launching internationally and are building the marketing team from the ground up, with huge scope for autonomy and influence.\n\nWhat you’ll be doing \n\nThe Content Manager will own and execute the content marketing strategy. You will have a unique opportunity to hugely impact and grow the Yapily brand reputation as a leading connectivity provider in Open Banking. \n\nYour activities will contribute to revenue generated from both new and existing customers by developing effective content for lead generation, inbound marketing and communications. You will be integral to driving traffic and delivering quality leads to our SDR team through amazing content. \n\nResponsibilities \n\nStrategy - defining our content strategy, creating a content calendar, establishing best practice models that work for our business  \nExecution -  create compelling copy for content, marketing assets and other deliverables - from scratch - for sales and marketing enablement \nBrand building and awareness - develop a content library for distribution across our digital platforms including automation tools, social media, email and website \nPR - building relationships with our PR agency, scheduling interviews, crafting media responses \n\nWhat we’re looking for \n\nYou have exceptional written and communication skills for the technology sector \nA keen eye for design - you like your work to look beautiful and creative\nYou can spot new content opportunities through industry trends and research \nYou are tech savvy and can use the latest tools such as Salesforce and Pardot Contentful CMS\nPolite, charming and personable, you enjoy building relationships \nAttention to detail with effective time management and prioritisation skills\n\nThis is a fantastic opportunity to join a hard working and fast growing company. At Yapily, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community!",
+      "descriptionHtml": "<p>About Yapily </p>\n\n<p>Yapily is a well funded, dynamic and forward-thinking fintech startup which is proud of its strong technical background. This is an incredibly exciting time for the business as we begin to look towards launching internationally and are building the marketing team from the ground up, with huge scope for autonomy and influence.</p>\n\n<p>What you’ll be doing </p>\n\n<p>The Content Manager will own and execute the content marketing strategy. You will have a unique opportunity to hugely impact and grow the Yapily brand reputation as a leading connectivity provider in Open Banking. </p>\n\n<p>Your activities will contribute to revenue generated from both new and existing customers by developing effective content for lead generation, inbound marketing and communications. You will be integral to driving traffic and delivering quality leads to our SDR team through amazing content. </p>\n\n<p>Responsibilities </p>\n\n<p>Strategy - defining our content strategy, creating a content calendar, establishing best practice models that work for our business<br><br>\nExecution -  create compelling copy for content, marketing assets and other deliverables - from scratch - for sales and marketing enablement <br>\nBrand building and awareness - develop a content library for distribution across our digital platforms including automation tools, social media, email and website <br>\nPR - building relationships with our PR agency, scheduling interviews, crafting media responses </p>\n\n<p>What we’re looking for </p>\n\n<p>You have exceptional written and communication skills for the technology sector <br>\nA keen eye for design - you like your work to look beautiful and creative<br>\nYou can spot new content opportunities through industry trends and research <br>\nYou are tech savvy and can use the latest tools such as Salesforce and Pardot Contentful CMS<br>\nPolite, charming and personable, you enjoy building relationships <br>\nAttention to detail with effective time management and prioritisation skills</p>\n\n<p>This is a fantastic opportunity to join a hard working and fast growing company. At Yapily, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community!</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£35k – £45k"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Employee",
+        "url": "https://angel.co/u/darvesh-daswani-1",
+        "name": "Darvesh Daswani",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "685745",
+        "angelListUrl": "https://angel.co/company/yapily/jobs/685745-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Data Engineer",
+      "description": "Company Description\nYapily is fast growing and forward-thinking fintech start up whose ambition is to become the nerve system of the future economy. In an Open Banking world, financial services will be cheaper, faster and bespoke to each individual: we are enabling this revolution. We are backed by amazing investors that led companies like Zalando, Zoopla, Tide, Transferwise, Trussle, Cleo, Freeagent, Robinhood and many other to success. \n\nYapily is building API connections to all banks, normalising and enriching the data, and providing it through a highly secure API. We’re the only native API platform designed from the ground up for Open Finance.\n\nJob Description\nJob Description\n\nYapily is building API connections to all retail banks, normalising and enriching the data, and providing it through a highly secure and performant API.\n\nYapily is seeking Data Engineer to uncover key insights on financial data. Banks used to own everyone’s financial data, but that was the past. Now with Open Banking people's finances' data is available to regulated companies to provide better financial services to everyone, using Yapily’s proprietary APIs.\n\nKey Responsibilities\n\nBuild, maintain and improve on our predictive models for metadata attributes of financial data\n\nSupport the analytical needs of the product team inclusive of statistical inferences, demand modelling, feature engineering and the bespoke evaluation of data usage licensing deals\n\nParticipate in research in machine intelligence and machine learning applications\n\nDevelop solutions for real world, financial data problems\n\nQualifications\n\nMaster's degree in machine learning, operational research, computer science, statistics, applied mathematics or a related field; or equivalent experience\n\nProfessional work experience in data science, business intelligence or analytics\n\n+3 years experience (Academic or commercial) in machine learning or ML related fields\n\nStrong analytical and statistical modelling skills\n\nExperience with ML libraries and frameworks including; Scikit Learn, Tensorflow, Torch, Caffe\n\nExperience with NLP or text classification\n\nLanguage experience (Academic or commercial) in some of the following languages; Python, R, Matlab, Java, Scala, Hadoop\n\nExperience presenting complex data subjects to general audience and dealing with clients\n\nProactive and self-motivated\n\nAdditional information\nThis is a fantastic opportunity to join a fast growing company.  At Yapily, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community! Get in touch!",
+      "descriptionHtml": "<p>Company Description<br>\nYapily is fast growing and forward-thinking fintech start up whose ambition is to become the nerve system of the future economy. In an Open Banking world, financial services will be cheaper, faster and bespoke to each individual: we are enabling this revolution. We are backed by amazing investors that led companies like Zalando, Zoopla, Tide, Transferwise, Trussle, Cleo, Freeagent, Robinhood and many other to success. </p>\n\n<p>Yapily is building API connections to all banks, normalising and enriching the data, and providing it through a highly secure API. We’re the only native API platform designed from the ground up for Open Finance.</p>\n\n<p>Job Description<br>\nJob Description</p>\n\n<p>Yapily is building API connections to all retail banks, normalising and enriching the data, and providing it through a highly secure and performant API.</p>\n\n<p>Yapily is seeking Data Engineer to uncover key insights on financial data. Banks used to own everyone’s financial data, but that was the past. Now with Open Banking people&#39;s finances&#39; data is available to regulated companies to provide better financial services to everyone, using Yapily’s proprietary APIs.</p>\n\n<p>Key Responsibilities</p>\n\n<p>Build, maintain and improve on our predictive models for metadata attributes of financial data</p>\n\n<p>Support the analytical needs of the product team inclusive of statistical inferences, demand modelling, feature engineering and the bespoke evaluation of data usage licensing deals</p>\n\n<p>Participate in research in machine intelligence and machine learning applications</p>\n\n<p>Develop solutions for real world, financial data problems</p>\n\n<p>Qualifications</p>\n\n<p>Master&#39;s degree in machine learning, operational research, computer science, statistics, applied mathematics or a related field; or equivalent experience</p>\n\n<p>Professional work experience in data science, business intelligence or analytics</p>\n\n<p>+3 years experience (Academic or commercial) in machine learning or ML related fields</p>\n\n<p>Strong analytical and statistical modelling skills</p>\n\n<p>Experience with ML libraries and frameworks including; Scikit Learn, Tensorflow, Torch, Caffe</p>\n\n<p>Experience with NLP or text classification</p>\n\n<p>Language experience (Academic or commercial) in some of the following languages; Python, R, Matlab, Java, Scala, Hadoop</p>\n\n<p>Experience presenting complex data subjects to general audience and dealing with clients</p>\n\n<p>Proactive and self-motivated</p>\n\n<p>Additional information<br>\nThis is a fantastic opportunity to join a fast growing company.  At Yapily, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community! Get in touch!</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£50k – £60k"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Employee",
+        "url": "https://angel.co/u/darvesh-daswani-1",
+        "name": "Darvesh Daswani",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "691478",
+        "angelListUrl": "https://angel.co/company/yapily/jobs/691478-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Head of People",
+      "description": "Company Description\r\n\r\nYapily (www.yapily.com) is a well-funded, dynamic, very ambitious and forward-thinking fintech start-up. We know the most important asset in our company are the people and we are looking for an exceptional People lead / Head of People.\r\n\r\nDo you have a proven operational experience in scaling a company and managing the best talent? Do you think about human resources in a strategic way? Do you have strong problem-solving skills? Are you a creative thinker? Do you take a proactive approach and you are very hands on? If you are also positive and energetic, join us.\r\n\r\nResponsibilities\r\n\r\n* Working with the Leadership Team to create and implement a culture and the Yapily values\r\n* Strategically think about the company ambition and what talent we need\r\n* Set up processes to make sure we nurture our talented people and we help them grow\r\n* Manage all initiatives needed to make sure Yapily is the place people want to work in\r\n* Implement internal training programs \r\n* Provide regular reporting on People metrics to help inform business decisions including on organisational structure\r\n* Maintaining relationships with hiring managers across the business. \r\n* Design, implement, roll out and manage annual appraisal processes\r\n\r\nQualifications\r\n\r\n* A minimum of 5-7 years of relevant experience \r\n* You will have previous People management experience in a tech fast growing startup\r\n* Strong passion for dealing with people\r\n* Clear vision on how to attract and manage the best talents\r\n* CIPD qualified \r\n* Some experience on learning and development/training provision\r\n* Experience setting and developing a great culture\r\n\r\nAdditional information\r\n\r\nThis is a fantastic opportunity to join a fast growing company.  At Yapily, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community! Get in touch!",
+      "descriptionHtml": "<p>Company Description</p>\n\n<p>Yapily (<a href=\"http://www.yapily.com\" target=\"_blank\" rel=\"nofollow\">www.yapily.com</a>) is a well-funded, dynamic, very ambitious and forward-thinking fintech start-up. We know the most important asset in our company are the people and we are looking for an exceptional People lead / Head of People.</p>\n\n<p>Do you have a proven operational experience in scaling a company and managing the best talent? Do you think about human resources in a strategic way? Do you have strong problem-solving skills? Are you a creative thinker? Do you take a proactive approach and you are very hands on? If you are also positive and energetic, join us.</p>\n\n<p>Responsibilities</p>\n\n<ul>\n<li>Working with the Leadership Team to create and implement a culture and the Yapily values</li>\n<li>Strategically think about the company ambition and what talent we need</li>\n<li>Set up processes to make sure we nurture our talented people and we help them grow</li>\n<li>Manage all initiatives needed to make sure Yapily is the place people want to work in</li>\n<li>Implement internal training programs </li>\n<li>Provide regular reporting on People metrics to help inform business decisions including on organisational structure</li>\n<li>Maintaining relationships with hiring managers across the business. </li>\n<li>Design, implement, roll out and manage annual appraisal processes</li>\n</ul>\n\n<p>Qualifications</p>\n\n<ul>\n<li>A minimum of 5-7 years of relevant experience </li>\n<li>You will have previous People management experience in a tech fast growing startup</li>\n<li>Strong passion for dealing with people</li>\n<li>Clear vision on how to attract and manage the best talents</li>\n<li>CIPD qualified </li>\n<li>Some experience on learning and development/training provision</li>\n<li>Experience setting and developing a great culture</li>\n</ul>\n\n<p>Additional information</p>\n\n<p>This is a fantastic opportunity to join a fast growing company.  At Yapily, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community! Get in touch!</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Employee",
+        "url": "https://angel.co/u/darvesh-daswani-1",
+        "name": "Darvesh Daswani",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "759166",
+        "angelListUrl": "https://angel.co/company/yapily/jobs/759166-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Senior Sales Executive",
+      "description": "Company Description\n\nYapily (www.yapily.com) is a well funded, dynamic and forward-thinking fintech start up which is proud of its strong technical background. We are looking for an exceptional Senior Sales Executive.\nDo you have a proven sales experience within the Financial Technology industry? Do you have strong presentation and communication skills? Do you take a proactive approach and you are very hands on? If you are also positive and energetic, join us.\n\nJob Description\n\n•Build strategic relationships within global accounts and maximise development and growth opportunities.\n•Seek new business opportunities within new accounts\n•Help shape the product offering and spot market opportunities for new customers.\n•Create long term partnerships with other players to boost the growth of the company.\n•Prepared to roll sleeves up and sell as part of a scale up – this is not a big company software sales role\n•Able to hit the ground running \n\nQualifications\n\n•5+ years experience in quota carrying financial technology software sales\n•Experience in formal sales methodologies and ability to adapt them to the situation\n•Proven sales experience at C-suite level within corporates, banks and Fintechs\n•Track record of overachieving target as an individual contributor\n•Entrepreneurial and motivated spirit with hunger for new challenges\n•Good understanding of main technologies, trends and concepts\n•Strong presentation, communication and interpersonal skills\n•Takes a proactive approach to identifying new business opportunities\n•Demonstrable experience in opening up new markets for a firm\n•Experience and proven ability of representing a company to all customers, suppliers and authorities.\n\nAdditional information\n\nThis is a fantastic opportunity to join a fast growing company.  At Yapily, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community! Get in touch!",
+      "descriptionHtml": "<p>Company Description</p>\n\n<p>Yapily (<a href=\"http://www.yapily.com\" target=\"_blank\" rel=\"nofollow\">www.yapily.com</a>) is a well funded, dynamic and forward-thinking fintech start up which is proud of its strong technical background. We are looking for an exceptional Senior Sales Executive.<br>\nDo you have a proven sales experience within the Financial Technology industry? Do you have strong presentation and communication skills? Do you take a proactive approach and you are very hands on? If you are also positive and energetic, join us.</p>\n\n<p>Job Description</p>\n\n<p>•Build strategic relationships within global accounts and maximise development and growth opportunities.<br>\n•Seek new business opportunities within new accounts<br>\n•Help shape the product offering and spot market opportunities for new customers.<br>\n•Create long term partnerships with other players to boost the growth of the company.<br>\n•Prepared to roll sleeves up and sell as part of a scale up – this is not a big company software sales role<br>\n•Able to hit the ground running </p>\n\n<p>Qualifications</p>\n\n<p>•5+ years experience in quota carrying financial technology software sales<br>\n•Experience in formal sales methodologies and ability to adapt them to the situation<br>\n•Proven sales experience at C-suite level within corporates, banks and Fintechs<br>\n•Track record of overachieving target as an individual contributor<br>\n•Entrepreneurial and motivated spirit with hunger for new challenges<br>\n•Good understanding of main technologies, trends and concepts<br>\n•Strong presentation, communication and interpersonal skills<br>\n•Takes a proactive approach to identifying new business opportunities<br>\n•Demonstrable experience in opening up new markets for a firm<br>\n•Experience and proven ability of representing a company to all customers, suppliers and authorities.</p>\n\n<p>Additional information</p>\n\n<p>This is a fantastic opportunity to join a fast growing company.  At Yapily, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community! Get in touch!</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£60k – £80k"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Employee",
+        "url": "https://angel.co/u/darvesh-daswani-1",
+        "name": "Darvesh Daswani",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "721711",
+        "angelListUrl": "https://angel.co/company/yapily/jobs/721711-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Team Lead: Sales Development Representative",
+      "description": "Company Description\n\nYapily (www.yapily.com ) is a well funded, fast growing and forward-thinking fintech start up which is proud of its strong technical background. We’re an enterprise platform offering and have just raised and enhanced seed round (https://tcrn.ch/2J8TS55 ) and now we’re scaling.\nYapily is building API connections to all banks, normalising and enriching the data, and providing it through a highly secure API. We’re the only native API platform designed from the ground up for Open Banking and Open Finance.\n\nJob Description\n\nWe’re looking for an enthusiastic, motivated and driven person to join our growing sales team and who wants to build a sales career with an innovative, fast growing Fintech startup. This role is one of the first touch points for prospects and has the opportunity to set the tone for the sales cycle following.\nYou’ll be working directly for our recently hired Chief Revenue Officer and mentoring and professional development are a big part of how we work as a firm.\n\nSome of the key items for you will be:\n•Help build and lead a team of Sales Development Representatives\n•Ensure best practices and processes are put in place to generate maximum number of sales qualified leads\n•Follow up on inbound marketing generated leads and identify qualified opportunities\n•Responsible for nurturing, educating and developing prospects before handing over to sales team\n•Build outbound prospect programme and implement it effectively\n•Work with the sales execs and the CRO to support acquisition of new accounts\n•Strategic market planning \n•Track all engagements in the CRM system effectively\n•Schedule meetings post qualification with sales team\n\nSkills & Qualifications\n\n•Bsc/BA 2:1 or higher Degree with 2-5 years of relevant professional work experience\n•Previous experience building and managing a team of SDRs\n•High Emotional Intelligence and interpersonal skills\n•Great communication skills including written, verbal, presentation and social media\n•Ability to gain quick understanding in the customer pain point\n•Self motivated, flexible and tenacious and can work around blockers\n•CRM application experience \n•A strong interest in FinTech \n•Additional European Languages are beneficial\n\nAdditional Information\n\nThis is a fantastic opportunity to join a fast growing company.  At Yapily, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community! Get in touch!",
+      "descriptionHtml": "<p>Company Description</p>\n\n<p>Yapily (<a href=\"http://www.yapily.com\" target=\"_blank\" rel=\"nofollow\">www.yapily.com</a> ) is a well funded, fast growing and forward-thinking fintech start up which is proud of its strong technical background. We’re an enterprise platform offering and have just raised and enhanced seed round (<a href=\"https://tcrn.ch/2J8TS55\" target=\"_blank\" rel=\"nofollow\">https://tcrn.ch/2J8TS55</a> ) and now we’re scaling.<br>\nYapily is building API connections to all banks, normalising and enriching the data, and providing it through a highly secure API. We’re the only native API platform designed from the ground up for Open Banking and Open Finance.</p>\n\n<p>Job Description</p>\n\n<p>We’re looking for an enthusiastic, motivated and driven person to join our growing sales team and who wants to build a sales career with an innovative, fast growing Fintech startup. This role is one of the first touch points for prospects and has the opportunity to set the tone for the sales cycle following.<br>\nYou’ll be working directly for our recently hired Chief Revenue Officer and mentoring and professional development are a big part of how we work as a firm.</p>\n\n<p>Some of the key items for you will be:<br>\n•Help build and lead a team of Sales Development Representatives<br>\n•Ensure best practices and processes are put in place to generate maximum number of sales qualified leads<br>\n•Follow up on inbound marketing generated leads and identify qualified opportunities<br>\n•Responsible for nurturing, educating and developing prospects before handing over to sales team<br>\n•Build outbound prospect programme and implement it effectively<br>\n•Work with the sales execs and the CRO to support acquisition of new accounts<br>\n•Strategic market planning <br>\n•Track all engagements in the CRM system effectively<br>\n•Schedule meetings post qualification with sales team</p>\n\n<p>Skills &amp; Qualifications</p>\n\n<p>•Bsc/BA 2:1 or higher Degree with 2-5 years of relevant professional work experience<br>\n•Previous experience building and managing a team of SDRs<br>\n•High Emotional Intelligence and interpersonal skills<br>\n•Great communication skills including written, verbal, presentation and social media<br>\n•Ability to gain quick understanding in the customer pain point<br>\n•Self motivated, flexible and tenacious and can work around blockers<br>\n•CRM application experience <br>\n•A strong interest in FinTech <br>\n•Additional European Languages are beneficial</p>\n\n<p>Additional Information</p>\n\n<p>This is a fantastic opportunity to join a fast growing company.  At Yapily, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community! Get in touch!</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£40k – £45k"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Employee",
+        "url": "https://angel.co/u/darvesh-daswani-1",
+        "name": "Darvesh Daswani",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "721720",
+        "angelListUrl": "https://angel.co/company/yapily/jobs/721720-"
+      }
+    }
+  ]
+}

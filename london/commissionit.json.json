@@ -1,0 +1,99 @@
+{
+  "name": "Commissionit",
+  "avatar": "https://photos.angel.co/startups/i/6723898-43a503fe8ee8f30c8f85a4441db13691-medium_jpg.jpg?buster=1547053597",
+  "slogan": "Commissioning platform",
+  "description": "The place to get unique content, designs and commissions made for you or simply buy bespoke works for corporates and individuals.\n\nAs a Social Enterprise, we also raise money for good causes.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.commissionit.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Art",
+    "Design",
+    "Social Enterprise",
+    "Manufacturing"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/amin-saleem-1",
+      "name": "Amin Saleem",
+      "avatar": "https://photos.angel.co/users/6560072-medium_jpg?1510066659",
+      "bioHtml": "A visionary and strategic thinker. Founded &amp; sold an award-winning online reverse auction, taking over £230m in orders, reaching over 1m unique users."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6723898",
+    "angelListUrl": "https://angel.co/company/commissionit"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Part time Full Stack Developer and part time CTO required",
+      "description": "Looking for a full stack developer to initially provide part-time support to our project https://www.smartdealmaker.com/what-we-do & https://app.commissionit.com/bingsearch\n\nI have enclosed a tech stack overview to see what has been developed.\n\nThe ideal person will work paid for first but would then want to potentially get strategically involved with the project as a (remote) CTO and also have .php experience.\n\nYou need to know Angular, Azure, C# / .Net, SignalR",
+      "descriptionHtml": "<p>Looking for a full stack developer to initially provide part-time support to our project <a href=\"https://www.smartdealmaker.com/what-we-do\" target=\"_blank\" rel=\"nofollow\">https://www.smartdealmaker.com/what-we-do</a> &amp; <a href=\"https://app.commissionit.com/bingsearch\" target=\"_blank\" rel=\"nofollow\">https://app.commissionit.com/bingsearch</a></p>\n\n<p>I have enclosed a tech stack overview to see what has been developed.</p>\n\n<p>The ideal person will work paid for first but would then want to potentially get strategically involved with the project as a (remote) CTO and also have .php experience.</p>\n\n<p>You need to know Angular, Azure, C# / .Net, SignalR</p>\n",
+      "position": "cofounder",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "Uk"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        ".NET",
+        "C#",
+        "SignalR",
+        "Microsoft Azure",
+        "Angular"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "5.0% – 10.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/amin-saleem-1",
+        "name": "Amin Saleem",
+        "avatar": "https://photos.angel.co/users/6560072-medium_jpg?1510066659"
+      },
+      "refs": {
+        "angelListId": "484489",
+        "angelListUrl": "https://angel.co/company/commissionit/jobs/484489-"
+      }
+    }
+  ]
+}

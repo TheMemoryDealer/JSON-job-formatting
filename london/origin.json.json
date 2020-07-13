@@ -1,0 +1,138 @@
+{
+  "name": "Origin",
+  "avatar": "https://photos.angel.co/startups/i/330609-e3d343bf9e74ed5138499254ec731124-medium_jpg.jpg?buster=1433416004",
+  "slogan": "The Primary Marketplace",
+  "description": "Origin’s software has transformed the debt capital markets, completely streamlining the way companies and investment banks work together to raise capital. Having launched just over 4 years ago, Origin is now used by over 20 investment banks and 80 borrowers in over 50 cities worldwide. Our clients include some of the largest investment banks and borrowers globally, including Barclays, Citi, and Telefonica. \n\nOur culture has helped us succeed where others have failed, in an industry that is famously resistant to change. We are a group of self-starters who are brave enough to take risks, and humble enough to learn from our mistakes. We know that our whole is greater than the sum of our parts, and we’re looking for like-minded individuals to join our team. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://originmarkets.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://originmarkets.com/blog/"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/originmarkets"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/10010524/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Hong Kong"
+  ],
+  "marketTags": [
+    "Fin Tech"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 2500000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1447113600,
+        "valuation": 5500000
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CEO, Co-Founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/raja-palaniappan",
+      "name": "Raja Palaniappan",
+      "avatar": "https://photos.angel.co/users/1130870-medium_jpg?1435667427",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/origin\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Origin</span></a>  • Worked at <a href=\"https://angel.co/company/lehman-brothers\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Lehman Brothers</span></a>, <a href=\"https://angel.co/company/credit-suisse\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Credit Suisse</span></a> • Studied at <a href=\"https://angel.co/massachusetts-institute-of-technology\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Massachusetts Institute of Technology</span></a>"
+    },
+    {
+      "title": "CTO & Co-Founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/robert-taylor-1",
+      "name": "Robert Taylor",
+      "avatar": "https://photos.angel.co/users/429445-medium_jpg?1434445376",
+      "bioHtml": "Co-founder <a href=\"https://angel.co/company/origin\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Origin</span></a>. Associate <a href=\"https://angel.co/techstars-2\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Tech Stars</span></a>. Trader <span><span class=\"at_symbol\">@</span><span class=\"at_name\">JPMorgan</span></span>, <a href=\"https://angel.co/company/nomura\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Nomura</span></a>. Studied <a href=\"https://angel.co/company/imperial-college-london\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Imperial College London</span></a>, <a href=\"https://angel.co/hec-paris\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Hec Paris</span></a> "
+    },
+    {
+      "title": "CTO & Co-Founder",
+      "role": "Employee",
+      "url": "https://angel.co/u/robert-taylor-1",
+      "name": "Robert Taylor",
+      "avatar": "https://photos.angel.co/users/429445-medium_jpg?1434445376",
+      "bioHtml": "Co-founder <a href=\"https://angel.co/company/origin\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Origin</span></a>. Associate <a href=\"https://angel.co/techstars-2\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Tech Stars</span></a>. Trader <span><span class=\"at_symbol\">@</span><span class=\"at_name\">JPMorgan</span></span>, <a href=\"https://angel.co/company/nomura\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Nomura</span></a>. Studied <a href=\"https://angel.co/company/imperial-college-london\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Imperial College London</span></a>, <a href=\"https://angel.co/hec-paris\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Hec Paris</span></a> "
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/josephine-chua-1",
+      "name": "Josephine Chua",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/arnaud-blois",
+      "name": "Arnaud Blois",
+      "avatar": "https://photos.angel.co/users/5206214-medium_jpg?1485358468",
+      "bioHtml": "Python Engineer at Origin Markets, previously fullstack developer at Dinameal and Research Fellow at UCL, PhD in Electrical and Electronic Engineering"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "330609",
+    "angelListUrl": "https://angel.co/company/origin"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Front-End Developer",
+      "description": "INTRO \nWe are recruiting a front-end engineer to sculpt beautifully designed and intuitive interfaces to the highest quality on the Origin platform. \n\nRESPONSIBILITIES \n- Responsible for all things front-end, we currently use some remote resources but want to bring everything in-house with you assuming role of front-end architect\n- Make decisions on which frameworks and packaging methodologies to use\n- Oversee the process of SCSS development\n- Writing unit-testable front-end code\n- Designing, implementing and maintaining an engaging user experience \n- Keeping up to date with the very latest in front end technologies and practices and incorporating the best of them in the product roadmap \n\nREQUIRED \n- 3 years+ commercial experience\n- A keen eye for design with proven experience in building modular, design centered interfaces\n- A deep understanding of modular SCSS \n- Experience with tools like gulp/grunt\n- Experience with tools like Browserify/Webpack/requireJS\n- AngularJS experience architecting and building applications on top of APIs\n- Experience with client-side testing frameworks such as PhantomJS/Jasmine\n\nWOULD BE AWESOME \n- Experience with Python \n\nYou MUST be eligible to work in the UK and personally have the skills described above (eg. not be a recruiter).",
+      "descriptionHtml": "<p>INTRO <br>\nWe are recruiting a front-end engineer to sculpt beautifully designed and intuitive interfaces to the highest quality on the Origin platform. </p>\n\n<p>RESPONSIBILITIES </p>\n\n<ul>\n<li>Responsible for all things front-end, we currently use some remote resources but want to bring everything in-house with you assuming role of front-end architect</li>\n<li>Make decisions on which frameworks and packaging methodologies to use</li>\n<li>Oversee the process of SCSS development</li>\n<li>Writing unit-testable front-end code</li>\n<li>Designing, implementing and maintaining an engaging user experience </li>\n<li>Keeping up to date with the very latest in front end technologies and practices and incorporating the best of them in the product roadmap </li>\n</ul>\n\n<p>REQUIRED </p>\n\n<ul>\n<li>3 years+ commercial experience</li>\n<li>A keen eye for design with proven experience in building modular, design centered interfaces</li>\n<li>A deep understanding of modular SCSS </li>\n<li>Experience with tools like gulp/grunt</li>\n<li>Experience with tools like Browserify/Webpack/requireJS</li>\n<li>AngularJS experience architecting and building applications on top of APIs</li>\n<li>Experience with client-side testing frameworks such as PhantomJS/Jasmine</li>\n</ul>\n\n<p>WOULD BE AWESOME </p>\n\n<ul>\n<li>Experience with Python </li>\n</ul>\n\n<p>You MUST be eligible to work in the UK and personally have the skills described above (eg. not be a recruiter).</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "HTML",
+        "Front-End Development",
+        "API",
+        "HTML5 & CSS3",
+        "Angular.JS",
+        "Angular 2",
+        "Angular"
+      ],
+      "payment": {
+        "salary": "£50k – £70k",
+        "equity": "0.01% – 0.2%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Board Member",
+        "url": "https://angel.co/u/raja-palaniappan",
+        "name": "Raja Palaniappan",
+        "avatar": "https://photos.angel.co/users/1130870-medium_jpg?1435667427"
+      },
+      "refs": {
+        "angelListId": "61523",
+        "angelListUrl": "https://angel.co/company/origin/jobs/61523-"
+      }
+    }
+  ]
+}

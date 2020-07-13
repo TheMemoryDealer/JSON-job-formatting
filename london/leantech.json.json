@@ -1,0 +1,155 @@
+{
+  "name": "Lean",
+  "avatar": "https://photos.angel.co/startups/i/7401465-a7c6c995032f6fca095b5c73ba6b4f84-medium_jpg.jpg?buster=1578479866",
+  "slogan": "Empowering the next generation of Fintech disruptors",
+  "description": "At Lean, we are building developer-friendly infrastructure to provide access to consumer Financial data. \n\nOur simple APIs abstract developers away from the complexities of the financial ecosystem, enabling them to focus on what matters most; the consumer. \n\nWe are a team of impact-driven entrepreneurs and technologists with a passion to enable the next generation of Fintech disruption. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.leantech.me"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Riyadh"
+  ],
+  "marketTags": [
+    "Financial Technology",
+    "Startups",
+    "Software Engineering"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/hisham-al-falih",
+      "name": "Hisham Al-Falih",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/aditya-sarkar-4",
+      "name": "Aditya Sarkar",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/oscar-chavez-15",
+      "name": "Oscar Chavez",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "CTO/CSO",
+      "role": "Employee",
+      "url": "https://angel.co/u/ashu-gupta",
+      "name": "Ashu Gupta",
+      "avatar": "https://photos.angel.co/users/954619-medium_jpg?1570821171",
+      "bioHtml": "I am a Multipotentialite, never afraid of starting from scratch."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7401465",
+    "angelListUrl": "https://angel.co/company/leantech"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Design Obsessed Frontend Developer",
+      "description": "At Lean, we are on a mission to empower Fintech developers. We build universal APIs, giving access to pertinent consumer data, thus eliminating barriers to entry. \n\nWe’ve worked tirelessly over the past few months on building an effective, secure and scalable API that we’re proud of. It’s now time to focus on the user-experience. At this stage, our capacity to establish ourselves as a central player rests on our ability to create a beautifully-crafted and delightful developer experience. \n\nWe are looking for a Frontend Web Developer who is passionate about the intersection of programming and UX. The ideal candidate would take pride in being thoughtful and thorough and wants to take charge in every stage of design work, from inception to implementation to iteration.\n\n\n### Required skills\n* Build reusable front-end components and libraries for future use\n* Ensure the technical feasibility of UI/UX designs\n* Develop engaging user flows\n* Collaborate with other team members and stakeholders\n* Proficient understanding of web markup, including HTML5, CSS3\n* Basic understanding of server-side CSS pre-processing platforms, such as LESS and SASS\n* Proficient understanding of client-side scripting and JavaScript frameworks, e.g. React\n* Good understanding of asynchronous request handling, partial page updates, and AJAX\n* Proficient understanding of cross-browser compatibility issues and ways to work around them.\n* Proficient understanding of code versioning tools, such as Git\n\n\n### Bonus ###\n* Good understanding of SEO principles and ensuring that application will adhere to them\n* You can send us a portfolio of your previous design and front end work",
+      "descriptionHtml": "<p>At Lean, we are on a mission to empower Fintech developers. We build universal APIs, giving access to pertinent consumer data, thus eliminating barriers to entry. </p>\n\n<p>We’ve worked tirelessly over the past few months on building an effective, secure and scalable API that we’re proud of. It’s now time to focus on the user-experience. At this stage, our capacity to establish ourselves as a central player rests on our ability to create a beautifully-crafted and delightful developer experience. </p>\n\n<p>We are looking for a Frontend Web Developer who is passionate about the intersection of programming and UX. The ideal candidate would take pride in being thoughtful and thorough and wants to take charge in every stage of design work, from inception to implementation to iteration.</p>\n<h3>Required skills</h3>\n<ul>\n<li>Build reusable front-end components and libraries for future use</li>\n<li>Ensure the technical feasibility of UI/UX designs</li>\n<li>Develop engaging user flows</li>\n<li>Collaborate with other team members and stakeholders</li>\n<li>Proficient understanding of web markup, including HTML5, CSS3</li>\n<li>Basic understanding of server-side CSS pre-processing platforms, such as LESS and SASS</li>\n<li>Proficient understanding of client-side scripting and JavaScript frameworks, e.g. React</li>\n<li>Good understanding of asynchronous request handling, partial page updates, and AJAX</li>\n<li>Proficient understanding of cross-browser compatibility issues and ways to work around them.</li>\n<li>Proficient understanding of code versioning tools, such as Git</li>\n</ul>\n<h3>Bonus</h3>\n<ul>\n<li>Good understanding of SEO principles and ensuring that application will adhere to them</li>\n<li>You can send us a portfolio of your previous design and front end work</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "React.js"
+      ],
+      "payment": {
+        "salary": "£50k – £80k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/aditya-sarkar-4",
+        "name": "Aditya Sarkar",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "738129",
+        "angelListUrl": "https://angel.co/company/leantech/jobs/738129-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Founding Software Engineer",
+      "description": "Our core product is one that aligns with and empowers developers to build the financial applications they are passionate about. \r\n\r\nAs a Founding Software Engineer, you will be responsible for architecting and building the infrastructure that will underpin the future of the financial ecosystem.\r\n\r\nWe are looking for a highly-motivated, resilient problem-solver. Someone who seeks out challenges and is ready to implement compelling solutions to complex problems. \r\n\r\n\r\nRequired:\r\n\r\n- Proficient in Java, Spring Boot, Microservices, PostgreSQL\r\n\r\n- Experience working on open source APIs \r\n\r\n- 4+ years of experience as a software engineer\r\n\r\n- Desire to learn new technologies and implement them \r\n\r\n- Self-motivated and autonomous, with a desire to take complete ownership of the product from inception to deployment\r\n\r\n\r\nNice to have: \r\n\r\n- Experience working in the financial sector\r\n\r\n- Experience developing payment solutions (p2p, B2c, B2B) and a deep understanding of payment networks (ISO 8583) and related implementations\r\n\r\n- Experience working in startup environments",
+      "descriptionHtml": "<p>Our core product is one that aligns with and empowers developers to build the financial applications they are passionate about. </p>\n\n<p>As a Founding Software Engineer, you will be responsible for architecting and building the infrastructure that will underpin the future of the financial ecosystem.</p>\n\n<p>We are looking for a highly-motivated, resilient problem-solver. Someone who seeks out challenges and is ready to implement compelling solutions to complex problems. </p>\n\n<p>Required:</p>\n\n<ul>\n<li><p>Proficient in Java, Spring Boot, Microservices, PostgreSQL</p></li>\n<li><p>Experience working on open source APIs </p></li>\n<li><p>4+ years of experience as a software engineer</p></li>\n<li><p>Desire to learn new technologies and implement them </p></li>\n<li><p>Self-motivated and autonomous, with a desire to take complete ownership of the product from inception to deployment</p></li>\n</ul>\n\n<p>Nice to have: </p>\n\n<ul>\n<li><p>Experience working in the financial sector</p></li>\n<li><p>Experience developing payment solutions (p2p, B2c, B2B) and a deep understanding of payment networks (ISO 8583) and related implementations</p></li>\n<li><p>Experience working in startup environments</p></li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "PostgreSQL",
+        "REST",
+        "Spring Boot",
+        "Micro Services"
+      ],
+      "payment": {
+        "salary": "£60k – £90k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/hisham-al-falih",
+        "name": "Hisham Al-Falih",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "692527",
+        "angelListUrl": "https://angel.co/company/leantech/jobs/692527-"
+      }
+    }
+  ]
+}

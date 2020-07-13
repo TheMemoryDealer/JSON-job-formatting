@@ -1,0 +1,111 @@
+{
+  "name": "Ember",
+  "avatar": "https://photos.angel.co/startups/i/6723779-d4b67b23e72e1ea93662edcd2dfb4d1e-medium_jpg.jpg?buster=1553600929",
+  "slogan": "The world’s first software platform to automate the accounting process for SMEs",
+  "description": "Hello! We’re Ember, the world’s first software platform to automate the accounting process for SMEs.\n\nLeveraging Open Banking, Machine Learning & Making Tax Digital, Ember is the first solution to automate the business administration process from bank transaction right through to tax submission without ever leaving the platform, rendering expensive accounting software and manual bookkeeping services redundant.\n\nEmber is initially targeting the 5.4 million owner managed micro-businesses in the UK, who spend an estimated £4.5 billion p/a on banking services and accounting software. Ember’s ambition is to eliminate the administrative burden for 50 million businesses worldwide by 2030 using artificial intelligence.\n\nDue to launch in July to a closed group of 20 SME’s and publicly in September, Ember aims to be one of the biggest Fintech entrants to the market in recent years.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://ember.co"
+    },
+    {
+      "type": "blog",
+      "url": "https://ember.co/blog"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/emberhub"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/emberhub"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/emberhub"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Accounting",
+    "B2B",
+    "Fin Tech"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 250000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1572998400,
+        "valuation": 1350000
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/dan-hogan-11",
+      "name": "Dan Hogan",
+      "avatar": "https://photos.angel.co/users/8941960-medium_jpg?1566503847",
+      "bioHtml": "Deloitte-trained, fully qualified Chartered Accountant and current COO/CFO of Ember."
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/aarshaw",
+      "name": "Aaron Shaw",
+      "avatar": "https://photos.angel.co/users/2552244-medium_jpg?1574111105",
+      "bioHtml": "CEO &amp; Co-Founder of <a href=\"https://angel.co/company/emberhub\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Ember</span></a>  "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6723779",
+    "angelListUrl": "https://angel.co/company/emberhub"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Lead Full Stack Engineer",
+      "description": "Overview:\n\nWe are looking for an exceptionally talented full-stack Javascript developer to join a London based startup building the world's first software solution that automates the entirety of SME administration using AI and Machine Learning.\n\nExpect challenging work at the cutting edge of your field and an incredibly motivated and highly talented team.\n\nWhy this role?\n\n- Have meaningful impact in shaping the future of Ember. As technical lead, we will be building the team around you! Expect to have your voice heard and have real say, not just on the technical side but throughout the company.\n- We have a technical founding team and technology will always be at the forefront of our business - we've been developers in the past and we know what it takes to create an environment that allows developers to thrive.\n- Use the latest and greatest technology to solve some of the most interesting and impactful problems facing the world today.\n- We've just closed our Seed funding round, launched our MVP and are starting to get our first metrics through. It's the perfect time to join!\n\nJust for you:\n\n- Generous stock options - we believe that everyone should own a part of what they're building, that's why we give equity to every one of our employees - joining earlier means you'll have a larger slice of the pie.\n- WeWork office space - that means free coffee, free beer, free breakfast on a Monday morning, socials on Thursday evenings, games room, roof terrace and a whole host of networking and professional development events - you name it, we've got it.\n- Have your say - if there's something you think we're missing and would like to add, let us know! We'll most likely be able to add it!\n\nRequirements:\n\n- Minimum 1 years professional experience leading a technical team\n- Minimum 2 years professional experience working with React and/or React Native\n- Minimum 1 year professional experience writing automated test suites (Unit Test/Integration Tests/E2E Tests)\n- Experience working across the full stack: Front End / Back End / Databases\n- Experience working in fast paced, agile teams\n\nBonus Points:\n\n- Hands on experience with any of the specific technologies in our tech stack is a big plus\n- Good communication skills and team player\n- Any UX/UI design experience\n- Exposure to Machine Learning frameworks\n- Industry specific knowledge in Banking and Accounting\n- Portfolios / Github Profiles / Code Snippets and anything tangible that we can look at that demonstrates your ability\n\nOur Tech Stack:\n\n- Front End\n\n    Expo | React Native | React Native Web | Typescript\n\n- Backend\n\n    Node.js | Zeit Now | Prisma | Typescript\n\n- Infrastructure\n\n    Semaphore CI | Digital Ocean | Zeit Now | Expo\n\n- Testing\n\n    Jest | Cypress | Detox\n\n- Data Science\n\n    Python | Algorithmia",
+      "descriptionHtml": "<p>Overview:</p>\n\n<p>We are looking for an exceptionally talented full-stack Javascript developer to join a London based startup building the world&#39;s first software solution that automates the entirety of SME administration using AI and Machine Learning.</p>\n\n<p>Expect challenging work at the cutting edge of your field and an incredibly motivated and highly talented team.</p>\n\n<p>Why this role?</p>\n\n<ul>\n<li>Have meaningful impact in shaping the future of Ember. As technical lead, we will be building the team around you! Expect to have your voice heard and have real say, not just on the technical side but throughout the company.</li>\n<li>We have a technical founding team and technology will always be at the forefront of our business - we&#39;ve been developers in the past and we know what it takes to create an environment that allows developers to thrive.</li>\n<li>Use the latest and greatest technology to solve some of the most interesting and impactful problems facing the world today.</li>\n<li>We&#39;ve just closed our Seed funding round, launched our MVP and are starting to get our first metrics through. It&#39;s the perfect time to join!</li>\n</ul>\n\n<p>Just for you:</p>\n\n<ul>\n<li>Generous stock options - we believe that everyone should own a part of what they&#39;re building, that&#39;s why we give equity to every one of our employees - joining earlier means you&#39;ll have a larger slice of the pie.</li>\n<li>WeWork office space - that means free coffee, free beer, free breakfast on a Monday morning, socials on Thursday evenings, games room, roof terrace and a whole host of networking and professional development events - you name it, we&#39;ve got it.</li>\n<li>Have your say - if there&#39;s something you think we&#39;re missing and would like to add, let us know! We&#39;ll most likely be able to add it!</li>\n</ul>\n\n<p>Requirements:</p>\n\n<ul>\n<li>Minimum 1 years professional experience leading a technical team</li>\n<li>Minimum 2 years professional experience working with React and/or React Native</li>\n<li>Minimum 1 year professional experience writing automated test suites (Unit Test/Integration Tests/E2E Tests)</li>\n<li>Experience working across the full stack: Front End / Back End / Databases</li>\n<li>Experience working in fast paced, agile teams</li>\n</ul>\n\n<p>Bonus Points:</p>\n\n<ul>\n<li>Hands on experience with any of the specific technologies in our tech stack is a big plus</li>\n<li>Good communication skills and team player</li>\n<li>Any UX/UI design experience</li>\n<li>Exposure to Machine Learning frameworks</li>\n<li>Industry specific knowledge in Banking and Accounting</li>\n<li>Portfolios / Github Profiles / Code Snippets and anything tangible that we can look at that demonstrates your ability</li>\n</ul>\n\n<p>Our Tech Stack:</p>\n\n<ul>\n<li><p>Front End</p>\n\n<p>Expo | React Native | React Native Web | Typescript</p></li>\n<li><p>Backend</p>\n\n<p>Node.js | Zeit Now | Prisma | Typescript</p></li>\n<li><p>Infrastructure</p>\n\n<p>Semaphore CI | Digital Ocean | Zeit Now | Expo</p></li>\n<li><p>Testing</p>\n\n<p>Jest | Cypress | Detox</p></li>\n<li><p>Data Science</p>\n\n<p>Python | Algorithmia</p></li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Node.js",
+        "TypeScript",
+        "React.js",
+        "React Native"
+      ],
+      "payment": {
+        "salary": "£50k – £60k",
+        "equity": "0.5% – 2.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/aarshaw",
+        "name": "Aaron Shaw",
+        "avatar": "https://photos.angel.co/users/2552244-medium_jpg?1574111105"
+      },
+      "refs": {
+        "angelListId": "607294",
+        "angelListUrl": "https://angel.co/company/emberhub/jobs/607294-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "name": "Tuseek",
+  "avatar": "https://photos.angel.co/startups/i/6553396-4ae803433d1f7c8513f02139bccf758a-medium_jpg.jpg?buster=1541689372",
+  "slogan": "Professional networking and mentoring for finance professionals",
+  "description": "We are the only targeted niche platform that provides a service for finance students and professionals to stay connected, stay relevant and stay engaged.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://coming soon"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Professional Networking"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/vikram-rajvanshy",
+      "name": "Vikram Rajvanshy ",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at Concord, Concord. Experience with Business Acumen, Business Development, Cash Management. Went to Northeastern University, London Business School"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6553396",
+    "angelListUrl": "https://angel.co/company/tuseek"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "CTO / Co-Founder",
+      "description": "You: Someone with a strong technical background, who has worked in the role of CTO with a major startup that was successful (exit through IPO or acquisition), someone who is willing to enter a niche market to change the lives a millions and willing to get their hands dirty!\n\nSome aspects of the role: \n\nChoosing the technologies, language and infrastructure to build the product with.\n\nChoosing the development tools, like IDE, source control, logging, tests, etc.\n\nDesigning the software architecture, modules, and components.\n\nBuilding the dev roadmap, with coordination with the other founders regarding priority of features.\n\nDeciding on coding standards and development protocols.\n\nWriting and managing any software related documentation (for example company internal wiki page etc.).\n\nDesigning the Database. This includes choosing DB solution, designing its tables and data relations, design it to scale, etc.",
+      "descriptionHtml": "<p>You: Someone with a strong technical background, who has worked in the role of CTO with a major startup that was successful (exit through IPO or acquisition), someone who is willing to enter a niche market to change the lives a millions and willing to get their hands dirty!</p>\n\n<p>Some aspects of the role: </p>\n\n<p>Choosing the technologies, language and infrastructure to build the product with.</p>\n\n<p>Choosing the development tools, like IDE, source control, logging, tests, etc.</p>\n\n<p>Designing the software architecture, modules, and components.</p>\n\n<p>Building the dev roadmap, with coordination with the other founders regarding priority of features.</p>\n\n<p>Deciding on coding standards and development protocols.</p>\n\n<p>Writing and managing any software related documentation (for example company internal wiki page etc.).</p>\n\n<p>Designing the Database. This includes choosing DB solution, designing its tables and data relations, design it to scale, etc.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$5k – $20k",
+        "equity": "20.0% – 30.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/vikram-rajvanshy",
+        "name": "Vikram Rajvanshy ",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "455103",
+        "angelListUrl": "https://angel.co/company/tuseek/jobs/455103-"
+      }
+    }
+  ]
+}

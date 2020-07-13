@@ -1,0 +1,203 @@
+{
+  "name": "Portify",
+  "avatar": "https://photos.angel.co/startups/i/4256348-2737d681fb7627d7ed10f658b9bf77cb-medium_jpg.jpg?buster=1583874756",
+  "slogan": "Rebuilding finance for modern working",
+  "description": "The 2010’s saw 90% of new jobs come from 'modern work'. Think side hustlers, sole-traders, freelancers and micro-entrepreneurs. Many seek this work to boost their income and flexibly pursue passion projects.\n\nPortify offers simple products to make sure this pursuit comes with short term financial security, and long term financial health. We exist to empower modern workers to follow their dreams and become financially free.\n\nSince our founding in May 2017, we’ve partnered with leading brands such as Deliveroo, and helped tens of thousands of workers with their finances. We’ve been backed by top European investors including Kindred Capital, Redalpine, Entrepreneur First, and the founder of Indeed.com, raising £8M+ in total. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.portify.co/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/portify.co/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/portifyhq"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Freelancers",
+    "Fin Tech",
+    "Credit",
+    "Finance",
+    "Information Technology",
+    "Internet"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 11200000,
+    "rounds": [
+      {
+        "type": "Series A",
+        "closedAt": 1576108800,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1541548800,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "Co-Founder & CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/chris-butcher",
+      "name": "Chris Butcher",
+      "avatar": "https://photos.angel.co/users/893962-medium_jpg?1505146121",
+      "bioHtml": "Co-Founder &amp; CTO <a href=\"https://angel.co/company/portify\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Portify</span></a>, a start-up backed by <a href=\"https://angel.co/company/entrepreneur-first\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Entrepreneur First</span></a>. Previously Lead Software Engineer <a href=\"https://angel.co/company/charlie-hr\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Charlie</span></a>"
+    },
+    {
+      "title": "Co-Founder & CEO ",
+      "role": "Founder",
+      "url": "https://angel.co/u/sho-sugihara",
+      "name": "Sho Sugihara",
+      "avatar": "https://photos.angel.co/users/6560344-medium_jpg?1572348653",
+      "bioHtml": "Co-Founder &amp; CEO of Portify, a start-up backed by Entreprener First. Passionate about disruptive worker and wellbeing tech.  "
+    },
+    {
+      "title": "Head of Growth",
+      "role": "Employee",
+      "url": "https://angel.co/p/kaoru-fujita",
+      "name": "Kaoru Fujita",
+      "avatar": "https://photos.angel.co/users/229216-medium_jpg?1405571049",
+      "bioHtml": "Head of Growth <a href=\"https://angel.co/company/portify\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Portify</span></a> /   <a href=\"https://angel.co/company/entrepreneurfirst\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">EntrepreneurFirst</span></a> Alum / Former <a href=\"https://angel.co/company/trendkite\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">TrendKite</span></a> /  Cofounder <a href=\"https://angel.co/company/guava-2\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Guava</span></a> ."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/oscar-wilsby-1",
+      "name": "Oscar Wilsby",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Strategy and Operations Lead ",
+      "role": "Employee",
+      "url": "https://angel.co/u/yumika-brewster",
+      "name": "Yumika Brewster",
+      "avatar": "https://photos.angel.co/users/6652441-medium_jpg?1579186177",
+      "bioHtml": "Banking and fintech startup experience. Multilingual graduate from UCL in Economics and Politics."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4256348",
+    "angelListUrl": "https://angel.co/company/portify"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full-stack Ruby/React Software Engineer",
+      "description": "Our Stack\n\nIf you're reading this we'll assume you're technical, so let's start by talking about our stack.\n\nWe have an API written in Ruby on Rails. This is the 'backend brain' that powers pretty much everything.\n\nWe have a app that we're best known for. It's written in React Native and works seamlessly across iOS and Android using a shared codebase.\n\nWe have a dashboard that's private to our clients. It's written in React in a very similar code style to our app.\n\nThe Role\n\nAs a full-stacker you'll use your Rails & React skills to write the code that powers all three parts of our ecosystem.\n\nWorked with React but never React Native? Don't worry, they're basically the same, and we'll skill you up.\n\nWorked with React Native but never React? Again, that's cool, you'll pick it up in no time.\n\nRequirements\n\n* Experience in building production grade APIs (both internal and external facing).\n\n* Substantial experience with Ruby on Rails, and either React, or React Native (or both).\n\n* Experience with Redux.\n\n* A track record that demonstrates you can build complex features practically singlehandedly.\n\n* A positive attitude and a hunger to be the best you can be.\n\nSalary and Equity \n\nSalary: £50,000 - £65,000\nEquity: 0.0% - 0.1%\n\nVisas\n\nWe can sponsor visas for this role\n\n\n\n\nWhat can we offer you?\n\n* Mentoring and growth. We will make sure that you are always learning and have the resources and mentorship needed to fine-tune your craft and propel your career\n\n* A mission to help 160 million Modern Workers access fair financial products\n\n* Working at a tight knit, but growing company that has received awards for our positive impact on economic inclusion by institutions such as the Royal Society of Arts and Nesta. In addition, your colleagues have cut their teeth at companies like Amazon, Alibaba, Goldman Sachs, Mckinsey, received PhDs from Cambridge and started companies, including one acquired by Airbnb. We’re also backed by top tier VCs including Redalpine, Kindred Capital, and Entrepreneur First\n\nOur Culture\n\n1. We hire people we believe in, who are exceptionally smart, driven, and independent\n\n2. We decide where we need to get to together, and support you however we can so you can get us there\n\n3. We expect you to relish this responsibility, and work hard to maintain and build upon that trust\n\nWe treat each other respectfully, we aim for quality and success in everything we do, we value intelligence and dedication, and we have a laugh along the way.﻿\n\nBenefits\n\n* Learning & Development budget\n\n* Private healthcare insurance\n\n* ClassPass membership\n\n* Matched carbon off-setting\n\n* Top quality equipment provided by Portify\n\n* Season ticket loan and cycle to work scheme\n\n* 25 days holiday + 3 days office closure between Christmas and New Year",
+      "descriptionHtml": "<p>Our Stack</p>\n\n<p>If you&#39;re reading this we&#39;ll assume you&#39;re technical, so let&#39;s start by talking about our stack.</p>\n\n<p>We have an API written in Ruby on Rails. This is the &#39;backend brain&#39; that powers pretty much everything.</p>\n\n<p>We have a app that we&#39;re best known for. It&#39;s written in React Native and works seamlessly across iOS and Android using a shared codebase.</p>\n\n<p>We have a dashboard that&#39;s private to our clients. It&#39;s written in React in a very similar code style to our app.</p>\n\n<p>The Role</p>\n\n<p>As a full-stacker you&#39;ll use your Rails &amp; React skills to write the code that powers all three parts of our ecosystem.</p>\n\n<p>Worked with React but never React Native? Don&#39;t worry, they&#39;re basically the same, and we&#39;ll skill you up.</p>\n\n<p>Worked with React Native but never React? Again, that&#39;s cool, you&#39;ll pick it up in no time.</p>\n\n<p>Requirements</p>\n\n<ul>\n<li><p>Experience in building production grade APIs (both internal and external facing).</p></li>\n<li><p>Substantial experience with Ruby on Rails, and either React, or React Native (or both).</p></li>\n<li><p>Experience with Redux.</p></li>\n<li><p>A track record that demonstrates you can build complex features practically singlehandedly.</p></li>\n<li><p>A positive attitude and a hunger to be the best you can be.</p></li>\n</ul>\n\n<p>Salary and Equity </p>\n\n<p>Salary: £50,000 - £65,000<br>\nEquity: 0.0% - 0.1%</p>\n\n<p>Visas</p>\n\n<p>We can sponsor visas for this role</p>\n\n<p>What can we offer you?</p>\n\n<ul>\n<li><p>Mentoring and growth. We will make sure that you are always learning and have the resources and mentorship needed to fine-tune your craft and propel your career</p></li>\n<li><p>A mission to help 160 million Modern Workers access fair financial products</p></li>\n<li><p>Working at a tight knit, but growing company that has received awards for our positive impact on economic inclusion by institutions such as the Royal Society of Arts and Nesta. In addition, your colleagues have cut their teeth at companies like Amazon, Alibaba, Goldman Sachs, Mckinsey, received PhDs from Cambridge and started companies, including one acquired by Airbnb. We’re also backed by top tier VCs including Redalpine, Kindred Capital, and Entrepreneur First</p></li>\n</ul>\n\n<p>Our Culture</p>\n\n<ol>\n<li><p>We hire people we believe in, who are exceptionally smart, driven, and independent</p></li>\n<li><p>We decide where we need to get to together, and support you however we can so you can get us there</p></li>\n<li><p>We expect you to relish this responsibility, and work hard to maintain and build upon that trust</p></li>\n</ol>\n\n<p>We treat each other respectfully, we aim for quality and success in everything we do, we value intelligence and dedication, and we have a laugh along the way.﻿</p>\n\n<p>Benefits</p>\n\n<ul>\n<li><p>Learning &amp; Development budget</p></li>\n<li><p>Private healthcare insurance</p></li>\n<li><p>ClassPass membership</p></li>\n<li><p>Matched carbon off-setting</p></li>\n<li><p>Top quality equipment provided by Portify</p></li>\n<li><p>Season ticket loan and cycle to work scheme</p></li>\n<li><p>25 days holiday + 3 days office closure between Christmas and New Year</p></li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Software Development",
+        "Product Development",
+        "Engineering",
+        "React.js",
+        "React Native"
+      ],
+      "payment": {
+        "salary": "£50k – £65k",
+        "equity": "0.0% – 0.1%"
+      },
+      "recruiter": {
+        "title": "Co-Founder & CTO",
+        "role": "Founder",
+        "url": "https://angel.co/u/chris-butcher",
+        "name": "Chris Butcher",
+        "avatar": "https://photos.angel.co/users/893962-medium_jpg?1505146121"
+      },
+      "refs": {
+        "angelListId": "336547",
+        "angelListUrl": "https://angel.co/company/portify/jobs/336547-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Lead Backend Engineer (Ruby on Rails)",
+      "description": "About Portify\n\nOver 90% of new jobs are 'contingent work'. Think gig-economy, zero-hour contracts, and hourly pay often across multiple employers. Workers often choose this work to maximise their flexibility.\n\nPortify offers a simple suite of products that help these workers maximise take home pay, to make sure this freedom comes with financial security. Our vision is to build a world where everyone can pursue their dreams without economic concerns.\n\nSince our founding in May 2017, Portify has raised over £6m and helped tens of thousands of workers with the thing that matters to them most: money.\n\nWe're looking for a Principal Software Engineer (think \"Senior+\") to work directly alongside the CTO and help our product scale to one million users and beyond. \n\nWhat will the role involve? \n\n* Hands on mentorship, nurturing and growing the existing engineering team.\n\n* Defining best practice around software development and quality assurance.\n\n* Getting stuck in and writing code that will go to production.\n\n* Use your experience and draw from others as we navigate the challenges that come with scaling.\n\nOur Stack\n\nBack end: Ruby on Rails / Heroku / Redis / Sidekiq\nFront end: React Native / Expo / Redux\n\nWhat are we looking for? \n\n* Experience with a startup during their 'scale-up' phase. We are entering this period and your learnings of growing teams as well as tacking the inevitable technical challenges that come with a growing user base will be valuable.\n\n* Strong Ruby on Rails skills and knowledge.\n\n* Adaptability, the ability to keep cool, and great teaching skills.\n\nSalary and Equity \n\nSalary: £60,000 - £90,000\nEquity: 0.0% - 0.2%\n\nVisas\n\nWe can sponsor visas for this role\n\n\n\n\nWhat can we offer you?\n\n* Mentoring and growth. We will make sure that you are always learning and have the resources and mentorship needed to fine-tune your craft and propel your career\n\n* A mission to help 160 million Modern Workers access fair financial products\n\n* Working at a tight knit, but growing company that has received awards for our positive impact on economic inclusion by institutions such as the Royal Society of Arts and Nesta. In addition, your colleagues have cut their teeth at companies like Amazon, Alibaba, Goldman Sachs, Mckinsey, received PhDs from Cambridge and started companies, including one acquired by Airbnb. We’re also backed by top tier VCs including Redalpine, Kindred Capital, and Entrepreneur First\n\nOur Culture\n\n1. We hire people we believe in, who are exceptionally smart, driven, and independent\n\n2. We decide where we need to get to together, and support you however we can so you can get us there\n\n3. We expect you to relish this responsibility, and work hard to maintain and build upon that trust\n\nWe treat each other respectfully, we aim for quality and success in everything we do, we value intelligence and dedication, and we have a laugh along the way.﻿\n\nBenefits\n\n* Learning & Development budget\n\n* Private healthcare insurance\n\n* ClassPass membership\n\n* Matched carbon off-setting\n\n* Top quality equipment provided by Portify\n\n* Season ticket loan and cycle to work scheme\n\n* 25 days holiday + 3 days office closure between Christmas and New Year",
+      "descriptionHtml": "<p>About Portify</p>\n\n<p>Over 90% of new jobs are &#39;contingent work&#39;. Think gig-economy, zero-hour contracts, and hourly pay often across multiple employers. Workers often choose this work to maximise their flexibility.</p>\n\n<p>Portify offers a simple suite of products that help these workers maximise take home pay, to make sure this freedom comes with financial security. Our vision is to build a world where everyone can pursue their dreams without economic concerns.</p>\n\n<p>Since our founding in May 2017, Portify has raised over £6m and helped tens of thousands of workers with the thing that matters to them most: money.</p>\n\n<p>We&#39;re looking for a Principal Software Engineer (think &quot;Senior+&quot;) to work directly alongside the CTO and help our product scale to one million users and beyond. </p>\n\n<p>What will the role involve? </p>\n\n<ul>\n<li><p>Hands on mentorship, nurturing and growing the existing engineering team.</p></li>\n<li><p>Defining best practice around software development and quality assurance.</p></li>\n<li><p>Getting stuck in and writing code that will go to production.</p></li>\n<li><p>Use your experience and draw from others as we navigate the challenges that come with scaling.</p></li>\n</ul>\n\n<p>Our Stack</p>\n\n<p>Back end: Ruby on Rails / Heroku / Redis / Sidekiq<br>\nFront end: React Native / Expo / Redux</p>\n\n<p>What are we looking for? </p>\n\n<ul>\n<li><p>Experience with a startup during their &#39;scale-up&#39; phase. We are entering this period and your learnings of growing teams as well as tacking the inevitable technical challenges that come with a growing user base will be valuable.</p></li>\n<li><p>Strong Ruby on Rails skills and knowledge.</p></li>\n<li><p>Adaptability, the ability to keep cool, and great teaching skills.</p></li>\n</ul>\n\n<p>Salary and Equity </p>\n\n<p>Salary: £60,000 - £90,000<br>\nEquity: 0.0% - 0.2%</p>\n\n<p>Visas</p>\n\n<p>We can sponsor visas for this role</p>\n\n<p>What can we offer you?</p>\n\n<ul>\n<li><p>Mentoring and growth. We will make sure that you are always learning and have the resources and mentorship needed to fine-tune your craft and propel your career</p></li>\n<li><p>A mission to help 160 million Modern Workers access fair financial products</p></li>\n<li><p>Working at a tight knit, but growing company that has received awards for our positive impact on economic inclusion by institutions such as the Royal Society of Arts and Nesta. In addition, your colleagues have cut their teeth at companies like Amazon, Alibaba, Goldman Sachs, Mckinsey, received PhDs from Cambridge and started companies, including one acquired by Airbnb. We’re also backed by top tier VCs including Redalpine, Kindred Capital, and Entrepreneur First</p></li>\n</ul>\n\n<p>Our Culture</p>\n\n<ol>\n<li><p>We hire people we believe in, who are exceptionally smart, driven, and independent</p></li>\n<li><p>We decide where we need to get to together, and support you however we can so you can get us there</p></li>\n<li><p>We expect you to relish this responsibility, and work hard to maintain and build upon that trust</p></li>\n</ol>\n\n<p>We treat each other respectfully, we aim for quality and success in everything we do, we value intelligence and dedication, and we have a laugh along the way.﻿</p>\n\n<p>Benefits</p>\n\n<ul>\n<li><p>Learning &amp; Development budget</p></li>\n<li><p>Private healthcare insurance</p></li>\n<li><p>ClassPass membership</p></li>\n<li><p>Matched carbon off-setting</p></li>\n<li><p>Top quality equipment provided by Portify</p></li>\n<li><p>Season ticket loan and cycle to work scheme</p></li>\n<li><p>25 days holiday + 3 days office closure between Christmas and New Year</p></li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£60k – £90k"
+      },
+      "recruiter": {
+        "title": "Co-Founder & CTO",
+        "role": "Founder",
+        "url": "https://angel.co/u/chris-butcher",
+        "name": "Chris Butcher",
+        "avatar": "https://photos.angel.co/users/893962-medium_jpg?1505146121"
+      },
+      "refs": {
+        "angelListId": "704396",
+        "angelListUrl": "https://angel.co/company/portify/jobs/704396-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Performance Marketing Analyst/Associate",
+      "description": "Role Description\n\nWe’re looking for a Performance Marketing Analyst/Associate who will help us rapidly experiment with our paid strategies and drive tactics that deliver predictable results. You will report directly to the Head of Growth, and use a wide range of channels to deliver our message to our core audiences on Paid Social, UAC, display, PPC and more. \n\nThis is an exciting opportunity to join a rapidly growing FinTech startup with the mission to create financial empowerment for the modern worker.\n\nOn successful performance, this role has the potential to transition into senior and specialised roles in Growth.\n\nResponsibilities\n\n* Continuously identifying new growth and optimisation opportunities through data-driven experiments that test audiences, keywords, placement and messaging\n* Ensuring predictable, disciplined growth by developing strong forecasting processes and by balancing new experiments with optimisation of proven channels and tactics\n\nWhat qualities are we looking for?\n\n* You have direct experience building multi touch attribution models for measuring in app conversions\n* A genuine passion for data and logic and making decisions based on thorough analysis. We are not afraid of making mistakes or to experiment, but we use data and logic to back up our decisions and improve our learning\n* Deep domain expertise in paid channels. Perhaps you track Google Search Algorithm updates like your friends follow sports\n* 2-3 years of hands on B2C digital marketing experience at an agency or a fast growth, high tech B2C startup\n\nBonus\n\n* You have used tools such as Optimizely to A/B test landing pages\n\nWhat does success look like in six months time?\n\n* You have identified paid tactics and channels to scale, have learnings from experiments and have a backlog of new experiments to run\n* We have playbook for experimenting and optimising our paid channels\n\nSalary and Equity \n\nSalary: £40,000 - £60,000\nEquity: Up to 0.1%\n\nVisas\n\nUnfortunately we do not currently sponsor Visas for this role \n\n\n\n\nWhat can we offer you?\n\n* Mentoring and growth. We will make sure that you are always learning and have the resources and mentorship needed to fine-tune your craft and propel your career\n\n* A mission to help 160 million Modern Workers access fair financial products\n\n* Working at a tight knit, but growing company that has received awards for our positive impact on economic inclusion by institutions such as the Royal Society of Arts and Nesta. In addition, your colleagues have cut their teeth at companies like Amazon, Alibaba, Goldman Sachs, Mckinsey, received PhDs from Cambridge and started companies, including one acquired by Airbnb. We’re also backed by top tier VCs including Redalpine, Kindred Capital, and Entrepreneur First\n\nOur Culture\n\n1. We hire people we believe in, who are exceptionally smart, driven, and independent\n\n2. We decide where we need to get to together, and support you however we can so you can get us there\n\n3. We expect you to relish this responsibility, and work hard to maintain and build upon that trust\n\nWe treat each other respectfully, we aim for quality and success in everything we do, we value intelligence and dedication, and we have a laugh along the way.﻿\n\nBenefits\n\n* Learning & Development budget\n\n* Private healthcare insurance\n\n* ClassPass membership\n\n* Matched carbon off-setting\n\n* Top quality equipment provided by Portify\n\n* Season ticket loan and cycle to work scheme\n\n* 25 days holiday + 3 days office closure between Christmas and New Year",
+      "descriptionHtml": "<p>Role Description</p>\n\n<p>We’re looking for a Performance Marketing Analyst/Associate who will help us rapidly experiment with our paid strategies and drive tactics that deliver predictable results. You will report directly to the Head of Growth, and use a wide range of channels to deliver our message to our core audiences on Paid Social, UAC, display, PPC and more. </p>\n\n<p>This is an exciting opportunity to join a rapidly growing FinTech startup with the mission to create financial empowerment for the modern worker.</p>\n\n<p>On successful performance, this role has the potential to transition into senior and specialised roles in Growth.</p>\n\n<p>Responsibilities</p>\n\n<ul>\n<li>Continuously identifying new growth and optimisation opportunities through data-driven experiments that test audiences, keywords, placement and messaging</li>\n<li>Ensuring predictable, disciplined growth by developing strong forecasting processes and by balancing new experiments with optimisation of proven channels and tactics</li>\n</ul>\n\n<p>What qualities are we looking for?</p>\n\n<ul>\n<li>You have direct experience building multi touch attribution models for measuring in app conversions</li>\n<li>A genuine passion for data and logic and making decisions based on thorough analysis. We are not afraid of making mistakes or to experiment, but we use data and logic to back up our decisions and improve our learning</li>\n<li>Deep domain expertise in paid channels. Perhaps you track Google Search Algorithm updates like your friends follow sports</li>\n<li>2-3 years of hands on B2C digital marketing experience at an agency or a fast growth, high tech B2C startup</li>\n</ul>\n\n<p>Bonus</p>\n\n<ul>\n<li>You have used tools such as Optimizely to A/B test landing pages</li>\n</ul>\n\n<p>What does success look like in six months time?</p>\n\n<ul>\n<li>You have identified paid tactics and channels to scale, have learnings from experiments and have a backlog of new experiments to run</li>\n<li>We have playbook for experimenting and optimising our paid channels</li>\n</ul>\n\n<p>Salary and Equity </p>\n\n<p>Salary: £40,000 - £60,000<br>\nEquity: Up to 0.1%</p>\n\n<p>Visas</p>\n\n<p>Unfortunately we do not currently sponsor Visas for this role </p>\n\n<p>What can we offer you?</p>\n\n<ul>\n<li><p>Mentoring and growth. We will make sure that you are always learning and have the resources and mentorship needed to fine-tune your craft and propel your career</p></li>\n<li><p>A mission to help 160 million Modern Workers access fair financial products</p></li>\n<li><p>Working at a tight knit, but growing company that has received awards for our positive impact on economic inclusion by institutions such as the Royal Society of Arts and Nesta. In addition, your colleagues have cut their teeth at companies like Amazon, Alibaba, Goldman Sachs, Mckinsey, received PhDs from Cambridge and started companies, including one acquired by Airbnb. We’re also backed by top tier VCs including Redalpine, Kindred Capital, and Entrepreneur First</p></li>\n</ul>\n\n<p>Our Culture</p>\n\n<ol>\n<li><p>We hire people we believe in, who are exceptionally smart, driven, and independent</p></li>\n<li><p>We decide where we need to get to together, and support you however we can so you can get us there</p></li>\n<li><p>We expect you to relish this responsibility, and work hard to maintain and build upon that trust</p></li>\n</ol>\n\n<p>We treat each other respectfully, we aim for quality and success in everything we do, we value intelligence and dedication, and we have a laugh along the way.﻿</p>\n\n<p>Benefits</p>\n\n<ul>\n<li><p>Learning &amp; Development budget</p></li>\n<li><p>Private healthcare insurance</p></li>\n<li><p>ClassPass membership</p></li>\n<li><p>Matched carbon off-setting</p></li>\n<li><p>Top quality equipment provided by Portify</p></li>\n<li><p>Season ticket loan and cycle to work scheme</p></li>\n<li><p>25 days holiday + 3 days office closure between Christmas and New Year</p></li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£40k – £60k",
+        "equity": "0.0% – 0.1%"
+      },
+      "recruiter": {
+        "title": "Head of Growth",
+        "role": "Employee",
+        "url": "https://angel.co/p/kaoru-fujita",
+        "name": "Kaoru Fujita",
+        "avatar": "https://photos.angel.co/users/229216-medium_jpg?1405571049"
+      },
+      "refs": {
+        "angelListId": "730406",
+        "angelListUrl": "https://angel.co/company/portify/jobs/730406-"
+      }
+    }
+  ]
+}

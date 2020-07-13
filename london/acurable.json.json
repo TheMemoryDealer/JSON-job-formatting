@@ -1,0 +1,288 @@
+{
+  "name": "Acurable",
+  "avatar": "https://photos.angel.co/startups/i/4604754-f6969482297a77e8eeb5ae2dbe23a258-medium_jpg.jpg?buster=1514893056",
+  "slogan": "The first wearable medical device able to accurately diagnose respiratory conditions",
+  "description": "Acurable ( http://acurable.com ) is a high growth MedTech start-up headquartered in London. We commercialise the first wearable medical device able to accurately diagnose and manage respiratory conditions in a non-invasive way. Our award-winning patented technology is a major engineering innovation and the product of 10 years research at Imperial College London.\n\n* Accurate : 5x more accurate readings than current solutions, enabling automated diagnosis and drastically reducing misdiagnosis. \n* Easy to use : non-invasive and no training required, enabling home use without the assistance of a specialist or a visit to the hospital, which significantly lowers overall costs.\n\nWe aim to understand human biosignals so well that nobody dies of a treatable condition ever again. To achieve our objectives, we are building a team of exceptional people who are inspired by our vision, share our values, and who have the attitude and skills required to help Acurable succeed.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://acurable.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/acurable"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/acurable/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Spain"
+  ],
+  "marketTags": [
+    "Wearables",
+    "Medical Devices",
+    "Digital Health"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/esther-rodriguez-villegas",
+      "name": "Esther Rodriguez-Villegas",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/emilio-sanz-pereiras",
+      "name": "Emilio Sanz Pereiras",
+      "avatar": "https://photos.angel.co/users/6884659-medium_jpg?1504619405",
+      "bioHtml": "CEO at Acurable. Serial entrepreneur, built 3 successful start-ups across Europe and Asia. MSc in Computer Science - UPM Spain, MBA - London Business School."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/felipe-ramon-fabresse",
+      "name": "Felipe Ramón Fabresse",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Head of Platform",
+      "role": "Employee",
+      "url": "https://angel.co/u/dcasasr",
+      "name": "Diego Casas Rodriguez",
+      "avatar": "https://photos.angel.co/users/3627683-medium_jpg?1547107805",
+      "bioHtml": "Versatile, self-motivated software engineer with strong analytical problem-solving skills with experience in technical leadership and developing roles"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/liz-dyer",
+      "name": "Liz Dyer",
+      "avatar": "https://photos.angel.co/users/8255928-medium_jpg?1534841871",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4604754",
+    "angelListUrl": "https://angel.co/company/acurable"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Android Developer",
+      "description": "We are looking for a talented Android developer with strong analytical problem-solving skills and able to deliver high-quality, well-tested code.\n\nOur mobile applications are a key component of our medical devices as it is the main interface between the user and our wearable acoustic sensor. Through your work developing our apps, you will be responsible for bringing these two sides together in a product that is not only engaging and easy to use, but also provides the high performance our system requires.\n\nWhat you will do\n* Develop easy to use, highly optimised and scalable Android applications, including UI, back-end logic.\n* Integrate the mobile app with our innovative acoustic sensor SDK and cloud data platform APIs.\n* Design and implement technical solutions to maintain and improve the Android application.\n* Define, document and implement comprehensive unit and functional tests for each one of the app components.\n\nWhat you should bring to Acurable\n* Strong knowledge of native Android (Java/Kotlin) app development.\n* Strong understanding of design patterns and Object Oriented Programming.\n* Strong interest in UX/UI, with a focus on easiness of use and accessibility. \n* Solid knowledge of Android UI/UX design principles, patterns and best practices.\n* Understand the nuances of fragments and Android XML layouts, and how to create adaptive interfaces that work for multiple device form factors.\n* Familiarity with RESTful APIs to connect Android applications to backend services.\n* Experience with offline storage, threading, and performance tuning.\n* Experience of using BLE for wireless communication.\n* Familiarity with some signal processing concepts and ability to implement them.\n* Understanding of build processes and CI tooling.\n* Experience with version control tools such as Git.\n* Familiarity with writing unit and UI tests.\n* Experience with mobile development issues related to performance optimisation, caching, security, native components / SDKs and compatibility on low budget phones (eg: Android 6.0).\n* Fluent in spoken and written English.\n* Creativity in finding solutions, good understanding of technology and a desire to learn new things.\n\nWhy you should apply\n* We provide a fun and entrepreneurial working environment within an exciting high-growth business, where you can use your talent to make a real difference to the lives of millions of people.\n* This is a rare opportunity to build a truly global product from the ground up, and join early a fast growing team of exceptional engineers working on the latest technologies.\n* We offer a great work-life balance, very competitive remuneration package, flexible hours, generous holiday allowance, regular social events… and many other perks we continue adding as the company grows.\n* Because there is nothing more thrilling than solving technological problems, and if you are a problem solver, in this job you will never get bored. And most importantly, we make sure to only recruit people who are passionate, committed and fun, so if that sounds like you, you’ll love working with us.\n\nPosition details\n* Location: Based in the company headquarters in London.\n* Compensation: Competitive salary based on experience.\n\nNOTE: We only accept direct applications from candidates. Any attempt by recruitment agencies to get in touch will be ignored.",
+      "descriptionHtml": "<p>We are looking for a talented Android developer with strong analytical problem-solving skills and able to deliver high-quality, well-tested code.</p>\n\n<p>Our mobile applications are a key component of our medical devices as it is the main interface between the user and our wearable acoustic sensor. Through your work developing our apps, you will be responsible for bringing these two sides together in a product that is not only engaging and easy to use, but also provides the high performance our system requires.</p>\n\n<p>What you will do</p>\n\n<ul>\n<li>Develop easy to use, highly optimised and scalable Android applications, including UI, back-end logic.</li>\n<li>Integrate the mobile app with our innovative acoustic sensor SDK and cloud data platform APIs.</li>\n<li>Design and implement technical solutions to maintain and improve the Android application.</li>\n<li>Define, document and implement comprehensive unit and functional tests for each one of the app components.</li>\n</ul>\n\n<p>What you should bring to Acurable</p>\n\n<ul>\n<li>Strong knowledge of native Android (Java/Kotlin) app development.</li>\n<li>Strong understanding of design patterns and Object Oriented Programming.</li>\n<li>Strong interest in UX/UI, with a focus on easiness of use and accessibility. </li>\n<li>Solid knowledge of Android UI/UX design principles, patterns and best practices.</li>\n<li>Understand the nuances of fragments and Android XML layouts, and how to create adaptive interfaces that work for multiple device form factors.</li>\n<li>Familiarity with RESTful APIs to connect Android applications to backend services.</li>\n<li>Experience with offline storage, threading, and performance tuning.</li>\n<li>Experience of using BLE for wireless communication.</li>\n<li>Familiarity with some signal processing concepts and ability to implement them.</li>\n<li>Understanding of build processes and CI tooling.</li>\n<li>Experience with version control tools such as Git.</li>\n<li>Familiarity with writing unit and UI tests.</li>\n<li>Experience with mobile development issues related to performance optimisation, caching, security, native components / SDKs and compatibility on low budget phones (eg: Android 6.0).</li>\n<li>Fluent in spoken and written English.</li>\n<li>Creativity in finding solutions, good understanding of technology and a desire to learn new things.</li>\n</ul>\n\n<p>Why you should apply</p>\n\n<ul>\n<li>We provide a fun and entrepreneurial working environment within an exciting high-growth business, where you can use your talent to make a real difference to the lives of millions of people.</li>\n<li>This is a rare opportunity to build a truly global product from the ground up, and join early a fast growing team of exceptional engineers working on the latest technologies.</li>\n<li>We offer a great work-life balance, very competitive remuneration package, flexible hours, generous holiday allowance, regular social events… and many other perks we continue adding as the company grows.</li>\n<li>Because there is nothing more thrilling than solving technological problems, and if you are a problem solver, in this job you will never get bored. And most importantly, we make sure to only recruit people who are passionate, committed and fun, so if that sounds like you, you’ll love working with us.</li>\n</ul>\n\n<p>Position details</p>\n\n<ul>\n<li>Location: Based in the company headquarters in London.</li>\n<li>Compensation: Competitive salary based on experience.</li>\n</ul>\n\n<p>NOTE: We only accept direct applications from candidates. Any attempt by recruitment agencies to get in touch will be ignored.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "UI/UX Design",
+        "Bluetooth Low Energy",
+        "Object Oriented Programming",
+        "Kotlin",
+        "Android Application Development",
+        "RESTful API"
+      ],
+      "payment": {
+        "salary": "£30k – £60k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/liz-dyer",
+        "name": "Liz Dyer",
+        "avatar": "https://photos.angel.co/users/8255928-medium_jpg?1534841871"
+      },
+      "refs": {
+        "angelListId": "522149",
+        "angelListUrl": "https://angel.co/company/acurable/jobs/522149-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Signal Processing Engineer",
+      "description": "We are looking for a talented digital signal processing engineer with strong analytical problem-solving skills who is able to deliver high-quality, well-tested algorithms. \n\nOur patented signal treatment algorithms are the core of our technology, and you will be participating in research projects to identify and extract physiological and disease related parameters from the acoustic signals recorded by our unique acoustic sensor (AcuPebble®).\n\nWhat you will do\n* Analysis, development and testing of digital signal processing algorithms for the calculation of biosignal parameters and the detection and diagnosis of diseases and illnesses from sensor data.\n* Participate in experimental lab testing and data acquisition from clinical trials. \n* Define, document and implement comprehensive unit and functional tests.\n\nWhat you should bring to Acurable\n* Bachelor’s or Master’s degree in Computer Science, Engineering or Mathematics. It would also be desirable (but not mandatory) a PhD or other advanced research degree with a strong experimental component and statistical validation.\n* Experience and deep understanding of digital signal processing concepts such as filtering (IIR/FIR), resampling, aliasing, quantization and analogue-to-digital conversion. Experience creating and implementing other (non-linear) algorithms for processing and analysing data and event streams. \n* Experience in quantifying algorithm performance, including statistical concepts such as confusion matrices, sensitivity, specificity, etc. It would also be desirable (but not mandatory) to have experience and understanding of data science/machine learning tools and techniques.\n* Experience with Python (or similar programming languages and a willingness to learn Python).\n* Fluent in spoken and written English.\n* Creativity in finding solutions, a good understanding of technology and a desire to learn new things.\n\nWhy you should apply\n* We provide a fun and entrepreneurial working environment within an exciting high-growth business, where you can use your talent to make a real difference to the lives of millions of people. \n* This is a rare opportunity to build a truly global product from the ground up, and join early a fast growing team of exceptional engineers working on the latest technologies. \n* We offer a great work-life balance, very competitive remuneration package, flexible hours, generous holiday allowance, regular social events… and many other perks we continue adding as the company grows. \n* Because there is nothing more thrilling than solving technological problems, and if you are a problem solver, in this job you will never get bored. And most importantly, we make sure to only recruit people who are passionate, committed and fun, so if that sounds like you, you’ll love working with us.\n\nPosition details\n* Location: Based in the company headquarters in London.\n* Compensation: Competitive salary based on experience.\n\nNOTE: We only accept direct applications from candidates. Any attempt by recruitment agencies to get in touch will be ignored.",
+      "descriptionHtml": "<p>We are looking for a talented digital signal processing engineer with strong analytical problem-solving skills who is able to deliver high-quality, well-tested algorithms. </p>\n\n<p>Our patented signal treatment algorithms are the core of our technology, and you will be participating in research projects to identify and extract physiological and disease related parameters from the acoustic signals recorded by our unique acoustic sensor (AcuPebble®).</p>\n\n<p>What you will do</p>\n\n<ul>\n<li>Analysis, development and testing of digital signal processing algorithms for the calculation of biosignal parameters and the detection and diagnosis of diseases and illnesses from sensor data.</li>\n<li>Participate in experimental lab testing and data acquisition from clinical trials. </li>\n<li>Define, document and implement comprehensive unit and functional tests.</li>\n</ul>\n\n<p>What you should bring to Acurable</p>\n\n<ul>\n<li>Bachelor’s or Master’s degree in Computer Science, Engineering or Mathematics. It would also be desirable (but not mandatory) a PhD or other advanced research degree with a strong experimental component and statistical validation.</li>\n<li>Experience and deep understanding of digital signal processing concepts such as filtering (IIR/FIR), resampling, aliasing, quantization and analogue-to-digital conversion. Experience creating and implementing other (non-linear) algorithms for processing and analysing data and event streams. </li>\n<li>Experience in quantifying algorithm performance, including statistical concepts such as confusion matrices, sensitivity, specificity, etc. It would also be desirable (but not mandatory) to have experience and understanding of data science/machine learning tools and techniques.</li>\n<li>Experience with Python (or similar programming languages and a willingness to learn Python).</li>\n<li>Fluent in spoken and written English.</li>\n<li>Creativity in finding solutions, a good understanding of technology and a desire to learn new things.</li>\n</ul>\n\n<p>Why you should apply</p>\n\n<ul>\n<li>We provide a fun and entrepreneurial working environment within an exciting high-growth business, where you can use your talent to make a real difference to the lives of millions of people. </li>\n<li>This is a rare opportunity to build a truly global product from the ground up, and join early a fast growing team of exceptional engineers working on the latest technologies. </li>\n<li>We offer a great work-life balance, very competitive remuneration package, flexible hours, generous holiday allowance, regular social events… and many other perks we continue adding as the company grows. </li>\n<li>Because there is nothing more thrilling than solving technological problems, and if you are a problem solver, in this job you will never get bored. And most importantly, we make sure to only recruit people who are passionate, committed and fun, so if that sounds like you, you’ll love working with us.</li>\n</ul>\n\n<p>Position details</p>\n\n<ul>\n<li>Location: Based in the company headquarters in London.</li>\n<li>Compensation: Competitive salary based on experience.</li>\n</ul>\n\n<p>NOTE: We only accept direct applications from candidates. Any attempt by recruitment agencies to get in touch will be ignored.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Mathematics",
+        "Computer Science",
+        "Algorithms",
+        "Mathematical Algorithms/Data Analysis",
+        "Problem Solving",
+        "Engineering",
+        "Digital Signal Processing"
+      ],
+      "payment": {
+        "salary": "£30k – £60k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/liz-dyer",
+        "name": "Liz Dyer",
+        "avatar": "https://photos.angel.co/users/8255928-medium_jpg?1534841871"
+      },
+      "refs": {
+        "angelListId": "517094",
+        "angelListUrl": "https://angel.co/company/acurable/jobs/517094-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "We are looking for a talented software engineer with strong analytical problem-solving skills and experience building modern SaaS systems. The successful candidate will be based in Spain (preferably Granada, Malaga or Seville) and will report to the Head of Platform.\n\nWhat you will do:\n* You will help design and implement a distributed, event-driven, scalable data platform infrastructure to manage our IoT ecosystem.\n* You will help us identify and leverage the best available development tools and cloud services (eg: Amazon AWS or Google Appengine) to find the best solution to each technical challenge.\n* You will develop high-quality software using Java, Python and C/C++ (and maybe other programming languages such as Scala or Clojure) focusing on simplicity, elegance and economy.\n* You will be expected to apply your Unix systems and server tech kung-fu skills to automate everything that can be automated.\n\nWhat you should bring to Acurable:\n* 2+ years experience designing, building and maintaining secure, scalable and high-performance SaaS systems.\n* Experience developing modern, responsive web/mobile applications and experience with their correspondent development tools ecosystem.\n* Fluent in spoken and written English.\n* [Optional] Experience in Agile development, XP practices and 12-factor applications.\n\nWhy you should apply\n* We provide a fun and entrepreneurial working environment within an exciting high-growth business, where you can use your talent to make a real difference to the lives of millions of people.\n* We offer a very competitive remuneration package, flexible hours, remote work, generous holiday allowance, regular social events… and many other perks we continue adding as the company grows. \n\nPosition details\n* Location: Based anywhere in Spain (preferably Granada, Malaga or Seville) and can work remotely.\n* Team: Join a team of 3 software developers and report to Head of Platform.\n* Compensation: Competitive salary and stock options based on experience.\n\nNOTE: We only accept direct applications from candidates. Any attempt by recruitment agencies to get in touch will be ignored.",
+      "descriptionHtml": "<p>We are looking for a talented software engineer with strong analytical problem-solving skills and experience building modern SaaS systems. The successful candidate will be based in Spain (preferably Granada, Malaga or Seville) and will report to the Head of Platform.</p>\n\n<p>What you will do:</p>\n\n<ul>\n<li>You will help design and implement a distributed, event-driven, scalable data platform infrastructure to manage our IoT ecosystem.</li>\n<li>You will help us identify and leverage the best available development tools and cloud services (eg: Amazon AWS or Google Appengine) to find the best solution to each technical challenge.</li>\n<li>You will develop high-quality software using Java, Python and C/C++ (and maybe other programming languages such as Scala or Clojure) focusing on simplicity, elegance and economy.</li>\n<li>You will be expected to apply your Unix systems and server tech kung-fu skills to automate everything that can be automated.</li>\n</ul>\n\n<p>What you should bring to Acurable:</p>\n\n<ul>\n<li>2+ years experience designing, building and maintaining secure, scalable and high-performance SaaS systems.</li>\n<li>Experience developing modern, responsive web/mobile applications and experience with their correspondent development tools ecosystem.</li>\n<li>Fluent in spoken and written English.</li>\n<li>[Optional] Experience in Agile development, XP practices and 12-factor applications.</li>\n</ul>\n\n<p>Why you should apply</p>\n\n<ul>\n<li>We provide a fun and entrepreneurial working environment within an exciting high-growth business, where you can use your talent to make a real difference to the lives of millions of people.</li>\n<li>We offer a very competitive remuneration package, flexible hours, remote work, generous holiday allowance, regular social events… and many other perks we continue adding as the company grows. </li>\n</ul>\n\n<p>Position details</p>\n\n<ul>\n<li>Location: Based anywhere in Spain (preferably Granada, Malaga or Seville) and can work remotely.</li>\n<li>Team: Join a team of 3 software developers and report to Head of Platform.</li>\n<li>Compensation: Competitive salary and stock options based on experience.</li>\n</ul>\n\n<p>NOTE: We only accept direct applications from candidates. Any attempt by recruitment agencies to get in touch will be ignored.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Sevilla",
+        "Málaga",
+        "Granada"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Java",
+        "Software Development",
+        "Web Development",
+        "Mobile Development",
+        "Backend Development",
+        "Problem Solving",
+        "12 Factor Apps",
+        "AWS",
+        "GDPR"
+      ],
+      "payment": {
+        "salary": "€30k – €45k",
+        "equity": "0.0% – 0.5%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/emilio-sanz-pereiras",
+        "name": "Emilio Sanz Pereiras",
+        "avatar": "https://photos.angel.co/users/6884659-medium_jpg?1504619405"
+      },
+      "refs": {
+        "angelListId": "275675",
+        "angelListUrl": "https://angel.co/company/acurable/jobs/275675-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "We are looking for a talented software engineer with strong analytical problem-solving skills and experience building modern SaaS systems. The successful candidate will be based in the UK (preferably London) and will report to the Head of Platform.\n\nWhat you will do\n* You will help design and implement a distributed, event-driven, scalable data platform infrastructure to manage our IoT ecosystem.\n* You will help us identify and leverage the best available development tools and cloud services (eg: Amazon AWS or Google Cloud) to find the best solution to each technical challenge.\n* You will develop high-quality software using best-of-breed programming languages and tools focusing on simplicity, elegance and economy (some of the technologies we currently use are: Python, C/C++, Java, Javascript, Node, React/Redux, Kubernetes, Helm, Android, iOS, Firebase, Google Cloud, etc.).\n* You will be expected to apply your Unix systems and server tech kung-fu skills to automate everything that can be automated.\n\nWhat you should bring to Acurable\n* 2+ years experience designing, building and maintaining secure, scalable and high-performance SaaS systems.\n* Experience developing modern, responsive web/mobile applications (both front end and back end) and experience with their correspondent development tools ecosystem.\n* Fluent in spoken and written English.\n* (Optional) Experience in Agile development, XP practices and 12-factor applications.\n\nWhy you should apply\n* We provide a fun and entrepreneurial working environment within an exciting high-growth business, where you can use your talent to make a real difference to the lives of millions of people.\n* We offer a very competitive remuneration package, flexible hours, remote work, generous holiday allowance, regular social events… and many other perks we continue adding as the company grows.\n* This is a rare opportunity to build a truly global product from the ground up, and join early a fast growing team of exceptional engineers working on the latest technologies.\n* And most importantly: we make sure to only recruit people who are passionate, committed and fun, so if that sounds like you, you’ll love working with us.\n\nNOTE: We only accept direct applications from candidates. Any attempt by recruitment agencies to get in touch will be ignored.",
+      "descriptionHtml": "<p>We are looking for a talented software engineer with strong analytical problem-solving skills and experience building modern SaaS systems. The successful candidate will be based in the UK (preferably London) and will report to the Head of Platform.</p>\n\n<p>What you will do</p>\n\n<ul>\n<li>You will help design and implement a distributed, event-driven, scalable data platform infrastructure to manage our IoT ecosystem.</li>\n<li>You will help us identify and leverage the best available development tools and cloud services (eg: Amazon AWS or Google Cloud) to find the best solution to each technical challenge.</li>\n<li>You will develop high-quality software using best-of-breed programming languages and tools focusing on simplicity, elegance and economy (some of the technologies we currently use are: Python, C/C++, Java, Javascript, Node, React/Redux, Kubernetes, Helm, Android, iOS, Firebase, Google Cloud, etc.).</li>\n<li>You will be expected to apply your Unix systems and server tech kung-fu skills to automate everything that can be automated.</li>\n</ul>\n\n<p>What you should bring to Acurable</p>\n\n<ul>\n<li>2+ years experience designing, building and maintaining secure, scalable and high-performance SaaS systems.</li>\n<li>Experience developing modern, responsive web/mobile applications (both front end and back end) and experience with their correspondent development tools ecosystem.</li>\n<li>Fluent in spoken and written English.</li>\n<li>(Optional) Experience in Agile development, XP practices and 12-factor applications.</li>\n</ul>\n\n<p>Why you should apply</p>\n\n<ul>\n<li>We provide a fun and entrepreneurial working environment within an exciting high-growth business, where you can use your talent to make a real difference to the lives of millions of people.</li>\n<li>We offer a very competitive remuneration package, flexible hours, remote work, generous holiday allowance, regular social events… and many other perks we continue adding as the company grows.</li>\n<li>This is a rare opportunity to build a truly global product from the ground up, and join early a fast growing team of exceptional engineers working on the latest technologies.</li>\n<li>And most importantly: we make sure to only recruit people who are passionate, committed and fun, so if that sounds like you, you’ll love working with us.</li>\n</ul>\n\n<p>NOTE: We only accept direct applications from candidates. Any attempt by recruitment agencies to get in touch will be ignored.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Java",
+        "Software Development",
+        "Web Development",
+        "Mobile Development",
+        "Backend Development",
+        "Problem Solving",
+        "12 Factor Apps",
+        "AWS",
+        "GDPR"
+      ],
+      "payment": {
+        "salary": "£40k – £60k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/liz-dyer",
+        "name": "Liz Dyer",
+        "avatar": "https://photos.angel.co/users/8255928-medium_jpg?1534841871"
+      },
+      "refs": {
+        "angelListId": "517097",
+        "angelListUrl": "https://angel.co/company/acurable/jobs/517097-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "iOS Developer",
+      "description": "We are looking for a talented iOS developer with strong analytical problem-solving skills and able to deliver high-quality, well-tested code.\n\nOur mobile applications are a key component of our medical devices as they are the main interface between the user and our wearable acoustic sensor. Through your work developing our apps, you will be responsible for bringing these two sides together in a product that is not only engaging and easy to use, but also provides the high performance our system requires.\n\nWhat you will do\n* Develop easy to use, highly optimised and scalable iOS applications, including UI, back-end logic.\n* Integrate the mobile app with our innovative acoustic sensor SDK and cloud data platform APIs.\n* Design and implement technical solutions to maintain and improve the iOS application.\n* Define, document and implement comprehensive unit and functional tests for each one of the app components.\n\nWhat you should bring to Acurable\n* 3+ years' experience developing iOS mobile applications (Swift).\n* Strong interest in UX/UI, with a focus on ease of use and accessibility and solid knowledge of iOS UI/UX design principles, patterns and best practices.\n* Experience working with RESTful APIs, offline storage, threading, performance tuning and BLE for wireless communication.\n* Fluent in spoken and written English.\n\nWhy you should apply\n* We make sure to only recruit people who are not only great developers, but also passionate, committed and fun, so if that sounds like you, you’ll love working with us.\n* We provide a fun and entrepreneurial working environment within an exciting high-growth business, where you can use your talent to make a real difference to the lives of millions of people.\n* This is a rare opportunity to build a truly global product from the ground up, and join early a fast growing team of exceptional engineers working on the latest technologies.\n* We offer a very competitive remuneration package, flexible hours, generous holiday allowance, regular social events… and many other perks we continue adding as the company grows.\n\nPosition details\n* Location: Based in the company headquarters in London.\n* Team: Join a team of 8 embedded/software developers.\n* Compensation: Competitive salary based on experience.",
+      "descriptionHtml": "<p>We are looking for a talented iOS developer with strong analytical problem-solving skills and able to deliver high-quality, well-tested code.</p>\n\n<p>Our mobile applications are a key component of our medical devices as they are the main interface between the user and our wearable acoustic sensor. Through your work developing our apps, you will be responsible for bringing these two sides together in a product that is not only engaging and easy to use, but also provides the high performance our system requires.</p>\n\n<p>What you will do</p>\n\n<ul>\n<li>Develop easy to use, highly optimised and scalable iOS applications, including UI, back-end logic.</li>\n<li>Integrate the mobile app with our innovative acoustic sensor SDK and cloud data platform APIs.</li>\n<li>Design and implement technical solutions to maintain and improve the iOS application.</li>\n<li>Define, document and implement comprehensive unit and functional tests for each one of the app components.</li>\n</ul>\n\n<p>What you should bring to Acurable</p>\n\n<ul>\n<li>3+ years&#39; experience developing iOS mobile applications (Swift).</li>\n<li>Strong interest in UX/UI, with a focus on ease of use and accessibility and solid knowledge of iOS UI/UX design principles, patterns and best practices.</li>\n<li>Experience working with RESTful APIs, offline storage, threading, performance tuning and BLE for wireless communication.</li>\n<li>Fluent in spoken and written English.</li>\n</ul>\n\n<p>Why you should apply</p>\n\n<ul>\n<li>We make sure to only recruit people who are not only great developers, but also passionate, committed and fun, so if that sounds like you, you’ll love working with us.</li>\n<li>We provide a fun and entrepreneurial working environment within an exciting high-growth business, where you can use your talent to make a real difference to the lives of millions of people.</li>\n<li>This is a rare opportunity to build a truly global product from the ground up, and join early a fast growing team of exceptional engineers working on the latest technologies.</li>\n<li>We offer a very competitive remuneration package, flexible hours, generous holiday allowance, regular social events… and many other perks we continue adding as the company grows.</li>\n</ul>\n\n<p>Position details</p>\n\n<ul>\n<li>Location: Based in the company headquarters in London.</li>\n<li>Team: Join a team of 8 embedded/software developers.</li>\n<li>Compensation: Competitive salary based on experience.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "iOS Development",
+        "UI/UX Design",
+        "BLE",
+        "Swift",
+        "RESTful API"
+      ],
+      "payment": {
+        "salary": "£40k – £60k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/liz-dyer",
+        "name": "Liz Dyer",
+        "avatar": "https://photos.angel.co/users/8255928-medium_jpg?1534841871"
+      },
+      "refs": {
+        "angelListId": "676270",
+        "angelListUrl": "https://angel.co/company/acurable/jobs/676270-"
+      }
+    }
+  ]
+}

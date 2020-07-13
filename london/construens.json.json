@@ -1,0 +1,92 @@
+{
+  "name": "Construens",
+  "avatar": "https://angel.co/images/shared/nopic_startup.png",
+  "slogan": null,
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": null
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Fin Tech",
+    "Blockchains",
+    "Artificial Intelligence / Machine Learning"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Founder Director",
+      "role": "Employee",
+      "url": "https://angel.co/u/fabrizio-giordanino",
+      "name": "Fabrizio Giordanino",
+      "avatar": "https://photos.angel.co/users/4608885-medium_jpg?1552670507",
+      "bioHtml": "A product strategy leader for fintech and blockchain companies, helping designing and validating disruptive business models and making business investable."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5323949",
+    "angelListUrl": "https://angel.co/company/construens"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "CTO/Tech Lead",
+      "description": "For this role, the ideal individual will be both hands on and able to lead the team from the front. Your responsibilities will range from managing and expanding the development team to having free-reign on the tech. \n\nExperience:\n\nProven  experience Managing tech teams\nPrevious experience in a tech startup, ideally FinTech\nRelevant experience in leading teams of Developers, DevOps, Product, etc\nExperience in a hands-on role, i.e. Backend Developer.",
+      "descriptionHtml": "<p>For this role, the ideal individual will be both hands on and able to lead the team from the front. Your responsibilities will range from managing and expanding the development team to having free-reign on the tech. </p>\n\n<p>Experience:</p>\n\n<p>Proven  experience Managing tech teams<br>\nPrevious experience in a tech startup, ideally FinTech<br>\nRelevant experience in leading teams of Developers, DevOps, Product, etc<br>\nExperience in a hands-on role, i.e. Backend Developer.</p>\n",
+      "position": "cofounder",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "United Kingdom"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£10k – £70k",
+        "equity": "0.1% – 10.0%"
+      },
+      "recruiter": {
+        "title": "Founder Director",
+        "role": "Employee",
+        "url": "https://angel.co/u/fabrizio-giordanino",
+        "name": "Fabrizio Giordanino",
+        "avatar": "https://photos.angel.co/users/4608885-medium_jpg?1552670507"
+      },
+      "refs": {
+        "angelListId": "523954",
+        "angelListUrl": "https://angel.co/company/construens/jobs/523954-"
+      }
+    }
+  ]
+}

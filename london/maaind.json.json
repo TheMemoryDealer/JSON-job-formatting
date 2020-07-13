@@ -1,0 +1,123 @@
+{
+  "name": "Maaind",
+  "avatar": "https://photos.angel.co/startups/i/3872052-5c7e070df1103efd0e4dd0fd16ab2750-medium_jpg.jpg?buster=1510836857",
+  "slogan": "Highly personalized real-time mental state feedback tech+app",
+  "description": "We're building a fundamentally new approach to AI, combining explainable AI (XAI) techniques, sensors - and in particular Brain Computer Interfaces (BCIs), to build highly personalized and trustable/explainable models of individual mental states. We call this tech bio-XLP. Our product, now in development, is an app that uses this to give users real-time feedback on their mental state - real-time neurofeedback. Users do not need to have wearables/sensors/BCI for the tech to work - we use BCIs and wearables during the training phase of models and where available from the hardcore QS people who do use existing BCIs or other wearables.\n\nIn the longer-term, the goal (obsession) is to build up the software+algorithmic infrastructure for enabling real-world Brain Computer Interface usecases - it's not enough to build the hardware, as some people are. We need the software and models to go along with interfacing to the human body and brain. This is what we are building at Maaind.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.maaind.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://medium.com/@martindinov"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/maaind_ai"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/maaind.technologies/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/maaind/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Quantified Self",
+    "Artificial Intelligence",
+    "Intelligent Assistants",
+    "Mental Health"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 100000,
+    "rounds": [
+      {
+        "type": "Pre-Seed",
+        "closedAt": 1561507200,
+        "valuation": 800000
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "COO and Founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/dzera-kaytati",
+      "name": "Dzera Kaytati",
+      "avatar": "https://photos.angel.co/users/5905096-medium_jpg?1488795273",
+      "bioHtml": "COO/Co-Founder <a href=\"https://angel.co/company/maaind\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Maaind</span></a>. Working at the intersection of Neuroscience and Human-centered AI"
+    },
+    {
+      "title": "CEO and Founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/martindinov",
+      "name": "Dr. Martin Dinov",
+      "avatar": "https://photos.angel.co/users/1648908-medium_jpg?1529422835",
+      "bioHtml": "CEO&amp;Founder <a href=\"https://angel.co/company/maaind\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Maaind</span></a> - neurotech and AI startup building the next evolution of AI-mind assistant\n\nPreviously co-founder <a href=\"https://angel.co/company/hackthesenses\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">HackTheSenses</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "3872052",
+    "angelListUrl": "https://angel.co/company/maaind"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Machine Learning Engineer",
+      "description": "We are now hiring at Maaind for our first machine learning engineer. Come join us if you want to help augment the human mind today - and help shape the present and future of mental wellbeing and mental performance, through voice analytics, biometrics and brain computer interfaces.\n\nWe are getting ready to launch the world's first AI assistant for mental state feedback, Aurora (https://www.aurora.maaind.com). Aurora provides real-time, historical and detailed insights into different aspects of an individual's mental state from voice, wearables and brain computer interfaces. \n\nWe want to empower individuals and improve selfawareness and the ability of individuals to improve their mentalstates. Data, algorithms and devices should not just help to sell us more things, distract us and entertain us - but make us kinder, healthier, happier and more focused. \n\nYou will work with cutting edge multimodal datasets, state-of-the-art algorithms and the latest wearables (including BCI devices) to help build better ML models and pipelines.\n\nWe are now growing our team and you will be helping to shape the early days of the company. You will be part of a sharp-as-a-knife team, and ready to go from week 1.\n\nTalk to me if you want a challenge. It's going to be tough. Be a hustler.",
+      "descriptionHtml": "<p>We are now hiring at Maaind for our first machine learning engineer. Come join us if you want to help augment the human mind today - and help shape the present and future of mental wellbeing and mental performance, through voice analytics, biometrics and brain computer interfaces.</p>\n\n<p>We are getting ready to launch the world&#39;s first AI assistant for mental state feedback, Aurora (<a href=\"https://www.aurora.maaind.com\" target=\"_blank\" rel=\"nofollow\">https://www.aurora.maaind.com</a>). Aurora provides real-time, historical and detailed insights into different aspects of an individual&#39;s mental state from voice, wearables and brain computer interfaces. </p>\n\n<p>We want to empower individuals and improve selfawareness and the ability of individuals to improve their mentalstates. Data, algorithms and devices should not just help to sell us more things, distract us and entertain us - but make us kinder, healthier, happier and more focused. </p>\n\n<p>You will work with cutting edge multimodal datasets, state-of-the-art algorithms and the latest wearables (including BCI devices) to help build better ML models and pipelines.</p>\n\n<p>We are now growing our team and you will be helping to shape the early days of the company. You will be part of a sharp-as-a-knife team, and ready to go from week 1.</p>\n\n<p>Talk to me if you want a challenge. It&#39;s going to be tough. Be a hustler.</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "San Francisco",
+        "London",
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe",
+        "North America"
+      ],
+      "skills": [
+        "Python",
+        "Java",
+        "Data Analysis",
+        "Emotional Analytics",
+        "Biometrics",
+        "Neural Networks",
+        "Backend Development",
+        "Data Science",
+        "Numpy/Scipy/Pandas/Scikit-learn",
+        "Keras"
+      ],
+      "payment": {
+        "salary": "$50k – $75k",
+        "equity": "0.25% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CEO and Founder",
+        "role": "Founder",
+        "url": "https://angel.co/u/martindinov",
+        "name": "Dr. Martin Dinov",
+        "avatar": "https://photos.angel.co/users/1648908-medium_jpg?1529422835"
+      },
+      "refs": {
+        "angelListId": "721400",
+        "angelListUrl": "https://angel.co/company/maaind/jobs/721400-"
+      }
+    }
+  ]
+}

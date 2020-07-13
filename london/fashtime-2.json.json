@@ -1,0 +1,131 @@
+{
+  "name": "FashTime ",
+  "avatar": "https://photos.angel.co/startups/i/3455795-73f638b0022a60efcbc1edf526cbfce1-medium_jpg.jpg?buster=1486227864",
+  "slogan": "Bringing the power & monetary value of time to social media users & brands",
+  "description": "FashTime is a time-centered platform that consists of the FashTime Mobile App, a modern fashion lifestyle network for Gen Z, and FashTime for Business, a suite of web apps for brands. All of FashTime’s products use FashTime Coin as their currency and are like-free. \n\n• FashTime Coin:\nThe first token for the social media fashion market for attention: Tokenizing Time.\n• FashTime App: \nThe first app that allows users to express themselves without pressure and convert the time they spend, and the attention they generate, inside the app into gifts and cash. ‘Like-free’ modern fashion network that connects the new gen and brands in a new way.\n• FashTime for Business - The Challenge & Video Tag Editor (VITA):\nThe first tools that allow brands to capture the attention of their followers through contests among photos and moving tags on videos, drive them to the ecommerce, obtain valuable insights (i.e.“time heatmap”: time spent on each content frame) and reward them with the token of FashTime.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.fash-time.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://medium.com/fashtimeblog"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/fashtimeltd"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/fashtimeltd/?fref=ts"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/10413917?trk=tyah&trkinfo=clickedvertical%3acompany%2cclickedentityid%3a10413917%2cidx%3a1-1-1%2ctarid%3a1485184875923%2ctas%3afashtime"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Milan"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Fashion Tech",
+    "SaaS",
+    "Social Media"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1527724800,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "Head of Product | Marketing",
+      "role": "Founder",
+      "url": "https://angel.co/u/marco-borgato-1",
+      "name": "Marco Borgato",
+      "avatar": "https://photos.angel.co/users/1819208-medium_jpg?1480958368",
+      "bioHtml": "Entrepreneur/Product guy with 4+y of experience. Worked as founder at FashTime and product manager/advisor at ANote Music, CamTV, IQVIA, Wiredelta, Victory Lap."
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/alejandrofcarrera",
+      "name": "Alejandro F. Carrera",
+      "avatar": "https://photos.angel.co/users/5514689-medium_jpg?1485253410",
+      "bioHtml": "I am the CTO for FashTime Ltd. In this role I lead the company’s IT efforts, overseeing the team and developing together our little dream."
+    },
+    {
+      "title": "CFO & Chief Strategy Officer",
+      "role": "Founder",
+      "url": "https://angel.co/u/kai-schildhauer",
+      "name": "Kai Schildhauer",
+      "avatar": "https://photos.angel.co/users/2840648-medium_jpg?1485182980",
+      "bioHtml": "Co-Founder &amp; CFO FashTime, a start up in the fashion technology field. London &amp; Milan."
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/mauro-di-benedetto-1",
+      "name": "Mauro Di Benedetto",
+      "avatar": "https://photos.angel.co/users/5513956-medium_jpg?1485182743",
+      "bioHtml": "Co-founder and CEO at FashTime ltd, startup in the digital-fashion business."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "3455795",
+    "angelListUrl": "https://angel.co/company/fashtime-2"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Backend Developer / Sysadmin",
+      "description": "FashTime looks for a backend developer (and a bit of system administrator). The focus point of the profile is on the experience and knowledge of Python. Additional skills that are a great plus are experience with Docker, Elastic Search and Redis. An intermediate profile is preferred, but also a junior one could qualify. The position is offered on an external contract basis for an initial duration of 6 months. The location is strongly desired to be in Milan. If that is not possible, applicants should be located inside the EU. The average workload is around 40h/week. The tasks include supporting the CTO and the rest of the development team with the maintenance of the FashTime Platform (2 web apps, 1 iOS App and 1  Android App), API updates and implementing various new features for the web apps and the app.",
+      "descriptionHtml": "<p>FashTime looks for a backend developer (and a bit of system administrator). The focus point of the profile is on the experience and knowledge of Python. Additional skills that are a great plus are experience with Docker, Elastic Search and Redis. An intermediate profile is preferred, but also a junior one could qualify. The position is offered on an external contract basis for an initial duration of 6 months. The location is strongly desired to be in Milan. If that is not possible, applicants should be located inside the EU. The average workload is around 40h/week. The tasks include supporting the CTO and the rest of the development team with the maintenance of the FashTime Platform (2 web apps, 1 iOS App and 1  Android App), API updates and implementing various new features for the web apps and the app.</p>\n",
+      "position": "contract",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "Italy",
+        "Milan",
+        "Metropolitan City of Milan"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Redis",
+        "Docker",
+        "ElasticSearch "
+      ],
+      "payment": {
+        "salary": "€14k – €15k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "CFO & Chief Strategy Officer",
+        "role": "Founder",
+        "url": "https://angel.co/u/kai-schildhauer",
+        "name": "Kai Schildhauer",
+        "avatar": "https://photos.angel.co/users/2840648-medium_jpg?1485182980"
+      },
+      "refs": {
+        "angelListId": "512877",
+        "angelListUrl": "https://angel.co/company/fashtime-2/jobs/512877-"
+      }
+    }
+  ]
+}

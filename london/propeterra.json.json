@@ -1,0 +1,92 @@
+{
+  "name": "Propeterra",
+  "avatar": "https://photos.angel.co/startups/i/7134216-cc4d4e5e10a0c0595a3480188e48db3d-medium_jpg.jpg?buster=1566088816",
+  "slogan": "Global Emerging Markets Real Estate Advisory",
+  "description": "We provide research, advisory and international property investment opportunities",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.propeterra.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Real Estate"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/lee-cashell",
+      "name": "Lee Cashell",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7134216",
+    "angelListUrl": "https://angel.co/company/propeterra"
+  },
+  "jobs": [
+    {
+      "role": "Marketing",
+      "title": "Hubspot Hack",
+      "description": "Strategy, design, coding, maintenance and content generation for the company using hubspot and inbound methodology.",
+      "descriptionHtml": "<p>Strategy, design, coding, maintenance and content generation for the company using hubspot and inbound methodology.</p>\n",
+      "position": "contract",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "United Kingdom"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "United Kingdom"
+      ],
+      "skills": [],
+      "payment": {
+        "salary": "$25k – $50k",
+        "equity": "0.0% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/lee-cashell",
+        "name": "Lee Cashell",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "610083",
+        "angelListUrl": "https://angel.co/company/propeterra/jobs/610083-"
+      }
+    }
+  ]
+}

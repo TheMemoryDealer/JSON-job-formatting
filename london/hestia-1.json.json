@@ -1,0 +1,157 @@
+{
+  "name": "Hestia.International",
+  "avatar": "https://photos.angel.co/startups/i/6098516-79e9c23aa60b138e105c0c0eae7cca99-medium_jpg.jpg?buster=1533243275",
+  "slogan": "intelligent eBay for properties",
+  "description": "Hestia is an AI and Machine Learning augmented, state-of-the-art real estate marketplace where property buyers and sellers use an open electronic auction model (like capital markets) for fair price discovery to buy and sell properties.\n\nHestia provides buyers and sellers, access to a property professionals’ marketplace (conveyancers, architects, valuers, surveyors, et al) to help them complete the entire property transaction through a single interactive, intelligent, customizable workflow tool. \n\nThe Hestia platform applies intelligent technologies to provide relevant advanced data analytics, at every stage of the process, to educate the buyers and sellers for better decision making.\n\nMost importantly, Hestia is a commission free ‘world’, with no intermediaries thus providing a cheaper, safer and faster property transaction model. \n\nHestia will be implementing Blockchain technology to settle property transactions in future implementations.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://Stealth mode"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Online Marketplaces",
+    "Real Estate",
+    "Workflow",
+    "Artificial Intelligence / Machine Learning"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "SME",
+      "role": "Founder",
+      "url": "https://angel.co/u/claudia-giannoni",
+      "name": "Claudia Giannoni",
+      "avatar": "https://photos.angel.co/users/8180990-medium_jpg?1533248091",
+      "bioHtml": "Founded BreshiStudio,  ASI Progetti\nDirector @ Echo London. M.Arch <a href=\"https://angel.co/university-of-florence-italy\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University Of Florence, Italy</span></a>  MSc, PhD student <a href=\"https://angel.co/university\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University</span></a> College London."
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/budha-bhattacharya",
+      "name": "Budha Bhattacharya",
+      "avatar": "https://photos.angel.co/users/2365597-medium_jpg?1525335119",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/hestia-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Hestia.International</span></a>, <a href=\"https://angel.co/company/aryaman-consultancy\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Aryaman Consultancy</span></a> • Worked at <a href=\"https://angel.co/company/goldman-sachs\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Goldman Sachs</span></a>, <a href=\"https://angel.co/company/ubs\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">UBS</span></a>"
+    },
+    {
+      "title": "Chief Product Officer",
+      "role": "Employee",
+      "url": "https://angel.co/u/catherine-mitilineos",
+      "name": "Catherine Mitilineos",
+      "avatar": "https://photos.angel.co/users/8394702-medium_jpg?1573270251",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6098516",
+    "angelListUrl": "https://angel.co/company/hestia-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Machine Learning Intern",
+      "description": "We are looking for a machine learning intern to help us build the first artificially intelligent real estate marketplace (solving a complex coordination problem).\n\nWhat You Will Do: \n\n-Replicating variations of prominent research papers in machine learning to test our own hypothesis. \n\n-Develop assigned parts of the project to help the team put together and test machine learning (Neural Net solutions, Evolutionary Algorithms) models from the ground up. \n\n-Complete assigned research work and help the team make qualified decisions. \n\n-Help modify and improve our existing model with research, domain experience and experimentation.  \n\n-Document and publish a generalized version of your work every month on the company blog.\n\n-In addition to the above, we might need customisation and personalisation of clone scripts (and white label products) for POC purposes.",
+      "descriptionHtml": "<p>We are looking for a machine learning intern to help us build the first artificially intelligent real estate marketplace (solving a complex coordination problem).</p>\n\n<p>What You Will Do: </p>\n\n<p>-Replicating variations of prominent research papers in machine learning to test our own hypothesis. </p>\n\n<p>-Develop assigned parts of the project to help the team put together and test machine learning (Neural Net solutions, Evolutionary Algorithms) models from the ground up. </p>\n\n<p>-Complete assigned research work and help the team make qualified decisions. </p>\n\n<p>-Help modify and improve our existing model with research, domain experience and experimentation.  </p>\n\n<p>-Document and publish a generalized version of your work every month on the company blog.</p>\n\n<p>-In addition to the above, we might need customisation and personalisation of clone scripts (and white label products) for POC purposes.</p>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": true,
+      "locations": [
+        "London",
+        "San Francisco Bay Area",
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Javascript",
+        "Machine Learning",
+        "SQL",
+        "Data Science",
+        "Github",
+        "Artificial Neural Networks",
+        "AWS",
+        "Keras",
+        "TensorFlow"
+      ],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/budha-bhattacharya",
+        "name": "Budha Bhattacharya",
+        "avatar": "https://photos.angel.co/users/2365597-medium_jpg?1525335119"
+      },
+      "refs": {
+        "angelListId": "406733",
+        "angelListUrl": "https://angel.co/company/hestia-1/jobs/406733-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Visual Design Intern/ Front End Developer",
+      "description": "The Visual Design Intern will be responsible for the end-to-end process of transforming Hestia's product requirements into visually stunning and highly functional user interfaces. As a member of the Product Development team, the Visual Designer will collaborate to continuously improve the quality and innovation of the user interface for products and enterprise systems.\n\nResponsibilities:\n\n-Create superior user experiences through the design of elegant interfaces.\n-Collaborate with Product Team to create sketches, wireframes, Photoshop mockups, or interactive prototypes to support early product concepts and ideas. \n-Design clean, usable workflows for eCommerce processes.\n-Design Web application user interfaces that are on-brand, visually attractive, and cohesive.\n-Create production-quality visual assets and icons for the development teams. \n-Present, defend, and revise your design ideas through design reviews and subsequent iterations.\n-Create HTML and CSS-based prototypes for design ideas and collaborate with front-end and back-end developers to produce working interfaces.\n\n\nPosition Requirements\n\n-A passion for UI and Web design trends. \n-Strong understanding of Web usability, interaction design, and information architecture. \n-Experience working in UI/UX and design for the Web. \n-Extensive experience in Adobe Photoshop producing pixel-perfect screen designs.\n-Expert in creating UI wireframes using tools such as Visio, Balsamiq, OmniGraffle, or Illustrator. \n-Technical mastery of HTML and CSS. \n-Strong grasp of underlying Web application technologies and their limitations: JavaScript, Flash, XML \n-Commitment to personal growth and continuous learning.\n\nCompensation: \n\n- This is an unpaid Internship. The successful candidate may be offered a full time employment opportunity at the end of the Internship. \n\n- Students/ New Professionals interested in experiencing a top Silicon Valley or European incubators are encouraged to apply",
+      "descriptionHtml": "<p>The Visual Design Intern will be responsible for the end-to-end process of transforming Hestia&#39;s product requirements into visually stunning and highly functional user interfaces. As a member of the Product Development team, the Visual Designer will collaborate to continuously improve the quality and innovation of the user interface for products and enterprise systems.</p>\n\n<p>Responsibilities:</p>\n\n<p>-Create superior user experiences through the design of elegant interfaces.<br>\n-Collaborate with Product Team to create sketches, wireframes, Photoshop mockups, or interactive prototypes to support early product concepts and ideas. <br>\n-Design clean, usable workflows for eCommerce processes.<br>\n-Design Web application user interfaces that are on-brand, visually attractive, and cohesive.<br>\n-Create production-quality visual assets and icons for the development teams. <br>\n-Present, defend, and revise your design ideas through design reviews and subsequent iterations.<br>\n-Create HTML and CSS-based prototypes for design ideas and collaborate with front-end and back-end developers to produce working interfaces.</p>\n\n<p>Position Requirements</p>\n\n<p>-A passion for UI and Web design trends. <br>\n-Strong understanding of Web usability, interaction design, and information architecture. <br>\n-Experience working in UI/UX and design for the Web. <br>\n-Extensive experience in Adobe Photoshop producing pixel-perfect screen designs.<br>\n-Expert in creating UI wireframes using tools such as Visio, Balsamiq, OmniGraffle, or Illustrator. <br>\n-Technical mastery of HTML and CSS. <br>\n-Strong grasp of underlying Web application technologies and their limitations: JavaScript, Flash, XML <br>\n-Commitment to personal growth and continuous learning.</p>\n\n<p>Compensation: </p>\n\n<ul>\n<li><p>This is an unpaid Internship. The successful candidate may be offered a full time employment opportunity at the end of the Internship. </p></li>\n<li><p>Students/ New Professionals interested in experiencing a top Silicon Valley or European incubators are encouraged to apply</p></li>\n</ul>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": true,
+      "locations": [
+        "San Francisco",
+        "London",
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "iOS Development",
+        "JSON / XML / HTML / Javascript / JQuery",
+        "Android Application Development",
+        "Adobe Photoshop, Adobe Illustrator, Sketch, InVision, HTML, CSS"
+      ],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/budha-bhattacharya",
+        "name": "Budha Bhattacharya",
+        "avatar": "https://photos.angel.co/users/2365597-medium_jpg?1525335119"
+      },
+      "refs": {
+        "angelListId": "438852",
+        "angelListUrl": "https://angel.co/company/hestia-1/jobs/438852-"
+      }
+    }
+  ]
+}

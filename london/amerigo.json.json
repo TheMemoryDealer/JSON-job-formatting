@@ -1,0 +1,120 @@
+{
+  "name": "Altio",
+  "avatar": "https://photos.angel.co/startups/i/6093735-d42efe62b551083e631293b58684d492-medium_jpg.jpg?buster=1554192307",
+  "slogan": "Digital Investment bank for SaaS companies",
+  "description": "Allows investors to reach management quickly whilst reducing management time on investor relations",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.altiotech.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Financial Services"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/fabricio-mercier-1",
+      "name": "Fabricio Mercier",
+      "avatar": "https://photos.angel.co/users/5267617-medium_jpg?1554192688",
+      "bioHtml": "Altio is a investment banking platform for SaaS businesses"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6093735",
+    "angelListUrl": "https://angel.co/company/amerigo"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full stack developper",
+      "description": "Taking the responsibility over the technology part of the company\n\nFull time employees to be based in the London techhub\nproficient in C++, Python, no sql, sql, googlecloud\n\nBe part of a great team which includes great financial analysts, data scientists and sales guys\n\n\nYou need to have the right to work in the UK!",
+      "descriptionHtml": "<p>Taking the responsibility over the technology part of the company</p>\n\n<p>Full time employees to be based in the London techhub<br>\nproficient in C++, Python, no sql, sql, googlecloud</p>\n\n<p>Be part of a great team which includes great financial analysts, data scientists and sales guys</p>\n\n<p>You need to have the right to work in the UK!</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£26k – £36k",
+        "equity": "1.0% – 1.5%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/fabricio-mercier-1",
+        "name": "Fabricio Mercier",
+        "avatar": "https://photos.angel.co/users/5267617-medium_jpg?1554192688"
+      },
+      "refs": {
+        "angelListId": "405001",
+        "angelListUrl": "https://angel.co/company/amerigo/jobs/405001-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Sales/biz dev tech Mid level",
+      "description": "Altio is looking for a very motivated sales/biz dev candidate with great ambition\n\nAbout us: Altio is a fintech that just raised its seed funding and is based in the Google Campus and the Techhub London. The team is composed on ex Rothschild, UBS and State Street and is looking to revolutionise investment banking.\nWe are all very dedicated and working very hard 6 days a week with the best people in the market.\nIf you are interested, apply by sending your CVs or links to the work you have done and the reasons of your motivation to recruitment@altiotech.com\n\nYou need to have the right to work in the UK!",
+      "descriptionHtml": "<p>Altio is looking for a very motivated sales/biz dev candidate with great ambition</p>\n\n<p>About us: Altio is a fintech that just raised its seed funding and is based in the Google Campus and the Techhub London. The team is composed on ex Rothschild, UBS and State Street and is looking to revolutionise investment banking.<br>\nWe are all very dedicated and working very hard 6 days a week with the best people in the market.<br>\nIf you are interested, apply by sending your CVs or links to the work you have done and the reasons of your motivation to <a href=\"mailto:recruitment@altiotech.com\" target=\"_blank\" rel=\"nofollow\">recruitment@altiotech.com</a></p>\n\n<p>You need to have the right to work in the UK!</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£20k – £40k",
+        "equity": "1.0% – 1.5%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/fabricio-mercier-1",
+        "name": "Fabricio Mercier",
+        "avatar": "https://photos.angel.co/users/5267617-medium_jpg?1554192688"
+      },
+      "refs": {
+        "angelListId": "531234",
+        "angelListUrl": "https://angel.co/company/amerigo/jobs/531234-"
+      }
+    }
+  ]
+}

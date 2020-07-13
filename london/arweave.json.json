@@ -1,0 +1,197 @@
+{
+  "name": "Arweave",
+  "avatar": "https://photos.angel.co/startups/i/5623442-8ab116dc3faafd5ba6989853b6be7629-medium_jpg.jpg?buster=1588685978",
+  "slogan": "A novel data storage blockchain protocol enabling a permanent serverless web",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.arweave.org/"
+    },
+    {
+      "type": "blog",
+      "url": "https://medium.com/@arweave"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/arweaveteam"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/arweaveteam/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/arweave/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Berlin",
+    "San Francisco",
+    "New York City"
+  ],
+  "marketTags": [
+    "Cryptocurrency",
+    "Blockchains"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Head of Product",
+      "role": "Employee",
+      "url": "https://angel.co/u/kyle-beckles",
+      "name": "Kyle Beckles",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "COO",
+      "role": "Employee",
+      "url": "https://angel.co/u/sebastian-campos-groth-2",
+      "name": "Sebastian Campos Groth",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at Arweave"
+    },
+    {
+      "title": "Head of Economics & Strategic Relations",
+      "role": "Employee",
+      "url": "https://angel.co/u/viktor-diordiiev",
+      "name": "Viktor Diordiiev",
+      "avatar": "https://photos.angel.co/users/1914319-medium_jpg?1548761217",
+      "bioHtml": "Arweave Head of Economics &amp; Strategic Relations | PhD candidate in Business Economics and Management"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5623442",
+    "angelListUrl": "https://angel.co/company/arweave"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Backend Engineer",
+      "description": "Senior Backend Engineer at Arweave\n\nPERMANENT – ON-SITE OR REMOTE – FULL TIME\n\nArweave is a permanent information storage network, built on a new type of blockchain called a blockweave. We are working to solve the problem of the ‘memory hole’, as formulated by George Orwell in Nineteen Eighty-Four, by building the first data storage medium that truly never forgets. Arweave works by rewarding network participants for contributing hard disk space to the network, in a similar fashion to proof of work in Bitcoin and other cryptocurrencies.\n\nIf you like the challenge of working with interesting algorithms, the unconventional work of engineering an independent peer to peer network, statistical problems, cryptography, mechanism design, economics and OS architecture, then we are looking for you\n\nResponsibilities\nWork in the core protocol team to grow and improve the Arweave protocol & network, working closely with the rest of the senior engineering, and devops team.\nTake part in every step of development: designing & planning, structuring, implementing, testing, deploying, monitoring & instrumenting, and maintaining.\nParticipate in regular code reviews, and provide constructive feedback.\nStay up-to-date with modern product development including libraries, tools, browser support, and frameworks.\n\nProfile\nSolid understanding and experience in at least one functional programming language, and ideally one or more distributed systems, such as Cassandra, Map/Reduce, etc.\nSeveral years experience writing production-level code in Erlang, using tools such as cowboy, rebar3, etc.,would be a big plus, but not required.\nA mature mind-set towards development, with emphasis on methodical, thought-out approaches, and data-backed decision making.\nFamiliarity with blockchain concepts like consensus algorithms (such as Proof of Work/PoW), Byzantine fault tolerance and a good understanding of cryptography\nAbility to work in a fast-paced, agile, and dynamic environment.\nStrong sense of responsibility and ownership.\nAble to work without too much supervision and take tasks from planning stage to deployment.\nStrong networking fundamentals are required for this role.\nAt least rudimentary Linux/UNIX system administration skills.\nInterest in high-performance software, tweaking everything from kernel- to network-level parameters to squeeze out every last bit.\nContributions to open-source and familiarity with OSS as a whole.\nProficiency in at least one other language, such as Python, Go, Javascript, Rust, …\nWorking knowledge of one or more SQL-based systems, such as MySQL, MariaDB, SQLite, PostgreSQL, and KV-based systems also a plus.\n\n\nAbout Us\n\nBy providing permanent, low-cost, and truly censorship-resistant data storage for everyone, we strive to democratise the information space. To achieve this, our team has built and now supports an online, open source, blockchain-based network providing decentralised data storage distributed worldwide. \nWe’re an English-language team of very skilled and highly motivated entrepreneurs and hackers with diverse academic and professional backgrounds.\nIn spring 2018, we graduated from the Techstars Berlin accelerator programme and have access to a worldwide network of expert advisors and investors.\nArweave is an equal opportunity employer and welcomes applications from everybody.",
+      "descriptionHtml": "<p>Senior Backend Engineer at Arweave</p>\n\n<p>PERMANENT – ON-SITE OR REMOTE – FULL TIME</p>\n\n<p>Arweave is a permanent information storage network, built on a new type of blockchain called a blockweave. We are working to solve the problem of the ‘memory hole’, as formulated by George Orwell in Nineteen Eighty-Four, by building the first data storage medium that truly never forgets. Arweave works by rewarding network participants for contributing hard disk space to the network, in a similar fashion to proof of work in Bitcoin and other cryptocurrencies.</p>\n\n<p>If you like the challenge of working with interesting algorithms, the unconventional work of engineering an independent peer to peer network, statistical problems, cryptography, mechanism design, economics and OS architecture, then we are looking for you</p>\n\n<p>Responsibilities<br>\nWork in the core protocol team to grow and improve the Arweave protocol &amp; network, working closely with the rest of the senior engineering, and devops team.<br>\nTake part in every step of development: designing &amp; planning, structuring, implementing, testing, deploying, monitoring &amp; instrumenting, and maintaining.<br>\nParticipate in regular code reviews, and provide constructive feedback.<br>\nStay up-to-date with modern product development including libraries, tools, browser support, and frameworks.</p>\n\n<p>Profile<br>\nSolid understanding and experience in at least one functional programming language, and ideally one or more distributed systems, such as Cassandra, Map/Reduce, etc.<br>\nSeveral years experience writing production-level code in Erlang, using tools such as cowboy, rebar3, etc.,would be a big plus, but not required.<br>\nA mature mind-set towards development, with emphasis on methodical, thought-out approaches, and data-backed decision making.<br>\nFamiliarity with blockchain concepts like consensus algorithms (such as Proof of Work/PoW), Byzantine fault tolerance and a good understanding of cryptography<br>\nAbility to work in a fast-paced, agile, and dynamic environment.<br>\nStrong sense of responsibility and ownership.<br>\nAble to work without too much supervision and take tasks from planning stage to deployment.<br>\nStrong networking fundamentals are required for this role.<br>\nAt least rudimentary Linux/UNIX system administration skills.<br>\nInterest in high-performance software, tweaking everything from kernel- to network-level parameters to squeeze out every last bit.<br>\nContributions to open-source and familiarity with OSS as a whole.<br>\nProficiency in at least one other language, such as Python, Go, Javascript, Rust, …<br>\nWorking knowledge of one or more SQL-based systems, such as MySQL, MariaDB, SQLite, PostgreSQL, and KV-based systems also a plus.</p>\n\n<p>About Us</p>\n\n<p>By providing permanent, low-cost, and truly censorship-resistant data storage for everyone, we strive to democratise the information space. To achieve this, our team has built and now supports an online, open source, blockchain-based network providing decentralised data storage distributed worldwide. <br>\nWe’re an English-language team of very skilled and highly motivated entrepreneurs and hackers with diverse academic and professional backgrounds.<br>\nIn spring 2018, we graduated from the Techstars Berlin accelerator programme and have access to a worldwide network of expert advisors and investors.<br>\nArweave is an equal opportunity employer and welcomes applications from everybody.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": true,
+      "locations": [
+        "Berlin"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Erlang",
+        "Cassandra",
+        "Map Reduce",
+        "Cowboy",
+        "rebar"
+      ],
+      "payment": {
+        "salary": "€60k – €80k"
+      },
+      "recruiter": {
+        "title": "COO",
+        "role": "Employee",
+        "url": "https://angel.co/u/sebastian-campos-groth-2",
+        "name": "Sebastian Campos Groth",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "694586",
+        "angelListUrl": "https://angel.co/company/arweave/jobs/694586-"
+      },
+      "postedAt": 1589658694586
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Devops",
+      "description": "PERMANENT – ON-SITE OR REMOTE – FULL TIME\n\nArweave is a permanent information storage network, built on a new type of blockchain called a blockweave. We are working to solve the problem of the ‘memory hole’, as formulated by George Orwell in Nineteen Eighty-Four, by building the first data storage medium that truly never forgets. Arweave works by rewarding network participants for contributing hard disk space to the network, in a similar fashion to proof of work in Bitcoin and other cryptocurrencies.\n\nResponsibilities\nAssist and work alongside our engineering team to ensure solid, scalable infrastructure, with emphasis on security & reliability.\nDesign & maintain monitoring and alerting, as well as be in charge of on-call rotations and general processes.\nApply best-practices across the board, in terms of CI/CD, automation, network topology design and performance.\nMaintain multi-datacenter cluster of servers, forming a truly global network of nodes.\n\t\nProfile\nExperience with “infrastructure as code”, with tooling such as Ansible, Puppet, Terraform, etc.\nProven track-record of maintaining large, complex infrastructure.\nPrior experience with cloud providers such as GCP, AWS and Digital Ocean a plus.\nAbility to automate/improve processes with bash/golang/python/js.\nThorough understanding of networking, including BGP, Anycast, and ideally high-performance content delivery.\nWorking knowledge of Grafana, Prometheus, TICK.\nLog management via Datadog, Splunk, Papertrail, etc.\nBeing able to squeeze every last bit of performance out, down to the kernel level.\nExperience with Erlang and/or distributed systems in general is a big plus.\nBeing proactive, working without a lot of supervision, passion to continually improve and take responsibility for running systems.\n\n\nAbout Us\n\nBy providing permanent, low-cost, and truly censorship-resistant data storage for everyone, we strive to democratise the information space. To achieve this, our team has built and now supports an online, open source, blockchain-based network providing decentralised data storage distributed worldwide. \nWe’re an English-language team of very skilled and highly motivated entrepreneurs and hackers with diverse academic and professional backgrounds.\nIn spring 2018, we graduated from the Techstars Berlin accelerator programme and have access to a worldwide network of expert advisors and investors.\nArweave is an equal opportunity employer and welcomes applications from everybody.",
+      "descriptionHtml": "<p>PERMANENT – ON-SITE OR REMOTE – FULL TIME</p>\n\n<p>Arweave is a permanent information storage network, built on a new type of blockchain called a blockweave. We are working to solve the problem of the ‘memory hole’, as formulated by George Orwell in Nineteen Eighty-Four, by building the first data storage medium that truly never forgets. Arweave works by rewarding network participants for contributing hard disk space to the network, in a similar fashion to proof of work in Bitcoin and other cryptocurrencies.</p>\n\n<p>Responsibilities<br>\nAssist and work alongside our engineering team to ensure solid, scalable infrastructure, with emphasis on security &amp; reliability.<br>\nDesign &amp; maintain monitoring and alerting, as well as be in charge of on-call rotations and general processes.<br>\nApply best-practices across the board, in terms of CI/CD, automation, network topology design and performance.<br>\nMaintain multi-datacenter cluster of servers, forming a truly global network of nodes.</p>\n\n<p>Profile<br>\nExperience with “infrastructure as code”, with tooling such as Ansible, Puppet, Terraform, etc.<br>\nProven track-record of maintaining large, complex infrastructure.<br>\nPrior experience with cloud providers such as GCP, AWS and Digital Ocean a plus.<br>\nAbility to automate/improve processes with bash/golang/python/js.<br>\nThorough understanding of networking, including BGP, Anycast, and ideally high-performance content delivery.<br>\nWorking knowledge of Grafana, Prometheus, TICK.<br>\nLog management via Datadog, Splunk, Papertrail, etc.<br>\nBeing able to squeeze every last bit of performance out, down to the kernel level.<br>\nExperience with Erlang and/or distributed systems in general is a big plus.<br>\nBeing proactive, working without a lot of supervision, passion to continually improve and take responsibility for running systems.</p>\n\n<p>About Us</p>\n\n<p>By providing permanent, low-cost, and truly censorship-resistant data storage for everyone, we strive to democratise the information space. To achieve this, our team has built and now supports an online, open source, blockchain-based network providing decentralised data storage distributed worldwide. <br>\nWe’re an English-language team of very skilled and highly motivated entrepreneurs and hackers with diverse academic and professional backgrounds.<br>\nIn spring 2018, we graduated from the Techstars Berlin accelerator programme and have access to a worldwide network of expert advisors and investors.<br>\nArweave is an equal opportunity employer and welcomes applications from everybody.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Berlin"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Erlang",
+        "Ansible",
+        "Go (Golang)",
+        "Digital Ocean",
+        "AWS",
+        "DataDog",
+        "Grafana"
+      ],
+      "payment": {
+        "salary": "€50k – €70k"
+      },
+      "recruiter": {
+        "title": "COO",
+        "role": "Employee",
+        "url": "https://angel.co/u/sebastian-campos-groth-2",
+        "name": "Sebastian Campos Groth",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "695952",
+        "angelListUrl": "https://angel.co/company/arweave/jobs/695952-"
+      },
+      "postedAt": 1589658695952
+    },
+    {
+      "role": "Marketing",
+      "title": "Head of Developer Adoption",
+      "description": "",
+      "descriptionHtml": "",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "New York City",
+        "San Francisco",
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Japan",
+        "New York City",
+        "Eastern Europe",
+        "Western Europe",
+        "South Korea"
+      ],
+      "skills": [
+        "Community Management",
+        "Developer Relations",
+        "Blockchain architecture"
+      ],
+      "payment": {
+        "salary": "$60k – $70k"
+      },
+      "recruiter": {
+        "title": "COO",
+        "role": "Employee",
+        "url": "https://angel.co/u/sebastian-campos-groth-2",
+        "name": "Sebastian Campos Groth",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "810295",
+        "angelListUrl": "https://angel.co/company/arweave/jobs/810295-"
+      },
+      "postedAt": 1589658810295
+    }
+  ]
+}

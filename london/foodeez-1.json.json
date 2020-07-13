@@ -1,0 +1,95 @@
+{
+  "name": "Foodeez",
+  "avatar": "https://photos.angel.co/startups/i/6873456-cb65d9a4a18a620b0e58f10de3ab81d4-medium_jpg.jpg?buster=1554729260",
+  "slogan": "Making dining out with dietary requirements simple",
+  "description": "Foodeez is an app for people with dietary requirements, such as gluten-free, nut-free, vegan, vegetarian and more. It helps these people find places to eat and present suitable dishes more intuitively.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://getfoodeez.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Personal Health",
+    "Mobile Application",
+    "Food Tech"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/adam-boulkroune-1",
+      "name": "Adam Boulkroune",
+      "avatar": "https://photos.angel.co/users/9182577-medium_jpg?1554729618",
+      "bioHtml": "Founder of Foodeez. UX/UI designer. Degree in Rocket Science"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6873456",
+    "angelListUrl": "https://angel.co/company/foodeez-1"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "Technical partner / CTO / Full-stack mobile dev",
+      "description": "You'd be joining me as the co-founder of Foodeez. Fully responsible for the tech stack, you might also have to get your hands dirty with other aspects of launching a product. Be prepared to bootstrap it!\n\nThere's a clear demand from consumers and a number of local restaurants have pre-registered. The app is fully designed, so it would be great to get a working version out there in the wild.\n\nIt would also be great to hear your personal motivation for helping people with dietary requirements.\n\nMy background: UX/UI designer with 5 years experience making digital products.",
+      "descriptionHtml": "<p>You&#39;d be joining me as the co-founder of Foodeez. Fully responsible for the tech stack, you might also have to get your hands dirty with other aspects of launching a product. Be prepared to bootstrap it!</p>\n\n<p>There&#39;s a clear demand from consumers and a number of local restaurants have pre-registered. The app is fully designed, so it would be great to get a working version out there in the wild.</p>\n\n<p>It would also be great to hear your personal motivation for helping people with dietary requirements.</p>\n\n<p>My background: UX/UI designer with 5 years experience making digital products.</p>\n",
+      "position": "cofounder",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Full Stack Development",
+        "React Native"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "35.0% – 50.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/adam-boulkroune-1",
+        "name": "Adam Boulkroune",
+        "avatar": "https://photos.angel.co/users/9182577-medium_jpg?1554729618"
+      },
+      "refs": {
+        "angelListId": "534497",
+        "angelListUrl": "https://angel.co/company/foodeez-1/jobs/534497-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "name": "Localistico",
+  "avatar": "https://photos.angel.co/startups/i/478277-8df04221433c224b2cffb36c9d0c9454-medium_jpg.jpg?buster=1519126407",
+  "slogan": "Taking Customers from Search to Store",
+  "description": "Localistico helps brands bring more customers from Search to Store. \n\nThe way consumers look for and find physical locations is changing. What’s more, the growing influence of online channels on offline transactions brings new opportunities for retailers to better engage with customers, raise their local awareness and increase footfall.  \n\nWe believe that advances in geo targeting and analytics in platforms like Google and Facebook, plus the increasing digitalisation of bricks-and-mortar stores, brings new  opportunities to understand local customer behaviour and enhance business value. Localistico enables brands to take advantage of this opportunity.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://localistico.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://medium.com/localistico"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/localistico"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/localistico/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/localistico"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Spain",
+    "Europe",
+    "Europe."
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 650000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1506729600,
+        "valuation": 0
+      },
+      {
+        "type": "",
+        "closedAt": 1428624000,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/ricardo-varela",
+      "name": "Ricardo Varela",
+      "avatar": "https://photos.angel.co/users/738108-medium_jpg?1409668582",
+      "bioHtml": "CEO of Localistico. Worked at Telefonica, Vodafone, Yahoo, Google and Microsoft."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/javier-mayoral",
+      "name": "Javier Mayoral",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Software Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/denis-shpektorov",
+      "name": "Denis Shpektorov",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Software Engineer at Localistico"
+    },
+    {
+      "title": "Backend developer",
+      "role": "Employee",
+      "url": "https://angel.co/u/davidrv-cat",
+      "name": "David Ramirez",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Ruby on Rails developer."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "478277",
+    "angelListUrl": "https://angel.co/company/localistico"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Solution Engineer",
+      "description": "We’re looking for a Solutions Engineer!\n\nWe’re Localistico, a London-based startup with a top international team that have worked in companies like Google, Microsoft, Yelp or Tuenti. We have offices in central London, Madrid and Amsterdam - although our team works remotely most of the time (with quarterly in-person meetups).\n\nWe are building a local marketing and analytics platform to help marketing teams bridge online and offline. We believe that the way people find and interact with real-world locations is different from just websites. We think advances in geotargeting and analytics in platforms like Google and Facebook, plus the digitalization of brick & mortar locations will increasingly create new ways to reach customers and enhance business value - but will at the same time bring complexity. We are here to simplify that complexity.\n\nWe’re revenue-generating and manage location data across more than 80 countries for brands like Starbucks, Repsol or Vodafone. We have been part of Wayra and SeedRocket accelerators, were awarded a KPMG Shift100 Marketing Tech and are official partners of amazing digital players like Google, Apple or TripAdvisor. \n\nOur platform:\nLocalistico's backend is based on a mix of Ruby on Rails and Python components, the latter particularly for the data processing and integration pieces. Data storage is mostly PostgreSQL, Redis/Resque and ElasticSearch. Our frontend is built in Ember.js. Our whole deployment is cloud based with Shippable+Heroku+Google Cloud and continuous integration. We use GitHub as code repository and JIRA as management and issues platform.\n\nYour role:\nUnderstand our clients business, identify unique problems and unlock opportunities through bespoke technology solutions. \n\nYou will build new products and improve existing ones in collaboration with Localistico Product Engineering Team, developing solutions and tools to smooth, streamline, and ease the future integrations and reduce internal operational friction.\n\nMust have:\n- Ruby on Rails: High developer skills, working knowledge of Ruby on Rails and its ecosystem, having worked in sort-of-large Rails applications before and/or in a startup environment.\n- Communication: Experience communicating technical concepts to non-technical audiences. You got strong documentation habits.\n- Databases: Solid experience working with SQL databases and query optimisation, especially with PostgreSQL.\n- Way of working: A “get things done” mindset always understanding the needs of the client. You are proactive, making the right diagnosis, proposing and executing efficient solutions. You're never afraid to get your hands dirty with code. Excellent at problem solving and a talent for identifying creative solutions\n- English. Good spoken/written English is a must. We use English for day-to-day chats, videoconferences and documentation so professional proficiency both spoken and written is required. Spanish as an extra would be great.\n- Timezone. Not more than 3 hours time zone difference from London (+/- 3 hours). We’re a distributed team but we have experienced issues in coordination when team members are more than 3 hours time difference from our normal timezone. So for now we’re discarding candidates that are too far away. Sorry if that’s your case, we hope to be able to revisit this at some point in the future.\n- Team member. We are building our team from the ground up, so we won't take into consideration agencies or externalisation of any kind. We hope you understand!\n\n🚨WARNING 🚨\nWe are looking for someone very specific, so if you don’t meet the above requirements we will not be taking forward your application.\n\nNice to have:\n- Python and Django\n- Experience with the domain of the containers (Docker FTW!)\n- Experience developing a REST API following JSON API specification.\n- Working knowledge of Heroku, Amazon Web Service or Google Cloud\n- Well-rounded experience in software development and in back-end development as part of a team doing code reviews in a pull request of a team mate or pair programming, as well as updating/maintaining other team members’ code.\n- Having worked in sort-of-large Rails applications before and/or in a startup environment would be good for extra brownie points, but not mandatory.\n\nWe’re looking for the type of person that is always learning and feeling ready to take new challenges (despite it being scary sometimes!). \n\nWhat we offer:\n- Work in a professional team full of diversity: As part of our growth we are creating different teams to deal with the development of improvements and integrations in parallel. You’ll be part of a small team where everyone counts!\n- Flexible location and hours: we are a distributed team and we plan by goals, not times - work from wherever you are happiest and feel most productive. For when you need an office, you'll have them in London and Madrid.\n- Creative work: don’t just execute to guidelines but be a defining part of a great team tackling an interesting problem and help us drive the solution and the company culture.\n- We want all our team members to be healthy, grow and develop so we offer perks to cover the costs of gym classes or other sporty pursuits, language learning, conferences and other areas.\n- Competitive salary (41K€-62K€) + bonuses and equity participation (employee stock options scheme), based on location and experience. Ask us for details if you’d like to discuss, we’re very open about this. We want everybody that is part of the project to share the uptake as we share the work.",
+      "descriptionHtml": "<p>We’re looking for a Solutions Engineer!</p>\n\n<p>We’re Localistico, a London-based startup with a top international team that have worked in companies like Google, Microsoft, Yelp or Tuenti. We have offices in central London, Madrid and Amsterdam - although our team works remotely most of the time (with quarterly in-person meetups).</p>\n\n<p>We are building a local marketing and analytics platform to help marketing teams bridge online and offline. We believe that the way people find and interact with real-world locations is different from just websites. We think advances in geotargeting and analytics in platforms like Google and Facebook, plus the digitalization of brick &amp; mortar locations will increasingly create new ways to reach customers and enhance business value - but will at the same time bring complexity. We are here to simplify that complexity.</p>\n\n<p>We’re revenue-generating and manage location data across more than 80 countries for brands like Starbucks, Repsol or Vodafone. We have been part of Wayra and SeedRocket accelerators, were awarded a KPMG Shift100 Marketing Tech and are official partners of amazing digital players like Google, Apple or TripAdvisor. </p>\n\n<p>Our platform:<br>\nLocalistico&#39;s backend is based on a mix of Ruby on Rails and Python components, the latter particularly for the data processing and integration pieces. Data storage is mostly PostgreSQL, Redis/Resque and ElasticSearch. Our frontend is built in Ember.js. Our whole deployment is cloud based with Shippable+Heroku+Google Cloud and continuous integration. We use GitHub as code repository and JIRA as management and issues platform.</p>\n\n<p>Your role:<br>\nUnderstand our clients business, identify unique problems and unlock opportunities through bespoke technology solutions. </p>\n\n<p>You will build new products and improve existing ones in collaboration with Localistico Product Engineering Team, developing solutions and tools to smooth, streamline, and ease the future integrations and reduce internal operational friction.</p>\n\n<p>Must have:</p>\n\n<ul>\n<li>Ruby on Rails: High developer skills, working knowledge of Ruby on Rails and its ecosystem, having worked in sort-of-large Rails applications before and/or in a startup environment.</li>\n<li>Communication: Experience communicating technical concepts to non-technical audiences. You got strong documentation habits.</li>\n<li>Databases: Solid experience working with SQL databases and query optimisation, especially with PostgreSQL.</li>\n<li>Way of working: A “get things done” mindset always understanding the needs of the client. You are proactive, making the right diagnosis, proposing and executing efficient solutions. You&#39;re never afraid to get your hands dirty with code. Excellent at problem solving and a talent for identifying creative solutions</li>\n<li>English. Good spoken/written English is a must. We use English for day-to-day chats, videoconferences and documentation so professional proficiency both spoken and written is required. Spanish as an extra would be great.</li>\n<li>Timezone. Not more than 3 hours time zone difference from London (+/- 3 hours). We’re a distributed team but we have experienced issues in coordination when team members are more than 3 hours time difference from our normal timezone. So for now we’re discarding candidates that are too far away. Sorry if that’s your case, we hope to be able to revisit this at some point in the future.</li>\n<li>Team member. We are building our team from the ground up, so we won&#39;t take into consideration agencies or externalisation of any kind. We hope you understand!</li>\n</ul>\n\n<p>🚨WARNING 🚨<br>\nWe are looking for someone very specific, so if you don’t meet the above requirements we will not be taking forward your application.</p>\n\n<p>Nice to have:</p>\n\n<ul>\n<li>Python and Django</li>\n<li>Experience with the domain of the containers (Docker FTW!)</li>\n<li>Experience developing a REST API following JSON API specification.</li>\n<li>Working knowledge of Heroku, Amazon Web Service or Google Cloud</li>\n<li>Well-rounded experience in software development and in back-end development as part of a team doing code reviews in a pull request of a team mate or pair programming, as well as updating/maintaining other team members’ code.</li>\n<li>Having worked in sort-of-large Rails applications before and/or in a startup environment would be good for extra brownie points, but not mandatory.</li>\n</ul>\n\n<p>We’re looking for the type of person that is always learning and feeling ready to take new challenges (despite it being scary sometimes!). </p>\n\n<p>What we offer:</p>\n\n<ul>\n<li>Work in a professional team full of diversity: As part of our growth we are creating different teams to deal with the development of improvements and integrations in parallel. You’ll be part of a small team where everyone counts!</li>\n<li>Flexible location and hours: we are a distributed team and we plan by goals, not times - work from wherever you are happiest and feel most productive. For when you need an office, you&#39;ll have them in London and Madrid.</li>\n<li>Creative work: don’t just execute to guidelines but be a defining part of a great team tackling an interesting problem and help us drive the solution and the company culture.</li>\n<li>We want all our team members to be healthy, grow and develop so we offer perks to cover the costs of gym classes or other sporty pursuits, language learning, conferences and other areas.</li>\n<li>Competitive salary (41K€-62K€) + bonuses and equity participation (employee stock options scheme), based on location and experience. Ask us for details if you’d like to discuss, we’re very open about this. We want everybody that is part of the project to share the uptake as we share the work.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Madrid"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Django",
+        "Ruby",
+        "Databases",
+        "Heroku",
+        "Ruby on Rails",
+        "Solutions Engineering"
+      ],
+      "payment": {
+        "salary": "€41k – €62k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/ricardo-varela",
+        "name": "Ricardo Varela",
+        "avatar": "https://photos.angel.co/users/738108-medium_jpg?1409668582"
+      },
+      "refs": {
+        "angelListId": "595555",
+        "angelListUrl": "https://angel.co/company/localistico/jobs/595555-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Python Backend Engineer",
+      "description": "#### Please: no recruiters, no development agencies, no hiring services - we just want people :)\r\n(due to way too many requests) As we mention in the requirements we are looking for a full-time team member and we plan to hire directly, so please recruiters, agencies, externalisation companies and the like - save time and don't contact us :)\r\n\r\n**We are Localistico**, a London-based startup with a top international team that have worked in companies like Google, Microsoft, Yelp or Tuenti. We have offices in central London and Madrid - although our team works remotely most of the time (with in-person meetups every 3-4 months).\r\n\r\nWe are building a local marketing and analytics platform to help marketing teams bridge online and offline. We believe that the way people find and interact with real-world locations is different from just websites. We think advances in geotargeting and analytics in platforms like Google and Facebook, plus the digitalization of brick &amp; mortar locations will increasingly create new ways to reach customers and enhance business value - but will at the same time bring complexity. We are here to simplify that complexity.\r\n\r\nWe are revenue-generating and manage location data across more than 80 countries for brands like Starbucks, Vodafone, Camper or Bershka. We have been part of Wayra and SeedRocket accelerators, were awarded a KPMG Shift100 Marketing Tech and are official partners of amazing digital players like Google, Foursquare, Bing, HERE or TripAdvisor.\r\n\r\nThe base of our application is a mix of interconnected Ruby on Rails and Python backend components, with Ember and React web-app clients. \r\nWe are looking for a *Senior Python Engineer* to join our engineering team to help continue building the foundation of our application in a way that scales well with both load and team size.\r\n\r\nYour responsibilities will include:\r\n* design and implement new backend services, greenfield and brownfield, to be consumed by our web application - working closely with the product owner, backend and frontend team\r\n* improve and maintain existing backend services, such as the integration system for 3rdparty mapping APIs from our partners\r\n* participate in architectural decisions that shape the product and organizational decisions that define the process. Evaluate new approaches, tools and technologies\r\n* solve the puzzle of breaking up a monolithic core into parts that form a system that is more robust and easier to reason about\r\n* help share and exchange knowledge with the rest of the team, establishing engineering guidelines for new Python engineers joining the team as we grow\r\n\r\n### MUST HAVE\r\n* 8+ years experience in software development\r\n* 5+ years experience working in a team with sound engineering approach: source control (preferably, git), frequent commits, code reviews, automated testing\r\n* 2+ years of production-level experience with: Python, Django (or alternative frameworks), RDBMS (preferably, Postgres), Docker,  REST-like APIs\r\n* 1+ years experience working in a team on a product following some Agile methodology (Scrum, Kanban)\r\n* Self-starter and problem-solver attitude: being proactive and independent, resourceful and persistent, continuously curious about growing personally and improving the product.\r\n* Communication skills: Good level of English, written and spoken. Experience writing and reviewing tech docs, giving demos,  mentoring others, receiving and providing feedback.\r\n* Experience designing, delivering and maintaining medium-to-large products or features\r\n* Basic knowledge of data structures, algorithms and understanding of algorithmic complexity\r\n* Located no more than 3 hours away from London timezone (+/- 3 hours). We are a distributed team but in the past we experienced issues in coordination when team members were more than 3 hours away from our normal timezone. So for now we’re not considering candidates that are too far away. Sorry if that’s your case, we hope to be able to revisit this at some point in the future.\r\n* Team member. We are building our team from the ground up, so we won't take into consideration recruiters, agencies or externalisation of any kind. We hope you understand!\r\n\r\n### NICE TO HAVE (highlight these if you have them)\r\n* Experience in Remote Work and Startups. Working remotely has its pros and cons, same with working in a fast-paced startup environment. Knowing how to work around the cons and leverage the pros from your own experience would help.\r\n* Experience with task queues or distributed complex systems in general. \r\n* Experience with operations: setting up and maintaining CI/CD or cloud infrastructure, even better if the experience is related with GCP\r\n* Experience with Kubernetes deployments as an administrator or as a developer\r\n* Experience in communication with non-tech people\r\n* Experience integrating with 3rd party APIs and systems, such as Google Ads, Google Maps, Facebook, Twitter or others\r\n\r\n### WHAT WE OFFER \r\n* Flexible location and hours: we are a distributed team and we plan by goals, not times - work from wherever you are happiest and feel most productive. For when you need an office, you'll have them in London and Madrid.\r\n* In-person Team meet-ups — we call them Kickoffs — every 3-4 months\r\n* Up to date tech stack to work and play with: Python 3.6+, Docker, Kubernetes, CI/CD\r\n* Creative work: don’t just follow the guidelines but be a defining part of a great team tackling an interesting problem and help us drive the solution and the company culture.\r\n* Make a difference: You’ll join a small team where your opinion counts!\r\n* Health and learning perks: We want all our team members to be healthy, grow and develop so we offer perks to cover the costs of gym classes or other sporty pursuits, language learning or other courses/conferences.\r\n* 30 days paid holidays per year (normally 20 flexible + 10 national bank holidays). Plus the usual paid sick days, maternity/paternity leave or others.\r\n* Competitive salary (€45K-€67K) + bonuses and equity participation (employee stock options scheme), both based on seniority level. Ask us for details if you’d like to discuss, we’re very open about this. We want everybody who is part of the project to share the uptake as we share the work.",
+      "descriptionHtml": "<p><strong>Please: no recruiters, no development agencies, no hiring services - we just want people :)</strong></p>\n\n<p>(due to way too many requests) As we mention in the requirements we are looking for a full-time team member and we plan to hire directly, so please recruiters, agencies, externalisation companies and the like - save time and don&#39;t contact us :)</p>\n\n<p><strong>We are Localistico</strong>, a London-based startup with a top international team that have worked in companies like Google, Microsoft, Yelp or Tuenti. We have offices in central London and Madrid - although our team works remotely most of the time (with in-person meetups every 3-4 months).</p>\n\n<p>We are building a local marketing and analytics platform to help marketing teams bridge online and offline. We believe that the way people find and interact with real-world locations is different from just websites. We think advances in geotargeting and analytics in platforms like Google and Facebook, plus the digitalization of brick &amp; mortar locations will increasingly create new ways to reach customers and enhance business value - but will at the same time bring complexity. We are here to simplify that complexity.</p>\n\n<p>We are revenue-generating and manage location data across more than 80 countries for brands like Starbucks, Vodafone, Camper or Bershka. We have been part of Wayra and SeedRocket accelerators, were awarded a KPMG Shift100 Marketing Tech and are official partners of amazing digital players like Google, Foursquare, Bing, HERE or TripAdvisor.</p>\n\n<p>The base of our application is a mix of interconnected Ruby on Rails and Python backend components, with Ember and React web-app clients. <br>\nWe are looking for a <em>Senior Python Engineer</em> to join our engineering team to help continue building the foundation of our application in a way that scales well with both load and team size.</p>\n\n<p>Your responsibilities will include:</p>\n\n<ul>\n<li>design and implement new backend services, greenfield and brownfield, to be consumed by our web application - working closely with the product owner, backend and frontend team</li>\n<li>improve and maintain existing backend services, such as the integration system for 3rdparty mapping APIs from our partners</li>\n<li>participate in architectural decisions that shape the product and organizational decisions that define the process. Evaluate new approaches, tools and technologies</li>\n<li>solve the puzzle of breaking up a monolithic core into parts that form a system that is more robust and easier to reason about</li>\n<li>help share and exchange knowledge with the rest of the team, establishing engineering guidelines for new Python engineers joining the team as we grow</li>\n</ul>\n<h3>MUST HAVE</h3>\n<ul>\n<li>8+ years experience in software development</li>\n<li>5+ years experience working in a team with sound engineering approach: source control (preferably, git), frequent commits, code reviews, automated testing</li>\n<li>2+ years of production-level experience with: Python, Django (or alternative frameworks), RDBMS (preferably, Postgres), Docker,  REST-like APIs</li>\n<li>1+ years experience working in a team on a product following some Agile methodology (Scrum, Kanban)</li>\n<li>Self-starter and problem-solver attitude: being proactive and independent, resourceful and persistent, continuously curious about growing personally and improving the product.</li>\n<li>Communication skills: Good level of English, written and spoken. Experience writing and reviewing tech docs, giving demos,  mentoring others, receiving and providing feedback.</li>\n<li>Experience designing, delivering and maintaining medium-to-large products or features</li>\n<li>Basic knowledge of data structures, algorithms and understanding of algorithmic complexity</li>\n<li>Located no more than 3 hours away from London timezone (+/- 3 hours). We are a distributed team but in the past we experienced issues in coordination when team members were more than 3 hours away from our normal timezone. So for now we’re not considering candidates that are too far away. Sorry if that’s your case, we hope to be able to revisit this at some point in the future.</li>\n<li>Team member. We are building our team from the ground up, so we won&#39;t take into consideration recruiters, agencies or externalisation of any kind. We hope you understand!</li>\n</ul>\n<h3>NICE TO HAVE (highlight these if you have them)</h3>\n<ul>\n<li>Experience in Remote Work and Startups. Working remotely has its pros and cons, same with working in a fast-paced startup environment. Knowing how to work around the cons and leverage the pros from your own experience would help.</li>\n<li>Experience with task queues or distributed complex systems in general. </li>\n<li>Experience with operations: setting up and maintaining CI/CD or cloud infrastructure, even better if the experience is related with GCP</li>\n<li>Experience with Kubernetes deployments as an administrator or as a developer</li>\n<li>Experience in communication with non-tech people</li>\n<li>Experience integrating with 3rd party APIs and systems, such as Google Ads, Google Maps, Facebook, Twitter or others</li>\n</ul>\n<h3>WHAT WE OFFER</h3>\n<ul>\n<li>Flexible location and hours: we are a distributed team and we plan by goals, not times - work from wherever you are happiest and feel most productive. For when you need an office, you&#39;ll have them in London and Madrid.</li>\n<li>In-person Team meet-ups — we call them Kickoffs — every 3-4 months</li>\n<li>Up to date tech stack to work and play with: Python 3.6+, Docker, Kubernetes, CI/CD</li>\n<li>Creative work: don’t just follow the guidelines but be a defining part of a great team tackling an interesting problem and help us drive the solution and the company culture.</li>\n<li>Make a difference: You’ll join a small team where your opinion counts!</li>\n<li>Health and learning perks: We want all our team members to be healthy, grow and develop so we offer perks to cover the costs of gym classes or other sporty pursuits, language learning or other courses/conferences.</li>\n<li>30 days paid holidays per year (normally 20 flexible + 10 national bank holidays). Plus the usual paid sick days, maternity/paternity leave or others.</li>\n<li>Competitive salary (€45K-€67K) + bonuses and equity participation (employee stock options scheme), both based on seniority level. Ask us for details if you’d like to discuss, we’re very open about this. We want everybody who is part of the project to share the uptake as we share the work.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 8,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Madrid"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe"
+      ],
+      "skills": [
+        "Python",
+        "Django",
+        "Backend Development",
+        "Docker",
+        "Kubernetes",
+        "RESTful API"
+      ],
+      "payment": {
+        "salary": "€45k – €67k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/ricardo-varela",
+        "name": "Ricardo Varela",
+        "avatar": "https://photos.angel.co/users/738108-medium_jpg?1409668582"
+      },
+      "refs": {
+        "angelListId": "775708",
+        "angelListUrl": "https://angel.co/company/localistico/jobs/775708-"
+      }
+    }
+  ]
+}

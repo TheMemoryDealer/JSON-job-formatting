@@ -1,0 +1,97 @@
+{
+  "name": "Finanum",
+  "avatar": "https://photos.angel.co/startups/i/7510545-43eabebeb3f32cec25f27d3b7b51f059-medium_jpg.jpg?buster=1582301697",
+  "slogan": "A digital platform helping aspiring homeowners in the UK to save for their home",
+  "description": "Finanum is an early-stage Fintech/Proptech startup whose mission is to ensure every individual is able to realise their dream of owning a home. We are building a digital platform helping millions of aspiring homeowners in the UK to save for their homes in a way that is simple, dynamic and seamless. The journey of saving for a home is mindboggling and difficult. We take the stress out by telling them what they can afford in their desired area and timeframe, how much to save, and by providing tools and personalised nudges to help them achieve their target.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.finanum.com/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London",
+    "Greater London",
+    "London"
+  ],
+  "marketTags": [
+    "Real Estate",
+    "Financial Services",
+    "Personal Finance",
+    "Finance Technology",
+    "Real Estate Technology",
+    "Property",
+    "Fin Tech"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/vishal-gotecha",
+      "name": "Vishal Gotecha",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7510545",
+    "angelListUrl": "https://angel.co/company/finanum"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "Tech Lead",
+      "description": "**We are looking for…**\nA Tech Lead who can provide sound technical leadership in all aspects of our business on a day-to-day basis. You will be part of our core team, initially part-time with a view to going full-time.\n\n**You would be…**\n* Devising technical strategy and managing a technical roadmap.\n• Designing, developing and managing web/mobile platforms from MVP to a platform supporting thousands of users. You will have a broad remit covering platform architecture, cloud-based infrastructure, databases, IT and information security, user experience design, coding and code reviews, product development, and user testing.\n• Selecting external technical partners, and over time building and managing a team of internal technical talent.\n\n**You would ideally have…**\n• A solid background in software development - knowledge in system architecture, software design and programming, with preferable proficiency in .Net (C#), React/Redux, and HTML/CSS.\n• Some experience managing projects and technical talent/teams.\n• Knowledge of the current technologies and emerging trends.\n• An ability to build products based on customer needs.\n• 5+ years of proven experience or similar role. Relevant experience either working in a startup, Fintech/Proptech or building a customer-facing product is a plus.\n\n**This is for you if you…**\n✓ Are seeking a new challenge and an opportunity to learn and grow.\n✓ Want to be part of an innovative start-up with an important mission and great ambitions.\n✓ Are looking to have direct impact by shaping our product and future.\n✓ Are open to flexible compensation packages i.e. part salary/part equity, and flexible working arrangements.\n\n**Location:**\nWe are based in the WeWork Fintech & Blockchain Labs in London, UK.",
+      "descriptionHtml": "<p><strong>We are looking for…</strong><br>\nA Tech Lead who can provide sound technical leadership in all aspects of our business on a day-to-day basis. You will be part of our core team, initially part-time with a view to going full-time.</p>\n\n<p><strong>You would be…</strong></p>\n\n<ul>\n<li>Devising technical strategy and managing a technical roadmap.\n• Designing, developing and managing web/mobile platforms from MVP to a platform supporting thousands of users. You will have a broad remit covering platform architecture, cloud-based infrastructure, databases, IT and information security, user experience design, coding and code reviews, product development, and user testing.\n• Selecting external technical partners, and over time building and managing a team of internal technical talent.</li>\n</ul>\n\n<p><strong>You would ideally have…</strong><br>\n• A solid background in software development - knowledge in system architecture, software design and programming, with preferable proficiency in .Net (C#), React/Redux, and HTML/CSS.<br>\n• Some experience managing projects and technical talent/teams.<br>\n• Knowledge of the current technologies and emerging trends.<br>\n• An ability to build products based on customer needs.<br>\n• 5+ years of proven experience or similar role. Relevant experience either working in a startup, Fintech/Proptech or building a customer-facing product is a plus.</p>\n\n<p><strong>This is for you if you…</strong><br>\n✓ Are seeking a new challenge and an opportunity to learn and grow.<br>\n✓ Want to be part of an innovative start-up with an important mission and great ambitions.<br>\n✓ Are looking to have direct impact by shaping our product and future.<br>\n✓ Are open to flexible compensation packages i.e. part salary/part equity, and flexible working arrangements.</p>\n\n<p><strong>Location:</strong><br>\nWe are based in the WeWork Fintech &amp; Blockchain Labs in London, UK.</p>\n",
+      "position": "cofounder",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/vishal-gotecha",
+        "name": "Vishal Gotecha",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "735487",
+        "angelListUrl": "https://angel.co/company/finanum/jobs/735487-"
+      }
+    }
+  ]
+}

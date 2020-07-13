@@ -1,0 +1,76 @@
+{
+  "name": "ModelDrive",
+  "avatar": "https://photos.angel.co/startups/i/7517188-2d8129cb4da471ad69caa8cb9cff06dc-medium_jpg.jpg?buster=1582587112",
+  "slogan": "Financial modeling. Reinvented",
+  "description": "ModelDrive is a software company on a mission to reinvent financial modeling. For over 40 years, corporate finance professionals have been working in the same electronic spreadsheets, while the world has changed drastically and other industries have moved on. We are building a better tool, that will improve the lives of people in corporate finance.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://modeldrive.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/modeldrive/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Enterprise Software",
+    "Fin Tech"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/david-mihailovic-1",
+      "name": "David Mihailovic",
+      "avatar": "https://photos.angel.co/users/10210115-medium_jpg?1582585582",
+      "bioHtml": "Goldman Sachs and Blackstone Tactical Opportunities\nMSc in Quantitative Finance"
+    },
+    {
+      "title": "Software Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/alexander-turowicz",
+      "name": "Alexander Turowicz",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at Cognizant , McKinsey &amp; Co. Experience with Consulting, Integrity, Management"
+    },
+    {
+      "title": "Co-Founder",
+      "role": "Employee",
+      "url": "https://angel.co/u/ronald-smits",
+      "name": "Ronald Smits",
+      "avatar": "https://photos.angel.co/users/2052359-medium_jpg?1535208446",
+      "bioHtml": "Data Scientist &amp; Software Developer | Project Management | Software Development"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7517188",
+    "angelListUrl": "https://angel.co/company/modeldrive"
+  },
+  "jobs": []
+}

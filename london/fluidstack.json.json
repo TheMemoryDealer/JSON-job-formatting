@@ -1,0 +1,155 @@
+{
+  "name": "FluidStack",
+  "avatar": "https://photos.angel.co/startups/i/4919652-40e1fa0042c511d5df5a032bb0f60b6a-medium_jpg.jpg?buster=1543333928",
+  "slogan": "We've built tech to turn any device into a cloud server",
+  "description": "We've built tech to easily turn any internet-connected device into a cloud server, creating a way to enable mass-market engagement with distributed computing.\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.fluidstack.io"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/27024383/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Storage",
+    "Cloud Computing",
+    "Cloud Infrastructure",
+    "Content Delivery"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/reaal",
+      "name": "Reaal Khalil",
+      "avatar": "https://photos.angel.co/users/1841356-medium_jpg?1517773877",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/jamie-cox-7",
+      "name": "Jamie Cox",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/garywupx-gmail-com",
+      "name": "Gary Wu",
+      "avatar": "https://photos.angel.co/users/881536-medium_jpg?1510603098",
+      "bioHtml": "Founder @flare-10"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/madeleine-cuff",
+      "name": "Madeleine Cuff",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4919652",
+    "angelListUrl": "https://angel.co/company/fluidstack"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Distributed Systems Engineer",
+      "description": "We've built technology that allows any device to be used as a cloud server. Using this tech, we are building a global distributed cloud platform. We are working at the forefront of distributed systems, peer-to-peer networking, and cloud systems. \n\nFluidStack's first product is a peer-to-peer CDN, designed to be faster and cheaper than incumbents. We are looking for someone to help us tackle the scalability challenges around our product. You will help us design and build out our caching, messaging, and routing systems to work across millions of nodes. You will have significant input and control over the architecture of these systems, to help us ensure that they are scalable, reliable, and fast.\n\nWe raised a £1.1m seed round earlier this year, and are backed by some of the original investors of Protocol Labs, Transferwise, and Zoopla. We have already partnered with industry heavyweights like the Guardian Media Group (one of the largest media platforms in the world), and our advisory board includes the ex-CEO of BitTorrent, ex-CTO of Shazam, and one of Akamai’s founding architects.\n\nFluidStack is looking for a highly motivated distributed systems engineer to help us optimise the core technologies behind our first product - a massively distributed CDN.\n\nYou will be working with us to solve difficult algorithmic and distributed systems problems. Your key responsibility will be helping us build and scale applications between hundreds of thousands of nodes. Applications include our distributed deployment infrastructure and our distributed file system.\n\nOnce you've joined the team, we will get you up to speed with our system and architecture, you'll begin working with us on existing projects and tackling current problems. You will then quickly become involved in all stages of development of future projects, from ideation through architecture and execution.",
+      "descriptionHtml": "<p>We&#39;ve built technology that allows any device to be used as a cloud server. Using this tech, we are building a global distributed cloud platform. We are working at the forefront of distributed systems, peer-to-peer networking, and cloud systems. </p>\n\n<p>FluidStack&#39;s first product is a peer-to-peer CDN, designed to be faster and cheaper than incumbents. We are looking for someone to help us tackle the scalability challenges around our product. You will help us design and build out our caching, messaging, and routing systems to work across millions of nodes. You will have significant input and control over the architecture of these systems, to help us ensure that they are scalable, reliable, and fast.</p>\n\n<p>We raised a £1.1m seed round earlier this year, and are backed by some of the original investors of Protocol Labs, Transferwise, and Zoopla. We have already partnered with industry heavyweights like the Guardian Media Group (one of the largest media platforms in the world), and our advisory board includes the ex-CEO of BitTorrent, ex-CTO of Shazam, and one of Akamai’s founding architects.</p>\n\n<p>FluidStack is looking for a highly motivated distributed systems engineer to help us optimise the core technologies behind our first product - a massively distributed CDN.</p>\n\n<p>You will be working with us to solve difficult algorithmic and distributed systems problems. Your key responsibility will be helping us build and scale applications between hundreds of thousands of nodes. Applications include our distributed deployment infrastructure and our distributed file system.</p>\n\n<p>Once you&#39;ve joined the team, we will get you up to speed with our system and architecture, you&#39;ll begin working with us on existing projects and tackling current problems. You will then quickly become involved in all stages of development of future projects, from ideation through architecture and execution.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Networking",
+        "Cloud Computing",
+        "Distributed Systems"
+      ],
+      "payment": {
+        "salary": "£60k – £80k",
+        "equity": "0.75% – 0.25%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/garywupx-gmail-com",
+        "name": "Gary Wu",
+        "avatar": "https://photos.angel.co/users/881536-medium_jpg?1510603098"
+      },
+      "refs": {
+        "angelListId": "369458",
+        "angelListUrl": "https://angel.co/company/fluidstack/jobs/369458-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Head of Engineering",
+      "description": "FluidStack is working to commoditise cloud compute. By leveraging under-utilised hardware from enterprises and individuals around the world, we are able to reduce the cost of cloud computing by 10x. We raised a seed round of £1mn in 2018, and have grown to a team of ten since then.\r\n\r\nWe are currently searching for a Head of Engineering to join FluidStack, to help us transition from a seed-stage startup to a well-oiled growth stage company and beyond. We would expect you help us lead, build, and grow our engineering team, as well as help lead the technical vision of the company.\r\n\r\nYour day-to-day tasks will include, but are not limited to:\r\n•\tWorking with the founders to establish long term technical vision and strategy.\r\n•\tLead and own technical development, helping translate product specs into technical designs and implementations and ensuring that they are delivered on time\r\n•\tEstablishing, defining, and maintaining the architecture of the platform\r\n•\tHands on development. We would expect you to get stuck into the code, and pick up a few of user stories each sprint\\\r\n•\tBuilding out and leading our engineering team. Helping us find and recruit talent, as well as helping develop our engineers through mentorship and regulars 1-1s.\r\n•\tHelping to continually improve engineering best practices and methods.\r\n•\tHelping to grow a healthy, collaborative engineering culture\r\n\r\nRequirements\r\n•\t6+ years of experience in software engineering\r\n•\t2+ years of experience leading &amp; mentoring a teams of 5 or more engineers (backend &amp; frontend)\r\n•\tExperience and understanding of cloud technologies, distributed systems, networking and database technologies (relational &amp; non-relational)\r\n•\tExperience with deploying and running on AWS or GCP\r\n•\tExperience with Docker and/or other container technologies\r\n•\tPreviously designed a cloud-based system or platform end-2-end\r\n•\tCommercial experience with Golang (and ideally love it)\r\n•\tA solid understanding and solid experience working in an agile development environment (Scrum &amp; Kanban)\r\n•\tPreviously hired people into an organisation\r\n•\tExcellent communication skills",
+      "descriptionHtml": "<p>FluidStack is working to commoditise cloud compute. By leveraging under-utilised hardware from enterprises and individuals around the world, we are able to reduce the cost of cloud computing by 10x. We raised a seed round of £1mn in 2018, and have grown to a team of ten since then.</p>\n\n<p>We are currently searching for a Head of Engineering to join FluidStack, to help us transition from a seed-stage startup to a well-oiled growth stage company and beyond. We would expect you help us lead, build, and grow our engineering team, as well as help lead the technical vision of the company.</p>\n\n<p>Your day-to-day tasks will include, but are not limited to:<br>\n• Working with the founders to establish long term technical vision and strategy.<br>\n• Lead and own technical development, helping translate product specs into technical designs and implementations and ensuring that they are delivered on time<br>\n• Establishing, defining, and maintaining the architecture of the platform<br>\n• Hands on development. We would expect you to get stuck into the code, and pick up a few of user stories each sprint\\<br>\n• Building out and leading our engineering team. Helping us find and recruit talent, as well as helping develop our engineers through mentorship and regulars 1-1s.<br>\n• Helping to continually improve engineering best practices and methods.<br>\n• Helping to grow a healthy, collaborative engineering culture</p>\n\n<p>Requirements<br>\n• 6+ years of experience in software engineering<br>\n• 2+ years of experience leading &amp; mentoring a teams of 5 or more engineers (backend &amp; frontend)<br>\n• Experience and understanding of cloud technologies, distributed systems, networking and database technologies (relational &amp; non-relational)<br>\n• Experience with deploying and running on AWS or GCP<br>\n• Experience with Docker and/or other container technologies<br>\n• Previously designed a cloud-based system or platform end-2-end<br>\n• Commercial experience with Golang (and ideally love it)<br>\n• A solid understanding and solid experience working in an agile development environment (Scrum &amp; Kanban)<br>\n• Previously hired people into an organisation<br>\n• Excellent communication skills</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Management",
+        "Software Architecture",
+        "Distributed Systems"
+      ],
+      "payment": {
+        "salary": "£100k – £100k",
+        "equity": "0.0% – 5.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/garywupx-gmail-com",
+        "name": "Gary Wu",
+        "avatar": "https://photos.angel.co/users/881536-medium_jpg?1510603098"
+      },
+      "refs": {
+        "angelListId": "733980",
+        "angelListUrl": "https://angel.co/company/fluidstack/jobs/733980-"
+      }
+    }
+  ]
+}

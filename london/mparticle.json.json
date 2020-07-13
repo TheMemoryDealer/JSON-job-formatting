@@ -1,0 +1,416 @@
+{
+  "name": "mParticle",
+  "avatar": "https://photos.angel.co/startups/i/221541-38135d80136b3b18be0b29594350f55c-medium_jpg.jpg?buster=1524790493",
+  "slogan": "The customer data platform for the connected age",
+  "description": "Founded in 2013, mParticle is the leading customer data platform that unlocks the full power of data for businesses. The company empowers brands to accelerate their growth strategy to keep pace with their customers by providing the most advanced data platform for web and apps across all devices in the marketplace. A trusted partner among renowned brands such as Airbnb, NBC Universal, Accuweather, Starbucks and Spotify among many others, the mParticle platform has grown to handle over 1 billion mobile users each month, collecting over $10 billion in e-commerce transactions and processes over 1 trillion API calls. Recognized as one of Crain’s 100 Best Places to Work in New York City and named to Gartner’s “Cool Vendors in Mobile App Development” list, mParticle has 120+ employees and is headquartered in New York City with offices in San Francisco, Seattle, Florida, and London.\n\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.mparticle.com/"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.mparticle.com/blog/"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@mparticles"
+    },
+    {
+      "type": "facebook",
+      "url": "http://www.facebook.com/pages/mparticle/467401490025179"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/mparticle-inc-/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "New York City",
+    "San Francisco",
+    "London",
+    "Delray Beach"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Cloud Data Services",
+    "Big Data Analytics"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 72000000,
+    "rounds": [
+      {
+        "type": "Series C",
+        "closedAt": 1505865600,
+        "valuation": 0
+      },
+      {
+        "type": "Series B",
+        "closedAt": 1476403200,
+        "valuation": 0
+      },
+      {
+        "type": "Series A",
+        "closedAt": 1450396800,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1412899200,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1381881600,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/p/andrew-katz-1",
+      "name": "Andrew Katz",
+      "avatar": "https://photos.angel.co/users/403298-medium_jpg?1405632040",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/p/davidmyersjr",
+      "name": "David Myers",
+      "avatar": "https://photos.angel.co/users/401422-medium_jpg?1463605404",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/p/michael-katz",
+      "name": "Michael Katz",
+      "avatar": "https://photos.angel.co/users/138098-medium_jpg?1406782499",
+      "bioHtml": "mParticle co-founder &amp; ceo. former founder | CEO <a href=\"https://angel.co/company/interclick\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">interclick</span></a>, investor &amp; BOD @ Adaptly, active angel investor, "
+    },
+    {
+      "title": "Senior Manager, Demand Generation",
+      "role": "Employee",
+      "url": "https://angel.co/u/rahtrip-gmail-com",
+      "name": "Rahul Mantripragada",
+      "avatar": "https://photos.angel.co/users/1101331-medium_jpg?1563984745",
+      "bioHtml": "Senior Demand Generation Manager <a href=\"https://angel.co/company/mparticle\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">mParticle</span></a>"
+    },
+    {
+      "title": "Executive Assistant",
+      "role": "Employee",
+      "url": "https://angel.co/u/anisah-munruddin",
+      "name": "Anisah Munruddin",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Staff Software Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/victor-ponce-2",
+      "name": "Victor Ponce",
+      "avatar": "https://photos.angel.co/users/9171058-medium_jpg?1567104527",
+      "bioHtml": "Tech lead on many greenfield projects. Managerial experience of teams over 10 people. Served interim CTO role for several companies."
+    }
+  ],
+  "perks": [
+    {
+      "category": "commuter",
+      "title": "Commuter program"
+    },
+    {
+      "category": "company_meals",
+      "title": "Healthy snacks"
+    },
+    {
+      "category": "healthcare",
+      "title": "Excellent benefits"
+    },
+    {
+      "category": "parental_leave",
+      "title": "Parental leave"
+    },
+    {
+      "category": "pet_friendly",
+      "title": "Bring your dog!"
+    },
+    {
+      "category": "generous_vacation",
+      "title": "Unlimited time off"
+    },
+    {
+      "category": "retirement",
+      "title": "401k"
+    }
+  ],
+  "refs": {
+    "angelListId": "221541",
+    "angelListUrl": "https://angel.co/company/mparticle"
+  },
+  "jobs": [
+    {
+      "role": "Sales",
+      "title": "Enterprise Sales Director",
+      "description": " \n\nAt mParticle, our mission is to help companies utilize their data to increase the value of their brands. Our customers include companies such as Airbnb, Spotify, NBC Universal, Starbucks, Paypal, Burger King and hundreds more where we help accelerate digital transformation and underpin world class customer experiences. Founded in 2013, mParticle has raised over $120M of capital from major venture capital firms, and we’re just getting started.\n\nOur Sales team balances deep product and industry knowledge, with a genuine customer-obsessed mentality. Every consumer brand wrestles with data fragmentation and disconnected systems which can be vastly improved through the adoption of a unified data layer like mParticle. In doing so, we are building the future of CRM.\n\nYour focus will be on customer acquisition, working collaboratively across technical and non-technical stakeholders to help deliver innovative solutions to the worlds most innovative brands. You will need to have a genuine passion for technology, data, analytics, and marketing.\n\n \n\n**What you'll do @ mParticle:**\n\n- Identify potential customers and run the end-to-end sales process with help from various people across Product, Engineering, Solutions, and the Executive team.\n- Build and maintain relationships with customers across our key buying personas, from product teams to growth marketers and developers.\n- Close business!\n\n \n\n**We want to talk to you if you have the following experience:**\n\n- Have sold API-first software solutions\n- At least 5-7 enterprise software sales experience\n- Proven track record of exceeding your quota\n- Comfortable selling large deals to key technical stakeholders\n- Success running complex sales processes aligning multiple stakeholders on both sides. \n\n \n\n**How to get noticed:**\n\nIf you really want to stand out, we encourage you to treat this role like a deal that you are working. We can’t wait to be impressed by what you bring to the table as you differentiate yourself from everyone else.\n\n \n\n**About mParticle:**\n\nFounded in 2013, mParticle is the leading customer data platform that unlocks the full power of data for businesses. The company empowers brands to accelerate their growth strategy to keep pace with their customers by providing the most advanced data platform for web and apps across all devices in the marketplace. A trusted partner among renowned brands such as NBC Universal, Spotify and Airbnb among many others, the mParticle platform has grown to manage over 1 billion mobile users each month, capturing over $5 billion in e-commerce transactions and processes over 250 billion API calls. Recognized as one of Crain’s 100 Best Places to Work three years in a row and named to Gartner’s “Cool Vendors in Mobile App Development” list, mParticle has 100+ employees and is headquartered in New York City with offices in San Francisco, Seattle, Florida, and London.\n\n \n\n \n\n",
+      "descriptionHtml": "<p>At mParticle, our mission is to help companies utilize their data to increase the value of their brands. Our customers include companies such as Airbnb, Spotify, NBC Universal, Starbucks, Paypal, Burger King and hundreds more where we help accelerate digital transformation and underpin world class customer experiences. Founded in 2013, mParticle has raised over $120M of capital from major venture capital firms, and we’re just getting started.</p>\n\n<p>Our Sales team balances deep product and industry knowledge, with a genuine customer-obsessed mentality. Every consumer brand wrestles with data fragmentation and disconnected systems which can be vastly improved through the adoption of a unified data layer like mParticle. In doing so, we are building the future of CRM.</p>\n\n<p>Your focus will be on customer acquisition, working collaboratively across technical and non-technical stakeholders to help deliver innovative solutions to the worlds most innovative brands. You will need to have a genuine passion for technology, data, analytics, and marketing.</p>\n\n<p><strong>What you&#39;ll do @ mParticle:</strong></p>\n\n<ul>\n<li>Identify potential customers and run the end-to-end sales process with help from various people across Product, Engineering, Solutions, and the Executive team.</li>\n<li>Build and maintain relationships with customers across our key buying personas, from product teams to growth marketers and developers.</li>\n<li>Close business!</li>\n</ul>\n\n<p><strong>We want to talk to you if you have the following experience:</strong></p>\n\n<ul>\n<li>Have sold API-first software solutions</li>\n<li>At least 5-7 enterprise software sales experience</li>\n<li>Proven track record of exceeding your quota</li>\n<li>Comfortable selling large deals to key technical stakeholders</li>\n<li>Success running complex sales processes aligning multiple stakeholders on both sides. </li>\n</ul>\n\n<p><strong>How to get noticed:</strong></p>\n\n<p>If you really want to stand out, we encourage you to treat this role like a deal that you are working. We can’t wait to be impressed by what you bring to the table as you differentiate yourself from everyone else.</p>\n\n<p><strong>About mParticle:</strong></p>\n\n<p>Founded in 2013, mParticle is the leading customer data platform that unlocks the full power of data for businesses. The company empowers brands to accelerate their growth strategy to keep pace with their customers by providing the most advanced data platform for web and apps across all devices in the marketplace. A trusted partner among renowned brands such as NBC Universal, Spotify and Airbnb among many others, the mParticle platform has grown to manage over 1 billion mobile users each month, capturing over $5 billion in e-commerce transactions and processes over 250 billion API calls. Recognized as one of Crain’s 100 Best Places to Work three years in a row and named to Gartner’s “Cool Vendors in Mobile App Development” list, mParticle has 100+ employees and is headquartered in New York City with offices in San Francisco, Seattle, Florida, and London.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Executive Assistant",
+        "role": "Employee",
+        "url": "https://angel.co/u/anisah-munruddin",
+        "name": "Anisah Munruddin",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "811428",
+        "angelListUrl": "https://angel.co/company/mparticle/jobs/811428-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Enterprise Solutions Engineer",
+      "description": "mParticle underpins the data infrastructure of the world’s most valuable and respected brands. We are helping businesses of all stripes define and design experiences that are truly customer-first. We help our customers do more with more of their data by making business personal. \n\nThe Solution Engineers are a particularly critical pillar to mParticle's customer and solution success, working with sales and success teams to land and expand the footprint of our industry leading #1 customer data platform. You will interact with the largest disruptive consumer facing brands (Starbucks, NBC Universal, Walmart, Spotify, McDonalds, Drybar, and more), aligning mParticle's industry leading infrastructure and marketing technology to solving their business and technology challenges.\n\n## **What you’ll do**\n\n- Spearhead the technical and solution pre-sales campaign to prospective mParticle clients, including:\n\n  - Technical discovery around current customers architectures and business and technical challenges/opportunities\n  - Host technical workshops where you’ll be sitting side by side developers instrumenting the mParticle SDK’s and API’s to demonstrate platform capabilities, and overcome all technical objections\n  - Architect and execute Proof of Value plans to achieve technical selection over the competition\n  - Develop custom applications across web, mobile, voice, and OTT platforms and integrate the mParticle platform to demo the solution in their current & future state\n  - Solution design for advanced use cases using mParticles platform API’s and capabilities\n  - Building strategic crawl, walk, run plans and align the appropriate implementation plan to put your customers on a victory path through value realization\n- Drive engagement with product marketing, product, consulting and customer success on existing gaps, futures, and product strategies\n- Contribute and refine a world-class Solutions Engineering playbook\n- Present at industry events, conferences, and meetups\n\n## **We’d love to hear from you if you**\n\n- Have a 4 year undergraduate degree in Computer Science, Computer Engineering, or related technical field or equivalent experience.\n- Nice to have 3-5+ years experience in a Data Engineering/similar role developing, maintaining, and testing infrastructure\n- Have 3-5+ years experience in Solutions Engineering/similar role for a software product\n- Demonstrated strong experience collaborating with prospect marketing, product, engineering, and data science teams, translating business requirements and use cases into technical solutions\n- Are equally fluent talking technical details or taking a 30,000 foot view\n- Never met a whiteboard you didn’t like and can design complex solutions on the fly for a small audience, or command a large cross functional team of multi faceted team members\n\nIf connecting the dots between enterprise architects, developers, data scientists, and marketers through the lens of optimizing data & integrations and driving business outcomes, then this is the role for you.\n\nWe’re building something truly rare and special. Come join the customer data platform revolution and help build the future!\n\n## **About mParticle**\n\nFounded in 2013, mParticle is the leading customer data platform that unlocks the full power of data for businesses. The company empowers brands to accelerate their growth strategy to keep pace with their customers by providing the most advanced data platform for web and apps across all devices in the marketplace. A trusted partner among renowned brands such as Airbnb, NBC Universal, Accuweather, Starbucks and Spotify among many others, the mParticle platform has grown to handle over 1 billion mobile users each month, collecting over $10 billion in e-commerce transactions and processes over 1 trillion API calls. Recognized as one of Crain’s 100 Best Places to Work in New York City and named to Gartner’s “Cool Vendors in Mobile App Development” list, mParticle has 120+ employees and is headquartered in New York City with offices in San Francisco, Seattle, Florida, and London.\n\nWe are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\n",
+      "descriptionHtml": "<p>mParticle underpins the data infrastructure of the world’s most valuable and respected brands. We are helping businesses of all stripes define and design experiences that are truly customer-first. We help our customers do more with more of their data by making business personal. </p>\n\n<p>The Solution Engineers are a particularly critical pillar to mParticle&#39;s customer and solution success, working with sales and success teams to land and expand the footprint of our industry leading #1 customer data platform. You will interact with the largest disruptive consumer facing brands (Starbucks, NBC Universal, Walmart, Spotify, McDonalds, Drybar, and more), aligning mParticle&#39;s industry leading infrastructure and marketing technology to solving their business and technology challenges.</p>\n<h3><strong>What you’ll do</strong></h3>\n<ul>\n<li><p>Spearhead the technical and solution pre-sales campaign to prospective mParticle clients, including:</p>\n\n<ul>\n<li>Technical discovery around current customers architectures and business and technical challenges/opportunities</li>\n<li>Host technical workshops where you’ll be sitting side by side developers instrumenting the mParticle SDK’s and API’s to demonstrate platform capabilities, and overcome all technical objections</li>\n<li>Architect and execute Proof of Value plans to achieve technical selection over the competition</li>\n<li>Develop custom applications across web, mobile, voice, and OTT platforms and integrate the mParticle platform to demo the solution in their current &amp; future state</li>\n<li>Solution design for advanced use cases using mParticles platform API’s and capabilities</li>\n<li>Building strategic crawl, walk, run plans and align the appropriate implementation plan to put your customers on a victory path through value realization</li>\n</ul></li>\n<li><p>Drive engagement with product marketing, product, consulting and customer success on existing gaps, futures, and product strategies</p></li>\n<li><p>Contribute and refine a world-class Solutions Engineering playbook</p></li>\n<li><p>Present at industry events, conferences, and meetups</p></li>\n</ul>\n<h3><strong>We’d love to hear from you if you</strong></h3>\n<ul>\n<li>Have a 4 year undergraduate degree in Computer Science, Computer Engineering, or related technical field or equivalent experience.</li>\n<li>Nice to have 3-5+ years experience in a Data Engineering/similar role developing, maintaining, and testing infrastructure</li>\n<li>Have 3-5+ years experience in Solutions Engineering/similar role for a software product</li>\n<li>Demonstrated strong experience collaborating with prospect marketing, product, engineering, and data science teams, translating business requirements and use cases into technical solutions</li>\n<li>Are equally fluent talking technical details or taking a 30,000 foot view</li>\n<li>Never met a whiteboard you didn’t like and can design complex solutions on the fly for a small audience, or command a large cross functional team of multi faceted team members</li>\n</ul>\n\n<p>If connecting the dots between enterprise architects, developers, data scientists, and marketers through the lens of optimizing data &amp; integrations and driving business outcomes, then this is the role for you.</p>\n\n<p>We’re building something truly rare and special. Come join the customer data platform revolution and help build the future!</p>\n<h3><strong>About mParticle</strong></h3>\n<p>Founded in 2013, mParticle is the leading customer data platform that unlocks the full power of data for businesses. The company empowers brands to accelerate their growth strategy to keep pace with their customers by providing the most advanced data platform for web and apps across all devices in the marketplace. A trusted partner among renowned brands such as Airbnb, NBC Universal, Accuweather, Starbucks and Spotify among many others, the mParticle platform has grown to handle over 1 billion mobile users each month, collecting over $10 billion in e-commerce transactions and processes over 1 trillion API calls. Recognized as one of Crain’s 100 Best Places to Work in New York City and named to Gartner’s “Cool Vendors in Mobile App Development” list, mParticle has 120+ employees and is headquartered in New York City with offices in San Francisco, Seattle, Florida, and London.</p>\n\n<p>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "New York City",
+        "San Francisco"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Data Analysis",
+        "Mobile Development",
+        "Programming: 3P APIs & Libraries",
+        "Infrastructure",
+        "Analytics",
+        "Continuous Integration",
+        "Email",
+        "Google Analytics",
+        "REST APIs",
+        "System Integration",
+        "Data Management",
+        "Data Processing"
+      ],
+      "payment": {
+        "salary": "$100k – $150k"
+      },
+      "recruiter": {
+        "title": "Head of Solutions Engineering",
+        "role": "Employee",
+        "url": "https://angel.co/u/justin-mcmanus-2",
+        "name": "Justin McManus",
+        "avatar": "https://photos.angel.co/users/8767261-medium_jpg?1582044736"
+      },
+      "refs": {
+        "angelListId": "299643",
+        "angelListUrl": "https://angel.co/company/mparticle/jobs/299643-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Sales Director",
+      "description": " \n\nAt mParticle, our mission is to help companies utilize their data to increase the value of their brands. Our customers include companies such as Airbnb, Spotify, NBC Universal, Starbucks, Paypal, Burger King and hundreds more where we help accelerate digital transformation and underpin world class customer experiences. Founded in 2013, mParticle has raised over $120M of capital from major venture capital firms, and we’re just getting started.\n\nOur Sales team balances deep product and industry knowledge, with a genuine customer-obsessed mentality. Every consumer brand wrestles with data fragmentation and disconnected systems which can be vastly improved through the adoption of a unified data layer like mParticle. In doing so, we are building the future of CRM.\n\nYour focus will be on customer acquisition, working collaboratively across technical and non-technical stakeholders to help deliver innovative solutions to the worlds most innovative brands. You will need to have a genuine passion for technology, data, analytics, and marketing.\n\n \n\n**What you'll do @ mParticle:**\n\n- Identify potential customers and run the end-to-end sales process with help from various people across Product, Engineering, Solutions, and the Executive team.\n- Build and maintain relationships with customers across our key buying personas, from product teams to growth marketers and developers.\n- Close business!\n\n \n\n**We want to talk to you if you have the following experience:**\n\n- Have sold API-first software solutions\n- At least 5-7 enterprise software sales experience\n- Proven track record of exceeding your quota\n- Comfortable selling large deals to key technical stakeholders\n- Success running complex sales processes aligning multiple stakeholders on both sides. \n\n \n\n**How to get noticed:**\n\nIf you really want to stand out, we encourage you to treat this role like a deal that you are working. We can’t wait to be impressed by what you bring to the table as you differentiate yourself from everyone else.\n\n \n\n**About mParticle:**\n\nFounded in 2013, mParticle is the leading customer data platform that unlocks the full power of data for businesses. The company empowers brands to accelerate their growth strategy to keep pace with their customers by providing the most advanced data platform for web and apps across all devices in the marketplace. A trusted partner among renowned brands such as NBC Universal, Spotify and Airbnb among many others, the mParticle platform has grown to manage over 1 billion mobile users each month, capturing over $5 billion in e-commerce transactions and processes over 250 billion API calls. Recognized as one of Crain’s 100 Best Places to Work three years in a row and named to Gartner’s “Cool Vendors in Mobile App Development” list, mParticle has 100+ employees and is headquartered in New York City with offices in San Francisco, Seattle, Florida, and London.\n\n \n\n \n\n",
+      "descriptionHtml": "<p>At mParticle, our mission is to help companies utilize their data to increase the value of their brands. Our customers include companies such as Airbnb, Spotify, NBC Universal, Starbucks, Paypal, Burger King and hundreds more where we help accelerate digital transformation and underpin world class customer experiences. Founded in 2013, mParticle has raised over $120M of capital from major venture capital firms, and we’re just getting started.</p>\n\n<p>Our Sales team balances deep product and industry knowledge, with a genuine customer-obsessed mentality. Every consumer brand wrestles with data fragmentation and disconnected systems which can be vastly improved through the adoption of a unified data layer like mParticle. In doing so, we are building the future of CRM.</p>\n\n<p>Your focus will be on customer acquisition, working collaboratively across technical and non-technical stakeholders to help deliver innovative solutions to the worlds most innovative brands. You will need to have a genuine passion for technology, data, analytics, and marketing.</p>\n\n<p><strong>What you&#39;ll do @ mParticle:</strong></p>\n\n<ul>\n<li>Identify potential customers and run the end-to-end sales process with help from various people across Product, Engineering, Solutions, and the Executive team.</li>\n<li>Build and maintain relationships with customers across our key buying personas, from product teams to growth marketers and developers.</li>\n<li>Close business!</li>\n</ul>\n\n<p><strong>We want to talk to you if you have the following experience:</strong></p>\n\n<ul>\n<li>Have sold API-first software solutions</li>\n<li>At least 5-7 enterprise software sales experience</li>\n<li>Proven track record of exceeding your quota</li>\n<li>Comfortable selling large deals to key technical stakeholders</li>\n<li>Success running complex sales processes aligning multiple stakeholders on both sides. </li>\n</ul>\n\n<p><strong>How to get noticed:</strong></p>\n\n<p>If you really want to stand out, we encourage you to treat this role like a deal that you are working. We can’t wait to be impressed by what you bring to the table as you differentiate yourself from everyone else.</p>\n\n<p><strong>About mParticle:</strong></p>\n\n<p>Founded in 2013, mParticle is the leading customer data platform that unlocks the full power of data for businesses. The company empowers brands to accelerate their growth strategy to keep pace with their customers by providing the most advanced data platform for web and apps across all devices in the marketplace. A trusted partner among renowned brands such as NBC Universal, Spotify and Airbnb among many others, the mParticle platform has grown to manage over 1 billion mobile users each month, capturing over $5 billion in e-commerce transactions and processes over 250 billion API calls. Recognized as one of Crain’s 100 Best Places to Work three years in a row and named to Gartner’s “Cool Vendors in Mobile App Development” list, mParticle has 100+ employees and is headquartered in New York City with offices in San Francisco, Seattle, Florida, and London.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "San Francisco"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$120k – $170k"
+      },
+      "recruiter": {
+        "title": "Executive Assistant",
+        "role": "Employee",
+        "url": "https://angel.co/u/anisah-munruddin",
+        "name": "Anisah Munruddin",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "811426",
+        "angelListUrl": "https://angel.co/company/mparticle/jobs/811426-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Backend Engineer",
+      "description": " \n\nWe're looking for a talented and technically well-rounded person who loves to tackle complex problems.\n\nAs a Sr. Backend Engineer you will collaborate to help specify, design, and develop software meeting company and product requirements, with lead responsibility for different areas of the architecture. You'll be responsible for communicating with senior leadership around these areas and projects.  \n\nThis position requires a deep understanding of the technical challenges common in API integration, data integration, and general information exchange in a SaaS environment. Significant experience with multithreading and asynchronous programming is also required.\n\nWe are seeking someone who wants to be a major contributor in a small, dynamic work environment, loves a challenge, and has a strong balance of technical and people skills.\n\n### **Responsibilities**\n\n- Join a small, high-impact, multi-talented engineering team\n- Tackle some of the most challenging problems you can face developing high availability services that need to scale exponentially\n- Help evaluate and choose emerging technologies, new service protocols, and architectures, self-healing capabilities, performance and code quality tooling, etc.\n- Determine the right tool for the right task\n- Write high quality, maintainable code with extensive test coverage in a fast-paced startup environment with tight schedules\n\n### **About mParticle**\n\nFounded in 2013, mParticle is the leading customer data platform that unlocks the full power of data for businesses. The company empowers brands to accelerate their growth strategy to keep pace with their customers by providing the most advanced data platform for web and apps across all devices in the marketplace. A trusted partner among renowned brands such as NBC Universal, Spotify and Airbnb among many others, the mParticle platform has grown to manage over 1 billion mobile users each month, capturing over $5 billion in e-commerce transactions and processes over 250 billion API calls. Recognized as one of Crain’s 100 Best Places to Work three years in a row and named to Gartner’s “Cool Vendors in Mobile App Development” list, mParticle has 100+ employees and is headquartered in New York City with offices in San Francisco, Seattle, Florida, and London.\n\n \n\n",
+      "descriptionHtml": "<p>We&#39;re looking for a talented and technically well-rounded person who loves to tackle complex problems.</p>\n\n<p>As a Sr. Backend Engineer you will collaborate to help specify, design, and develop software meeting company and product requirements, with lead responsibility for different areas of the architecture. You&#39;ll be responsible for communicating with senior leadership around these areas and projects.  </p>\n\n<p>This position requires a deep understanding of the technical challenges common in API integration, data integration, and general information exchange in a SaaS environment. Significant experience with multithreading and asynchronous programming is also required.</p>\n\n<p>We are seeking someone who wants to be a major contributor in a small, dynamic work environment, loves a challenge, and has a strong balance of technical and people skills.</p>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li>Join a small, high-impact, multi-talented engineering team</li>\n<li>Tackle some of the most challenging problems you can face developing high availability services that need to scale exponentially</li>\n<li>Help evaluate and choose emerging technologies, new service protocols, and architectures, self-healing capabilities, performance and code quality tooling, etc.</li>\n<li>Determine the right tool for the right task</li>\n<li>Write high quality, maintainable code with extensive test coverage in a fast-paced startup environment with tight schedules</li>\n</ul>\n<h3><strong>About mParticle</strong></h3>\n<p>Founded in 2013, mParticle is the leading customer data platform that unlocks the full power of data for businesses. The company empowers brands to accelerate their growth strategy to keep pace with their customers by providing the most advanced data platform for web and apps across all devices in the marketplace. A trusted partner among renowned brands such as NBC Universal, Spotify and Airbnb among many others, the mParticle platform has grown to manage over 1 billion mobile users each month, capturing over $5 billion in e-commerce transactions and processes over 250 billion API calls. Recognized as one of Crain’s 100 Best Places to Work three years in a row and named to Gartner’s “Cool Vendors in Mobile App Development” list, mParticle has 100+ employees and is headquartered in New York City with offices in San Francisco, Seattle, Florida, and London.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "New York City",
+        "San Francisco",
+        "London",
+        "Delray Beach"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$120k – $165k"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Founder",
+        "url": "https://angel.co/p/andrew-katz-1",
+        "name": "Andrew Katz",
+        "avatar": "https://photos.angel.co/users/403298-medium_jpg?1405632040"
+      },
+      "refs": {
+        "angelListId": "731794",
+        "angelListUrl": "https://angel.co/company/mparticle/jobs/731794-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Security Engineer",
+      "description": " \n\nSecurity is of paramount importance at mParticle and is baked into everything we do. We are looking for a highly skilled Senior Security Engineer to help us continue to iterate and innovate quickly while maintaining the highest standards of security. \n\nOur clients include marketing and engineering functions for some of the largest mobile apps and sites in the world and our platform processes nearly one third of the world’s smartphone traffic.\n\nWe value both breadth and depth of knowledge and you will have the ability to influence every area of our security posture. Our ideal candidate will have well-rounded security knowledge, strong software engineering skills, and an ability to think both defensively and offensively. \n\n \n\n**What you'll do:**\n\n- Be a security subject matter expert across the business\n- Collaborate with other engineers in security code reviews to identify and fix issues in our applications \n- Develop tooling to automate manual security processes\n- Lead security-related projects from inception to successful completion\n- Perform hands-on internal assessments of both the mParticle platform and our infrastructure\n- Provide effective incident response, remediation, and forensics services when required\n- Assist the compliance team to ensure continued compliance with SOC 2 and ISO 27001\n\n \n\n**You should have:**\n\n- Minimum of five (5) years prior experience in a security engineering role\n- Solid understanding of the OWASP Top 10 such as SQLi, XSS, CSRF, and business logic flaws across large code bases\n- Strong knowledge of cryptography principles and authentication infrastructure (e.g. SAML, oAuth)\n- Experience with securing and monitoring AWS or similar cloud environment\n- Performed hands-on security threat modeling, risk assessment, and operational security analysis\n- Prepared and presented detailed, written and verbal technical information for both internal and external audiences\n- Security assessment experience, penetration testing, incident response, forensics, network traffic analysis either internally or as a consultant\n- Experience with Security architecture and risk mitigation\n- Cloud/Enterprise IT administration (configuration, patching, deployment, change management)\n- Experience of having worked in an environment where DevOps principles are practiced\n- Relevant industry certifications are a bonus (CISSP, SANS/GIAC, CompTIA, Microsoft, Linux, Cisco)\n\n###  \n\n### **About mParticle**\n\nFounded in 2013, mParticle is the leading customer data platform that unlocks the full power of data for businesses. The company empowers brands to accelerate their growth strategy to keep pace with their customers by providing the most advanced data platform for web and apps across all devices in the marketplace. A trusted partner among renowned brands such as NBC Universal, Spotify and Airbnb among many others, the mParticle platform has grown to manage over 1 billion mobile users each month, capturing over $5 billion in e-commerce transactions and processes over 250 billion API calls. Recognized as one of Crain’s 100 Best Places to Work three years in a row and named to Gartner’s “Cool Vendors in Mobile App Development” list, mParticle has 100+ employees and is headquartered in New York City with offices in San Francisco, Seattle, Florida, and London.\n\n \n\n",
+      "descriptionHtml": "<p>Security is of paramount importance at mParticle and is baked into everything we do. We are looking for a highly skilled Senior Security Engineer to help us continue to iterate and innovate quickly while maintaining the highest standards of security. </p>\n\n<p>Our clients include marketing and engineering functions for some of the largest mobile apps and sites in the world and our platform processes nearly one third of the world’s smartphone traffic.</p>\n\n<p>We value both breadth and depth of knowledge and you will have the ability to influence every area of our security posture. Our ideal candidate will have well-rounded security knowledge, strong software engineering skills, and an ability to think both defensively and offensively. </p>\n\n<p><strong>What you&#39;ll do:</strong></p>\n\n<ul>\n<li>Be a security subject matter expert across the business</li>\n<li>Collaborate with other engineers in security code reviews to identify and fix issues in our applications </li>\n<li>Develop tooling to automate manual security processes</li>\n<li>Lead security-related projects from inception to successful completion</li>\n<li>Perform hands-on internal assessments of both the mParticle platform and our infrastructure</li>\n<li>Provide effective incident response, remediation, and forensics services when required</li>\n<li>Assist the compliance team to ensure continued compliance with SOC 2 and ISO 27001</li>\n</ul>\n\n<p><strong>You should have:</strong></p>\n\n<ul>\n<li>Minimum of five (5) years prior experience in a security engineering role</li>\n<li>Solid understanding of the OWASP Top 10 such as SQLi, XSS, CSRF, and business logic flaws across large code bases</li>\n<li>Strong knowledge of cryptography principles and authentication infrastructure (e.g. SAML, oAuth)</li>\n<li>Experience with securing and monitoring AWS or similar cloud environment</li>\n<li>Performed hands-on security threat modeling, risk assessment, and operational security analysis</li>\n<li>Prepared and presented detailed, written and verbal technical information for both internal and external audiences</li>\n<li>Security assessment experience, penetration testing, incident response, forensics, network traffic analysis either internally or as a consultant</li>\n<li>Experience with Security architecture and risk mitigation</li>\n<li>Cloud/Enterprise IT administration (configuration, patching, deployment, change management)</li>\n<li>Experience of having worked in an environment where DevOps principles are practiced</li>\n<li>Relevant industry certifications are a bonus (CISSP, SANS/GIAC, CompTIA, Microsoft, Linux, Cisco)</li>\n</ul>\n<h3><strong>About mParticle</strong></h3>\n<p>Founded in 2013, mParticle is the leading customer data platform that unlocks the full power of data for businesses. The company empowers brands to accelerate their growth strategy to keep pace with their customers by providing the most advanced data platform for web and apps across all devices in the marketplace. A trusted partner among renowned brands such as NBC Universal, Spotify and Airbnb among many others, the mParticle platform has grown to manage over 1 billion mobile users each month, capturing over $5 billion in e-commerce transactions and processes over 250 billion API calls. Recognized as one of Crain’s 100 Best Places to Work three years in a row and named to Gartner’s “Cool Vendors in Mobile App Development” list, mParticle has 100+ employees and is headquartered in New York City with offices in San Francisco, Seattle, Florida, and London.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": true,
+      "locations": [
+        "New York City",
+        "San Francisco",
+        "London",
+        "Delray Beach"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$120k – $165k"
+      },
+      "recruiter": {
+        "title": "VP People",
+        "role": "Employee",
+        "url": "https://angel.co/u/lori-magyar",
+        "name": "Lori Magyar",
+        "avatar": "https://photos.angel.co/users/1848555-medium_jpg?1452262014"
+      },
+      "refs": {
+        "angelListId": "811427",
+        "angelListUrl": "https://angel.co/company/mparticle/jobs/811427-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Solutions Consultant",
+      "description": " \n\nmParticle is growing our client services team and is seeking a Solutions Consultant!\n\nAs a Solutions Consultant at mParticle, you will sit at the center of the mobile app ecosystem.  Your mission is to ensure our clients are successful in adopting and leveraging the mParticle platform and in getting the most value from our solutions.  This role requires strong client service skills, solid solutions consulting capabilities, a keen handle on analytics and data driven marketing, strong technical chops, and the ability to become an expert on all things mParticle. Your work will be meaningful and will have a strong impact on mParticle and our clients’ success. You will have a high degree of freedom in your work, with support from the entire mParticle team. You will interact with some of the best minds in the mobile app technology and marketing space and will have the opportunity to partner with cutting edge mobile technology and marketing platforms across the analytics, attribution, marketing automation, and social media domains.\n\nIf you are interested, here are some details to help you determine whether this is the right role for you.\n\n \n\n### **Responsibilities**\n\n- Lead complex business/technical integrations between mParticle clients’ apps and data platforms with the mParticle SDKs and platform\n- Serve as the primary technical contact for key mParticle clients; proactively drive platform adoption in addition to answering clients’ day-to-day tactical needs.\n- Own customers technical roadmap for the mParticle platform\n- Contribute to Quarterly Business Reviews with key clients\n- Drive ongoing client success and satisfaction on the platform.\n- Respond to and resolve a wide range of customer inquiries from basic education to technical operations.  \n- Collaborate across mParticle product, engineering, sales, and client services functions in orchestrating solutions to customer needs.\n- Train clients on how to use the mParticle platform.\n- Provide expertise on the mParticle platform, evangelizing and educating on data driven marketing use cases and their execution.\n- Author content for the mParticle Customer Knowledge Base and Blog including feature guides and best practices.\n- Travel approximately 25%.\n\n \n\n### **Desired Experience**\n\n- 4 year undergraduate degree.\n- 3+ years experience in technical and/or operational client facing technology solutions implementation or support roles.\n- Familiarity with RESTful APIs - you know \"how to get computers to talk to each other\"\n- Experience collaborating with business and technology stakeholders.\n- Excellent written and verbal communication skills.\n- General knowledge of various digital marketing tools: analytics, attribution, ad serving, DMPs, push, social media.\n- General knowledge of data driven marketing practices: audiences, retargeting, exclusions etc.\n- Mobile marketing and technology experience a huge plus particularly deploying and supporting mobile SDKs and performing and supporting customer data integrations.\n\n \n\n### **About mParticle**\n\nFounded in 2013, mParticle is the leading customer data platform that unlocks the full power of data for businesses. The company empowers brands to accelerate their growth strategy to keep pace with their customers by providing the most advanced data platform for web and apps across all devices in the marketplace. A trusted partner among renowned brands such as NBC Universal, Spotify and Airbnb among many others, the mParticle platform has grown to manage over 2 billion mobile users each month, capturing over $10 billion in e-commerce transactions and processes over 1 trillion API calls. Recognized as one of Crain’s 100 Best Places to Work three years in a row and named to Gartner’s “Cool Vendors in Mobile App Development” list, mParticle has 100+ employees and is headquartered in New York City with offices in San Francisco, Seattle, Florida, and London.\n\n \n\n",
+      "descriptionHtml": "<p>mParticle is growing our client services team and is seeking a Solutions Consultant!</p>\n\n<p>As a Solutions Consultant at mParticle, you will sit at the center of the mobile app ecosystem.  Your mission is to ensure our clients are successful in adopting and leveraging the mParticle platform and in getting the most value from our solutions.  This role requires strong client service skills, solid solutions consulting capabilities, a keen handle on analytics and data driven marketing, strong technical chops, and the ability to become an expert on all things mParticle. Your work will be meaningful and will have a strong impact on mParticle and our clients’ success. You will have a high degree of freedom in your work, with support from the entire mParticle team. You will interact with some of the best minds in the mobile app technology and marketing space and will have the opportunity to partner with cutting edge mobile technology and marketing platforms across the analytics, attribution, marketing automation, and social media domains.</p>\n\n<p>If you are interested, here are some details to help you determine whether this is the right role for you.</p>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li>Lead complex business/technical integrations between mParticle clients’ apps and data platforms with the mParticle SDKs and platform</li>\n<li>Serve as the primary technical contact for key mParticle clients; proactively drive platform adoption in addition to answering clients’ day-to-day tactical needs.</li>\n<li>Own customers technical roadmap for the mParticle platform</li>\n<li>Contribute to Quarterly Business Reviews with key clients</li>\n<li>Drive ongoing client success and satisfaction on the platform.</li>\n<li>Respond to and resolve a wide range of customer inquiries from basic education to technical operations.<br></li>\n<li>Collaborate across mParticle product, engineering, sales, and client services functions in orchestrating solutions to customer needs.</li>\n<li>Train clients on how to use the mParticle platform.</li>\n<li>Provide expertise on the mParticle platform, evangelizing and educating on data driven marketing use cases and their execution.</li>\n<li>Author content for the mParticle Customer Knowledge Base and Blog including feature guides and best practices.</li>\n<li>Travel approximately 25%.</li>\n</ul>\n<h3><strong>Desired Experience</strong></h3>\n<ul>\n<li>4 year undergraduate degree.</li>\n<li>3+ years experience in technical and/or operational client facing technology solutions implementation or support roles.</li>\n<li>Familiarity with RESTful APIs - you know &quot;how to get computers to talk to each other&quot;</li>\n<li>Experience collaborating with business and technology stakeholders.</li>\n<li>Excellent written and verbal communication skills.</li>\n<li>General knowledge of various digital marketing tools: analytics, attribution, ad serving, DMPs, push, social media.</li>\n<li>General knowledge of data driven marketing practices: audiences, retargeting, exclusions etc.</li>\n<li>Mobile marketing and technology experience a huge plus particularly deploying and supporting mobile SDKs and performing and supporting customer data integrations.</li>\n</ul>\n<h3><strong>About mParticle</strong></h3>\n<p>Founded in 2013, mParticle is the leading customer data platform that unlocks the full power of data for businesses. The company empowers brands to accelerate their growth strategy to keep pace with their customers by providing the most advanced data platform for web and apps across all devices in the marketplace. A trusted partner among renowned brands such as NBC Universal, Spotify and Airbnb among many others, the mParticle platform has grown to manage over 2 billion mobile users each month, capturing over $10 billion in e-commerce transactions and processes over 1 trillion API calls. Recognized as one of Crain’s 100 Best Places to Work three years in a row and named to Gartner’s “Cool Vendors in Mobile App Development” list, mParticle has 100+ employees and is headquartered in New York City with offices in San Francisco, Seattle, Florida, and London.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "New York City",
+        "San Francisco"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$60k – $90k"
+      },
+      "recruiter": {
+        "title": "VP People",
+        "role": "Employee",
+        "url": "https://angel.co/u/lori-magyar",
+        "name": "Lori Magyar",
+        "avatar": "https://photos.angel.co/users/1848555-medium_jpg?1452262014"
+      },
+      "refs": {
+        "angelListId": "731789",
+        "angelListUrl": "https://angel.co/company/mparticle/jobs/731789-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Technical Services Engineer",
+      "description": "mParticle is growing and is seeking a **Technical Services Engineer**!\n\nAs a **Technical Services Engineer** , you will work closely with mParticle's Customer Success, Engineering, and Solutions Consulting teams in providing world class service to our customers. You will also support mParticle’s customers’ developer teams as they implement mParticle’s Android, Apple (Apple TV and iOS), and JavaScript SDKs, and work with our platform's various APIs. You will also support various components of the mParticle platform such as Audiences, IDSync, Profile API, and others.\n\nThis will be a hands on technical role, that will give you the opportunity to interact with some of the best minds and technology stacks in the mobile app business. You will become an expert in all things mParticle, from our mobile SDKs, to our partner integrations. Your work will be meaningful and will have a strong impact on mParticle and our clients’ success.\n\nIf you are interested, here are some details to help you determine whether this is the right role for you.\n\n**Responsibilities**\n\n- Collaborate with mParticle Customer Success and Solutions to support mParticle’s customers via email, Slack, and Zoom as they work with mParticle’s SDKs and APIs\n- Ensure customer facing issues are resolved in a timely and accurate manner\n- Collaborate with mParticle Solutions Consultants on customer data integrations\n- Communicate product feedback from customers to product and engineering teams to improve user experience and new product features \n- Assist with new product feature testing\n- Build internal tooling for the mParticle customer facing teams\n\n**Desired Experience**\n\n- 4 year undergraduate degree in computer science/engineering or related technical discipline\n- Experience with Object-Oriented Programming languages (Objective-C, Java, Ruby, Python)\n- Ability to quickly grasp and understand new technologies and new technical concepts\n- 1-2 years as a QA Engineer, Software Engineer, or Customer Success/Support Engineer at an enterprise software company\n- Experience deploying technology solutions and/or in a technical customer support role is a plus\n- Familiarity with mobile marketing technologies is a plus\n\n### About mParticle\n\nFounded in 2013, mParticle is the leading customer data platform that unlocks the full power of data for businesses. The company empowers brands to accelerate their growth strategy to keep pace with their customers by providing the most advanced data platform for web and apps across all devices in the marketplace. A trusted partner among renowned brands such as NBC Universal, Spotify and Airbnb among many others, the mParticle platform has grown to manage over 1 billion mobile users each month, capturing over $5 billion in e-commerce transactions and processes over 250 billion API calls. Recognized as one of Crain’s 100 Best Places to Work three years in a row and named to Gartner’s “Cool Vendors in Mobile App Development” list, mParticle has 100+ employees and is headquartered in New York City with offices in San Francisco, Seattle, Florida, and London.\n\n \n\n",
+      "descriptionHtml": "<p>mParticle is growing and is seeking a <strong>Technical Services Engineer</strong>!</p>\n\n<p>As a <strong>Technical Services Engineer</strong> , you will work closely with mParticle&#39;s Customer Success, Engineering, and Solutions Consulting teams in providing world class service to our customers. You will also support mParticle’s customers’ developer teams as they implement mParticle’s Android, Apple (Apple TV and iOS), and JavaScript SDKs, and work with our platform&#39;s various APIs. You will also support various components of the mParticle platform such as Audiences, IDSync, Profile API, and others.</p>\n\n<p>This will be a hands on technical role, that will give you the opportunity to interact with some of the best minds and technology stacks in the mobile app business. You will become an expert in all things mParticle, from our mobile SDKs, to our partner integrations. Your work will be meaningful and will have a strong impact on mParticle and our clients’ success.</p>\n\n<p>If you are interested, here are some details to help you determine whether this is the right role for you.</p>\n\n<p><strong>Responsibilities</strong></p>\n\n<ul>\n<li>Collaborate with mParticle Customer Success and Solutions to support mParticle’s customers via email, Slack, and Zoom as they work with mParticle’s SDKs and APIs</li>\n<li>Ensure customer facing issues are resolved in a timely and accurate manner</li>\n<li>Collaborate with mParticle Solutions Consultants on customer data integrations</li>\n<li>Communicate product feedback from customers to product and engineering teams to improve user experience and new product features </li>\n<li>Assist with new product feature testing</li>\n<li>Build internal tooling for the mParticle customer facing teams</li>\n</ul>\n\n<p><strong>Desired Experience</strong></p>\n\n<ul>\n<li>4 year undergraduate degree in computer science/engineering or related technical discipline</li>\n<li>Experience with Object-Oriented Programming languages (Objective-C, Java, Ruby, Python)</li>\n<li>Ability to quickly grasp and understand new technologies and new technical concepts</li>\n<li>1-2 years as a QA Engineer, Software Engineer, or Customer Success/Support Engineer at an enterprise software company</li>\n<li>Experience deploying technology solutions and/or in a technical customer support role is a plus</li>\n<li>Familiarity with mobile marketing technologies is a plus</li>\n</ul>\n<h3>About mParticle</h3>\n<p>Founded in 2013, mParticle is the leading customer data platform that unlocks the full power of data for businesses. The company empowers brands to accelerate their growth strategy to keep pace with their customers by providing the most advanced data platform for web and apps across all devices in the marketplace. A trusted partner among renowned brands such as NBC Universal, Spotify and Airbnb among many others, the mParticle platform has grown to manage over 1 billion mobile users each month, capturing over $5 billion in e-commerce transactions and processes over 250 billion API calls. Recognized as one of Crain’s 100 Best Places to Work three years in a row and named to Gartner’s “Cool Vendors in Mobile App Development” list, mParticle has 100+ employees and is headquartered in New York City with offices in San Francisco, Seattle, Florida, and London.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "San Francisco"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$105k – $155k"
+      },
+      "recruiter": {
+        "title": "VP People",
+        "role": "Employee",
+        "url": "https://angel.co/u/lori-magyar",
+        "name": "Lori Magyar",
+        "avatar": "https://photos.angel.co/users/1848555-medium_jpg?1452262014"
+      },
+      "refs": {
+        "angelListId": "820779",
+        "angelListUrl": "https://angel.co/company/mparticle/jobs/820779-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "UI Engineer",
+      "description": " \n\nWe are looking for a skilled UI engineer who cares deeply about building beautiful customer-facing products. The ideal candidate will not only write clean, comprehensible front-end code but have experience building fast, intuitive products. You will have a lot of autonomy to control both the front-end infrastructure as well as product influence. \n\n###  \n\n### Responsibilities\n\n- Collaborate with our design and product teams to come up with new products that solve real problems\n- Own development of new products end-to-end\n- Help us construct and refine our front-end framework to ensure that our existing code stays high-quality, fast, and scales as we grow our engineering teams.\n- Work with extremely talented, humble, and nice people on the product engineering team and across the company\n\n###  \n\n### Desired Experience\n\n- Have at least 3 years of experience building web applications\n- Have at least 2 years of building a consumer-facing product that has a very high UI/UX bar\n- Care equally about code quality and product quality\n- Have a strong knowledge of HTML, CSS, and JavaScript frameworks \n- Believe in simple code over clever code\n- Experience in full-stack engineering is a plus!\n\n \n\n### **About mParticle**\n\nFounded in 2013, mParticle is the leading customer data platform that unlocks the full power of data for businesses. The company empowers brands to accelerate their growth strategy to keep pace with their customers by providing the most advanced data platform for web and apps across all devices in the marketplace. A trusted partner among renowned brands such as NBC Universal, Spotify and Airbnb among many others, the mParticle platform has grown to manage over 1 billion mobile users each month, capturing over $5 billion in e-commerce transactions and processes over 250 billion API calls. Recognized as one of Crain’s 100 Best Places to Work three years in a row and named to Gartner’s “Cool Vendors in Mobile App Development” list, mParticle has 100+ employees and is headquartered in New York City with offices in San Francisco, Seattle, Florida, and London.\n\n \n\n",
+      "descriptionHtml": "<p>We are looking for a skilled UI engineer who cares deeply about building beautiful customer-facing products. The ideal candidate will not only write clean, comprehensible front-end code but have experience building fast, intuitive products. You will have a lot of autonomy to control both the front-end infrastructure as well as product influence. </p>\n<h3>Responsibilities</h3>\n<ul>\n<li>Collaborate with our design and product teams to come up with new products that solve real problems</li>\n<li>Own development of new products end-to-end</li>\n<li>Help us construct and refine our front-end framework to ensure that our existing code stays high-quality, fast, and scales as we grow our engineering teams.</li>\n<li>Work with extremely talented, humble, and nice people on the product engineering team and across the company</li>\n</ul>\n<h3>Desired Experience</h3>\n<ul>\n<li>Have at least 3 years of experience building web applications</li>\n<li>Have at least 2 years of building a consumer-facing product that has a very high UI/UX bar</li>\n<li>Care equally about code quality and product quality</li>\n<li>Have a strong knowledge of HTML, CSS, and JavaScript frameworks </li>\n<li>Believe in simple code over clever code</li>\n<li>Experience in full-stack engineering is a plus!</li>\n</ul>\n<h3><strong>About mParticle</strong></h3>\n<p>Founded in 2013, mParticle is the leading customer data platform that unlocks the full power of data for businesses. The company empowers brands to accelerate their growth strategy to keep pace with their customers by providing the most advanced data platform for web and apps across all devices in the marketplace. A trusted partner among renowned brands such as NBC Universal, Spotify and Airbnb among many others, the mParticle platform has grown to manage over 1 billion mobile users each month, capturing over $5 billion in e-commerce transactions and processes over 250 billion API calls. Recognized as one of Crain’s 100 Best Places to Work three years in a row and named to Gartner’s “Cool Vendors in Mobile App Development” list, mParticle has 100+ employees and is headquartered in New York City with offices in San Francisco, Seattle, Florida, and London.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "New York City",
+        "San Francisco",
+        "London",
+        "Delray Beach"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$105k – $150k"
+      },
+      "recruiter": {
+        "title": "VP People",
+        "role": "Employee",
+        "url": "https://angel.co/u/lori-magyar",
+        "name": "Lori Magyar",
+        "avatar": "https://photos.angel.co/users/1848555-medium_jpg?1452262014"
+      },
+      "refs": {
+        "angelListId": "731798",
+        "angelListUrl": "https://angel.co/company/mparticle/jobs/731798-"
+      }
+    }
+  ]
+}

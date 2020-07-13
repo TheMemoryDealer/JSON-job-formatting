@@ -1,0 +1,154 @@
+{
+  "name": "Hypatia Solutions",
+  "avatar": "https://photos.angel.co/startups/i/7592214-ff84a274d402c220452cc5eb286f3bf1-medium_jpg.jpg?buster=1585580156",
+  "slogan": "Cracking COVID-19 with Telemedicine and Quantum AI",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://hypatia-solutions.com/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Healthcare",
+    "Health Care Information Technology",
+    "Medical Technologies"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/dr-mark-2",
+      "name": "Dr Mark",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7592214",
+    "angelListUrl": "https://angel.co/company/hypatia-solutions-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "React Native Intern  (Fighting COVID-19 - Urgent Project)",
+      "description": "Looking for a work at home intern for an exciting, high impact COVID-19 based medical telemedicine software project initially being trialed from 6th April for 2 weeks but possibly subject to extension through the crisis. Must be self starting, flexible, availble through most of the day and willing to work on an Agile (SCRUM/DSDM) team over teleconferencing.",
+      "descriptionHtml": "<p>Looking for a work at home intern for an exciting, high impact COVID-19 based medical telemedicine software project initially being trialed from 6th April for 2 weeks but possibly subject to extension through the crisis. Must be self starting, flexible, availble through most of the day and willing to work on an Agile (SCRUM/DSDM) team over teleconferencing.</p>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "United Kingdom"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "React Native"
+      ],
+      "payment": {
+        "salary": "£20k – £25k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/dr-mark-2",
+        "name": "Dr Mark",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "768699",
+        "angelListUrl": "https://angel.co/company/hypatia-solutions-1/jobs/768699-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "PHP Interns (Fighting COVID-19 - Urgent Project)",
+      "description": "Looking for a work at home intern for an exciting, high impact COVID-19 based medical telemedicine software project initially being trialed from 6th April for 2 weeks but possibly subject to extension through the crisis. Must be self starting, flexible, availble through most of the day and willing to work on an Agile (SCRUM/DSDM) team over teleconferencing.",
+      "descriptionHtml": "<p>Looking for a work at home intern for an exciting, high impact COVID-19 based medical telemedicine software project initially being trialed from 6th April for 2 weeks but possibly subject to extension through the crisis. Must be self starting, flexible, availble through most of the day and willing to work on an Agile (SCRUM/DSDM) team over teleconferencing.</p>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "PHP"
+      ],
+      "payment": {
+        "salary": "£20k – £25k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/dr-mark-2",
+        "name": "Dr Mark",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "768771",
+        "angelListUrl": "https://angel.co/company/hypatia-solutions-1/jobs/768771-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Tensorflow Interns  (Fighting COVID-19 - Urgent Project)",
+      "description": "Looking for a work at home intern for an exciting, high impact COVID-19 based medical telemedicine software project initially being trialed from 6th April for 2 weeks but possibly subject to extension through the crisis. Must be self starting, flexible, availble through most of the day and willing to work on an Agile (SCRUM/DSDM) team over teleconferencing.",
+      "descriptionHtml": "<p>Looking for a work at home intern for an exciting, high impact COVID-19 based medical telemedicine software project initially being trialed from 6th April for 2 weeks but possibly subject to extension through the crisis. Must be self starting, flexible, availble through most of the day and willing to work on an Agile (SCRUM/DSDM) team over teleconferencing.</p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£20k – £25k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/dr-mark-2",
+        "name": "Dr Mark",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "768773",
+        "angelListUrl": "https://angel.co/company/hypatia-solutions-1/jobs/768773-"
+      }
+    }
+  ]
+}

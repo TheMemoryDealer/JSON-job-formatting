@@ -1,0 +1,109 @@
+{
+  "name": "Amarhus",
+  "avatar": "https://photos.angel.co/startups/i/7373900-68712f86a413c554fe8223df29eb12f1-medium_jpg.jpg?buster=1576664026",
+  "slogan": "Digital Agriculture Insurance Platform",
+  "description": "London-based insurtech and agtech startup focused on closing the agricultural protection gap by digitising the entire insurance workflow. \n\nOur platform allows insurers to massively reduce operational costs, to build innovative insurance products and explore new distribution channels to reach the 200 million uninsured farmers around the world. \n\nOur flexible smartform architecture turns every customer touchpoint into truly smart digital processes, available on any device. Our independent solution allows to collect legally-binding and standardised exposure data on real-time for better risk rating, pricing, modeling and selection - reducing uncertainty loadings to make crop insurance cheaper and affordable for all. \n\nOur top-notch SaaS platform connects (re)insurers, governments and farmers to create the future of data-driven agricultural insurance.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://amarhus.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/amarhus"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Insurance",
+    "Insurtech",
+    "B2B · SaaS · Mobile · Artificial Intelligence / Machine Learning"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 150000,
+    "rounds": [
+      {
+        "type": "Pre-Seed",
+        "closedAt": 1541030400,
+        "valuation": 1000000
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/olivier-bode",
+      "name": "Olivier Bode",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at Amarhus"
+    },
+    {
+      "title": "CRO",
+      "role": "Employee",
+      "url": "https://angel.co/u/xavier-gilbert-1",
+      "name": "Xavier Gilbert",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7373900",
+    "angelListUrl": "https://angel.co/company/amarhus-1"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "CTO",
+      "description": "We are looking for a technical leader who would take ownership of all aspects of the technical side of the business.\n\nWhy is this exciting?\n• Join a blooming startup that aims at having an international business and human impact.\n• We are now raising a seed round.\n• We are engaged in collaborative projects with major firms in the industry.\n• Opportunity to lead, develop and run a successful global technology team in a young business.\n\nRequirements:\n• Passion for startups. Prior startup experience would be a plus.\n• Strong knowledge in web development: Elixir, Phoenix, Javascript, VueJS, AWS, Docker, PWA.\n• Experience in highly scalable and resilient app development.\n• Experience in REST API development. Knowledge of GraphQL is a plus.\n• Driven, resilient, ambitious and highly motivated.\n• The vision to understand and harness the potential of available technology.\n• Knowledge in (Re)Insurance, agronomy or agriculture would be a plus.\n\nWhat we offer:\n• Meaningful equity share.\n• Potential for some pay, depending on time spent on the project.\n\nWill suit you if:\n• You want to secure a generous amount of % shares in a startup business with a strong revenue generating opportunity.\n• You are looking to build your technological portfolio.\n• Track record of previous work and skillset.\n\nRemote work is ok, as long as it is within a reasonable time zone from London.\n\nIf this is something that excites you, please get in contact right away to discuss in more detail.",
+      "descriptionHtml": "<p>We are looking for a technical leader who would take ownership of all aspects of the technical side of the business.</p>\n\n<p>Why is this exciting?<br>\n• Join a blooming startup that aims at having an international business and human impact.<br>\n• We are now raising a seed round.<br>\n• We are engaged in collaborative projects with major firms in the industry.<br>\n• Opportunity to lead, develop and run a successful global technology team in a young business.</p>\n\n<p>Requirements:<br>\n• Passion for startups. Prior startup experience would be a plus.<br>\n• Strong knowledge in web development: Elixir, Phoenix, Javascript, VueJS, AWS, Docker, PWA.<br>\n• Experience in highly scalable and resilient app development.<br>\n• Experience in REST API development. Knowledge of GraphQL is a plus.<br>\n• Driven, resilient, ambitious and highly motivated.<br>\n• The vision to understand and harness the potential of available technology.<br>\n• Knowledge in (Re)Insurance, agronomy or agriculture would be a plus.</p>\n\n<p>What we offer:<br>\n• Meaningful equity share.<br>\n• Potential for some pay, depending on time spent on the project.</p>\n\n<p>Will suit you if:<br>\n• You want to secure a generous amount of % shares in a startup business with a strong revenue generating opportunity.<br>\n• You are looking to build your technological portfolio.<br>\n• Track record of previous work and skillset.</p>\n\n<p>Remote work is ok, as long as it is within a reasonable time zone from London.</p>\n\n<p>If this is something that excites you, please get in contact right away to discuss in more detail.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe"
+      ],
+      "skills": [],
+      "payment": {
+        "salary": "$30k – $100k",
+        "equity": "5.0% – 10.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/olivier-bode",
+        "name": "Olivier Bode",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "684135",
+        "angelListUrl": "https://angel.co/company/amarhus-1/jobs/684135-"
+      }
+    }
+  ]
+}

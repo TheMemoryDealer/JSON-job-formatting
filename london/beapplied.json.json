@@ -1,0 +1,99 @@
+{
+  "name": "Applied",
+  "avatar": "https://photos.angel.co/startups/i/2662321-873b83e1e13fe5c2441401631bec177e-medium_jpg.jpg?buster=1555343185",
+  "slogan": "Our platform helps teams hire the best candidate every time",
+  "description": "Our platform helps teams make more accurate (and less bias-prone) hiring decisions, and then continuously improve their hiring.\n\nWhere most hiring platforms address the issue of hiring more efficiently, our platform address the problem of how to hire better. At all stages of our product design process we've applied behavioural science to minimise cognitive biases such as by hiding potential bias triggers, and we've given priority to types of information that's strongly predictive of ability.\n\nThe result is that our customers see more diverse outcomes, and only have to interview roughly 1/3 of the candidates before finding someone great (compared to sifting through CVs)\n\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.beapplied.com/"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.beapplied.com/blog"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/beapplied"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Recruiting",
+    "Behavioural Science",
+    "Machine Learning"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 2000000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1539734400,
+        "valuation": 5500000
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CSO",
+      "role": "Founder",
+      "url": "https://angel.co/u/kate-glazebrook",
+      "name": "Kate Glazebrook",
+      "avatar": "https://photos.angel.co/users/5717828-medium_jpg?1506968761",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/applied-2\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Applied</span></a> • Worked at <a href=\"https://angel.co/company/unesco\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">UNESCO</span></a>, <a href=\"https://angel.co/company/the-behavioural-insights-team\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">The Behavioural Insights Team</span></a>"
+    },
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/richard-marr",
+      "name": "Richard Marr",
+      "avatar": "https://photos.angel.co/users/11278-medium_jpg?1463119101",
+      "bioHtml": "Founded <a href=\"https://angel.co/company/beapplied\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Applied</span></a>, @heyguevara, • Worked at <a href=\"https://angel.co/company/justgiving\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">JustGiving</span></a>, <a href=\"https://angel.co/company/moreover-technologies\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Moreover Technologies</span></a>, <a href=\"https://angel.co/company/verisign\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Verisign</span></a> • Studied at <a href=\"https://angel.co/imperial-college-london-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Imperial College London</span></a>"
+    },
+    {
+      "title": "CEO",
+      "role": "Employee",
+      "url": "https://angel.co/u/khyati-sundaram1",
+      "name": "Khyati Sundaram",
+      "avatar": "https://photos.angel.co/users/2647173-medium_jpg?1586968429",
+      "bioHtml": "CEO at Applied. Building predictive &amp; unbiased hiring"
+    },
+    {
+      "title": "Software Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/kieo",
+      "name": "Jackie Dunne",
+      "avatar": "https://photos.angel.co/users/1943975-medium_jpg?1556909626",
+      "bioHtml": "Rails and Javascript developer with background in neuroscience research."
+    },
+    {
+      "title": "Head of Marketing",
+      "role": "Employee",
+      "url": "https://angel.co/u/shirwac-dirir1",
+      "name": "Shirwac Dirir",
+      "avatar": "https://photos.angel.co/users/9225458-medium_jpg?1587339973",
+      "bioHtml": "Head of Marketing at Applied - Using behavioural science &amp; tech to improve hiring."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "2662321",
+    "angelListUrl": "https://angel.co/company/beapplied"
+  },
+  "jobs": []
+}

@@ -1,0 +1,116 @@
+{
+  "name": "HAL Robotics",
+  "avatar": "https://photos.angel.co/startups/i/4999895-dd712df2869c969dbf50debd69a2f95f-medium_jpg.jpg?buster=1512152265",
+  "slogan": "Versatile Robot Programming and Simulation Solutions",
+  "description": "The HAL Robotics Framework is a portable, modular and highly extensible robotics middleware for programming, simulating and monitoring industrial machinery. It also allows mechanical and electrical modelling, kinematic solving, motion planning and diagnosis, and translation of programs to executable machine code for an ever growing number of vendors.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://hal-robotics.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Manufacturing",
+    "Robotics",
+    "CAD",
+    "Modeling And Simulation"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "President",
+      "role": "Founder",
+      "url": "https://angel.co/u/t-schwartz-hal-robotics-com",
+      "name": "Thibault Schwartz",
+      "avatar": "https://photos.angel.co/users/7218167-medium_jpg?1512153016",
+      "bioHtml": "President at HAL Robotics"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/sebastian-andraos",
+      "name": "Sebastian Andraos",
+      "avatar": "https://photos.angel.co/users/7218090-medium_jpg?1512153292",
+      "bioHtml": "Founder <a href=\"https://angel.co/hal\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Hal</span></a> Robotics. Founding member of aLL Design (architects) before joining forces with like-minded folk to bring robotics to new markets e.g.construction"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4999895",
+    "angelListUrl": "https://angel.co/company/hal-robotics-2"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": ".NET Software Engineer - Robotic Applications",
+      "description": "Your Role:\nParticipate in the development of our robot simulation framework\nBuild upon existing features to create robotic software applications\nBe active in all development phases including testing\nMeet with and present projects to clients in the UK and abroad\nDevelop R&D projects with our partners (current projects include mobile robots for construction sites, metal-working and modular robot control systems\n\nOur Stack:\n.NET Standard 2.0/Framework 4.6.1\nWPF MVVM\nGit\nVisual Studio Team Services\nNuget\n\nRequirements:\nDeep understanding of software engineering\nAbility to structure and develop features from start to finish\nProficient in C# with ability to implement and test maintainable code\nUnderstand, debug and refactor existing code\nWrite complete Unit Tests\nStrong communication skills including presenting and demonstrating projects to clients\nHigh competency in written and oral English\nFreedom to travel in EU and USA\nTeam player",
+      "descriptionHtml": "<p>Your Role:<br>\nParticipate in the development of our robot simulation framework<br>\nBuild upon existing features to create robotic software applications<br>\nBe active in all development phases including testing<br>\nMeet with and present projects to clients in the UK and abroad<br>\nDevelop R&amp;D projects with our partners (current projects include mobile robots for construction sites, metal-working and modular robot control systems</p>\n\n<p>Our Stack:<br>\n.NET Standard 2.0/Framework 4.6.1<br>\nWPF MVVM<br>\nGit<br>\nVisual Studio Team Services<br>\nNuget</p>\n\n<p>Requirements:<br>\nDeep understanding of software engineering<br>\nAbility to structure and develop features from start to finish<br>\nProficient in C# with ability to implement and test maintainable code<br>\nUnderstand, debug and refactor existing code<br>\nWrite complete Unit Tests<br>\nStrong communication skills including presenting and demonstrating projects to clients<br>\nHigh competency in written and oral English<br>\nFreedom to travel in EU and USA<br>\nTeam player</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        ".NET",
+        "C#",
+        "Robotics",
+        "UI/UX Design",
+        "CAD",
+        "WPF",
+        "Linear Algebra",
+        "Industrial Robotics",
+        "Computational Geometry",
+        "C Sharp (C#)",
+        "Digital Signal Processing",
+        "PLC Programming",
+        "Rigid Body Kinematics",
+        "Process Control Systems",
+        "MVC/MVP/MVVM"
+      ],
+      "payment": {
+        "salary": "£25k – £40k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/sebastian-andraos",
+        "name": "Sebastian Andraos",
+        "avatar": "https://photos.angel.co/users/7218090-medium_jpg?1512153292"
+      },
+      "refs": {
+        "angelListId": "305305",
+        "angelListUrl": "https://angel.co/company/hal-robotics-2/jobs/305305-"
+      }
+    }
+  ]
+}

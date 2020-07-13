@@ -1,0 +1,89 @@
+{
+  "name": "Fira",
+  "avatar": "https://photos.angel.co/startups/i/7523790-ae5dec184bee94fb6e686304916f2a16-medium_jpg.jpg?buster=1582794971",
+  "slogan": "",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://makemoneyonline-now.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Invest Online"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/freddie-winter",
+      "name": "Freddie Winter",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7523790",
+    "angelListUrl": "https://angel.co/company/fira-3"
+  },
+  "jobs": [
+    {
+      "role": "Sales",
+      "title": "Account manager",
+      "description": "",
+      "descriptionHtml": "",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/freddie-winter",
+        "name": "Freddie Winter",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "741276",
+        "angelListUrl": "https://angel.co/company/fira-3/jobs/741276-"
+      }
+    }
+  ]
+}

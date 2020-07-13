@@ -1,0 +1,306 @@
+{
+  "name": "Countly",
+  "avatar": "https://photos.angel.co/startups/i/71791-ab9efcc0745b1a594aadc11c34c21dd9-medium_jpg.jpg?buster=1512982666",
+  "slogan": "Product analytics and marketing where you are in control",
+  "description": "We are committed to giving you control of your analytics data. 100% data ownership, 100% control. An analytics platform as it should be.\n\nCountly is an enterprise grade analytics and marketing platform for mobile, web, desktop and IoT applications. More than 2000 Countly Servers worldwide collect data from 14000+ applications. Countly is available in two different editions - self hosted or private cloud Enterprise Edition with premium plugins and customisable SLA, and Community Edition with basic plugins and a free-to-use non-commercial license.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://count.ly"
+    },
+    {
+      "type": "blog",
+      "url": "http://blog.count.ly"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/gocountly"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/countly"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/2968786"
+    },
+    {
+      "type": "productHunt",
+      "url": "https://www.producthunt.com/posts/countly"
+    }
+  ],
+  "locations": [
+    "London",
+    "Remote"
+  ],
+  "marketTags": [
+    "Mobile Analytics",
+    "Analytics"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1371081600,
+        "valuation": null
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/gorkem-cetin",
+      "name": "Dr. Görkem Çetin",
+      "avatar": "https://photos.angel.co/users/121424-medium_jpg?1405527327",
+      "bioHtml": "Director at Countly. Data &amp; analytics addict with a focus on open source software"
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/oasoner",
+      "name": "Onur Alp Soner",
+      "avatar": "https://photos.angel.co/users/121315-medium_jpg?1405533407",
+      "bioHtml": "Founder and CEO <a href=\"https://angel.co/company/countly\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Countly</span></a>"
+    },
+    {
+      "title": "Customer Success Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/barbora-koubkova",
+      "name": "Barbora Koubkova",
+      "avatar": "https://photos.angel.co/users/3212823-medium_jpg?1471546075",
+      "bioHtml": "im a pusher/ a teammate/ an English speaking individual with heart &amp; mind all over the place/ a woman who is always up to move things to a higher level"
+    },
+    {
+      "title": "Full Stack Developer",
+      "role": "Employee",
+      "url": "https://angel.co/u/mksglu",
+      "name": "Mert Köseoğlu",
+      "avatar": "https://photos.angel.co/users/7150372-medium_jpg?1510600345",
+      "bioHtml": "Software Engineer"
+    },
+    {
+      "title": "DevOps Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/kaanklky",
+      "name": "Kaan K. Kölköy",
+      "avatar": "https://photos.angel.co/users/2790430-medium_jpg?1533243438",
+      "bioHtml": "Backend Dev, SysAdmin, Analog Photographer"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "71791",
+    "angelListUrl": "https://angel.co/company/countly"
+  },
+  "jobs": [
+    {
+      "role": "Sales",
+      "title": "Channel Partner Manager",
+      "description": "Responsibilities:\n\n- Build out and lead channel partnerships internationally\n- Structure, negotiate and execute deals with prospective channel partners\n- Participate in continuously improving our partnership programs and go-to-market strategy\n- Understand our vision, solution, product roadmap, and go-to-market strategy and effectively communicate these to our partners\n- Collaborate with Sales, Marketing, Product and Customer Success teams to identify high value opportunities and create partner enablement content and infrastructure\n- Prepare tailored presentation materials and conduct presentations/demos to accelerate channel partners acquisition and revenue",
+      "descriptionHtml": "<p>Responsibilities:</p>\n\n<ul>\n<li>Build out and lead channel partnerships internationally</li>\n<li>Structure, negotiate and execute deals with prospective channel partners</li>\n<li>Participate in continuously improving our partnership programs and go-to-market strategy</li>\n<li>Understand our vision, solution, product roadmap, and go-to-market strategy and effectively communicate these to our partners</li>\n<li>Collaborate with Sales, Marketing, Product and Customer Success teams to identify high value opportunities and create partner enablement content and infrastructure</li>\n<li>Prepare tailored presentation materials and conduct presentations/demos to accelerate channel partners acquisition and revenue</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Partner Development",
+        "Strategic Partnerships",
+        "Partnership Management"
+      ],
+      "payment": {
+        "salary": "$24k – $60k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/oasoner",
+        "name": "Onur Alp Soner",
+        "avatar": "https://photos.angel.co/users/121315-medium_jpg?1405533407"
+      },
+      "refs": {
+        "angelListId": "718141",
+        "angelListUrl": "https://angel.co/company/countly/jobs/718141-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Developer",
+      "description": "Required experience;\n\n- Hands on experience with Node.js and MongoDB\n- Experience working with frontend JS libraries and frameworks (Backbone, JQuery, Underscore, D3.js etc.)\n- Experience working on Linux (Ubuntu and/or RHEL)\n- Knowledge of common tools and tech such as Git, JIRA, Travis and Docker\n- Mobile development experience in Android (and iOS) is a big plus but not a strict requirement\n\nTasks;\n\n- Creating new features (plugins) for Countly analytics platform using Node.js and MongoDB\n- Unit, functional and performance testing\n- SDK development on Android and iOS",
+      "descriptionHtml": "<p>Required experience;</p>\n\n<ul>\n<li>Hands on experience with Node.js and MongoDB</li>\n<li>Experience working with frontend JS libraries and frameworks (Backbone, JQuery, Underscore, D3.js etc.)</li>\n<li>Experience working on Linux (Ubuntu and/or RHEL)</li>\n<li>Knowledge of common tools and tech such as Git, JIRA, Travis and Docker</li>\n<li>Mobile development experience in Android (and iOS) is a big plus but not a strict requirement</li>\n</ul>\n\n<p>Tasks;</p>\n\n<ul>\n<li>Creating new features (plugins) for Countly analytics platform using Node.js and MongoDB</li>\n<li>Unit, functional and performance testing</li>\n<li>SDK development on Android and iOS</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Europe",
+        "Turkey"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe",
+        "Turkey"
+      ],
+      "skills": [
+        "Javascript",
+        "Android",
+        "MongoDB",
+        "Node.js",
+        "iOS Development",
+        "Linux"
+      ],
+      "payment": {
+        "salary": "$18k – $36k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/oasoner",
+        "name": "Onur Alp Soner",
+        "avatar": "https://photos.angel.co/users/121315-medium_jpg?1405533407"
+      },
+      "refs": {
+        "angelListId": "13618",
+        "angelListUrl": "https://angel.co/company/countly/jobs/13618-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Marketing Manager",
+      "description": "Responsibilities:\n\n- Own all growth marketing campaigns, including paid, social, content partnerships, sponsorships etc.\n- Construct comprehensive marketing and enablement playbooks for the sales team and external partners\n- Develop case studies, white papers, customer testimonials, and other marketing materials that build our brand and establish Countly as a thought leader in the space\n- Partner with sales to refine messaging & positioning, develop sales materials, develop our outbound marketing and lead nurture playbooks for large, strategic accounts\n- Conduct research and gather customer insights to inform our product, marketing, and sales strategies",
+      "descriptionHtml": "<p>Responsibilities:</p>\n\n<ul>\n<li>Own all growth marketing campaigns, including paid, social, content partnerships, sponsorships etc.</li>\n<li>Construct comprehensive marketing and enablement playbooks for the sales team and external partners</li>\n<li>Develop case studies, white papers, customer testimonials, and other marketing materials that build our brand and establish Countly as a thought leader in the space</li>\n<li>Partner with sales to refine messaging &amp; positioning, develop sales materials, develop our outbound marketing and lead nurture playbooks for large, strategic accounts</li>\n<li>Conduct research and gather customer insights to inform our product, marketing, and sales strategies</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "B2B Marketing"
+      ],
+      "payment": {
+        "salary": "$24k – $60k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/oasoner",
+        "name": "Onur Alp Soner",
+        "avatar": "https://photos.angel.co/users/121315-medium_jpg?1405533407"
+      },
+      "refs": {
+        "angelListId": "718131",
+        "angelListUrl": "https://angel.co/company/countly/jobs/718131-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Sales Development Representative",
+      "description": "Countly is looking for sales development representatives in Europe and North America.\r\n\r\nResponsibilities: \r\n\r\n- Perform outbound sales activities, contact potential clients through cold calls, emails, LinkedIn, and other channels\r\n- Qualify customers based on a thorough knowledge of Countly\r\n- Add and update customer details in our CRM system\r\n- Schedule meetings and demos for our Sales Executives\r\n- Work closely with Product and Marketing to turn client feedback into actionable strategies to drive our business forward.\r\n\r\nRequirements:\r\n\r\n- Previous experience in a related SDR role\r\n- Experience using lead generation, CRM and sales automation tools\r\n- Ability to comprehend and convey a highly technical product",
+      "descriptionHtml": "<p>Countly is looking for sales development representatives in Europe and North America.</p>\n\n<p>Responsibilities: </p>\n\n<ul>\n<li>Perform outbound sales activities, contact potential clients through cold calls, emails, LinkedIn, and other channels</li>\n<li>Qualify customers based on a thorough knowledge of Countly</li>\n<li>Add and update customer details in our CRM system</li>\n<li>Schedule meetings and demos for our Sales Executives</li>\n<li>Work closely with Product and Marketing to turn client feedback into actionable strategies to drive our business forward.</li>\n</ul>\n\n<p>Requirements:</p>\n\n<ul>\n<li>Previous experience in a related SDR role</li>\n<li>Experience using lead generation, CRM and sales automation tools</li>\n<li>Ability to comprehend and convey a highly technical product</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe",
+        "North America"
+      ],
+      "skills": [
+        "Business Development",
+        "Sales",
+        "Sales and Marketing",
+        "Inbound and Outbound Sales"
+      ],
+      "payment": {
+        "salary": "$24k – $60k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/oasoner",
+        "name": "Onur Alp Soner",
+        "avatar": "https://photos.angel.co/users/121315-medium_jpg?1405533407"
+      },
+      "refs": {
+        "angelListId": "199467",
+        "angelListUrl": "https://angel.co/company/countly/jobs/199467-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Sales Engineer",
+      "description": "Countly is looking for sales engineers to join its fully remote team.\r\n\r\nResponsibilities: \r\n\r\n- Be a subject matter expert on Countly and evangelize Countly’s value and features to potential customers\r\n- Own the discovery and qualification of Countly’s technical compatibility with prospects and provide consultative guidance on technical deal strategy\r\n- Work closely with the sales team to identify customer business goals, needs, and pains\r\n- Collaborate with customers to ensure proof of concepts and trials are successful\r\n- Provide technical responses to RFPs, RFIs, and security questionnaires",
+      "descriptionHtml": "<p>Countly is looking for sales engineers to join its fully remote team.</p>\n\n<p>Responsibilities: </p>\n\n<ul>\n<li>Be a subject matter expert on Countly and evangelize Countly’s value and features to potential customers</li>\n<li>Own the discovery and qualification of Countly’s technical compatibility with prospects and provide consultative guidance on technical deal strategy</li>\n<li>Work closely with the sales team to identify customer business goals, needs, and pains</li>\n<li>Collaborate with customers to ensure proof of concepts and trials are successful</li>\n<li>Provide technical responses to RFPs, RFIs, and security questionnaires</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$24k – $48k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/oasoner",
+        "name": "Onur Alp Soner",
+        "avatar": "https://photos.angel.co/users/121315-medium_jpg?1405533407"
+      },
+      "refs": {
+        "angelListId": "823417",
+        "angelListUrl": "https://angel.co/company/countly/jobs/823417-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "UI/UX Designer",
+      "description": "About the role:\n\nWe are seeking a Designer to join our team of designers. You should good communication skills.\nYou’ll be a part of the whole feature lifecycle and will work closely with another designer, developers & product people. \nWork in fast-paced, but friendly environment.\nCreate beautiful visuals and consistent, clear user interfaces.\n\nWe're looking for someone who:\n\n* Wants to work remotely\n* Can designs various solutions to improve Countly’s visual language\n* Who is always open to discussion\n* Who is able to design clear user interfaces, icons and illustrations\n* Who can maintain consistency in UI & all other materials\n* Who understands data visualizations, have basic statistics & math knowledge and has technical thinking\n* Whose designs are based on user needs & expectations and Countly’s business goals\n* Who can design data visualizations to help people understand data\n* Understands & knows which data visualization is right for the problem\n* Works closely with other designers, developers and engineers to oversee a project from concept through implementation, testing into real product \n* Who can win a debate on checkbox vs. toggle in English\n\nRequired experience:\n\n- Experience with Sketch (we use Sketch and we don’t plan to change it)\n- Experience with creating user interfaces - data related ones are a plus\n- Experience with code is a plus\n\nTasks:\n\n- Working closely with the team to create new features / improve existing features for Countly analytics platform \n- Working on Countly brand visuals & brand identity evolution",
+      "descriptionHtml": "<p>About the role:</p>\n\n<p>We are seeking a Designer to join our team of designers. You should good communication skills.<br>\nYou’ll be a part of the whole feature lifecycle and will work closely with another designer, developers &amp; product people. <br>\nWork in fast-paced, but friendly environment.<br>\nCreate beautiful visuals and consistent, clear user interfaces.</p>\n\n<p>We&#39;re looking for someone who:</p>\n\n<ul>\n<li>Wants to work remotely</li>\n<li>Can designs various solutions to improve Countly’s visual language</li>\n<li>Who is always open to discussion</li>\n<li>Who is able to design clear user interfaces, icons and illustrations</li>\n<li>Who can maintain consistency in UI &amp; all other materials</li>\n<li>Who understands data visualizations, have basic statistics &amp; math knowledge and has technical thinking</li>\n<li>Whose designs are based on user needs &amp; expectations and Countly’s business goals</li>\n<li>Who can design data visualizations to help people understand data</li>\n<li>Understands &amp; knows which data visualization is right for the problem</li>\n<li>Works closely with other designers, developers and engineers to oversee a project from concept through implementation, testing into real product </li>\n<li>Who can win a debate on checkbox vs. toggle in English</li>\n</ul>\n\n<p>Required experience:</p>\n\n<ul>\n<li>Experience with Sketch (we use Sketch and we don’t plan to change it)</li>\n<li>Experience with creating user interfaces - data related ones are a plus</li>\n<li>Experience with code is a plus</li>\n</ul>\n\n<p>Tasks:</p>\n\n<ul>\n<li>Working closely with the team to create new features / improve existing features for Countly analytics platform </li>\n<li>Working on Countly brand visuals &amp; brand identity evolution</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Europe",
+        "Turkey"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$18k – $36k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/oasoner",
+        "name": "Onur Alp Soner",
+        "avatar": "https://photos.angel.co/users/121315-medium_jpg?1405533407"
+      },
+      "refs": {
+        "angelListId": "64500",
+        "angelListUrl": "https://angel.co/company/countly/jobs/64500-"
+      }
+    }
+  ]
+}

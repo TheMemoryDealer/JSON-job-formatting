@@ -1,0 +1,147 @@
+{
+  "name": "ChartMogul",
+  "avatar": "https://photos.angel.co/startups/i/526518-76a6b343ffef62dc74eb47c706687535-medium_jpg.jpg?buster=1528880886",
+  "slogan": "Subscription Data Platform",
+  "description": "ChartMogul helps subscription businesses measure, understand and grow their recurring revenue.\n\nThis could be a SaaS, monthly gift-box or media subscription – any company that has recurring revenue.\n\nWe provide single-click integrations into Stripe, Braintree, Recurly and Chargify.  Data import can also be done via CSV uploads and data export via the ChartMogul Metrics API.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://chartmogul.com/"
+    },
+    {
+      "type": "blog",
+      "url": "https://blog.chartmogul.com/"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/chartmogul"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/chartmogul-ltd"
+    },
+    {
+      "type": "productHunt",
+      "url": "https://www.producthunt.com/posts/chartmogul"
+    }
+  ],
+  "locations": [
+    "Berlin",
+    "Toronto",
+    "Seoul",
+    "London"
+  ],
+  "marketTags": [
+    "SaaS",
+    "Subscription Businesses",
+    "Digital Media",
+    "E-Commerce",
+    "Subscription"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 3700000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1541462400,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1440547200,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1421280000,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/nick_franklin",
+      "name": "Nick Franklin",
+      "avatar": "https://photos.angel.co/users/844902-medium_jpg?1515662659",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/chartmogul\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">ChartMogul</span></a> • Worked at <a href=\"https://angel.co/company/zendesk\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Zendesk</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/dayna-jung",
+      "name": "Dayna Jung",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Software Developer",
+      "role": "Employee",
+      "url": "https://angel.co/u/velina-rusjakova",
+      "name": "Velina Rusjakova",
+      "avatar": "https://photos.angel.co/users/1369605-medium_jpg?1436371868",
+      "bioHtml": "senior year student interested in computer graphics and AI, teaching assistant and volunteer and former vice president at IEASTE Macedonia"
+    },
+    {
+      "title": "Tech Lead",
+      "role": "Employee",
+      "url": "https://angel.co/u/miyama-yuta",
+      "name": "Miyama Yuta",
+      "avatar": "https://photos.angel.co/users/114497-medium_jpg?1405525126",
+      "bioHtml": "Worked as a primary software engineer at startups, in architectural decisions / product growth. Founded a company which made 50M JPY sales in 2 years."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "526518",
+    "angelListUrl": "https://angel.co/company/chartmogul"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Principal Engineer m/f/d",
+      "description": "###### Job description \r\n\r\n**What will you be doing?**\r\n\r\nAs with many young companies, your responsibilities will change over time. However, here are some of the responsibilities we expect you to take on as a Principal Engineer.\r\n\r\n* Work with our Data Integration and Data Ingestion teams to translate business requirements into high-quality, well architected software solutions.\r\n* Evaluate and evolve our workflows to ensure fast and efficient collaboration between members of the team.\r\n* Work on strategy, goals and the structure of the team together with the Director of Engineering to ensure we're best placed to meet our targets.\r\n* Lead a high performing team of Engineers, ensuring that they are being developed, mentored and challenged, acting as an advocate for them within the organisation and ensuring roles and responsibilities are well defined.\r\n* Facilitate decisions in building and evolving our data pipeline to improve reliability and resilience.\r\n* Be continuously learning to make sure we’re able to effectively deploy new technologies and processes in order to stay competitive.\r\n\r\n###### Requirements\r\n\r\n**Sounds interesting? Here’s what we’re looking for:**\r\n\r\n* A strong background in data engineering and/or software engineering.\r\n* 3+ years of leadership experience - you know how to build and manage teams of engineers. You love helping people to grow and improve, achieve their potential by inspiring excellence and innovation.\r\n* Strong critical thinking and an outcome-driven mindset. You believe challenging the status quo is fundamental to improve processes, best-practices and technologies in order to stay competitive.\r\n* Work ethic and communication - we value transparency and open communication. We try to avoid problems by working to resolve tensions and coming together as a team to achieve our shared mission.\r\n* You’re always up for pairing and helping your colleagues to solve challenging problems.\r\n* You believe in leading by example and resist command &amp; control structures.\r\n\r\n**What is it like to work at ChartMogul?**\r\n\r\nYou’ll join the adventures of an early stage company and experience what it means to have a job that’s incredibly impactful.\r\nYou’ll become part of a team of nice, awesome and highly dedicated people that all have the same mission: Helping companies to build better subscription businesses.\r\n\r\nYou’ll receive a great compensation package (market or above-market).\r\n\r\nTimezone UTC-5 to UTC+2\r\n\r\n\r\n*Please note, we are not accepting applications from U.S. residents at this time*\r\n\r\n**How to apply**\r\nWhile we are trying to look at AngelList, you can also apply through https://jobs.chartmogul.com/o/principal-engineer-mfd.",
+      "descriptionHtml": "<p><strong>Job description</strong></p>\n\n<p><strong>What will you be doing?</strong></p>\n\n<p>As with many young companies, your responsibilities will change over time. However, here are some of the responsibilities we expect you to take on as a Principal Engineer.</p>\n\n<ul>\n<li>Work with our Data Integration and Data Ingestion teams to translate business requirements into high-quality, well architected software solutions.</li>\n<li>Evaluate and evolve our workflows to ensure fast and efficient collaboration between members of the team.</li>\n<li>Work on strategy, goals and the structure of the team together with the Director of Engineering to ensure we&#39;re best placed to meet our targets.</li>\n<li>Lead a high performing team of Engineers, ensuring that they are being developed, mentored and challenged, acting as an advocate for them within the organisation and ensuring roles and responsibilities are well defined.</li>\n<li>Facilitate decisions in building and evolving our data pipeline to improve reliability and resilience.</li>\n<li>Be continuously learning to make sure we’re able to effectively deploy new technologies and processes in order to stay competitive.</li>\n</ul>\n<p><strong>Requirements</strong></p>\n\n<p><strong>Sounds interesting? Here’s what we’re looking for:</strong></p>\n\n<ul>\n<li>A strong background in data engineering and/or software engineering.</li>\n<li>3+ years of leadership experience - you know how to build and manage teams of engineers. You love helping people to grow and improve, achieve their potential by inspiring excellence and innovation.</li>\n<li>Strong critical thinking and an outcome-driven mindset. You believe challenging the status quo is fundamental to improve processes, best-practices and technologies in order to stay competitive.</li>\n<li>Work ethic and communication - we value transparency and open communication. We try to avoid problems by working to resolve tensions and coming together as a team to achieve our shared mission.</li>\n<li>You’re always up for pairing and helping your colleagues to solve challenging problems.</li>\n<li>You believe in leading by example and resist command &amp; control structures.</li>\n</ul>\n\n<p><strong>What is it like to work at ChartMogul?</strong></p>\n\n<p>You’ll join the adventures of an early stage company and experience what it means to have a job that’s incredibly impactful.<br>\nYou’ll become part of a team of nice, awesome and highly dedicated people that all have the same mission: Helping companies to build better subscription businesses.</p>\n\n<p>You’ll receive a great compensation package (market or above-market).</p>\n\n<p>Timezone UTC-5 to UTC+2</p>\n\n<p><em>Please note, we are not accepting applications from U.S. residents at this time</em></p>\n\n<p><strong>How to apply</strong><br>\nWhile we are trying to look at AngelList, you can also apply through <a href=\"https://jobs.chartmogul.com/o/principal-engineer-mfd\" target=\"_blank\" rel=\"nofollow\">https://jobs.chartmogul.com/o/principal-engineer-mfd</a>.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "Europe",
+        "Ontario"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe",
+        "Ontario"
+      ],
+      "skills": [
+        "PostgreSQL",
+        "Ruby on Rails",
+        "Go (Golang)",
+        "Kubernetes",
+        "Rust​"
+      ],
+      "payment": {
+        "salary": "€80k – €90k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/dayna-jung",
+        "name": "Dayna Jung",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "775946",
+        "angelListUrl": "https://angel.co/company/chartmogul/jobs/775946-"
+      }
+    }
+  ]
+}

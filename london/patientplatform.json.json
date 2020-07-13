@@ -1,0 +1,140 @@
+{
+  "name": "Patient",
+  "avatar": "https://photos.angel.co/startups/i/4572324-dcfb811ff736096556a418097c8067d8-medium_jpg.jpg?buster=1529484050",
+  "slogan": "Manage your healthcare safely, simply, together",
+  "description": "At Patient our mission is simple: to give people more control of their health.  \n\nPatient Access is the UK’s biggest online health services platform with over 8 million users and counting. By connecting GP and community pharmacy services with clinical content and tools, we help users better manage their healthcare. \n\nPatient.info is the UK's leading independent health website, providing trusted clinical information and healthy living advice to millions of global visitors every week.\n\nThis is just the beginning. The next few years promise to be exciting, fast-paced and incredibly rewarding as we continue to reshape the way people manage their health.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.patientaccess.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/patient/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Chennai"
+  ],
+  "marketTags": [
+    "Healthcare",
+    "Technology"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/ross-fullarton",
+      "name": "Ross Fullarton",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Product Designer",
+      "role": "Employee",
+      "url": "https://angel.co/u/simon-field-3",
+      "name": "Simon Field",
+      "avatar": "https://photos.angel.co/users/10163181-medium_jpg?1571856630",
+      "bioHtml": "Worked at Patient"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/alexander-hamilton-14",
+      "name": "Alexander Hamilton",
+      "avatar": "https://photos.angel.co/users/10314714-medium_jpg?1577952527",
+      "bioHtml": "Talent Manager @ EMIS Group (inc. Patient &amp; Dovetail Lab).\n\n10 years&#39; tech recruitment experience across UK and EMEA."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4572324",
+    "angelListUrl": "https://angel.co/company/patientplatform"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Developer",
+      "description": "About us\n\nPatient is home to a rapidly growing team of designers & engineers who want to help the world proactively manage its healthcare.\n\nWe are a globally focused company designing and developing the future of how people digitally interact with healthcare services; by providing an innovative new marketplace we want to become “Earth’s favourite On-demand healthcare remedy”.\n\nAt Patient our mission is simple: to create digital products and services that give people better control over their health. With Patient Access, we’ve built the UK’s biggest online GP services platform with over 7 million users and counting. With Patient.info, we’ve developed one of the world’s leading independent health websites, providing trusted clinical information and healthy living advice to a million global visitors every day.\n\nThis is just the beginning, and the next few years promise to be exciting, fast-paced and incredibly rewarding as we continue to fulfil our mission and reshape the way people manage their health.\n\nThe purpose of this job\n\nA Developer who is a key part of the Clinical Integration team based in London, building deep integration of the Patient Platform with EMIS Web and other Clinical systems, working closely with off-site development teams to ensure consistent and high-quality work, integrating existing services and collaborating closely with our client and frontend developers/designers to innovate and create a world class personal health experience.\n\nThe main accountabilities:\n\n\tDesign, develop and maintain a new solution for implementing A/B testing for Patient Platform.\n\tMaintain a high standard of engineering quality within the whole team. Review work by others to ensure quality and consistency of all work.\n\tWork effectively within the team, troubleshooting and resolving business critical challenges.\n\tProvide innovative solutions to meet the changing demands and emerging industry trends and standards.\n\nWhere this job fits\n\nThe Developer will be working in a small team of data engineers and data analysts that creates innovative solutions to gain technical and business insights. You’ll be part of the creative process from ideation to shipping – designing solutions, solving problems, connecting services and helping us create new experiences.\n\nKnowledge, skills and experience\n\n\tPossess a degree level qualification or equivalent in software engineering or related discipline.\n\tFamiliar with agile software engineering methodologies and processes with experience defining and implementing software through the software development lifecycle.\n\t2+ years’ experience in the software development industry.\n\tPrevious experience on implementing A/B testing tools like Optimizely or Adobe target or in house data solution is desirable.\n\tEffective programming skills and competence in relevant languages and technologies (e.g. .Net, C#, HTML, Javascript, CSS).\n\tFamiliarity of development tools and technologies.\n\tSupport online testing as an ongoing discipline to drive continuous improvement.\n\tMake recommendations for optimizing the performance of content or media tests.",
+      "descriptionHtml": "<p>About us</p>\n\n<p>Patient is home to a rapidly growing team of designers &amp; engineers who want to help the world proactively manage its healthcare.</p>\n\n<p>We are a globally focused company designing and developing the future of how people digitally interact with healthcare services; by providing an innovative new marketplace we want to become “Earth’s favourite On-demand healthcare remedy”.</p>\n\n<p>At Patient our mission is simple: to create digital products and services that give people better control over their health. With Patient Access, we’ve built the UK’s biggest online GP services platform with over 7 million users and counting. With Patient.info, we’ve developed one of the world’s leading independent health websites, providing trusted clinical information and healthy living advice to a million global visitors every day.</p>\n\n<p>This is just the beginning, and the next few years promise to be exciting, fast-paced and incredibly rewarding as we continue to fulfil our mission and reshape the way people manage their health.</p>\n\n<p>The purpose of this job</p>\n\n<p>A Developer who is a key part of the Clinical Integration team based in London, building deep integration of the Patient Platform with EMIS Web and other Clinical systems, working closely with off-site development teams to ensure consistent and high-quality work, integrating existing services and collaborating closely with our client and frontend developers/designers to innovate and create a world class personal health experience.</p>\n\n<p>The main accountabilities:</p>\n\n<p> Design, develop and maintain a new solution for implementing A/B testing for Patient Platform.<br>\n Maintain a high standard of engineering quality within the whole team. Review work by others to ensure quality and consistency of all work.<br>\n Work effectively within the team, troubleshooting and resolving business critical challenges.<br>\n Provide innovative solutions to meet the changing demands and emerging industry trends and standards.</p>\n\n<p>Where this job fits</p>\n\n<p>The Developer will be working in a small team of data engineers and data analysts that creates innovative solutions to gain technical and business insights. You’ll be part of the creative process from ideation to shipping – designing solutions, solving problems, connecting services and helping us create new experiences.</p>\n\n<p>Knowledge, skills and experience</p>\n\n<p> Possess a degree level qualification or equivalent in software engineering or related discipline.<br>\n Familiar with agile software engineering methodologies and processes with experience defining and implementing software through the software development lifecycle.<br>\n 2+ years’ experience in the software development industry.<br>\n Previous experience on implementing A/B testing tools like Optimizely or Adobe target or in house data solution is desirable.<br>\n Effective programming skills and competence in relevant languages and technologies (e.g. .Net, C#, HTML, Javascript, CSS).<br>\n Familiarity of development tools and technologies.<br>\n Support online testing as an ongoing discipline to drive continuous improvement.<br>\n Make recommendations for optimizing the performance of content or media tests.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        ".NET",
+        "CSS",
+        "A/B Testing"
+      ],
+      "payment": {
+        "salary": "£55k – £65k"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "641550",
+        "angelListUrl": "https://angel.co/company/patientplatform/jobs/641550-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "Visual Designer",
+      "description": "ABOUT PATIENT\n\nAt Patient our mission is simple: to give people better control over their health. With Patient Access, we’ve built the UK’s biggest online health services platform with over 8 million users and counting. By connecting GP and Community Pharmacy services with clinical content and tools, we give our users a greater choice and access to manage their health. With patient.info, we’ve developed one of the world’s leading independent health websites, providing trusted clinical information and health living advice to a million global visitors every day.\n\nThis is just the beginning. The next few years promise to be exciting, fast-paced and incredibly rewarding as we continue to fulfil our mission and reshape the way people manage their health.\n\nYOUR NEW ROLE\n\nWe’re looking for an energetic, curious and creative Visual Designer who can help bring our brand language to life. You would be joining our innovative and friendly team based in the London, Old St HQ office.\n\nYou’ll be responsible for envisioning and implementing the executing of our visual language across the entire creative process, from creative conceptualisation to hands-on crafting. Your role will play a key part in ensuring that our products and communications breath Patient’s brand and match our user’s expectations in terms of creativity and aesthetics.\n\nTHE TEAM YOU'LL JOIN\n\nYou’ll work closely with the Head of Design to define and implement the brand language, collaborating closely with a cross-functional team of Product Designers, UI Designers and User Researchers.\n\nWHAT YOU'LL BRING\n\nWe want to make sure you are set for success so here are some of the skills and experiences we’re keen to see:\n\n* A passion for delighting co-workers and users with designs that inspire, engage and excite them.\n* Excellent communication skills and ability to articulate the rationale behind your work to a multidisciplinary team.\n* A creative mind capable of ideating and executing the communication of complex features and products through appealing campaigns.\n* Experience creating visual assets such as icons, illustrations and core UI components.\n* Solid understanding of the formal elements of design, including typography, layout, balance and proportion.\n* A highly refined design aesthetic and ability to apply it within the Patient brand.\n* Experience producing branded presentations for internal or external usage.\n* A basic applied knowledge of motion graphics design.\n\nWHAT WE'LL GIVE YOU\n\nYou’ll get a benefits package which includes lifestyle benefits like gym discounts and a cycle to work scheme. You also get practical things like 25 days holiday, the option to buy and sell holiday and a healthcare cash plan.\n\nAt Patient we take our corporate social responsibility seriously and believe firmly in giving back to our community, so you’ll get the chance to be involved in lots of fundraising events throughout the year.\n\nIf this looks like the right role for you then apply here and we’ll look forward to hearing from you. If the role’s not quite right but you like the sound of Patient, sign up for our job alerts and we’ll keep you updated when anything new comes up.",
+      "descriptionHtml": "<p>ABOUT PATIENT</p>\n\n<p>At Patient our mission is simple: to give people better control over their health. With Patient Access, we’ve built the UK’s biggest online health services platform with over 8 million users and counting. By connecting GP and Community Pharmacy services with clinical content and tools, we give our users a greater choice and access to manage their health. With patient.info, we’ve developed one of the world’s leading independent health websites, providing trusted clinical information and health living advice to a million global visitors every day.</p>\n\n<p>This is just the beginning. The next few years promise to be exciting, fast-paced and incredibly rewarding as we continue to fulfil our mission and reshape the way people manage their health.</p>\n\n<p>YOUR NEW ROLE</p>\n\n<p>We’re looking for an energetic, curious and creative Visual Designer who can help bring our brand language to life. You would be joining our innovative and friendly team based in the London, Old St HQ office.</p>\n\n<p>You’ll be responsible for envisioning and implementing the executing of our visual language across the entire creative process, from creative conceptualisation to hands-on crafting. Your role will play a key part in ensuring that our products and communications breath Patient’s brand and match our user’s expectations in terms of creativity and aesthetics.</p>\n\n<p>THE TEAM YOU&#39;LL JOIN</p>\n\n<p>You’ll work closely with the Head of Design to define and implement the brand language, collaborating closely with a cross-functional team of Product Designers, UI Designers and User Researchers.</p>\n\n<p>WHAT YOU&#39;LL BRING</p>\n\n<p>We want to make sure you are set for success so here are some of the skills and experiences we’re keen to see:</p>\n\n<ul>\n<li>A passion for delighting co-workers and users with designs that inspire, engage and excite them.</li>\n<li>Excellent communication skills and ability to articulate the rationale behind your work to a multidisciplinary team.</li>\n<li>A creative mind capable of ideating and executing the communication of complex features and products through appealing campaigns.</li>\n<li>Experience creating visual assets such as icons, illustrations and core UI components.</li>\n<li>Solid understanding of the formal elements of design, including typography, layout, balance and proportion.</li>\n<li>A highly refined design aesthetic and ability to apply it within the Patient brand.</li>\n<li>Experience producing branded presentations for internal or external usage.</li>\n<li>A basic applied knowledge of motion graphics design.</li>\n</ul>\n\n<p>WHAT WE&#39;LL GIVE YOU</p>\n\n<p>You’ll get a benefits package which includes lifestyle benefits like gym discounts and a cycle to work scheme. You also get practical things like 25 days holiday, the option to buy and sell holiday and a healthcare cash plan.</p>\n\n<p>At Patient we take our corporate social responsibility seriously and believe firmly in giving back to our community, so you’ll get the chance to be involved in lots of fundraising events throughout the year.</p>\n\n<p>If this looks like the right role for you then apply here and we’ll look forward to hearing from you. If the role’s not quite right but you like the sound of Patient, sign up for our job alerts and we’ll keep you updated when anything new comes up.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Graphic Design",
+        "Branding",
+        "Illustration",
+        "Logo Design"
+      ],
+      "payment": {
+        "salary": "£28k – £35k"
+      },
+      "recruiter": {
+        "title": "Head of Design",
+        "role": "Employee",
+        "url": "https://angel.co/u/marc-ruaix",
+        "name": "Marc Ruaix",
+        "avatar": "https://photos.angel.co/users/1210297-medium_jpg?1568746214"
+      },
+      "refs": {
+        "angelListId": "634370",
+        "angelListUrl": "https://angel.co/company/patientplatform/jobs/634370-"
+      }
+    }
+  ]
+}

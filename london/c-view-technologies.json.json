@@ -1,0 +1,179 @@
+{
+  "name": "C View Technologies",
+  "avatar": "https://photos.angel.co/startups/i/77062-923fb81c3aa07568c8a554a72d5004f2-medium_jpg.jpg?buster=1335169861",
+  "slogan": "Operational Excellence Platform & Modules",
+  "description": "The Excellence Platform Is a cloud application that enables businesses to quickly transform their competitive capabilities.\n\nSometimes referred to as a consultancy-as-a-service platform, it enables any size and type of organisation to select business capability modules to rapidly assess and predictably transform their key performance capabilities without the need for big ticket consultancy or complex project deployment.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.cviewtechnologies.com"
+    },
+    {
+      "type": "blog",
+      "url": "http://blog.cviewtechnologies.com/"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@CViewtech"
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "SaaS",
+    "B2B",
+    "Platforms",
+    "Business Intelligence"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 200000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1293840000,
+        "valuation": null
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/sandrijn-stead",
+      "name": "Sandrijn Stead",
+      "avatar": "https://photos.angel.co/users/70532-medium_jpg?1502710318",
+      "bioHtml": "Multi level CEO , past EVP Sales and Marketing and IT Technology Founder, IT consultant, Rain Maker. External  Interests include Animal and Eco Charity work."
+    },
+    {
+      "title": "Chief Innovation Officer",
+      "role": "Founder",
+      "url": "https://angel.co/u/gregory-smith-1",
+      "name": "Gregory Smith",
+      "avatar": "https://photos.angel.co/users/107578-medium_jpg?1463027275",
+      "bioHtml": "Cofounder at C View Technologies"
+    },
+    {
+      "title": "Senior Account Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/carinne-louth",
+      "name": "Carinne Louth",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Head of Marketing",
+      "role": "Employee",
+      "url": "https://angel.co/u/keith-povey-1",
+      "name": "Keith Povey",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Technical Lead",
+      "role": "Employee",
+      "url": "https://angel.co/u/ben-thomson-5",
+      "name": "Ben Thomson",
+      "avatar": "https://photos.angel.co/users/5177606-medium_jpg?1485938591",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "77062",
+    "angelListUrl": "https://angel.co/company/c-view-technologies"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Lead Developer, United Kingdom",
+      "description": "Become a key member in a dynamic innovation team to further design and build out hosted applications that are disrupting multiple old-world business models and being adopted by some of the world’s largest and dynamic organisations. Join C View Technologies, the global market leader in consultancy virtualisation and business performance transformation. \n \nAt CVT we are looking for a strong technical lead to join our team in order to help us further develop a set of hosted applications. The successful candidate will be working with a growing team of software developers and will have the opportunity to help define the technologies, practices and processes that the team uses, in addition to being able to manage their own time and work from home or our new Reading Berkshire office. If you are a believer in technology and customer centric innovation at its finest, then this is the place for you.   \n \nWe offer an exciting and challenging job in the leading hosted business transformation application based business as well as the opportunity to shape one of CVT’s fastest growing markets. This is an excellent opportunity for someone with strong technical skills and in-depth knowledge of how different technologies and architectures can be combined to develop loosely coupled services. There is also the opportunity to play a key role in shaping, growing and leading the UK development team.\n \nAs a CVT Employee, YOU will be a key driver of our success. Come join our dynamic international team and be a part of our rapidly growing, successful business.  \n \nCandidates must be eligible to work in the United Kingdom.  \n \nAs a minimum we believe the right candidate will possess most of the below skills although if you think you meet most but not all of the below points then please get in touch anyway as we would love to hear from you:\n\n•\t* Experience of designing service oriented architectures such as de-coupled micro services.\n•\t* Has a strong knowledge of working with C# and the .NET framework.\n•\t* Has a strong knowledge of working with JavaScript/TypeScript including single page application development such as AngularJS.\n•\t* Writes clean, reusable and testable code in line with the SOLID principles.\n•\t* Experience building restful APIs using ASP.NET Core or similar.\n•\t* Has experience of using CQRS, dependency injection and other advanced programming design patterns and techniques.\n•\t* Has experience of working with message brokers such as RabbitMQ or Azure Service bus.\n•\t* Able to demonstrate and explain the benefits of all the above to less experienced developers.\n•\t* Uses and understands the benefits of code/peer reviews to help ensure code aligns with all of the above as well as sharing knowledge and good coding practices (everyone has something they can share and reviews should be about helping others develop their skills too).\n•\t* Can take ownership of complete pieces of work and can work autonomously.\n•\t* Are used to doing TDD and implementing automated testing.\n•\t* Has worked with a number of different database technologies including both relational and NoSQL databases.\n•\t* Can provide knowledge and skills on newer technologies. Things change rapidly within the technology sector and making the correct technology decision will be vital to success.\n\nCandidate must be based in the UK with a current working visa.",
+      "descriptionHtml": "<p>Become a key member in a dynamic innovation team to further design and build out hosted applications that are disrupting multiple old-world business models and being adopted by some of the world’s largest and dynamic organisations. Join C View Technologies, the global market leader in consultancy virtualisation and business performance transformation. </p>\n\n<p>At CVT we are looking for a strong technical lead to join our team in order to help us further develop a set of hosted applications. The successful candidate will be working with a growing team of software developers and will have the opportunity to help define the technologies, practices and processes that the team uses, in addition to being able to manage their own time and work from home or our new Reading Berkshire office. If you are a believer in technology and customer centric innovation at its finest, then this is the place for you.   </p>\n\n<p>We offer an exciting and challenging job in the leading hosted business transformation application based business as well as the opportunity to shape one of CVT’s fastest growing markets. This is an excellent opportunity for someone with strong technical skills and in-depth knowledge of how different technologies and architectures can be combined to develop loosely coupled services. There is also the opportunity to play a key role in shaping, growing and leading the UK development team.</p>\n\n<p>As a CVT Employee, YOU will be a key driver of our success. Come join our dynamic international team and be a part of our rapidly growing, successful business.  </p>\n\n<p>Candidates must be eligible to work in the United Kingdom.  </p>\n\n<p>As a minimum we believe the right candidate will possess most of the below skills although if you think you meet most but not all of the below points then please get in touch anyway as we would love to hear from you:</p>\n\n<p>• * Experience of designing service oriented architectures such as de-coupled micro services.<br>\n• * Has a strong knowledge of working with C# and the .NET framework.<br>\n• * Has a strong knowledge of working with JavaScript/TypeScript including single page application development such as AngularJS.<br>\n• * Writes clean, reusable and testable code in line with the SOLID principles.<br>\n• * Experience building restful APIs using ASP.NET Core or similar.<br>\n• * Has experience of using CQRS, dependency injection and other advanced programming design patterns and techniques.<br>\n• * Has experience of working with message brokers such as RabbitMQ or Azure Service bus.<br>\n• * Able to demonstrate and explain the benefits of all the above to less experienced developers.<br>\n• * Uses and understands the benefits of code/peer reviews to help ensure code aligns with all of the above as well as sharing knowledge and good coding practices (everyone has something they can share and reviews should be about helping others develop their skills too).<br>\n• * Can take ownership of complete pieces of work and can work autonomously.<br>\n• * Are used to doing TDD and implementing automated testing.<br>\n• * Has worked with a number of different database technologies including both relational and NoSQL databases.<br>\n• * Can provide knowledge and skills on newer technologies. Things change rapidly within the technology sector and making the correct technology decision will be vital to success.</p>\n\n<p>Candidate must be based in the UK with a current working visa.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "United Kingdom",
+        "Reading"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "C#",
+        "MongoDB",
+        "Software Architecture",
+        "Rabbitmq",
+        "Microsoft SQL Server",
+        "AngularJS",
+        "TypeScript",
+        "CQRS",
+        "Microsoft .NET",
+        "RESTful API",
+        ".NET Core"
+      ],
+      "payment": {
+        "salary": "£50k – £65k"
+      },
+      "recruiter": {
+        "title": "Technical Lead",
+        "role": "Employee",
+        "url": "https://angel.co/u/ben-thomson-5",
+        "name": "Ben Thomson",
+        "avatar": "https://photos.angel.co/users/5177606-medium_jpg?1485938591"
+      },
+      "refs": {
+        "angelListId": "462016",
+        "angelListUrl": "https://angel.co/company/c-view-technologies/jobs/462016-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Sales Representative, UK, Reading, Berkshire",
+      "description": "About CVT\nWe are a fast-growing company with big ambitions. The entrepreneurial spirit that founded the company can still be found, even though today we’re a global player in the business hosted applications’ industry.  Our headquarters are just outside London, UK, and we have offices in Asia.  We offer a flexible work environment where our employees get to define their workday and have a great deal of influence over how they use their time. We work hard, set our ambitions high and celebrate our successes together. If you are change-willing, internationally-minded and interested in growing as a professional then please contact us.    \nPotential Candidates\nWe are looking for several strong sales driven individuals with 2-5 years’ experience of Business development and Sales in IT Distribution.\n\nBecome a key member in a dynamic innovation team to further our success in selling to and through Resellers, Distribution and Vendors alike on a global basis. \n\nThis is an excellent opportunity for someone looking to make there mark on the IT industry, across all the different sectors of the IT channel and across all disciplines of the technology market from Cloud to Data centre and Software through to Hardware or even Services.\n \nWe offer an exciting and challenging job in the leading hosted business transformation application-based business as well as the opportunity to shape your own sales destiny. \n\nThis is an excellent opportunity for someone with strong sales skills and in-depth knowledge and relationships with Resellers, Distribution and Vendors alike. There is also the opportunity to play a key role in shaping, growing and leading the UK sales team.\n \nThe role\n \nAs a CVT Employee, you will be a key driver of our success. Come join our dynamic international team and be a part of our rapidly growing, successful business.  \n \nCandidates must be eligible to work in the United Kingdom.  \n \nRole Description:  \n \n•\tEngaging with new and existing customers, closing business on a subscription/ monthly licence basis.\n•\tManaging relationships with partners.\n•\tRunning reports, providing dashboard data to your customers.\n•\tUpdating the CVT CRM with all relevant data in a timely way.\n•\tAlways engaging in a positive and professional way with both people external and internally of our business.\n•\tRepresent expectations, intentions, and attitudes of customers and co-workers accurately.   \n•\tContinuous effort to acquire and maintain good knowledge of CVT’s products as well as support and sales procedures, best practices, and policies.\n\n\nRequirements:\n•\tOver two years’ experience of selling in IT ideally working for a distributor.\n•\tStrong knowledge of working with Vendors and Resellers.\n•\tStrong demonstrable track record of closing business.\n•\tExcellent communication skills.\n•\tStrong understanding of “The Channel” and how MDF/ Co-Op funding works.\n•\tGreat engagement with a wide number of Resellers/ Vars.\n•\tGreat engagement with a wide number of Vendors.\n•\tFocused on fast career progression.\nPersonal Skills:\n \n•\tConfident of own capabilities, persistent, believes in result-oriented outcome.  \n•\tAbility to take on increasingly challenging assignments with a 'can do' and positive attitude.\n•\tGood analytical problem-solving skills.\n•\tMulti-task oriented, polite, articulate, positive and professional. \n \nFor more information please email your CV and contact information to Jobs@cviewtechnologies.com",
+      "descriptionHtml": "<p>About CVT<br>\nWe are a fast-growing company with big ambitions. The entrepreneurial spirit that founded the company can still be found, even though today we’re a global player in the business hosted applications’ industry.  Our headquarters are just outside London, UK, and we have offices in Asia.  We offer a flexible work environment where our employees get to define their workday and have a great deal of influence over how they use their time. We work hard, set our ambitions high and celebrate our successes together. If you are change-willing, internationally-minded and interested in growing as a professional then please contact us.<br><br>\nPotential Candidates<br>\nWe are looking for several strong sales driven individuals with 2-5 years’ experience of Business development and Sales in IT Distribution.</p>\n\n<p>Become a key member in a dynamic innovation team to further our success in selling to and through Resellers, Distribution and Vendors alike on a global basis. </p>\n\n<p>This is an excellent opportunity for someone looking to make there mark on the IT industry, across all the different sectors of the IT channel and across all disciplines of the technology market from Cloud to Data centre and Software through to Hardware or even Services.</p>\n\n<p>We offer an exciting and challenging job in the leading hosted business transformation application-based business as well as the opportunity to shape your own sales destiny. </p>\n\n<p>This is an excellent opportunity for someone with strong sales skills and in-depth knowledge and relationships with Resellers, Distribution and Vendors alike. There is also the opportunity to play a key role in shaping, growing and leading the UK sales team.</p>\n\n<p>The role</p>\n\n<p>As a CVT Employee, you will be a key driver of our success. Come join our dynamic international team and be a part of our rapidly growing, successful business.  </p>\n\n<p>Candidates must be eligible to work in the United Kingdom.  </p>\n\n<p>Role Description:  </p>\n\n<p>• Engaging with new and existing customers, closing business on a subscription/ monthly licence basis.<br>\n• Managing relationships with partners.<br>\n• Running reports, providing dashboard data to your customers.<br>\n• Updating the CVT CRM with all relevant data in a timely way.<br>\n• Always engaging in a positive and professional way with both people external and internally of our business.<br>\n• Represent expectations, intentions, and attitudes of customers and co-workers accurately.<br><br>\n• Continuous effort to acquire and maintain good knowledge of CVT’s products as well as support and sales procedures, best practices, and policies.</p>\n\n<p>Requirements:<br>\n• Over two years’ experience of selling in IT ideally working for a distributor.<br>\n• Strong knowledge of working with Vendors and Resellers.<br>\n• Strong demonstrable track record of closing business.<br>\n• Excellent communication skills.<br>\n• Strong understanding of “The Channel” and how MDF/ Co-Op funding works.<br>\n• Great engagement with a wide number of Resellers/ Vars.<br>\n• Great engagement with a wide number of Vendors.<br>\n• Focused on fast career progression.<br>\nPersonal Skills:</p>\n\n<p>• Confident of own capabilities, persistent, believes in result-oriented outcome.<br><br>\n• Ability to take on increasingly challenging assignments with a &#39;can do&#39; and positive attitude.<br>\n• Good analytical problem-solving skills.<br>\n• Multi-task oriented, polite, articulate, positive and professional. </p>\n\n<p>For more information please email your CV and contact information to <a href=\"mailto:Jobs@cviewtechnologies.com\" target=\"_blank\" rel=\"nofollow\">Jobs@cviewtechnologies.com</a></p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "Reading"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Sales",
+        "Channel Management",
+        "Channel Development",
+        "Closing Deals",
+        "Channel Sales"
+      ],
+      "payment": {
+        "salary": "£30k – £40k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Board Member",
+        "url": "https://angel.co/u/sandrijn-stead",
+        "name": "Sandrijn Stead",
+        "avatar": "https://photos.angel.co/users/70532-medium_jpg?1502710318"
+      },
+      "refs": {
+        "angelListId": "488667",
+        "angelListUrl": "https://angel.co/company/c-view-technologies/jobs/488667-"
+      }
+    }
+  ]
+}

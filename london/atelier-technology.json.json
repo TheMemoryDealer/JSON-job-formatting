@@ -1,0 +1,236 @@
+{
+  "name": "Atelier Technology",
+  "avatar": "https://photos.angel.co/startups/i/3106650-8dbed3d4311ec7221b5392abd4b73df8-medium_jpg.jpg?buster=1499937147",
+  "slogan": "Connecting the jewellery supply chain",
+  "description": "The Atelier enterprise platform empowers the jewellery ecosystem, consolidating commercial operations onto a single platform. Our game-changing application unlocks connectivity, operations & trading in a way that's never been possible before. \n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://enterprise.atelier.technology"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company-beta/10057036/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Jewelry",
+    "Fine Jewelry",
+    "Manufacturing",
+    "Technology"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/andrew-johnson-2",
+      "name": "Andrew Johnson",
+      "avatar": "https://photos.angel.co/users/108611-medium_jpg?1584993869",
+      "bioHtml": "Co-founder  at Atelier Technology Limited."
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/dominic-hill",
+      "name": "Dominic Hill",
+      "avatar": "https://photos.angel.co/users/5058500-medium_jpg?1478941435",
+      "bioHtml": "Founder and MD at Atelier Technology, digitising the jewellery industry. background in jewellery majors, entrepreneurial track record. \n\n"
+    },
+    {
+      "title": "OPERATIONS",
+      "role": "Employee",
+      "url": "https://angel.co/u/gaspare-mura-1",
+      "name": "Gaspare Mura",
+      "avatar": "https://photos.angel.co/users/4179526-medium_jpg?1581433295",
+      "bioHtml": "Strategy professional, specialised in healthcare management and pharmaceuticals, I have been a healthcare entrepreneur owner, manager and growth strategist."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/julian_james",
+      "name": "Julian James",
+      "avatar": "https://photos.angel.co/users/4206118-medium_jpg?1580726711",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/marek-pasternak",
+      "name": "Marek Pasternak",
+      "avatar": "https://photos.angel.co/users/623361-medium_jpg?1494953356",
+      "bioHtml": "Experience marketer"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "3106650",
+    "angelListUrl": "https://angel.co/company/atelier-technology"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Scrum Master",
+      "description": "The scrum master is responsible for leading the Development Team’s execution and delivery our Enterprise software releases. In our company they are also a cross-team agile coach and a defender of process.\n\nThe scrum master elects which technology team member most appropriate to attend with them should represent the engineering team in each grooming session. In this forum the scrum master ensures complex requirements are discussed with technology ahead of time to ensure any architectural concerns are always voiced during the early stages of grooming.\n\nThe scrum master is then responsible for ensuring technology carry the insights and knowledge forward into the sprint process, verbalising it with the wider engineering team, and ensuring that the engineers have a point of reference for any questions they may have during build, unblocking any issues that prevent the team from reaching their objective.\n\nThe scrum master works with the product owner to converts Confluence user stories and scenarios into a delivery plan with associated JIRA issues & sub-tasks, and thereafter is responsible for providing a single prioritised and groomed feature backlog for the Enterprise platform in JIRA.\n\nThe scrum master actively participates in Sprint Planning meetings and understand progress made by the engineering team(s) since the previous meeting.\n\nThe key skills we are seeking for this position are:\n\n- Strong Scrum and Agile Training.\n- Organizational Skills.\n- Technical Familiarity.\n- Teaching and Coaching Abilities.\n- Conflict Facilitation.\n- Servant Leader.",
+      "descriptionHtml": "<p>The scrum master is responsible for leading the Development Team’s execution and delivery our Enterprise software releases. In our company they are also a cross-team agile coach and a defender of process.</p>\n\n<p>The scrum master elects which technology team member most appropriate to attend with them should represent the engineering team in each grooming session. In this forum the scrum master ensures complex requirements are discussed with technology ahead of time to ensure any architectural concerns are always voiced during the early stages of grooming.</p>\n\n<p>The scrum master is then responsible for ensuring technology carry the insights and knowledge forward into the sprint process, verbalising it with the wider engineering team, and ensuring that the engineers have a point of reference for any questions they may have during build, unblocking any issues that prevent the team from reaching their objective.</p>\n\n<p>The scrum master works with the product owner to converts Confluence user stories and scenarios into a delivery plan with associated JIRA issues &amp; sub-tasks, and thereafter is responsible for providing a single prioritised and groomed feature backlog for the Enterprise platform in JIRA.</p>\n\n<p>The scrum master actively participates in Sprint Planning meetings and understand progress made by the engineering team(s) since the previous meeting.</p>\n\n<p>The key skills we are seeking for this position are:</p>\n\n<ul>\n<li>Strong Scrum and Agile Training.</li>\n<li>Organizational Skills.</li>\n<li>Technical Familiarity.</li>\n<li>Teaching and Coaching Abilities.</li>\n<li>Conflict Facilitation.</li>\n<li>Servant Leader.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Quality Assurance",
+        "Kanban",
+        "SCRUM",
+        "Jira",
+        "Agile",
+        "Confluence",
+        "Technical documentation"
+      ],
+      "payment": {
+        "salary": "£35k – £65k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/dominic-hill",
+        "name": "Dominic Hill",
+        "avatar": "https://photos.angel.co/users/5058500-medium_jpg?1478941435"
+      },
+      "refs": {
+        "angelListId": "528970",
+        "angelListUrl": "https://angel.co/company/atelier-technology/jobs/528970-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "UX Researcher",
+      "description": "The Role\n\nWe have an immediate opportunity for a UX Researcher to join our UX Design Team. \n\nWorking as the first UX Researcher in a cross functional team, you will be responsible for the user research for our product. You’ll work closely with your UX Design, Product and Engineering colleagues to understand the needs of our users and deliver actionable insights that help solve their business problems.\n\n\nAbout You:\n\n* You are an expert in framing problems from the users perspective\n* You can measure both qualitative and quantitative data and provide actionable insight on our users  \n* You can communicate research insights through compelling presentations \n* You can work independently but enjoy collaborating with a team \n\n\nAbout Us:\n\nAtelier is a fast paced SaaS start-up solving big problems for a complex industry. Our enterprise platform is democratising the global jewellery supply chain, promoting environmental and ethical practices through digitisation and transparency. \n\nThere aren’t many opportunities left to disrupt an industry. It’s challenging, but highly rewarding, work.\n\n\nYou Will:\n\n* Organise, manage and moderate live and remote user tests and handle recruitment of users\n* Deliver meaningful, actionable insights to stakeholders in good time\n* Create and manage a research library to store and retrieve the outputs of user research and associated research materials\n* Help set-up, define and measure quantitative data through Google Analytics, Hotjar and other systems you can provide a strong business case for\n* Be the voice of the user on your team, ensuring that the products we deliver solve the right problems for our users in the right way\n* Develop personas, journey maps and other visualisation methods you feel are valuable\n* Work with peers cross-functionally and mentor team members \n\n\nYou Have:\n\n* 5+ years of usability experience and research\n* A portfolio that showcases your capabilities inUX Research\n* The ability to work independently and as part of a team\n* Experience working remotely (if you are looking for a remote position)\n* Strong written and verbal communication skills and presentation skills\n\n\nAdded bonus:\n\n* Experience working with design systems, design sprints and user interface processes and methodology (although this isn’t a UI/UX design role)\n* Experience working in SaaS and start-up environments\n \n\nLogistics:\n\n* Full Time \n* Situated in our London office, remote or a mixture of the two\n* Travel: Estimated at <10%\n* Salary: Dependant on experience",
+      "descriptionHtml": "<p>The Role</p>\n\n<p>We have an immediate opportunity for a UX Researcher to join our UX Design Team. </p>\n\n<p>Working as the first UX Researcher in a cross functional team, you will be responsible for the user research for our product. You’ll work closely with your UX Design, Product and Engineering colleagues to understand the needs of our users and deliver actionable insights that help solve their business problems.</p>\n\n<p>About You:</p>\n\n<ul>\n<li>You are an expert in framing problems from the users perspective</li>\n<li>You can measure both qualitative and quantitative data and provide actionable insight on our users<br></li>\n<li>You can communicate research insights through compelling presentations </li>\n<li>You can work independently but enjoy collaborating with a team </li>\n</ul>\n\n<p>About Us:</p>\n\n<p>Atelier is a fast paced SaaS start-up solving big problems for a complex industry. Our enterprise platform is democratising the global jewellery supply chain, promoting environmental and ethical practices through digitisation and transparency. </p>\n\n<p>There aren’t many opportunities left to disrupt an industry. It’s challenging, but highly rewarding, work.</p>\n\n<p>You Will:</p>\n\n<ul>\n<li>Organise, manage and moderate live and remote user tests and handle recruitment of users</li>\n<li>Deliver meaningful, actionable insights to stakeholders in good time</li>\n<li>Create and manage a research library to store and retrieve the outputs of user research and associated research materials</li>\n<li>Help set-up, define and measure quantitative data through Google Analytics, Hotjar and other systems you can provide a strong business case for</li>\n<li>Be the voice of the user on your team, ensuring that the products we deliver solve the right problems for our users in the right way</li>\n<li>Develop personas, journey maps and other visualisation methods you feel are valuable</li>\n<li>Work with peers cross-functionally and mentor team members </li>\n</ul>\n\n<p>You Have:</p>\n\n<ul>\n<li>5+ years of usability experience and research</li>\n<li>A portfolio that showcases your capabilities inUX Research</li>\n<li>The ability to work independently and as part of a team</li>\n<li>Experience working remotely (if you are looking for a remote position)</li>\n<li>Strong written and verbal communication skills and presentation skills</li>\n</ul>\n\n<p>Added bonus:</p>\n\n<ul>\n<li>Experience working with design systems, design sprints and user interface processes and methodology (although this isn’t a UI/UX design role)</li>\n<li>Experience working in SaaS and start-up environments</li>\n</ul>\n\n<p>Logistics:</p>\n\n<ul>\n<li>Full Time </li>\n<li>Situated in our London office, remote or a mixture of the two</li>\n<li>Travel: Estimated at &lt;10%</li>\n<li>Salary: Dependant on experience</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe"
+      ],
+      "skills": [
+        "User Research",
+        "Google Analytics"
+      ],
+      "payment": {
+        "salary": "£35k – £40k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/julian_james",
+        "name": "Julian James",
+        "avatar": "https://photos.angel.co/users/4206118-medium_jpg?1580726711"
+      },
+      "refs": {
+        "angelListId": "710776",
+        "angelListUrl": "https://angel.co/company/atelier-technology/jobs/710776-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior C# Developer",
+      "description": "**Purpose of the Role\n**\n\nThe Senior C# Developer role is to deliver features that provide value for Atelier Technology Limited and its Clients. Using your 8+ years of experience in developing complex software solutions you will use and evangalise both best practices and new technologies. You live / breath agile development, SOLID principles and team focused development. You understand and can discuss complex requirements, making suggestions and pro-actively tacking scale and size issues. \n\n**A Typical Day\n**\n\nYou arrive at the office and check in with team in daily standup. You then move forward with the days development with the team.  You plan and strategise the architecture and implementation for new features.  You complete your new task and create a pull request for review. You present your change during the review and once accepted merge it into the codebase. You might mentor or help to answer any questions that junior developers have throughout the day and make suggestions regarding areas for personal growth.\n\n**Responsibilities**\n\nSoftware Development\n\nConvert requirements into functioning code utilising best practices and  company standards.\n\nProduce clean, readable, SOLID code.\n\nProduce automated tests to cover code developed.\n\nEnsure that code delivers on non-functional requirements.\n\nContinuous Improvement\tSeek and identify opportunities to improve the code within our systems.\n\nReviewing code for issues and identifying improvements.\n\nMentoring junior developers.\n\n**Skills & Experience\n**\n\nQualifications\tComputer Science or IT 3 year degree is desirable.\n\nProfessional Experience\t5+ years of software development experience covering.NET is essential.\n\nEssential skills:\n●\tC#\n●\t.NET Framework 4.5+/.NET Core 2+\n●\tSQL\n●\tASP .NET MVC & WebAPI\n●\tAngular 4+\n●\tEntity Framewrok\n●\tMySQL\n●\tSOLID\n●\tTest Driven Development\n●\tEvent Sourcing\n●\tMessaging\nPersonal Profile\nSelf-Starter\tYou take the initiative and do not wait to be told to act.\n\nGood Communicator\tYou have worked with distributed teams before and can maintain an appropriate level of communication to ensure trust and confidence in your work.\n\nYou enjoy discussing requirements, the agile process and showing off your work. \n\nKnowledge Seeker\tYou stay abreast of industry trends and keep your skills current.\n\nAdaptable\tYou are pragmatic and can work in a changeable environment, however you do not blindly accept changes without questioning.",
+      "descriptionHtml": "<p>*<em>Purpose of the Role<br>\n*</em></p>\n\n<p>The Senior C# Developer role is to deliver features that provide value for Atelier Technology Limited and its Clients. Using your 8+ years of experience in developing complex software solutions you will use and evangalise both best practices and new technologies. You live / breath agile development, SOLID principles and team focused development. You understand and can discuss complex requirements, making suggestions and pro-actively tacking scale and size issues. </p>\n\n<p>*<em>A Typical Day<br>\n*</em></p>\n\n<p>You arrive at the office and check in with team in daily standup. You then move forward with the days development with the team.  You plan and strategise the architecture and implementation for new features.  You complete your new task and create a pull request for review. You present your change during the review and once accepted merge it into the codebase. You might mentor or help to answer any questions that junior developers have throughout the day and make suggestions regarding areas for personal growth.</p>\n\n<p><strong>Responsibilities</strong></p>\n\n<p>Software Development</p>\n\n<p>Convert requirements into functioning code utilising best practices and  company standards.</p>\n\n<p>Produce clean, readable, SOLID code.</p>\n\n<p>Produce automated tests to cover code developed.</p>\n\n<p>Ensure that code delivers on non-functional requirements.</p>\n\n<p>Continuous Improvement  Seek and identify opportunities to improve the code within our systems.</p>\n\n<p>Reviewing code for issues and identifying improvements.</p>\n\n<p>Mentoring junior developers.</p>\n\n<p>*<em>Skills &amp; Experience<br>\n*</em></p>\n\n<p>Qualifications  Computer Science or IT 3 year degree is desirable.</p>\n\n<p>Professional Experience 5+ years of software development experience covering.NET is essential.</p>\n\n<p>Essential skills:<br>\n● C#<br>\n● .NET Framework 4.5+/.NET Core 2+<br>\n● SQL<br>\n● ASP .NET MVC &amp; WebAPI<br>\n● Angular 4+<br>\n● Entity Framewrok<br>\n● MySQL<br>\n● SOLID<br>\n● Test Driven Development<br>\n● Event Sourcing<br>\n● Messaging<br>\nPersonal Profile<br>\nSelf-Starter    You take the initiative and do not wait to be told to act.</p>\n\n<p>Good Communicator   You have worked with distributed teams before and can maintain an appropriate level of communication to ensure trust and confidence in your work.</p>\n\n<p>You enjoy discussing requirements, the agile process and showing off your work. </p>\n\n<p>Knowledge Seeker    You stay abreast of industry trends and keep your skills current.</p>\n\n<p>Adaptable   You are pragmatic and can work in a changeable environment, however you do not blindly accept changes without questioning.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "United Kingdom"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        ".NET Framework C# ASP.NET MVC"
+      ],
+      "payment": {
+        "salary": "£60k – £80k"
+      },
+      "recruiter": {
+        "title": "OPERATIONS",
+        "role": "Employee",
+        "url": "https://angel.co/u/gaspare-mura-1",
+        "name": "Gaspare Mura",
+        "avatar": "https://photos.angel.co/users/4179526-medium_jpg?1581433295"
+      },
+      "refs": {
+        "angelListId": "727509",
+        "angelListUrl": "https://angel.co/company/atelier-technology/jobs/727509-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "Digital Product Designer",
+      "description": "Atelier are looking for an experienced Digital Product Designer to join our Design Team. \n\nWorking in a cross functional team, you will work closely with your UX Researcher, Product and Engineering colleagues to deliver world class solutions for our fast-growing user-base.  \n\n**About Us:**\nAtelier is a fast paced SaaS start-up solving big problems for a complex industry. Our enterprise platform is democratising the global jewellery supply chain, promoting environmental and ethical practices through digitisation and transparency. \n\nThere aren’t many opportunities left to disrupt an industry. It’s challenging, but highly rewarding, work.\n\n**You have:**\n* Solid commercial Product/UI design experience (with a portfolio to back this up)\n* Excellent knowledge of UX\n* Excellent design tool experience (Sketch/Figma/Adobe - We use Figma)\n* Excellent communication and team collaboration skills\n* Ability to lead workshops to brainstorm design solutions and understand stakeholder insights\n* Experience designing across devices (mobile, tablet and desktop)\n* Experience working with (or good understanding of) Design Systems\n* A good knowledge of front end technologies - HTML, CSS, Bootstrap, Angular\n* Experience, ideally, of working remotely\n\n**You will:**\n* Be involved throughout the design process - ideation > sketching > wire-framing > prototyping > user testing > delivery\n* Be an integral part of the product design process, having the opportunity to work on a range of features and products\n* Deliver pixel perfect designs for new features and products as well as iterative designs throughout the product lifecycle\n* Work as part of a tight knit Agile squad\n* Conduct user interviews, surveys, usability studies and other research\n* Understand technical limitations (Responsive, Bootstrap etc) and working with your squad to deliver designs that overcome them\n* Co-manage our design libraries and systems\n\nThis role will suit a down-to-earth, pixel fixated, collaborative UI/UX Designer who has the dynamism to be part of a very driven yet friendly and supportive tech team and is looking for a role in which you can have real impact, design is at the forefront of product development and your voice will be heard.",
+      "descriptionHtml": "<p>Atelier are looking for an experienced Digital Product Designer to join our Design Team. </p>\n\n<p>Working in a cross functional team, you will work closely with your UX Researcher, Product and Engineering colleagues to deliver world class solutions for our fast-growing user-base.  </p>\n\n<p><strong>About Us:</strong><br>\nAtelier is a fast paced SaaS start-up solving big problems for a complex industry. Our enterprise platform is democratising the global jewellery supply chain, promoting environmental and ethical practices through digitisation and transparency. </p>\n\n<p>There aren’t many opportunities left to disrupt an industry. It’s challenging, but highly rewarding, work.</p>\n\n<p><strong>You have:</strong></p>\n\n<ul>\n<li>Solid commercial Product/UI design experience (with a portfolio to back this up)</li>\n<li>Excellent knowledge of UX</li>\n<li>Excellent design tool experience (Sketch/Figma/Adobe - We use Figma)</li>\n<li>Excellent communication and team collaboration skills</li>\n<li>Ability to lead workshops to brainstorm design solutions and understand stakeholder insights</li>\n<li>Experience designing across devices (mobile, tablet and desktop)</li>\n<li>Experience working with (or good understanding of) Design Systems</li>\n<li>A good knowledge of front end technologies - HTML, CSS, Bootstrap, Angular</li>\n<li>Experience, ideally, of working remotely</li>\n</ul>\n\n<p><strong>You will:</strong></p>\n\n<ul>\n<li>Be involved throughout the design process - ideation &gt; sketching &gt; wire-framing &gt; prototyping &gt; user testing &gt; delivery</li>\n<li>Be an integral part of the product design process, having the opportunity to work on a range of features and products</li>\n<li>Deliver pixel perfect designs for new features and products as well as iterative designs throughout the product lifecycle</li>\n<li>Work as part of a tight knit Agile squad</li>\n<li>Conduct user interviews, surveys, usability studies and other research</li>\n<li>Understand technical limitations (Responsive, Bootstrap etc) and working with your squad to deliver designs that overcome them</li>\n<li>Co-manage our design libraries and systems</li>\n</ul>\n\n<p>This role will suit a down-to-earth, pixel fixated, collaborative UI/UX Designer who has the dynamism to be part of a very driven yet friendly and supportive tech team and is looking for a role in which you can have real impact, design is at the forefront of product development and your voice will be heard.</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Nottingham",
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe",
+        "United Kingdom"
+      ],
+      "skills": [
+        "UI/UX Design",
+        "Product Design"
+      ],
+      "payment": {
+        "salary": "£28k – £35k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/julian_james",
+        "name": "Julian James",
+        "avatar": "https://photos.angel.co/users/4206118-medium_jpg?1580726711"
+      },
+      "refs": {
+        "angelListId": "751786",
+        "angelListUrl": "https://angel.co/company/atelier-technology/jobs/751786-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "name": "Uplatz",
+  "avatar": "https://photos.angel.co/startups/i/7249255-c608c6a6eb81b54cdf85eba6eda6006c-medium_jpg.jpg?buster=1570862505",
+  "slogan": "IT Training Provider helping you make a successful IT career",
+  "description": "We provide IT training to students and working professionals across the globe. We also provide SAP and Oracle training to corporate.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://training.uplatz.com/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "San Francisco",
+    "London",
+    "Bengaluru",
+    "Delhi",
+    "Milton Keynes"
+  ],
+  "marketTags": [
+    "Enterprise Software",
+    "Technology",
+    "Training",
+    "Corporate Training"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/indu-khemchandani-1",
+      "name": "Indu Khemchandani",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7249255",
+    "angelListUrl": "https://angel.co/company/uplatz-1"
+  },
+  "jobs": [
+    {
+      "role": "Operations",
+      "title": "SAP FICO Trainer",
+      "description": "An experienced trainer required to deliver comprehensive training on SAP FICO module to a batch of students in a classroom course in London.\nSound knowledge of SAP FICO module is mandatory along with strong communication skills.",
+      "descriptionHtml": "<p>An experienced trainer required to deliver comprehensive training on SAP FICO module to a batch of students in a classroom course in London.<br>\nSound knowledge of SAP FICO module is mandatory along with strong communication skills.</p>\n",
+      "position": "contract",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "SAP FICO",
+        "SAP FI",
+        "SAP Finance",
+        "SAP FICO Consultant"
+      ],
+      "payment": {
+        "salary": "£30k – £50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/indu-khemchandani-1",
+        "name": "Indu Khemchandani",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "643070",
+        "angelListUrl": "https://angel.co/company/uplatz-1/jobs/643070-"
+      }
+    }
+  ]
+}

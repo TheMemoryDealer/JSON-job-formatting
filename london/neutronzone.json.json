@@ -1,0 +1,92 @@
+{
+  "name": "Neutronzone",
+  "avatar": "https://photos.angel.co/startups/i/6814153-a13500cd4aff929e111577aef3b82f28-medium_jpg.jpg?buster=1558287352",
+  "slogan": "Global and Local Ecommerce",
+  "description": "Neutronzone is an online resellers of phone accessories and electronics gadgets, that is rapidly growing. It started operating in UK in May 2018 and sells through its own website and on Amazon.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://neutronzone.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Ecommerce"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/abdul-awobodu",
+      "name": "Abdul Awobodu",
+      "avatar": "https://photos.angel.co/users/8986808-medium_jpg?1551030727",
+      "bioHtml": "Director@Neutronzone"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6814153",
+    "angelListUrl": "https://angel.co/company/neutronzone"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "",
+      "descriptionHtml": "",
+      "position": "cofounder",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Software Engineering"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "1.0% – 5.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/abdul-awobodu",
+        "name": "Abdul Awobodu",
+        "avatar": "https://photos.angel.co/users/8986808-medium_jpg?1551030727"
+      },
+      "refs": {
+        "angelListId": "558119",
+        "angelListUrl": "https://angel.co/company/neutronzone/jobs/558119-"
+      }
+    }
+  ]
+}

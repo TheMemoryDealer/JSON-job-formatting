@@ -1,0 +1,121 @@
+{
+  "name": "Goodgym",
+  "avatar": "https://photos.angel.co/startups/i/641002-6a7823acd86c7787004edd3822b3d802-medium_jpg.jpg?buster=1526378170",
+  "slogan": "We're a community of runners that combines getting fit with doing good",
+  "description": "GoodGym is ambitious and growing social enterprise that helps its members combine exercise with volunteering. Across 57 cities and boroughs its members run to help isolated older people and community projects. It’s shown to reduce isolation, improve community cohesion and to improve wellbeing for all involved. It is frequently cited as a leading social innovation by the government, mainstream press and leading think tanks. \n\nAt our core is a digital platform through which we operate our runs, onboard new members, and manage our work with older people in cities across the UK. Now a registered charity, GoodGym is credited as an important innovation by the government and mainstream press. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.goodgym.org"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.goodgym.org/stories"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/goodgym"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/goodgym"
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Exercise",
+    "Nonprofits"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/ivo-gormley",
+      "name": "Ivo Gormley",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Community Volunteer",
+      "role": "Employee",
+      "url": "https://angel.co/u/jennitzki",
+      "name": "Jenson Rajkumar",
+      "avatar": "https://photos.angel.co/users/6962551-medium_jpg?1506318415",
+      "bioHtml": "Youth Football Coach and Youth Worker | Sport Based Youth and Community Development | Researching the importance and emphasis of Grassroots Football"
+    },
+    {
+      "title": "Community volunteer and befriender",
+      "role": "Employee",
+      "url": "https://angel.co/u/beth-marchant",
+      "name": "Beth Marchant",
+      "avatar": "https://photos.angel.co/users/6764787-medium_jpg?1502137721",
+      "bioHtml": ""
+    },
+    {
+      "title": "CTO",
+      "role": "Employee",
+      "url": "https://angel.co/u/metade",
+      "name": "Patrick Sinclair",
+      "avatar": "https://photos.angel.co/users/74064-medium_jpg?1473752455",
+      "bioHtml": "Currently CTO at GoodGym, working on a volunteering platform that has enabled 200,000 good deeds. Previously Technical Lead at Wonderly, and before that at BBC."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "641002",
+    "angelListUrl": "https://angel.co/company/goodgym"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "Technical Lead/CTO",
+      "description": "GoodGym is seeking a technical lead/CTO to lead the work on our platform. This is a pivotal role in our central team and your work will have significant social impact on a national scale.\n\n**About GoodGym**\nGoodGym is a multi-award-winning social enterprise that connects exercise with volunteering. It is powered by a digital volunteering platform that enables runners and walkers to connect with tasks that benefit their communities. Across 58 cities and boroughs GoodGym members run to help isolated older people and community projects. It’s shown to reduce isolation, improve community cohesion and to improve wellbeing for all involved. It is frequently cited as a leading social innovation by the government, mainstream press and leading think tanks. GoodGym’s impact and activity continues to grow and in this role you will play an important part in increasing our impact.\n\n**About the Role**\nGoodGym's digital volunteering platform enables all of our operations including onboarding new members, opportunity listing, communications and managing our work with older people.\n\nOur central team of 14 people is based in central London and we have a part time employee in each city in which we operate. You will work closely with the senior leadership team on the GoodGym business strategy, including the CEO, the Head of Business Development, the Head of Operations, and the Head of Strategy.\n\nYou will manage a team consisting of a web developer and a UX designer. You will be replacing our experienced CTO who has moved back to Portugal and is now seeking to work locally. In this role you will work with other members of the team to develop features and improve the user experience for our users, which include our volunteers, the trainers who run our sessions, our operations team, referral partners that submit tasks, and the older people who we help.\n\nThe platform is a Ruby on Rails web application hosted on Heroku, using Postgres, Redis (Sidekiq), and Memcache. Our code is hosted on Github, we use Travis for CI, and tools such as CodeClimate, BugSnag and ScoutApp.\n\n**Responsibilities**\n- You will own the software development process from start to finish, working closely with the senior leadership team on the GoodGym strategy\n- You will be responsible for defining, implementing, documenting, and maintaining features on our platform\n- You will line manage the GoodGym technical team, which includes a UX designer and a web developer\n- You will be responsible for operating our systems and keeping the platform reliable, up to date and secure\n- You will be responsible for managing business processes relevant to the volunteering website, such as privacy and GDPR\n- You will help define and monitor KPIs to assess performance across the organisation\n\n**Essential skills and experience**\n- You must have web programming skills, and ideally experience designing, developing and maintaining Ruby on Rails production web applications.\n- You have excellent communication skills and are able to work alongside people of all technical abilities\n- You believe in using automated tests for maintaining projects, and ideally have experience with test driven development\n- You are self-motivated and have a proactive mindset\n\n**Further details**\n- £50k - £55k depending on experience.\n- Office located in Somerset House, Strand, London, but we can be flexible on location within the UK.\n- Flexible working hours including working from home.\n- Family-friendly policy.\n- Big social impact and dedicated team.\n- 33 days paid holiday including bank holidays.\n- Personal development days to broaden skills and build experience.\n\n**Applying for the role**\nPlease send your CV and cover letter to: jobs@goodgym.org\n\nSchedule: Applications will close midnight Sunday 5th April.\n\n*We are an equal opportunity employer and value diversity as an organisation. We particularly welcome applications from women and BAME applicants in order to better represent the communities we operate in. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital or disability status.*\n\n*The information collected during our recruitment process is only used for monitoring purposes to assist us in analysing the profile and make up of individuals who apply, are shortlisted for and appointed to each vacancy. In this way, we can check we are complying with the Equality Act 2010 and with our own Equality Opportunities and Diversity policy.*",
+      "descriptionHtml": "<p>GoodGym is seeking a technical lead/CTO to lead the work on our platform. This is a pivotal role in our central team and your work will have significant social impact on a national scale.</p>\n\n<p><strong>About GoodGym</strong><br>\nGoodGym is a multi-award-winning social enterprise that connects exercise with volunteering. It is powered by a digital volunteering platform that enables runners and walkers to connect with tasks that benefit their communities. Across 58 cities and boroughs GoodGym members run to help isolated older people and community projects. It’s shown to reduce isolation, improve community cohesion and to improve wellbeing for all involved. It is frequently cited as a leading social innovation by the government, mainstream press and leading think tanks. GoodGym’s impact and activity continues to grow and in this role you will play an important part in increasing our impact.</p>\n\n<p><strong>About the Role</strong><br>\nGoodGym&#39;s digital volunteering platform enables all of our operations including onboarding new members, opportunity listing, communications and managing our work with older people.</p>\n\n<p>Our central team of 14 people is based in central London and we have a part time employee in each city in which we operate. You will work closely with the senior leadership team on the GoodGym business strategy, including the CEO, the Head of Business Development, the Head of Operations, and the Head of Strategy.</p>\n\n<p>You will manage a team consisting of a web developer and a UX designer. You will be replacing our experienced CTO who has moved back to Portugal and is now seeking to work locally. In this role you will work with other members of the team to develop features and improve the user experience for our users, which include our volunteers, the trainers who run our sessions, our operations team, referral partners that submit tasks, and the older people who we help.</p>\n\n<p>The platform is a Ruby on Rails web application hosted on Heroku, using Postgres, Redis (Sidekiq), and Memcache. Our code is hosted on Github, we use Travis for CI, and tools such as CodeClimate, BugSnag and ScoutApp.</p>\n\n<p><strong>Responsibilities</strong></p>\n\n<ul>\n<li>You will own the software development process from start to finish, working closely with the senior leadership team on the GoodGym strategy</li>\n<li>You will be responsible for defining, implementing, documenting, and maintaining features on our platform</li>\n<li>You will line manage the GoodGym technical team, which includes a UX designer and a web developer</li>\n<li>You will be responsible for operating our systems and keeping the platform reliable, up to date and secure</li>\n<li>You will be responsible for managing business processes relevant to the volunteering website, such as privacy and GDPR</li>\n<li>You will help define and monitor KPIs to assess performance across the organisation</li>\n</ul>\n\n<p><strong>Essential skills and experience</strong></p>\n\n<ul>\n<li>You must have web programming skills, and ideally experience designing, developing and maintaining Ruby on Rails production web applications.</li>\n<li>You have excellent communication skills and are able to work alongside people of all technical abilities</li>\n<li>You believe in using automated tests for maintaining projects, and ideally have experience with test driven development</li>\n<li>You are self-motivated and have a proactive mindset</li>\n</ul>\n\n<p><strong>Further details</strong></p>\n\n<ul>\n<li>£50k - £55k depending on experience.</li>\n<li>Office located in Somerset House, Strand, London, but we can be flexible on location within the UK.</li>\n<li>Flexible working hours including working from home.</li>\n<li>Family-friendly policy.</li>\n<li>Big social impact and dedicated team.</li>\n<li>33 days paid holiday including bank holidays.</li>\n<li>Personal development days to broaden skills and build experience.</li>\n</ul>\n\n<p><strong>Applying for the role</strong><br>\nPlease send your CV and cover letter to: <a href=\"mailto:jobs@goodgym.org\" target=\"_blank\" rel=\"nofollow\">jobs@goodgym.org</a></p>\n\n<p>Schedule: Applications will close midnight Sunday 5th April.</p>\n\n<p><em>We are an equal opportunity employer and value diversity as an organisation. We particularly welcome applications from women and BAME applicants in order to better represent the communities we operate in. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital or disability status.</em></p>\n\n<p><em>The information collected during our recruitment process is only used for monitoring purposes to assist us in analysing the profile and make up of individuals who apply, are shortlisted for and appointed to each vacancy. In this way, we can check we are complying with the Equality Act 2010 and with our own Equality Opportunities and Diversity policy.</em></p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "United Kingdom"
+      ],
+      "skills": [
+        "Software Architecture",
+        "Test Driven Development",
+        "Agile",
+        "Ruby on Rails"
+      ],
+      "payment": {
+        "salary": "£50k – £55k"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/metade",
+        "name": "Patrick Sinclair",
+        "avatar": "https://photos.angel.co/users/74064-medium_jpg?1473752455"
+      },
+      "refs": {
+        "angelListId": "753140",
+        "angelListUrl": "https://angel.co/company/goodgym/jobs/753140-"
+      }
+    }
+  ]
+}

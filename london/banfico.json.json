@@ -1,0 +1,98 @@
+{
+  "name": "Banfico",
+  "avatar": "https://photos.angel.co/startups/i/7274226-63663895544e3ff9f4eb07c83984adeb-medium_jpg.jpg?buster=1571941503",
+  "slogan": "Open Banking Enablers",
+  "description": "Open Banking Compliance and Regtech products for banks to meet their obligation towards PSD2 / Open Banking regulation. We are also building fintech products to make smaller banks compete against big banks.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.banfico.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London",
+    "Mumbai"
+  ],
+  "marketTags": [
+    "Banking",
+    "Fin Tech"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/kannan-rasappan",
+      "name": "Kannan Rasappan",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7274226",
+    "angelListUrl": "https://angel.co/company/banfico"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "DevOps Engineer for Open Banking Startup",
+      "description": "IMMEDIATE START\n\nJob Type: Permanent (upto £75,000)\nLocation: Level39.co, Canary Wharf, London\n\n\nOpen Banking or API Banking will revolutionise consumer banking experience in future. We specialise in such Open Banking solutions. With new client orders, we would like to add devops engineer to our team. This is great opportunity for someone to break into banking.\n\n\nRoles & Responsibilities\n\n- Proactive & good communicator\n- Handle all aspects of CI & CD\n- Work alongside with client's integration team\n- Deliver results within an Agile environment\n- Demonstrate knowledge of modern devops practice\n\n\nTechnical Skills\n\n- Strong Unix Administration - Redhat / Centos / Ubuntu\n- Ansible\n- Terraform\n- AWS/Azure/GCP\n- Docker & Kubernetes\n- Bash and Python Scripting\n- Build automation - Gitlab / Jenkins / Teamcity\n- Git\n- Deployment of Java and NodeJS applications\n- HAProxy, NGINX\n- Elastic.io / ELK stack\n\n\nAbout Banfico:\nBanfico is prominent player in Open Banking domain. We are primarily technocrats from banks who help banks to comply & compete in new era of OpenBanking/PSD2 regulation. Our team are part of standards publishing body in Europe & also part of various working groups. We are growing steadily with uptake of new banking clients. We are based in London financial hub - Canary Wharf, London. Come & be part of Open Banking Revolution.",
+      "descriptionHtml": "<p>IMMEDIATE START</p>\n\n<p>Job Type: Permanent (upto £75,000)<br>\nLocation: Level39.co, Canary Wharf, London</p>\n\n<p>Open Banking or API Banking will revolutionise consumer banking experience in future. We specialise in such Open Banking solutions. With new client orders, we would like to add devops engineer to our team. This is great opportunity for someone to break into banking.</p>\n\n<p>Roles &amp; Responsibilities</p>\n\n<ul>\n<li>Proactive &amp; good communicator</li>\n<li>Handle all aspects of CI &amp; CD</li>\n<li>Work alongside with client&#39;s integration team</li>\n<li>Deliver results within an Agile environment</li>\n<li>Demonstrate knowledge of modern devops practice</li>\n</ul>\n\n<p>Technical Skills</p>\n\n<ul>\n<li>Strong Unix Administration - Redhat / Centos / Ubuntu</li>\n<li>Ansible</li>\n<li>Terraform</li>\n<li>AWS/Azure/GCP</li>\n<li>Docker &amp; Kubernetes</li>\n<li>Bash and Python Scripting</li>\n<li>Build automation - Gitlab / Jenkins / Teamcity</li>\n<li>Git</li>\n<li>Deployment of Java and NodeJS applications</li>\n<li>HAProxy, NGINX</li>\n<li>Elastic.io / ELK stack</li>\n</ul>\n\n<p>About Banfico:<br>\nBanfico is prominent player in Open Banking domain. We are primarily technocrats from banks who help banks to comply &amp; compete in new era of OpenBanking/PSD2 regulation. Our team are part of standards publishing body in Europe &amp; also part of various working groups. We are growing steadily with uptake of new banking clients. We are based in London financial hub - Canary Wharf, London. Come &amp; be part of Open Banking Revolution.</p>\n",
+      "position": "full-time",
+      "experience": 8,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "HAProxy",
+        "Ansible",
+        "Kubernetes",
+        "Terraform",
+        "ELK Stack",
+        "ElasticSearch logstash kibana"
+      ],
+      "payment": {
+        "salary": "£65k – £75k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/kannan-rasappan",
+        "name": "Kannan Rasappan",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "650510",
+        "angelListUrl": "https://angel.co/company/banfico/jobs/650510-"
+      }
+    }
+  ]
+}

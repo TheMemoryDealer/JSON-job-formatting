@@ -1,0 +1,849 @@
+{
+  "name": "Beamery",
+  "avatar": "https://photos.angel.co/startups/i/752973-3a9cb6cb47a213950c35a4b51538ffd4-medium_jpg.jpg?buster=1574271993",
+  "slogan": "Recruitment CRM & Marketing Software",
+  "description": "Beamery is the leading Talent Operating System, consolidating Talent CRM, Marketing, Compliance Automation & Management, and a Connected integration layer on one unified platform. It enables enterprises to attract, identify and engage candidates at scale. \n\nBeamery's mission is to help the world's best companies acquire their greatest assets: their people. Founded in 2014, Beamery is trusted by the world's most innovative global organizations to treat their candidates like customers. \n\nBeamery has offices in London, Austin, and San Francisco.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.beamery.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://beamery.com/blog"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/beameryhq"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/beameryhq"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/beamery"
+    },
+    {
+      "type": "productHunt",
+      "url": "https://www.producthunt.com/posts/beamery"
+    }
+  ],
+  "locations": [
+    "London",
+    "Austin",
+    "San Francisco"
+  ],
+  "marketTags": [
+    "Recruiting",
+    "SaaS",
+    "Enterprise Software"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 40000000,
+    "rounds": [
+      {
+        "type": "Series B",
+        "closedAt": 1529452800,
+        "valuation": 0
+      },
+      {
+        "type": "Series A",
+        "closedAt": 1491868800,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1466121600,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/michael-paterson",
+      "name": "Michael Paterson",
+      "avatar": "https://photos.angel.co/users/374170-medium_jpg?1463601598",
+      "bioHtml": "<a href=\"https://angel.co/company/beamery\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Beamery</span></a> Co-Founder and CTO\n<a href=\"https://angel.co/company/seed-7\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Seed - now https://angel.co/beamery</span></a>  Co-Founder\n<a href=\"https://angel.co/company/morgan-stanley\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Morgan Stanley</span></a>  Credit Sales \n<a href=\"https://angel.co/university-of-bristol\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Bristol</span></a> Electrical Engineering"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/sultan-murad-saidov",
+      "name": "Sultan Murad Saidov",
+      "avatar": "https://photos.angel.co/users/374171-medium_jpg?1405622046",
+      "bioHtml": " <a href=\"https://angel.co/company/beamery\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Beamery</span></a>  Co-Founder and President \n <a href=\"https://angel.co/company/seed-7\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Seed - now https://angel.co/beamery</span></a> Founder and CPO\n <a href=\"https://angel.co/company/goldman-sachs\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Goldman Sachs</span></a> Commodities e-Trading\n <a href=\"https://angel.co/university-of-oxford-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Oxford</span></a> MA PPE"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/abakar",
+      "name": "Abakar Saidov",
+      "avatar": "https://photos.angel.co/users/373689-medium_jpg?1436193368",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/seed-7\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Seed - now https://angel.co/beamery</span></a>  Worked at <a href=\"https://angel.co/company/goldman-sachs\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Goldman Sachs</span></a>, <a href=\"https://angel.co/company/francisco-partners\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Francisco Partners</span></a> "
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/kim-elliott-jones-3",
+      "name": "Kim Elliott-Jones",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at Beamery"
+    },
+    {
+      "title": "Software engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/marina-sideri",
+      "name": "Marina Sideri",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at Beamery"
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/j-iqbal",
+      "name": "J Iqbal",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Former Red Cross delegate (Afghanistan, Iran, Iraq etc.), former ThoughtWorks consultant, current DevOps lead at Beamery"
+    }
+  ],
+  "perks": [
+    {
+      "category": "healthcare",
+      "title": "Private Healthcare"
+    },
+    {
+      "category": "equity",
+      "title": "Share Options plan (we want everyone to be an owner)"
+    },
+    {
+      "category": "wellness",
+      "title": "Discounted Gym Membership"
+    },
+    {
+      "category": "generous_vacation",
+      "title": "Unlimited Holidays"
+    },
+    {
+      "category": "retirement",
+      "title": "Pension"
+    },
+    {
+      "category": "company_events",
+      "title": "Annual Offsites, regular team/company events (the fun stuff)"
+    },
+    {
+      "category": "company_meals",
+      "title": "Breakfast, Fruit, Healthy snacks & a barista making great coffee"
+    }
+  ],
+  "refs": {
+    "angelListId": "752973",
+    "angelListUrl": "https://angel.co/company/beamery"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Back-End QA Engineer",
+      "description": "We are looking for an QA Engineer to join our team. You will be the sort of person that has worked previously as a QA Automation Tester and who wants to join an innovative culture, implementing bleeding edge test technology at a global scale. \n\nHaving a thirst for delivering thorough and reliable testing at speed should be ingrained into you. Battle scars of your experience in the form of testing anecdotes and personal projects will fit you right into this team of veterans.\n\nWhat skills you’ll bring:\n\nBack-End Testing\n\n- API Testing\n- Micro-service Testing : Desirable\n- Performanance/Load Testing : Desirable\n- Back-End Security Testing : Desirable\n\nQA Skills\n\n- Back-End Testing Best Practice\n- TDD/BDD\n- Building Pyramids (Egyptian, Aztec/Mayan or Test)\n\nCoding\n- Automated Test Writing\n- General Coding Skills in at least one major language (Ideally Javascript, Node JS or Go)\n- CI/CD experience and understanding\n\nWhat responsibilities you'll have:\n- Own and Manage the Automation Infrastructure and capabilities for our Back-End Apps and APIs \n- Provide Training and Subject Matter Test Expertise for delivery of Test Automation \n- Contribute to the Test and General QA processes within the wider Enterprise\n\nWhat you’ll be capable of:\n- Ability to initiate and deliver test automation of web applications, APIs and Back-Ends \n- Enthusiasm around QA and Testing and a keen desire to get other people involved. \n- A sense of ownership across platforms and environments.\n- Tools: The more of these the better\n- Test Frameworks: Jasmine, Mocha, Selenium\n- API Test Frameworks : Postman, Frisby\n- Build Systems: Jenkins, Ansible\n- Source Control: Github, Bamboo\n- Logging Systems: Datadog, Kibana\n- Technologies: Again more is better\n- Web\n- Unix/Linux\n- Cloud Systems (AWS, GC, MS Azure)\n- Containers (Docker, Kubernetes)\n- Databases: MongoDB, Cassandra, Redis\n\nBenefits:\n\n- Ownership. Everyone gets stock options. \n- Learning. Dedicated learning time every week, with budgets for resources, books and conferences \n- Wellness. Gym discounts, coffee and whatever you need to keep you at your best [Insert other generic startup perks]. Yes we have those... but what's more important are the three points above. A team that gets shit done, and has more fun doing it. More than any ping pong tournament (although we do get competitive at that too)",
+      "descriptionHtml": "<p>We are looking for an QA Engineer to join our team. You will be the sort of person that has worked previously as a QA Automation Tester and who wants to join an innovative culture, implementing bleeding edge test technology at a global scale. </p>\n\n<p>Having a thirst for delivering thorough and reliable testing at speed should be ingrained into you. Battle scars of your experience in the form of testing anecdotes and personal projects will fit you right into this team of veterans.</p>\n\n<p>What skills you’ll bring:</p>\n\n<p>Back-End Testing</p>\n\n<ul>\n<li>API Testing</li>\n<li>Micro-service Testing : Desirable</li>\n<li>Performanance/Load Testing : Desirable</li>\n<li>Back-End Security Testing : Desirable</li>\n</ul>\n\n<p>QA Skills</p>\n\n<ul>\n<li>Back-End Testing Best Practice</li>\n<li>TDD/BDD</li>\n<li>Building Pyramids (Egyptian, Aztec/Mayan or Test)</li>\n</ul>\n\n<p>Coding</p>\n\n<ul>\n<li>Automated Test Writing</li>\n<li>General Coding Skills in at least one major language (Ideally Javascript, Node JS or Go)</li>\n<li>CI/CD experience and understanding</li>\n</ul>\n\n<p>What responsibilities you&#39;ll have:</p>\n\n<ul>\n<li>Own and Manage the Automation Infrastructure and capabilities for our Back-End Apps and APIs </li>\n<li>Provide Training and Subject Matter Test Expertise for delivery of Test Automation </li>\n<li>Contribute to the Test and General QA processes within the wider Enterprise</li>\n</ul>\n\n<p>What you’ll be capable of:</p>\n\n<ul>\n<li>Ability to initiate and deliver test automation of web applications, APIs and Back-Ends </li>\n<li>Enthusiasm around QA and Testing and a keen desire to get other people involved. </li>\n<li>A sense of ownership across platforms and environments.</li>\n<li>Tools: The more of these the better</li>\n<li>Test Frameworks: Jasmine, Mocha, Selenium</li>\n<li>API Test Frameworks : Postman, Frisby</li>\n<li>Build Systems: Jenkins, Ansible</li>\n<li>Source Control: Github, Bamboo</li>\n<li>Logging Systems: Datadog, Kibana</li>\n<li>Technologies: Again more is better</li>\n<li>Web</li>\n<li>Unix/Linux</li>\n<li>Cloud Systems (AWS, GC, MS Azure)</li>\n<li>Containers (Docker, Kubernetes)</li>\n<li>Databases: MongoDB, Cassandra, Redis</li>\n</ul>\n\n<p>Benefits:</p>\n\n<ul>\n<li>Ownership. Everyone gets stock options. </li>\n<li>Learning. Dedicated learning time every week, with budgets for resources, books and conferences </li>\n<li>Wellness. Gym discounts, coffee and whatever you need to keep you at your best [Insert other generic startup perks]. Yes we have those... but what&#39;s more important are the three points above. A team that gets shit done, and has more fun doing it. More than any ping pong tournament (although we do get competitive at that too)</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Back-End Development",
+        "Automated Software Testing",
+        "QA Engineering",
+        "API testing"
+      ],
+      "payment": {
+        "salary": "£45k – £65k",
+        "equity": "0.05% – 0.06%"
+      },
+      "recruiter": {
+        "title": "Senior Technical Recruiter",
+        "role": "Employee",
+        "url": "https://angel.co/u/takveen-bashir-1",
+        "name": "Takveen Bashir",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "416551",
+        "angelListUrl": "https://angel.co/company/beamery/jobs/416551-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Backend QA Engineer",
+      "description": "We are looking for a Backend QA Engineer to join our team. \n\nHaving a thirst for delivering thorough and reliable testing at speed should be ingrained into you. Battle scars of your experience in the form of testing anecdotes and personal projects will fit you right into this team of veterans.\n\nWhat skills you’ll bring:\n\nBack-End Testing\n- API Testing\n- Micro-service Testing : Desirable\n- Performance/Load Testing : Desirable\n- Back-End Security Testing : Desirable\n\nQA Skills\n- Back-End Testing Best Practice\n- TDD/BDD\n- Building Pyramids (Egyptian, Aztec/Mayan or Test)\n\nCoding\n- Automated Test Writing\n- General Coding Skills in at least one major language (Ideally Javascript, Node JS or Go)\n- CI/CD experience and understanding\n\nWhat responsibilities you'll have:\n- Own and Manage the Automation Infrastructure and capabilities for our Back-End Apps and APIs \n- Provide Training and Subject Matter Test Expertise for delivery of Test Automation \n- Contribute to the Test and General QA processes within the wider Enterprise\n\n\nWhat you’ll be capable of:\n- Ability to initiate and deliver test automation of web applications, APIs and Back-Ends \n- Enthusiasm around QA and Testing and a keen desire to get other people involved\n- You have significant experience in SaaS\n- A sense of ownership across platforms and environments\n\nTools:\n- Test Frameworks: Jasmine, Mocha, Selenium\n- API Test Frameworks : Postman, Frisby\n- Build Systems: Jenkins, Ansible\n- Source Control: Github, Bamboo\n- Logging Systems: Datadog, Kibana\n\nTechnologies:\n- Web\n- Unix/Linux\n- Cloud Systems (AWS, GC, MS Azure)\n- Containers (Docker, Kubernetes)\n- Databases: MongoDB, Cassandra, Redis\n\n\nApplications Close: 12 July 2019",
+      "descriptionHtml": "<p>We are looking for a Backend QA Engineer to join our team. </p>\n\n<p>Having a thirst for delivering thorough and reliable testing at speed should be ingrained into you. Battle scars of your experience in the form of testing anecdotes and personal projects will fit you right into this team of veterans.</p>\n\n<p>What skills you’ll bring:</p>\n\n<p>Back-End Testing</p>\n\n<ul>\n<li>API Testing</li>\n<li>Micro-service Testing : Desirable</li>\n<li>Performance/Load Testing : Desirable</li>\n<li>Back-End Security Testing : Desirable</li>\n</ul>\n\n<p>QA Skills</p>\n\n<ul>\n<li>Back-End Testing Best Practice</li>\n<li>TDD/BDD</li>\n<li>Building Pyramids (Egyptian, Aztec/Mayan or Test)</li>\n</ul>\n\n<p>Coding</p>\n\n<ul>\n<li>Automated Test Writing</li>\n<li>General Coding Skills in at least one major language (Ideally Javascript, Node JS or Go)</li>\n<li>CI/CD experience and understanding</li>\n</ul>\n\n<p>What responsibilities you&#39;ll have:</p>\n\n<ul>\n<li>Own and Manage the Automation Infrastructure and capabilities for our Back-End Apps and APIs </li>\n<li>Provide Training and Subject Matter Test Expertise for delivery of Test Automation </li>\n<li>Contribute to the Test and General QA processes within the wider Enterprise</li>\n</ul>\n\n<p>What you’ll be capable of:</p>\n\n<ul>\n<li>Ability to initiate and deliver test automation of web applications, APIs and Back-Ends </li>\n<li>Enthusiasm around QA and Testing and a keen desire to get other people involved</li>\n<li>You have significant experience in SaaS</li>\n<li>A sense of ownership across platforms and environments</li>\n</ul>\n\n<p>Tools:</p>\n\n<ul>\n<li>Test Frameworks: Jasmine, Mocha, Selenium</li>\n<li>API Test Frameworks : Postman, Frisby</li>\n<li>Build Systems: Jenkins, Ansible</li>\n<li>Source Control: Github, Bamboo</li>\n<li>Logging Systems: Datadog, Kibana</li>\n</ul>\n\n<p>Technologies:</p>\n\n<ul>\n<li>Web</li>\n<li>Unix/Linux</li>\n<li>Cloud Systems (AWS, GC, MS Azure)</li>\n<li>Containers (Docker, Kubernetes)</li>\n<li>Databases: MongoDB, Cassandra, Redis</li>\n</ul>\n\n<p>Applications Close: 12 July 2019</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£50k – £70k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/sultan-murad-saidov",
+        "name": "Sultan Murad Saidov",
+        "avatar": "https://photos.angel.co/users/374171-medium_jpg?1405622046"
+      },
+      "refs": {
+        "angelListId": "571773",
+        "angelListUrl": "https://angel.co/company/beamery/jobs/571773-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Data Scientist",
+      "description": " \n\n### **About Beamery**\n\nBeamery is the leading Talent Engagement Platform. We combine tools for every stage of the talent acquisition process, enabling companies to manage the entire candidate lifecycle on one unified platform to deliver better talent acquisition at scale. We believe talent is a company’s greatest asset (including our own), and finding, engaging and retaining that talent starts with building meaningful relationships and delivering exceptional candidate experiences at every stage of the candidate journey.\n\nWe are at a very exciting point in our growth, having emerged as the undisputed leader in the new category of talent operating systems. We’re here because we employ people who are superb at their jobs, and are a reliable, friendly bunch who leave egos out of the equation. We are a team who are about the right solution above everything else. \n\nAt Beamery we aim to create a world-leading data and computational environment to enable large scale experiments that exploit Beamery’s unique access to data. Our focus is on bringing data, analytics & science together into solutions for our clients. An important component of this effort is building a large-scale knowledge base where multimodal information from various structured and unstructured sources can be jointly explored and leveraged.\n\n### **About the Opportunity **\n\nWe are seeking to grow our team with brilliant and diverse contributors with technical ability. We are looking for data scientists and machine learning experts who are excited by challenges in automated knowledge base construction, including information extraction, entity resolution, graph-based embedding/prediction, and search. This role will involve leveraging state-of-the-art models for these tasks, as well as developing new methods to derive actionable data for our clients. This is an exciting role that will stretch your knowledge and curiosity, offering the opportunity to learn new skills and work within a global community.\n\nYou'll extract, analyse and interpret large amounts of data from a range of sources, using algorithmic, data mining, artificial intelligence, machine learning and statistical tools, in order to make it accessible to businesses. You will then present your results using clear and engaging language.\n\nThis is a hands-on position where you will be empowered to be creative, ambitious and bold, to solve novel R&D problems and have the potential to directly impact our clients. We have impressive toolkits and world class data, and we are now looking for talented people to join us.\n\n### **What will you be doing at Beamery?**\n\nAs a Data Scientist, we’d like you to be able to:\n\n- Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.\n- Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques and business strategies.\n- Assess the effectiveness and accuracy of new data sources and data gathering techniques.\n- Develop custom data models and algorithms to apply to data sets.\n- Use predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting and other business outcomes.\n- Develop company A/B testing framework and test model quality.\n- Coordinate with different functional teams to implement models and monitor outcomes.\n- Develop processes and tools to monitor and analyze model performance and data accuracy.\n\n### **What we're looking for**\n\n- 6+ year's work experience in an analytical role involving machine learning techniques, data extraction, analysis, and communication.\n- Proficiency in statistical software packages and functional programming languages such as R, Stata, Matlab, Python, SQL, C++, or Java.\n- Experience in designing and implementing machine learning algorithms tailored to specific business needs and tested on large dataset.\n- Experience in data mining and using databases in a business environment with large-scale, complex datasets.\n- Excellent verbal and written communication skills with the ability to effectively advocate technical solutions to research scientists, engineering teams and business audiences.\n\n### **Benefits**\n\n- **Ownership**. Everyone gets stock options.\n- **Technology**. Top-of-the-line tools and equipment both locally and in the cloud.\n- **Learning**. Dedicated learning time every month, with budgets for resources, books and conferences.\n- **Wellness**. Gym discounts, health insurance, unlimited coffee, beer, and cereal, enhanced maternity and paternity packages, unlimited holiday and flexible working options, pension.\n- **[Insert other generic startup perks]**. Yes we have those… but what’s more important are the four points above. A team that gets things done, and has fun doing it.\n",
+      "descriptionHtml": "<h3><strong>About Beamery</strong></h3>\n<p>Beamery is the leading Talent Engagement Platform. We combine tools for every stage of the talent acquisition process, enabling companies to manage the entire candidate lifecycle on one unified platform to deliver better talent acquisition at scale. We believe talent is a company’s greatest asset (including our own), and finding, engaging and retaining that talent starts with building meaningful relationships and delivering exceptional candidate experiences at every stage of the candidate journey.</p>\n\n<p>We are at a very exciting point in our growth, having emerged as the undisputed leader in the new category of talent operating systems. We’re here because we employ people who are superb at their jobs, and are a reliable, friendly bunch who leave egos out of the equation. We are a team who are about the right solution above everything else. </p>\n\n<p>At Beamery we aim to create a world-leading data and computational environment to enable large scale experiments that exploit Beamery’s unique access to data. Our focus is on bringing data, analytics &amp; science together into solutions for our clients. An important component of this effort is building a large-scale knowledge base where multimodal information from various structured and unstructured sources can be jointly explored and leveraged.</p>\n<h3>*<em>About the Opportunity *</em></h3>\n<p>We are seeking to grow our team with brilliant and diverse contributors with technical ability. We are looking for data scientists and machine learning experts who are excited by challenges in automated knowledge base construction, including information extraction, entity resolution, graph-based embedding/prediction, and search. This role will involve leveraging state-of-the-art models for these tasks, as well as developing new methods to derive actionable data for our clients. This is an exciting role that will stretch your knowledge and curiosity, offering the opportunity to learn new skills and work within a global community.</p>\n\n<p>You&#39;ll extract, analyse and interpret large amounts of data from a range of sources, using algorithmic, data mining, artificial intelligence, machine learning and statistical tools, in order to make it accessible to businesses. You will then present your results using clear and engaging language.</p>\n\n<p>This is a hands-on position where you will be empowered to be creative, ambitious and bold, to solve novel R&amp;D problems and have the potential to directly impact our clients. We have impressive toolkits and world class data, and we are now looking for talented people to join us.</p>\n<h3><strong>What will you be doing at Beamery?</strong></h3>\n<p>As a Data Scientist, we’d like you to be able to:</p>\n\n<ul>\n<li>Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.</li>\n<li>Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques and business strategies.</li>\n<li>Assess the effectiveness and accuracy of new data sources and data gathering techniques.</li>\n<li>Develop custom data models and algorithms to apply to data sets.</li>\n<li>Use predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting and other business outcomes.</li>\n<li>Develop company A/B testing framework and test model quality.</li>\n<li>Coordinate with different functional teams to implement models and monitor outcomes.</li>\n<li>Develop processes and tools to monitor and analyze model performance and data accuracy.</li>\n</ul>\n<h3><strong>What we&#39;re looking for</strong></h3>\n<ul>\n<li>6+ year&#39;s work experience in an analytical role involving machine learning techniques, data extraction, analysis, and communication.</li>\n<li>Proficiency in statistical software packages and functional programming languages such as R, Stata, Matlab, Python, SQL, C++, or Java.</li>\n<li>Experience in designing and implementing machine learning algorithms tailored to specific business needs and tested on large dataset.</li>\n<li>Experience in data mining and using databases in a business environment with large-scale, complex datasets.</li>\n<li>Excellent verbal and written communication skills with the ability to effectively advocate technical solutions to research scientists, engineering teams and business audiences.</li>\n</ul>\n<h3><strong>Benefits</strong></h3>\n<ul>\n<li><strong>Ownership</strong>. Everyone gets stock options.</li>\n<li><strong>Technology</strong>. Top-of-the-line tools and equipment both locally and in the cloud.</li>\n<li><strong>Learning</strong>. Dedicated learning time every month, with budgets for resources, books and conferences.</li>\n<li><strong>Wellness</strong>. Gym discounts, health insurance, unlimited coffee, beer, and cereal, enhanced maternity and paternity packages, unlimited holiday and flexible working options, pension.</li>\n<li><strong>[Insert other generic startup perks]</strong>. Yes we have those… but what’s more important are the four points above. A team that gets things done, and has fun doing it.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/kim-elliott-jones-3",
+        "name": "Kim Elliott-Jones",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "751275",
+        "angelListUrl": "https://angel.co/company/beamery/jobs/751275-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Director, Commercial Operations",
+      "description": " **About Beamery**\n\nWe believe talent is a company’s greatest asset. Finding, engaging and retaining that talent starts with building meaningful relationships and delivering exceptional candidate experiences at every stage of the candidate journey.\n\nBeamery is the leading Talent Engagement Platform. Combining Talent CRM, Talent Marketing, Automated Compliance, and a Connected layer to legacy systems, it enables companies to attract, identify and engage candidates on one unified platform, to deliver better talent acquisition at scale.\n\nAt Beamery we’re powering the shift towards a candidate first Talent Engagement strategy, shifting recruiting from a reactive to a proactive process and empowering talent teams in new areas critical to successful Talent Engagement, from branding, events, and compliance, to forecasting & planning. Our Talent Engagement platform offers a new level of comprehensiveness, consolidating essential modern talent acquisition activities into one system and offering a connected solution that powers the entire candidate journey.\n\n**Responsibilities**\n\n- Build and maintain relationships with all department heads and collaborate to support decisions regarding operational activity, performance goals, and strategic plans\n- Support executive management in the development of budgetary (financial, workforce) plans\n- Assume operational responsibility for interdepartmental processes, such as NOMMS process, reporting and information delivery, business continuity planning, compliance and audit coordination\n- Develop, implement, and monitor key performance metrics that provide visibility into goals, progress, and obstacles for our key initiatives\n- Analyse current operational processes and performance, recommending solutions for interdepartmental improvement when necessary\n- Work closely with other teams to support with integrity and establish and maintain a trusting, inclusive, and productive environment\n\n**Requirements**\n\n- BA/BS degree\n- Minimum 5 years relevant experience and solid understanding of operations\n- Strong analytical ability and able to prioritize multiple projects\n- SFDC expertise and knowledge of enterprise SaaS tools\n- Excellent problem solving, project management, interpersonal and organizational skills\n- SaaS and B2B experience preferred\n- You share our values, and work in accordance with those values.\n",
+      "descriptionHtml": "<p><strong>About Beamery</strong></p>\n\n<p>We believe talent is a company’s greatest asset. Finding, engaging and retaining that talent starts with building meaningful relationships and delivering exceptional candidate experiences at every stage of the candidate journey.</p>\n\n<p>Beamery is the leading Talent Engagement Platform. Combining Talent CRM, Talent Marketing, Automated Compliance, and a Connected layer to legacy systems, it enables companies to attract, identify and engage candidates on one unified platform, to deliver better talent acquisition at scale.</p>\n\n<p>At Beamery we’re powering the shift towards a candidate first Talent Engagement strategy, shifting recruiting from a reactive to a proactive process and empowering talent teams in new areas critical to successful Talent Engagement, from branding, events, and compliance, to forecasting &amp; planning. Our Talent Engagement platform offers a new level of comprehensiveness, consolidating essential modern talent acquisition activities into one system and offering a connected solution that powers the entire candidate journey.</p>\n\n<p><strong>Responsibilities</strong></p>\n\n<ul>\n<li>Build and maintain relationships with all department heads and collaborate to support decisions regarding operational activity, performance goals, and strategic plans</li>\n<li>Support executive management in the development of budgetary (financial, workforce) plans</li>\n<li>Assume operational responsibility for interdepartmental processes, such as NOMMS process, reporting and information delivery, business continuity planning, compliance and audit coordination</li>\n<li>Develop, implement, and monitor key performance metrics that provide visibility into goals, progress, and obstacles for our key initiatives</li>\n<li>Analyse current operational processes and performance, recommending solutions for interdepartmental improvement when necessary</li>\n<li>Work closely with other teams to support with integrity and establish and maintain a trusting, inclusive, and productive environment</li>\n</ul>\n\n<p><strong>Requirements</strong></p>\n\n<ul>\n<li>BA/BS degree</li>\n<li>Minimum 5 years relevant experience and solid understanding of operations</li>\n<li>Strong analytical ability and able to prioritize multiple projects</li>\n<li>SFDC expertise and knowledge of enterprise SaaS tools</li>\n<li>Excellent problem solving, project management, interpersonal and organizational skills</li>\n<li>SaaS and B2B experience preferred</li>\n<li>You share our values, and work in accordance with those values.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Global Recruiting Lead",
+        "role": "Employee",
+        "url": "https://angel.co/u/natasha-lees-2",
+        "name": "Natasha Lees",
+        "avatar": "https://photos.angel.co/users/7334424-medium_jpg?1516202730"
+      },
+      "refs": {
+        "angelListId": "822610",
+        "angelListUrl": "https://angel.co/company/beamery/jobs/822610-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Director, Marketing Operations",
+      "description": "# About Beamery\n\nBeamery’s mission is to help companies acquire their greatest asset; their people. Our Talent Operating System lets companies attract, engage, and retain the best talent - it’s the one solution that enterprises need to deliver exceptional experiences at every stage of the talent journey, and build meaningful relationships with their future employees.\n\nWe employ people who are superb at their jobs and are a reliable, friendly bunch who leave egos out of the equation. We are a team that cares about the right outcome above everything else.\n\n## About the role\n\nWe’re hiring for a new Director, Marketing Operations. This role will build and oversee our operational structure, manage our tech stack, and scale our Marketing programs. Reporting into our VP Marketing and working cross-functionally with our Sales Operations team, this person will identify and drive strategic improvement initiatives and innovation across the Marketing organization.\n\n## What will you be doing?\n\n- Work closely with the Sales Ops and Demand Gen teams to launch and manage campaigns, and ensure an airtight lead process, from inquiries to closed revenue\n- Own the marketing operations roadmap, ensuring marketing technology is evaluated, selected, implemented and customized to meet the needs of the marketing department. \n- Design and implement lead and account scoring and nurturing journeys in Marketo to support GTM process\n- Architect lead management, nurture and routing processing that can scale with the business\n- Own full funnel marketing reporting and dashboards (campaigns, ABM, channels, multi-touch attribution)\n- Test (and then optimize) everything from landing page variations, conversions, email effectiveness, form design, and anything else we produce\n- Administer the marketing budget and ensure marketing costs are tracked correctly.\n- Ensure processes are designed, documented, understood, and followed in a way that minimizes bad or incomplete data.\n- Continually work to simplify systems and processes, avoiding customization bloat and over-engineered processes.\n\n## Who are we looking for?\n\n- 5-10 years hands on Marketing Automation experience, Marketo expertise essential\n- Direct experience in enterprise software industry and SaaS\n- Demonstrated experience designing or working with an innovative marketing technology stack.\n- Experience adapting processes, reporting and technology to fit an ABM model\n- Deep understanding of the integration between Salesforce and Marketo\n- Willingness to collaborate cross functionally to build processes and systems that benefit entire GTM \n- Data obsession. You love numbers, you are obsessed with organization and take pride in never missing a detail\n- A desire to innovate. We’re looking to introduce new strategies and tactics to the team on a regular basis\n- Strong communication of different projects with non-technical stakeholders\n\n \n\n",
+      "descriptionHtml": "<h3>About Beamery</h3>\n<p>Beamery’s mission is to help companies acquire their greatest asset; their people. Our Talent Operating System lets companies attract, engage, and retain the best talent - it’s the one solution that enterprises need to deliver exceptional experiences at every stage of the talent journey, and build meaningful relationships with their future employees.</p>\n\n<p>We employ people who are superb at their jobs and are a reliable, friendly bunch who leave egos out of the equation. We are a team that cares about the right outcome above everything else.</p>\n<h3>About the role</h3>\n<p>We’re hiring for a new Director, Marketing Operations. This role will build and oversee our operational structure, manage our tech stack, and scale our Marketing programs. Reporting into our VP Marketing and working cross-functionally with our Sales Operations team, this person will identify and drive strategic improvement initiatives and innovation across the Marketing organization.</p>\n<h3>What will you be doing?</h3>\n<ul>\n<li>Work closely with the Sales Ops and Demand Gen teams to launch and manage campaigns, and ensure an airtight lead process, from inquiries to closed revenue</li>\n<li>Own the marketing operations roadmap, ensuring marketing technology is evaluated, selected, implemented and customized to meet the needs of the marketing department. </li>\n<li>Design and implement lead and account scoring and nurturing journeys in Marketo to support GTM process</li>\n<li>Architect lead management, nurture and routing processing that can scale with the business</li>\n<li>Own full funnel marketing reporting and dashboards (campaigns, ABM, channels, multi-touch attribution)</li>\n<li>Test (and then optimize) everything from landing page variations, conversions, email effectiveness, form design, and anything else we produce</li>\n<li>Administer the marketing budget and ensure marketing costs are tracked correctly.</li>\n<li>Ensure processes are designed, documented, understood, and followed in a way that minimizes bad or incomplete data.</li>\n<li>Continually work to simplify systems and processes, avoiding customization bloat and over-engineered processes.</li>\n</ul>\n<h3>Who are we looking for?</h3>\n<ul>\n<li>5-10 years hands on Marketing Automation experience, Marketo expertise essential</li>\n<li>Direct experience in enterprise software industry and SaaS</li>\n<li>Demonstrated experience designing or working with an innovative marketing technology stack.</li>\n<li>Experience adapting processes, reporting and technology to fit an ABM model</li>\n<li>Deep understanding of the integration between Salesforce and Marketo</li>\n<li>Willingness to collaborate cross functionally to build processes and systems that benefit entire GTM </li>\n<li>Data obsession. You love numbers, you are obsessed with organization and take pride in never missing a detail</li>\n<li>A desire to innovate. We’re looking to introduce new strategies and tactics to the team on a regular basis</li>\n<li>Strong communication of different projects with non-technical stakeholders</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Marketing Management",
+        "Marketo Certified Expert"
+      ],
+      "payment": {
+        "salary": "£90k – £105k",
+        "equity": "0.03% – 0.03%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/danielle-weitzman-2",
+        "name": "Danielle Weitzman",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "565193",
+        "angelListUrl": "https://angel.co/company/beamery/jobs/565193-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Engagement Manager",
+      "description": "**About Beamery\n**\nBeamery’s mission is to help companies acquire their greatest asset; their people. Our Talent Operating System lets companies attract, engage, and retain the best talent - it’s the one solution that enterprises need to deliver exceptional experiences at every stage of the talent journey, and build meaningful relationships with their future employees.\n\nWe employ people who are superb at their jobs and are a reliable, friendly bunch who leave egos out of the equation. We are a team that cares about the right outcome above everything else.\n \n**About the Opportunity **\n\nThe Engagement Manager will be responsible for ensuring the successful deliverables (e.g., charter, project/staffing plan, issue logs, etc.) and work with the customer project manager to resolve issues that stand in the way of project success. The Engagement Manager will also be responsible for managing to the agreed to budget and delivering the project profitably.\n\n**What will you be doing at Beamery?**\n\nBecome an expert in Beamery’s Implementation Methodology and leverage it on all engagements. \nManage the implementation of simultaneous customer projects. \nDemonstrate competency in the Beamery product suite.\nParticipate in the sales cycle when requested to gather requirements, formulate delivery approach and develop a proposal/SOW. \nProvide guidance and mentoring to those Professional Service resources working on your implementations. \nEnsure projects are properly planned and staffed. \nWork with the customer project manager to identify and resolve all issues that could impact project scope and/or timeframes. \nWork across Beamery teams, including solutions delivery, customer success, enablement, product and engineering to ensure on time, high quality, profitable customer deployments. \nEnsure the customer takes advantage of Beamery best practices. \nIdentify opportunities to position other service offerings. \nEnsure the customer can serve as a reference upon completing their implementation. \nAssist in the transition of the customer from professional services to Customer Support & Success. \nEnsure the project is delivered within the budget outlined in the SOW. \nPresent customer with change orders in the event they're asking Beamery to perform tasks that are outside the scope of the SOW. \nWho are we looking for? \n\n**What are we looking for?**\n\n3+ years experience project managing HCM or related software within large enterprise customers. \nConsulting experience either as an internal consultant or with a consulting/software company. \nWorking knowledge of Human Resources or Talent Acquisition domains. \nProject Management experience working across cross-functional teams, including solutions delivery within professional services, product and engineering, and third party consultants.\nExcellent organization, time management, and communication skills. \nPassion for customer service and the customer experience. \nA growth mindset - the ability to identify where to propose new solutions to achieve long-term business value for the customer and Beamery. \nPrevious experience with a major systems integrator and/or an enterprise software company a plus. \nPrevious service sales experience a plus. Successful candidates have a balance of functional (business) and technical experience. \nAbility to travel up to 30%\n\n**Benefits/Perks**\nUnlimited PTO\nFlexible work options\nDog-friendly offices\nSnacks, Coffee, Tea\nGym discounts \nRobust Health/Medical Benefits Package",
+      "descriptionHtml": "<p>*<em>About Beamery<br>\n*</em><br>\nBeamery’s mission is to help companies acquire their greatest asset; their people. Our Talent Operating System lets companies attract, engage, and retain the best talent - it’s the one solution that enterprises need to deliver exceptional experiences at every stage of the talent journey, and build meaningful relationships with their future employees.</p>\n\n<p>We employ people who are superb at their jobs and are a reliable, friendly bunch who leave egos out of the equation. We are a team that cares about the right outcome above everything else.</p>\n\n<p>*<em>About the Opportunity *</em></p>\n\n<p>The Engagement Manager will be responsible for ensuring the successful deliverables (e.g., charter, project/staffing plan, issue logs, etc.) and work with the customer project manager to resolve issues that stand in the way of project success. The Engagement Manager will also be responsible for managing to the agreed to budget and delivering the project profitably.</p>\n\n<p><strong>What will you be doing at Beamery?</strong></p>\n\n<p>Become an expert in Beamery’s Implementation Methodology and leverage it on all engagements. <br>\nManage the implementation of simultaneous customer projects. <br>\nDemonstrate competency in the Beamery product suite.<br>\nParticipate in the sales cycle when requested to gather requirements, formulate delivery approach and develop a proposal/SOW. <br>\nProvide guidance and mentoring to those Professional Service resources working on your implementations. <br>\nEnsure projects are properly planned and staffed. <br>\nWork with the customer project manager to identify and resolve all issues that could impact project scope and/or timeframes. <br>\nWork across Beamery teams, including solutions delivery, customer success, enablement, product and engineering to ensure on time, high quality, profitable customer deployments. <br>\nEnsure the customer takes advantage of Beamery best practices. <br>\nIdentify opportunities to position other service offerings. <br>\nEnsure the customer can serve as a reference upon completing their implementation. <br>\nAssist in the transition of the customer from professional services to Customer Support &amp; Success. <br>\nEnsure the project is delivered within the budget outlined in the SOW. <br>\nPresent customer with change orders in the event they&#39;re asking Beamery to perform tasks that are outside the scope of the SOW. <br>\nWho are we looking for? </p>\n\n<p><strong>What are we looking for?</strong></p>\n\n<p>3+ years experience project managing HCM or related software within large enterprise customers. <br>\nConsulting experience either as an internal consultant or with a consulting/software company. <br>\nWorking knowledge of Human Resources or Talent Acquisition domains. <br>\nProject Management experience working across cross-functional teams, including solutions delivery within professional services, product and engineering, and third party consultants.<br>\nExcellent organization, time management, and communication skills. <br>\nPassion for customer service and the customer experience. <br>\nA growth mindset - the ability to identify where to propose new solutions to achieve long-term business value for the customer and Beamery. <br>\nPrevious experience with a major systems integrator and/or an enterprise software company a plus. <br>\nPrevious service sales experience a plus. Successful candidates have a balance of functional (business) and technical experience. <br>\nAbility to travel up to 30%</p>\n\n<p><strong>Benefits/Perks</strong><br>\nUnlimited PTO<br>\nFlexible work options<br>\nDog-friendly offices<br>\nSnacks, Coffee, Tea<br>\nGym discounts <br>\nRobust Health/Medical Benefits Package</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "City of London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "SaaS",
+        "Enterprise Software",
+        "Project Management",
+        "Technology Implementation",
+        "Start-Ups",
+        "System Implementation"
+      ],
+      "payment": {
+        "salary": "£60k – £70k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/danielle-weitzman-2",
+        "name": "Danielle Weitzman",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "738136",
+        "angelListUrl": "https://angel.co/company/beamery/jobs/738136-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Software Engineering Fast Track",
+      "description": "The Beamery team is growing fast. Two years ago we were just 12 people, now we’re 100 in 3 international offices, and there’s no stopping. In July 2018 we raised a £28 million Series B round, which we’re putting to work building our research and development teams for the future. To do that we’re bringing on board a cohort of talented graduate engineers to hone their skills and become true domain experts in their field. \n\nThis group of graduates will become a core part of our development team, growing and learning as we create the innovative technology which is revolutionising the talent industry. As a graduate software engineer you’ll train intensively to quickly develop your technical skills and then get stuck into production teams, writing code and solving problems, continuing to learn as we build our product.\n\nThe Beamery Fast Track is a 2.5 year, graduate-level software engineering program in our East London office. You'll build the essential skills of software engineering and gain experience in each department - Front End, Back End, DevOps and QA. Through a mixture of intensive technical training and hands-on contribution to development teams you'll emerge as a highly capable, full stack developer with specialist expertise in a technical area. \n\nTraining Phase - 4 months developing essential skills in Javascript and our tech stack. \n\nGeneralist Phase - 12 months rotating between each of the core development teams - Front End, Back End and DevOps. \n\nSpecialist Phase - the final 12 months when you'll choose your future team and take on more responsibility in building the product.\n\n\n\nBenefits:\n\n- £40k first year salary, plus bonus scheme and signing bonus. \n\n- Ownership. Everyone gets stock options.\n\n- Opportunities for growth. We’re a fast-growing company, and we want you to push your potential and exceed expectations - the chances are here to do that.\n\n- Learning. Dedicated learning time every week, with budgets for resources, books and conferences.\n\n- Unlimited holiday / personal time off. We’re here to get things done, not work you into the ground.\n\n- Flexible working. Sometimes you need to work from home, and we encourage taking time off when you’re sick or need a mental health day.\n\n- Team and company outings, lunches, events.\n- No dress code. Be yourself!\n\n- Open plan and comfortable office. Work on the sofa, when Barney (he’s the office dog) isn’t sitting there already.\n\n- Wellness. We offer a Vitality health plan, Gym discounts, free coffee, breakfast, beer and whatever you need to keep you at your best.\n\n- [Insert other generic startup perks]. Yes we have those... but what's more important is that we’re a team that gets shit done, and has fun doing it.\n\n\nSound like you? \n\nPlease apply through pages.beamery.com/hub/page/graduate",
+      "descriptionHtml": "<p>The Beamery team is growing fast. Two years ago we were just 12 people, now we’re 100 in 3 international offices, and there’s no stopping. In July 2018 we raised a £28 million Series B round, which we’re putting to work building our research and development teams for the future. To do that we’re bringing on board a cohort of talented graduate engineers to hone their skills and become true domain experts in their field. </p>\n\n<p>This group of graduates will become a core part of our development team, growing and learning as we create the innovative technology which is revolutionising the talent industry. As a graduate software engineer you’ll train intensively to quickly develop your technical skills and then get stuck into production teams, writing code and solving problems, continuing to learn as we build our product.</p>\n\n<p>The Beamery Fast Track is a 2.5 year, graduate-level software engineering program in our East London office. You&#39;ll build the essential skills of software engineering and gain experience in each department - Front End, Back End, DevOps and QA. Through a mixture of intensive technical training and hands-on contribution to development teams you&#39;ll emerge as a highly capable, full stack developer with specialist expertise in a technical area. </p>\n\n<p>Training Phase - 4 months developing essential skills in Javascript and our tech stack. </p>\n\n<p>Generalist Phase - 12 months rotating between each of the core development teams - Front End, Back End and DevOps. </p>\n\n<p>Specialist Phase - the final 12 months when you&#39;ll choose your future team and take on more responsibility in building the product.</p>\n\n<p>Benefits:</p>\n\n<ul>\n<li><p>£40k first year salary, plus bonus scheme and signing bonus. </p></li>\n<li><p>Ownership. Everyone gets stock options.</p></li>\n<li><p>Opportunities for growth. We’re a fast-growing company, and we want you to push your potential and exceed expectations - the chances are here to do that.</p></li>\n<li><p>Learning. Dedicated learning time every week, with budgets for resources, books and conferences.</p></li>\n<li><p>Unlimited holiday / personal time off. We’re here to get things done, not work you into the ground.</p></li>\n<li><p>Flexible working. Sometimes you need to work from home, and we encourage taking time off when you’re sick or need a mental health day.</p></li>\n<li><p>Team and company outings, lunches, events.</p></li>\n<li><p>No dress code. Be yourself!</p></li>\n<li><p>Open plan and comfortable office. Work on the sofa, when Barney (he’s the office dog) isn’t sitting there already.</p></li>\n<li><p>Wellness. We offer a Vitality health plan, Gym discounts, free coffee, breakfast, beer and whatever you need to keep you at your best.</p></li>\n<li><p>[Insert other generic startup perks]. Yes we have those... but what&#39;s more important is that we’re a team that gets shit done, and has fun doing it.</p></li>\n</ul>\n\n<p>Sound like you? </p>\n\n<p>Please apply through pages.beamery.com/hub/page/graduate</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Software Engineering",
+        "Javascript",
+        "Web Development",
+        "Computer Science"
+      ],
+      "payment": {
+        "salary": "$40k – $40k",
+        "equity": "0.01% – 0.1%"
+      },
+      "recruiter": {
+        "title": "Program Manager",
+        "role": "Employee",
+        "url": "https://angel.co/u/milo-abel",
+        "name": "Milo Abel",
+        "avatar": "https://photos.angel.co/users/4912320-medium_jpg?1478288519"
+      },
+      "refs": {
+        "angelListId": "441699",
+        "angelListUrl": "https://angel.co/company/beamery/jobs/441699-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Golang Engineer",
+      "description": "We are looking for a Golang engineer to join our core backend API team.\n\nYou will be the sort of person that has worked at several companies before but wants to join an innovative culture implementing bleeding edge technology at a global scale.\n\nLikely having cut your teeth on other languages, you will have commercial experience using Golang for general systems programming and microservice architectures.\n\nWhat skills you’ll bring\n- Expertise in Golang and proficiency in other languages (Preferably C/C++,NodeJs, Python).\n- Commercial experience with REST, RPC and message exchange protocols.\n- Experience with frameworks such as: Gin, Gorilla, Dep, Ginkgo\n- You actively contribute to open source Golang communities.\n- Working knowledge in Kubernetes, Rancher or Docker swarm.\n- Ability to write clean and effective Godoc comments\n- Knowledge around message queuing and distributed tasking (SMS,ZeroQ, RabbitMQ etc)\n\nWhat responsibilities you'll have\n- Ability to perform complex work that is a dependent requirement of feature teams to deliver.\n- Mindfulness of scaling architecture to meet global demand.\n- Enthusiasm around Golang and a keen desire to evangelise the language and principles behind it.\n- A sense of ownership across platforms and environments.",
+      "descriptionHtml": "<p>We are looking for a Golang engineer to join our core backend API team.</p>\n\n<p>You will be the sort of person that has worked at several companies before but wants to join an innovative culture implementing bleeding edge technology at a global scale.</p>\n\n<p>Likely having cut your teeth on other languages, you will have commercial experience using Golang for general systems programming and microservice architectures.</p>\n\n<p>What skills you’ll bring</p>\n\n<ul>\n<li>Expertise in Golang and proficiency in other languages (Preferably C/C++,NodeJs, Python).</li>\n<li>Commercial experience with REST, RPC and message exchange protocols.</li>\n<li>Experience with frameworks such as: Gin, Gorilla, Dep, Ginkgo</li>\n<li>You actively contribute to open source Golang communities.</li>\n<li>Working knowledge in Kubernetes, Rancher or Docker swarm.</li>\n<li>Ability to write clean and effective Godoc comments</li>\n<li>Knowledge around message queuing and distributed tasking (SMS,ZeroQ, RabbitMQ etc)</li>\n</ul>\n\n<p>What responsibilities you&#39;ll have</p>\n\n<ul>\n<li>Ability to perform complex work that is a dependent requirement of feature teams to deliver.</li>\n<li>Mindfulness of scaling architecture to meet global demand.</li>\n<li>Enthusiasm around Golang and a keen desire to evangelise the language and principles behind it.</li>\n<li>A sense of ownership across platforms and environments.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "City of London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "RESTful Services",
+        "DevOps",
+        "Go (Golang)"
+      ],
+      "payment": {
+        "salary": "£55k – £75k",
+        "equity": "0.01% – 0.2%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/sultan-murad-saidov",
+        "name": "Sultan Murad Saidov",
+        "avatar": "https://photos.angel.co/users/374171-medium_jpg?1405622046"
+      },
+      "refs": {
+        "angelListId": "411672",
+        "angelListUrl": "https://angel.co/company/beamery/jobs/411672-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Inbound Sales Development Representative",
+      "description": "We’re seeking an Inbound Sales Development Representative to support the sales/marketing team through various channels and projects. The projects you’ll work on will have a direct impact on Beamery as an organization and will set you up to take on more responsibility as you grow. This job will provide you with relevant experience in soft skills, operational insight, and overall business acumen. You’ll sit in a cross-functional role between sales, marketing, and operations, empowering all three teams through lead qualification, event management, and data enrichment. We over-invest in the growth of every new hire, and we're looking for someone who wants to make an immediate impact and progress through the ranks of our team. This role is a great jumping-off point for individuals who are interested in diving into a start-up technology company and gain experience in multiple areas. \n\n\n\nWHAT WILL YOU DO AS AN INSIDE SALES REPRESENTATIVE AT BEAMERY?\n\nAs an iSDR, you’ll develop new business opportunities from inbound and marketing-generated leads, while identifying target accounts for the oSDR and AE team to break into. \n\nSuccess in this role will be measured by meeting target quotas related to the number of qualified opportunities, the value of the sales pipeline, and closed business. You’ll report, track, and manage sales activities and results using Salesforce.com while also playing an active role in the creation and iteration of team processes.\n\nYou will be responsible for being on the front lines of the business, representing the Beamery brand to prospects and the general talent acquisition space.\n\nAct as a liaison between sales, marketing, and operations - completing projects that empower all three teams to push Beamery to the next level of success.\n\nWork closely with the Outside Business Development Team to support their outbounding process and ensure they’re reaching out to the most qualified prospects.\n\nBuild campaigns that target specific segments of our ideal customers and pivot based on the feedback from each campaign\n\nBecome highly efficient in sales and marketing tools - ranging from outreach tools to Salesforce.com\n\n \n\nWHAT WE’RE LOOKING FOR\n\nA motivated, detail-oriented individual that is looking to initiate your sales career in a fast-moving start-up environment\n\nDesire to pick up the phone and make things happen\n\nHighly organized, with the ability to focus and prioritize time-sensitive assignments\n\nPossess ownership, and are comfortable taking something and running with it, even when that requires involving other parties.\n\nAn individual that has a point of view but doesn’t let ego get in the way— our culture of collaboration is important to us and we work to preserve it.\n\nA sponge - someone who seeks growth and learning, and wants to gain experience to progress in your career.\n\nIf you have any prior experience in recruitment, HR tech, or artificial intelligence tech, don't forget to mention it!\n\n \n\nBENEFITS\n\nOwnership. Everyone gets stock options.\n\nTop-of-the-line tools/equipment, enhanced maternity and paternity packages, unlimited holiday and flexible working options, pension\n\nLearning. Dedicated learning time every month, with budgets for resources, books and conferences.\n\nWellness. Gym discounts, coffee and whatever you need to keep you at your best.\n\n[Insert other generic startup perks]. Yes, we have those… but what’s more important are the three points above. A team that gets things done, and has fun doing it.",
+      "descriptionHtml": "<p>We’re seeking an Inbound Sales Development Representative to support the sales/marketing team through various channels and projects. The projects you’ll work on will have a direct impact on Beamery as an organization and will set you up to take on more responsibility as you grow. This job will provide you with relevant experience in soft skills, operational insight, and overall business acumen. You’ll sit in a cross-functional role between sales, marketing, and operations, empowering all three teams through lead qualification, event management, and data enrichment. We over-invest in the growth of every new hire, and we&#39;re looking for someone who wants to make an immediate impact and progress through the ranks of our team. This role is a great jumping-off point for individuals who are interested in diving into a start-up technology company and gain experience in multiple areas. </p>\n\n<p>WHAT WILL YOU DO AS AN INSIDE SALES REPRESENTATIVE AT BEAMERY?</p>\n\n<p>As an iSDR, you’ll develop new business opportunities from inbound and marketing-generated leads, while identifying target accounts for the oSDR and AE team to break into. </p>\n\n<p>Success in this role will be measured by meeting target quotas related to the number of qualified opportunities, the value of the sales pipeline, and closed business. You’ll report, track, and manage sales activities and results using Salesforce.com while also playing an active role in the creation and iteration of team processes.</p>\n\n<p>You will be responsible for being on the front lines of the business, representing the Beamery brand to prospects and the general talent acquisition space.</p>\n\n<p>Act as a liaison between sales, marketing, and operations - completing projects that empower all three teams to push Beamery to the next level of success.</p>\n\n<p>Work closely with the Outside Business Development Team to support their outbounding process and ensure they’re reaching out to the most qualified prospects.</p>\n\n<p>Build campaigns that target specific segments of our ideal customers and pivot based on the feedback from each campaign</p>\n\n<p>Become highly efficient in sales and marketing tools - ranging from outreach tools to Salesforce.com</p>\n\n<p>WHAT WE’RE LOOKING FOR</p>\n\n<p>A motivated, detail-oriented individual that is looking to initiate your sales career in a fast-moving start-up environment</p>\n\n<p>Desire to pick up the phone and make things happen</p>\n\n<p>Highly organized, with the ability to focus and prioritize time-sensitive assignments</p>\n\n<p>Possess ownership, and are comfortable taking something and running with it, even when that requires involving other parties.</p>\n\n<p>An individual that has a point of view but doesn’t let ego get in the way— our culture of collaboration is important to us and we work to preserve it.</p>\n\n<p>A sponge - someone who seeks growth and learning, and wants to gain experience to progress in your career.</p>\n\n<p>If you have any prior experience in recruitment, HR tech, or artificial intelligence tech, don&#39;t forget to mention it!</p>\n\n<p>BENEFITS</p>\n\n<p>Ownership. Everyone gets stock options.</p>\n\n<p>Top-of-the-line tools/equipment, enhanced maternity and paternity packages, unlimited holiday and flexible working options, pension</p>\n\n<p>Learning. Dedicated learning time every month, with budgets for resources, books and conferences.</p>\n\n<p>Wellness. Gym discounts, coffee and whatever you need to keep you at your best.</p>\n\n<p>[Insert other generic startup perks]. Yes, we have those… but what’s more important are the three points above. A team that gets things done, and has fun doing it.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Austin"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "SaaS",
+        "Sales",
+        "Sales Development",
+        "Lead Management",
+        "Customer Facing",
+        "Salesforce",
+        "Inbound Sales",
+        "SaaS Sales",
+        "Inbound and Outbound Sales",
+        "Qualifying Leads"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/danielle-weitzman-2",
+        "name": "Danielle Weitzman",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "620005",
+        "angelListUrl": "https://angel.co/company/beamery/jobs/620005-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Legal Counsel",
+      "description": " **About Beamery**\n\nWe believe talent is a company’s greatest asset. Finding, engaging and retaining that talent starts with building meaningful relationships and delivering exceptional candidate experiences at every stage of the candidate journey.\n\nBeamery is the leading Talent Engagement Platform. Combining Talent CRM, Talent Marketing, Automated Compliance, and a Connected layer to legacy systems, it enables companies to attract, identify and engage candidates on one unified platform, to deliver better talent acquisition at scale.\n\nAt Beamery we’re powering the shift towards a candidate first Talent Engagement strategy, shifting recruiting from a reactive to a proactive process and empowering talent teams in new areas critical to successful Talent Engagement, from branding, events, and compliance, to forecasting & planning. Our Talent Engagement platform offers a new level of comprehensiveness, consolidating essential modern talent acquisition activities into one system and offering a connected solution that powers the entire candidate journey.\n\n**Job Requirements:**\n\n- Providing general transactional and legal support, including drafting, reviewing, and negotiating a range of customer and other commercial contracts\n- Dealing with data protection, intellectual property, corporate governance and disputes\n- Drafting bespoke legal communications for the wider business and taking ownership of ad hoc legal matters when required\n- Preparing complex and bespoke drafting and advising in relation to the preparation of legal communications across the wider-Beamery team.\n\n**Qualifications**\n\n- Qualified in the UK or other common-law jurisdiction, with at least 2 years’ PQE\n- Sound experience with technology contracts (including SaaS)\n- Negotiation and drafting experience of a range of commercial contracts\n- Thrives in a dynamic, fast paced environment and can ‘think outside of the box’, as well as ‘think on their feet’\n\n**Are we a match?**\n\nYou’ll fit right in if you’re a highly motivated, solutions-oriented and personable team player with a strong legal skill-set and proven organizational and communication skills. You're an accountable and reliable self-starter who takes the lead and doesn’t rest until the job is done. You’re comfortable dealing with clients, external third parties and senior management, managing files, preparing external communications and contributing to advice across the various *ad hoc* matters that arise on a daily basis within a technology company. You want to be challenged and given the opportunity to demonstrate your excellent organizational and commercial skills. You build constructive relationships with senior management, colleagues and external counsel to progress and close out your matters efficiently while protecting the company and mitigating risk.\n\n",
+      "descriptionHtml": "<p><strong>About Beamery</strong></p>\n\n<p>We believe talent is a company’s greatest asset. Finding, engaging and retaining that talent starts with building meaningful relationships and delivering exceptional candidate experiences at every stage of the candidate journey.</p>\n\n<p>Beamery is the leading Talent Engagement Platform. Combining Talent CRM, Talent Marketing, Automated Compliance, and a Connected layer to legacy systems, it enables companies to attract, identify and engage candidates on one unified platform, to deliver better talent acquisition at scale.</p>\n\n<p>At Beamery we’re powering the shift towards a candidate first Talent Engagement strategy, shifting recruiting from a reactive to a proactive process and empowering talent teams in new areas critical to successful Talent Engagement, from branding, events, and compliance, to forecasting &amp; planning. Our Talent Engagement platform offers a new level of comprehensiveness, consolidating essential modern talent acquisition activities into one system and offering a connected solution that powers the entire candidate journey.</p>\n\n<p><strong>Job Requirements:</strong></p>\n\n<ul>\n<li>Providing general transactional and legal support, including drafting, reviewing, and negotiating a range of customer and other commercial contracts</li>\n<li>Dealing with data protection, intellectual property, corporate governance and disputes</li>\n<li>Drafting bespoke legal communications for the wider business and taking ownership of ad hoc legal matters when required</li>\n<li>Preparing complex and bespoke drafting and advising in relation to the preparation of legal communications across the wider-Beamery team.</li>\n</ul>\n\n<p><strong>Qualifications</strong></p>\n\n<ul>\n<li>Qualified in the UK or other common-law jurisdiction, with at least 2 years’ PQE</li>\n<li>Sound experience with technology contracts (including SaaS)</li>\n<li>Negotiation and drafting experience of a range of commercial contracts</li>\n<li>Thrives in a dynamic, fast paced environment and can ‘think outside of the box’, as well as ‘think on their feet’</li>\n</ul>\n\n<p><strong>Are we a match?</strong></p>\n\n<p>You’ll fit right in if you’re a highly motivated, solutions-oriented and personable team player with a strong legal skill-set and proven organizational and communication skills. You&#39;re an accountable and reliable self-starter who takes the lead and doesn’t rest until the job is done. You’re comfortable dealing with clients, external third parties and senior management, managing files, preparing external communications and contributing to advice across the various <em>ad hoc</em> matters that arise on a daily basis within a technology company. You want to be challenged and given the opportunity to demonstrate your excellent organizational and commercial skills. You build constructive relationships with senior management, colleagues and external counsel to progress and close out your matters efficiently while protecting the company and mitigating risk.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Global Recruiting Lead",
+        "role": "Employee",
+        "url": "https://angel.co/u/natasha-lees-2",
+        "name": "Natasha Lees",
+        "avatar": "https://photos.angel.co/users/7334424-medium_jpg?1516202730"
+      },
+      "refs": {
+        "angelListId": "824354",
+        "angelListUrl": "https://angel.co/company/beamery/jobs/824354-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Machine learning Javascript Engineer",
+      "description": "About you:\n\nWe're looking for someone that loves Machine Learning, and Javascript, as well as a challenge, and who is passionate about building awesome products. \n\nResponsibilities:\n\nYou will be responsible for designing, developing and maintaining applications and APIs, including:\n- Javascript web and mobile applications\n- Model contacts to create an extensive representation of relevant contact information, using a controlled vocabulary to disambiguate data sources\n- Design relational/interconnected contact networks to gauge strength and relevance of connections and contacts\n- Design and develop recommendation engines and automated messaging systems\n- Work with product and design team to analyse usage and participate in UI and UX planning and implementation\n\nEducation expected:\nBachelors in Computer Science or related field\n\nSkills needed:\n\nFront-end  - require extensive experience in:\nAngular.JS, Other Javascript MVC frameworks (React/Ember/Backbone),  Gulp,  Large applications experience - optimisation + performance\n\nBackend  - require extensive experience in:\nNodeJS, MongoDB, RESTful APIs, \n\nOther required knowledge domains - extensive experience in:\nInformation Retrieval/Scraping\nSemantic Web\nMachine Learning\nModular development\nSocket.io or alternatives\nJenkins\nOpen source npm packages\n3rd party APIs (i.e. Facebook, LinkedIn, ...)\nAgile Software Development, SCRUM\nAmazon Web Services (Compute and S3), TDD, Docker, Dokku\nQueue systems - Kafka or RabbitMQ",
+      "descriptionHtml": "<p>About you:</p>\n\n<p>We&#39;re looking for someone that loves Machine Learning, and Javascript, as well as a challenge, and who is passionate about building awesome products. </p>\n\n<p>Responsibilities:</p>\n\n<p>You will be responsible for designing, developing and maintaining applications and APIs, including:</p>\n\n<ul>\n<li>Javascript web and mobile applications</li>\n<li>Model contacts to create an extensive representation of relevant contact information, using a controlled vocabulary to disambiguate data sources</li>\n<li>Design relational/interconnected contact networks to gauge strength and relevance of connections and contacts</li>\n<li>Design and develop recommendation engines and automated messaging systems</li>\n<li>Work with product and design team to analyse usage and participate in UI and UX planning and implementation</li>\n</ul>\n\n<p>Education expected:<br>\nBachelors in Computer Science or related field</p>\n\n<p>Skills needed:</p>\n\n<p>Front-end  - require extensive experience in:<br>\nAngular.JS, Other Javascript MVC frameworks (React/Ember/Backbone),  Gulp,  Large applications experience - optimisation + performance</p>\n\n<p>Backend  - require extensive experience in:<br>\nNodeJS, MongoDB, RESTful APIs, </p>\n\n<p>Other required knowledge domains - extensive experience in:<br>\nInformation Retrieval/Scraping<br>\nSemantic Web<br>\nMachine Learning<br>\nModular development<br>\nSocket.io or alternatives<br>\nJenkins<br>\nOpen source npm packages<br>\n3rd party APIs (i.e. Facebook, LinkedIn, ...)<br>\nAgile Software Development, SCRUM<br>\nAmazon Web Services (Compute and S3), TDD, Docker, Dokku<br>\nQueue systems - Kafka or RabbitMQ</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Machine Learning",
+        "noSQL",
+        "Semantic Search",
+        "JavaScript Frameworks/Libraries"
+      ],
+      "payment": {
+        "salary": "£50k – £70k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/sultan-murad-saidov",
+        "name": "Sultan Murad Saidov",
+        "avatar": "https://photos.angel.co/users/374171-medium_jpg?1405622046"
+      },
+      "refs": {
+        "angelListId": "84607",
+        "angelListUrl": "https://angel.co/company/beamery/jobs/84607-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "NLP/Information Retrieval Data Scientist",
+      "description": "About us\n\nWe started Beamery on the simple idea that online you are not a Candidate or a Customer - you are both. Companies have become very sophisticated at selling products and building customer relationships online, while Recruiting has not changed.\nThis led us to create a platform that brings predictive marketing and data-science to recruitment, empowering companies to treat candidates like customers.\n\n\nOur Culture & Values\n\nWe are a small team of creators and engineers. We are dreamers and problem solvers. We’re passionate about our craft from the first meta tag, down to the last pixel and we believe sweating the small stuff is what makes a beautiful product that delights our users\nRight from the start we have been focused on building a team, not just a product. We are ambitious and we work hard to achieve our goals. Everyone gets a lot of responsibility and ownership right from day 1 and we aren’t afraid to challenge each other to get to the best solution. We believe that everyone can be the best at something, and in teaching the others around us.\n\nDescription\n\nWe are always at the cutting-edge of the application of emerging technologies and methods to assure we maintain our competitive edge in the market. The Data team at Beamery is no different in this respect and are exploring the application of Natural Language Processing/Information Retrieval and related methods to help expand Beamery’s platform capabilities. \n\nWe are thus seeking a Data Scientist/Engineer with a core grounding in related techniques in this area with a strong interest of its application towards Recruitment and Talent Acquisition.\n\nWe are using NLP/Information Retrieval and the related subject areas to form a unified view of a candidate to enable quicker, efficient and more transparent hiring decisions. A key part of that strategy is to evolve our Text Analytics layer and need someone who considers themselves an expert in understanding key concepts in the practical application of Natural Language Processing, Information Retrieval, Semantic web etc.\n\n\nResponsibilities\n- Work closely with the business to understand the problem space, identify the opportunities and formulate the problems\n- Work closely with both the Data Science team and the Data Architecture team to make the Data Science models work at Beamery, scale and velocity\n- Use machine learning, data mining, statistical techniques and others to create actionable, meaningful, and scalable solutions for the business problems\n- Design, develop and evaluate highly innovative models for predictive learning\n- Establish scalable, efficient, automated processes for large scale data analyses, model development, model validation and model implementation\n- Research and implement novel machine learning and statistical approaches\n  - Develop NLP/Information Retrieval/Text Mining methods to predict and categorize social and candidate data\n  - Explore related methods for optimising matching candidate profiles with job descriptions\n\n\nRequirements\n- Passionate about turning theoretical ideas into workable solutions\n- MS (PhD preferred) in Machine Learning, Computer Science, Statistics, Applied Mathematics or in another highly quantitative field (Information Retrieval/Natural Language Processing/Semantic Web)\n- Hands-on experience in deep learning, predictive modeling and analysis\n- Ability to distill problem definitions, models and constraints from informal business requirements, and to deal with ambiguity and competing objectives\n- Not afraid to explore and learn relevant programming and IT tools\n- You ideally have skills in some of the following areas:\n  - Spark, pyspark, MLlib, Tensorflow, Hive, Hadoop\n  - Big Data processing\n  - Machine learning algorithms\n  - Data reduction and feature selection techniques\n  - Comfortable using the AWS or GCP environment\n- An excellent academic record in mathematical and/or computer science disciplines.\n- Strong knowledge in ElasticSerach, SQL, MongoDB and Graph databases\n- Skills in Web-mining/LinkedData methods\n- Communication, problem solver, team player, enthusiastic, Data driven\nBenefits\n\n\n- Ownership. Everyone gets stock options.\n- Learning. Dedicated learning time every week, with budgets for resources, books and conferences\n- Wellness. Gym discounts, coffee and whatever you need to keep you at your best\n- [Insert other generic startup perks]. Yes we have those... but what's more important are the three points above. A team that gets shit done, and has more fun doing it. More than any ping pong tournament (although we do get competitive at that too)",
+      "descriptionHtml": "<p>About us</p>\n\n<p>We started Beamery on the simple idea that online you are not a Candidate or a Customer - you are both. Companies have become very sophisticated at selling products and building customer relationships online, while Recruiting has not changed.<br>\nThis led us to create a platform that brings predictive marketing and data-science to recruitment, empowering companies to treat candidates like customers.</p>\n\n<p>Our Culture &amp; Values</p>\n\n<p>We are a small team of creators and engineers. We are dreamers and problem solvers. We’re passionate about our craft from the first meta tag, down to the last pixel and we believe sweating the small stuff is what makes a beautiful product that delights our users<br>\nRight from the start we have been focused on building a team, not just a product. We are ambitious and we work hard to achieve our goals. Everyone gets a lot of responsibility and ownership right from day 1 and we aren’t afraid to challenge each other to get to the best solution. We believe that everyone can be the best at something, and in teaching the others around us.</p>\n\n<p>Description</p>\n\n<p>We are always at the cutting-edge of the application of emerging technologies and methods to assure we maintain our competitive edge in the market. The Data team at Beamery is no different in this respect and are exploring the application of Natural Language Processing/Information Retrieval and related methods to help expand Beamery’s platform capabilities. </p>\n\n<p>We are thus seeking a Data Scientist/Engineer with a core grounding in related techniques in this area with a strong interest of its application towards Recruitment and Talent Acquisition.</p>\n\n<p>We are using NLP/Information Retrieval and the related subject areas to form a unified view of a candidate to enable quicker, efficient and more transparent hiring decisions. A key part of that strategy is to evolve our Text Analytics layer and need someone who considers themselves an expert in understanding key concepts in the practical application of Natural Language Processing, Information Retrieval, Semantic web etc.</p>\n\n<p>Responsibilities</p>\n\n<ul>\n<li>Work closely with the business to understand the problem space, identify the opportunities and formulate the problems</li>\n<li>Work closely with both the Data Science team and the Data Architecture team to make the Data Science models work at Beamery, scale and velocity</li>\n<li>Use machine learning, data mining, statistical techniques and others to create actionable, meaningful, and scalable solutions for the business problems</li>\n<li>Design, develop and evaluate highly innovative models for predictive learning</li>\n<li>Establish scalable, efficient, automated processes for large scale data analyses, model development, model validation and model implementation</li>\n<li>Research and implement novel machine learning and statistical approaches\n\n<ul>\n<li>Develop NLP/Information Retrieval/Text Mining methods to predict and categorize social and candidate data</li>\n<li>Explore related methods for optimising matching candidate profiles with job descriptions</li>\n</ul></li>\n</ul>\n\n<p>Requirements</p>\n\n<ul>\n<li>Passionate about turning theoretical ideas into workable solutions</li>\n<li>MS (PhD preferred) in Machine Learning, Computer Science, Statistics, Applied Mathematics or in another highly quantitative field (Information Retrieval/Natural Language Processing/Semantic Web)</li>\n<li>Hands-on experience in deep learning, predictive modeling and analysis</li>\n<li>Ability to distill problem definitions, models and constraints from informal business requirements, and to deal with ambiguity and competing objectives</li>\n<li>Not afraid to explore and learn relevant programming and IT tools</li>\n<li>You ideally have skills in some of the following areas:\n\n<ul>\n<li>Spark, pyspark, MLlib, Tensorflow, Hive, Hadoop</li>\n<li>Big Data processing</li>\n<li>Machine learning algorithms</li>\n<li>Data reduction and feature selection techniques</li>\n<li>Comfortable using the AWS or GCP environment</li>\n</ul></li>\n<li>An excellent academic record in mathematical and/or computer science disciplines.</li>\n<li>Strong knowledge in ElasticSerach, SQL, MongoDB and Graph databases</li>\n<li>Skills in Web-mining/LinkedData methods</li>\n<li><p>Communication, problem solver, team player, enthusiastic, Data driven<br>\nBenefits</p></li>\n<li><p>Ownership. Everyone gets stock options.</p></li>\n<li><p>Learning. Dedicated learning time every week, with budgets for resources, books and conferences</p></li>\n<li><p>Wellness. Gym discounts, coffee and whatever you need to keep you at your best</p></li>\n<li><p>[Insert other generic startup perks]. Yes we have those... but what&#39;s more important are the three points above. A team that gets shit done, and has more fun doing it. More than any ping pong tournament (although we do get competitive at that too)</p></li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Hadoop",
+        "SQL",
+        "MongoDB",
+        "Hive",
+        "Apache Spark",
+        "ElasticSearch ",
+        "Pyspark",
+        "TensorFlow",
+        "Spark MLib"
+      ],
+      "payment": {
+        "salary": "£40k – £60k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/sultan-murad-saidov",
+        "name": "Sultan Murad Saidov",
+        "avatar": "https://photos.angel.co/users/374171-medium_jpg?1405622046"
+      },
+      "refs": {
+        "angelListId": "257945",
+        "angelListUrl": "https://angel.co/company/beamery/jobs/257945-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Backend Engineer",
+      "description": "About Beamery\n\nBeamery’s mission is to help companies acquire their greatest asset; their people. Our Talent Operating System lets companies attract, engage, and retain the best talent - it’s the one solution that enterprises need to deliver exceptional experiences at every stage of the talent journey, and build meaningful relationships with their future employees.\n\nWe employ people who are superb at their jobs and are a reliable, friendly bunch who leave egos out of the equation. We are a team that cares about the right outcome above everything else.\n\nAbout the Opportunity \n\nWe’re seeking a Senior Back End Developer to join the experienced engineers on the Beamery team and build the next generation back end architecture for our services. At Beamery you’ll be constantly learning and teaching others, with a sense of ownership over the product and pride in your work. The best practices of the team will be influenced by your voice, and there will always be space and time for you to experiment and bring new ideas to the table. \n\nWhat will you be doing at Beamery?\n\n* Building beautiful, scalable products with wide market exposure\n* Being a lead contributor in our projects and shaping the architecture of our back-end services\n* Mentoring junior developers and sharing best practices\n* Working as part of an Agile team, collaborating with Product and Design\n* Being exposed to leadership training and experience opportunities\n* Taking part in regular collaborative teach-ins, and learning new skills\n* Have access to in-house training course as well as external conferences and workshops\n\nWho are we looking for? \n\n* Strong NodeJS skills with ES6+ and TypeScript. Functional and Object Oriented programming\n* A good understanding of microservice architectures in the past, and experience using pub/sub architectures and Apache Kafka\n* In-depth understanding of MongoDB and ORM systems, and good knowledge of the ELK stack\n* A good understanding of TDD/BDD and test automation suits\n* Someone who enjoys using a wide variety of tools, and will be happy to pick up and learn new things\n* Someone who enjoys our regular teach-in sessions delivered by industry experts\n* Excellent communication skills, both written and spoken\n* Someone excited to be a part of a collaborative team that is focused on building a product that will delight customers\n* Someone unbiased toward a specific technology: finding the right tools for the job",
+      "descriptionHtml": "<p>About Beamery</p>\n\n<p>Beamery’s mission is to help companies acquire their greatest asset; their people. Our Talent Operating System lets companies attract, engage, and retain the best talent - it’s the one solution that enterprises need to deliver exceptional experiences at every stage of the talent journey, and build meaningful relationships with their future employees.</p>\n\n<p>We employ people who are superb at their jobs and are a reliable, friendly bunch who leave egos out of the equation. We are a team that cares about the right outcome above everything else.</p>\n\n<p>About the Opportunity </p>\n\n<p>We’re seeking a Senior Back End Developer to join the experienced engineers on the Beamery team and build the next generation back end architecture for our services. At Beamery you’ll be constantly learning and teaching others, with a sense of ownership over the product and pride in your work. The best practices of the team will be influenced by your voice, and there will always be space and time for you to experiment and bring new ideas to the table. </p>\n\n<p>What will you be doing at Beamery?</p>\n\n<ul>\n<li>Building beautiful, scalable products with wide market exposure</li>\n<li>Being a lead contributor in our projects and shaping the architecture of our back-end services</li>\n<li>Mentoring junior developers and sharing best practices</li>\n<li>Working as part of an Agile team, collaborating with Product and Design</li>\n<li>Being exposed to leadership training and experience opportunities</li>\n<li>Taking part in regular collaborative teach-ins, and learning new skills</li>\n<li>Have access to in-house training course as well as external conferences and workshops</li>\n</ul>\n\n<p>Who are we looking for? </p>\n\n<ul>\n<li>Strong NodeJS skills with ES6+ and TypeScript. Functional and Object Oriented programming</li>\n<li>A good understanding of microservice architectures in the past, and experience using pub/sub architectures and Apache Kafka</li>\n<li>In-depth understanding of MongoDB and ORM systems, and good knowledge of the ELK stack</li>\n<li>A good understanding of TDD/BDD and test automation suits</li>\n<li>Someone who enjoys using a wide variety of tools, and will be happy to pick up and learn new things</li>\n<li>Someone who enjoys our regular teach-in sessions delivered by industry experts</li>\n<li>Excellent communication skills, both written and spoken</li>\n<li>Someone excited to be a part of a collaborative team that is focused on building a product that will delight customers</li>\n<li>Someone unbiased toward a specific technology: finding the right tools for the job</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "MongoDB",
+        "Node.js",
+        "ELK Stack"
+      ],
+      "payment": {
+        "salary": "£50k – £75k",
+        "equity": "0.1% – 0.25%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/sultan-murad-saidov",
+        "name": "Sultan Murad Saidov",
+        "avatar": "https://photos.angel.co/users/374171-medium_jpg?1405622046"
+      },
+      "refs": {
+        "angelListId": "319314",
+        "angelListUrl": "https://angel.co/company/beamery/jobs/319314-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Backend Engineer",
+      "description": "###  \n\n### **About Beamery**\n\n#### Beamery’s mission is to help companies acquire their greatest asset; their people. Our Talent Operating System lets companies attract, engage, and retain the best talent - it’s the one solution that enterprises need to deliver exceptional experiences at every stage of the talent journey, and build meaningful relationships with their future employees.\n\n#### We employ people who are superb at their jobs and are a reliable, friendly bunch who leave egos out of the equation. We are a team that cares about the right outcome above everything else.\n\n### **About the Opportunity **\n\nWe’re seeking a Senior Back End Developer to join the experienced engineers on the Beamery team and build the next generation back end architecture for our services. At Beamery you’ll be constantly learning and teaching others, with a sense of ownership over the product and pride in your work. The best practices of the team will be influenced by your voice, and there will always be space and time for you to experiment and bring new ideas to the table. \n\n### **What will you be doing at Beamery?**\n\n- Building beautiful, scalable products with wide market exposure\n- Being a lead contributor in our projects and shaping the architecture of our back-end services\n- Mentoring junior developers and sharing best practices\n- Working as part of an Agile team, collaborating with Product and Design\n- Being exposed to leadership training and experience opportunities\n- Taking part in regular collaborative teach-ins, and learning new skills\n- Have access to in-house training course as well as external conferences and workshops\n\n### **Who are we looking for? **\n\n- Strong NodeJS skills with ES6+ and TypeScript. Functional and Object Oriented programming\n- A good understanding of microservice architectures in the past, and experience using pub/sub architectures and Apache Kafka\n- In-depth understanding of MongoDB and ORM systems, and good knowledge of the ELK stack\n- A good understanding of TDD/BDD and test automation suits\n- Someone who enjoys using a wide variety of tools, and will be happy to pick up and learn new things\n- Someone who enjoys our regular teach-in sessions delivered by industry experts\n- Excellent communication skills, both written and spoken\n- Someone excited to be a part of a collaborative team that is focused on building a product that will delight customers\n- Someone unbiased toward a specific technology: finding the right tools for the job\n\n### **Benefits **\n\n- **Ownership**. Everyone gets stock options.\n- **Technology**. Top-of-the-line tools and equipment both locally and in the cloud.\n- **Learning**. Dedicated learning time every month, with budgets for resources, books and conferences.\n- **Wellness**. Gym discounts, health insurance, unlimited coffee, beer, and cereal, enhanced maternity and paternity packages, unlimited holiday and flexible working options, pension.\n- **[Insert other generic startup perks]**. Yes we have those… but what’s more important are the four points above. A team that gets things done, and has fun doing it.\n",
+      "descriptionHtml": "<h3><strong>About Beamery</strong></h3><p><strong>Beamery’s mission is to help companies acquire their greatest asset; their people. Our Talent Operating System lets companies attract, engage, and retain the best talent - it’s the one solution that enterprises need to deliver exceptional experiences at every stage of the talent journey, and build meaningful relationships with their future employees.</strong></p>\n<p><strong>We employ people who are superb at their jobs and are a reliable, friendly bunch who leave egos out of the equation. We are a team that cares about the right outcome above everything else.</strong></p>\n<h3>*<em>About the Opportunity *</em></h3>\n<p>We’re seeking a Senior Back End Developer to join the experienced engineers on the Beamery team and build the next generation back end architecture for our services. At Beamery you’ll be constantly learning and teaching others, with a sense of ownership over the product and pride in your work. The best practices of the team will be influenced by your voice, and there will always be space and time for you to experiment and bring new ideas to the table. </p>\n<h3><strong>What will you be doing at Beamery?</strong></h3>\n<ul>\n<li>Building beautiful, scalable products with wide market exposure</li>\n<li>Being a lead contributor in our projects and shaping the architecture of our back-end services</li>\n<li>Mentoring junior developers and sharing best practices</li>\n<li>Working as part of an Agile team, collaborating with Product and Design</li>\n<li>Being exposed to leadership training and experience opportunities</li>\n<li>Taking part in regular collaborative teach-ins, and learning new skills</li>\n<li>Have access to in-house training course as well as external conferences and workshops</li>\n</ul>\n<h3>*<em>Who are we looking for? *</em></h3>\n<ul>\n<li>Strong NodeJS skills with ES6+ and TypeScript. Functional and Object Oriented programming</li>\n<li>A good understanding of microservice architectures in the past, and experience using pub/sub architectures and Apache Kafka</li>\n<li>In-depth understanding of MongoDB and ORM systems, and good knowledge of the ELK stack</li>\n<li>A good understanding of TDD/BDD and test automation suits</li>\n<li>Someone who enjoys using a wide variety of tools, and will be happy to pick up and learn new things</li>\n<li>Someone who enjoys our regular teach-in sessions delivered by industry experts</li>\n<li>Excellent communication skills, both written and spoken</li>\n<li>Someone excited to be a part of a collaborative team that is focused on building a product that will delight customers</li>\n<li>Someone unbiased toward a specific technology: finding the right tools for the job</li>\n</ul>\n<h3>*<em>Benefits *</em></h3>\n<ul>\n<li><strong>Ownership</strong>. Everyone gets stock options.</li>\n<li><strong>Technology</strong>. Top-of-the-line tools and equipment both locally and in the cloud.</li>\n<li><strong>Learning</strong>. Dedicated learning time every month, with budgets for resources, books and conferences.</li>\n<li><strong>Wellness</strong>. Gym discounts, health insurance, unlimited coffee, beer, and cereal, enhanced maternity and paternity packages, unlimited holiday and flexible working options, pension.</li>\n<li><strong>[Insert other generic startup perks]</strong>. Yes we have those… but what’s more important are the four points above. A team that gets things done, and has fun doing it.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Global Recruiting Lead",
+        "role": "Employee",
+        "url": "https://angel.co/u/natasha-lees-2",
+        "name": "Natasha Lees",
+        "avatar": "https://photos.angel.co/users/7334424-medium_jpg?1516202730"
+      },
+      "refs": {
+        "angelListId": "807040",
+        "angelListUrl": "https://angel.co/company/beamery/jobs/807040-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior DevOps Engineer",
+      "description": "We're looking for a talented engineer to join our rapidly expanding DevOps team here at Beamery HQ in London.\n\nIdeally, we'd love to bring in an experienced engineer who wants to join an innovative culture, implementing bleeding edge technology at a global scale.\n\nHaving a thirst for delivering rock solid and highly scalable infrastructure should be ingrained into you. Battle scars of your experience in the form of DevOps anecdotes and personal projects will fit you right into this team of veterans.\n\nWhat skills & experience would we like you to bring to Beamery? \n- You actively contribute to docker hub or other public community.\n- Expertise in Kubernetes, Rancher or Docker swarm.\n- Terraform/Ansible are second nature and your tool of choice for deploying infrastructure.\n- Experience with building out multi-regional, scalable cloud platforms preferably on GCP\n- Fluent in Go, Nodejs or python.\n- Passion for Linux and ability to work only in the shell.\n- You’ll be experienced in scaling databases (MongoDB).\n- Able to give opinions on tmux vs screen.\n- Will have the ability to manage multiple systems across stratified environments.\n\n\n\nWhat responsibilities will you have here?\n- Ability to perform complex work that is a dependent requirement of feature teams to deliver.\n- Mindfulness of scaling architecture to meet global demand.\n- Enthusiasm around DevOps and a keen desire to get other people involved.\n- A sense of ownership across platforms and environments.\n- Out of hours debugging when an emergency arises and you’re the only person on this planet that can fix it.\n\nBenefits:\n- Ownership. Everyone gets stock options.\n- Learning. Dedicated learning time every week, with budgets for resources, books and conferences.\n- Wellness. Gym discounts, coffee and whatever you need to keep you at your best.\n[Insert other generic startup perks]. Yes we have those... but what's more important are the three points above. A team that gets stuff done, and has more fun doing it. More than any ping pong tournament (although we do get competitive at that too).\n\nCloses 21 July 2019",
+      "descriptionHtml": "<p>We&#39;re looking for a talented engineer to join our rapidly expanding DevOps team here at Beamery HQ in London.</p>\n\n<p>Ideally, we&#39;d love to bring in an experienced engineer who wants to join an innovative culture, implementing bleeding edge technology at a global scale.</p>\n\n<p>Having a thirst for delivering rock solid and highly scalable infrastructure should be ingrained into you. Battle scars of your experience in the form of DevOps anecdotes and personal projects will fit you right into this team of veterans.</p>\n\n<p>What skills &amp; experience would we like you to bring to Beamery? </p>\n\n<ul>\n<li>You actively contribute to docker hub or other public community.</li>\n<li>Expertise in Kubernetes, Rancher or Docker swarm.</li>\n<li>Terraform/Ansible are second nature and your tool of choice for deploying infrastructure.</li>\n<li>Experience with building out multi-regional, scalable cloud platforms preferably on GCP</li>\n<li>Fluent in Go, Nodejs or python.</li>\n<li>Passion for Linux and ability to work only in the shell.</li>\n<li>You’ll be experienced in scaling databases (MongoDB).</li>\n<li>Able to give opinions on tmux vs screen.</li>\n<li>Will have the ability to manage multiple systems across stratified environments.</li>\n</ul>\n\n<p>What responsibilities will you have here?</p>\n\n<ul>\n<li>Ability to perform complex work that is a dependent requirement of feature teams to deliver.</li>\n<li>Mindfulness of scaling architecture to meet global demand.</li>\n<li>Enthusiasm around DevOps and a keen desire to get other people involved.</li>\n<li>A sense of ownership across platforms and environments.</li>\n<li>Out of hours debugging when an emergency arises and you’re the only person on this planet that can fix it.</li>\n</ul>\n\n<p>Benefits:</p>\n\n<ul>\n<li>Ownership. Everyone gets stock options.</li>\n<li>Learning. Dedicated learning time every week, with budgets for resources, books and conferences.</li>\n<li>Wellness. Gym discounts, coffee and whatever you need to keep you at your best.\n[Insert other generic startup perks]. Yes we have those... but what&#39;s more important are the three points above. A team that gets stuff done, and has more fun doing it. More than any ping pong tournament (although we do get competitive at that too).</li>\n</ul>\n\n<p>Closes 21 July 2019</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£70k – £100k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/sultan-murad-saidov",
+        "name": "Sultan Murad Saidov",
+        "avatar": "https://photos.angel.co/users/374171-medium_jpg?1405622046"
+      },
+      "refs": {
+        "angelListId": "575885",
+        "angelListUrl": "https://angel.co/company/beamery/jobs/575885-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Senior Digital Marketing Manager",
+      "description": "We’re hiring for a new Digital Marketing Manager. This role will be responsible for scaling Beamery’s paid advertising initiatives to drive demand generation and brand awareness, and will take ownership of the end-to-end performance marketing process.\n\n \n\nWHAT WILL YOU DO AS A DIGITAL MARKETING MANAGER AT BEAMERY?\n\nScale all of Beamery’s paid advertising initiatives to drive demand generation and brand awareness\n\nDay to day responsibility for planning, activating and optimizing digital media on multiple platforms (incl SEM, Paid Social, Display)\n\nOversee campaign budgeting, reviewing pacing and optimising media- making continual adjustments to performance levers such as creative, targeting and bidding to ensure performance marketing goals are achieved\n\nProvide reporting on campaign effectiveness. Use data to evaluate end-to-end customer experience across landing pages, ad networks and customer touch points and provide recommendations for improvements\n\nGenerate new and innovative paid opportunities across offline and online channels\n\nLead and own relationships with vendors and third party services\n\n \n\nWHAT WE’RE LOOKING FOR\n\nExtremely metrics driven, continuously measure and improve results across all channels\n\n3-5 years experience in a digital marketing role \n\nProven expertise in creating and executing large scale campaigns through SEM, Paid Social and Display\n\nPerformance mindset- ability to understand the levers that drive performance and the actions needed to optimize campaigns (audience, bids/budgets, creative, conversion rate levers)\n\nCRM (Salesforce.com) and Marketing Automation (Marketo) experience strongly preferred.\n\nExperience using tools like Demandbase and Terminus are a bonus\n\nProficient in Microsoft Excel\n\nSelf-starter with a high degree of motivation\n\nStructured thinker and strong analytical skills\n\nAbility to work across teams and collaborate with cross-functional teams in a dynamic environment\n\nStrong attention to detail and the ability to collaborate",
+      "descriptionHtml": "<p>We’re hiring for a new Digital Marketing Manager. This role will be responsible for scaling Beamery’s paid advertising initiatives to drive demand generation and brand awareness, and will take ownership of the end-to-end performance marketing process.</p>\n\n<p>WHAT WILL YOU DO AS A DIGITAL MARKETING MANAGER AT BEAMERY?</p>\n\n<p>Scale all of Beamery’s paid advertising initiatives to drive demand generation and brand awareness</p>\n\n<p>Day to day responsibility for planning, activating and optimizing digital media on multiple platforms (incl SEM, Paid Social, Display)</p>\n\n<p>Oversee campaign budgeting, reviewing pacing and optimising media- making continual adjustments to performance levers such as creative, targeting and bidding to ensure performance marketing goals are achieved</p>\n\n<p>Provide reporting on campaign effectiveness. Use data to evaluate end-to-end customer experience across landing pages, ad networks and customer touch points and provide recommendations for improvements</p>\n\n<p>Generate new and innovative paid opportunities across offline and online channels</p>\n\n<p>Lead and own relationships with vendors and third party services</p>\n\n<p>WHAT WE’RE LOOKING FOR</p>\n\n<p>Extremely metrics driven, continuously measure and improve results across all channels</p>\n\n<p>3-5 years experience in a digital marketing role </p>\n\n<p>Proven expertise in creating and executing large scale campaigns through SEM, Paid Social and Display</p>\n\n<p>Performance mindset- ability to understand the levers that drive performance and the actions needed to optimize campaigns (audience, bids/budgets, creative, conversion rate levers)</p>\n\n<p>CRM (Salesforce.com) and Marketing Automation (Marketo) experience strongly preferred.</p>\n\n<p>Experience using tools like Demandbase and Terminus are a bonus</p>\n\n<p>Proficient in Microsoft Excel</p>\n\n<p>Self-starter with a high degree of motivation</p>\n\n<p>Structured thinker and strong analytical skills</p>\n\n<p>Ability to work across teams and collaborate with cross-functional teams in a dynamic environment</p>\n\n<p>Strong attention to detail and the ability to collaborate</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "SEO/SEM",
+        "Social Media Marketing",
+        "SEO and Marketing Services",
+        "Digital Marketing",
+        "Digital Optimization Including SEO",
+        "Social Media Strategy",
+        "Linkedin Marketing",
+        "Digital Marketing Strategy",
+        "Digital Marketing (SEO & Content Creation)"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/danielle-weitzman-2",
+        "name": "Danielle Weitzman",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "620004",
+        "angelListUrl": "https://angel.co/company/beamery/jobs/620004-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Frontend Engineer",
+      "description": "About Beamery\n\nBeamery’s mission is to help companies acquire their greatest asset; their people. Our Talent Operating System lets companies attract, engage, and retain the best talent - it’s the one solution that enterprises need to deliver exceptional experiences at every stage of the talent journey, and build meaningful relationships with their future employees.\n\nWe employ people who are superb at their jobs and are a reliable, friendly bunch who leave egos out of the equation. We are a team that cares about the right outcome above everything else.\n\nAbout the Opportunity \n\nWe’re seeking an experienced Senior Front End Developer to join the Beamery team and be a vital contributor to the front end of our SaaS platform. You’ll work with our wide-ranging tech stack, with micro-frontends written in React, Angular and core ES6. Each new project is greenfield, and we’re firm believers of always using the best tools for the job. Check out this blog post by Lead Front End Engineer, Nicholas Johnson (https://medium.com/hacking-talent/using-micro-frontends-to-permanently-solve-the-legacy-javascript-problem-5fba18b0ceac)\n\nWhat will you be doing at Beamery?\n\n* Building beautiful, scaleable products with wide market exposure\n* Being a leading contributor to our projects on the front end\n* Being hands on with our code base, as well as making suggestions for technologies and processes\n* Taking part in regular collaborative teach-ins and learn new skills\n* Working as part of an Agile team with support from Product and Design\n* Mentoring junior developers from your experience\n\nWho are we looking for? \n\n* Strong skills in HTML5, CSS3 and SCSS.\n* A strong understanding of at least one of: React, AngularJS or another component-oriented framework.\n* Solid JavaScript and ES6 skills, Functional and Object Oriented programming.\n* Understanding of tooling (Webpack, NPM etc.)\n* Understanding of Flux/Redux data flow, immutability.\n* Excellent communication skills, both written and spoken.\n* Someone who enjoys being part of a collaborative team focused on building a product to delight our customers.\n* Someone excited by finding the right tools for the job, and by greenfield projects.\n* Some Node.js experience is a bonus!",
+      "descriptionHtml": "<p>About Beamery</p>\n\n<p>Beamery’s mission is to help companies acquire their greatest asset; their people. Our Talent Operating System lets companies attract, engage, and retain the best talent - it’s the one solution that enterprises need to deliver exceptional experiences at every stage of the talent journey, and build meaningful relationships with their future employees.</p>\n\n<p>We employ people who are superb at their jobs and are a reliable, friendly bunch who leave egos out of the equation. We are a team that cares about the right outcome above everything else.</p>\n\n<p>About the Opportunity </p>\n\n<p>We’re seeking an experienced Senior Front End Developer to join the Beamery team and be a vital contributor to the front end of our SaaS platform. You’ll work with our wide-ranging tech stack, with micro-frontends written in React, Angular and core ES6. Each new project is greenfield, and we’re firm believers of always using the best tools for the job. Check out this blog post by Lead Front End Engineer, Nicholas Johnson (<a href=\"https://medium.com/hacking-talent/using-micro-frontends-to-permanently-solve-the-legacy-javascript-problem-5fba18b0ceac\" target=\"_blank\" rel=\"nofollow\">https://medium.com/hacking-talent/using-micro-frontends-to-permanently-solve-the-legacy-javascript-problem-5fba18b0ceac</a>)</p>\n\n<p>What will you be doing at Beamery?</p>\n\n<ul>\n<li>Building beautiful, scaleable products with wide market exposure</li>\n<li>Being a leading contributor to our projects on the front end</li>\n<li>Being hands on with our code base, as well as making suggestions for technologies and processes</li>\n<li>Taking part in regular collaborative teach-ins and learn new skills</li>\n<li>Working as part of an Agile team with support from Product and Design</li>\n<li>Mentoring junior developers from your experience</li>\n</ul>\n\n<p>Who are we looking for? </p>\n\n<ul>\n<li>Strong skills in HTML5, CSS3 and SCSS.</li>\n<li>A strong understanding of at least one of: React, AngularJS or another component-oriented framework.</li>\n<li>Solid JavaScript and ES6 skills, Functional and Object Oriented programming.</li>\n<li>Understanding of tooling (Webpack, NPM etc.)</li>\n<li>Understanding of Flux/Redux data flow, immutability.</li>\n<li>Excellent communication skills, both written and spoken.</li>\n<li>Someone who enjoys being part of a collaborative team focused on building a product to delight our customers.</li>\n<li>Someone excited by finding the right tools for the job, and by greenfield projects.</li>\n<li>Some Node.js experience is a bonus!</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£75k – £100k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/sultan-murad-saidov",
+        "name": "Sultan Murad Saidov",
+        "avatar": "https://photos.angel.co/users/374171-medium_jpg?1405622046"
+      },
+      "refs": {
+        "angelListId": "515069",
+        "angelListUrl": "https://angel.co/company/beamery/jobs/515069-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "Senior Product Designer",
+      "description": "About Beamery\n\nBeamery’s mission is to help companies acquire their greatest asset; their people. Our Talent Operating System lets companies attract, engage, and retain the best talent - it’s the one solution that enterprises need to deliver exceptional experiences at every stage of the talent journey, and build meaningful relationships with their future employees.\n\nWe employ people who are superb at their jobs and are a reliable, friendly bunch who leave egos out of the equation. We are a team that cares about the right outcome above everything else.\n\nAbout the Opportunity \n\nWe’re looking for a Senior Product Designer that can create world-class designs that visually amaze but are simple to use - someone who wants to perform their craft in a way that empowers our customers to hire better, and help push the boundaries of talent acquisition.\n\nWhat will you be doing at Beamery?\n\n* Seek out creative, design-led solutions to challenging problems\n* Guide the team to develop best practices for ensuring a high bar of quality\n* Work with our Product, Engineering and Customer Success teams to conceptualise, wireframe and ship high-fidelity designs of new features\n* Share and revise your designs based on research, customer interviews and peer feedback\n* Contribute to our growing design system in an effort to cultivate a coherent look and feel across the entire Beamery platform\n* Execute in a fast-paced and highly fluid environment\n\nWho are we looking for? \n\n* At least 2- 3 years experience within Consulting, Finance or Operations with a focus on data analysis \n* Skilled user of BI tools including Excel and Domo\n* High business acumen with the ability, proactiveness and desire to find and drive process improvement and solution development \n* Strong ability to navigate through ambiguous situations and think outside of the box\n* Ability to uncover and define business needs based on self-initiated interviews, diagrams, surveys and workflow analysis\n* Ability to roll your sleeves up to get something done on your own as well as the ability to engage with all levels of the organization to effectively drive outcomes \n* Ability to thrive in a cross-functional, fast-paced environment and desire for continuous learning",
+      "descriptionHtml": "<p>About Beamery</p>\n\n<p>Beamery’s mission is to help companies acquire their greatest asset; their people. Our Talent Operating System lets companies attract, engage, and retain the best talent - it’s the one solution that enterprises need to deliver exceptional experiences at every stage of the talent journey, and build meaningful relationships with their future employees.</p>\n\n<p>We employ people who are superb at their jobs and are a reliable, friendly bunch who leave egos out of the equation. We are a team that cares about the right outcome above everything else.</p>\n\n<p>About the Opportunity </p>\n\n<p>We’re looking for a Senior Product Designer that can create world-class designs that visually amaze but are simple to use - someone who wants to perform their craft in a way that empowers our customers to hire better, and help push the boundaries of talent acquisition.</p>\n\n<p>What will you be doing at Beamery?</p>\n\n<ul>\n<li>Seek out creative, design-led solutions to challenging problems</li>\n<li>Guide the team to develop best practices for ensuring a high bar of quality</li>\n<li>Work with our Product, Engineering and Customer Success teams to conceptualise, wireframe and ship high-fidelity designs of new features</li>\n<li>Share and revise your designs based on research, customer interviews and peer feedback</li>\n<li>Contribute to our growing design system in an effort to cultivate a coherent look and feel across the entire Beamery platform</li>\n<li>Execute in a fast-paced and highly fluid environment</li>\n</ul>\n\n<p>Who are we looking for? </p>\n\n<ul>\n<li>At least 2- 3 years experience within Consulting, Finance or Operations with a focus on data analysis </li>\n<li>Skilled user of BI tools including Excel and Domo</li>\n<li>High business acumen with the ability, proactiveness and desire to find and drive process improvement and solution development </li>\n<li>Strong ability to navigate through ambiguous situations and think outside of the box</li>\n<li>Ability to uncover and define business needs based on self-initiated interviews, diagrams, surveys and workflow analysis</li>\n<li>Ability to roll your sleeves up to get something done on your own as well as the ability to engage with all levels of the organization to effectively drive outcomes </li>\n<li>Ability to thrive in a cross-functional, fast-paced environment and desire for continuous learning</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£40k – £50k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": "Senior Technical Recruiter",
+        "role": "Employee",
+        "url": "https://angel.co/u/takveen-bashir-1",
+        "name": "Takveen Bashir",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "362399",
+        "angelListUrl": "https://angel.co/company/beamery/jobs/362399-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior SRE Platform Engineer",
+      "description": "About Beamery\n\nBeamery’s mission is to help companies acquire their greatest asset; their people. Our Talent Operating System lets companies attract, engage, and retain the best talent - it’s the one solution that enterprises need to deliver exceptional experiences at every stage of the talent journey, and build meaningful relationships with their future employees.\n\nWe employ people who are superb at their jobs and are a reliable, friendly bunch who leave egos out of the equation. We are a team that cares about the right outcome above everything else.\n\nAbout the Opportunity \n\nWe're looking for a talented SRE Platform engineer to join our rapidly expanding team here at Beamery HQ in London. Ideally, we'd love to bring in an experienced engineer who wants to join an innovative culture, implementing bleeding edge technology at a global scale.\n\nWhat will you be doing at Beamery?\n\n* Have ownership of mission-critical production and multi-tenanted SaaS operations: on-rota, monitoring, alerting, configuration and change management, incident management and disaster recovery\n* Have ownership of service scalability, elasticity, fault-tolerance and disaster recovery\n* Continuously improve SLOs such as availability, performance and recoverability\n* Eliminate operational toil & engineering knowledge silos\n* Have ownership of production incidents post-mortems advocating blameless culture\n* Be a key contributor to service release management\n\nWho are we looking for? \n\n* Previous experience as a Site Reliability Engineer or DevOps Engineer\n* Experience with building out multi-regional, scalable cloud platforms preferably on GCP\n* Excellent understanding of DNS, cloud networking and infrastructure \n* Excellent debugging and analytical skills: ability to isolate root cause across networking/infrastructure, application and database stacks\n* Excellent understanding of Linux, Docker and Kubernetes (or similar container orchestration tool)\n* Experience with configuration management tooling such as Consul, Zookeeper and etcd\n* Experience with Infrastructure-as-Code tooling (i.e. Terraform/Puppet/Chef)\n* Experience with languages such as Go, Node.js and Bash scripting\n* A systematic problem solving approach, coupled with a strong sense of ownership and drive\n* A history of automating operations processes via services and tools\n* Able to balance technical direction with the business value needed factoring into solutions multiple constraints such as scale, distribution, costs, users, patterns\n* Bonus:\n** Experience of operational management of message brokers at scale (i.e. Kafka, RabbitMQ etc)\n** Experience of operational management of NoSQL/in-memory databases at scale \n** Experience running ETL type workloads at scale\n** Experience with service mesh technologies (i.e. Istio, Consul, Linkerd)",
+      "descriptionHtml": "<p>About Beamery</p>\n\n<p>Beamery’s mission is to help companies acquire their greatest asset; their people. Our Talent Operating System lets companies attract, engage, and retain the best talent - it’s the one solution that enterprises need to deliver exceptional experiences at every stage of the talent journey, and build meaningful relationships with their future employees.</p>\n\n<p>We employ people who are superb at their jobs and are a reliable, friendly bunch who leave egos out of the equation. We are a team that cares about the right outcome above everything else.</p>\n\n<p>About the Opportunity </p>\n\n<p>We&#39;re looking for a talented SRE Platform engineer to join our rapidly expanding team here at Beamery HQ in London. Ideally, we&#39;d love to bring in an experienced engineer who wants to join an innovative culture, implementing bleeding edge technology at a global scale.</p>\n\n<p>What will you be doing at Beamery?</p>\n\n<ul>\n<li>Have ownership of mission-critical production and multi-tenanted SaaS operations: on-rota, monitoring, alerting, configuration and change management, incident management and disaster recovery</li>\n<li>Have ownership of service scalability, elasticity, fault-tolerance and disaster recovery</li>\n<li>Continuously improve SLOs such as availability, performance and recoverability</li>\n<li>Eliminate operational toil &amp; engineering knowledge silos</li>\n<li>Have ownership of production incidents post-mortems advocating blameless culture</li>\n<li>Be a key contributor to service release management</li>\n</ul>\n\n<p>Who are we looking for? </p>\n\n<ul>\n<li>Previous experience as a Site Reliability Engineer or DevOps Engineer</li>\n<li>Experience with building out multi-regional, scalable cloud platforms preferably on GCP</li>\n<li>Excellent understanding of DNS, cloud networking and infrastructure </li>\n<li>Excellent debugging and analytical skills: ability to isolate root cause across networking/infrastructure, application and database stacks</li>\n<li>Excellent understanding of Linux, Docker and Kubernetes (or similar container orchestration tool)</li>\n<li>Experience with configuration management tooling such as Consul, Zookeeper and etcd</li>\n<li>Experience with Infrastructure-as-Code tooling (i.e. Terraform/Puppet/Chef)</li>\n<li>Experience with languages such as Go, Node.js and Bash scripting</li>\n<li>A systematic problem solving approach, coupled with a strong sense of ownership and drive</li>\n<li>A history of automating operations processes via services and tools</li>\n<li>Able to balance technical direction with the business value needed factoring into solutions multiple constraints such as scale, distribution, costs, users, patterns</li>\n<li>Bonus:\n** Experience of operational management of message brokers at scale (i.e. Kafka, RabbitMQ etc)\n** Experience of operational management of NoSQL/in-memory databases at scale \n** Experience running ETL type workloads at scale\n** Experience with service mesh technologies (i.e. Istio, Consul, Linkerd)</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Site Reliability Engineering",
+        "Google Cloud Platform",
+        "Kubernetes"
+      ],
+      "payment": {
+        "salary": "£70k – £110k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/sultan-murad-saidov",
+        "name": "Sultan Murad Saidov",
+        "avatar": "https://photos.angel.co/users/374171-medium_jpg?1405622046"
+      },
+      "refs": {
+        "angelListId": "575877",
+        "angelListUrl": "https://angel.co/company/beamery/jobs/575877-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Technical Account Manager",
+      "description": "**Technical Account Manager**\n\nWe believe talent is a company’s greatest asset. Finding, engaging and retaining that talent starts with building meaningful relationships and delivering exceptional candidate experiences at every stage of the candidate journey.\n\nBeamery is the leading Talent Engagement Platform. Combining Talent CRM, Talent Marketing, Automated Compliance, and a Connected layer to legacy systems, it enables companies to attract, identify and engage candidates on one unified platform, to deliver better talent acquisition at scale.\n\nAt Beamery we’re powering the shift towards a candidate first Talent Engagement strategy, shifting recruiting from a reactive, to a proactive processes and empowering talent teams in new areas critical to successful Talent Engagement, from branding, events and compliance, to forecasting & planning. Our Talent Engagement platform offers a new level of comprehensiveness, consolidating essential modern talent acquisition activities into one system and offering a connected solution that powers the entire candidate journey.\n\n**About Customer Success**\n\nThe product we build is truly changing the way companies find and hire talent, and our role in Customer Success is to make sure that our users make the best of it. Our constant support and engagement is one of Beamery’s biggest strengths- we act as advisors and agents of change to our customers, and we bring back their feedback and requests to the rest of the team. We invest time in understanding our customer’s business needs, and strategically think about how the product can best fulfill them. Our goal? To make every single interaction with Beamery productive, easy and enjoyable.\n\n**The Role**\n\nThe Technical Account Manager will develop and maintain close relationships with a strategic group of enterprise customers and collaborate closely with our Senior Customer Success Manager on assigned accounts. This role requires a self-motivated professional that consistently brings a high level of commitment to customers and colleagues. \n\nThe ideal candidate brings strong communication and project management skills as well as strong technical background and the ability to strategically and tactically navigate the challenges with large, strategic customers.\n\n\n**What will you be doing at Beamery?**\n\nWorking in collaboration with a Customer Success Manager on assigned strategic customers, coordinate and prioritize business critical product enhancements, customer development work and cases/events\nResponsible for driving escalations and managing incidents for assigned customers, including internal and external communications with stakeholders.\nBecome a Beamery expert and use that expertise to drive optimal outcomes for assigned customers.\nEstablishing a trusted technical advisor relationship that works to ensure the customer’s overall satisfaction with Beamery products and be proactive in helping them use Beamery better, but also give them guidance on best practices across their talent technology stack and workflows.\nReview upcoming customer events and planned production activities to identify potential problems, then plan and execute solutions\nSuccessfully engage with Senior Leadership, Technical and Functional staff to remove roadblocks, address delays and mitigate issues.\nAct as a liaison between Engineering, Product Management, Professional Services, Customer Success Managers, Customer Support and Customers.\nOwn and drive escalated issues blocking production success\nPrioritising and driving resolution on escalated customer issues\nEffectively use sound business judgment, risk avoidance and SME resources to coordinate team efforts to solve problems\nManage challenging situations in a fast paced environment\nCarry out regular review of customer cases to identify trends\nDrive customer self-sufficiency by ensuring their customers understand how to engage with the Beamery Customer Support organization and leverage tools\nPilot new programs and drive continuous improvement initiatives for production customers\nBeing the “voice of the customer” and acting as their internal advocate within Beamery.\n \n**Who are we looking for? **\n\n5+ years of experience in product support, customer success, account management or consulting for complex HR/HCM/TA systems\nEstablished history of successfully managing issues through resolution and escalation management at executive level\nProven ability to collaborate and build strong relationships with customers across cross functional teams (Product Management, Engineering, Customer Support, Professional Services, and Operations)\nExcellent verbal, presentation and written communication skills, including the ability to chair meetings\nAbility to read, anticipate and assess high stress situations quickly\nAbility to deal with the stress related to project timeframes and competing priorities.\nStrong planning and organizational skills (Project Management experience is a must)\nAbility to work independently, adapt quickly, and maintain a positive attitude\nExcellent analytical, problem solving, and multitasking skills\nYou’re comfortable working with a global team and global customers, and you’re adept at managing workloads across time zones\nAn outstanding customer service record\nWillingness to travel up to 25% of the time\n\n**Benefits & Perks**\n\nCompetitive pay and stock options. \n401 (k) package.\nUnlimited PTO.\n100% paid medical, dental and vision care options. Gym discounts and whatever else you need to keep you at your best.",
+      "descriptionHtml": "<p><strong>Technical Account Manager</strong></p>\n\n<p>We believe talent is a company’s greatest asset. Finding, engaging and retaining that talent starts with building meaningful relationships and delivering exceptional candidate experiences at every stage of the candidate journey.</p>\n\n<p>Beamery is the leading Talent Engagement Platform. Combining Talent CRM, Talent Marketing, Automated Compliance, and a Connected layer to legacy systems, it enables companies to attract, identify and engage candidates on one unified platform, to deliver better talent acquisition at scale.</p>\n\n<p>At Beamery we’re powering the shift towards a candidate first Talent Engagement strategy, shifting recruiting from a reactive, to a proactive processes and empowering talent teams in new areas critical to successful Talent Engagement, from branding, events and compliance, to forecasting &amp; planning. Our Talent Engagement platform offers a new level of comprehensiveness, consolidating essential modern talent acquisition activities into one system and offering a connected solution that powers the entire candidate journey.</p>\n\n<p><strong>About Customer Success</strong></p>\n\n<p>The product we build is truly changing the way companies find and hire talent, and our role in Customer Success is to make sure that our users make the best of it. Our constant support and engagement is one of Beamery’s biggest strengths- we act as advisors and agents of change to our customers, and we bring back their feedback and requests to the rest of the team. We invest time in understanding our customer’s business needs, and strategically think about how the product can best fulfill them. Our goal? To make every single interaction with Beamery productive, easy and enjoyable.</p>\n\n<p><strong>The Role</strong></p>\n\n<p>The Technical Account Manager will develop and maintain close relationships with a strategic group of enterprise customers and collaborate closely with our Senior Customer Success Manager on assigned accounts. This role requires a self-motivated professional that consistently brings a high level of commitment to customers and colleagues. </p>\n\n<p>The ideal candidate brings strong communication and project management skills as well as strong technical background and the ability to strategically and tactically navigate the challenges with large, strategic customers.</p>\n\n<p><strong>What will you be doing at Beamery?</strong></p>\n\n<p>Working in collaboration with a Customer Success Manager on assigned strategic customers, coordinate and prioritize business critical product enhancements, customer development work and cases/events<br>\nResponsible for driving escalations and managing incidents for assigned customers, including internal and external communications with stakeholders.<br>\nBecome a Beamery expert and use that expertise to drive optimal outcomes for assigned customers.<br>\nEstablishing a trusted technical advisor relationship that works to ensure the customer’s overall satisfaction with Beamery products and be proactive in helping them use Beamery better, but also give them guidance on best practices across their talent technology stack and workflows.<br>\nReview upcoming customer events and planned production activities to identify potential problems, then plan and execute solutions<br>\nSuccessfully engage with Senior Leadership, Technical and Functional staff to remove roadblocks, address delays and mitigate issues.<br>\nAct as a liaison between Engineering, Product Management, Professional Services, Customer Success Managers, Customer Support and Customers.<br>\nOwn and drive escalated issues blocking production success<br>\nPrioritising and driving resolution on escalated customer issues<br>\nEffectively use sound business judgment, risk avoidance and SME resources to coordinate team efforts to solve problems<br>\nManage challenging situations in a fast paced environment<br>\nCarry out regular review of customer cases to identify trends<br>\nDrive customer self-sufficiency by ensuring their customers understand how to engage with the Beamery Customer Support organization and leverage tools<br>\nPilot new programs and drive continuous improvement initiatives for production customers<br>\nBeing the “voice of the customer” and acting as their internal advocate within Beamery.</p>\n\n<p>*<em>Who are we looking for? *</em></p>\n\n<p>5+ years of experience in product support, customer success, account management or consulting for complex HR/HCM/TA systems<br>\nEstablished history of successfully managing issues through resolution and escalation management at executive level<br>\nProven ability to collaborate and build strong relationships with customers across cross functional teams (Product Management, Engineering, Customer Support, Professional Services, and Operations)<br>\nExcellent verbal, presentation and written communication skills, including the ability to chair meetings<br>\nAbility to read, anticipate and assess high stress situations quickly<br>\nAbility to deal with the stress related to project timeframes and competing priorities.<br>\nStrong planning and organizational skills (Project Management experience is a must)<br>\nAbility to work independently, adapt quickly, and maintain a positive attitude<br>\nExcellent analytical, problem solving, and multitasking skills<br>\nYou’re comfortable working with a global team and global customers, and you’re adept at managing workloads across time zones<br>\nAn outstanding customer service record<br>\nWillingness to travel up to 25% of the time</p>\n\n<p><strong>Benefits &amp; Perks</strong></p>\n\n<p>Competitive pay and stock options. <br>\n401 (k) package.<br>\nUnlimited PTO.<br>\n100% paid medical, dental and vision care options. Gym discounts and whatever else you need to keep you at your best.</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "Austin",
+        "San Francisco",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "SaaS",
+        "Enterprise Software",
+        "Start-Ups",
+        "Professional Services",
+        "Account Management",
+        "Customer success management",
+        "Technical Account Manager"
+      ],
+      "payment": {
+        "salary": "$90k – $100k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/danielle-weitzman-2",
+        "name": "Danielle Weitzman",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "738133",
+        "angelListUrl": "https://angel.co/company/beamery/jobs/738133-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Technical Account Manager",
+      "description": " **Technical Account Manager**  \n  \n**Beamery Specific Details**  \nWe believe talent is a company’s greatest asset. Finding, engaging and retaining that talent starts with building meaningful relationships and delivering exceptional candidate experiences at every stage of the candidate journey.   \n   \nBeamery is the leading Talent Engagement Platform. Combining Talent CRM, Talent Marketing, Automated Compliance, and a Connected layer to legacy systems, it enables companies to attract, identify and engage candidates on one unified platform, to deliver better talent acquisition at scale.   \n  \nAt Beamery we’re powering the shift towards a candidate first Talent Engagement strategy, shifting recruiting from a reactive to a proactive process and empowering talent teams in new areas critical to successful Talent Engagement, from branding, events, and compliance, to forecasting & planning. Our Talent Engagement platform offers a new level of comprehensiveness, consolidating essential modern talent acquisition activities into one system and offering a connected solution that powers the entire candidate journey.  \n  \n**About Customer Success**\n\nThe product we build is truly changing the way companies find and hire talent, and our role in Customer Success is to make sure that our users make the best of it. Our constant support and engagement is one of Beamery’s biggest strengths- we act as advisors and agents of change to our customers, and we bring back their feedback and requests to the rest of the team. We invest time in understanding our customer’s business needs, and strategically think about how the product can best fulfill them. Our goal? To make every single interaction with Beamery productive, easy and enjoyable.\n\n*The Technical Account Manager will develop and maintain close relationships with a strategic group of enterprise customers and collaborate closely with our Senior Customer Success Manager on assigned accounts. This role requires a self-motivated professional that consistently brings a high level of commitment to customers and colleagues. *\n\n*The ideal candidate brings strong communication and project management skills as well as strong technical background and the ability to strategically and tactically navigate the challenges with large, strategic customers.  **This role is remote and based in the US.***\n\n**What will you be doing at Beamery?**\n\n- Working in collaboration with a Customer Success Manager on assigned strategic customers, coordinate and prioritize business critical product enhancements, customer development work and cases/events\n- Responsible for driving escalations and managing incidents for assigned customers, including internal and external communications with stakeholders.\n- Become a Beamery expert and use that expertise to drive optimal outcomes for assigned customers.\n- Establishing a trusted technical advisor relationship that works to ensure the customer’s overall satisfaction with Beamery products and be proactive in helping them use Beamery better, but also give them guidance on best practices across their talent technology stack and workflows.\n- Review upcoming customer events and planned production activities to identify potential problems, then plan and execute solutions\n- Successfully engage with Senior Leadership, Technical and Functional staff to remove roadblocks, address delays and mitigate issues.\n- Act as a liaison between Engineering, Product Management, Professional Services, Customer Success Managers, Customer Support and Customers.\n- Own and drive escalated issues blocking production success\n- Prioritising and driving resolution on escalated customer issues\n- Effectively use sound business judgment, risk avoidance and SME resources to coordinate team efforts to solve problems\n- Manage challenging situations in a fast paced environment\n- Carry out regular review of customer cases to identify trends\n- Drive customer self-sufficiency by ensuring their customers understand how to engage with the Beamery Customer Support organization and leverage tools\n- Pilot new programs and drive continuous improvement initiatives for production customers\n- Being the “voice of the customer” and acting as their internal advocate within Beamery.\n\n \n\n**Who are we looking for? **\n\n- 5+ years of experience in product support, customer success, account management or consulting for complex HR/HCM/TA systems\n- Established history of successfully managing issues through resolution and escalation management at the executive level\n- Proven ability to collaborate and build strong relationships with customers across cross-functional teams (Product Management, Engineering, Customer Support, Professional Services, and Operations)\n- Excellent verbal, presentation and written communication skills, including the ability to chair meetings\n- Ability to read, anticipate and assess high-stress situations quickly\n- Ability to deal with the stress related to project timeframes and competing priorities.\n- Strong planning and organizational skills (Project Management experience is a must)\n- Ability to work independently, adapt quickly, and maintain a positive attitude\n- Excellent analytical, problem solving, and multitasking skills\n- You’re comfortable working with a global team and global customers, and you’re adept at managing workloads across time zones\n- An outstanding customer service record\n- Willingness to travel up to 25% of the time\n\n \n\n",
+      "descriptionHtml": "<p><strong>Technical Account Manager</strong>  </p>\n\n<p><strong>Beamery Specific Details</strong><br><br>\nWe believe talent is a company’s greatest asset. Finding, engaging and retaining that talent starts with building meaningful relationships and delivering exceptional candidate experiences at every stage of the candidate journey.   </p>\n\n<p>Beamery is the leading Talent Engagement Platform. Combining Talent CRM, Talent Marketing, Automated Compliance, and a Connected layer to legacy systems, it enables companies to attract, identify and engage candidates on one unified platform, to deliver better talent acquisition at scale.   </p>\n\n<p>At Beamery we’re powering the shift towards a candidate first Talent Engagement strategy, shifting recruiting from a reactive to a proactive process and empowering talent teams in new areas critical to successful Talent Engagement, from branding, events, and compliance, to forecasting &amp; planning. Our Talent Engagement platform offers a new level of comprehensiveness, consolidating essential modern talent acquisition activities into one system and offering a connected solution that powers the entire candidate journey.  </p>\n\n<p><strong>About Customer Success</strong></p>\n\n<p>The product we build is truly changing the way companies find and hire talent, and our role in Customer Success is to make sure that our users make the best of it. Our constant support and engagement is one of Beamery’s biggest strengths- we act as advisors and agents of change to our customers, and we bring back their feedback and requests to the rest of the team. We invest time in understanding our customer’s business needs, and strategically think about how the product can best fulfill them. Our goal? To make every single interaction with Beamery productive, easy and enjoyable.</p>\n\n<p>*The Technical Account Manager will develop and maintain close relationships with a strategic group of enterprise customers and collaborate closely with our Senior Customer Success Manager on assigned accounts. This role requires a self-motivated professional that consistently brings a high level of commitment to customers and colleagues. *</p>\n\n<p><em>The ideal candidate brings strong communication and project management skills as well as strong technical background and the ability to strategically and tactically navigate the challenges with large, strategic customers.  *</em>This role is remote and based in the US.***</p>\n\n<p><strong>What will you be doing at Beamery?</strong></p>\n\n<ul>\n<li>Working in collaboration with a Customer Success Manager on assigned strategic customers, coordinate and prioritize business critical product enhancements, customer development work and cases/events</li>\n<li>Responsible for driving escalations and managing incidents for assigned customers, including internal and external communications with stakeholders.</li>\n<li>Become a Beamery expert and use that expertise to drive optimal outcomes for assigned customers.</li>\n<li>Establishing a trusted technical advisor relationship that works to ensure the customer’s overall satisfaction with Beamery products and be proactive in helping them use Beamery better, but also give them guidance on best practices across their talent technology stack and workflows.</li>\n<li>Review upcoming customer events and planned production activities to identify potential problems, then plan and execute solutions</li>\n<li>Successfully engage with Senior Leadership, Technical and Functional staff to remove roadblocks, address delays and mitigate issues.</li>\n<li>Act as a liaison between Engineering, Product Management, Professional Services, Customer Success Managers, Customer Support and Customers.</li>\n<li>Own and drive escalated issues blocking production success</li>\n<li>Prioritising and driving resolution on escalated customer issues</li>\n<li>Effectively use sound business judgment, risk avoidance and SME resources to coordinate team efforts to solve problems</li>\n<li>Manage challenging situations in a fast paced environment</li>\n<li>Carry out regular review of customer cases to identify trends</li>\n<li>Drive customer self-sufficiency by ensuring their customers understand how to engage with the Beamery Customer Support organization and leverage tools</li>\n<li>Pilot new programs and drive continuous improvement initiatives for production customers</li>\n<li>Being the “voice of the customer” and acting as their internal advocate within Beamery.</li>\n</ul>\n\n<p>*<em>Who are we looking for? *</em></p>\n\n<ul>\n<li>5+ years of experience in product support, customer success, account management or consulting for complex HR/HCM/TA systems</li>\n<li>Established history of successfully managing issues through resolution and escalation management at the executive level</li>\n<li>Proven ability to collaborate and build strong relationships with customers across cross-functional teams (Product Management, Engineering, Customer Support, Professional Services, and Operations)</li>\n<li>Excellent verbal, presentation and written communication skills, including the ability to chair meetings</li>\n<li>Ability to read, anticipate and assess high-stress situations quickly</li>\n<li>Ability to deal with the stress related to project timeframes and competing priorities.</li>\n<li>Strong planning and organizational skills (Project Management experience is a must)</li>\n<li>Ability to work independently, adapt quickly, and maintain a positive attitude</li>\n<li>Excellent analytical, problem solving, and multitasking skills</li>\n<li>You’re comfortable working with a global team and global customers, and you’re adept at managing workloads across time zones</li>\n<li>An outstanding customer service record</li>\n<li>Willingness to travel up to 25% of the time</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Seattle",
+        "San Francisco",
+        "West Coast"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$90k – $100k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/danielle-weitzman-2",
+        "name": "Danielle Weitzman",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "680382",
+        "angelListUrl": "https://angel.co/company/beamery/jobs/680382-"
+      }
+    }
+  ]
+}

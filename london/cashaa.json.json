@@ -1,0 +1,92 @@
+{
+  "name": "Cashaa",
+  "avatar": "https://photos.angel.co/startups/i/3300798-6beda403b6909101fcca9fcdf3e11a32-medium_jpg.jpg?buster=1537352669",
+  "slogan": "One Bank Account for new and old Money",
+  "description": "A global bank account to store, receive & exchange various currencies and crypto assets and additional services for SME and individuals.\n1. Multi-currency crypto friendly account with an international bank account number.\n2. Transfer money globally with instant settlement\n3. Debit Cards to spend GBP, EUR as well as BTC and other crypto\n4. Credit line against crypto deposits\n5. Advanced reporting to track your expenses and incomes\n6. Sync transactions into your favorite accounting platform\n7. Cashaa Compliance API for companies doing Token Sales",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://cashaa.com/"
+    },
+    {
+      "type": "blog",
+      "url": "https://medium.com/cashaa"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@CashaaLtd"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/cashaaLtd/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company-beta/10835952/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "E Banking",
+    "Sme Banking",
+    "Finance Technology",
+    "Blockchain / Cryptocurrency"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 2000000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1522540800,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/kumar-gaurav-45",
+      "name": "Kumar Gaurav ",
+      "avatar": "https://photos.angel.co/users/6148589-medium_jpg?1537350167",
+      "bioHtml": "Founded Auxesis Group and Cashaa. Extraordinary (O1) status by the USA Govt, Top 100 Blockchain Influencer, Top 50 Leader on Future technology"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/priyakant-charokar",
+      "name": "Priyakant Charokar",
+      "avatar": "https://photos.angel.co/users/1044338-medium_jpg?1543930672",
+      "bioHtml": "Fullstack Architect | TOGAF® | AWS® Solutions Architect | Blockchain Enthusiast"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/anurag-kumar-98",
+      "name": "Anurag Kumar",
+      "avatar": "https://photos.angel.co/users/8375060-medium_jpg?1537355622",
+      "bioHtml": "working <a href=\"https://angel.co/company/cashaa\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Cashaa</span></a>  with professional creatives and expert developers."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/santosh-reddy-34",
+      "name": "Santosh Reddy",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "3300798",
+    "angelListUrl": "https://angel.co/company/cashaa"
+  },
+  "jobs": []
+}

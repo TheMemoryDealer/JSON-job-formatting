@@ -1,0 +1,207 @@
+{
+  "name": "Hadean",
+  "avatar": "https://photos.angel.co/startups/i/610711-e0149a229b13ab78aa0546b8f29eb256-medium_jpg.jpg?buster=1527777486",
+  "slogan": "A cloud first OS for realtime applications at hyperscale",
+  "description": "Hadean is a cloud first operating system designed for massive distribution and scale, its distribution first optimizations allow developers to build, run, and scale real-time applications at hyperscale.\n\nhttps://hadean.com\nfounders@hadean.com",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://hadean.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://hadean.com/blog"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/hadeaninc"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/hadeaninc"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/hadean"
+    },
+    {
+      "type": "productHunt",
+      "url": "https://www.producthunt.com/posts/hadean"
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "High Performance Computing",
+    "Artificial Intelligence",
+    "Gaming Software",
+    "Simulation"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 2600000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1494201600,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/craig-beddis",
+      "name": "Craig Beddis",
+      "avatar": "https://photos.angel.co/users/2050735-medium_jpg?1457993088",
+      "bioHtml": ""
+    },
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/p/rashid-mansoor",
+      "name": "Rashid Mansoor",
+      "avatar": "https://photos.angel.co/users/56953-medium_jpg?1405473973",
+      "bioHtml": "Founder &amp; CTO, Adbrain • PhD <a href=\"https://angel.co/university-of-sussex\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Sussex</span></a> • Double bachelors (EE Eng • CS)"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/charles-wedderburn",
+      "name": "Charles Wedderburn",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/glen-mac-johnson-1",
+      "name": "Glen Mac-Johnson",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Hadean"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/mimikeshani",
+      "name": "Mimi Keshani",
+      "avatar": "https://photos.angel.co/users/806974-medium_jpg?1476824408",
+      "bioHtml": "a.k.a Miriam, Implementation Manager <a href=\"https://angel.co/company/figshare\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">figshare</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "610711",
+    "angelListUrl": "https://angel.co/company/hadean"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Principal Game Engine Developer",
+      "description": "At Hadean we are changing the nature of computing. Our mission is to enable and empower the world to effortlessly harness the limitless computing power of the cloud to realise the greatest opportunities of today and tomorrow, to make the world a better place. So far in 2019 we’ve raised $10m to accelerate our growth. \n \n\nWe believe that anything is possible when you think big enough, so we give our team the platform to turn great ideas into great products. We are a deep tech company pushing the boundaries every day. Our Engineering team are rewriting the rulebook on OS design to create HadeanOS. It is distributed-first, robust to scaling, efficient, compact and fast. On this foundation we are building Aether Engine, a simulation framework capable of tackling the vast complexity of tomorrow’s gaming, life science and physical simulation challenges.\n\n \n\nAs our new Principle Engine Developer you will be key to our growth by:\n\nWorking in the Engines Chapter to own our distributed/cloud game engine and ensure that it has the power and feature set to push the boundaries of what’s possible in gaming, life science and other spatial simulation arenas.\n\nOffering your considerable experience of game engine architecture and development to the rest of the engineering team to ensure our Aether engine technology can compete with the world’s best game engines.\n\nWorking in cross-functional squads of developers on missions to deliver both foundational work and incremental improvements to Hadean’s technology. As an autonomous, self-organising team you’ll own your goals and feel the thrill of successful delivery.\n\n-\nWhat we’re looking for:\n\nIn depth knowledge of game engine architecture and in particular physics and AI/gameplay subsystems.\n\nExtensive experience designing and implementing changes to a game engine that has been used on AAA games title: UE4, Frostbite, CryEngine, Essence, Id Tech, Unity, etc.\n\nC/C++ expertise and an understanding of x86-64 architecture, memory model, and performance concerns\n\nExperience in a lead technical role designing and implementing smaller game engine projects with at least one title shipped using that engine\n\nExperience optimising engine code for memory, cache, and CPU efficiency and performance.\n\nKnowledge of games network programming and optimisation concerns.\n\nYou can take high level requirements and distil them into an elegant software design.\n\nYou are a champion for quality and know what it takes for a team to write clear, understandable and maintainable software\n\nNice but not necessary:\n\nExperience with Rust.\n\nExperience working with distributed systems or parallel computing.\n\nExperience leading development teams in an agile environment.",
+      "descriptionHtml": "<p>At Hadean we are changing the nature of computing. Our mission is to enable and empower the world to effortlessly harness the limitless computing power of the cloud to realise the greatest opportunities of today and tomorrow, to make the world a better place. So far in 2019 we’ve raised $10m to accelerate our growth. </p>\n\n<p>We believe that anything is possible when you think big enough, so we give our team the platform to turn great ideas into great products. We are a deep tech company pushing the boundaries every day. Our Engineering team are rewriting the rulebook on OS design to create HadeanOS. It is distributed-first, robust to scaling, efficient, compact and fast. On this foundation we are building Aether Engine, a simulation framework capable of tackling the vast complexity of tomorrow’s gaming, life science and physical simulation challenges.</p>\n\n<p>As our new Principle Engine Developer you will be key to our growth by:</p>\n\n<p>Working in the Engines Chapter to own our distributed/cloud game engine and ensure that it has the power and feature set to push the boundaries of what’s possible in gaming, life science and other spatial simulation arenas.</p>\n\n<p>Offering your considerable experience of game engine architecture and development to the rest of the engineering team to ensure our Aether engine technology can compete with the world’s best game engines.</p>\n\n<p>Working in cross-functional squads of developers on missions to deliver both foundational work and incremental improvements to Hadean’s technology. As an autonomous, self-organising team you’ll own your goals and feel the thrill of successful delivery.</p>\n\n<p>-<br>\nWhat we’re looking for:</p>\n\n<p>In depth knowledge of game engine architecture and in particular physics and AI/gameplay subsystems.</p>\n\n<p>Extensive experience designing and implementing changes to a game engine that has been used on AAA games title: UE4, Frostbite, CryEngine, Essence, Id Tech, Unity, etc.</p>\n\n<p>C/C++ expertise and an understanding of x86-64 architecture, memory model, and performance concerns</p>\n\n<p>Experience in a lead technical role designing and implementing smaller game engine projects with at least one title shipped using that engine</p>\n\n<p>Experience optimising engine code for memory, cache, and CPU efficiency and performance.</p>\n\n<p>Knowledge of games network programming and optimisation concerns.</p>\n\n<p>You can take high level requirements and distil them into an elegant software design.</p>\n\n<p>You are a champion for quality and know what it takes for a team to write clear, understandable and maintainable software</p>\n\n<p>Nice but not necessary:</p>\n\n<p>Experience with Rust.</p>\n\n<p>Experience working with distributed systems or parallel computing.</p>\n\n<p>Experience leading development teams in an agile environment.</p>\n",
+      "position": "full-time",
+      "experience": 7,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "C++",
+        "Distributed Systems",
+        "C",
+        "CryEngine 3",
+        "X86 Assembly/machine Code",
+        "Unreal Engine 3",
+        "AAA Games",
+        "Unreal Engine 4",
+        "Game Engines",
+        "Frostbite Engine"
+      ],
+      "payment": {
+        "salary": "£80k – £140k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/glen-mac-johnson-1",
+        "name": "Glen Mac-Johnson",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "639468",
+        "angelListUrl": "https://angel.co/company/hadean/jobs/639468-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Game Engine Developer",
+      "description": "At Hadean we are changing the nature of computing. Our mission is to enable and empower the world to effortlessly harness the limitless computing power of the cloud to realise the greatest opportunities of today and tomorrow, to make the world a better place. So far in 2019 we’ve raised $10m to accelerate our growth.\n\n\n\nWe believe that anything is possible when you think big enough, so we give our team the platform to turn great ideas into great products. We are a deep tech company pushing the boundaries every day. Our Engineering team are rewriting the rulebook on OS design to create HadeanOS. It is distributed-first, robust to scaling, efficient, compact and fast. On this foundation we are building Aether Engine, a simulation framework capable of tackling the vast complexity of tomorrow’s gaming, life science and physical simulation challenges.\n\n\n\nAs our new Game Engine Developer you will be key to our growth by:\n\nWorking in the Engines team to own our distributed/cloud game engine and ensure that it has the power and feature set to push the boundaries of what’s possible in online gaming.\nWorking in a team of game engine, spatial simulation and distributed computing experts to deliver both foundational work and incremental improvements to Hadean’s technology. As an autonomous, self-organising team you’ll own your goals and feel the thrill of successful delivery.\nBringing your experience of game engine development to the table as we plan, design and deliver new game engine features and improve existing ones.\n\n\nWhat we’re looking for:\n\nKnowledge of at least one of the following game engine subsystems: collision and physics, AI, path finding, spatial partitioning, resource management.\nExperience optimising engine code for memory, cache, network and CPU efficiency and performance.\nStrong C/C++ knowledge.\nExperience with working on a Game Engine\nYou are highly proactive and able to organise your time towards successful delivery.\nYou can decompose complex problems and manage the inherent risks in pushing technical boundaries.\nYou can take high level requirements and distil them into an elegant software design.\nYou can write clear, understandable and maintainable code.\n\n\nNice but not necessary:\n\nExperience with Rust.\nExperience working with distributed systems or parallel computing.\n\n\nWe make Hadean an awesome place to work with options for new employees, regular team drinks, dinners and events, training budget, choice of perkbox or classpass discount, off peak start time, pension scheme and eye exams, and a whole load of fruit and coffee in our fantastic office.",
+      "descriptionHtml": "<p>At Hadean we are changing the nature of computing. Our mission is to enable and empower the world to effortlessly harness the limitless computing power of the cloud to realise the greatest opportunities of today and tomorrow, to make the world a better place. So far in 2019 we’ve raised $10m to accelerate our growth.</p>\n\n<p>We believe that anything is possible when you think big enough, so we give our team the platform to turn great ideas into great products. We are a deep tech company pushing the boundaries every day. Our Engineering team are rewriting the rulebook on OS design to create HadeanOS. It is distributed-first, robust to scaling, efficient, compact and fast. On this foundation we are building Aether Engine, a simulation framework capable of tackling the vast complexity of tomorrow’s gaming, life science and physical simulation challenges.</p>\n\n<p>As our new Game Engine Developer you will be key to our growth by:</p>\n\n<p>Working in the Engines team to own our distributed/cloud game engine and ensure that it has the power and feature set to push the boundaries of what’s possible in online gaming.<br>\nWorking in a team of game engine, spatial simulation and distributed computing experts to deliver both foundational work and incremental improvements to Hadean’s technology. As an autonomous, self-organising team you’ll own your goals and feel the thrill of successful delivery.<br>\nBringing your experience of game engine development to the table as we plan, design and deliver new game engine features and improve existing ones.</p>\n\n<p>What we’re looking for:</p>\n\n<p>Knowledge of at least one of the following game engine subsystems: collision and physics, AI, path finding, spatial partitioning, resource management.<br>\nExperience optimising engine code for memory, cache, network and CPU efficiency and performance.<br>\nStrong C/C++ knowledge.<br>\nExperience with working on a Game Engine<br>\nYou are highly proactive and able to organise your time towards successful delivery.<br>\nYou can decompose complex problems and manage the inherent risks in pushing technical boundaries.<br>\nYou can take high level requirements and distil them into an elegant software design.<br>\nYou can write clear, understandable and maintainable code.</p>\n\n<p>Nice but not necessary:</p>\n\n<p>Experience with Rust.<br>\nExperience working with distributed systems or parallel computing.</p>\n\n<p>We make Hadean an awesome place to work with options for new employees, regular team drinks, dinners and events, training budget, choice of perkbox or classpass discount, off peak start time, pension scheme and eye exams, and a whole load of fruit and coffee in our fantastic office.</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "C++",
+        "Unreal Engine 4",
+        "Game Engines"
+      ],
+      "payment": {
+        "salary": "£40k – £100k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/glen-mac-johnson-1",
+        "name": "Glen Mac-Johnson",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "650226",
+        "angelListUrl": "https://angel.co/company/hadean/jobs/650226-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "QA Lead",
+      "description": "At Hadean we are changing the nature of computing. Our mission is to enable and empower the world to effortlessly harness the limitless computing power of the cloud to realise the greatest opportunities of today and tomorrow, to make the world a better place. So far in 2019 we’ve raised $10m to accelerate our growth.\n\n\n\nWe believe that anything is possible when you think big enough, so we give our team the platform to turn great ideas into great products. We are a deep tech company pushing the boundaries every day. Our Engineering team are rewriting the rulebook on OS design to create HadeanOS. It is distributed-first, robust to scaling, efficient, compact and fast. On this foundation we are building Aether Engine, a simulation framework capable of tackling the vast complexity of tomorrow’s gaming, life science and physical simulation challenges.\n\n\nAs our new QA Team lead you will be key to our growth by:\n\nEnsuring functional and non-functional requirements are captured consistently to a high-standard, coaching and mentoring to continuously improve\nSet the quality metrics across the different product lines\nDesigning and implementing end-to-end test code and infrastructure along with liaising with the rest of the team to use common practices and improving the overall adoption of automated testing to meet target quality improvements\nLeading a team developing, executing and maintaining Test Frameworks using functional and nonfunctional test tools aiming to ensure quality and increase efficiency of delivery and as an integral part of the SDLC and release process\nOwning the JIRA and Confluence setup to guarantee the adequate tracking and documenting is in place\n\nWhat we’re looking for:\n\nExperience owning end to end the QA function, even in a small company\nStrong understanding of QA testing practices and software development lifecycle\nExperience coaching and facilitating gathering requirements and defining acceptance criteria\nExperience with any continuous integration tools (e.g. Jenkins, Buildbot, TeamCity, Bamboo, TravisCI ... )\nAbility to drive quality improvements across the board, also in non-code related aspects, like technical documentation, JIRA setup, consistency in terminology, meeting engagement, agile ceremonies\nExperience interviewing and hiring QA engineers / SDET\n\n\nNice but not necessary:\n\nHave assisted, enhanced & built automation frameworks from scratch\nHave built QA for deep-tech, like OSes or distributed frameworks\nScrum master training/experience\nExperience building and developing a team",
+      "descriptionHtml": "<p>At Hadean we are changing the nature of computing. Our mission is to enable and empower the world to effortlessly harness the limitless computing power of the cloud to realise the greatest opportunities of today and tomorrow, to make the world a better place. So far in 2019 we’ve raised $10m to accelerate our growth.</p>\n\n<p>We believe that anything is possible when you think big enough, so we give our team the platform to turn great ideas into great products. We are a deep tech company pushing the boundaries every day. Our Engineering team are rewriting the rulebook on OS design to create HadeanOS. It is distributed-first, robust to scaling, efficient, compact and fast. On this foundation we are building Aether Engine, a simulation framework capable of tackling the vast complexity of tomorrow’s gaming, life science and physical simulation challenges.</p>\n\n<p>As our new QA Team lead you will be key to our growth by:</p>\n\n<p>Ensuring functional and non-functional requirements are captured consistently to a high-standard, coaching and mentoring to continuously improve<br>\nSet the quality metrics across the different product lines<br>\nDesigning and implementing end-to-end test code and infrastructure along with liaising with the rest of the team to use common practices and improving the overall adoption of automated testing to meet target quality improvements<br>\nLeading a team developing, executing and maintaining Test Frameworks using functional and nonfunctional test tools aiming to ensure quality and increase efficiency of delivery and as an integral part of the SDLC and release process<br>\nOwning the JIRA and Confluence setup to guarantee the adequate tracking and documenting is in place</p>\n\n<p>What we’re looking for:</p>\n\n<p>Experience owning end to end the QA function, even in a small company<br>\nStrong understanding of QA testing practices and software development lifecycle<br>\nExperience coaching and facilitating gathering requirements and defining acceptance criteria<br>\nExperience with any continuous integration tools (e.g. Jenkins, Buildbot, TeamCity, Bamboo, TravisCI ... )<br>\nAbility to drive quality improvements across the board, also in non-code related aspects, like technical documentation, JIRA setup, consistency in terminology, meeting engagement, agile ceremonies<br>\nExperience interviewing and hiring QA engineers / SDET</p>\n\n<p>Nice but not necessary:</p>\n\n<p>Have assisted, enhanced &amp; built automation frameworks from scratch<br>\nHave built QA for deep-tech, like OSes or distributed frameworks<br>\nScrum master training/experience<br>\nExperience building and developing a team</p>\n",
+      "position": "full-time",
+      "experience": 6,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Recruiting",
+        "Leadership",
+        "Jira Administrator"
+      ],
+      "payment": {
+        "salary": "£30k – £80k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/glen-mac-johnson-1",
+        "name": "Glen Mac-Johnson",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "650227",
+        "angelListUrl": "https://angel.co/company/hadean/jobs/650227-"
+      }
+    }
+  ]
+}

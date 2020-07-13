@@ -1,0 +1,75 @@
+{
+  "name": "CareerMove",
+  "avatar": "https://photos.angel.co/startups/i/5001845-166baf15b842a06817010b6dc196fda3-medium_jpg.jpg?buster=1582753841",
+  "slogan": "Learn how people are making successful career moves",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://careermove.io"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "HR / Recruiting"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [],
+  "perks": [],
+  "refs": {
+    "angelListId": "5001845",
+    "angelListUrl": "https://angel.co/company/careermove"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Fullstack developer",
+      "description": "",
+      "descriptionHtml": "",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$50k – $100k",
+        "equity": "0.0% – 0.5%"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "740609",
+        "angelListUrl": "https://angel.co/company/careermove/jobs/740609-"
+      }
+    }
+  ]
+}

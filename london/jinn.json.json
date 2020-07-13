@@ -1,0 +1,120 @@
+{
+  "name": "Jinn",
+  "avatar": "https://photos.angel.co/startups/i/212959-0bb6e4577819cc6da513d4a9fff8acfd-medium_jpg.jpg?buster=1386671574",
+  "slogan": "We bring the high street to your mobile phone",
+  "description": "Jinn is an urban logistics and delivery platform that allows users to order anything they want from local stores and restaurants. We have built a mobile app that connects our users with our fleet of couriers. When we receive an order, we send over one of our couriers to buy the item on the customer's behalf and deliver it in less than one hour. Users are able to track their delivery in real time and pay through the app for a great delivery experience. \n\nApart from allowing users to order anything they want, we display a short list of curated products from local stores and restaurants. Our users are given the opportunity to discover new products that can be delivered to them within the hour. We want to bring the high street shopping experience to mobile phones.\n\n\n\n\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://jinnapp.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/jinnapp"
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": "https://www.producthunt.com/posts/jinn-app"
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Location Based Services"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 9700000,
+    "rounds": [
+      {
+        "type": "Series A",
+        "closedAt": 1459814400,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1425168000,
+        "valuation": null
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1414800000,
+        "valuation": null
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1405900800,
+        "valuation": null
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/joseba-mendivil",
+      "name": "Joseba Mendivil",
+      "avatar": "https://photos.angel.co/users/312898-medium_jpg?1405625946",
+      "bioHtml": "Co-founde <a href=\"https://angel.co/company/jinn\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Jinn</span></a> Whatever you wish for, we deliver • Worked at <a href=\"https://angel.co/company/urbegi\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Urbegi</span></a>, <a href=\"https://angel.co/company/frutas-iru\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Frutas IRU</span></a> • Graduated in Computer Engineering (Universidad de Deusto)"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/leon-herrera",
+      "name": "Leon Herrera",
+      "avatar": "https://photos.angel.co/users/312800-medium_jpg?1405580734",
+      "bioHtml": "Co-founder <a href=\"https://angel.co/company/jinn\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Jinn</span></a>. Whatever you wish for, we deliver. BA in Economics &amp; LLB in Law (<a href=\"https://angel.co/company/uc3m\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">UC3M</span></a> &amp; <a href=\"https://angel.co/university-of-richmond\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Richmond</span></a> )."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "212959",
+    "angelListUrl": "https://angel.co/company/jinn"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "iOS Developer",
+      "description": null,
+      "descriptionHtml": "",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$65k – $75k",
+        "equity": "0.05% – 0.5%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/leon-herrera",
+        "name": "Leon Herrera",
+        "avatar": "https://photos.angel.co/users/312800-medium_jpg?1405580734"
+      },
+      "refs": {
+        "angelListId": "36487",
+        "angelListUrl": "https://angel.co/company/jinn/jobs/36487-"
+      }
+    }
+  ]
+}

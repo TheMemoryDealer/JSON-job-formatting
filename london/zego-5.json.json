@@ -1,0 +1,355 @@
+{
+  "name": "Zego",
+  "avatar": "https://photos.angel.co/startups/i/7179313-72f745bb66dc59d04965d95745b63bad-medium_jpg.jpg?buster=1568023057",
+  "slogan": "Work insurance made flexible. Simple. Better",
+  "description": "Zego is a global insurtech business providing flexible commercial insurance for businesses and professionals.\n\nZego was created by people who come from the on-demand economy. Whilst working for Deliveroo, Harry and Sten saw the way in which drivers wanting to work flexibly were constrained by their insurance. \n\nDrivers working ten hours per week were paying the same as those working sixty hours - as a result, the cost of this required insurance was too high, and flexible working wasn’t flexible at all. \n\nHaving looked across the market for a product, and with no success, it was clear there was a need and so they set out to create the product themselves.\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.zego.com/"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.zego.com/blog/"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/zegocover"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/zegocoverinsurance/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/zegocover"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Fin Tech"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 42000000,
+    "rounds": [
+      {
+        "type": "Series B",
+        "closedAt": 1560729600,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/harry-franks-1",
+      "name": "Harry Franks",
+      "avatar": "https://photos.angel.co/users/2786706-medium_jpg?1500462819",
+      "bioHtml": "CEO &amp; Founder <a href=\"https://angel.co/company/zego\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">ZEGO</span></a> \nPreviously Global Head of Procurement at Deliveroo, Operations management at onefinestay in London and LA."
+    },
+    {
+      "title": "Co-Founder & CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/stuart-kelly-3",
+      "name": "Stuart Kelly",
+      "avatar": "https://photos.angel.co/users/6682794-medium_jpg?1500463865",
+      "bioHtml": ""
+    },
+    {
+      "title": "Co-Founder and CCO",
+      "role": "Founder",
+      "url": "https://angel.co/u/harry-franks",
+      "name": "Harry Franks",
+      "avatar": "https://photos.angel.co/users/833884-medium_jpg?1471950036",
+      "bioHtml": "CEO and Founder of London based Insurtech business Tego. Previously central management at Deliveroo, operations management at onefinestay UK and in LA"
+    },
+    {
+      "title": "CEO & Co-Founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/sten-saar",
+      "name": "Sten Saar",
+      "avatar": "https://photos.angel.co/users/3473751-medium_jpg?1486911584",
+      "bioHtml": "Co-founder &amp; COO at Tegocover.com"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/george-mclellan-1",
+      "name": "George McLellan",
+      "avatar": "https://photos.angel.co/users/9966305-medium_jpg?1582635930",
+      "bioHtml": ""
+    },
+    {
+      "title": "GM Spain",
+      "role": "Employee",
+      "url": "https://angel.co/u/gerardo-redondo-1",
+      "name": "Gerardo Redondo",
+      "avatar": "https://photos.angel.co/users/1908569-medium_jpg?1453980927",
+      "bioHtml": "CEo and Founder of Kame app, 10 years experience in sales role in top Investment Banks"
+    },
+    {
+      "title": "Operations Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/verity-bradley",
+      "name": "Verity Bradley",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at Funding Circle. Went to Durham University"
+    }
+  ],
+  "perks": [
+    {
+      "category": "equity",
+      "title": "Equity benefits"
+    },
+    {
+      "category": "work_from_home",
+      "title": "Work from home policy"
+    },
+    {
+      "category": "generous_vacation",
+      "title": "Vacation policy"
+    },
+    {
+      "category": "company_meals",
+      "title": "Company meals"
+    },
+    {
+      "category": "pet_friendly",
+      "title": "Pet policy"
+    },
+    {
+      "category": "professional_development",
+      "title": "Professional development"
+    },
+    {
+      "category": "company_events",
+      "title": "Company events"
+    },
+    {
+      "category": "miscellaneous",
+      "title": "Miscellaneous"
+    }
+  ],
+  "refs": {
+    "angelListId": "7179313",
+    "angelListUrl": "https://angel.co/company/zego-5"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Engineering Manager",
+      "description": "Zego is empowering new enterprise with insurance solutions fit for the 21st century. We are building an insurance platform from scratch, driving innovation in the industry whilst supporting the growth of new mobility and the gig economy. In 2018 we were listed as one of the top 3 disruptors to watch on the Sunday Times Fast Track 100. We were also listed in Wired magazine as one of the 5 hottest startups in London. We will be the largest and best-loved provider of insurance solutions for new enterprise and we want you on board.\n\nWe are looking for an experienced Engineering Manager to support our growing engineering team here in London. You're somebody who wants to empower world-class engineers and technical leaders, and provide an environment where people thrive on the challenge. We’re creative, curious and confident in our ability to spark change.\n\nOver the next 12 months you will…\n\nsupport individual engineers by developing career progression tracks and setting personal and professional development goals\nprovide performance feedback and training to the engineering team, encouraging various levels of technical leadership\ncoach and mentor software engineers to ensure they are thriving\nget involved in diversity initiatives both internally and externally to ensure the team represents a wide range of experience, and opinions\nensure everyone on your team has the tools they need to do their jobs effectively \n\nWe are looking for somebody who is experienced in and dedicated to supporting and nurturing a strong team of outstanding engineers. Experience in the insurance/finance industry is certainly not a must, however a desire to understand how insurance can benefit customers, and empower them to take on more meaningful employment is.\n\nBenefits:\nCompetitive salary package + share options\nWorking at VC backed high growth startup\nGreat working environment in Shoreditch\n25 days holiday (plus bank holidays)\nHigh-end equipment of your choice\nContinuous learning and development: you will be challenged with lots of responsibility and exciting projects\nFree team breakfasts, snacks, socials etc.\nPersonal allowance for coaching/therapy sessions\nBe a member of a team that is building something exceptional!\n\nWe are proud to be an equal opportunity employer and we value diversity at Zego. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+      "descriptionHtml": "<p>Zego is empowering new enterprise with insurance solutions fit for the 21st century. We are building an insurance platform from scratch, driving innovation in the industry whilst supporting the growth of new mobility and the gig economy. In 2018 we were listed as one of the top 3 disruptors to watch on the Sunday Times Fast Track 100. We were also listed in Wired magazine as one of the 5 hottest startups in London. We will be the largest and best-loved provider of insurance solutions for new enterprise and we want you on board.</p>\n\n<p>We are looking for an experienced Engineering Manager to support our growing engineering team here in London. You&#39;re somebody who wants to empower world-class engineers and technical leaders, and provide an environment where people thrive on the challenge. We’re creative, curious and confident in our ability to spark change.</p>\n\n<p>Over the next 12 months you will…</p>\n\n<p>support individual engineers by developing career progression tracks and setting personal and professional development goals<br>\nprovide performance feedback and training to the engineering team, encouraging various levels of technical leadership<br>\ncoach and mentor software engineers to ensure they are thriving<br>\nget involved in diversity initiatives both internally and externally to ensure the team represents a wide range of experience, and opinions<br>\nensure everyone on your team has the tools they need to do their jobs effectively </p>\n\n<p>We are looking for somebody who is experienced in and dedicated to supporting and nurturing a strong team of outstanding engineers. Experience in the insurance/finance industry is certainly not a must, however a desire to understand how insurance can benefit customers, and empower them to take on more meaningful employment is.</p>\n\n<p>Benefits:<br>\nCompetitive salary package + share options<br>\nWorking at VC backed high growth startup<br>\nGreat working environment in Shoreditch<br>\n25 days holiday (plus bank holidays)<br>\nHigh-end equipment of your choice<br>\nContinuous learning and development: you will be challenged with lots of responsibility and exciting projects<br>\nFree team breakfasts, snacks, socials etc.<br>\nPersonal allowance for coaching/therapy sessions<br>\nBe a member of a team that is building something exceptional!</p>\n\n<p>We are proud to be an equal opportunity employer and we value diversity at Zego. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Management"
+      ],
+      "payment": {
+        "salary": "£80k – £90k"
+      },
+      "recruiter": {
+        "title": "Talent Acquisition Partner ",
+        "role": "Employee",
+        "url": "https://angel.co/u/myriam-kouidri-1",
+        "name": "Myriam Kouidri",
+        "avatar": "https://photos.angel.co/users/9964604-medium_jpg?1568034670"
+      },
+      "refs": {
+        "angelListId": "622652",
+        "angelListUrl": "https://angel.co/company/zego-5/jobs/622652-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "Senior UX Designer",
+      "description": "Zego is reimagining insurance for modern businesses and the self-employed. We are building a 21st century insurance platform with which to drive innovation in the industry. In 2018 we were listed as one of the top 3 disruptors to watch on the Sunday Times Fast Track 100, we were also listed in Wired magazine as one of the 5 hottest startups in London. We’re crafting the smartest insurance company in the world and we want you on board. \n\nWe're looking for a Senior UX Designer with a desire to create great products using digital technologies. You will join one of our cross-functional teams and craft the experience across our entire journey via both web and native mobile applications.\n\nOver the next 12 months:\nYou will have the opportunity to play a key role in developing new core insurance products\nYou will iterate on existing customer journeys to ensure we're providing the best user experience on the market\nYou will run user research tests and customer interviews to validate assumptions with data\nYou will build prototypes of features to gain insight and feedback prior to development\nYou will contribute to enhancing our design and product thinking throughout the company\nYou will partner with world class engineers and product managers to help make Zego the best loved insurance startup in the world\n\nWe're looking for people with a strong working knowledge of UX tools  such as Sketch/Figma/Photoshop etc. Somebody who can run workshops and interviews, and somebody who is well-versed in UX research methodologies including, user testing, usability testing and A/B testing.\n\nWe offer a number of benefits to all our employees, these include:\nExperience of working with founders from VC backed fast-growing startups\nA great office located in Shoreditch \nHigh-end equipment of your choice\nA competitive compensation package including options\nA company funded mental health program\nFree breakfast in the office every Friday!\n \nWe are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, or disability status.",
+      "descriptionHtml": "<p>Zego is reimagining insurance for modern businesses and the self-employed. We are building a 21st century insurance platform with which to drive innovation in the industry. In 2018 we were listed as one of the top 3 disruptors to watch on the Sunday Times Fast Track 100, we were also listed in Wired magazine as one of the 5 hottest startups in London. We’re crafting the smartest insurance company in the world and we want you on board. </p>\n\n<p>We&#39;re looking for a Senior UX Designer with a desire to create great products using digital technologies. You will join one of our cross-functional teams and craft the experience across our entire journey via both web and native mobile applications.</p>\n\n<p>Over the next 12 months:<br>\nYou will have the opportunity to play a key role in developing new core insurance products<br>\nYou will iterate on existing customer journeys to ensure we&#39;re providing the best user experience on the market<br>\nYou will run user research tests and customer interviews to validate assumptions with data<br>\nYou will build prototypes of features to gain insight and feedback prior to development<br>\nYou will contribute to enhancing our design and product thinking throughout the company<br>\nYou will partner with world class engineers and product managers to help make Zego the best loved insurance startup in the world</p>\n\n<p>We&#39;re looking for people with a strong working knowledge of UX tools  such as Sketch/Figma/Photoshop etc. Somebody who can run workshops and interviews, and somebody who is well-versed in UX research methodologies including, user testing, usability testing and A/B testing.</p>\n\n<p>We offer a number of benefits to all our employees, these include:<br>\nExperience of working with founders from VC backed fast-growing startups<br>\nA great office located in Shoreditch <br>\nHigh-end equipment of your choice<br>\nA competitive compensation package including options<br>\nA company funded mental health program<br>\nFree breakfast in the office every Friday!</p>\n\n<p>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, or disability status.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "A/B Testing",
+        "UI/UX Design",
+        "Adobe Photoshop",
+        "UX Research",
+        "Sketch",
+        "Figma"
+      ],
+      "payment": {
+        "salary": "£65k – £80k"
+      },
+      "recruiter": {
+        "title": "Talent Acquisition Partner ",
+        "role": "Employee",
+        "url": "https://angel.co/u/myriam-kouidri-1",
+        "name": "Myriam Kouidri",
+        "avatar": "https://photos.angel.co/users/9964604-medium_jpg?1568034670"
+      },
+      "refs": {
+        "angelListId": "622662",
+        "angelListUrl": "https://angel.co/company/zego-5/jobs/622662-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer (Full Stack)",
+      "description": "Zego is reimagining insurance for modern businesses and the self-employed. We are building a 21st century insurance platform with which to drive innovation in the industry. in 2018 we were listed as one of the top 3 disruptors to watch on the Sunday Times Fast Track 100, we were also listed in Wired magazine as one of the 5 hottest startups in London. We are committed to finding creative solutions in order to craft a smart insurance company that is sensitive to our users’ needs and we want you on board.\n\nWe are looking for a Full-stack application Engineer with a strong focus on building user-friendly applications to join our team in London. Our stack consists of Python/Django, Node/Next, GraphQL/Relay, and React/React-Native and is hosted on AWS. \n\nWhat you will be doing:\n\nContribute to bringing new insurance products to market\nHelp to ensure we are collecting relevant user behaviour data from our website and mobile apps.\nDesign and build interfaces that directly contribute to growing and running the business\nContribute to the health of the codebase with regular code reviews and team learning\n\nWe are looking for candidates who are dedicated to creating and nurturing a product with an outstanding user experience. While we recognise that many applicants might not have experience with graphQL/React, an interest in learning these with the support of the team is essential.\n \nWe offer a number of benefits to all our employees, these include:\nExperience of working with founders from VC backed fast-growing startups\nA great office located in Shoreditch right by Old Street Roundabout\nHigh-end equipment of your choice\nA competitive compensation package including options\nA company sponsored mental health program\nFree breakfast in the office every Friday \n\nWe are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, or disability status.",
+      "descriptionHtml": "<p>Zego is reimagining insurance for modern businesses and the self-employed. We are building a 21st century insurance platform with which to drive innovation in the industry. in 2018 we were listed as one of the top 3 disruptors to watch on the Sunday Times Fast Track 100, we were also listed in Wired magazine as one of the 5 hottest startups in London. We are committed to finding creative solutions in order to craft a smart insurance company that is sensitive to our users’ needs and we want you on board.</p>\n\n<p>We are looking for a Full-stack application Engineer with a strong focus on building user-friendly applications to join our team in London. Our stack consists of Python/Django, Node/Next, GraphQL/Relay, and React/React-Native and is hosted on AWS. </p>\n\n<p>What you will be doing:</p>\n\n<p>Contribute to bringing new insurance products to market<br>\nHelp to ensure we are collecting relevant user behaviour data from our website and mobile apps.<br>\nDesign and build interfaces that directly contribute to growing and running the business<br>\nContribute to the health of the codebase with regular code reviews and team learning</p>\n\n<p>We are looking for candidates who are dedicated to creating and nurturing a product with an outstanding user experience. While we recognise that many applicants might not have experience with graphQL/React, an interest in learning these with the support of the team is essential.</p>\n\n<p>We offer a number of benefits to all our employees, these include:<br>\nExperience of working with founders from VC backed fast-growing startups<br>\nA great office located in Shoreditch right by Old Street Roundabout<br>\nHigh-end equipment of your choice<br>\nA competitive compensation package including options<br>\nA company sponsored mental health program<br>\nFree breakfast in the office every Friday </p>\n\n<p>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, or disability status.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Django",
+        "Node.js",
+        "React.js",
+        "Frame Relay",
+        "AWS",
+        "React Native",
+        "Graph Ql",
+        "Next.Js"
+      ],
+      "payment": {
+        "salary": "£60k – £75k"
+      },
+      "recruiter": {
+        "title": "Talent Acquisition Partner ",
+        "role": "Employee",
+        "url": "https://angel.co/u/myriam-kouidri-1",
+        "name": "Myriam Kouidri",
+        "avatar": "https://photos.angel.co/users/9964604-medium_jpg?1568034670"
+      },
+      "refs": {
+        "angelListId": "626005",
+        "angelListUrl": "https://angel.co/company/zego-5/jobs/626005-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer - (Back End - Python/Django)",
+      "description": "Zego is reimagining insurance for modern businesses and the self-employed. We are building a 21st century insurance platform with which to drive innovation in the industry. In 2018 we were listed as one of the top 3 disruptors to watch on the Sunday Times Fast Track 100, we were also listed in Wired magazine as one of the 5 hottest startups in London. We’re crafting the smartest insurance company in the world and we want you on board. \n\nWe're looking for a Python/Django Engineer to help us work across a number of initiatives across platform, data, architecture and team mentoring. Our core application is built on top of the Django web framework and hosted on AWS. We typically use Python 3, Postgres, Celery, and whatever else we need to get the job done.\n\nOver the next 12 months:\nYou will have the opportunity to play a key role in developing new core insurance products.\nYou will iterate on existing products to ensure we're providing the best insurance on the market.\nYou will help evolve the architecture of our platform to support our long term vision.\nYou will contribute to code reviews and mentoring of other engineers.\n\nWe're looking for people with a strong working knowledge of Python and a commitment to building, nurturing, and iterating on an ever-evolving codebase.\n\nWe offer a number of benefits to all our employees, these include:\nExperience of working with founders from VC backed fast-growing startups.\nA great office located in Shoreditch right by Old Street Roundabout.\nHigh-end equipment of your choice.\nA competitive compensation package including options.\nA company funded mental health program.\nFree breakfast in the office every Friday!\n \nWe are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, or disability status.",
+      "descriptionHtml": "<p>Zego is reimagining insurance for modern businesses and the self-employed. We are building a 21st century insurance platform with which to drive innovation in the industry. In 2018 we were listed as one of the top 3 disruptors to watch on the Sunday Times Fast Track 100, we were also listed in Wired magazine as one of the 5 hottest startups in London. We’re crafting the smartest insurance company in the world and we want you on board. </p>\n\n<p>We&#39;re looking for a Python/Django Engineer to help us work across a number of initiatives across platform, data, architecture and team mentoring. Our core application is built on top of the Django web framework and hosted on AWS. We typically use Python 3, Postgres, Celery, and whatever else we need to get the job done.</p>\n\n<p>Over the next 12 months:<br>\nYou will have the opportunity to play a key role in developing new core insurance products.<br>\nYou will iterate on existing products to ensure we&#39;re providing the best insurance on the market.<br>\nYou will help evolve the architecture of our platform to support our long term vision.<br>\nYou will contribute to code reviews and mentoring of other engineers.</p>\n\n<p>We&#39;re looking for people with a strong working knowledge of Python and a commitment to building, nurturing, and iterating on an ever-evolving codebase.</p>\n\n<p>We offer a number of benefits to all our employees, these include:<br>\nExperience of working with founders from VC backed fast-growing startups.<br>\nA great office located in Shoreditch right by Old Street Roundabout.<br>\nHigh-end equipment of your choice.<br>\nA competitive compensation package including options.<br>\nA company funded mental health program.<br>\nFree breakfast in the office every Friday!</p>\n\n<p>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, or disability status.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Celery",
+        "AWS"
+      ],
+      "payment": {
+        "salary": "£65k – £75k"
+      },
+      "recruiter": {
+        "title": "Talent Acquisition Partner ",
+        "role": "Employee",
+        "url": "https://angel.co/u/myriam-kouidri-1",
+        "name": "Myriam Kouidri",
+        "avatar": "https://photos.angel.co/users/9964604-medium_jpg?1568034670"
+      },
+      "refs": {
+        "angelListId": "622653",
+        "angelListUrl": "https://angel.co/company/zego-5/jobs/622653-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Systems Engineer (DevOps)",
+      "description": "Zego is reimagining insurance for modern businesses and the self-employed. We are building a 21st century insurance platform with which to drive innovation in the industry. In 2018 we were listed as one of the top 3 disruptors to watch on the Sunday Times Fast Track 100, we were also listed in Wired magazine as one of the 5 hottest startups in London. We’re crafting the smartest insurance company in the world and we want you on board.\n\nWe are looking for a Systems Engineer to join our team in London, where you will be part of the TechOps squad whose mission is to maintain and secure the systems and infrastructure on which our product operates. You will act as a systems and operations authority and work with other software engineers to ensure products will be secure, reliable, scalable and efficient in every aspect (performance, maintenance, cost).\nSystems Engineers at Zego are ultimately responsible for the well being of the product from the moment it leaves developers’ workstation. They understand the importance of efficient development processes and actively work on improving those at Zego.\n\nWe are looking for candidates who have strong analytical and troubleshooting skills, \nan architect and operations minded engineer who embraces devops methodologies to improve the product and exhibit a willingness to learn and apply new technology.\n\nYour experience should include (preferred):\nCoding and scripting (Bash, Python, Golang)\nConfiguring Infrastructure as Code (Terraform)\nCloud services (AWS)\nContainer management and orchestration (Docker, Kubernetes)\n\nWe offer a number of benefits to all our employees, including:\nExperience of working with founders from VC backed fast-growing startups\nA great office located in Shoreditch right by Old Street Roundabout\nHigh-end equipment of your choice\nA competitive compensation package including options\nA company sponsored mental health program\nFree breakfast in the office every Friday \n \nWe are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, or disability status.",
+      "descriptionHtml": "<p>Zego is reimagining insurance for modern businesses and the self-employed. We are building a 21st century insurance platform with which to drive innovation in the industry. In 2018 we were listed as one of the top 3 disruptors to watch on the Sunday Times Fast Track 100, we were also listed in Wired magazine as one of the 5 hottest startups in London. We’re crafting the smartest insurance company in the world and we want you on board.</p>\n\n<p>We are looking for a Systems Engineer to join our team in London, where you will be part of the TechOps squad whose mission is to maintain and secure the systems and infrastructure on which our product operates. You will act as a systems and operations authority and work with other software engineers to ensure products will be secure, reliable, scalable and efficient in every aspect (performance, maintenance, cost).<br>\nSystems Engineers at Zego are ultimately responsible for the well being of the product from the moment it leaves developers’ workstation. They understand the importance of efficient development processes and actively work on improving those at Zego.</p>\n\n<p>We are looking for candidates who have strong analytical and troubleshooting skills, <br>\nan architect and operations minded engineer who embraces devops methodologies to improve the product and exhibit a willingness to learn and apply new technology.</p>\n\n<p>Your experience should include (preferred):<br>\nCoding and scripting (Bash, Python, Golang)<br>\nConfiguring Infrastructure as Code (Terraform)<br>\nCloud services (AWS)<br>\nContainer management and orchestration (Docker, Kubernetes)</p>\n\n<p>We offer a number of benefits to all our employees, including:<br>\nExperience of working with founders from VC backed fast-growing startups<br>\nA great office located in Shoreditch right by Old Street Roundabout<br>\nHigh-end equipment of your choice<br>\nA competitive compensation package including options<br>\nA company sponsored mental health program<br>\nFree breakfast in the office every Friday </p>\n\n<p>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, or disability status.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Bash",
+        "Docker",
+        "AWS",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "payment": {
+        "salary": "£65k – £75k"
+      },
+      "recruiter": {
+        "title": "Talent Acquisition Partner ",
+        "role": "Employee",
+        "url": "https://angel.co/u/myriam-kouidri-1",
+        "name": "Myriam Kouidri",
+        "avatar": "https://photos.angel.co/users/9964604-medium_jpg?1568034670"
+      },
+      "refs": {
+        "angelListId": "622655",
+        "angelListUrl": "https://angel.co/company/zego-5/jobs/622655-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "UX Researcher (Contract)",
+      "description": "**UX Researcher**\n\nZego is reimagining insurance for modern businesses and the self-employed. We are building a 21st century insurance platform with which to drive innovation in the industry. In 2018 we were listed as one of the top 3 disruptors to watch on the Sunday Times Fast Track 100, we were also listed in Wired magazine as one of the 5 hottest startups in London. We’re crafting the smartest insurance company in the world and we want you on board. \n\nWe're looking for a **UX Researcher** who can think outside the box, has a solid experience in digital products (either b2b or b2c) and is a good team player. You’d have experience in participating in research initiatives, designing complex journeys in collaboration with multiple disciplines across the business and . \n\nYou will join our product design team and have the opportunity to play a key role in crafting and evolving experiences across all our journeys.\n\n**We’d love to see you if:**\n - You have experience in participating in UX research initiatives, ideally using different methodologies (user interviews, A/B testing, surveys, card sorting, etc…)\n - You are a good problem solver, you like data-driven solutions but also delightful experiences\n - You are a natural advocate for Design Thinking and wish to promote its growth in the company\n - You have empathy, both towards our customers’ needs and in the office.  - You can appreciate and aid in everyone’s efforts into reaching our collective goals, collaborating daily with other departments\n - You are keen to hone your skills or learn new ones, growing with the company\n - You are flexible. You care about your project but you are not married to an outcome or a process. We’re a fast growing company, things can change rapidly and it should be challenging and fun.\n\nIt’s an exciting time to join, as the team is fresh and the opportunities to shape its directions are many. You will partner with world class designers, engineers and product managers to help make Zego the best loved insurance startup in the world. You can read in this blog post what a day in the life of a Designer here at Zego can look like - https://www.zego.com/blog/a-day-in-the-life-of-a-zego-ux-designer-nick-gill/",
+      "descriptionHtml": "<p><strong>UX Researcher</strong></p>\n\n<p>Zego is reimagining insurance for modern businesses and the self-employed. We are building a 21st century insurance platform with which to drive innovation in the industry. In 2018 we were listed as one of the top 3 disruptors to watch on the Sunday Times Fast Track 100, we were also listed in Wired magazine as one of the 5 hottest startups in London. We’re crafting the smartest insurance company in the world and we want you on board. </p>\n\n<p>We&#39;re looking for a <strong>UX Researcher</strong> who can think outside the box, has a solid experience in digital products (either b2b or b2c) and is a good team player. You’d have experience in participating in research initiatives, designing complex journeys in collaboration with multiple disciplines across the business and . </p>\n\n<p>You will join our product design team and have the opportunity to play a key role in crafting and evolving experiences across all our journeys.</p>\n\n<p><strong>We’d love to see you if:</strong></p>\n\n<ul>\n<li>You have experience in participating in UX research initiatives, ideally using different methodologies (user interviews, A/B testing, surveys, card sorting, etc…)</li>\n<li>You are a good problem solver, you like data-driven solutions but also delightful experiences</li>\n<li>You are a natural advocate for Design Thinking and wish to promote its growth in the company</li>\n<li>You have empathy, both towards our customers’ needs and in the office.  - You can appreciate and aid in everyone’s efforts into reaching our collective goals, collaborating daily with other departments</li>\n<li>You are keen to hone your skills or learn new ones, growing with the company</li>\n<li>You are flexible. You care about your project but you are not married to an outcome or a process. We’re a fast growing company, things can change rapidly and it should be challenging and fun.</li>\n</ul>\n\n<p>It’s an exciting time to join, as the team is fresh and the opportunities to shape its directions are many. You will partner with world class designers, engineers and product managers to help make Zego the best loved insurance startup in the world. You can read in this blog post what a day in the life of a Designer here at Zego can look like - <a href=\"https://www.zego.com/blog/a-day-in-the-life-of-a-zego-ux-designer-nick-gill/\" target=\"_blank\" rel=\"nofollow\">https://www.zego.com/blog/a-day-in-the-life-of-a-zego-ux-designer-nick-gill/</a></p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "UX Research"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/george-mclellan-1",
+        "name": "George McLellan",
+        "avatar": "https://photos.angel.co/users/9966305-medium_jpg?1582635930"
+      },
+      "refs": {
+        "angelListId": "738964",
+        "angelListUrl": "https://angel.co/company/zego-5/jobs/738964-"
+      }
+    }
+  ]
+}

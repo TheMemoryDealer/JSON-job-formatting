@@ -1,0 +1,196 @@
+{
+  "name": "Soldo",
+  "avatar": "https://photos.angel.co/startups/i/875319-a5cd2bcbce90ac48572f15394f83cca1-medium_jpg.jpg?buster=1543920636",
+  "slogan": "Soldo is the multi-user expense account for business",
+  "description": "Soldo Business is a new milestone in the evolution of business expenses.\n\nWe've harnessed the smartest financial and payments technology to build a product that puts an end to tedious expense reports and reconciliation processes, once and for all.\n\nSoldo Business has three key ingredients: Mastercard® cards (plastic and virtual), an intuitive admin dashboard, and an app for employees.\n\nThanks to innovative features such as tagging and receipt attachment, staff and teams are no longer mere users of company funds, but also (effortlessly) become contributors to the company’s accounting process.\n\nNo more expense reports and mislaid receipts: Soldo is easy, efficient and seamless.\n\nMake it easier for your employees and teams to spend the money they need to spend. Control and track your company’s expenses across the organization with Soldo Business.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.soldo.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.soldo.com/magazine/en-uk/"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/soldo"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/soldoapp?fref=ts"
+    },
+    {
+      "type": "linkedIn",
+      "url": "http://www.linkedin.com/company/soldo"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Metropolitan City of Rome"
+  ],
+  "marketTags": [
+    "Finance Technology",
+    "Mobile",
+    "Payments",
+    "Financial Services"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 17100000,
+    "rounds": [
+      {
+        "type": "Series A",
+        "closedAt": 1497916800,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1425427200,
+        "valuation": 14250000
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/carlo-d-acunto",
+      "name": "Carlo D'Acunto",
+      "avatar": "https://photos.angel.co/users/2049302-medium_jpg?1457966714",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/gioco-digitale\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Gioco Digitale</span></a> • Worked at <a href=\"https://angel.co/company/telecom-italia\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Telecom Italia</span></a>, <a href=\"https://angel.co/company/soldo-2\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Soldo</span></a> • Studied at <a href=\"https://angel.co/sapienza-university-of-rome\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Sapienza University of Rome</span></a>"
+    },
+    {
+      "title": "Founder and CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/cgualandri",
+      "name": "Carlo Gualandri",
+      "avatar": "https://photos.angel.co/users/773934-medium_jpg?1445026481",
+      "bioHtml": "For more than 20 years I have developed startups in markets where the digital revolution had disrupted the status quo creating new opportunities."
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/andrea-gaudenzi",
+      "name": "Andrea Gaudenzi",
+      "avatar": "https://photos.angel.co/users/859392-medium_jpg?1417176930",
+      "bioHtml": "Entrepreneur"
+    },
+    {
+      "title": "CFO",
+      "role": "Founder",
+      "url": "https://angel.co/u/andrea-gerosa",
+      "name": "Andrea Gerosa",
+      "avatar": "https://photos.angel.co/users/1633548-medium_jpg?1452599562",
+      "bioHtml": "Co_Founder Soldo , Co_Founder Vintage Capital, Investor in EBOOX, Banzai, Linkem and Green Bit   • Studied at <a href=\"https://angel.co/bocconi-university\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Bocconi University</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/craig-law-2",
+      "name": "Craig Law",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "I lead technical recruitment for Soldo, one of Europe&#39;s fastest growing FinTech startups.\n\nWe&#39;re looking to hire technical talent in Rome!"
+    },
+    {
+      "title": "Reconciliation Payment Specialist",
+      "role": "Employee",
+      "url": "https://angel.co/u/angela-lin-shuyun",
+      "name": "Angela Lin Shuyun",
+      "avatar": "https://photos.angel.co/users/2127983-medium_jpg?1460215908",
+      "bioHtml": "Reconciliation Payment Analyst <a href=\"https://angel.co/company/soldo\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Soldo</span></a> - We&#39;re Hiring!"
+    },
+    {
+      "title": "Senior UI/ UX designer",
+      "role": "Employee",
+      "url": "https://angel.co/u/gianluca-gini-1",
+      "name": "Gianluca Gini",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "875319",
+    "angelListUrl": "https://angel.co/company/soldo"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Backend Developer",
+      "description": "There is no better time to move the Soldo development team! We will be doubling our size in the next 5 months which means we have some fantastic opportunities to offer individuals looking for a career move. The heart of our technology team is based in Rome and this is where we are looking to open a new position in our BackEnd Development team.\n\nYou will be part of a team (5 to 10) with other developers and report to the Head of Back End Development to play an important part in developing and managing the company FinTech platform.\n\nWhat are the key parts of the role?\n\nThe role requires you to write high quality code to technical and functional specifications. You will be inspecting, analysing, reporting on bugs. Other core responsibilities include:\n\nParticipate in the design and development of product features\nCapacity to deliver one or more requirements on time\nParticipating in periodical plans to deliver business and IT goals\n\n\nRequirements\nThe ideal candidates have experience working in a collaborative environment following an Agile Methodology and have a genuine interest and passion for the technologies they use. They will also be joining an agile, international and innovative technical team who continuously keep the platforms up to date with the state-of-art technology and build industry leading systems across the cloud.\n\n\nWe have a full job description available, but to give you an idea of what makes a successful Back End Developer at Soldo we have noted down some key skills:\n\n\nGreat experience of Java, Spring Frameworks\nSolid experience of web programming such as HTTP and REST\nRelational database experience - especially MySQL and Aurora\nGreat communication skills and the drive to help others in the team\nA good human being!\n\n\nIf this sounds like you, please get in touch with us by applying for this role. We will be delighted to hear from you.\n\n\nAs an international organisation, we use English as our business language, so we'd appreciate if you could send your CV written in English.",
+      "descriptionHtml": "<p>There is no better time to move the Soldo development team! We will be doubling our size in the next 5 months which means we have some fantastic opportunities to offer individuals looking for a career move. The heart of our technology team is based in Rome and this is where we are looking to open a new position in our BackEnd Development team.</p>\n\n<p>You will be part of a team (5 to 10) with other developers and report to the Head of Back End Development to play an important part in developing and managing the company FinTech platform.</p>\n\n<p>What are the key parts of the role?</p>\n\n<p>The role requires you to write high quality code to technical and functional specifications. You will be inspecting, analysing, reporting on bugs. Other core responsibilities include:</p>\n\n<p>Participate in the design and development of product features<br>\nCapacity to deliver one or more requirements on time<br>\nParticipating in periodical plans to deliver business and IT goals</p>\n\n<p>Requirements<br>\nThe ideal candidates have experience working in a collaborative environment following an Agile Methodology and have a genuine interest and passion for the technologies they use. They will also be joining an agile, international and innovative technical team who continuously keep the platforms up to date with the state-of-art technology and build industry leading systems across the cloud.</p>\n\n<p>We have a full job description available, but to give you an idea of what makes a successful Back End Developer at Soldo we have noted down some key skills:</p>\n\n<p>Great experience of Java, Spring Frameworks<br>\nSolid experience of web programming such as HTTP and REST<br>\nRelational database experience - especially MySQL and Aurora<br>\nGreat communication skills and the drive to help others in the team<br>\nA good human being!</p>\n\n<p>If this sounds like you, please get in touch with us by applying for this role. We will be delighted to hear from you.</p>\n\n<p>As an international organisation, we use English as our business language, so we&#39;d appreciate if you could send your CV written in English.</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "Rome"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "Spring",
+        "Agile",
+        "REST",
+        "AWS",
+        "Spring Boot",
+        "Spring Framework"
+      ],
+      "payment": {
+        "salary": "€30k – €55k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/craig-law-2",
+        "name": "Craig Law",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "662722",
+        "angelListUrl": "https://angel.co/company/soldo/jobs/662722-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Front End Developer",
+      "description": "There is no better time to move the Soldo development team! We will be doubling our size in the next 5 months which means we have some fantastic opportunities to offer individuals looking for a career move. \n\nThe heart of our technology team is based in Rome and this is where we are looking to open a new position. You will be part of a team (5 to 10) with other developers and report to the Head of Front End Development to play an important part in developing and managing the company FinTech platform.\n\nWhat are the key parts of the role?\n\nThe role requires you to write high quality code to technical and functional specifications. You will be inspecting, analysing, reporting on bugs. Other core responsibilities include:\n\nConsistently monitoring front end performance including loading speed\nImplementing solutions to fulfill the defined needs\nParticipating in periodical plans to deliver business and IT goals\nRequirements\nThe ideal candidates have experience working in a collaborative environment following an Agile Methodology and have a genuine passion for the technologies they use. They will also be joining an agile, international and innovative technical team who continuously keep the platforms up to date with the state-of-art technology and build industry leading systems across the cloud (AWS).\n\nWe have a full job description available, but to give you an idea of what makes a successful Front End Developer at Soldo we have noted down some key skills:\n\nGreat experience of Javascript, Typescript, HTML5, CSS/CSS3, SASS, Flexboard Grid and Webpack\nSolid experience of JS Frameworks such as React and Angular\nFront End Testing experience i.e. Jest and Enzyme\nFamiliarity with Agile methodology\nGreat communication skills (in both Italian and English) and the drive to help others in the team\nA good human being, with entrepreneurial spirit and personal motivation!\n\nIf this sounds like you, please get in touch with us by applying for this role. We will be delighted to hear from you.\n\nAs an international organisation, we use English as our business language, so we'd appreciate if you could send your CV written in English.",
+      "descriptionHtml": "<p>There is no better time to move the Soldo development team! We will be doubling our size in the next 5 months which means we have some fantastic opportunities to offer individuals looking for a career move. </p>\n\n<p>The heart of our technology team is based in Rome and this is where we are looking to open a new position. You will be part of a team (5 to 10) with other developers and report to the Head of Front End Development to play an important part in developing and managing the company FinTech platform.</p>\n\n<p>What are the key parts of the role?</p>\n\n<p>The role requires you to write high quality code to technical and functional specifications. You will be inspecting, analysing, reporting on bugs. Other core responsibilities include:</p>\n\n<p>Consistently monitoring front end performance including loading speed<br>\nImplementing solutions to fulfill the defined needs<br>\nParticipating in periodical plans to deliver business and IT goals<br>\nRequirements<br>\nThe ideal candidates have experience working in a collaborative environment following an Agile Methodology and have a genuine passion for the technologies they use. They will also be joining an agile, international and innovative technical team who continuously keep the platforms up to date with the state-of-art technology and build industry leading systems across the cloud (AWS).</p>\n\n<p>We have a full job description available, but to give you an idea of what makes a successful Front End Developer at Soldo we have noted down some key skills:</p>\n\n<p>Great experience of Javascript, Typescript, HTML5, CSS/CSS3, SASS, Flexboard Grid and Webpack<br>\nSolid experience of JS Frameworks such as React and Angular<br>\nFront End Testing experience i.e. Jest and Enzyme<br>\nFamiliarity with Agile methodology<br>\nGreat communication skills (in both Italian and English) and the drive to help others in the team<br>\nA good human being, with entrepreneurial spirit and personal motivation!</p>\n\n<p>If this sounds like you, please get in touch with us by applying for this role. We will be delighted to hear from you.</p>\n\n<p>As an international organisation, we use English as our business language, so we&#39;d appreciate if you could send your CV written in English.</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "Rome"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "AngularJS",
+        "TypeScript",
+        "React.js",
+        "Angular",
+        "React/GraphQL"
+      ],
+      "payment": {
+        "salary": "€30k – €55k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/craig-law-2",
+        "name": "Craig Law",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "662726",
+        "angelListUrl": "https://angel.co/company/soldo/jobs/662726-"
+      }
+    }
+  ]
+}

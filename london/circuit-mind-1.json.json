@@ -1,0 +1,129 @@
+{
+  "name": "Circuit Mind",
+  "avatar": "https://photos.angel.co/startups/i/6869941-d6c4c382cc50e1d9896bce646348adcd-medium_jpg.jpg?buster=1554405638",
+  "slogan": "We create software that automatically designs electronic circuit boards",
+  "description": "Electronic circuit boards are at the core of current and future inventions, from augmented reality to autonomous vehicles. Yet today, designing an electronic circuit board is an extremely manual, long and tedious process. At Circuit Mind we are on a mission to solve this problem, shaping the future of hardware design.\n\nTaking inspiration from integrated circuit design, where high-level languages are used to automatically create complex circuits in silicon, we are building a novel software system that creates finished circuit board designs from high-level requirements. We are tackling hard problems that no one has ever solved before, pushing beyond what is currently thought to be possible.\n\nSeveral small and large engineering companies are waiting for Circuit Mind’s technology. We have the backing of world-class VC investors and we are building a tight-knit interdisciplinary team with outstanding technical abilities in electronic engineering, software engineering and algorithm design.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.circuitmind.io"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Enterprise Software",
+    "EDA Tools",
+    "Artificial Intelligence",
+    "Electronics"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/basilio-gentile-1",
+      "name": "Basilio Gentile",
+      "avatar": "https://photos.angel.co/users/9159176-medium_jpg?1554406523",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6869941",
+    "angelListUrl": "https://angel.co/company/circuit-mind-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Software Engineer",
+      "description": "As a Senior Software Engineer at Circuit Mind, you’ll take full ownership in developing our algorithms and software from the ground up, while collaborating on a technically challenging product in a supportive, inclusive, cross-functional team.\n\nResponsibilities\n\n- Design, build and maintain Circuit Mind’s core software. This includes a large database of electronic components, complex algorithms for optimisation and generative design, as well as simulation, verification, integration with third-party software and APIs.\n\n- Design and implement algorithms to solve the problems involved in electronics design in collaboration with the electronics engineering team.\n\n- Participate in a culture of code reviews, automatic testing and continuous integration.\n\n- Learn, use, and improve best practices and processes for high-quality software development.\n\n- Help shape our technology stack, assuring a modern and positive development experience.\n\n- Help build an amazing engineering team by contributing to our hiring process and participating in interviews and evaluating candidates.\n\n- Challenge and influence our business and technology strategy.\n\n\nQualifications\n\n- Bachelor's degree in computer science, software engineering, physics, mathematics or equivalent professional experience.\n\n- Extensive professional experience solving complex problems using Python.\nProfessional experience with automated testing and maintaining large codebases in Python.\n\n- Experience working in an agile software development environment.\n\n- An interest in electronic engineering.\nWe’re specifically looking for engineers with expertise in the techniques and technologies needed to solve our numerous technical challenges, including but not limited to:\n\n- Algorithm design (high-performance computing, mathematical modelling and discrete optimisation, data science and machine learning)\n\n- Compiler and programming language design, especially hardware description languages.\n\n- Information retrieval techniques.\n\nBenefits\n\n- Technical challenges and the chance to shape first-hand the electronics revolution.\n- Collaboration with world-class multi-disciplinary team.\n- Competitive salary and equity.\n- 25 days of annual holidays.\n- Flexible working environment.\n- London Bridge office.\n\nAt Circuit Mind we value diversity and foster an inclusive environment. If you have an additional necessity or disability that requires accommodation, please let us know so we can adjust the interview process to your needs. We also ensure that Circuit Mind’s straight-forward and efficient hiring process honours your time.",
+      "descriptionHtml": "<p>As a Senior Software Engineer at Circuit Mind, you’ll take full ownership in developing our algorithms and software from the ground up, while collaborating on a technically challenging product in a supportive, inclusive, cross-functional team.</p>\n\n<p>Responsibilities</p>\n\n<ul>\n<li><p>Design, build and maintain Circuit Mind’s core software. This includes a large database of electronic components, complex algorithms for optimisation and generative design, as well as simulation, verification, integration with third-party software and APIs.</p></li>\n<li><p>Design and implement algorithms to solve the problems involved in electronics design in collaboration with the electronics engineering team.</p></li>\n<li><p>Participate in a culture of code reviews, automatic testing and continuous integration.</p></li>\n<li><p>Learn, use, and improve best practices and processes for high-quality software development.</p></li>\n<li><p>Help shape our technology stack, assuring a modern and positive development experience.</p></li>\n<li><p>Help build an amazing engineering team by contributing to our hiring process and participating in interviews and evaluating candidates.</p></li>\n<li><p>Challenge and influence our business and technology strategy.</p></li>\n</ul>\n\n<p>Qualifications</p>\n\n<ul>\n<li><p>Bachelor&#39;s degree in computer science, software engineering, physics, mathematics or equivalent professional experience.</p></li>\n<li><p>Extensive professional experience solving complex problems using Python.<br>\nProfessional experience with automated testing and maintaining large codebases in Python.</p></li>\n<li><p>Experience working in an agile software development environment.</p></li>\n<li><p>An interest in electronic engineering.<br>\nWe’re specifically looking for engineers with expertise in the techniques and technologies needed to solve our numerous technical challenges, including but not limited to:</p></li>\n<li><p>Algorithm design (high-performance computing, mathematical modelling and discrete optimisation, data science and machine learning)</p></li>\n<li><p>Compiler and programming language design, especially hardware description languages.</p></li>\n<li><p>Information retrieval techniques.</p></li>\n</ul>\n\n<p>Benefits</p>\n\n<ul>\n<li>Technical challenges and the chance to shape first-hand the electronics revolution.</li>\n<li>Collaboration with world-class multi-disciplinary team.</li>\n<li>Competitive salary and equity.</li>\n<li>25 days of annual holidays.</li>\n<li>Flexible working environment.</li>\n<li>London Bridge office.</li>\n</ul>\n\n<p>At Circuit Mind we value diversity and foster an inclusive environment. If you have an additional necessity or disability that requires accommodation, please let us know so we can adjust the interview process to your needs. We also ensure that Circuit Mind’s straight-forward and efficient hiring process honours your time.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£60k – £70k",
+        "equity": "0.0% – 0.5%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/basilio-gentile-1",
+        "name": "Basilio Gentile",
+        "avatar": "https://photos.angel.co/users/9159176-medium_jpg?1554406523"
+      },
+      "refs": {
+        "angelListId": "618732",
+        "angelListUrl": "https://angel.co/company/circuit-mind-1/jobs/618732-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Algorithm R&D Engineer",
+      "description": "As an Algorithm R&D Engineer at Circuit Mind, you’ll take full ownership in developing our core models and algorithms from the ground up in a supportive, inclusive, cross-functional team.\n\nResponsibilities\n\n- Problem definition: You will intimately understand the real-world electronic design problems to solve, through collaboration with the electronics engineering team.\n\n- Research: You will look into well-established and state of the art techniques that can be applied to solve the problems.\n\n- Development: You will devise descriptive models and efficient algorithms that find efficient solutions to real world electronics design problems.\n\n- Implementation: You will collaborate with the software development team to implement the models and algorithms developed in robust, scalable and efficient software.\n\nSome electronics design problems you will solve:\n\n- Generation of alternative design architectures based on user requirements.\nSelection of electronic components from millions of alternatives.\n\n- Validation and optimisation of the logical and electrical configuration of circuit schematics via simulations and design rules.\n\n- Creation of three-dimensional placement and routing of electronic components.\n\nQualifications\n\n- PhD in computer science, applied maths, electrical engineering or related fields, or Master's and 3+ years experience in developing research-led software.\n\n- Deep expertise with 2-3 of the following: discrete optimisation, data-driven optimisation, machine learning techniques, high-performance computing, mathematical modelling, data structures, algorithms on graphs.\n\n- Ability to write, understand and debug clean, maintainable software code.\nFamiliarity with electronics engineering.\n\nNice to haves\n\n-Prior experience in solving some of the problems of automatic circuit board design.\n\n- Experience developing and deploying production ready software.\n\n- Working knowledge of machine learning and data science concepts, environment and tools.\n\nBenefits\n\n- Technical challenges and the chance to shape first-hand the electronics revolution.\n\n- Collaboration with world-class multi-disciplinary team.\n\n- Competitive salary and equity.\n\n- 25 days of annual holidays\n\n- Flexible working environment.\n\n- London Bridge office.\n\nAt Circuit Mind we value diversity and foster an inclusive environment. If you have an additional necessity or disability that requires accommodation, please let us know so we can adjust the interview process to your needs. We also ensure that Circuit Mind’s straight-forward and efficient hiring process honours your time.",
+      "descriptionHtml": "<p>As an Algorithm R&amp;D Engineer at Circuit Mind, you’ll take full ownership in developing our core models and algorithms from the ground up in a supportive, inclusive, cross-functional team.</p>\n\n<p>Responsibilities</p>\n\n<ul>\n<li><p>Problem definition: You will intimately understand the real-world electronic design problems to solve, through collaboration with the electronics engineering team.</p></li>\n<li><p>Research: You will look into well-established and state of the art techniques that can be applied to solve the problems.</p></li>\n<li><p>Development: You will devise descriptive models and efficient algorithms that find efficient solutions to real world electronics design problems.</p></li>\n<li><p>Implementation: You will collaborate with the software development team to implement the models and algorithms developed in robust, scalable and efficient software.</p></li>\n</ul>\n\n<p>Some electronics design problems you will solve:</p>\n\n<ul>\n<li><p>Generation of alternative design architectures based on user requirements.<br>\nSelection of electronic components from millions of alternatives.</p></li>\n<li><p>Validation and optimisation of the logical and electrical configuration of circuit schematics via simulations and design rules.</p></li>\n<li><p>Creation of three-dimensional placement and routing of electronic components.</p></li>\n</ul>\n\n<p>Qualifications</p>\n\n<ul>\n<li><p>PhD in computer science, applied maths, electrical engineering or related fields, or Master&#39;s and 3+ years experience in developing research-led software.</p></li>\n<li><p>Deep expertise with 2-3 of the following: discrete optimisation, data-driven optimisation, machine learning techniques, high-performance computing, mathematical modelling, data structures, algorithms on graphs.</p></li>\n<li><p>Ability to write, understand and debug clean, maintainable software code.<br>\nFamiliarity with electronics engineering.</p></li>\n</ul>\n\n<p>Nice to haves</p>\n\n<p>-Prior experience in solving some of the problems of automatic circuit board design.</p>\n\n<ul>\n<li><p>Experience developing and deploying production ready software.</p></li>\n<li><p>Working knowledge of machine learning and data science concepts, environment and tools.</p></li>\n</ul>\n\n<p>Benefits</p>\n\n<ul>\n<li><p>Technical challenges and the chance to shape first-hand the electronics revolution.</p></li>\n<li><p>Collaboration with world-class multi-disciplinary team.</p></li>\n<li><p>Competitive salary and equity.</p></li>\n<li><p>25 days of annual holidays</p></li>\n<li><p>Flexible working environment.</p></li>\n<li><p>London Bridge office.</p></li>\n</ul>\n\n<p>At Circuit Mind we value diversity and foster an inclusive environment. If you have an additional necessity or disability that requires accommodation, please let us know so we can adjust the interview process to your needs. We also ensure that Circuit Mind’s straight-forward and efficient hiring process honours your time.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Machine Learning",
+        "Information Retrieval",
+        "Mathematical Algorithms/Data Analysis",
+        "Algorithms & Data Structures",
+        "Compiler Design"
+      ],
+      "payment": {
+        "salary": "£60k – £70k",
+        "equity": "0.0% – 0.75%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/basilio-gentile-1",
+        "name": "Basilio Gentile",
+        "avatar": "https://photos.angel.co/users/9159176-medium_jpg?1554406523"
+      },
+      "refs": {
+        "angelListId": "618741",
+        "angelListUrl": "https://angel.co/company/circuit-mind-1/jobs/618741-"
+      }
+    }
+  ]
+}

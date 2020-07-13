@@ -1,0 +1,150 @@
+{
+  "name": "Snap Travel Technology Ltd. ",
+  "avatar": "https://photos.angel.co/startups/i/3754243-cd56934fcf6f7885ce6a019462aa7638-medium_jpg.jpg?buster=1537363588",
+  "slogan": "",
+  "description": "Sn-ap is On demand, digital coach travel. We connect people that want to go places with the 30,000 under-utilised private hire coaches in the UK. \n\n•       Sn-ap is revolutionising UK intercity travel by letting you call the shots.\n\n•       Just choose your end destination and a convenient pick up point and tell us when you want to travel.\n\n•       Our system puts all the people wanting to make similar trips together and matches them up with with the best local coach operators.\n\n•       Direct point-to-point services mean no milling around stations, inconvenient connections or unnecessary detours.\n\n•       Because there are thousands of people going your way, on-demand coach travel is not only possible - it’s incredibly cost effective.\n\n•       We keep prices low by only running coaches when there’s enough demand. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://getasnap.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/SnapTravelTech/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/10999909/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Transportation",
+    "Logistics",
+    "Technology"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 4125000,
+    "rounds": [
+      {
+        "type": "Series A",
+        "closedAt": 1505001600,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1476489600,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/rbrighouse123",
+      "name": "Rob Brighouse",
+      "avatar": "https://photos.angel.co/users/7320124-medium_jpg?1516006345",
+      "bioHtml": "Former Managing Director of Chiltern Railways\nChairman of Aston University Business School Advisory Board"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/christy-stewart-smith",
+      "name": "Christy Stewart-Smith",
+      "avatar": "https://photos.angel.co/users/7320126-medium_jpg?1515956133",
+      "bioHtml": "Marketing &amp; Sales Director at Snap Travel Technology Ltd."
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/tom-moreton",
+      "name": "Tom Moreton",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Founded Fat Beehive, the digital agency for Third Sector Organisations. Founding Director at Sn-ap Travel Technology focusing on Product and Operations"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/thomas-ableman",
+      "name": "Thomas Ableman",
+      "avatar": "https://photos.angel.co/users/7291683-medium_jpg?1513953206",
+      "bioHtml": "Chief Executive Officer and Founder at Snap Travel Technology"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/nick-mortimer-1",
+      "name": "Nick Mortimer (Talent Acquisition @ Troi.io)",
+      "avatar": "https://photos.angel.co/users/7047220-medium_jpg?1518191874",
+      "bioHtml": "Troi partner our clients to drive growth through talent. From strategy to delivery and everything in between. An alternative solution traditional agencies."
+    },
+    {
+      "title": "Operations Director",
+      "role": "Employee",
+      "url": "https://angel.co/u/paul-adcock",
+      "name": "Paul Adcock",
+      "avatar": "https://photos.angel.co/users/7334846-medium_jpg?1517144760",
+      "bioHtml": ""
+    },
+    {
+      "title": "Tech Lead",
+      "role": "Employee",
+      "url": "https://angel.co/u/digitales-1",
+      "name": "Ross Tweedie",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "3754243",
+    "angelListUrl": "https://angel.co/company/snap-travel-technology"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer (Python & Django)",
+      "description": "About Snap:\n\nSnap is transforming how we travel from city to city, a travel tech startup changing the face of intercity transport through on-demand coach travel.\n\nBacked by a superb mix of institutional and private investors (led by Kindred Capital, Oxford Capital and ADV), we're building a team of curious and capable transport and technology inspired folk based in our London head office (Soho) and across the UK.\n\nWe're the Premier League of coach travel... on-demand. Our system matches people wanting to make similar trips, with the top drivers and coaches, from the country’s very best independent operators.\n\nWith Snap you can also build your own tailored trip, and share it with your network. If enough people choose it – we’ll run it. Tens of thousands of people have discovered Snap since we launched, and 95% of our reviews are 5-STAR… don’t take our word for it, check us out on Facebook (https://workable.com/nr?l=https%3A%2F%2Fwww.facebook.com%2Fpg%2FSnapTravelTech%2Freviews%2F)\n\nSnap is scaling fast, whilst we hire with care.\n\nThat’s because we know our culture is as important as our mission.\n\nWe want our people to form relationships that last and grow; well beyond their career with us.\n\nFinding like-minded people who really enjoy working together, sharing and taking pride in each other’s achievements is more important than any other consideration.\n\nRequirements\n\nWhat the role is:\n\nWe are looking for a server side focused, Python Django Software Engineer, who cares deeply about building, scaling and consuming Restful API’s within an agile team of developers.\n\nWe’d like you to:\n\n* Be a major stakeholder in the planning and build of Snap’s greenfield Restful API\n* Plan and communicate your endpoints effectively, fostering good relationships with the team members who are responsible for consuming them\n* Participate in peer code review\n* Be unafraid of consuming your own endpoints\n* Help us Architect as we scale.\n\nWhat our Technology means to us:\n\n* Open Source frameworks are key - Python, Django Rest Framework, PHP, Laravel and Vue.js\n* Relational databases are core to our business - MySQL, PostgreSQL\n* We cannot live without our NoSQL databases - Redis, Neo4J\n* We spend time building our product, not other peoples’ - Heroku, Intercom, Google Tag Manager, Hotjar\n* We are modern engineers - Restful API’s, ES6, design patterns, Pep8, AirBnB Styleguide\n* We care about each other - peer reviews, architectural cohesion\n* We love to learn - cutting-edge technologies (Weex), conference and training budgets\n\n\nWe’d like you to aspire to:\n\n* Continue using your previous experience building API’s to help us build ours\n* Help us to keep the ship afloat whilst we re-engineer from the ground up\n* Care about the way in which we query our data\n* Plan your endpoints with other stakeholders before reaching for your coding headphones\n* Desire to continue to write clean and testable code\n* Enjoy working within an Agile environment, and feel comfortable estimating the complexity of your work\n* Love working with other sociable people in an open and collaborative way\n* Celebrate personal successes\n* Acknowledge our failures as a team\n\nBenefits\n\n* Your benefits will include holiday entitlement of 25 days per year for a full time employee, in addition to public holidays\n* Slack first\n* Gentle dress code\n* Access to the company share options scheme\n* Craft beer in the fridge for weekly retrospectives\n* There’s also lunch and learns (think TED talks with free lunch!)\n* weekly company check-ins (free beer - other options are available!) an open forum with the exec team for discussing the company’s direction and open floor discussion of the things which matter most\n* Periodic company wide Quality Day projects\n* You will have access to Perkbox, our team benefits platform that gives you access to over 200 perks such as big brand discounts; premium rewards and lifestyle perks\n* You will be enrolled into our workplace pension scheme. We’ll make employer contributions into your retirement pot and you’ll make member contributions\n* You will also receive free travel on Snap coach services - a benefit that will only grow as we grow!",
+      "descriptionHtml": "<p>About Snap:</p>\n\n<p>Snap is transforming how we travel from city to city, a travel tech startup changing the face of intercity transport through on-demand coach travel.</p>\n\n<p>Backed by a superb mix of institutional and private investors (led by Kindred Capital, Oxford Capital and ADV), we&#39;re building a team of curious and capable transport and technology inspired folk based in our London head office (Soho) and across the UK.</p>\n\n<p>We&#39;re the Premier League of coach travel... on-demand. Our system matches people wanting to make similar trips, with the top drivers and coaches, from the country’s very best independent operators.</p>\n\n<p>With Snap you can also build your own tailored trip, and share it with your network. If enough people choose it – we’ll run it. Tens of thousands of people have discovered Snap since we launched, and 95% of our reviews are 5-STAR… don’t take our word for it, check us out on Facebook (<a href=\"https://workable.com/nr?l=https%3A%2F%2Fwww.facebook.com%2Fpg%2FSnapTravelTech%2Freviews%2F\" target=\"_blank\" rel=\"nofollow\">https://workable.com/nr?l=https%3A%2F%2Fwww.facebook.com%2Fpg%2FSnapTravelTech%2Freviews%2F</a>)</p>\n\n<p>Snap is scaling fast, whilst we hire with care.</p>\n\n<p>That’s because we know our culture is as important as our mission.</p>\n\n<p>We want our people to form relationships that last and grow; well beyond their career with us.</p>\n\n<p>Finding like-minded people who really enjoy working together, sharing and taking pride in each other’s achievements is more important than any other consideration.</p>\n\n<p>Requirements</p>\n\n<p>What the role is:</p>\n\n<p>We are looking for a server side focused, Python Django Software Engineer, who cares deeply about building, scaling and consuming Restful API’s within an agile team of developers.</p>\n\n<p>We’d like you to:</p>\n\n<ul>\n<li>Be a major stakeholder in the planning and build of Snap’s greenfield Restful API</li>\n<li>Plan and communicate your endpoints effectively, fostering good relationships with the team members who are responsible for consuming them</li>\n<li>Participate in peer code review</li>\n<li>Be unafraid of consuming your own endpoints</li>\n<li>Help us Architect as we scale.</li>\n</ul>\n\n<p>What our Technology means to us:</p>\n\n<ul>\n<li>Open Source frameworks are key - Python, Django Rest Framework, PHP, Laravel and Vue.js</li>\n<li>Relational databases are core to our business - MySQL, PostgreSQL</li>\n<li>We cannot live without our NoSQL databases - Redis, Neo4J</li>\n<li>We spend time building our product, not other peoples’ - Heroku, Intercom, Google Tag Manager, Hotjar</li>\n<li>We are modern engineers - Restful API’s, ES6, design patterns, Pep8, AirBnB Styleguide</li>\n<li>We care about each other - peer reviews, architectural cohesion</li>\n<li>We love to learn - cutting-edge technologies (Weex), conference and training budgets</li>\n</ul>\n\n<p>We’d like you to aspire to:</p>\n\n<ul>\n<li>Continue using your previous experience building API’s to help us build ours</li>\n<li>Help us to keep the ship afloat whilst we re-engineer from the ground up</li>\n<li>Care about the way in which we query our data</li>\n<li>Plan your endpoints with other stakeholders before reaching for your coding headphones</li>\n<li>Desire to continue to write clean and testable code</li>\n<li>Enjoy working within an Agile environment, and feel comfortable estimating the complexity of your work</li>\n<li>Love working with other sociable people in an open and collaborative way</li>\n<li>Celebrate personal successes</li>\n<li>Acknowledge our failures as a team</li>\n</ul>\n\n<p>Benefits</p>\n\n<ul>\n<li>Your benefits will include holiday entitlement of 25 days per year for a full time employee, in addition to public holidays</li>\n<li>Slack first</li>\n<li>Gentle dress code</li>\n<li>Access to the company share options scheme</li>\n<li>Craft beer in the fridge for weekly retrospectives</li>\n<li>There’s also lunch and learns (think TED talks with free lunch!)</li>\n<li>weekly company check-ins (free beer - other options are available!) an open forum with the exec team for discussing the company’s direction and open floor discussion of the things which matter most</li>\n<li>Periodic company wide Quality Day projects</li>\n<li>You will have access to Perkbox, our team benefits platform that gives you access to over 200 perks such as big brand discounts; premium rewards and lifestyle perks</li>\n<li>You will be enrolled into our workplace pension scheme. We’ll make employer contributions into your retirement pot and you’ll make member contributions</li>\n<li>You will also receive free travel on Snap coach services - a benefit that will only grow as we grow!</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£45k – £75k"
+      },
+      "recruiter": {
+        "title": "People and Finance Manager",
+        "role": "Employee",
+        "url": "https://angel.co/u/justine-livingstone",
+        "name": "Justine Livingstone",
+        "avatar": "https://photos.angel.co/users/7372810-medium_jpg?1516029126"
+      },
+      "refs": {
+        "angelListId": "389774",
+        "angelListUrl": "https://angel.co/company/snap-travel-technology/jobs/389774-"
+      }
+    }
+  ]
+}

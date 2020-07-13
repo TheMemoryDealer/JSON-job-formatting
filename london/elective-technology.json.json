@@ -1,0 +1,102 @@
+{
+  "name": "Elective Technology",
+  "avatar": "https://photos.angel.co/startups/i/6941289-051afcdb934a273390af1ad076c193a8-medium_jpg.jpg?buster=1557742380",
+  "slogan": "Innovation for Recruitment & HR",
+  "description": "RECii has been developed to enable Recruitment firms and HR teams to leverage the emerging technologies of AI, Voice recognition, BlockChain and intelligent workflow, to significantly increase the profitability, capability, and productivity within recruitment firms, in-house recruitment and HR teams.\n\nThe service will fully automate the recruitment process, from inception and integration into a Recruitment firm's CRM through to automation of candidate assessment and recommendation for placement. Significant efficiencies have been identified and qualified with industry partners. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://recii.io"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Technology",
+    "Hr Tech",
+    "Artificial Intelligence / Machine Learning"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/scott-christian-lim",
+      "name": "Scott Christian-Lim",
+      "avatar": "https://photos.angel.co/users/9384124-medium_jpg?1564571424",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/gareth-christian-lim",
+      "name": "Gareth Christian-Lim",
+      "avatar": "https://photos.angel.co/users/9360233-medium_jpg?1557741166",
+      "bioHtml": "CEO Elective Technology. Ex developer who started first business 2004. Successfully launched 7 businesses. Experienced technologist, board member and NED. "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6941289",
+    "angelListUrl": "https://angel.co/company/elective-technology"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Front End Developer",
+      "description": "Recii is an innovative voice and verification technology platform designed to support the recruitment/HR industry. Leveraging sophisticated automation and AI driven techniques we are looking for a talented, ambitious, front end developer to join our team.\n\nAs we continue to expand our offering, evolve our product and lead the technology race, you will help keep us at the forefront of the industry.\n\nUsing your core essential technical skills of HTML, CSS and React within this emerging technology environment, you will own and create a dashboard, website and front end features. Engaging at Director level, you will coordinate and deliver stand-ups and sprint planning with other members of the development team\n\nYou should possess a solutions orientated mindset and a proactive team spirited approach to helping colleagues resolve challenges.\n\nResponsibilities\n\nThe Developer will work as part of an agile team, using a variety of web-focused technology to deliver a cutting-edge experience. Designing and planning technical solutions to meet business requirements. Coding and developing features for new and existing products. Upkeep and maintenance of existing features. Identifying areas for technical improvements / innovations.\n\nKnowledge, Skills, and Experience\n\nHTML\nCSS\nReact\nRespoinsive design and UI optimisation\nCSS pre-processing framework Sass\nJavascript front-end framework ReactJS\nVersion control systems (e.g. Git)\n\nPerks\n\nPension\nTraining budget\nFlexible working hours\nFresh fruit daily\nUnlimited tea / coffee\nIn house cinema\nGym\nMembers bar\nWeekly team lunches",
+      "descriptionHtml": "<p>Recii is an innovative voice and verification technology platform designed to support the recruitment/HR industry. Leveraging sophisticated automation and AI driven techniques we are looking for a talented, ambitious, front end developer to join our team.</p>\n\n<p>As we continue to expand our offering, evolve our product and lead the technology race, you will help keep us at the forefront of the industry.</p>\n\n<p>Using your core essential technical skills of HTML, CSS and React within this emerging technology environment, you will own and create a dashboard, website and front end features. Engaging at Director level, you will coordinate and deliver stand-ups and sprint planning with other members of the development team</p>\n\n<p>You should possess a solutions orientated mindset and a proactive team spirited approach to helping colleagues resolve challenges.</p>\n\n<p>Responsibilities</p>\n\n<p>The Developer will work as part of an agile team, using a variety of web-focused technology to deliver a cutting-edge experience. Designing and planning technical solutions to meet business requirements. Coding and developing features for new and existing products. Upkeep and maintenance of existing features. Identifying areas for technical improvements / innovations.</p>\n\n<p>Knowledge, Skills, and Experience</p>\n\n<p>HTML<br>\nCSS<br>\nReact<br>\nRespoinsive design and UI optimisation<br>\nCSS pre-processing framework Sass<br>\nJavascript front-end framework ReactJS<br>\nVersion control systems (e.g. Git)</p>\n\n<p>Perks</p>\n\n<p>Pension<br>\nTraining budget<br>\nFlexible working hours<br>\nFresh fruit daily<br>\nUnlimited tea / coffee<br>\nIn house cinema<br>\nGym<br>\nMembers bar<br>\nWeekly team lunches</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "HTML5 & CSS3",
+        "React.js"
+      ],
+      "payment": {
+        "salary": "£40k – £55k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/gareth-christian-lim",
+        "name": "Gareth Christian-Lim",
+        "avatar": "https://photos.angel.co/users/9360233-medium_jpg?1557741166"
+      },
+      "refs": {
+        "angelListId": "554335",
+        "angelListUrl": "https://angel.co/company/elective-technology/jobs/554335-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "name": "Quality Clouds",
+  "avatar": "https://photos.angel.co/startups/i/6615907-d8d02725bbbbe28159f64ae1711aa303-medium_jpg.jpg?buster=1543239344",
+  "slogan": "We help companies to govern their SaaS investments, from development to production",
+  "description": "Quality Clouds for SaaS platforms is a product that help large and medium enterprises to govern their SaaS investments to ensure development and configuration are done in the right way and also, to monitor the user adoption of these platforms.\nConnectors available today: ServiceNow, Salesforce and Office365",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.qualityclouds.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.qualityclouds.com/blog/"
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/qualityclouds/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Barcelona"
+  ],
+  "marketTags": [
+    "Cloud Computing",
+    "B2B · SaaS · Mobile · Artificial Intelligence / Machine Learning",
+    "SaaS"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 613000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1509494400,
+        "valuation": 3000000
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/albertfranquesa",
+      "name": "albert franquesa",
+      "avatar": "https://photos.angel.co/users/1812194-medium_jpg?1450860782",
+      "bioHtml": ":::Hungry &amp; foolish - #fintech #startups #SaaS #Intrapreneur #entrepreneur #blockchain investigator https://t.co/kc4Wz9khDO"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/anna-valdivia",
+      "name": "Anna Valdivia",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [
+    {
+      "category": "work_from_home",
+      "title": "Work from home friendly"
+    }
+  ],
+  "refs": {
+    "angelListId": "6615907",
+    "angelListUrl": "https://angel.co/company/quality-clouds-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Java / PHP Senior Developer – Barcelona",
+      "description": "Quality Clouds is a SaaS startup with an automated code review solution for SaaS platforms. We are a very young company looking for people eager to learn and work in a very dynamic and technical environment. \n\nQuality Clouds is looking for a PHP Senior Developer with strong knowledge of Java to join our team in Barcelona. \n\nAbout the role\n\nMain responsibilities\n\nBeing part of an Agile team of developers, software architects and SaaS platform experts whose mission is to build a market-leading software product. \nRelevant participation in our SCRUM meetings contributing both by producing top quality code and by providing input into the technical design of the product. \nContributing mainly to the back end layer (Java based, with heavy use of the Spring framework), together with the development of the admin portal, API layers and other vendor specific integration modules (PHP based, Laravel Framework)\nAbout you\n\nEducation\n\nUniversity Degree or final years, or equivalent relevant work experience.\nExperience\n\nHave an established track record of producing high quality software.\n5 years+ hands on experience in Java-based server side projects.\n3 years of hands on experience with PHP server side development, especially with the Laravel framework\nExpert knowledge of key Java language programming concepts: Thread Safety, Generics, Java 8 and later, and Lambda Expressions and experience using MySQL database as backend for Java applications\nDeep knowledge of the Spring Framework such as  Spring Core, Spring Testing, Spring Data Access, Spring Integration.\nFull proficiency in SDLC tools for Java development – Maven, Unit Testing frameworks (including Mock Object frameworks), Continuous Integration tools (Jenkins)\nPreferred Qualifications\n\nFamiliarity with AWS platform – S3, EC2, AMI definition and management\nExperience with DevOps tools and techniques (Continuous Delivery, Containerization products)\nAdvanced knowledge of static code analysis tools (SonarQube, Google Closure Compiler) and the theory behind them (code parsers, AST generators)\nExperience with cloud platforms such as AWS (preferably) or Google Cloud Platform is a plus. \nExperience with low code SaaS platforms such as Salesforce.com, ServiceNow, Office 365 (especially Dynamics 365 and SharePoint online), Appian, Mendix, etc is a significant plus.\nAbilities\n\nPassionate about code and code quality\nExcellent organizational and communication skills. \nMotivation to achieve results in a fast-paced environment. \nHigh creativity, great analytical reasoning skills and passion for software and software quality.\nWhat we offer\n\nReal development opportunities\nPermanent contract\nDynamic environment\nCompetitive salary",
+      "descriptionHtml": "<p>Quality Clouds is a SaaS startup with an automated code review solution for SaaS platforms. We are a very young company looking for people eager to learn and work in a very dynamic and technical environment. </p>\n\n<p>Quality Clouds is looking for a PHP Senior Developer with strong knowledge of Java to join our team in Barcelona. </p>\n\n<p>About the role</p>\n\n<p>Main responsibilities</p>\n\n<p>Being part of an Agile team of developers, software architects and SaaS platform experts whose mission is to build a market-leading software product. <br>\nRelevant participation in our SCRUM meetings contributing both by producing top quality code and by providing input into the technical design of the product. <br>\nContributing mainly to the back end layer (Java based, with heavy use of the Spring framework), together with the development of the admin portal, API layers and other vendor specific integration modules (PHP based, Laravel Framework)<br>\nAbout you</p>\n\n<p>Education</p>\n\n<p>University Degree or final years, or equivalent relevant work experience.<br>\nExperience</p>\n\n<p>Have an established track record of producing high quality software.<br>\n5 years+ hands on experience in Java-based server side projects.<br>\n3 years of hands on experience with PHP server side development, especially with the Laravel framework<br>\nExpert knowledge of key Java language programming concepts: Thread Safety, Generics, Java 8 and later, and Lambda Expressions and experience using MySQL database as backend for Java applications<br>\nDeep knowledge of the Spring Framework such as  Spring Core, Spring Testing, Spring Data Access, Spring Integration.<br>\nFull proficiency in SDLC tools for Java development – Maven, Unit Testing frameworks (including Mock Object frameworks), Continuous Integration tools (Jenkins)<br>\nPreferred Qualifications</p>\n\n<p>Familiarity with AWS platform – S3, EC2, AMI definition and management<br>\nExperience with DevOps tools and techniques (Continuous Delivery, Containerization products)<br>\nAdvanced knowledge of static code analysis tools (SonarQube, Google Closure Compiler) and the theory behind them (code parsers, AST generators)<br>\nExperience with cloud platforms such as AWS (preferably) or Google Cloud Platform is a plus. <br>\nExperience with low code SaaS platforms such as Salesforce.com, ServiceNow, Office 365 (especially Dynamics 365 and SharePoint online), Appian, Mendix, etc is a significant plus.<br>\nAbilities</p>\n\n<p>Passionate about code and code quality<br>\nExcellent organizational and communication skills. <br>\nMotivation to achieve results in a fast-paced environment. <br>\nHigh creativity, great analytical reasoning skills and passion for software and software quality.<br>\nWhat we offer</p>\n\n<p>Real development opportunities<br>\nPermanent contract<br>\nDynamic environment<br>\nCompetitive salary</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "Barcelona"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "PHP",
+        "Java",
+        "API",
+        "Laravel",
+        "AWS",
+        "Spring Framework"
+      ],
+      "payment": {
+        "salary": "€37k – €42k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/anna-valdivia",
+        "name": "Anna Valdivia",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "700755",
+        "angelListUrl": "https://angel.co/company/quality-clouds-1/jobs/700755-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Salesforce Developer – Barcelona",
+      "description": "Quality Clouds is a SaaS startup with an automated code review solution for SaaS platforms. We are a very young company looking for people eager to learn and work in a very dynamic and technical environment.\n\nQuality Clouds is looking for a Salesforce developer with administration skills to join our team in Barcelona. If you’re excited by the opportunity to work in a startup with cutting edge cloud computing technology, then this is the place to be.\n\nThe Salesforce Developer will join an Agile team of developers, software architects and SaaS platform experts whose mission is to build a market-leading software product. He or she will be expected to contribute in the following areas:\n\nAbout the role\n\nLead the evolution of our Quality Clouds for Salesforce product, in collaboration with our backend and frontend development teams\nDesign and build the Quality Clouds Salesforce AppExchange Application, which will directly integrate customer Salesforce instances with our product\nLead the Quality Assurance stream of work for Quality Clouds for Salesforce\nEnsure that Quality Clouds for Salesforce stays up to date with new Salesforce releases and functionality\nProvide consultancy on interpreting the results of Quality Clouds for Salesforce scans for our clients\n\nAlthough not required, experience with, or interest in becoming proficient in other low code SaaS platforms such as ServiceNow, Office 365, etc will be a significant plus.\n\nA successful candidate will have an established track record of developing high quality applications on the Salesforce platform and a deep understanding of the platform’s architecture, capabilities and limitations. Also, excellent organizational and communication skills, a motivation to achieve results in a fast-paced environment, high creativity, great analytical reasoning skills, and a passion for software and software quality are required to succeed in this position. This role is based in our Barcelona office and will provide opportunities to work with international partners and customers.\n\nAbout you\n\nBasic Qualifications\n\n– University Degree or final years, or equivalent relevant work experience.\n– Passionate about code and code quality.\n– 3 years+ hands on experience developing and administering the Salesforce platform\n– Knows and understands the reasoning behind Salesforce development and customization best practices\n– Deep knowledge of Salesforce architecture, components, and Software Development Lifecycle management\n– Deep Knowledge of APEX, VisualForce, REST and SOAP integrations\n– Experience with Lightning and Salesforce DX\n\nPreferred Qualifications\n\n– Familiarity with AWS platform at a user level\n– Some knowledge of the Java Programming language and the Spring framework\n– Experience with of one or more low code development platforms (ServiceNow, Appian, Mendix, etc…)\n\nWhat we offer\n\nReal development opportunities\nPermanent contract\nDynamic environment\nCompetitive salary",
+      "descriptionHtml": "<p>Quality Clouds is a SaaS startup with an automated code review solution for SaaS platforms. We are a very young company looking for people eager to learn and work in a very dynamic and technical environment.</p>\n\n<p>Quality Clouds is looking for a Salesforce developer with administration skills to join our team in Barcelona. If you’re excited by the opportunity to work in a startup with cutting edge cloud computing technology, then this is the place to be.</p>\n\n<p>The Salesforce Developer will join an Agile team of developers, software architects and SaaS platform experts whose mission is to build a market-leading software product. He or she will be expected to contribute in the following areas:</p>\n\n<p>About the role</p>\n\n<p>Lead the evolution of our Quality Clouds for Salesforce product, in collaboration with our backend and frontend development teams<br>\nDesign and build the Quality Clouds Salesforce AppExchange Application, which will directly integrate customer Salesforce instances with our product<br>\nLead the Quality Assurance stream of work for Quality Clouds for Salesforce<br>\nEnsure that Quality Clouds for Salesforce stays up to date with new Salesforce releases and functionality<br>\nProvide consultancy on interpreting the results of Quality Clouds for Salesforce scans for our clients</p>\n\n<p>Although not required, experience with, or interest in becoming proficient in other low code SaaS platforms such as ServiceNow, Office 365, etc will be a significant plus.</p>\n\n<p>A successful candidate will have an established track record of developing high quality applications on the Salesforce platform and a deep understanding of the platform’s architecture, capabilities and limitations. Also, excellent organizational and communication skills, a motivation to achieve results in a fast-paced environment, high creativity, great analytical reasoning skills, and a passion for software and software quality are required to succeed in this position. This role is based in our Barcelona office and will provide opportunities to work with international partners and customers.</p>\n\n<p>About you</p>\n\n<p>Basic Qualifications</p>\n\n<p>– University Degree or final years, or equivalent relevant work experience.<br>\n– Passionate about code and code quality.<br>\n– 3 years+ hands on experience developing and administering the Salesforce platform<br>\n– Knows and understands the reasoning behind Salesforce development and customization best practices<br>\n– Deep knowledge of Salesforce architecture, components, and Software Development Lifecycle management<br>\n– Deep Knowledge of APEX, VisualForce, REST and SOAP integrations<br>\n– Experience with Lightning and Salesforce DX</p>\n\n<p>Preferred Qualifications</p>\n\n<p>– Familiarity with AWS platform at a user level<br>\n– Some knowledge of the Java Programming language and the Spring framework<br>\n– Experience with of one or more low code development platforms (ServiceNow, Appian, Mendix, etc…)</p>\n\n<p>What we offer</p>\n\n<p>Real development opportunities<br>\nPermanent contract<br>\nDynamic environment<br>\nCompetitive salary</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "Barcelona"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "SOAP",
+        "Apex",
+        "Salesforce",
+        "REST",
+        "AWS",
+        "Salesforce DX"
+      ],
+      "payment": {
+        "salary": "€35k – €40k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/anna-valdivia",
+        "name": "Anna Valdivia",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "700810",
+        "angelListUrl": "https://angel.co/company/quality-clouds-1/jobs/700810-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "name": "The Box Hut",
+  "avatar": "https://photos.angel.co/startups/i/7195293-2e6944f2b88cf201d51ff1cfb2f0ea05-medium_jpg.jpg?buster=1568664237",
+  "slogan": "A Subscription Box Marketplace",
+  "description": "Theboxhut.com is an upcoming Marketplace for Subscription boxes. We allow suppliers to list their subscription boxes, and manage customers orders, and connect them to a new source of customers looking to try and experience new things. They will be able to purchase multiple boxes, as well as pause or cancel in one click, so no need to go through phone calls, surveys, or back and forth emails with customer support. The idea is to develop a service thats intuitive and simple for customers, yet still provides suppliers with a new sales channel, and access to new data sources.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://theboxhut.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/theboxhut"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/theboxhut"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/15839983"
+    },
+    {
+      "type": "productHunt",
+      "url": "https://www.producthunt.com/upcoming/theboxhut-com"
+    }
+  ],
+  "locations": [
+    "United Kingdom",
+    "Manchester",
+    "London"
+  ],
+  "marketTags": [
+    "E-Commerce",
+    "Online Marketplaces",
+    "Subscription Businesses",
+    "Marketplaces"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 15000,
+    "rounds": [
+      {
+        "type": "Pre-Seed",
+        "closedAt": 1564617600,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/jack-mallon",
+      "name": "Jack Mallon",
+      "avatar": "https://photos.angel.co/users/9998727-medium_jpg?1570717843",
+      "bioHtml": "Founder Theboxhut.com a UK based startup creating a marketplace for Subscription Boxes."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7195293",
+    "angelListUrl": "https://angel.co/company/theboxhut-com"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "Co Founder & CTO",
+      "description": "*** This role is only available to UK Candidates only. You will on occassion need to travel to events within the UK so anybody from outside of the UK applying will be rejected***\n\nAs i'm currently in the process of developing, and evolving my start up platform, i am looking for new team members to join as Co Founders to work alongside me. This role is for a Chief Technical Officer, who would be responsible for handling the Tech side of the business. This would include:\n\n- Developing prototypes\n- Optimizing Conversion rates\n- Finding + fixing bugs\n- Creating detailed roadmaps based on the plan we develop for the future of the platform\n- Optimizing technical SEO\n\nThe tech stack we use is:\n- Backend : PHP7 / Symfony4 \n- Frontend : HTML / CSS / SASS / Bootstrap 4.3\n- Database : Mysql \n- Server : Nginx / Docker\n- Code management : GIT\n\nThis role is for somebody who is experienced as a CTO or senior Full Stack Developer, while experience working in the Subscription Box industry would also be very useful.\n\nPlease note, this role is Equity based only, and will not provide a salary as the project is currently Pre-Investment. However this is a great opportunity to join a project in an Emerging Market with High Growth Opportunities.",
+      "descriptionHtml": "<p>*** This role is only available to UK Candidates only. You will on occassion need to travel to events within the UK so anybody from outside of the UK applying will be rejected***</p>\n\n<p>As i&#39;m currently in the process of developing, and evolving my start up platform, i am looking for new team members to join as Co Founders to work alongside me. This role is for a Chief Technical Officer, who would be responsible for handling the Tech side of the business. This would include:</p>\n\n<ul>\n<li>Developing prototypes</li>\n<li>Optimizing Conversion rates</li>\n<li>Finding + fixing bugs</li>\n<li>Creating detailed roadmaps based on the plan we develop for the future of the platform</li>\n<li>Optimizing technical SEO</li>\n</ul>\n\n<p>The tech stack we use is:</p>\n\n<ul>\n<li>Backend : PHP7 / Symfony4 </li>\n<li>Frontend : HTML / CSS / SASS / Bootstrap 4.3</li>\n<li>Database : Mysql </li>\n<li>Server : Nginx / Docker</li>\n<li>Code management : GIT</li>\n</ul>\n\n<p>This role is for somebody who is experienced as a CTO or senior Full Stack Developer, while experience working in the Subscription Box industry would also be very useful.</p>\n\n<p>Please note, this role is Equity based only, and will not provide a salary as the project is currently Pre-Investment. However this is a great opportunity to join a project in an Emerging Market with High Growth Opportunities.</p>\n",
+      "position": "cofounder",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Manchester",
+        "United Kingdom"
+      ],
+      "remote": false,
+      "remoteLocations": [
+        "Silicon Valley",
+        "United States",
+        "United Kingdom"
+      ],
+      "skills": [
+        "PHP",
+        "HTML",
+        "CSS",
+        "MySQL",
+        "Git",
+        "Nginx",
+        "HTML/CSS/PHP/MYSQL",
+        "SCSS / SASS",
+        "Bootstrap",
+        "Docker",
+        "Symfony4"
+      ],
+      "payment": {
+        "salary": "£10k – £30k",
+        "equity": "1.0% – 10.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/jack-mallon",
+        "name": "Jack Mallon",
+        "avatar": "https://photos.angel.co/users/9998727-medium_jpg?1570717843"
+      },
+      "refs": {
+        "angelListId": "661279",
+        "angelListUrl": "https://angel.co/company/theboxhut-com/jobs/661279-"
+      },
+      "postedAt": 1589658661279
+    }
+  ]
+}

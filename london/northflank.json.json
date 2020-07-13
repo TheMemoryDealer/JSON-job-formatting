@@ -1,0 +1,189 @@
+{
+  "name": "Northflank",
+  "avatar": "https://photos.angel.co/startups/i/7092802-0ea56fb033756b8ef94a03a038962467-medium_jpg.jpg?buster=1580468915",
+  "slogan": "Build and deploy anything, anywhere, anytime across regions and clouds",
+  "description": "Northflank is a hosting platform enabling developers to build, deploy and release all their code across regions and cloud providers. It will enable all 24 million developers to access new DevOps capabilities. Code. Build. Deploy. Release. Repeat. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://northflank.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/northflank"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/northflank-ltd"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Cloud Computing",
+    "Cloud Infrastructure",
+    "Developer Tools"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/deciderwill",
+      "name": "Will Stewart",
+      "avatar": "https://photos.angel.co/users/9766987-medium_jpg?1564425171",
+      "bioHtml": "Co-founder Northflank. Infrastructure and DevOps automation."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/lavrenti-frobeen",
+      "name": "Lavrenti Frobeen",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Software Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/max-smith-15",
+      "name": "Max Smith",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/frederik-brix",
+      "name": "Frederik Brix",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [
+    {
+      "category": "work_from_home",
+      "title": "Entire team remote"
+    },
+    {
+      "category": "generous_vacation",
+      "title": "30 days paid holiday"
+    },
+    {
+      "category": "miscellaneous",
+      "title": "Laptop of your choice"
+    },
+    {
+      "category": "equity",
+      "title": "Employee stock options"
+    },
+    {
+      "category": "wellness",
+      "title": "Gaming sessions & free games"
+    },
+    {
+      "category": "company_events",
+      "title": "Yearly company retreat"
+    }
+  ],
+  "refs": {
+    "angelListId": "7092802",
+    "angelListUrl": "https://angel.co/company/northflank"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior DevOps Engineer",
+      "description": "**Code. Build. Deploy. Release. Repeat.**\r\n\r\n**The fullstack cloud platform. Regain the initiative and ship smarter. Reduce stress, time and cost.**\r\n\r\nWe are building the next generation hosting platform for all 24 million developers. Our team strives to improve the developer experience right through operations, design and engineering. Northflank is hiring senior engineers to join us on this journey. We're a fully remote company since the start, our founders met playing online games together. If you have a passion to improve developer workflow and want to build usable developer tooling, apply below and increase the accessibility of DevOps capabilities.\r\n\r\n**🚀 Our Stack**\r\n* Docker, Kubernetes\r\n* Node, TypeScript, Rust\r\n* React, Styled Components, Storybook, Webpack\r\n* Google Cloud, Digital Ocean, AWS, OVH, Hetzner\r\n* MongoDB, Redis\r\n* Asana, Github, Slack and Discord for communication &amp; project management\r\n\r\n**💂 Requirements**\r\n* Strong engineering background with 4+ years of professional experience in container orchestration \r\n* Degree in Computer Science, Software Engineering or other IT related subjects (or equivalent work experience) \r\n* Deep understanding of Kubernetes and Istio\r\n* Appreciation of Mesos, Rancher, Nomad and Helm\r\n* Experience with container build runtimes, such as Img, Buildkit and Kaniko\r\n* Familiarity with cloud infrastructure, data structures, storage systems, source control and other developer tools\r\n* Proficiency with programming languages such as Golang, C#, Rust, TypeScript or similar\r\n* Implementation of security best practices (RBAC, service accounts, IAM, Firewall, mTLS, Let's Encrypt)\r\n* Experience creating and operating CI/CD/CD workflows\r\n* Ability to write clean, maintainable, modular and effective code\r\n* Eager to continuously learn latest technologies and expand your technical skills\r\n* Excellent communication and team-working skills\r\n\r\n**🌟 Bonus Points**\r\n* Experience implementing multi-tenant PaaS \r\n* Usage of GitHub, Bitbucket and GitLab\r\n* Passionate about serverless containers and edge computing \r\n* Experience with high performance single threaded CPUs \r\n* You've deployed game servers before\r\n\r\n**🐳 Your Role**\r\n* Collaboration with software developers to build and maintain a PaaS &amp; IaaS \r\n* Developing internal tools to increase the operational effectiveness of our team \r\n* Automate and streamline software testing, monitoring and deployment of the Northflank platform\r\n* Troubleshoot and resolve issues in our development, staging and production environments\r\n* Actively participate in the end-to-end design process and work on your own initiative to improve the platform\r\n* Don't operate the engine, build the engine 😉\r\n\r\n**🦁 Ideal Candidate**\r\n* DevOps Unicorn 🦄\r\n* Comfortable with remote working environment\r\n* Looking to expand their skills by contributing to a new cloud hosting platform\r\n* Passionate for developer tools and improving developer workflow\r\n* Desire to have impact in an early stage startup \r\n\r\n**🔥 Benefits**\r\n* Work remotely from home within a growing team\r\n* Highly competitive salary &amp; equity \r\n* Flexible working hours upon agreement\r\n* Top-spec company laptop of your choice for both work and personal usage\r\n* Optional company gaming sessions\r\n* Opportunity to contribute to other departments and R&amp;D",
+      "descriptionHtml": "<p><strong>Code. Build. Deploy. Release. Repeat.</strong></p>\n\n<p><strong>The fullstack cloud platform. Regain the initiative and ship smarter. Reduce stress, time and cost.</strong></p>\n\n<p>We are building the next generation hosting platform for all 24 million developers. Our team strives to improve the developer experience right through operations, design and engineering. Northflank is hiring senior engineers to join us on this journey. We&#39;re a fully remote company since the start, our founders met playing online games together. If you have a passion to improve developer workflow and want to build usable developer tooling, apply below and increase the accessibility of DevOps capabilities.</p>\n\n<p><strong>🚀 Our Stack</strong></p>\n\n<ul>\n<li>Docker, Kubernetes</li>\n<li>Node, TypeScript, Rust</li>\n<li>React, Styled Components, Storybook, Webpack</li>\n<li>Google Cloud, Digital Ocean, AWS, OVH, Hetzner</li>\n<li>MongoDB, Redis</li>\n<li>Asana, Github, Slack and Discord for communication &amp; project management</li>\n</ul>\n\n<p><strong>💂 Requirements</strong></p>\n\n<ul>\n<li>Strong engineering background with 4+ years of professional experience in container orchestration </li>\n<li>Degree in Computer Science, Software Engineering or other IT related subjects (or equivalent work experience) </li>\n<li>Deep understanding of Kubernetes and Istio</li>\n<li>Appreciation of Mesos, Rancher, Nomad and Helm</li>\n<li>Experience with container build runtimes, such as Img, Buildkit and Kaniko</li>\n<li>Familiarity with cloud infrastructure, data structures, storage systems, source control and other developer tools</li>\n<li>Proficiency with programming languages such as Golang, C#, Rust, TypeScript or similar</li>\n<li>Implementation of security best practices (RBAC, service accounts, IAM, Firewall, mTLS, Let&#39;s Encrypt)</li>\n<li>Experience creating and operating CI/CD/CD workflows</li>\n<li>Ability to write clean, maintainable, modular and effective code</li>\n<li>Eager to continuously learn latest technologies and expand your technical skills</li>\n<li>Excellent communication and team-working skills</li>\n</ul>\n\n<p><strong>🌟 Bonus Points</strong></p>\n\n<ul>\n<li>Experience implementing multi-tenant PaaS </li>\n<li>Usage of GitHub, Bitbucket and GitLab</li>\n<li>Passionate about serverless containers and edge computing </li>\n<li>Experience with high performance single threaded CPUs </li>\n<li>You&#39;ve deployed game servers before</li>\n</ul>\n\n<p><strong>🐳 Your Role</strong></p>\n\n<ul>\n<li>Collaboration with software developers to build and maintain a PaaS &amp; IaaS </li>\n<li>Developing internal tools to increase the operational effectiveness of our team </li>\n<li>Automate and streamline software testing, monitoring and deployment of the Northflank platform</li>\n<li>Troubleshoot and resolve issues in our development, staging and production environments</li>\n<li>Actively participate in the end-to-end design process and work on your own initiative to improve the platform</li>\n<li>Don&#39;t operate the engine, build the engine 😉</li>\n</ul>\n\n<p><strong>🦁 Ideal Candidate</strong></p>\n\n<ul>\n<li>DevOps Unicorn 🦄</li>\n<li>Comfortable with remote working environment</li>\n<li>Looking to expand their skills by contributing to a new cloud hosting platform</li>\n<li>Passionate for developer tools and improving developer workflow</li>\n<li>Desire to have impact in an early stage startup </li>\n</ul>\n\n<p><strong>🔥 Benefits</strong></p>\n\n<ul>\n<li>Work remotely from home within a growing team</li>\n<li>Highly competitive salary &amp; equity </li>\n<li>Flexible working hours upon agreement</li>\n<li>Top-spec company laptop of your choice for both work and personal usage</li>\n<li>Optional company gaming sessions</li>\n<li>Opportunity to contribute to other departments and R&amp;D</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe"
+      ],
+      "skills": [
+        "Linux System Administration",
+        "Amazon Web Services",
+        "Security",
+        "Docker",
+        "Microsoft Azure",
+        "Google Cloud Platform",
+        "Kubernetes"
+      ],
+      "payment": {
+        "salary": "$75k – $120k",
+        "equity": "0.0% – 0.5%"
+      },
+      "recruiter": {
+        "title": "Operations Manager",
+        "role": "Employee",
+        "url": "https://angel.co/u/adam-charvat",
+        "name": "Adam Charvat",
+        "avatar": "https://photos.angel.co/users/10571963-medium_jpg?1580469729"
+      },
+      "refs": {
+        "angelListId": "754527",
+        "angelListUrl": "https://angel.co/company/northflank/jobs/754527-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Frontend Engineer",
+      "description": "**Code. Build. Deploy. Release. Repeat.**\r\n\r\n**The fullstack cloud platform. Regain the initiative and ship smarter. Reduce stress, time and cost.**\r\n\r\nWe are building the next generation hosting platform for all 24 million developers. Our team strives to improve the developer experience right through operations, design and engineering. Northflank is hiring senior engineers to join us on this journey. We're a fully remote company since the start, our founders met playing online games together. If you have a passion to improve developer workflow and want to build usable developer tooling, apply below and increase the accessibility of DevOps capabilities.\r\n\r\n**🚀 Our Stack**\r\n* Docker, Kubernetes\r\n* Node, TypeScript, Rust\r\n* React, Styled Components, Storybook, Webpack\r\n* Google Cloud, Digital Ocean, AWS, OVH, Hetzner\r\n* MongoDB, Redis\r\n* Asana, Github, Slack and Discord for communication &amp; project management\r\n\r\n**💂 Requirements**\r\n* Strong engineering background with 3+ years of professional experience with frontend web development using modern frameworks (React, Styled Components etc.)\r\n* Degree in Computer Science, Software Engineering or other IT / Design related subjects (or equivalent work experience)\r\n* Proficiency with programming languages such as HTML, CSS, Node, TypeScript and JavaScript ESNext\r\n* Turning beautiful designs into pixel-perfect UI &amp; UX\r\n* Knowledge of Babel, Webpack, Parcel, Next or Meteor bundlers\r\n* Familiarity with cloud infrastructure, data structures, storage systems, source control and other developer tools\r\n* Confidence with UNIX-like systems (Linux / WSL)\r\n* Eager to continuously learn latest technologies and expand your technical skills\r\n* Excellent communication and team-working skills\r\n\r\n**🌟 Bonus Points**\r\n* Figma, Photoshop or Sketch\r\n* Rest APIs, GraphQL and gRPC\r\n* Continuous integration, deployment and delivery workflow\r\n* Dockerfiles\r\n\r\n**🐳 Your Role**\r\n* Focus on improving, scaling and innovating the front-end of a new cloud hosting platform\r\n* Turn design assets into web interfaces using HTML, CSS, React and Styled Components\r\n* Collaborate with UI/UX designers to create modern web interfaces\r\n* Fast and realtime user interfaces built with React, Styled Components\r\n* Northflank’s API, Container Platform, Stacks\r\n\r\n**🌟 Ideal Candidate**\r\n* Comfortable with remote working environment\r\n* Looking to expand their skills by contributing to a new cloud hosting platform\r\n* Passionate for developer tools and improving developer workflow\r\n* Desire to have impact in an early stage startup\r\n\r\n**🔥 Benefits**\r\n* Work remotely from home within a growing team\r\n* Highly competitive salary &amp; equity\r\n* Flexible working hours upon agreement\r\n* Company laptop of your choice for both work and personal usage\r\n* Optional company gaming sessions\r\n* Opportunity to contribute to other departments and R&amp;D",
+      "descriptionHtml": "<p><strong>Code. Build. Deploy. Release. Repeat.</strong></p>\n\n<p><strong>The fullstack cloud platform. Regain the initiative and ship smarter. Reduce stress, time and cost.</strong></p>\n\n<p>We are building the next generation hosting platform for all 24 million developers. Our team strives to improve the developer experience right through operations, design and engineering. Northflank is hiring senior engineers to join us on this journey. We&#39;re a fully remote company since the start, our founders met playing online games together. If you have a passion to improve developer workflow and want to build usable developer tooling, apply below and increase the accessibility of DevOps capabilities.</p>\n\n<p><strong>🚀 Our Stack</strong></p>\n\n<ul>\n<li>Docker, Kubernetes</li>\n<li>Node, TypeScript, Rust</li>\n<li>React, Styled Components, Storybook, Webpack</li>\n<li>Google Cloud, Digital Ocean, AWS, OVH, Hetzner</li>\n<li>MongoDB, Redis</li>\n<li>Asana, Github, Slack and Discord for communication &amp; project management</li>\n</ul>\n\n<p><strong>💂 Requirements</strong></p>\n\n<ul>\n<li>Strong engineering background with 3+ years of professional experience with frontend web development using modern frameworks (React, Styled Components etc.)</li>\n<li>Degree in Computer Science, Software Engineering or other IT / Design related subjects (or equivalent work experience)</li>\n<li>Proficiency with programming languages such as HTML, CSS, Node, TypeScript and JavaScript ESNext</li>\n<li>Turning beautiful designs into pixel-perfect UI &amp; UX</li>\n<li>Knowledge of Babel, Webpack, Parcel, Next or Meteor bundlers</li>\n<li>Familiarity with cloud infrastructure, data structures, storage systems, source control and other developer tools</li>\n<li>Confidence with UNIX-like systems (Linux / WSL)</li>\n<li>Eager to continuously learn latest technologies and expand your technical skills</li>\n<li>Excellent communication and team-working skills</li>\n</ul>\n\n<p><strong>🌟 Bonus Points</strong></p>\n\n<ul>\n<li>Figma, Photoshop or Sketch</li>\n<li>Rest APIs, GraphQL and gRPC</li>\n<li>Continuous integration, deployment and delivery workflow</li>\n<li>Dockerfiles</li>\n</ul>\n\n<p><strong>🐳 Your Role</strong></p>\n\n<ul>\n<li>Focus on improving, scaling and innovating the front-end of a new cloud hosting platform</li>\n<li>Turn design assets into web interfaces using HTML, CSS, React and Styled Components</li>\n<li>Collaborate with UI/UX designers to create modern web interfaces</li>\n<li>Fast and realtime user interfaces built with React, Styled Components</li>\n<li>Northflank’s API, Container Platform, Stacks</li>\n</ul>\n\n<p><strong>🌟 Ideal Candidate</strong></p>\n\n<ul>\n<li>Comfortable with remote working environment</li>\n<li>Looking to expand their skills by contributing to a new cloud hosting platform</li>\n<li>Passionate for developer tools and improving developer workflow</li>\n<li>Desire to have impact in an early stage startup</li>\n</ul>\n\n<p><strong>🔥 Benefits</strong></p>\n\n<ul>\n<li>Work remotely from home within a growing team</li>\n<li>Highly competitive salary &amp; equity</li>\n<li>Flexible working hours upon agreement</li>\n<li>Company laptop of your choice for both work and personal usage</li>\n<li>Optional company gaming sessions</li>\n<li>Opportunity to contribute to other departments and R&amp;D</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe"
+      ],
+      "skills": [
+        "Javascript",
+        "CSS",
+        "React.js",
+        "Webpack",
+        "Styled Components"
+      ],
+      "payment": {
+        "salary": "$65k – $100k",
+        "equity": "0.0% – 0.5%"
+      },
+      "recruiter": {
+        "title": "Operations Manager",
+        "role": "Employee",
+        "url": "https://angel.co/u/adam-charvat",
+        "name": "Adam Charvat",
+        "avatar": "https://photos.angel.co/users/10571963-medium_jpg?1580469729"
+      },
+      "refs": {
+        "angelListId": "754525",
+        "angelListUrl": "https://angel.co/company/northflank/jobs/754525-"
+      }
+    }
+  ]
+}

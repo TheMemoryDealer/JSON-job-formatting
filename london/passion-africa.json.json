@@ -1,0 +1,95 @@
+{
+  "name": "Passion Africa",
+  "avatar": "https://photos.angel.co/startups/i/7179428-a50f26cde51ed031117b956252456eb7-medium_jpg.jpg?buster=1568026994",
+  "slogan": "High Level Security",
+  "description": "Providing Security to clients Kenya",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://don't have website yet"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Security"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/marcus-hislop",
+      "name": "Marcus Hislop",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7179428",
+    "angelListUrl": "https://angel.co/company/passion-africa"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "Director",
+      "description": "",
+      "descriptionHtml": "",
+      "position": "cofounder",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Management",
+        "Leadership",
+        "Communication Skills",
+        "Extremely hard working and dedicated"
+      ],
+      "payment": {
+        "salary": "£1k – £2k",
+        "equity": "10.0% – 25.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/marcus-hislop",
+        "name": "Marcus Hislop",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "622503",
+        "angelListUrl": "https://angel.co/company/passion-africa/jobs/622503-"
+      }
+    }
+  ]
+}

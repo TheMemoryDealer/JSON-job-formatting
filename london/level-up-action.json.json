@@ -1,0 +1,95 @@
+{
+  "name": "Level Up Action",
+  "avatar": "https://photos.angel.co/startups/i/6800722-327191fa0d15aeb04c3ed8250f7c1607-medium_jpg.jpg?buster=1550502071",
+  "slogan": "Leading feminist campaigns in the UK",
+  "description": "Using digital tools and tactics, we mobilise thousands of feminists from across the UK to take action on the issues that matter to them - and win. So far this has included petitions to the press regulator calling for more sensitive reporting on domestic violence, and e-mailing ITV directors to take plastic surgery ads off-air. \n\nThe job is as flexible and creative as you are!",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.welevelup.org"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Startups"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/janey-starling",
+      "name": "Janey Starling",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6800722",
+    "angelListUrl": "https://angel.co/company/level-up-action"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Developer",
+      "description": "We need an independent, creative and most importantly feminist developer who is willing to take the lead on creating innovative digital tools and maintaining our website and database. \n\nKnowledge of Ruby is essential, as are the abilities to learn quickly, communicate honestly and be part of a small team.\n\nOur stack:\nWe’re using apps that are being worked on by international partner organisations, in the process of being open-sourced, including our main action platform.\n\nOur platforms are made up of several small to medium-sized apps which exchange data via webhooks and APIs. The main ones are:\n\nSpeakout - petitions, email-to-target, fundraising and surveys for our members\n\nIdentity - a CRM for securely keeping track of members’ details\n\nPlease note: Salary will be pro-rated to two days per week, with the possibility of more work as the organisation grows.",
+      "descriptionHtml": "<p>We need an independent, creative and most importantly feminist developer who is willing to take the lead on creating innovative digital tools and maintaining our website and database. </p>\n\n<p>Knowledge of Ruby is essential, as are the abilities to learn quickly, communicate honestly and be part of a small team.</p>\n\n<p>Our stack:<br>\nWe’re using apps that are being worked on by international partner organisations, in the process of being open-sourced, including our main action platform.</p>\n\n<p>Our platforms are made up of several small to medium-sized apps which exchange data via webhooks and APIs. The main ones are:</p>\n\n<p>Speakout - petitions, email-to-target, fundraising and surveys for our members</p>\n\n<p>Identity - a CRM for securely keeping track of members’ details</p>\n\n<p>Please note: Salary will be pro-rated to two days per week, with the possibility of more work as the organisation grows.</p>\n",
+      "position": "contract",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Heroku",
+        "Amazon RDS",
+        "Ruby on Rails",
+        "AWS",
+        "Ruby With Padrino"
+      ],
+      "payment": {
+        "salary": "£50k – £60k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/janey-starling",
+        "name": "Janey Starling",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "506717",
+        "angelListUrl": "https://angel.co/company/level-up-action/jobs/506717-"
+      }
+    }
+  ]
+}

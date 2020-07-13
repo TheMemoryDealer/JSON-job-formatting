@@ -1,0 +1,102 @@
+{
+  "name": "Energe",
+  "avatar": "https://photos.angel.co/startups/i/7231599-88560bae09b478aad976d23f6c6317fc-medium_jpg.jpg?buster=1570114099",
+  "slogan": "A platform to connect students to collaborate in HealthTech",
+  "description": "It is a web and app platform made to make discovery and collaboration effortless. Firstly, we have a newsfeed where users see domain-specific posts from peers immediately around them and can scroll through as easily as instagram. Secondly, we have a collaboration centre. Users, such as startups or Phd students, can post big or small projects here. Users can also post an idea they'd like to find collaborators for or even a skill they'd like to work together to learn. The platforms has tokens for gamification and to reward influencers and content creators.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.energe.io"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Health Care Information Technology",
+    "Networking",
+    "Social Media Platforms",
+    "Technology",
+    "Artificial Intelligence / Machine Learning"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/aashna-mahajan-2",
+      "name": "Aashna Mahajan",
+      "avatar": "https://photos.angel.co/users/10076477-medium_jpg?1570116321",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7231599",
+    "angelListUrl": "https://angel.co/company/energe-2"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "Tech Lead/CTO (Full-Stack/Frontend/Backend)",
+      "description": "We’re looking for a full-stack engineer to lead our team of developers in building and management of our tech stack (the python backend) and to leave a lasting impact on collaboration in the Health Tech field.\n\nEnerge is a a digital platform that makes inspiration and collaboration in the HealthTech field effortless and encourages innovation.\n\nYour job is to initially lead our development team while they build the web/app interface to help us move from our private beta product into full market launch in Feb, 2020. After that it’s iterations on the product based on feedback and scaling out the product for production. \n\nCurrently the platform is being developed using the following:\nRDS\nDjango Backend \nREST APIs\nReact WebFront\nFlutter MobileFront\nPython/Node Server for realtime notifications\n\nYou will join our team of three co-founders. We're a small group, so you'll need to be diverse in your work patterns. But this also means there will be exciting puzzles, fast personal development, the opportunity to forge your own projects within the company, and a role in directing the direction of the company.\nWe're a young company, so you'll need to get your hands dirty and no two weeks will be the same. The ability to cope with uncertainty and rapid change is crucial.\n\nWe're looking for someone to be a real part of the team. You spend a lot of time with the people you work with, so we want it to be fun and rewarding rather than feel like a chore. That means having a passion for what we're doing, wanting to make a real difference to people's lives, having interests outside of work, sharing knowledge with your colleagues, and adding to our company culture.\n\n__________\nREQUIREMENTS\nYou’ll have been writing production Python for some time now, and understand its ins and outs. You’ll have written a number of REST apis in Flask or Django. You will also have been deep into the data tier and will be comfortable with web system architecture and design. You will play a key role in shaping our tech stack.\n**Machine learning experience would be appreciated**\n**Open to applicants without prior experience in industry**\n\n__________\nSKILLS AND ATTRIBUTES:\nCore Python with and without frameworks\nCore programming and software engineering\nAgile methodologies\nTools: Git, PostgreSQL, Kubernetes, Python/Django/Flask, Amazon Web Services(S3, Kinesis, Redshift), GCP/AWS\nProblem solving\nAttention to detail\nCurious\nHumble\nQuick to learn\nEmpathy for our users\nPassion for technology and startups\n\n__________\nWHAT YOU'LL BE DOING:\nLead full back-end and front-end design\nGrowing and maintaining our database and stack\nAct as a bridge between the management team and the web/app development team\nPotential advancement to CTO position depending on experience and fit\nWorking with the wider team to understand our customers and their needs\nSupporting your team with pair programming and code reviews\nAdding to the team and company culture with your personality, interests, and ways of working",
+      "descriptionHtml": "<p>We’re looking for a full-stack engineer to lead our team of developers in building and management of our tech stack (the python backend) and to leave a lasting impact on collaboration in the Health Tech field.</p>\n\n<p>Energe is a a digital platform that makes inspiration and collaboration in the HealthTech field effortless and encourages innovation.</p>\n\n<p>Your job is to initially lead our development team while they build the web/app interface to help us move from our private beta product into full market launch in Feb, 2020. After that it’s iterations on the product based on feedback and scaling out the product for production. </p>\n\n<p>Currently the platform is being developed using the following:<br>\nRDS<br>\nDjango Backend <br>\nREST APIs<br>\nReact WebFront<br>\nFlutter MobileFront<br>\nPython/Node Server for realtime notifications</p>\n\n<p>You will join our team of three co-founders. We&#39;re a small group, so you&#39;ll need to be diverse in your work patterns. But this also means there will be exciting puzzles, fast personal development, the opportunity to forge your own projects within the company, and a role in directing the direction of the company.<br>\nWe&#39;re a young company, so you&#39;ll need to get your hands dirty and no two weeks will be the same. The ability to cope with uncertainty and rapid change is crucial.</p>\n\n<p>We&#39;re looking for someone to be a real part of the team. You spend a lot of time with the people you work with, so we want it to be fun and rewarding rather than feel like a chore. That means having a passion for what we&#39;re doing, wanting to make a real difference to people&#39;s lives, having interests outside of work, sharing knowledge with your colleagues, and adding to our company culture.</p>\n\n<hr>\n\n<p>REQUIREMENTS<br>\nYou’ll have been writing production Python for some time now, and understand its ins and outs. You’ll have written a number of REST apis in Flask or Django. You will also have been deep into the data tier and will be comfortable with web system architecture and design. You will play a key role in shaping our tech stack.<br>\n<strong>Machine learning experience would be appreciated</strong><br>\n<strong>Open to applicants without prior experience in industry</strong></p>\n\n<hr>\n\n<p>SKILLS AND ATTRIBUTES:<br>\nCore Python with and without frameworks<br>\nCore programming and software engineering<br>\nAgile methodologies<br>\nTools: Git, PostgreSQL, Kubernetes, Python/Django/Flask, Amazon Web Services(S3, Kinesis, Redshift), GCP/AWS<br>\nProblem solving<br>\nAttention to detail<br>\nCurious<br>\nHumble<br>\nQuick to learn<br>\nEmpathy for our users<br>\nPassion for technology and startups</p>\n\n<hr>\n\n<p>WHAT YOU&#39;LL BE DOING:<br>\nLead full back-end and front-end design<br>\nGrowing and maintaining our database and stack<br>\nAct as a bridge between the management team and the web/app development team<br>\nPotential advancement to CTO position depending on experience and fit<br>\nWorking with the wider team to understand our customers and their needs<br>\nSupporting your team with pair programming and code reviews<br>\nAdding to the team and company culture with your personality, interests, and ways of working</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Backend Development",
+        "React.js",
+        "AWS",
+        "Front-End/Full-Stack (UI-AngularJS-JS-NodeJS)",
+        "Full-Stack Web Development (Node/Redux/React)"
+      ],
+      "payment": {
+        "salary": "£25k – £40k",
+        "equity": "1.0% – 3.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/aashna-mahajan-2",
+        "name": "Aashna Mahajan",
+        "avatar": "https://photos.angel.co/users/10076477-medium_jpg?1570116321"
+      },
+      "refs": {
+        "angelListId": "637857",
+        "angelListUrl": "https://angel.co/company/energe-2/jobs/637857-"
+      },
+      "postedAt": 1589658637857
+    }
+  ]
+}

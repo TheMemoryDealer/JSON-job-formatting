@@ -1,0 +1,93 @@
+{
+  "name": "FRACA",
+  "avatar": "https://photos.angel.co/startups/i/6509664-7fb4c04cced2598a5b65422cad986076-medium_jpg.jpg?buster=1540727028",
+  "slogan": "Transportation technology changes impacting real estate",
+  "description": "We are building a data engine to predict how changes in transportation technology will impact real estate values over the coming decades.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://None"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Artificial Intelligence",
+    "Commercial Real Estate",
+    "Big Data Analytics"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/anderson_carl_",
+      "name": "Carl Anderson",
+      "avatar": "https://photos.angel.co/users/1317616-medium_jpg?1541857078",
+      "bioHtml": "Co-Founder of Fraca Ltd: a start-up using data to build a predictive engine of how transportation technology changes will impact real estate prices."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6509664",
+    "angelListUrl": "https://angel.co/company/fraca"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Data engineer and/or data scientist",
+      "description": "Drive the product design and process.  \nCollect data from multiple sources to help build the models for future values.",
+      "descriptionHtml": "<p>Drive the product design and process.<br><br>\nCollect data from multiple sources to help build the models for future values.</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£100k – £100k",
+        "equity": "1.0% – 15.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/anderson_carl_",
+        "name": "Carl Anderson",
+        "avatar": "https://photos.angel.co/users/1317616-medium_jpg?1541857078"
+      },
+      "refs": {
+        "angelListId": "449272",
+        "angelListUrl": "https://angel.co/company/fraca/jobs/449272-"
+      },
+      "postedAt": 1589658449272
+    }
+  ]
+}

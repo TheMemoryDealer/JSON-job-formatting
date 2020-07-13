@@ -1,0 +1,193 @@
+{
+  "name": "Mimica Automation",
+  "avatar": "https://photos.angel.co/startups/i/5875980-0bc9027bc321e8e170c170274db28690-medium_jpg.jpg?buster=1528882024",
+  "slogan": "Delegating the world's repetitive work to AI",
+  "description": "100 billion. That’s the number of hours of repetitive, manual work we will do on our computers this year. Businesses would kill to automate this work, but state-of-the-art software automation requires teams of developers, months of effort, and hundreds of thousands of pounds to deploy. Most businesses simply can’t afford that price tag. \n\nAt Mimica we are developing a new paradigm for automation: our software learns to automate work just by observing it. This eliminates the need for developers, making the benefits of automation accessible to everyone.\n\nOur algorithms learn by watching you work, observing clicks and keystrokes and using machine learning to identify repetition within this dataset. This approach dramatically broadens automation potential within a business. With Mimica, all of the low-volume, bespoke tasks that never warranted attention suddenly become viable candidates for automation, opening up a $5T previously untapped market.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://mimica.ai"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/27220208"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Machine Learning",
+    "Software"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 1600000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1539302400,
+        "valuation": 10500000
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/raphael-holca",
+      "name": "Raphael Holca",
+      "avatar": "https://photos.angel.co/users/8016470-medium_jpg?1529573126",
+      "bioHtml": "Co-founder and CTO at Mimica Automation"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/tuhin-chakraborty-3",
+      "name": "Tuhin Chakraborty",
+      "avatar": "https://photos.angel.co/users/7985932-medium_jpg?1530005097",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/angus-bayley",
+      "name": "Angus Bayley",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/meha-nelson-1",
+      "name": "Meha Nelson",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/raphael-holca",
+      "name": "Raphael Holca",
+      "avatar": "https://photos.angel.co/users/8016470-medium_jpg?1529573126",
+      "bioHtml": "Co-founder and CTO at Mimica Automation"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5875980",
+    "angelListUrl": "https://angel.co/company/mimica-automation"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Frontend Engineer",
+      "description": "At Mimica our mission is to free the world of dull, repetitive computer work. Every year billions of hours of human creativity are wasted to monotonous work like data entry. We believe this drudgery should be left to software; humans deserve better.\r\n\r\nWe're pioneering a novel approach to automate work: our AI learns to perform tasks through observation. Our software records users' clicks and keystrokes as they perform a task, uses ML to identify key steps and decisions, and then generates automation code.\r\n\r\nSuccessful applicants will be amongst the first hires of a young and ambitious team. We have diverse backgrounds, from NLP to neuroscience, and are all passionate about solving difficult technical challenges. As a small team we work in close collaboration and move quickly. Your work here will have a strong, tangible impact on the whole company.\r\n\r\nAs a front-end engineer you will architect, develop, test, and maintain our web app. Your tasks may include:\r\n\r\n* Develop a data visualisation tool in React\r\n* Build an intuitive interface to visualise and edit a data graph\r\n* Conduct user testing to determine features and their priorities\r\n\r\n## Skills and Past Experience\r\n\r\n* 3+ years software development experience\r\n* Prior experience building products that delight users\r\n* Expert-level experience in Javascript\r\n* Experience with technologies like React and TypeScript \r\n\r\n## Qualities we're looking for\r\n\r\n* You think like a founder: you can make decisions quickly with little oversight; you keep the big picture in mind; you take responsibility and initiative for constantly improving your product.\r\n* You are a team player: you instinctively seek and give feedback; you are not afraid to be wrong or challenged. You enjoy working collaboratively to find the best solution.\r\n* You are an exceptional worker: the job isn’t done until your high standards are met. You don’t cut corners, nor do you always seek perfection; you balance the need for quality and speed.\r\n* You are an independent thinker: you are unafraid of challenging the status quo; you bring a contrarian mindset to the table when evaluating decisions. \r\n* You are strategically-minded: you are able to identify and prioritize strategic initiatives and are eager to think big about Mimica’s potential.\r\n* You are obsessed with the user: you live and breathe user experience and continuously improve your understanding of how and why people use your product. You have an eye for design and an intuition for what separates good software from great.\r\n* You have a desire to change the future of work.",
+      "descriptionHtml": "<p>At Mimica our mission is to free the world of dull, repetitive computer work. Every year billions of hours of human creativity are wasted to monotonous work like data entry. We believe this drudgery should be left to software; humans deserve better.</p>\n\n<p>We&#39;re pioneering a novel approach to automate work: our AI learns to perform tasks through observation. Our software records users&#39; clicks and keystrokes as they perform a task, uses ML to identify key steps and decisions, and then generates automation code.</p>\n\n<p>Successful applicants will be amongst the first hires of a young and ambitious team. We have diverse backgrounds, from NLP to neuroscience, and are all passionate about solving difficult technical challenges. As a small team we work in close collaboration and move quickly. Your work here will have a strong, tangible impact on the whole company.</p>\n\n<p>As a front-end engineer you will architect, develop, test, and maintain our web app. Your tasks may include:</p>\n\n<ul>\n<li>Develop a data visualisation tool in React</li>\n<li>Build an intuitive interface to visualise and edit a data graph</li>\n<li>Conduct user testing to determine features and their priorities</li>\n</ul>\n<h3>Skills and Past Experience</h3>\n<ul>\n<li>3+ years software development experience</li>\n<li>Prior experience building products that delight users</li>\n<li>Expert-level experience in Javascript</li>\n<li>Experience with technologies like React and TypeScript </li>\n</ul>\n<h3>Qualities we&#39;re looking for</h3>\n<ul>\n<li>You think like a founder: you can make decisions quickly with little oversight; you keep the big picture in mind; you take responsibility and initiative for constantly improving your product.</li>\n<li>You are a team player: you instinctively seek and give feedback; you are not afraid to be wrong or challenged. You enjoy working collaboratively to find the best solution.</li>\n<li>You are an exceptional worker: the job isn’t done until your high standards are met. You don’t cut corners, nor do you always seek perfection; you balance the need for quality and speed.</li>\n<li>You are an independent thinker: you are unafraid of challenging the status quo; you bring a contrarian mindset to the table when evaluating decisions. </li>\n<li>You are strategically-minded: you are able to identify and prioritize strategic initiatives and are eager to think big about Mimica’s potential.</li>\n<li>You are obsessed with the user: you live and breathe user experience and continuously improve your understanding of how and why people use your product. You have an eye for design and an intuition for what separates good software from great.</li>\n<li>You have a desire to change the future of work.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£50k – £70k",
+        "equity": "0.0% – 0.5%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Founder",
+        "url": "https://angel.co/u/raphael-holca",
+        "name": "Raphael Holca",
+        "avatar": "https://photos.angel.co/users/8016470-medium_jpg?1529573126"
+      },
+      "refs": {
+        "angelListId": "753197",
+        "angelListUrl": "https://angel.co/company/mimica-automation/jobs/753197-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Full Stack Engineer",
+      "description": "At Mimica our mission is to free the world of dull, repetitive computer work. Every year billions of hours of human creativity are wasted to monotonous work like data entry. We believe this drudgery should be left to software; humans deserve better.\r\n\r\nWe're pioneering a novel approach to automate work: our AI learns to perform tasks through observation. Our software records users' clicks and keystrokes as they perform a task, uses ML to identify key steps and decisions, and then generates automation code.\r\n\r\nWe are looking for an exceptional Fullstack/Frontend developer to join our engineering team. This is an exciting role with close ties to UX design &amp; machine learning. In this role, you'll be working alongside our ML team to develop UIs allowing users to train our AI.\r\n\r\nOur ambitious team is made up of software engineers, data scientists, physicists, and mathematicians, all passionate about solving difficult challenges. As a small team we work in close collaboration and move quickly.\r\n\r\nAs a software engineer you will architect, develop, test, and maintain software across our technology stack. In particular for this role, you will own our \"Mapper\" product from end to end, creating an experience that delights our users. This means identifying and prioritizing features, designing a scalable architecture, and writing front-end and back-end code. Finally you'll ship your code to production environments. Your tasks may include:\r\n\r\n* Develop a data visualisation tool in React\r\n* Build an intuitive interface to visualise and edit a data graph\r\n* Write APIs in our Node backend to interact with ML Python services, etc.\r\n* Conduct user testing to determine features and their priorities\r\n\r\n## Skills and Past Experience\r\n\r\n* 5+ years software development experience\r\n* Prior leadership experience in a start-up or small team\r\n* Prior experience building products that delight users\r\n* Expert-level experience in Javascript\r\n* Experience with technologies like React / Node \r\n\r\n## Qualities we're looking for\r\n\r\n* You think like a founder: you can make decisions quickly with little oversight; you keep the big picture in mind; you take responsibility and initiative for constantly improving your product.\r\n* You are a team player: you instinctively seek and give feedback; you are not afraid to be wrong or challenged. You enjoy working collaboratively to find the best solution.\r\n* You are an exceptional worker: the job isn’t done until your high standards are met. You don’t cut corners, nor do you always seek perfection; you balance the need for quality and speed.\r\n* You are an independent thinker: you are unafraid of challenging the status quo; you bring a contrarian mindset to the table when evaluating decisions. \r\n* You are strategically-minded: you are able to identify and prioritize strategic initiatives and are eager to think big about Mimica’s potential.\r\n* You are obsessed with the user: you live and breathe user experience and continuously improve your understanding of how and why people use your product. You have an eye for design and an intuition for what separates good software from great.\r\n* You have a desire to change the future of work.",
+      "descriptionHtml": "<p>At Mimica our mission is to free the world of dull, repetitive computer work. Every year billions of hours of human creativity are wasted to monotonous work like data entry. We believe this drudgery should be left to software; humans deserve better.</p>\n\n<p>We&#39;re pioneering a novel approach to automate work: our AI learns to perform tasks through observation. Our software records users&#39; clicks and keystrokes as they perform a task, uses ML to identify key steps and decisions, and then generates automation code.</p>\n\n<p>We are looking for an exceptional Fullstack/Frontend developer to join our engineering team. This is an exciting role with close ties to UX design &amp; machine learning. In this role, you&#39;ll be working alongside our ML team to develop UIs allowing users to train our AI.</p>\n\n<p>Our ambitious team is made up of software engineers, data scientists, physicists, and mathematicians, all passionate about solving difficult challenges. As a small team we work in close collaboration and move quickly.</p>\n\n<p>As a software engineer you will architect, develop, test, and maintain software across our technology stack. In particular for this role, you will own our &quot;Mapper&quot; product from end to end, creating an experience that delights our users. This means identifying and prioritizing features, designing a scalable architecture, and writing front-end and back-end code. Finally you&#39;ll ship your code to production environments. Your tasks may include:</p>\n\n<ul>\n<li>Develop a data visualisation tool in React</li>\n<li>Build an intuitive interface to visualise and edit a data graph</li>\n<li>Write APIs in our Node backend to interact with ML Python services, etc.</li>\n<li>Conduct user testing to determine features and their priorities</li>\n</ul>\n<h3>Skills and Past Experience</h3>\n<ul>\n<li>5+ years software development experience</li>\n<li>Prior leadership experience in a start-up or small team</li>\n<li>Prior experience building products that delight users</li>\n<li>Expert-level experience in Javascript</li>\n<li>Experience with technologies like React / Node </li>\n</ul>\n<h3>Qualities we&#39;re looking for</h3>\n<ul>\n<li>You think like a founder: you can make decisions quickly with little oversight; you keep the big picture in mind; you take responsibility and initiative for constantly improving your product.</li>\n<li>You are a team player: you instinctively seek and give feedback; you are not afraid to be wrong or challenged. You enjoy working collaboratively to find the best solution.</li>\n<li>You are an exceptional worker: the job isn’t done until your high standards are met. You don’t cut corners, nor do you always seek perfection; you balance the need for quality and speed.</li>\n<li>You are an independent thinker: you are unafraid of challenging the status quo; you bring a contrarian mindset to the table when evaluating decisions. </li>\n<li>You are strategically-minded: you are able to identify and prioritize strategic initiatives and are eager to think big about Mimica’s potential.</li>\n<li>You are obsessed with the user: you live and breathe user experience and continuously improve your understanding of how and why people use your product. You have an eye for design and an intuition for what separates good software from great.</li>\n<li>You have a desire to change the future of work.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£50k – £80k",
+        "equity": "0.0% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Founder",
+        "url": "https://angel.co/u/raphael-holca",
+        "name": "Raphael Holca",
+        "avatar": "https://photos.angel.co/users/8016470-medium_jpg?1529573126"
+      },
+      "refs": {
+        "angelListId": "385491",
+        "angelListUrl": "https://angel.co/company/mimica-automation/jobs/385491-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Software Engineer",
+      "description": "At Mimica our mission is to free the world of dull, repetitive computer work. Every year billions of hours of human creativity are wasted to monotonous work like data entry. We believe this drudgery should be left to software; humans deserve better.\r\n\r\nWe're pioneering a novel approach to automate work: our AI learns to perform tasks through observation. Our software records users' clicks and keystrokes as they perform a task, uses ML to identify key steps and decisions, and then generates automation code.\r\n\r\nSuccessful applicants will be amongst the first hires of a young and ambitious team. We have diverse backgrounds, from NLP to neuroscience, and are all passionate about solving difficult technical challenges. As a small team we work in close collaboration and move quickly. Your work here will have a strong, tangible impact on the whole company.\r\n\r\nAs a software engineer, you will work at the interface of data science, data engineering, and web development. You will oversee our entire data pipeline consisting of a web app (where users label data), data science scripts (ML, NLP, etc.), and a second web app (to display results to end users). Your tasks will include:\r\n\r\n* Put ML and data science models into production (e.g., computer vision, NLP)\r\n* Create data pipelines to feed our models (e.g., getting data from the front end to the back end to ML Python scripts)\r\n* Write algorithms to process complex data structures\r\n\r\n## Skills and Past Experience Needed\r\n\r\n* 5+ years of experience in software engineering\r\n* Expert level in Python\r\n* Knowledge of data science and/or JavaScript a plus\r\n\r\n## Qualities we're looking for\r\n\r\n* You think like a founder: you can make decisions quickly with little oversight; you keep the big picture in mind; you take responsibility and initiative for constantly improving your product.\r\n* You are a team player: you instinctively seek and give feedback; you are not afraid to be wrong or challenged.\r\n* You enjoy working collaboratively to find the best solution. You are an exceptional worker: the job isn’t done until your high standards are met.\r\n* You don’t cut corners, nor do you always seek perfection; you balance the need for quality and speed.\r\n* You are an independent thinker: you are unafraid of challenging the status quo; you bring a contrarian mindset to the table when evaluating decisions.\r\n* You are strategically-minded: you are able to identify and prioritize strategic initiatives and are eager to think big about Mimica’s potential.",
+      "descriptionHtml": "<p>At Mimica our mission is to free the world of dull, repetitive computer work. Every year billions of hours of human creativity are wasted to monotonous work like data entry. We believe this drudgery should be left to software; humans deserve better.</p>\n\n<p>We&#39;re pioneering a novel approach to automate work: our AI learns to perform tasks through observation. Our software records users&#39; clicks and keystrokes as they perform a task, uses ML to identify key steps and decisions, and then generates automation code.</p>\n\n<p>Successful applicants will be amongst the first hires of a young and ambitious team. We have diverse backgrounds, from NLP to neuroscience, and are all passionate about solving difficult technical challenges. As a small team we work in close collaboration and move quickly. Your work here will have a strong, tangible impact on the whole company.</p>\n\n<p>As a software engineer, you will work at the interface of data science, data engineering, and web development. You will oversee our entire data pipeline consisting of a web app (where users label data), data science scripts (ML, NLP, etc.), and a second web app (to display results to end users). Your tasks will include:</p>\n\n<ul>\n<li>Put ML and data science models into production (e.g., computer vision, NLP)</li>\n<li>Create data pipelines to feed our models (e.g., getting data from the front end to the back end to ML Python scripts)</li>\n<li>Write algorithms to process complex data structures</li>\n</ul>\n<h3>Skills and Past Experience Needed</h3>\n<ul>\n<li>5+ years of experience in software engineering</li>\n<li>Expert level in Python</li>\n<li>Knowledge of data science and/or JavaScript a plus</li>\n</ul>\n<h3>Qualities we&#39;re looking for</h3>\n<ul>\n<li>You think like a founder: you can make decisions quickly with little oversight; you keep the big picture in mind; you take responsibility and initiative for constantly improving your product.</li>\n<li>You are a team player: you instinctively seek and give feedback; you are not afraid to be wrong or challenged.</li>\n<li>You enjoy working collaboratively to find the best solution. You are an exceptional worker: the job isn’t done until your high standards are met.</li>\n<li>You don’t cut corners, nor do you always seek perfection; you balance the need for quality and speed.</li>\n<li>You are an independent thinker: you are unafraid of challenging the status quo; you bring a contrarian mindset to the table when evaluating decisions.</li>\n<li>You are strategically-minded: you are able to identify and prioritize strategic initiatives and are eager to think big about Mimica’s potential.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Node.js",
+        "Backend Development"
+      ],
+      "payment": {
+        "salary": "£50k – £80k",
+        "equity": "0.25% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Founder",
+        "url": "https://angel.co/u/raphael-holca",
+        "name": "Raphael Holca",
+        "avatar": "https://photos.angel.co/users/8016470-medium_jpg?1529573126"
+      },
+      "refs": {
+        "angelListId": "738860",
+        "angelListUrl": "https://angel.co/company/mimica-automation/jobs/738860-"
+      }
+    }
+  ]
+}

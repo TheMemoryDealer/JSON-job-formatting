@@ -1,0 +1,97 @@
+{
+  "name": "Giki Social Enterprise",
+  "avatar": "https://photos.angel.co/startups/i/7243000-64f7acbf16e22b3acae00bf9ee85fdf7-medium_jpg.jpg?buster=1570618071",
+  "slogan": "Live more sustainably",
+  "description": "We have a free app, Gikibadges, that allows UK supermarket shoppers to find out whether what they're buying is sustainable and healthy. We have a new product in development, Gikizero, that will help people understand, and reduce their environmental impact.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.gikibadges.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Food and Beverages",
+    "Green Consumer Goods",
+    "Sustainability"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/james-hand-1",
+      "name": "James Hand",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7243000",
+    "angelListUrl": "https://angel.co/company/giki-social-enterprise"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Developer",
+      "description": "A job with a wide ranging role at a social enterprise with a clear environmental mission. \n\nJob Description\n\nGiki builds tools to help people cut their environmental impact and live more sustainably. We’re a small team, and there’s a lot to build, so we need some help! We’re looking for someone to work across our existing stack, building out new features, refactoring existing code, and continuously making performance improvements. This would involve some independent work, as well as close collaboration with our existing developer. You’ll have a lot of opportunities to shape the tools, providing ideas and suggestions for future development, as well as making decisions on how new features should be implemented.\n\nOur current stack is based on Ruby, which we use to handle all our data processing and imports. We use Rails as our API framework, Postgres for our databases, and React.js to bring our front-end to life. The Giki Badges app is written in React Native. We also use ElasticSearch to power our searches and for a little help processing our data. We take pride in our code and we aim for best practice. We test-drive our development and integrate continuously wherever possible, but we’re pragmatic and forgiving if we fall short.\n\nThere is a lot of freedom to choose the best tools for the job, and we would love the benefits of your experience in helping us shape the Giki architecture. We would also appreciate your help in forming and maintaining good working practices, ensuring that our processes are efficient and robust, and contributing to a calm, mutually supportive and enjoyable working environment. We love to code, but we code with a purpose, and we like to have fun doing it.\n\nSkills\nThe ideal future colleague would have several years development experience, and have worked with the following tools:\n•\tRuby\n•\tRuby on Rails\n•\tCapistrano\n•\tRspec\n•\tPostgres\n•\tElasticSearch\n•\tReact.js\n•\tJest\n•\tReact Native\n•\tAWS\n•\tNGINX\n•\tAnsible\n•\tCircle CI\n•\tSentry\nIf you only have experience with some of these technologies though, and especially if you’ve used similar technologies (Django, Vue, MySQL, Jenkins, etc.) then please do get in touch. We’re looking for someone who is flexible, curious and excited to learn, rather than a specific set of tools. We value diversity and we’re hoping to learn from you. We’re more than happy to take the time to introduce you to our current tools and make decisions together about where we go from here.\n\nWho You Are\nWe want to hear from you if:\n•\tYou are curious, flexible and excited to learn new things.\n•\tYou are good at managing your time and working independently.\n•\tYou don’t wait to be told what to do and you’re always looking at ways to improve things.\n•\tYou’re not afraid of a challenge, and you’re prepared to get stuck in even when you might feel a bit out of your depth.\n•\tYou’re not afraid to ask for help or say that you don’t know the answer.\n•\tYou’re friendly and kind and want to help the rest of the team out.\n•\tYou’re excited about contributing ideas, thinking up new features, and dreaming out new things to build.\nIt would also be incredible if you understand the climate and ecological emergency that we face, and the need for all of us to act now in whatever way we can, to help everyone tread more lightly on the planet. Please get in touch if you want your code to do some good.\n\nThe job is London based and predominantly home working with regular meet ups.",
+      "descriptionHtml": "<p>A job with a wide ranging role at a social enterprise with a clear environmental mission. </p>\n\n<p>Job Description</p>\n\n<p>Giki builds tools to help people cut their environmental impact and live more sustainably. We’re a small team, and there’s a lot to build, so we need some help! We’re looking for someone to work across our existing stack, building out new features, refactoring existing code, and continuously making performance improvements. This would involve some independent work, as well as close collaboration with our existing developer. You’ll have a lot of opportunities to shape the tools, providing ideas and suggestions for future development, as well as making decisions on how new features should be implemented.</p>\n\n<p>Our current stack is based on Ruby, which we use to handle all our data processing and imports. We use Rails as our API framework, Postgres for our databases, and React.js to bring our front-end to life. The Giki Badges app is written in React Native. We also use ElasticSearch to power our searches and for a little help processing our data. We take pride in our code and we aim for best practice. We test-drive our development and integrate continuously wherever possible, but we’re pragmatic and forgiving if we fall short.</p>\n\n<p>There is a lot of freedom to choose the best tools for the job, and we would love the benefits of your experience in helping us shape the Giki architecture. We would also appreciate your help in forming and maintaining good working practices, ensuring that our processes are efficient and robust, and contributing to a calm, mutually supportive and enjoyable working environment. We love to code, but we code with a purpose, and we like to have fun doing it.</p>\n\n<p>Skills<br>\nThe ideal future colleague would have several years development experience, and have worked with the following tools:<br>\n• Ruby<br>\n• Ruby on Rails<br>\n• Capistrano<br>\n• Rspec<br>\n• Postgres<br>\n• ElasticSearch<br>\n• React.js<br>\n• Jest<br>\n• React Native<br>\n• AWS<br>\n• NGINX<br>\n• Ansible<br>\n• Circle CI<br>\n• Sentry<br>\nIf you only have experience with some of these technologies though, and especially if you’ve used similar technologies (Django, Vue, MySQL, Jenkins, etc.) then please do get in touch. We’re looking for someone who is flexible, curious and excited to learn, rather than a specific set of tools. We value diversity and we’re hoping to learn from you. We’re more than happy to take the time to introduce you to our current tools and make decisions together about where we go from here.</p>\n\n<p>Who You Are<br>\nWe want to hear from you if:<br>\n• You are curious, flexible and excited to learn new things.<br>\n• You are good at managing your time and working independently.<br>\n• You don’t wait to be told what to do and you’re always looking at ways to improve things.<br>\n• You’re not afraid of a challenge, and you’re prepared to get stuck in even when you might feel a bit out of your depth.<br>\n• You’re not afraid to ask for help or say that you don’t know the answer.<br>\n• You’re friendly and kind and want to help the rest of the team out.<br>\n• You’re excited about contributing ideas, thinking up new features, and dreaming out new things to build.<br>\nIt would also be incredible if you understand the climate and ecological emergency that we face, and the need for all of us to act now in whatever way we can, to help everyone tread more lightly on the planet. Please get in touch if you want your code to do some good.</p>\n\n<p>The job is London based and predominantly home working with regular meet ups.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "PostgreSQL",
+        "Ruby on Rails",
+        "React.js",
+        "ElasticSearch ",
+        "AWS"
+      ],
+      "payment": {
+        "salary": "£40k – £50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/james-hand-1",
+        "name": "James Hand",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "706975",
+        "angelListUrl": "https://angel.co/company/giki-social-enterprise/jobs/706975-"
+      }
+    }
+  ]
+}

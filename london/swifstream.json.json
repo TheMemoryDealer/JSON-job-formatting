@@ -1,0 +1,95 @@
+{
+  "name": "Swifstream",
+  "avatar": "https://photos.angel.co/startups/i/6275325-b1fc65aec8f14693eca3170277a6ad4c-medium_jpg.jpg?buster=1536336150",
+  "slogan": "Crowd Lending and Crowd Equity",
+  "description": "Transactional networking tool for corporate finance",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.swifstream.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Financial Services",
+    "Finance Technology"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/anthony-campbell-9",
+      "name": "Anthony Campbell",
+      "avatar": "https://photos.angel.co/users/8327709-medium_jpg?1537210536",
+      "bioHtml": "Founder at Swifstream, a transaction networking tool through which PE funds, companies, technical partners, bank, debt funds and professional advisors interact."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6275325",
+    "angelListUrl": "https://angel.co/company/swifstream"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "DEVELOPER TO INTEGRATE AN API: METEOR, METORJS, REACT",
+      "description": "## Project overview:\r\n- Web development / Existing project\r\n- Expected to be completed by 2018/10/12\r\n\r\n## Project details:\r\nDear Sir / Madam\r\n\r\nWe are looking for someone to help us to integrate the API below into a platform that we have built. \r\n\r\nThe API is contained in the link below. You have to be familiar with Meteor to do this. It is quite an advanced API.\r\n\r\nhttp://documentation.lemonway.fr/api-en\r\n\r\nWe are looking to implement the crowd lending / equity crowd funding flow contained in the link below.\r\n\r\nhttps://support.lemonway.com/hc/en-us/articles/115003944109-Step-02-What-is-the-payment-flow-scheme-applicable-to-my-activity-type-\r\n\r\nIn addition to the $450 on offer, we are willing to offer you further payment in the form of a revenue agreement where you will be offered payment of a more significant sum from first revenues generated from the platform \r\n\r\nBest Regards\r\nAnthony",
+      "descriptionHtml": "<h3>Project overview:</h3>\n<ul>\n<li>Web development / Existing project</li>\n<li>Expected to be completed by 2018/10/12</li>\n</ul>\n<h3>Project details:</h3>\n<p>Dear Sir / Madam</p>\n\n<p>We are looking for someone to help us to integrate the API below into a platform that we have built. </p>\n\n<p>The API is contained in the link below. You have to be familiar with Meteor to do this. It is quite an advanced API.</p>\n\n<p><a href=\"http://documentation.lemonway.fr/api-en\" target=\"_blank\" rel=\"nofollow\">http://documentation.lemonway.fr/api-en</a></p>\n\n<p>We are looking to implement the crowd lending / equity crowd funding flow contained in the link below.</p>\n\n<p><a href=\"https://support.lemonway.com/hc/en-us/articles/115003944109-Step-02-What-is-the-payment-flow-scheme-applicable-to-my-activity-type-\" target=\"_blank\" rel=\"nofollow\">https://support.lemonway.com/hc/en-us/articles/115003944109-Step-02-What-is-the-payment-flow-scheme-applicable-to-my-activity-type-</a></p>\n\n<p>In addition to the $450 on offer, we are willing to offer you further payment in the form of a revenue agreement where you will be offered payment of a more significant sum from first revenues generated from the platform </p>\n\n<p>Best Regards<br>\nAnthony</p>\n",
+      "position": "internship",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "PHP",
+        "React.js",
+        "MeteorJS / NodeJS"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "5.0% – 7.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/anthony-campbell-9",
+        "name": "Anthony Campbell",
+        "avatar": "https://photos.angel.co/users/8327709-medium_jpg?1537210536"
+      },
+      "refs": {
+        "angelListId": "424335",
+        "angelListUrl": "https://angel.co/company/swifstream/jobs/424335-"
+      }
+    }
+  ]
+}

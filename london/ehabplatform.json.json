@@ -1,0 +1,90 @@
+{
+  "name": "EHAB",
+  "avatar": "https://photos.angel.co/startups/i/5191321-93f9d80c7084d659d2ed9a4ea2921cc4-medium_jpg.jpg?buster=1519124330",
+  "slogan": "Automating construction contracts & capping risk",
+  "description": "EHAB is an early stage project working with a consortium of construction companies, law firms and research bodies to create a contract automation tool which leverages DLT to remove admin and reduce the likelihood of disputes. \n\nWe're developing cutting edge tech in the world of smart contracts, helping develop the UK and global standards by which other companies will develop this tech in the future. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://ehab.co"
+    },
+    {
+      "type": "blog",
+      "url": "https://medium.com/the-ehab-platform"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/ehabplatform"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/ehabplatform"
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "Norwich",
+    "London"
+  ],
+  "marketTags": [
+    "Blockchain / Cryptocurrency",
+    "Construction",
+    "Insurtech",
+    "Legal Tech"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 125000,
+    "rounds": [
+      {
+        "type": "Pre-Seed",
+        "closedAt": 1585872000,
+        "valuation": 1000000
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/filipe-moura",
+      "name": "Filipe Moura",
+      "avatar": "https://photos.angel.co/users/270418-medium_jpg?1463305837",
+      "bioHtml": "Founder Metamáquina"
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/joshmcgraham",
+      "name": "Josh Graham",
+      "avatar": "https://photos.angel.co/users/6518200-medium_jpg?1515174372",
+      "bioHtml": "Founder of EHAB; Automating construction contracts and capping risk. Actively recruiting http://ehab.co"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/filipe-moura-5",
+      "name": "Filipe Moura",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [
+    {
+      "category": "work_from_home",
+      "title": "Highly flexible"
+    }
+  ],
+  "refs": {
+    "angelListId": "5191321",
+    "angelListUrl": "https://angel.co/company/ehabplatform"
+  },
+  "jobs": []
+}

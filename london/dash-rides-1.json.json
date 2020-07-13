@@ -1,0 +1,100 @@
+{
+  "name": "Dash Rides",
+  "avatar": "https://photos.angel.co/startups/i/7169902-b5cff0dc9fe1dee9199da4814c28806c-medium_jpg.jpg?buster=1567597815",
+  "slogan": "Scooters as a service",
+  "description": "For 1 monthly fee, DASH provides businesses with branded electric scooters along with a suite of technology designed to facilitate tracking and drive safe usage. Our technology platform also provides green reporting statistics allowing businesses to shout about how they have taken sustainability seriously by migrating away from conventional transport options to scooters, while we take care of offsetting the small CO2 impact of their scooter usage. Through our insurance partners we also ensure that businesses are able to fully mitigate their risk around employee/customer usage.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.dashrides.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Electric Vehicles",
+    "Internet of Things",
+    "Green"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/jamie-milroy",
+      "name": "Jamie Milroy",
+      "avatar": "https://photos.angel.co/users/9943367-medium_jpg?1567598270",
+      "bioHtml": "CEO and Founder of <a href=\"https://angel.co/company/dash-rides-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Dash Rides</span></a>, <a href=\"https://angel.co/company/dash-rides\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Dash Rides</span></a> • Worked at <a href=\"https://angel.co/company/pwc\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">PwC</span></a>, <a href=\"https://angel.co/company/pan-n-ice\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Pan-n-Ice</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7169902",
+    "angelListUrl": "https://angel.co/company/dash-rides-1"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "CTO",
+      "description": "Provide complete oversight over the development of MVP involving electric scooters and IoT.",
+      "descriptionHtml": "<p>Provide complete oversight over the development of MVP involving electric scooters and IoT.</p>\n",
+      "position": "cofounder",
+      "experience": 7,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Software Development",
+        "Leadership",
+        "Recruiting and Team Building",
+        "Internet of Things",
+        "Early-Stage Startups",
+        "Application Development"
+      ],
+      "payment": {
+        "salary": "£45k – £65k",
+        "equity": "2.0% – 7.5%"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Founder",
+        "url": "https://angel.co/u/jamie-milroy",
+        "name": "Jamie Milroy",
+        "avatar": "https://photos.angel.co/users/9943367-medium_jpg?1567598270"
+      },
+      "refs": {
+        "angelListId": "619833",
+        "angelListUrl": "https://angel.co/company/dash-rides-1/jobs/619833-"
+      },
+      "postedAt": 1589658619833
+    }
+  ]
+}

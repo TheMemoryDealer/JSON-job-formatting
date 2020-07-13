@@ -1,0 +1,703 @@
+{
+  "name": "Open Cosmos",
+  "avatar": "https://photos.angel.co/startups/i/746261-d78c0025b2ede88797376a8240bdc410-medium_jpg.jpg?buster=1511509806",
+  "slogan": "Simple and affordable space missions",
+  "description": "Open Cosmos offers a combination of hardware, software and services that reduce technical complexity, paperwork and cost when developing satellite hosted payloads. \nWe provide a standardized nanosatellite (qbee) and a payload development tool (qbkit) that together with our web app (qbapp) allow ful mission development from payload conception in qbkit to in orbit control once launched in our qbee. This together with a comprehensive list of services (frequency allocation, insurance negotiation, export control, launch, GNC...) allow our customers to focus on what really adds value to their projects: their payload and the in orbit data. \nOpen Cosmos makes space technologies available to entrepreneurs, researchers and a broader range of organizations that will not only use them to run Earth Observation businesses, gain TRL of technologies in real space conditions, perform exploration or drive military surveillance but also to develop disruptive innovations that will shape our future.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.open-cosmos.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/open_cosmos"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/open.cosmos.space"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/open-cosmos"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Harwell Oxford"
+  ],
+  "marketTags": [
+    "Space Flight Support",
+    "Aerospace",
+    "Defense",
+    "Researchers"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/rafel-jorda-siquier",
+      "name": "Rafel Jordà Siquier",
+      "avatar": "https://photos.angel.co/users/1324888-medium_jpg?1435647457",
+      "bioHtml": "Founder Open Cosmos, Strong space tech background (<span><span class=\"at_symbol\">@</span><span class=\"at_name\">zero2infinity</span></span>, <a href=\"https://angel.co/company/airbus\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Airbus</span></a> Defence and Space) and business (granted MBA <a href=\"https://angel.co/eoi\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Eoi</span></a>)"
+    },
+    {
+      "title": "Procurement Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/pedro-coelho-7",
+      "name": "Pedro Coelho",
+      "avatar": "https://photos.angel.co/users/5106036-medium_jpg?1479244473",
+      "bioHtml": "Worked at Open Cosmos"
+    },
+    {
+      "title": "VP Finance",
+      "role": "Employee",
+      "url": "https://angel.co/u/kristof-nemeth-1",
+      "name": "Kristof Nemeth",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Finance Director | VP Finance at Open Cosmos Ltd. | Finance Executive for High growth Start-ups"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/eugene-mcintyre",
+      "name": "Eugene McIntyre",
+      "avatar": "https://photos.angel.co/users/9729384-medium_jpg?1564050839",
+      "bioHtml": "Recruiting the best talent at Open Cosmos!"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "746261",
+    "angelListUrl": "https://angel.co/company/open_cosmos"
+  },
+  "jobs": [
+    {
+      "role": "Other Engineering",
+      "title": "Attitude and Orbit Control (& GNC) Engineer",
+      "description": "Open Cosmos is revolutionising the way space technology is used and is at the forefront of the emerging new space industry. Our mission is to make space accessible to anyone, to help solve the world's biggest challenges. We do this by providing simple and affordable space missions, using nanosatellite technology, providing end to end space missions for customers around the world (private and institutional). We work with some of the biggest names in the industry, including the European Space Agency (ESA), but also with small and innovative high-tech companies, together with developing the space technology and applications of the future.\n\nBased at one of the world’s leading space campuses in Harwell, Oxfordshire, we are a young and ambitious team with the drive to define a greater future for this planet and the people living on it; therefore, when our minds come together to fulfill our mission to democratise the space we are happy to be part of something that is more than the best of each of ourselves. \n\n------------------------\nThe successful Guidance Navigation and Control (GNC) / Attitude and Orbit Control System (AOCS) engineer will be joining Open Cosmos’ core team in Harwell-Oxford (UK) and will be in charge of the design, execution and validation of GNC/AOCS systems for Open Cosmos’ nanosatellite missions\n\n*** Tasks and responsibilities \n- Understand mission needs and requirements and derive subsystem requirements\n- Design attitude control systems\n- Develop Guidance Navigation and Control / Attitude and Orbit Control systems and algorithms.\n- Design, drive manufacturing and test hardware with respective software during the entire product development cycle\n- Work individually under pressure\n- Take initiative and work in a self-driven manner\n- Embrace challenge and work out of the comfort zone\n- Commit to fulfil customer requirements and expectations\n\n\n*** Skills and competences \n- You have a control engineering-related university degree or relevant experience that justifies not needing that\n- Experience in space systems engineering and satellite AOCS design\n- FDIR understanding and impact to AOCS\n- Deep understanding of solid, flight and astro mechanics/dynamics.\n- You know of classic control theory but also other methods, e.g. robust control and non-linear systems\n- You can navigate comfortably the Pointing Error engineering handbook and can generate pointing budgets at system level\n- Experience in software modelling of physical systems\n- Experience with hardware (AOCS sensors and actuators) and embedded platforms\n- Programming experience (the more the better: C, C++, MATLAB/Simulink, shell)\n\n*** Nice-to-haves \n- Experience in GNC / AOCS in the aerospace industry.\n- Experience outside of the MATLAB/Simulink realm\n- You know about the embedded software world\n- You know of simulation enviroments",
+      "descriptionHtml": "<p>Open Cosmos is revolutionising the way space technology is used and is at the forefront of the emerging new space industry. Our mission is to make space accessible to anyone, to help solve the world&#39;s biggest challenges. We do this by providing simple and affordable space missions, using nanosatellite technology, providing end to end space missions for customers around the world (private and institutional). We work with some of the biggest names in the industry, including the European Space Agency (ESA), but also with small and innovative high-tech companies, together with developing the space technology and applications of the future.</p>\n\n<p>Based at one of the world’s leading space campuses in Harwell, Oxfordshire, we are a young and ambitious team with the drive to define a greater future for this planet and the people living on it; therefore, when our minds come together to fulfill our mission to democratise the space we are happy to be part of something that is more than the best of each of ourselves. </p>\n\n<hr>\n\n<p>The successful Guidance Navigation and Control (GNC) / Attitude and Orbit Control System (AOCS) engineer will be joining Open Cosmos’ core team in Harwell-Oxford (UK) and will be in charge of the design, execution and validation of GNC/AOCS systems for Open Cosmos’ nanosatellite missions</p>\n\n<p>*** Tasks and responsibilities </p>\n\n<ul>\n<li>Understand mission needs and requirements and derive subsystem requirements</li>\n<li>Design attitude control systems</li>\n<li>Develop Guidance Navigation and Control / Attitude and Orbit Control systems and algorithms.</li>\n<li>Design, drive manufacturing and test hardware with respective software during the entire product development cycle</li>\n<li>Work individually under pressure</li>\n<li>Take initiative and work in a self-driven manner</li>\n<li>Embrace challenge and work out of the comfort zone</li>\n<li>Commit to fulfil customer requirements and expectations</li>\n</ul>\n\n<p>*** Skills and competences </p>\n\n<ul>\n<li>You have a control engineering-related university degree or relevant experience that justifies not needing that</li>\n<li>Experience in space systems engineering and satellite AOCS design</li>\n<li>FDIR understanding and impact to AOCS</li>\n<li>Deep understanding of solid, flight and astro mechanics/dynamics.</li>\n<li>You know of classic control theory but also other methods, e.g. robust control and non-linear systems</li>\n<li>You can navigate comfortably the Pointing Error engineering handbook and can generate pointing budgets at system level</li>\n<li>Experience in software modelling of physical systems</li>\n<li>Experience with hardware (AOCS sensors and actuators) and embedded platforms</li>\n<li>Programming experience (the more the better: C, C++, MATLAB/Simulink, shell)</li>\n</ul>\n\n<p>*** Nice-to-haves </p>\n\n<ul>\n<li>Experience in GNC / AOCS in the aerospace industry.</li>\n<li>Experience outside of the MATLAB/Simulink realm</li>\n<li>You know about the embedded software world</li>\n<li>You know of simulation enviroments</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Harwell Oxford"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "C++",
+        "C",
+        "Algorithms",
+        "Automation",
+        "Embedded Software",
+        "Hardware Testing",
+        "Space Systems",
+        "Matlab/Simulink",
+        "Control Theory",
+        "Orbital Mechanics",
+        "Control Engineering",
+        "Spacecraft Attitude Dynamics"
+      ],
+      "payment": {
+        "salary": "£25k – £55k"
+      },
+      "recruiter": {
+        "title": "VP Programmes",
+        "role": "Employee",
+        "url": "https://angel.co/u/aleixmegias",
+        "name": "Aleix Megías Homar",
+        "avatar": "https://photos.angel.co/users/2018010-medium_jpg?1526927639"
+      },
+      "refs": {
+        "angelListId": "286380",
+        "angelListUrl": "https://angel.co/company/open_cosmos/jobs/286380-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Back-End Software Engineer",
+      "description": "You will be joining the Open Cosmos Programmes software development team and you will be responsible for designing, implementing, testing and delivering several of the software modules of one of our core products: beeApp.  \n\n \n\nTasks and responsibilities  \n\nParticipate in the software architecture design\n\nLead the design and implementation of back end modules\n\nIntegration of development operation tools \n\nSupport the Customer Success Team to improve the user experience\n\nInput to the technical roadmap\n\nAttitude, experience and skills  \n\nCommitment and proactiveness\n\nExperience in microservices-based back end development with Golang (Go).\n\nExperience in databases\n\nExperience in integrating development operations & developer experience tools\n\nQuick to learn and coach others\n\n\nNice to have  \n\nFront end skills in React and other frameworks like ES2017, HTML5 or CSS4 will be highly valued\n\nBack end skills in SQL, Java, C++ or C#  will be highly valued\n\nEmbedded software skills and experience\n\nKnowledge of tools such as Kubernetes, GitLab CI/CD, Terraform, Unix Command Line, Bash scripting, build systems or Testing frameworks",
+      "descriptionHtml": "<p>You will be joining the Open Cosmos Programmes software development team and you will be responsible for designing, implementing, testing and delivering several of the software modules of one of our core products: beeApp.  </p>\n\n<p>Tasks and responsibilities  </p>\n\n<p>Participate in the software architecture design</p>\n\n<p>Lead the design and implementation of back end modules</p>\n\n<p>Integration of development operation tools </p>\n\n<p>Support the Customer Success Team to improve the user experience</p>\n\n<p>Input to the technical roadmap</p>\n\n<p>Attitude, experience and skills  </p>\n\n<p>Commitment and proactiveness</p>\n\n<p>Experience in microservices-based back end development with Golang (Go).</p>\n\n<p>Experience in databases</p>\n\n<p>Experience in integrating development operations &amp; developer experience tools</p>\n\n<p>Quick to learn and coach others</p>\n\n<p>Nice to have  </p>\n\n<p>Front end skills in React and other frameworks like ES2017, HTML5 or CSS4 will be highly valued</p>\n\n<p>Back end skills in SQL, Java, C++ or C#  will be highly valued</p>\n\n<p>Embedded software skills and experience</p>\n\n<p>Knowledge of tools such as Kubernetes, GitLab CI/CD, Terraform, Unix Command Line, Bash scripting, build systems or Testing frameworks</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Harwell Oxford"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "C++",
+        "Java",
+        "SQL",
+        "Backend Development",
+        "Embedded C/C++"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/eugene-mcintyre",
+        "name": "Eugene McIntyre",
+        "avatar": "https://photos.angel.co/users/9729384-medium_jpg?1564050839"
+      },
+      "refs": {
+        "angelListId": "654713",
+        "angelListUrl": "https://angel.co/company/open_cosmos/jobs/654713-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "C++ systems/applications developer",
+      "description": "Open Cosmos is revolutionising the way space technology is used and is at the forefront of the emerging new space industry. Our mission is to make space accessible to anyone, to help solve the world's biggest challenges. We do this by providing simple and affordable space missions, using nanosatellite technology, providing end to end space missions for customers around the world (private and institutional). We work with some of the biggest names in the industry, including the European Space Agency (ESA), but also with small and innovative high-tech companies, together with developing the space technology and applications of the future.\n\nBased at one of the world’s leading space campuses in Harwell, Oxfordshire, we are a young and ambitious team with the drive to define a greater future for this planet and the people living on it; therefore, when our minds come together to fulfill our mission to democratise the space we are happy to be part of something that is more than the best of each of ourselves. \n----------\n\nIf you have a good understanding of:\n- modern C++\n- distributed systems\n- data structures\n- algorithms\nand you're interested in building the operating system for a series of spacecraft, then the flight software team needs you!\n\nApply stating at least three of the following:\n- your experience with features of C++14/17\n- your favourite data structure and why\n- your favourite application of that data structure to a real-world problem\n- an interesting graph-theory fact/factoid/joke\n- a non-software social skill/hobby that you can bring into the team (we currently have rock climbing, ice skating, squash, tennis).",
+      "descriptionHtml": "<p>Open Cosmos is revolutionising the way space technology is used and is at the forefront of the emerging new space industry. Our mission is to make space accessible to anyone, to help solve the world&#39;s biggest challenges. We do this by providing simple and affordable space missions, using nanosatellite technology, providing end to end space missions for customers around the world (private and institutional). We work with some of the biggest names in the industry, including the European Space Agency (ESA), but also with small and innovative high-tech companies, together with developing the space technology and applications of the future.</p>\n<h3>Based at one of the world’s leading space campuses in Harwell, Oxfordshire, we are a young and ambitious team with the drive to define a greater future for this planet and the people living on it; therefore, when our minds come together to fulfill our mission to democratise the space we are happy to be part of something that is more than the best of each of ourselves. </h3>\n<p>If you have a good understanding of:</p>\n\n<ul>\n<li>modern C++</li>\n<li>distributed systems</li>\n<li>data structures</li>\n<li>algorithms\nand you&#39;re interested in building the operating system for a series of spacecraft, then the flight software team needs you!</li>\n</ul>\n\n<p>Apply stating at least three of the following:</p>\n\n<ul>\n<li>your experience with features of C++14/17</li>\n<li>your favourite data structure and why</li>\n<li>your favourite application of that data structure to a real-world problem</li>\n<li>an interesting graph-theory fact/factoid/joke</li>\n<li>a non-software social skill/hobby that you can bring into the team (we currently have rock climbing, ice skating, squash, tennis).</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "Oxford"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "C++",
+        "Java",
+        "Computer Science",
+        "Embedded Systems",
+        "C",
+        "RTOS",
+        "Algorithms & Data Structures",
+        "Mission-Critical software"
+      ],
+      "payment": {
+        "salary": "£30k – £50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/jane-shorey",
+        "name": "Jane Shorey",
+        "avatar": "https://photos.angel.co/users/9328552-medium_jpg?1557217410"
+      },
+      "refs": {
+        "angelListId": "439751",
+        "angelListUrl": "https://angel.co/company/open_cosmos/jobs/439751-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "C/C++ Software Engineer",
+      "description": "Who we are\n\nOpen Cosmos is revolutionising the way space technology is used and is at the forefront of the emerging new space industry. Our mission is to make space accessible to anyone, to help solve the world's biggest challenges. We do this by providing simple and affordable space missions, using nanosatellite technology, providing end to end space missions for customers around the world (private and institutional). We work with some of the biggest names in the industry, including the European Space Agency (ESA), but also with small and innovative high-tech companies, together developing the space technology and applications of the future. \n\nBased at one of the world’s leading space campuses in Harwell, Oxfordshire, we are a young and ambitious team with the drive to define a greater future for this planet and the people living on it; therefore, when our minds come together to fulfil our mission to democratise the space we are happy to be part of something that is more than the best of each of ourselves. \n\nDescription of the Position\n\nYou will be joining Open Cosmos’ core team in Harwell-Oxford (UK) and will be responsible to develop applications and services which will run on our satellites. The work involves tight interaction with the satellite development team, mission operations and production departments. The work can involve working on our kernel and drivers as well alongside the embedded software engineers.\n\nFamiliarity with unit testing and mocking is essential. Development work will require using Linux on a day-to-day basis. Experience working with kernels (e.g. Linux, FreeRTOS, etc), drivers, filesystems, and embedded platforms is a bonus. \n\nTasks and responsibilities  \n- Architect, design and implementation of high reliability and robust software solutions for our satellites and other Open Cosmos products.\n- Responsible for planning and implementing agreed test strategies during development.\n- Conception and definition of test procedures, test plans and test strategies in alignment with design.\n- Creation and execution of tests on demand from analysis, requirements.\n- Provide design feedback according to testing results.\n- Provide feedback and support to orbital operations team.\n\nSkills, attitude and experience  \n- Experience with modern C++ (11 or newer) and C\n- Understanding of basic C++ features/idioms including: RAII, STL, value categories, slicing, virtual inheritance, multiple inheritance, friends, smart pointers, templates, functors/lambdas, operator overloading, SFINAE, iterators, constexpr, static_assert, type_traits.\n- Competent with Git.\n- Understanding the means of and the value of extensive unit testing.\n\nNice to have \n- Familiarity with Boost.\n- Familiarity with ZeroMQ.\n- Familiarity with CMake, GoogleTest.\n- Experience with FreeRTOS.\n- Familiarity with CSP (Cubesat Space Protocol).\n- Familiarity with CCSDS communications protocols/frames (CLTU, CADU, etc).\n- Familiarity with immutable data structures and design/selection of allocators.\n- Understanding of basic coding theory, e.g. hash functions, forward error c-correction, Shannon-Hartley theorem.\n- Familiarity with Bash, Java, Python, C#\n- Experience with embedded systems / microcontrollers.  Boards running Linux with 100MB+ of available RAM (e.g. Raspberry Pi, BeagleBone) don’t count!\n- Experience developing hard real-time systems.\n\nYou will enjoy\n- Working with a team of people to build the future of a new space industry\n- Working at one of the world’s leading space campuses\n- 25 days holidays + 8 bank holidays\n- Attractive Pension Scheme & Immediate enrolment\n- Healthy snacks and pick’n’mix sweets at the office\n- Social clubs organised by the team – so far we’ve got Run Club, Paella Club, ice-skating Club and Thirsty Club – suggest something new?\n- Remote working as per company policy\n- Working from home as per company policy\n- Annual Salary Review",
+      "descriptionHtml": "<p>Who we are</p>\n\n<p>Open Cosmos is revolutionising the way space technology is used and is at the forefront of the emerging new space industry. Our mission is to make space accessible to anyone, to help solve the world&#39;s biggest challenges. We do this by providing simple and affordable space missions, using nanosatellite technology, providing end to end space missions for customers around the world (private and institutional). We work with some of the biggest names in the industry, including the European Space Agency (ESA), but also with small and innovative high-tech companies, together developing the space technology and applications of the future. </p>\n\n<p>Based at one of the world’s leading space campuses in Harwell, Oxfordshire, we are a young and ambitious team with the drive to define a greater future for this planet and the people living on it; therefore, when our minds come together to fulfil our mission to democratise the space we are happy to be part of something that is more than the best of each of ourselves. </p>\n\n<p>Description of the Position</p>\n\n<p>You will be joining Open Cosmos’ core team in Harwell-Oxford (UK) and will be responsible to develop applications and services which will run on our satellites. The work involves tight interaction with the satellite development team, mission operations and production departments. The work can involve working on our kernel and drivers as well alongside the embedded software engineers.</p>\n\n<p>Familiarity with unit testing and mocking is essential. Development work will require using Linux on a day-to-day basis. Experience working with kernels (e.g. Linux, FreeRTOS, etc), drivers, filesystems, and embedded platforms is a bonus. </p>\n\n<p>Tasks and responsibilities  </p>\n\n<ul>\n<li>Architect, design and implementation of high reliability and robust software solutions for our satellites and other Open Cosmos products.</li>\n<li>Responsible for planning and implementing agreed test strategies during development.</li>\n<li>Conception and definition of test procedures, test plans and test strategies in alignment with design.</li>\n<li>Creation and execution of tests on demand from analysis, requirements.</li>\n<li>Provide design feedback according to testing results.</li>\n<li>Provide feedback and support to orbital operations team.</li>\n</ul>\n\n<p>Skills, attitude and experience  </p>\n\n<ul>\n<li>Experience with modern C++ (11 or newer) and C</li>\n<li>Understanding of basic C++ features/idioms including: RAII, STL, value categories, slicing, virtual inheritance, multiple inheritance, friends, smart pointers, templates, functors/lambdas, operator overloading, SFINAE, iterators, constexpr, static<u>assert, type</u>traits.</li>\n<li>Competent with Git.</li>\n<li>Understanding the means of and the value of extensive unit testing.</li>\n</ul>\n\n<p>Nice to have </p>\n\n<ul>\n<li>Familiarity with Boost.</li>\n<li>Familiarity with ZeroMQ.</li>\n<li>Familiarity with CMake, GoogleTest.</li>\n<li>Experience with FreeRTOS.</li>\n<li>Familiarity with CSP (Cubesat Space Protocol).</li>\n<li>Familiarity with CCSDS communications protocols/frames (CLTU, CADU, etc).</li>\n<li>Familiarity with immutable data structures and design/selection of allocators.</li>\n<li>Understanding of basic coding theory, e.g. hash functions, forward error c-correction, Shannon-Hartley theorem.</li>\n<li>Familiarity with Bash, Java, Python, C#</li>\n<li>Experience with embedded systems / microcontrollers.  Boards running Linux with 100MB+ of available RAM (e.g. Raspberry Pi, BeagleBone) don’t count!</li>\n<li>Experience developing hard real-time systems.</li>\n</ul>\n\n<p>You will enjoy</p>\n\n<ul>\n<li>Working with a team of people to build the future of a new space industry</li>\n<li>Working at one of the world’s leading space campuses</li>\n<li>25 days holidays + 8 bank holidays</li>\n<li>Attractive Pension Scheme &amp; Immediate enrolment</li>\n<li>Healthy snacks and pick’n’mix sweets at the office</li>\n<li>Social clubs organised by the team – so far we’ve got Run Club, Paella Club, ice-skating Club and Thirsty Club – suggest something new?</li>\n<li>Remote working as per company policy</li>\n<li>Working from home as per company policy</li>\n<li>Annual Salary Review</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Harwell Oxford"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "C++",
+        "Software Development",
+        "C",
+        "Software",
+        "Space Systems"
+      ],
+      "payment": {
+        "salary": "£30k – £50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/eugene-mcintyre",
+        "name": "Eugene McIntyre",
+        "avatar": "https://photos.angel.co/users/9729384-medium_jpg?1564050839"
+      },
+      "refs": {
+        "angelListId": "596092",
+        "angelListUrl": "https://angel.co/company/open_cosmos/jobs/596092-"
+      }
+    },
+    {
+      "role": "Other Engineering",
+      "title": "Electronics Engineer",
+      "description": "Who we are\nOpen Cosmos is revolutionising the way space technology is used and is at the forefront of the emerging new space industry. Our mission is to make space accessible to anyone, to help solve the world&#39;s biggest challenges. We do this by providing simple and affordable space missions, using nanosatellite technology, providing end to end space missions for\ncustomers around the world (private and institutional). We work with some of the biggest names in the industry, including the European Space Agency (ESA), but also with small and innovative high-tech companies, together developing the space technology and applications of the future.\n\nBased at one of the world’s leading space campuses in Harwell, Oxfordshire, we are a young and ambitious team with the drive to define a greater future for this planet and the people living on it; therefore, when our minds come together to fulfil our mission to democratise the space we are happy to be part of something that is more than the best of each of ourselves.\n\nDescription of the Position\nYou will be joining Open Cosmos’ core team in Harwell-Oxford (UK) and will be in charge of designing, simulating, validating and testing electronic systems as part of the Open Cosmos’ electronics team. You will be involved in a fast design-test-iterate cycle that characterises Open Cosmos’ work.\n\nTasks and responsibilities  \n● Design, simulation, verification and validation of PCB schematics and layout.\n● Design power systems and high speed digital circuit design.\n● Execute design validation and assist with design qualification.\n● Documentation.\n● Work independently and under pressure.\n● Embrace challenge and work outside of the comfort zone\n● Commit to fulfill customer requirements and expectations\n● Take initiative and work in a self-driven manner.\n\nSkills, attitude and experience  \n● Experience on embedded software\n● Over 5 years experience in high speed circuit design, validation and testing or equivalent experience\n● Over 3 years experience in EMC analysis or equivalent experience\n● Experience on high current circuit analysis, design, validating and testing\n● Experience on designing multilayer PCBs\n● Experience on designing, simulating, validating and testing analog circuits\n● Attention to detail\n● Lean/Bootstrap mentality\n● Honesty, openness and self awareness\n● Proactiveness\n● Quick to learn and coach others\n\nNice to have  \n● Experience with C, C++\n● Experience with Verilog/VHDL\n● Experience in RF\n● Familiar with python and Linux shell scripting\n● Familiar with Altium Designer\n● Space electronics design experience\n● Experience on embedded software using DSP\n● Agile methods experience (Agile, Scrum, …)\n● Knowledge of languages other than English\n\nYou will enjoy\n● Working with a team of people to build the future of a new space industry\n● Working at one of the world’s leading space campuses\n● 25 days holidays + 8 bank holidays\n● Attractive Pension Scheme &amp; Immediate enrolment\n● Healthy snacks and pick’n’mix sweets at the office\n● Social clubs organised by the team – so far we’ve got Run Club, Paella Club, ice- skating Club and Thirsty Club – suggest something new?\n● Remote working as per company policy\n● Working from home as per company policy\n● Annual Salary Review",
+      "descriptionHtml": "<p>Who we are<br>\nOpen Cosmos is revolutionising the way space technology is used and is at the forefront of the emerging new space industry. Our mission is to make space accessible to anyone, to help solve the world&#39;s biggest challenges. We do this by providing simple and affordable space missions, using nanosatellite technology, providing end to end space missions for<br>\ncustomers around the world (private and institutional). We work with some of the biggest names in the industry, including the European Space Agency (ESA), but also with small and innovative high-tech companies, together developing the space technology and applications of the future.</p>\n\n<p>Based at one of the world’s leading space campuses in Harwell, Oxfordshire, we are a young and ambitious team with the drive to define a greater future for this planet and the people living on it; therefore, when our minds come together to fulfil our mission to democratise the space we are happy to be part of something that is more than the best of each of ourselves.</p>\n\n<p>Description of the Position<br>\nYou will be joining Open Cosmos’ core team in Harwell-Oxford (UK) and will be in charge of designing, simulating, validating and testing electronic systems as part of the Open Cosmos’ electronics team. You will be involved in a fast design-test-iterate cycle that characterises Open Cosmos’ work.</p>\n\n<p>Tasks and responsibilities<br><br>\n● Design, simulation, verification and validation of PCB schematics and layout.<br>\n● Design power systems and high speed digital circuit design.<br>\n● Execute design validation and assist with design qualification.<br>\n● Documentation.<br>\n● Work independently and under pressure.<br>\n● Embrace challenge and work outside of the comfort zone<br>\n● Commit to fulfill customer requirements and expectations<br>\n● Take initiative and work in a self-driven manner.</p>\n\n<p>Skills, attitude and experience<br><br>\n● Experience on embedded software<br>\n● Over 5 years experience in high speed circuit design, validation and testing or equivalent experience<br>\n● Over 3 years experience in EMC analysis or equivalent experience<br>\n● Experience on high current circuit analysis, design, validating and testing<br>\n● Experience on designing multilayer PCBs<br>\n● Experience on designing, simulating, validating and testing analog circuits<br>\n● Attention to detail<br>\n● Lean/Bootstrap mentality<br>\n● Honesty, openness and self awareness<br>\n● Proactiveness<br>\n● Quick to learn and coach others</p>\n\n<p>Nice to have<br><br>\n● Experience with C, C++<br>\n● Experience with Verilog/VHDL<br>\n● Experience in RF<br>\n● Familiar with python and Linux shell scripting<br>\n● Familiar with Altium Designer<br>\n● Space electronics design experience<br>\n● Experience on embedded software using DSP<br>\n● Agile methods experience (Agile, Scrum, …)<br>\n● Knowledge of languages other than English</p>\n\n<p>You will enjoy<br>\n● Working with a team of people to build the future of a new space industry<br>\n● Working at one of the world’s leading space campuses<br>\n● 25 days holidays + 8 bank holidays<br>\n● Attractive Pension Scheme &amp; Immediate enrolment<br>\n● Healthy snacks and pick’n’mix sweets at the office<br>\n● Social clubs organised by the team – so far we’ve got Run Club, Paella Club, ice- skating Club and Thirsty Club – suggest something new?<br>\n● Remote working as per company policy<br>\n● Working from home as per company policy<br>\n● Annual Salary Review</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "Harwell Oxford"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Embedded Systems",
+        "PCB Design",
+        "Embedded Software",
+        "Power Electronics",
+        "Electronics Engineering",
+        "Test Automation",
+        "Digital Signal Processing",
+        "Electronics",
+        "Altium Designer"
+      ],
+      "payment": {
+        "salary": "£20k – £40k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/eugene-mcintyre",
+        "name": "Eugene McIntyre",
+        "avatar": "https://photos.angel.co/users/9729384-medium_jpg?1564050839"
+      },
+      "refs": {
+        "angelListId": "213144",
+        "angelListUrl": "https://angel.co/company/open_cosmos/jobs/213144-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Embedded software engineer",
+      "description": "Open Cosmos is revolutionising the way space technology is used and is at the forefront of the emerging new space industry. Our mission is to make space accessible to anyone, to help solve the world's biggest challenges. We do this by providing simple and affordable space missions, using nanosatellite technology, providing end to end space missions for customers around the world (private and institutional). We work with some of the biggest names in the industry, including the European Space Agency (ESA), but also with small and innovative high-tech companies, together with developing the space technology and applications of the future.\n\nBased at one of the world’s leading space campuses in Harwell, Oxfordshire, we are a young and ambitious team with the drive to define a greater future for this planet and the people living on it; therefore, when our minds come together to fulfill our mission to democratise the space we are happy to be part of something that is more than the best of each of ourselves. \n--------------\n\nThe successful candidate will be joining Open Cosmos’ satellite development team in Harwell-Oxford (UK) and will be responsible to lead and manage the implementation of embedded software in microprocessors that form key elements of our spacecraft avionics. The candidate is expected to be involved in the whole cycle of a mission from concept, to tests, V&V, to orbital operations support and telemetry analysis.\n\nShe/he will be involved in a fast design-test-iterate cycle that characterises Open Cosmos’ work.\n\n*** Tasks and responsibilities \n- Design and implement software of embedded devices and systems for space and non-space systems\n- Support electronics design validation and qualification.\n- Collaborate with different technical teams to deliver a consistent technical solution at spacecraft system level\n- Have input into requirements and verification plans.\n- Embrace challenge and work outside of the comfort zone.\n- Commit to fulfill customer requirements and expectations.\n\n\n*** Skills and competences\n- Experience in Embedded C or C++\n- Experience with microcontrollers and peripheral components\n- Proven experience in embedded systems design with preemptive, multitasking real-time operating systems\n- Familiar with electronics\n- Familiar with scripting languages\n- Quick to learn\n- Attention to detail\n- Honesty, open and self aware\n\n\n*** Nice-to-haves \n- Experience in DSP algorithm modelling and development in Matlab/Simulink/Python\n- Experience with major FPGA families (Xilinx, Altera, Microsemi)\n- Familiar with design, verification and validation of PCB schematics and layout\n- Familiar Power systems, high speed digital circuit design and simulation\n- Experience with ARM processors and Flash FPGAs\n- Experience in RF\n- Knowledge of and experience with Vivado/Libero IDE software\n- Familiar with Altium Designer\n- Familiarity with Java /C#\n- Knowledge of CCSDS Command and Telemetry Data Processing",
+      "descriptionHtml": "<p>Open Cosmos is revolutionising the way space technology is used and is at the forefront of the emerging new space industry. Our mission is to make space accessible to anyone, to help solve the world&#39;s biggest challenges. We do this by providing simple and affordable space missions, using nanosatellite technology, providing end to end space missions for customers around the world (private and institutional). We work with some of the biggest names in the industry, including the European Space Agency (ESA), but also with small and innovative high-tech companies, together with developing the space technology and applications of the future.</p>\n<h3>Based at one of the world’s leading space campuses in Harwell, Oxfordshire, we are a young and ambitious team with the drive to define a greater future for this planet and the people living on it; therefore, when our minds come together to fulfill our mission to democratise the space we are happy to be part of something that is more than the best of each of ourselves. </h3>\n<p>The successful candidate will be joining Open Cosmos’ satellite development team in Harwell-Oxford (UK) and will be responsible to lead and manage the implementation of embedded software in microprocessors that form key elements of our spacecraft avionics. The candidate is expected to be involved in the whole cycle of a mission from concept, to tests, V&amp;V, to orbital operations support and telemetry analysis.</p>\n\n<p>She/he will be involved in a fast design-test-iterate cycle that characterises Open Cosmos’ work.</p>\n\n<p>*** Tasks and responsibilities </p>\n\n<ul>\n<li>Design and implement software of embedded devices and systems for space and non-space systems</li>\n<li>Support electronics design validation and qualification.</li>\n<li>Collaborate with different technical teams to deliver a consistent technical solution at spacecraft system level</li>\n<li>Have input into requirements and verification plans.</li>\n<li>Embrace challenge and work outside of the comfort zone.</li>\n<li>Commit to fulfill customer requirements and expectations.</li>\n</ul>\n\n<p>*** Skills and competences</p>\n\n<ul>\n<li>Experience in Embedded C or C++</li>\n<li>Experience with microcontrollers and peripheral components</li>\n<li>Proven experience in embedded systems design with preemptive, multitasking real-time operating systems</li>\n<li>Familiar with electronics</li>\n<li>Familiar with scripting languages</li>\n<li>Quick to learn</li>\n<li>Attention to detail</li>\n<li>Honesty, open and self aware</li>\n</ul>\n\n<p>*** Nice-to-haves </p>\n\n<ul>\n<li>Experience in DSP algorithm modelling and development in Matlab/Simulink/Python</li>\n<li>Experience with major FPGA families (Xilinx, Altera, Microsemi)</li>\n<li>Familiar with design, verification and validation of PCB schematics and layout</li>\n<li>Familiar Power systems, high speed digital circuit design and simulation</li>\n<li>Experience with ARM processors and Flash FPGAs</li>\n<li>Experience in RF</li>\n<li>Knowledge of and experience with Vivado/Libero IDE software</li>\n<li>Familiar with Altium Designer</li>\n<li>Familiarity with Java /C#</li>\n<li>Knowledge of CCSDS Command and Telemetry Data Processing</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Harwell Oxford"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "C++",
+        "C",
+        "Linux",
+        "Bash",
+        "FPGA",
+        "Embedded Linux",
+        "Test Automation",
+        "RTOS",
+        "ARM"
+      ],
+      "payment": {
+        "salary": "£25k – £50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/eugene-mcintyre",
+        "name": "Eugene McIntyre",
+        "avatar": "https://photos.angel.co/users/9729384-medium_jpg?1564050839"
+      },
+      "refs": {
+        "angelListId": "213403",
+        "angelListUrl": "https://angel.co/company/open_cosmos/jobs/213403-"
+      }
+    },
+    {
+      "role": "Other Engineering",
+      "title": "FPGA / DSP Engineer",
+      "description": "Open Cosmos is revolutionising the way space technology is used and is at the forefront of the emerging new space industry. Our mission is to make space accessible to anyone, to help solve the world's biggest challenges. We do this by providing simple and affordable space missions, using nanosatellite technology, providing end to end space missions for customers around the world (private and institutional). We work with some of the biggest names in the industry, including the European Space Agency (ESA), but also with small and innovative high-tech companies, together with developing the space technology and applications of the future.\n\nBased at one of the world’s leading space campuses in Harwell, Oxfordshire, we are a young and ambitious team with the drive to define a greater future for this planet and the people living on it; therefore, when our minds come together to fulfill our mission to democratise the space we are happy to be part of something that is more than the best of each of ourselves. \n-----\n\nThe successful candidate will be joining Open Cosmos’ satellite development team in Harwell-Oxford (UK) and will be responsible to lead and manage the implementation of firmware in FPGA targets that form key elements of our spacecraft avionics. The candidate is expected to be involved in the whole cycle of a mission from concept, to tests, V&V, to orbital operations support and telemetry analysis.\n\nThe following job opportunity is available:\n\n-----\n*** Tasks and responsibilities\n\n- Implement digital signal processing algorithms for satellite subsystems.\n- Utilize Python and/or MATLAB and/or R for algorithm prototyping and optimization for efficient hardware implementation.\n- Conduct trade-off studies for performance power, complexity and reliability of DSP algorithms deployed on FPGA Fabric.\n- Support HDL-level design and verification.\n- Design and implement software of embedded devices and systems.\n- Assist electronics design validation and qualification.\n- Collaborate with different technical teams to deliver a consistent technical solution.\n- Have input into requirements and verification plans.\n- Embrace challenge and work outside of the comfort zone.\n- Commit to fulfill customer requirements and expectations.\n\n-----\n*** Skills, attitude, competencies and experience\n\n- Experience with major FPGA families (Xilinx, Altera, Microsemi)\n- Experience with General Purpose DSP families (Analog Devices, TI)\n- Experience in DSP Software and FPGA Firmware design\n- Experience in DSP algorithm modelling and development in Matlab/Simulink/Python\n- Experience in Digital high-speed Hardware design\n- Knowledge of Software Defined Radio principles\n- Familiar with Linux, python and scripting\n- Quick to learn\n- Attention to detail\n- Honesty, open and self aware\n\n-----\n*** Nice to have\n\n- Knowledge of CCSDS Command and Telemetry Data Processing\n- Design, verification and validation of PCB schematics and layout\n- Experience in Embedded C or C++\n- Power systems, high speed digital circuit design and simulation\n- Experience with ARM processors and Flash FPGAs\n- Experience in RF\n- Knowledge of statistical data analysis\n- Knowledge of and experience with Vivado/Libero IDE software\n- Familiar with Altium Designer\n- Familiarity with Java /C#",
+      "descriptionHtml": "<p>Open Cosmos is revolutionising the way space technology is used and is at the forefront of the emerging new space industry. Our mission is to make space accessible to anyone, to help solve the world&#39;s biggest challenges. We do this by providing simple and affordable space missions, using nanosatellite technology, providing end to end space missions for customers around the world (private and institutional). We work with some of the biggest names in the industry, including the European Space Agency (ESA), but also with small and innovative high-tech companies, together with developing the space technology and applications of the future.</p>\n<h3>Based at one of the world’s leading space campuses in Harwell, Oxfordshire, we are a young and ambitious team with the drive to define a greater future for this planet and the people living on it; therefore, when our minds come together to fulfill our mission to democratise the space we are happy to be part of something that is more than the best of each of ourselves. </h3>\n<p>The successful candidate will be joining Open Cosmos’ satellite development team in Harwell-Oxford (UK) and will be responsible to lead and manage the implementation of firmware in FPGA targets that form key elements of our spacecraft avionics. The candidate is expected to be involved in the whole cycle of a mission from concept, to tests, V&amp;V, to orbital operations support and telemetry analysis.</p>\n\n<p>The following job opportunity is available:</p>\n\n<hr>\n\n<p>*** Tasks and responsibilities</p>\n\n<ul>\n<li>Implement digital signal processing algorithms for satellite subsystems.</li>\n<li>Utilize Python and/or MATLAB and/or R for algorithm prototyping and optimization for efficient hardware implementation.</li>\n<li>Conduct trade-off studies for performance power, complexity and reliability of DSP algorithms deployed on FPGA Fabric.</li>\n<li>Support HDL-level design and verification.</li>\n<li>Design and implement software of embedded devices and systems.</li>\n<li>Assist electronics design validation and qualification.</li>\n<li>Collaborate with different technical teams to deliver a consistent technical solution.</li>\n<li>Have input into requirements and verification plans.</li>\n<li>Embrace challenge and work outside of the comfort zone.</li>\n<li>Commit to fulfill customer requirements and expectations.</li>\n</ul>\n\n<hr>\n\n<p>*** Skills, attitude, competencies and experience</p>\n\n<ul>\n<li>Experience with major FPGA families (Xilinx, Altera, Microsemi)</li>\n<li>Experience with General Purpose DSP families (Analog Devices, TI)</li>\n<li>Experience in DSP Software and FPGA Firmware design</li>\n<li>Experience in DSP algorithm modelling and development in Matlab/Simulink/Python</li>\n<li>Experience in Digital high-speed Hardware design</li>\n<li>Knowledge of Software Defined Radio principles</li>\n<li>Familiar with Linux, python and scripting</li>\n<li>Quick to learn</li>\n<li>Attention to detail</li>\n<li>Honesty, open and self aware</li>\n</ul>\n\n<hr>\n\n<p>*** Nice to have</p>\n\n<ul>\n<li>Knowledge of CCSDS Command and Telemetry Data Processing</li>\n<li>Design, verification and validation of PCB schematics and layout</li>\n<li>Experience in Embedded C or C++</li>\n<li>Power systems, high speed digital circuit design and simulation</li>\n<li>Experience with ARM processors and Flash FPGAs</li>\n<li>Experience in RF</li>\n<li>Knowledge of statistical data analysis</li>\n<li>Knowledge of and experience with Vivado/Libero IDE software</li>\n<li>Familiar with Altium Designer</li>\n<li>Familiarity with Java /C#</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Harwell Oxford"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Telecommunications",
+        "Signal Processing",
+        "FPGA",
+        "VHDL",
+        "Digital Signal Processing",
+        "Satellite Communication",
+        "Xilinx",
+        "Software Defined Radio (SDR)",
+        "VHDL / Verilog",
+        "RF"
+      ],
+      "payment": {
+        "salary": "£30k – £55k"
+      },
+      "recruiter": {
+        "title": "VP Programmes",
+        "role": "Employee",
+        "url": "https://angel.co/u/aleixmegias",
+        "name": "Aleix Megías Homar",
+        "avatar": "https://photos.angel.co/users/2018010-medium_jpg?1526927639"
+      },
+      "refs": {
+        "angelListId": "394321",
+        "angelListUrl": "https://angel.co/company/open_cosmos/jobs/394321-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Front-end developer for modular, data-driven web application",
+      "description": "Open Cosmos is seeking a front-end developer to take over the development of our main web-app which is currently used for design & simulation of satellite missions, and which eventually will be used for satellite operations.\n\nOur frontends use:\n - Angular, ngrx\n - SemanticUI / Bootstrap\n\nWith tooling:\n - npm\n - TypeScript\n - Webpack\n\nWe have an active and collaborative social environment within the company.\n\nYou will have the opportunity to learn about all aspects of space engineering while working on our projects alongside space engineers and highly experienced satellite operators who has previously operated several $billion of space assets.\n\nReciprocally, you will be able to help them to gain a better understanding user-interface design.",
+      "descriptionHtml": "<p>Open Cosmos is seeking a front-end developer to take over the development of our main web-app which is currently used for design &amp; simulation of satellite missions, and which eventually will be used for satellite operations.</p>\n\n<p>Our frontends use:</p>\n\n<ul>\n<li>Angular, ngrx</li>\n<li>SemanticUI / Bootstrap</li>\n</ul>\n\n<p>With tooling:</p>\n\n<ul>\n<li>npm</li>\n<li>TypeScript</li>\n<li>Webpack</li>\n</ul>\n\n<p>We have an active and collaborative social environment within the company.</p>\n\n<p>You will have the opportunity to learn about all aspects of space engineering while working on our projects alongside space engineers and highly experienced satellite operators who has previously operated several $billion of space assets.</p>\n\n<p>Reciprocally, you will be able to help them to gain a better understanding user-interface design.</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "Harwell"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Linux",
+        "AngularJS",
+        "TypeScript",
+        "Angular"
+      ],
+      "payment": {
+        "salary": "£25k – £40k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/jane-shorey",
+        "name": "Jane Shorey",
+        "avatar": "https://photos.angel.co/users/9328552-medium_jpg?1557217410"
+      },
+      "refs": {
+        "angelListId": "346763",
+        "angelListUrl": "https://angel.co/company/open_cosmos/jobs/346763-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Java software engineers for mission-critical systems",
+      "description": "Open Cosmos is revolutionising the way space technology is used and is at the forefront of the emerging new space industry. Our mission is to make space accessible to anyone, to help solve the world's biggest challenges. We do this by providing simple and affordable space missions, using nanosatellite technology, providing end to end space missions for customers around the world (private and institutional). We work with some of the biggest names in the industry, including the European Space Agency (ESA), but also with small and innovative high-tech companies, together with developing the space technology and applications of the future.\n\nBased at one of the world’s leading space campuses in Harwell, Oxfordshire, we are a young and ambitious team with the drive to define a greater future for this planet and the people living on it; therefore, when our minds come together to fulfill our mission to democratise the space we are happy to be part of something that is more than the best of each of ourselves. \n---------\n\nOpen Cosmos is seeking talented and enthusiastic Java developers with interest in space, to build a collection of services which will be responsible for the control and mission operations of several fleets/constellations of satellites.\n\n\nAdditionally we also require more Java developers familiar with either PostgreSQL or physics, to accelerate the development of our mission simulation / payload testing / payload development products.\n\n\nWe have an active and collaborative social environment within the company.\n\nYou will have the opportunity to learn about all aspects of space engineering while working on our projects alongside space engineers and a highly experienced satellite operator who has previously operated several $billion of space assets.\n\nReciprocally, you will be able to help them to gain a better understanding of SOLID design principles and software design patterns.",
+      "descriptionHtml": "<p>Open Cosmos is revolutionising the way space technology is used and is at the forefront of the emerging new space industry. Our mission is to make space accessible to anyone, to help solve the world&#39;s biggest challenges. We do this by providing simple and affordable space missions, using nanosatellite technology, providing end to end space missions for customers around the world (private and institutional). We work with some of the biggest names in the industry, including the European Space Agency (ESA), but also with small and innovative high-tech companies, together with developing the space technology and applications of the future.</p>\n<h3>Based at one of the world’s leading space campuses in Harwell, Oxfordshire, we are a young and ambitious team with the drive to define a greater future for this planet and the people living on it; therefore, when our minds come together to fulfill our mission to democratise the space we are happy to be part of something that is more than the best of each of ourselves. </h3>\n<p>Open Cosmos is seeking talented and enthusiastic Java developers with interest in space, to build a collection of services which will be responsible for the control and mission operations of several fleets/constellations of satellites.</p>\n\n<p>Additionally we also require more Java developers familiar with either PostgreSQL or physics, to accelerate the development of our mission simulation / payload testing / payload development products.</p>\n\n<p>We have an active and collaborative social environment within the company.</p>\n\n<p>You will have the opportunity to learn about all aspects of space engineering while working on our projects alongside space engineers and a highly experienced satellite operator who has previously operated several $billion of space assets.</p>\n\n<p>Reciprocally, you will be able to help them to gain a better understanding of SOLID design principles and software design patterns.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "Harwell Oxford"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "Git",
+        "PostgreSQL",
+        "Linux",
+        "Rabbitmq",
+        "Applied Physics",
+        "Gradle",
+        "Java J2EE",
+        "Space Technology",
+        "JUNIT",
+        "Kubernetes",
+        "Java Swing"
+      ],
+      "payment": {
+        "salary": "£32k – £50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/eugene-mcintyre",
+        "name": "Eugene McIntyre",
+        "avatar": "https://photos.angel.co/users/9729384-medium_jpg?1564050839"
+      },
+      "refs": {
+        "angelListId": "344957",
+        "angelListUrl": "https://angel.co/company/open_cosmos/jobs/344957-"
+      }
+    },
+    {
+      "role": "Other Engineering",
+      "title": "Mechanical Design and Analysis Engineer",
+      "description": "Who we are\n\nOpen Cosmos is revolutionising the way space technology is used and is at the forefront of the emerging new space industry. Our mission is to make space accessible to anyone, to help solve the world's biggest challenges. We do this by providing simple and affordable space missions, using nanosatellite technology, providing end to end space missions for customers around the world (private and institutional). We work with some of the biggest names in the industry, including the European Space Agency (ESA), but also with small and innovative high-tech companies, together developing the space technology and applications of the future.\n\nBased at one of the world’s leading space campuses in Harwell, Oxfordshire, we are a young and ambitious team with the drive to define a greater future for this planet and the people living on it; therefore, when our minds come together to fulfil our mission to democratise the space we are happy to be part of something that is more than the best of each of ourselves.\n\nDescription of the Position\n\nYou will be joining Open Cosmos’ core team in Harwell-Oxford (UK) and will be responsible to deliver mechanical designs and perform structural analysis and tests to fulfill the company needs.\n\nTasks and responsibilities  \n- Lead the mechanical design of flight and support hardware.\n- Lead structural analysis of flight and engineering hardware.\n- Lead structural tests of flight and engineering hardware.\n- Dealing with manufacturing supply chain.\n- Definition and input to quality and operational excellence processes.\n- Definition and involvement into assembly, integration and test activities.\n- Mentorship/training/recruitment and motivation of colleagues.\n- Support sales, customer support or any other business areas that require technical support as needed.\n- Input to technical roadmap.\n- Assisting company-wide projects and activities as part of the Open Cosmos team.\n\nSkills, attitude and experience  \nProven industrial experience in product engineering. To have developed several products, seen full cycle including functional and environmental testing involvement\n\n- >=3 years experience in mechanical design, from concept to drawing for manufacture, knowledge in GD&T using ISO 1101, 2692 & 5458 or ASME Y14.5\n- >=3 years experience in system level structural analysis using Patran/Nastran, Ansys or similar\n- Experience in assembly, integration and test of high reliability systems (aerospace, automotive, nuclear…)\n- Extensive knowledge of manufacturing processes to aid design for manufacturing\n- Experience managing communication with suppliers\n- Attention to detail\n- Lean/Bootstrap mentality\n- Honesty, openness and self awareness\n- Proactiveness\n- Quick to learn and coach others\n\nNice to have  \n- Experience in the space sector\n- Space systems engineer experience\n- Supply chain network\n\nYou will enjoy\n-Working with a team of people to build the future of a new space industry\n- Working at one of the world’s leading space campuses\n- 25 days holidays + 8 bank holidays\n- Attractive Pension Scheme & Immediate enrolment\n- Healthy snacks and pick’n’mix sweets at the office\n- Social clubs organised by the team – so far we’ve got Run Club, Paella Club, ice-skating Club and Thirsty Club – suggest something new?\n- Remote working as per company policy\n- Working from home as per company policy\n- Annual Salary Review",
+      "descriptionHtml": "<p>Who we are</p>\n\n<p>Open Cosmos is revolutionising the way space technology is used and is at the forefront of the emerging new space industry. Our mission is to make space accessible to anyone, to help solve the world&#39;s biggest challenges. We do this by providing simple and affordable space missions, using nanosatellite technology, providing end to end space missions for customers around the world (private and institutional). We work with some of the biggest names in the industry, including the European Space Agency (ESA), but also with small and innovative high-tech companies, together developing the space technology and applications of the future.</p>\n\n<p>Based at one of the world’s leading space campuses in Harwell, Oxfordshire, we are a young and ambitious team with the drive to define a greater future for this planet and the people living on it; therefore, when our minds come together to fulfil our mission to democratise the space we are happy to be part of something that is more than the best of each of ourselves.</p>\n\n<p>Description of the Position</p>\n\n<p>You will be joining Open Cosmos’ core team in Harwell-Oxford (UK) and will be responsible to deliver mechanical designs and perform structural analysis and tests to fulfill the company needs.</p>\n\n<p>Tasks and responsibilities  </p>\n\n<ul>\n<li>Lead the mechanical design of flight and support hardware.</li>\n<li>Lead structural analysis of flight and engineering hardware.</li>\n<li>Lead structural tests of flight and engineering hardware.</li>\n<li>Dealing with manufacturing supply chain.</li>\n<li>Definition and input to quality and operational excellence processes.</li>\n<li>Definition and involvement into assembly, integration and test activities.</li>\n<li>Mentorship/training/recruitment and motivation of colleagues.</li>\n<li>Support sales, customer support or any other business areas that require technical support as needed.</li>\n<li>Input to technical roadmap.</li>\n<li>Assisting company-wide projects and activities as part of the Open Cosmos team.</li>\n</ul>\n\n<p>Skills, attitude and experience<br><br>\nProven industrial experience in product engineering. To have developed several products, seen full cycle including functional and environmental testing involvement</p>\n\n<ul>\n<li>&gt;=3 years experience in mechanical design, from concept to drawing for manufacture, knowledge in GD&amp;T using ISO 1101, 2692 &amp; 5458 or ASME Y14.5</li>\n<li>&gt;=3 years experience in system level structural analysis using Patran/Nastran, Ansys or similar</li>\n<li>Experience in assembly, integration and test of high reliability systems (aerospace, automotive, nuclear…)</li>\n<li>Extensive knowledge of manufacturing processes to aid design for manufacturing</li>\n<li>Experience managing communication with suppliers</li>\n<li>Attention to detail</li>\n<li>Lean/Bootstrap mentality</li>\n<li>Honesty, openness and self awareness</li>\n<li>Proactiveness</li>\n<li>Quick to learn and coach others</li>\n</ul>\n\n<p>Nice to have  </p>\n\n<ul>\n<li>Experience in the space sector</li>\n<li>Space systems engineer experience</li>\n<li>Supply chain network</li>\n</ul>\n\n<p>You will enjoy<br>\n-Working with a team of people to build the future of a new space industry</p>\n\n<ul>\n<li>Working at one of the world’s leading space campuses</li>\n<li>25 days holidays + 8 bank holidays</li>\n<li>Attractive Pension Scheme &amp; Immediate enrolment</li>\n<li>Healthy snacks and pick’n’mix sweets at the office</li>\n<li>Social clubs organised by the team – so far we’ve got Run Club, Paella Club, ice-skating Club and Thirsty Club – suggest something new?</li>\n<li>Remote working as per company policy</li>\n<li>Working from home as per company policy</li>\n<li>Annual Salary Review</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "Harwell Oxford"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Mechanical Engineering",
+        "Mechanical Design",
+        "Structural Analysis",
+        "Space Systems"
+      ],
+      "payment": {
+        "salary": "£30k – £50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/eugene-mcintyre",
+        "name": "Eugene McIntyre",
+        "avatar": "https://photos.angel.co/users/9729384-medium_jpg?1564050839"
+      },
+      "refs": {
+        "angelListId": "596058",
+        "angelListUrl": "https://angel.co/company/open_cosmos/jobs/596058-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Multi-disciplinary software engineer",
+      "description": "If you have a preferred programming language + framework and are unwilling to use much else, skip this job posting.\n\nIf you have built things as university projects, and/or as part of previous jobs, but have never completed any hobby / hack projects, check our other postings and remember to submit a portfolio if possible.\n\nIf you enjoy learning new things, regularly moving into new areas, and pushing yourself in areas that you are familiar with, this is more for you.  If you have built various interesting things in your spare time perhaps just out of curiosity or to challenge yourself, then this is for you.\n\n\nWe have a variety of projects requiring:\n\n - system programming (C, C++, possibly Rust / ADA in future)\n\n - web front-end programming (primarily Angular 5 + Typescript + Webpack, possibly Elm + Bootstrap for other projects)\n\n - web back-end programming (Java, C++, C#, Node.js)\n\n - databases (PostgreSQL, PostgreSQL, PostgreSQL, PL/pgSQL)\n\n - Data management (Hadoop, Spark, Kafka, etc)\n\n - electronics (Kicad / Altium)\n\n - embedded programming (FreeRTOS, ARM, STM32cubeMX, real-time considerations)\n\n - familiarity with typical software engineering tools/environments (Git, Linux, Bash, Make, valgrind, callgrind, gdb, etc)\n\n - UI and graphics\n\n - UX\n\n\nNaturally, we don't expect any one person to have *all* of these skills, or even half of them!\n\n\nAs the projects currently outnumber the people, we need people who can quickly familiarise themselves with new programming languages / libraries and can move between projects, rather than being \"assigned\" to one specific project.  Initially, we are building a \"special forces\" team to handle any and all projects, before eventually growing separate specific teams per project.\n\n\nIf you like being challenged, enjoy learning new things, and are the kind of person who did more \"practical\" work as hobby projects during university than done in the \"lab\" sessions, we would be interested to hear from you.\n\nTo give an example: I was initially hired as a front-end developer and have since built the flight software for a satellite (using C), the ground-station radio codecs (C++ & SDRs) for communicating with it, web infrastructure for managing satellite development kits (JS & SQL & C++ & C#), a multitude of internal tools, and some electronics.  I'm just one of ~20 people in the company, many of the others have had a similar experience involving interesting technologies, rapid and diverse learning, and deep technical challenges.\n\n\nSome familiarity with either C or C++ and with either Java or C# would be preferable.\n\nI don't care if you got the highest mark in your degree course for a difficult programming module, but I am very interested to see things that you've built outside of courses, whether as hobby projects, hackathon projects, or in previous employment.\n\n\nIf you're curious about networking / data handling / POSIX APIs then you might be interested in this challenge: https://github.com/battlesnake/snake-challenge\nNote: You are not required to do that challenge before applying or during the application process, it is provided for \"fun\".\n\nIf you enjoy learning and being challenged, please apply!\n\n\n\"A truly full-stack developer knows how to use an oscilloscope and a soldering iron\"",
+      "descriptionHtml": "<p>If you have a preferred programming language + framework and are unwilling to use much else, skip this job posting.</p>\n\n<p>If you have built things as university projects, and/or as part of previous jobs, but have never completed any hobby / hack projects, check our other postings and remember to submit a portfolio if possible.</p>\n\n<p>If you enjoy learning new things, regularly moving into new areas, and pushing yourself in areas that you are familiar with, this is more for you.  If you have built various interesting things in your spare time perhaps just out of curiosity or to challenge yourself, then this is for you.</p>\n\n<p>We have a variety of projects requiring:</p>\n\n<ul>\n<li><p>system programming (C, C++, possibly Rust / ADA in future)</p></li>\n<li><p>web front-end programming (primarily Angular 5 + Typescript + Webpack, possibly Elm + Bootstrap for other projects)</p></li>\n<li><p>web back-end programming (Java, C++, C#, Node.js)</p></li>\n<li><p>databases (PostgreSQL, PostgreSQL, PostgreSQL, PL/pgSQL)</p></li>\n<li><p>Data management (Hadoop, Spark, Kafka, etc)</p></li>\n<li><p>electronics (Kicad / Altium)</p></li>\n<li><p>embedded programming (FreeRTOS, ARM, STM32cubeMX, real-time considerations)</p></li>\n<li><p>familiarity with typical software engineering tools/environments (Git, Linux, Bash, Make, valgrind, callgrind, gdb, etc)</p></li>\n<li><p>UI and graphics</p></li>\n<li><p>UX</p></li>\n</ul>\n\n<p>Naturally, we don&#39;t expect any one person to have <em>all</em> of these skills, or even half of them!</p>\n\n<p>As the projects currently outnumber the people, we need people who can quickly familiarise themselves with new programming languages / libraries and can move between projects, rather than being &quot;assigned&quot; to one specific project.  Initially, we are building a &quot;special forces&quot; team to handle any and all projects, before eventually growing separate specific teams per project.</p>\n\n<p>If you like being challenged, enjoy learning new things, and are the kind of person who did more &quot;practical&quot; work as hobby projects during university than done in the &quot;lab&quot; sessions, we would be interested to hear from you.</p>\n\n<p>To give an example: I was initially hired as a front-end developer and have since built the flight software for a satellite (using C), the ground-station radio codecs (C++ &amp; SDRs) for communicating with it, web infrastructure for managing satellite development kits (JS &amp; SQL &amp; C++ &amp; C#), a multitude of internal tools, and some electronics.  I&#39;m just one of ~20 people in the company, many of the others have had a similar experience involving interesting technologies, rapid and diverse learning, and deep technical challenges.</p>\n\n<p>Some familiarity with either C or C++ and with either Java or C# would be preferable.</p>\n\n<p>I don&#39;t care if you got the highest mark in your degree course for a difficult programming module, but I am very interested to see things that you&#39;ve built outside of courses, whether as hobby projects, hackathon projects, or in previous employment.</p>\n\n<p>If you&#39;re curious about networking / data handling / POSIX APIs then you might be interested in this challenge: <a href=\"https://github.com/battlesnake/snake-challenge\" target=\"_blank\" rel=\"nofollow\">https://github.com/battlesnake/snake-challenge</a><br>\nNote: You are not required to do that challenge before applying or during the application process, it is provided for &quot;fun&quot;.</p>\n\n<p>If you enjoy learning and being challenged, please apply!</p>\n\n<p>&quot;A truly full-stack developer knows how to use an oscilloscope and a soldering iron&quot;</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "Harwell Oxford"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "C++",
+        "Java",
+        "Javascript",
+        "Graphic Design",
+        "User Experience Design",
+        "C#",
+        "MySQL",
+        "Statistics",
+        "Node.js",
+        "User Interface Design",
+        "Git",
+        "PostgreSQL",
+        "C",
+        "Perl",
+        "Physics",
+        "Linux",
+        "Sense of Humour",
+        "Curiosity",
+        "AngularJS",
+        "ARM",
+        "Altium Designer",
+        "Docker",
+        "KiCAD",
+        "Free Rtos",
+        "RF",
+        "Kubernetes"
+      ],
+      "payment": {
+        "salary": "£30k – £50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/jane-shorey",
+        "name": "Jane Shorey",
+        "avatar": "https://photos.angel.co/users/9328552-medium_jpg?1557217410"
+      },
+      "refs": {
+        "angelListId": "319156",
+        "angelListUrl": "https://angel.co/company/open_cosmos/jobs/319156-"
+      }
+    },
+    {
+      "role": "Other Engineering",
+      "title": "RF Engineer",
+      "description": "Open Cosmos is revolutionising the way space technology is used and is at the forefront of the emerging new space industry. Our mission is to make space accessible to anyone, to help solve the world's biggest challenges. We do this by providing simple and affordable space missions, using nanosatellite technology, providing end to end space missions for customers around the world (private and institutional). We work with some of the biggest names in the industry, including the European Space Agency (ESA), but also with small and innovative high-tech companies, together with developing the space technology and applications of the future.\n\nBased at one of the world’s leading space campuses in Harwell, Oxfordshire, we are a young and ambitious team with the drive to define a greater future for this planet and the people living on it; therefore, when our minds come together to fulfill our mission to democratise the space we are happy to be part of something that is more than the best of each of ourselves. \n--------------\n\nThe successful candidate will be joining Open Cosmos’ core team in Oxford (UK) and will be in charge of the satellite telecommunications subsystem and antennae design, test and validation.\n\nYou will be responsible to deliver telecommunications systems and RF-related designs to be embarked into our satellites.\nYou will be involved in the design, simulation, manufacturing and testing of telecommunications systems and dedicated ground and flight software, as well as in charge of the testing equipment and facilities.\n\n*** Tasks and responsibilities \n- Design communication RF systems and high speed digital circuit design, both at system level and at detail design\n- Understand mission requirements and derive subsystem requirements related to telecommunication module\n- Design, simulation, verification and validation of RF-PCB schematics and layout\n- Execute design validation and assist with design qualification\n- Support systems and mission analysis engineers by performing system level tasks related to link budgets, data budgets, networking\n- Develop embedded software required for the communications module\n- Plan and execute testing of RF systems and satellites\n- Be able to generate concise documentation\n- Work independently and under pressure\n- Take initiative and work in a self-driven manner\n- Embrace challenge and work outside of the comfort zone\n- Commit to fulfil customer requirements and expectations\n\n*** Skills and competences\n- Proven industrial experience in product engineering. To have developed several products, seen full cycle including functional and environmental testing involvement\n- >=3 years experience in RF design, SDR\n- Experience in assembly, integration and test of high reliability systems (aerospace, automotive…)\n- Experience in EMC testing\n- Extensive knowledge of manufacturing processes to aid design for manufacturing\n- Experience managing communication with suppliers\n- Quick to learn and teach\n- Attention to detail\n- Honesty, openness and self awareness\n- Pro-active\n\n*** Nice-to-haves \n- Verilog or VHDL\n- Knowledge of ECSS and CCSDS standards and recommendations\n- Amateur radio\n- Experience in the space sector\n- Space systems engineer experience\n- Supply chain network",
+      "descriptionHtml": "<p>Open Cosmos is revolutionising the way space technology is used and is at the forefront of the emerging new space industry. Our mission is to make space accessible to anyone, to help solve the world&#39;s biggest challenges. We do this by providing simple and affordable space missions, using nanosatellite technology, providing end to end space missions for customers around the world (private and institutional). We work with some of the biggest names in the industry, including the European Space Agency (ESA), but also with small and innovative high-tech companies, together with developing the space technology and applications of the future.</p>\n<h3>Based at one of the world’s leading space campuses in Harwell, Oxfordshire, we are a young and ambitious team with the drive to define a greater future for this planet and the people living on it; therefore, when our minds come together to fulfill our mission to democratise the space we are happy to be part of something that is more than the best of each of ourselves. </h3>\n<p>The successful candidate will be joining Open Cosmos’ core team in Oxford (UK) and will be in charge of the satellite telecommunications subsystem and antennae design, test and validation.</p>\n\n<p>You will be responsible to deliver telecommunications systems and RF-related designs to be embarked into our satellites.<br>\nYou will be involved in the design, simulation, manufacturing and testing of telecommunications systems and dedicated ground and flight software, as well as in charge of the testing equipment and facilities.</p>\n\n<p>*** Tasks and responsibilities </p>\n\n<ul>\n<li>Design communication RF systems and high speed digital circuit design, both at system level and at detail design</li>\n<li>Understand mission requirements and derive subsystem requirements related to telecommunication module</li>\n<li>Design, simulation, verification and validation of RF-PCB schematics and layout</li>\n<li>Execute design validation and assist with design qualification</li>\n<li>Support systems and mission analysis engineers by performing system level tasks related to link budgets, data budgets, networking</li>\n<li>Develop embedded software required for the communications module</li>\n<li>Plan and execute testing of RF systems and satellites</li>\n<li>Be able to generate concise documentation</li>\n<li>Work independently and under pressure</li>\n<li>Take initiative and work in a self-driven manner</li>\n<li>Embrace challenge and work outside of the comfort zone</li>\n<li>Commit to fulfil customer requirements and expectations</li>\n</ul>\n\n<p>*** Skills and competences</p>\n\n<ul>\n<li>Proven industrial experience in product engineering. To have developed several products, seen full cycle including functional and environmental testing involvement</li>\n<li>&gt;=3 years experience in RF design, SDR</li>\n<li>Experience in assembly, integration and test of high reliability systems (aerospace, automotive…)</li>\n<li>Experience in EMC testing</li>\n<li>Extensive knowledge of manufacturing processes to aid design for manufacturing</li>\n<li>Experience managing communication with suppliers</li>\n<li>Quick to learn and teach</li>\n<li>Attention to detail</li>\n<li>Honesty, openness and self awareness</li>\n<li>Pro-active</li>\n</ul>\n\n<p>*** Nice-to-haves </p>\n\n<ul>\n<li>Verilog or VHDL</li>\n<li>Knowledge of ECSS and CCSDS standards and recommendations</li>\n<li>Amateur radio</li>\n<li>Experience in the space sector</li>\n<li>Space systems engineer experience</li>\n<li>Supply chain network</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Harwell Oxford"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Telecommunications",
+        "PCB Design",
+        "System Design",
+        "Wireless",
+        "Antenna Design",
+        "Amateur Radio",
+        "RF Engineering",
+        "Electronics",
+        "Software Defined Radio (SDR)"
+      ],
+      "payment": {
+        "salary": "£25k – £55k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/eugene-mcintyre",
+        "name": "Eugene McIntyre",
+        "avatar": "https://photos.angel.co/users/9729384-medium_jpg?1564050839"
+      },
+      "refs": {
+        "angelListId": "213156",
+        "angelListUrl": "https://angel.co/company/open_cosmos/jobs/213156-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Sales Engineer (internship) – Earth Observation & Remote Sensing",
+      "description": "At Open Cosmos, our mission is to enable affordable, fast and easy access to space by providing turnkey solutions to M2M / IoT, communications, tracking, surveillance, remote sensing, science, and Earth Observation companies.\n\nOur solution includes: \n– qbapp mission simulation platform, \n– qbee nanosatellite platform, \n– payload development \n– assembly, integration, and testing, \n– launch procurement, \n– frequency allocation, \n– insurance, \n– platform and payload operations.\n\nReporting to the Chief Commercial Officer, the Sales Engineer will identify, develop and manage new business opportunities beyond the normal activity conducted by the sales team.\n\n-- Your Job\n\nYou will become part of a team of satellite business development professionals and manage business development activities for 3 verticals:\n\n* Earth Observation / Remote Sensing\n* Science\n* Space Technology development.\n \nAs part of your daily job, you will identify potential leads and manage the full sales pipeline from qualification to deal closure.\n\nThis internship can lead to a full-time permanent position.\n\n-- Your Responsibilities:\n\n- Build market positions by locating, developing, defining, negotiating, and closing business deals.\n- Contribute to design, develop, own, manage and maintain the Earth -\n Observation / Remote Sensing, Science, and Space Technology development value propositions.\n- Execute pre-qualification due diligence of new sales opportunities.\n- Close new business integrating technical, legal, and operational requirements.\n- Interface with the engineering and product teams; work with both technical and business counterparts in the customer community.\n- Conduct presentations, set up client demonstrations and visit client sites.\n- While focusing on commercial sector opportunities, also leverage subsidy and/or public-private partnership programs.\n- Define business opportunities with each potential lead and evaluate the financial benefit to Open Cosmos.\n- Lead RFIs, RFPs, and RFQs efforts by writing business proposals.\n- Always be on the look to learn new things and share them with your team members.\n\n-- Required Skills and Experience:\n\n- Bachelor’s degree in engineering or business.\n- A first relevant sales experience in the Earth Observation / Remote Sensing, Science, or Space Technology development sectors.\n- Ability to communicate effectively with engineers, technicians, managers, and directors.\n- Ability to work under pressure and thrive in a fast-paced, rapidly changing work environment.\n- Can work effectively in structured or virtual teams.\n- Can work extended hours and weekends as needed.\n- Must be driven, highly motivated, and committed to results.\n- Fluent English, both spoken and written.\n- Equipped with a strategic outlook, tactical capability, and excellent negotiating & closing skills\n\n-- Preferred Skills and Experience:\n\n- Experience in the satellite industry.\n- Experience in selling Earth Observation / Remote Sensing, Science, and Technology development for multiple verticals like telecom, agricultural, industrial, energy, Oil & Gas.\n- Fluency in German, French and/or Spanish a plus",
+      "descriptionHtml": "<p>At Open Cosmos, our mission is to enable affordable, fast and easy access to space by providing turnkey solutions to M2M / IoT, communications, tracking, surveillance, remote sensing, science, and Earth Observation companies.</p>\n\n<p>Our solution includes: <br>\n– qbapp mission simulation platform, <br>\n– qbee nanosatellite platform, <br>\n– payload development <br>\n– assembly, integration, and testing, <br>\n– launch procurement, <br>\n– frequency allocation, <br>\n– insurance, <br>\n– platform and payload operations.</p>\n\n<p>Reporting to the Chief Commercial Officer, the Sales Engineer will identify, develop and manage new business opportunities beyond the normal activity conducted by the sales team.</p>\n\n<p>-- Your Job</p>\n\n<p>You will become part of a team of satellite business development professionals and manage business development activities for 3 verticals:</p>\n\n<ul>\n<li>Earth Observation / Remote Sensing</li>\n<li>Science</li>\n<li>Space Technology development.</li>\n</ul>\n\n<p>As part of your daily job, you will identify potential leads and manage the full sales pipeline from qualification to deal closure.</p>\n\n<p>This internship can lead to a full-time permanent position.</p>\n\n<p>-- Your Responsibilities:</p>\n\n<ul>\n<li>Build market positions by locating, developing, defining, negotiating, and closing business deals.</li>\n<li>Contribute to design, develop, own, manage and maintain the Earth -\nObservation / Remote Sensing, Science, and Space Technology development value propositions.</li>\n<li>Execute pre-qualification due diligence of new sales opportunities.</li>\n<li>Close new business integrating technical, legal, and operational requirements.</li>\n<li>Interface with the engineering and product teams; work with both technical and business counterparts in the customer community.</li>\n<li>Conduct presentations, set up client demonstrations and visit client sites.</li>\n<li>While focusing on commercial sector opportunities, also leverage subsidy and/or public-private partnership programs.</li>\n<li>Define business opportunities with each potential lead and evaluate the financial benefit to Open Cosmos.</li>\n<li>Lead RFIs, RFPs, and RFQs efforts by writing business proposals.</li>\n<li>Always be on the look to learn new things and share them with your team members.</li>\n</ul>\n\n<p>-- Required Skills and Experience:</p>\n\n<ul>\n<li>Bachelor’s degree in engineering or business.</li>\n<li>A first relevant sales experience in the Earth Observation / Remote Sensing, Science, or Space Technology development sectors.</li>\n<li>Ability to communicate effectively with engineers, technicians, managers, and directors.</li>\n<li>Ability to work under pressure and thrive in a fast-paced, rapidly changing work environment.</li>\n<li>Can work effectively in structured or virtual teams.</li>\n<li>Can work extended hours and weekends as needed.</li>\n<li>Must be driven, highly motivated, and committed to results.</li>\n<li>Fluent English, both spoken and written.</li>\n<li>Equipped with a strategic outlook, tactical capability, and excellent negotiating &amp; closing skills</li>\n</ul>\n\n<p>-- Preferred Skills and Experience:</p>\n\n<ul>\n<li>Experience in the satellite industry.</li>\n<li>Experience in selling Earth Observation / Remote Sensing, Science, and Technology development for multiple verticals like telecom, agricultural, industrial, energy, Oil &amp; Gas.</li>\n<li>Fluency in German, French and/or Spanish a plus</li>\n</ul>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": true,
+      "locations": [
+        "Toulouse",
+        "Harwell Oxford"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Business Development",
+        "Space Technology",
+        "Space Systems",
+        "Science",
+        "GIS and Remote Sensing",
+        "Earth Observation"
+      ],
+      "payment": {
+        "salary": "£10k – £15k"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "303013",
+        "angelListUrl": "https://angel.co/company/open_cosmos/jobs/303013-"
+      }
+    },
+    {
+      "role": "Other Engineering",
+      "title": "Satellite Test (AIT) Engineer",
+      "description": "Open Cosmos is revolutionising the way space technology is used and is at the forefront of the emerging new space industry. Our mission is to make space accessible to anyone, to help solve the world's biggest challenges. We do this by providing simple and affordable space missions, using nanosatellite technology, providing end to end space missions for customers around the world (private and institutional). We work with some of the biggest names in the industry, including the European Space Agency (ESA), but also with small and innovative high-tech companies, together with developing the space technology and applications of the future.\n\nBased at one of the world’s leading space campuses in Harwell, Oxfordshire, we are a young and ambitious team with the drive to define a greater future for this planet and the people living on it; therefore, when our minds come together to fulfill our mission to democratise the space we are happy to be part of something that is more than the best of each of ourselves. \n------------------------ \n\n*** Tasks and responsibilities \n- Responsible for planning and implementing agreed test strategies for satellites and electronic subsystems\n- Conception and definition of test procedures, test plans and test strategies in alignment with design, system engineering and project management\n- Creation and execution of tests on demand from analysis, requirements and existing procedures\n- Architect, design and implementation of hardware and software solutions for automated test, validation and qualification\n- Generation of testing documentation\n- Provide production support for test solution\n- Provide design feedback according to testing results\n- Commit to fulfil customer requirements and expectations\n\n*** Skills and competences \n- BSc or MSc in Engineering, Physics\n- 2+ years experience in electronics testing\n- Experience with test plans and procedures\n- Experience with analog circuits and practical knowledge in analogue and mixed signal measurement techniques\n- Strong hand-on skills\n- Hardware and software development\n- Scripting & test automation; Python or other test automation techniques & tools.\n- Quick learner\n- Work independently and under pressure\n- Take initiative and work in a self-driven manner\n- Embrace challenge and work outside of the comfort zone\n\n*** Nice-to-haves \n- Experience with satellite assembly, integration and testing or military-grade products is an asset.\n- Experience of design and implementation of automated test systems\n- Experience creating tests for a wide range of electronic and electromechanical devices\n- Experience in RF characterisation and measurement techniques\n- Knowledge of statistical data analysis\n- Linux shell scripting",
+      "descriptionHtml": "<p>Open Cosmos is revolutionising the way space technology is used and is at the forefront of the emerging new space industry. Our mission is to make space accessible to anyone, to help solve the world&#39;s biggest challenges. We do this by providing simple and affordable space missions, using nanosatellite technology, providing end to end space missions for customers around the world (private and institutional). We work with some of the biggest names in the industry, including the European Space Agency (ESA), but also with small and innovative high-tech companies, together with developing the space technology and applications of the future.</p>\n<h3>Based at one of the world’s leading space campuses in Harwell, Oxfordshire, we are a young and ambitious team with the drive to define a greater future for this planet and the people living on it; therefore, when our minds come together to fulfill our mission to democratise the space we are happy to be part of something that is more than the best of each of ourselves. </h3>\n<p>*** Tasks and responsibilities </p>\n\n<ul>\n<li>Responsible for planning and implementing agreed test strategies for satellites and electronic subsystems</li>\n<li>Conception and definition of test procedures, test plans and test strategies in alignment with design, system engineering and project management</li>\n<li>Creation and execution of tests on demand from analysis, requirements and existing procedures</li>\n<li>Architect, design and implementation of hardware and software solutions for automated test, validation and qualification</li>\n<li>Generation of testing documentation</li>\n<li>Provide production support for test solution</li>\n<li>Provide design feedback according to testing results</li>\n<li>Commit to fulfil customer requirements and expectations</li>\n</ul>\n\n<p>*** Skills and competences </p>\n\n<ul>\n<li>BSc or MSc in Engineering, Physics</li>\n<li>2+ years experience in electronics testing</li>\n<li>Experience with test plans and procedures</li>\n<li>Experience with analog circuits and practical knowledge in analogue and mixed signal measurement techniques</li>\n<li>Strong hand-on skills</li>\n<li>Hardware and software development</li>\n<li>Scripting &amp; test automation; Python or other test automation techniques &amp; tools.</li>\n<li>Quick learner</li>\n<li>Work independently and under pressure</li>\n<li>Take initiative and work in a self-driven manner</li>\n<li>Embrace challenge and work outside of the comfort zone</li>\n</ul>\n\n<p>*** Nice-to-haves </p>\n\n<ul>\n<li>Experience with satellite assembly, integration and testing or military-grade products is an asset.</li>\n<li>Experience of design and implementation of automated test systems</li>\n<li>Experience creating tests for a wide range of electronic and electromechanical devices</li>\n<li>Experience in RF characterisation and measurement techniques</li>\n<li>Knowledge of statistical data analysis</li>\n<li>Linux shell scripting</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "Harwell Oxford"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Automation",
+        "Test Automation",
+        "Electronics",
+        "Hardware Testing",
+        "Space Systems",
+        "Test",
+        "Testing Procedures and Reporting"
+      ],
+      "payment": {
+        "salary": "£25k – £50k"
+      },
+      "recruiter": {
+        "title": "VP Programmes",
+        "role": "Employee",
+        "url": "https://angel.co/u/aleixmegias",
+        "name": "Aleix Megías Homar",
+        "avatar": "https://photos.angel.co/users/2018010-medium_jpg?1526927639"
+      },
+      "refs": {
+        "angelListId": "313826",
+        "angelListUrl": "https://angel.co/company/open_cosmos/jobs/313826-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Spacecraft Software Engineer",
+      "description": "Who we are\nOpen Cosmos is revolutionising the way space technology is used and is at the forefront of the emerging new space industry. Our mission is to make space accessible to anyone, to help solve the world's biggest challenges. We do this by providing simple and affordable space missions, using nanosatellite technology, providing end to end space missions for customers around the world (private and institutional). We work with some of the biggest names in the industry, including the European Space Agency (ESA), but also with small and innovative high-tech companies, together developing the space technology and applications of the future.\n\nBased at one of the world’s leading space campuses in Harwell, Oxfordshire, we are a young and ambitious team with the drive to define a greater future for this planet and the people living on it; therefore, when our minds come together to fulfil our mission to democratise the space we are happy to be part of something that is more than the best of each of ourselves.\n\nDescription of the Position\n\nYou will be joining Open Cosmos’ core team in Harwell, Oxford (UK) and will be responsible to develop applications and services which will run on our satellites. The work involves tight interaction with the satellite development team, mission operations and production departments. The work can involve working on our kernel and drivers as well alongside the embedded software engineers.\n\nFamiliarity with unit testing and mocking is essential. Development work will require using Linux on a day-to-day basis. Experience working with kernels (e.g. Linux, FreeRTOS, etc), drivers, filesystems, and embedded platforms is a bonus.\n\nTasks and responsibilities  \n- Architect, design and implementation of high reliability and robust software solutions for our satellites and other Open Cosmos products.\n- Responsible for planning and implementing agreed test strategies during development.\n- Conception and definition of test procedures, test plans and test strategies in alignment with design.\n- Creation and execution of tests on demand from analysis, requirements.\n- Provide design feedback according to testing results.\n- Provide feedback and support to orbital operations team.\n\nSkills, attitude and experience  \n- Experience with modern C++ (11 or newer) and C\n- Understanding of basic C++ features/idioms including: RAII, STL, value categories, slicing, virtual inheritance, multiple inheritance, friends, smart pointers, templates, functors/lambdas, operator overloading, SFINAE, iterators, constexpr, static_assert, type_traits. \n- Competent with Git.\n- Understanding the means of and the value of extensive unit testing.\n\nNice to have  \n- Familiarity with Boost.\n- Familiarity with ZeroMQ.\n- Familiarity with CMake, GoogleTest.\n- Experience with FreeRTOS.\n- Familiarity with CSP (Cubesat Space Protocol).\n- Familiarity with CCSDS communications protocols/frames (CLTU, CADU, etc).\n- Familiarity with immutable data structures and design/selection of allocators.\n- Understanding of basic coding theory, e.g. hash functions, forward error correction, Shannon-Hartley theorem.\n- Familiarity with Bash, Java, Python, C#\n- Experience with embedded systems / microcontrollers.  Boards running Linux with 100MB+ of available RAM (e.g. Raspberry Pi, BeagleBone) don’t count!\n- Experience developing hard real-time systems.\n\nYou will enjoy\n- Working with a team of people to build the future of a new space industry\n- Working at one of the world’s leading space campuses\n- 25 days holidays + 8 bank holidays\n- Attractive Pension Scheme & Immediate enrolment\n- Healthy snacks and pick’n’mix sweets at the office\n- Social clubs organised by the team – so far we’ve got Run Club, Paella Club, ice-skating Club and Thirsty Club – suggest something new?\n- Remote working as per company policy\n- Working from home as per company policy\n- Annual Salary Review",
+      "descriptionHtml": "<p>Who we are<br>\nOpen Cosmos is revolutionising the way space technology is used and is at the forefront of the emerging new space industry. Our mission is to make space accessible to anyone, to help solve the world&#39;s biggest challenges. We do this by providing simple and affordable space missions, using nanosatellite technology, providing end to end space missions for customers around the world (private and institutional). We work with some of the biggest names in the industry, including the European Space Agency (ESA), but also with small and innovative high-tech companies, together developing the space technology and applications of the future.</p>\n\n<p>Based at one of the world’s leading space campuses in Harwell, Oxfordshire, we are a young and ambitious team with the drive to define a greater future for this planet and the people living on it; therefore, when our minds come together to fulfil our mission to democratise the space we are happy to be part of something that is more than the best of each of ourselves.</p>\n\n<p>Description of the Position</p>\n\n<p>You will be joining Open Cosmos’ core team in Harwell, Oxford (UK) and will be responsible to develop applications and services which will run on our satellites. The work involves tight interaction with the satellite development team, mission operations and production departments. The work can involve working on our kernel and drivers as well alongside the embedded software engineers.</p>\n\n<p>Familiarity with unit testing and mocking is essential. Development work will require using Linux on a day-to-day basis. Experience working with kernels (e.g. Linux, FreeRTOS, etc), drivers, filesystems, and embedded platforms is a bonus.</p>\n\n<p>Tasks and responsibilities  </p>\n\n<ul>\n<li>Architect, design and implementation of high reliability and robust software solutions for our satellites and other Open Cosmos products.</li>\n<li>Responsible for planning and implementing agreed test strategies during development.</li>\n<li>Conception and definition of test procedures, test plans and test strategies in alignment with design.</li>\n<li>Creation and execution of tests on demand from analysis, requirements.</li>\n<li>Provide design feedback according to testing results.</li>\n<li>Provide feedback and support to orbital operations team.</li>\n</ul>\n\n<p>Skills, attitude and experience  </p>\n\n<ul>\n<li>Experience with modern C++ (11 or newer) and C</li>\n<li>Understanding of basic C++ features/idioms including: RAII, STL, value categories, slicing, virtual inheritance, multiple inheritance, friends, smart pointers, templates, functors/lambdas, operator overloading, SFINAE, iterators, constexpr, static<u>assert, type</u>traits. </li>\n<li>Competent with Git.</li>\n<li>Understanding the means of and the value of extensive unit testing.</li>\n</ul>\n\n<p>Nice to have  </p>\n\n<ul>\n<li>Familiarity with Boost.</li>\n<li>Familiarity with ZeroMQ.</li>\n<li>Familiarity with CMake, GoogleTest.</li>\n<li>Experience with FreeRTOS.</li>\n<li>Familiarity with CSP (Cubesat Space Protocol).</li>\n<li>Familiarity with CCSDS communications protocols/frames (CLTU, CADU, etc).</li>\n<li>Familiarity with immutable data structures and design/selection of allocators.</li>\n<li>Understanding of basic coding theory, e.g. hash functions, forward error correction, Shannon-Hartley theorem.</li>\n<li>Familiarity with Bash, Java, Python, C#</li>\n<li>Experience with embedded systems / microcontrollers.  Boards running Linux with 100MB+ of available RAM (e.g. Raspberry Pi, BeagleBone) don’t count!</li>\n<li>Experience developing hard real-time systems.</li>\n</ul>\n\n<p>You will enjoy</p>\n\n<ul>\n<li>Working with a team of people to build the future of a new space industry</li>\n<li>Working at one of the world’s leading space campuses</li>\n<li>25 days holidays + 8 bank holidays</li>\n<li>Attractive Pension Scheme &amp; Immediate enrolment</li>\n<li>Healthy snacks and pick’n’mix sweets at the office</li>\n<li>Social clubs organised by the team – so far we’ve got Run Club, Paella Club, ice-skating Club and Thirsty Club – suggest something new?</li>\n<li>Remote working as per company policy</li>\n<li>Working from home as per company policy</li>\n<li>Annual Salary Review</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Harwell Oxford"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "C++",
+        "Software Development",
+        "Software Architecture",
+        "C",
+        "Software"
+      ],
+      "payment": {
+        "salary": "£30k – £40k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/eugene-mcintyre",
+        "name": "Eugene McIntyre",
+        "avatar": "https://photos.angel.co/users/9729384-medium_jpg?1564050839"
+      },
+      "refs": {
+        "angelListId": "596048",
+        "angelListUrl": "https://angel.co/company/open_cosmos/jobs/596048-"
+      }
+    },
+    {
+      "role": "Other Engineering",
+      "title": "Systems Engineer",
+      "description": "Who we are\nOpen Cosmos is revolutionising the way space technology is used and is at the forefront of the emerging new space industry. Our mission is to make space accessible to anyone, to help solve the world's biggest challenges. We do this by providing simple and affordable space missions, using nanosatellite technology, providing end to end space missions for customers around the world (private and institutional). We work with some of the biggest names in the industry, including the European Space Agency (ESA), but also with small and innovative high-tech companies, together developing the space technology and applications of the future.\n\nBased at one of the world’s leading space campuses in Harwell, Oxfordshire, we are a young and ambitious team with the drive to define a greater future for this planet and the people living on it; therefore, when our minds come together to fulfil our mission to democratise the space we are happy to be part of something that is more than the best of each of ourselves.\n\nDescription of the Position\n\nYou will be joining Open Cosmos’ systems team in Harwell-Oxford (UK) and will be responsible to lead and manage the analysis and engineering aspects of Open Cosmos space missions. The candidate is expected to be involved in the whole cycle of a mission from concept, to tests, V&V, to orbital operations support and telemetry analysis.\n\nTasks and responsibilities  \n- Coordinate different technical teams to deliver a consistent technical solution.\n- Have input into requirements and verification plans.\n- Perform analysis and required tests at system and subsystem level.\n- Propose improvements to increase the performance of Open Cosmos satellites.\n- Define key orbital operational parameters and analyse their data.\n- Support bid work, sales team, mission and operations teams, customer support or any other teams within the company with technical information and documentation related to engineering.\n- Maintain systems level documentation.\n- Work independently and under pressure.\n- Embrace challenge and work outside of the comfort zone\n- Commit to fulfill customer requirements and expectations\n- Take initiative and work in a self-driven manner.\n\nSkills, attitude and experience  \n- Proven experience in satellite engineering. To have seen full cycle of a space mission, from conception to end of life\n- Have seen full life cycle missions\n- Have experience with Maya, ESATAN or similar\n- Have experience in leading and executing balance tests\n- Have good knowledge of the subsystems involved in a satellite: power system, on board computer, AOCS, comms, propulsion, mechanical.\n- Have good knowledge of AIT processes\n- Attention to detail\n- Honesty, openness and self aware\n- Proactiveness\n- Quick to learn and coach others\n\nNice to have  \n- Experience in project management\n- Experience in systems engineering\n- Experience managing communication with suppliers\n- Technical experience in specific subsystem\n- Hands on experience on AIT\n- Experience in QA/PA\n- Systems experience in ESA missions\n\nYou will enjoy\n- Working with a team of people to build the future of a new space industry\n- Working at one of the world’s leading space campuses\n- 25 days holidays + 8 bank holidays\n- Attractive Pension Scheme & Immediate enrolment\n- Transport Allowance – extra pocket money to support our best talent working together\n- Healthy snacks and pick’n’mix sweets at the office\n- Social clubs organised by the team – so far we’ve got Run Club, Paella Club, ice-skating Club and Thirsty Club – suggest something new?\n- Remote working as per company policy\n- Working from home as per company policy\n- Annual Salary Review",
+      "descriptionHtml": "<p>Who we are<br>\nOpen Cosmos is revolutionising the way space technology is used and is at the forefront of the emerging new space industry. Our mission is to make space accessible to anyone, to help solve the world&#39;s biggest challenges. We do this by providing simple and affordable space missions, using nanosatellite technology, providing end to end space missions for customers around the world (private and institutional). We work with some of the biggest names in the industry, including the European Space Agency (ESA), but also with small and innovative high-tech companies, together developing the space technology and applications of the future.</p>\n\n<p>Based at one of the world’s leading space campuses in Harwell, Oxfordshire, we are a young and ambitious team with the drive to define a greater future for this planet and the people living on it; therefore, when our minds come together to fulfil our mission to democratise the space we are happy to be part of something that is more than the best of each of ourselves.</p>\n\n<p>Description of the Position</p>\n\n<p>You will be joining Open Cosmos’ systems team in Harwell-Oxford (UK) and will be responsible to lead and manage the analysis and engineering aspects of Open Cosmos space missions. The candidate is expected to be involved in the whole cycle of a mission from concept, to tests, V&amp;V, to orbital operations support and telemetry analysis.</p>\n\n<p>Tasks and responsibilities  </p>\n\n<ul>\n<li>Coordinate different technical teams to deliver a consistent technical solution.</li>\n<li>Have input into requirements and verification plans.</li>\n<li>Perform analysis and required tests at system and subsystem level.</li>\n<li>Propose improvements to increase the performance of Open Cosmos satellites.</li>\n<li>Define key orbital operational parameters and analyse their data.</li>\n<li>Support bid work, sales team, mission and operations teams, customer support or any other teams within the company with technical information and documentation related to engineering.</li>\n<li>Maintain systems level documentation.</li>\n<li>Work independently and under pressure.</li>\n<li>Embrace challenge and work outside of the comfort zone</li>\n<li>Commit to fulfill customer requirements and expectations</li>\n<li>Take initiative and work in a self-driven manner.</li>\n</ul>\n\n<p>Skills, attitude and experience  </p>\n\n<ul>\n<li>Proven experience in satellite engineering. To have seen full cycle of a space mission, from conception to end of life</li>\n<li>Have seen full life cycle missions</li>\n<li>Have experience with Maya, ESATAN or similar</li>\n<li>Have experience in leading and executing balance tests</li>\n<li>Have good knowledge of the subsystems involved in a satellite: power system, on board computer, AOCS, comms, propulsion, mechanical.</li>\n<li>Have good knowledge of AIT processes</li>\n<li>Attention to detail</li>\n<li>Honesty, openness and self aware</li>\n<li>Proactiveness</li>\n<li>Quick to learn and coach others</li>\n</ul>\n\n<p>Nice to have  </p>\n\n<ul>\n<li>Experience in project management</li>\n<li>Experience in systems engineering</li>\n<li>Experience managing communication with suppliers</li>\n<li>Technical experience in specific subsystem</li>\n<li>Hands on experience on AIT</li>\n<li>Experience in QA/PA</li>\n<li>Systems experience in ESA missions</li>\n</ul>\n\n<p>You will enjoy</p>\n\n<ul>\n<li>Working with a team of people to build the future of a new space industry</li>\n<li>Working at one of the world’s leading space campuses</li>\n<li>25 days holidays + 8 bank holidays</li>\n<li>Attractive Pension Scheme &amp; Immediate enrolment</li>\n<li>Transport Allowance – extra pocket money to support our best talent working together</li>\n<li>Healthy snacks and pick’n’mix sweets at the office</li>\n<li>Social clubs organised by the team – so far we’ve got Run Club, Paella Club, ice-skating Club and Thirsty Club – suggest something new?</li>\n<li>Remote working as per company policy</li>\n<li>Working from home as per company policy</li>\n<li>Annual Salary Review</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "Harwell Oxford"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Project Management",
+        "System Design",
+        "Systems Engineering",
+        "Space Systems",
+        "Power Systems"
+      ],
+      "payment": {
+        "salary": "£30k – £50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/eugene-mcintyre",
+        "name": "Eugene McIntyre",
+        "avatar": "https://photos.angel.co/users/9729384-medium_jpg?1564050839"
+      },
+      "refs": {
+        "angelListId": "596052",
+        "angelListUrl": "https://angel.co/company/open_cosmos/jobs/596052-"
+      }
+    }
+  ]
+}

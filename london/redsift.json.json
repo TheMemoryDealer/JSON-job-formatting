@@ -1,0 +1,162 @@
+{
+  "name": "Red Sift",
+  "avatar": "https://photos.angel.co/startups/i/734466-95cc39c7e40598bc2f1703fb4100178c-medium_jpg.jpg?buster=1452340642",
+  "slogan": "The cognitive cybersecurity platform",
+  "description": "Red Sift is a data-driven cybersecurity business that uses machine learning to help organizations of all sizes and sectors address day-to-day security challenges. It offers a dashboard of tools that analyze and synthesize data from core business processes - such as email - to help users to better manage their online security.\n\nRed Sift’s mission is to democratize the technology essential for cybersecurity. Founded in 2015 by serial entrepreneurs Rahul Powar and Randal Pinto, Red Sift is headquartered in London, UK, and boasts an impressive client roster including TransferWise, Telefonica, Action for Children, and top UK law firms.\n\nProducts on the Red Sift platform include OnDMARC and OnINBOX, SaaS applications that work together to close the net on the phishing problem by blocking outbound phishing attacks and analyzing the security of inbound communications for company-wide email threat intelligence.  \n\nFind out more at www.redsift.com\n\n\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://redsift.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://blog.redsift.com/"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/redsift"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/redsift"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/redsift"
+    },
+    {
+      "type": "productHunt",
+      "url": "https://www.producthunt.com/posts/red-sift"
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "SaaS",
+    "Big Data",
+    "Machine Learning",
+    "Cyber Security"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Founder & CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/rahul-powar",
+      "name": "Rahul Powar",
+      "avatar": "https://photos.angel.co/users/34328-medium_jpg?1536849092",
+      "bioHtml": "Founder &amp; CEO <a href=\"https://angel.co/company/redsift\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Red Sift</span></a>. Previously creator of <a href=\"https://angel.co/company/shazam\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Shazam</span></a> for iPhone, founder of  <a href=\"https://angel.co/company/apsmart\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Apsmart</span></a> (acquired June 2012 by <a href=\"https://angel.co/company/thomson-reuters\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Thomson Reuters</span></a>)."
+    },
+    {
+      "title": "Co-Founder & COO",
+      "role": "Founder",
+      "url": "https://angel.co/u/randalpinto",
+      "name": "Randal Pinto",
+      "avatar": "https://photos.angel.co/users/169077-medium_jpg?1537190207",
+      "bioHtml": "Co-Founder &amp; COO at Redsift"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/harry-frearson",
+      "name": "Harry Frearson",
+      "avatar": "https://photos.angel.co/users/8352527-medium_jpg?1536852520",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/ivan-kovachev-4",
+      "name": "Ivan Kovachev",
+      "avatar": "https://photos.angel.co/users/8352405-medium_jpg?1536851260",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/emma-horsfield",
+      "name": "Emma Horsfield",
+      "avatar": "https://photos.angel.co/users/8352399-medium_jpg?1536851050",
+      "bioHtml": "Account Manager for Red Sift, previous experience working in fundraising. McGill University graduate."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "734466",
+    "angelListUrl": "https://angel.co/company/redsift"
+  },
+  "jobs": [
+    {
+      "role": "Operations",
+      "title": "Customer Success Engineer",
+      "description": "At Red Sift we believe that cyber security should be active, usable and accessible to all businesses. Founded by some of the people behind Shazam and backed by the most experienced entrepreneurs, angels and VCs in London, we are a small, close-knit, deeply experienced team looking for someone to fit in with our culture of equality, mutual respect, and rabid confidence in the face of gigantic challenges. As our first Customer Success Engineer you will be the primary point of call for our OnDMARC cloud SaaS solution (https://ondmarc.com) and other cyber security products.  \n\nYou will...\n\n-Own the customer relationship and ensure their success\n-Understand and clearly communicate the customer's business objectives\n-Onboard new customers and ensure successful implementations\n-Respond to issues and proactively communicate with customers to ensure success\n-Create knowledge resources to assist in customer self service\n-Contribute to the product roadmap as the eyes and ears of the organisation with our customers\n-Provide technical training\n\nWe like...\n\n-Knowledge of SMTP protocol, working with message headers, interpreting complex routing and receiver responses\n-Proficiency in email authentication technologies SPF, DKIM, and DMARC ----Strong understanding of DNS and networking\n-Excellent problem solving skills \n-Technical Account Management acumen \n-Experience in technical support and customer relationship experience\n-Drive for helping customers\n-Natural problem solvers\n-Foosball skills\n\nYou are...\n\n-Entrepreneurial and have a sense of urgency\n-Persistent and ambitious to be both hands-on and help shape up a new function within the company\n-Curious\n-Excited about helping customers",
+      "descriptionHtml": "<p>At Red Sift we believe that cyber security should be active, usable and accessible to all businesses. Founded by some of the people behind Shazam and backed by the most experienced entrepreneurs, angels and VCs in London, we are a small, close-knit, deeply experienced team looking for someone to fit in with our culture of equality, mutual respect, and rabid confidence in the face of gigantic challenges. As our first Customer Success Engineer you will be the primary point of call for our OnDMARC cloud SaaS solution (<a href=\"https://ondmarc.com\" target=\"_blank\" rel=\"nofollow\">https://ondmarc.com</a>) and other cyber security products.  </p>\n\n<p>You will...</p>\n\n<p>-Own the customer relationship and ensure their success<br>\n-Understand and clearly communicate the customer&#39;s business objectives<br>\n-Onboard new customers and ensure successful implementations<br>\n-Respond to issues and proactively communicate with customers to ensure success<br>\n-Create knowledge resources to assist in customer self service<br>\n-Contribute to the product roadmap as the eyes and ears of the organisation with our customers<br>\n-Provide technical training</p>\n\n<p>We like...</p>\n\n<p>-Knowledge of SMTP protocol, working with message headers, interpreting complex routing and receiver responses<br>\n-Proficiency in email authentication technologies SPF, DKIM, and DMARC ----Strong understanding of DNS and networking<br>\n-Excellent problem solving skills <br>\n-Technical Account Management acumen <br>\n-Experience in technical support and customer relationship experience<br>\n-Drive for helping customers<br>\n-Natural problem solvers<br>\n-Foosball skills</p>\n\n<p>You are...</p>\n\n<p>-Entrepreneurial and have a sense of urgency<br>\n-Persistent and ambitious to be both hands-on and help shape up a new function within the company<br>\n-Curious<br>\n-Excited about helping customers</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Customer Service",
+        "Technical Support",
+        "People Skills"
+      ],
+      "payment": {
+        "salary": "£25k – £35k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/ivan-kovachev-4",
+        "name": "Ivan Kovachev",
+        "avatar": "https://photos.angel.co/users/8352405-medium_jpg?1536851260"
+      },
+      "refs": {
+        "angelListId": "427552",
+        "angelListUrl": "https://angel.co/company/redsift/jobs/427552-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Javascript Engineer",
+      "description": "We...\n\nAre a fast-paced cybersecurity tech start-up founded by Rahul Powar and Randal Pinto who started at Shazam and have been building deep tech and data startups ever since. We are one of the fastest growing companies in our industry, and following our new investment round, we’re ready to add to our technical team a smart and enthusiastic Javascript Engineer.\n\nYou...\n\n- Have excellent knowledge of modern Javascript.\n- Mobile-first design with a strong foundation in HTML and responsive CSS.\n- Have a good understanding of version control and frontend tooling, including JS transpilers, CSS preprocessors.\n- Know React and the Redux ecosystem.\n- Love NodeJS and can apply this knowledge to a new platform environment like our Red Sift platform.\n- Understand and apply the principles of software craftsmanship - designing things as simply as possible, but no simpler.\n- Are passionate about product and delivering the best UX in the context of big data visualisation and exploration.                    \n- Love data driven frameworks like D3.js\n\nWe like...\n\n- Experience in small start-up environments with a pro-active nature and the desire to learn.\n- Open source activity and contributions.\n- Experience in working together with designers on UI components.\n- Clean and tested code.\n- Open source activity and contributions.\n- Food. Our error identifiers look like this - ‘strain_thin_tortellini’, ‘glaze_copious_currants’, ‘sprinkle_full_oregano’. It makes for a better user experience than random hex identifiers.\n- Consistent punctuation\n\nYou will...\n\nTake ownership of products and implement delightful data-driven applications.\nWork with designers and developers on exciting new features.\nDevelop UX/UI components for our products and websites.\nDevelop the Red Sift cybersecurity platform.\nGet competitive compensation.\n\nRed Sift is an equal opportunity employer.\n\nWe are located at:\nWayra, 20 Air St, Soho, London, W1B 5AN, UK",
+      "descriptionHtml": "<p>We...</p>\n\n<p>Are a fast-paced cybersecurity tech start-up founded by Rahul Powar and Randal Pinto who started at Shazam and have been building deep tech and data startups ever since. We are one of the fastest growing companies in our industry, and following our new investment round, we’re ready to add to our technical team a smart and enthusiastic Javascript Engineer.</p>\n\n<p>You...</p>\n\n<ul>\n<li>Have excellent knowledge of modern Javascript.</li>\n<li>Mobile-first design with a strong foundation in HTML and responsive CSS.</li>\n<li>Have a good understanding of version control and frontend tooling, including JS transpilers, CSS preprocessors.</li>\n<li>Know React and the Redux ecosystem.</li>\n<li>Love NodeJS and can apply this knowledge to a new platform environment like our Red Sift platform.</li>\n<li>Understand and apply the principles of software craftsmanship - designing things as simply as possible, but no simpler.</li>\n<li>Are passionate about product and delivering the best UX in the context of big data visualisation and exploration.<br></li>\n<li>Love data driven frameworks like D3.js</li>\n</ul>\n\n<p>We like...</p>\n\n<ul>\n<li>Experience in small start-up environments with a pro-active nature and the desire to learn.</li>\n<li>Open source activity and contributions.</li>\n<li>Experience in working together with designers on UI components.</li>\n<li>Clean and tested code.</li>\n<li>Open source activity and contributions.</li>\n<li>Food. Our error identifiers look like this - ‘strain<u>thin</u>tortellini’, ‘glaze<u>copious</u>currants’, ‘sprinkle<u>full</u>oregano’. It makes for a better user experience than random hex identifiers.</li>\n<li>Consistent punctuation</li>\n</ul>\n\n<p>You will...</p>\n\n<p>Take ownership of products and implement delightful data-driven applications.<br>\nWork with designers and developers on exciting new features.<br>\nDevelop UX/UI components for our products and websites.<br>\nDevelop the Red Sift cybersecurity platform.<br>\nGet competitive compensation.</p>\n\n<p>Red Sift is an equal opportunity employer.</p>\n\n<p>We are located at:<br>\nWayra, 20 Air St, Soho, London, W1B 5AN, UK</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "D3.js",
+        "React.js",
+        "NodeJS"
+      ],
+      "payment": {
+        "salary": "£60k – £70k"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/deepakprabhakara",
+        "name": "Deepak Prabhakara",
+        "avatar": "https://photos.angel.co/users/43411-medium_jpg?1536913610"
+      },
+      "refs": {
+        "angelListId": "429780",
+        "angelListUrl": "https://angel.co/company/redsift/jobs/429780-"
+      }
+    }
+  ]
+}

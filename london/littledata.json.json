@@ -1,0 +1,158 @@
+{
+  "name": "Littledata",
+  "avatar": "https://photos.angel.co/startups/i/380545-92a11a5cb91b4ae022f01f509597cd98-medium_jpg.jpg?buster=1446114815",
+  "slogan": " Ecommerce analytics automation",
+  "description": "Littledata radically simplifies web performance tracking by translating Google Analytics data into a stream of actionable and summarised reports. No more complex charts, 'dashboard widgets' and wasting hours on looking through hundreds of Google Analytics reports!\n\nFree tool for SMEs to track web conversion, with premium subscription features to simplify setup and monitoring of ecommerce, custom dimensions and events.\n\nWe also provide expert analytics advice and custom web analytics setup to help businesses understand their customers’ online behaviour and achieve business goals.  ",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.littledata.io"
+    },
+    {
+      "type": "blog",
+      "url": "https://blog.littledata.io"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/littledatauk"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/littledatauk"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/littledata"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Cluj-Napoca"
+  ],
+  "marketTags": [
+    "E-Commerce",
+    "Analytics",
+    "Big Data",
+    "Artificial Intelligence / Machine Learning"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Cofounder/VP Marketing",
+      "role": "Founder",
+      "url": "https://angel.co/u/beyond-product-marketing",
+      "name": "Ari Messer",
+      "avatar": "https://photos.angel.co/users/455310-medium_jpg?1530804168",
+      "bioHtml": "Doer &amp; Thinker <a href=\"https://angel.co/company/littledata\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Littledata</span></a> - London | NYC | California - <a href=\"https://angel.co/stanford-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Stanford</span></a> <a href=\"https://angel.co/university-of-edinburgh\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Edinburgh</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/edward-upton",
+      "name": "Edward Upton",
+      "avatar": "https://photos.angel.co/users/204564-medium_jpg?1474875335",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/littledata\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Littledata</span></a>, <a href=\"https://angel.co/company/teachable\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Teachable</span></a>, strategy &amp; product consultant.  Product manager <a href=\"https://angel.co/company/macmillan-publishers\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Macmillan Publishers</span></a>. Trained at Accenture, MA from Magdalen College, Oxford."
+    },
+    {
+      "title": "Product Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/chaitanya-nijhara-1",
+      "name": "Chaitanya Nijhara",
+      "avatar": "https://photos.angel.co/users/6071825-medium_jpg?1550717396",
+      "bioHtml": "I am a passionate Product Manager and a self-starter with a proven track record of shipping products from conceptualization to launch."
+    },
+    {
+      "title": "",
+      "role": "Employee",
+      "url": "https://angel.co/u/crisan-elisabeta",
+      "name": "crisan elisabeta",
+      "avatar": "https://photos.angel.co/users/7560144-medium_jpg?1522314083",
+      "bioHtml": "Finance &amp; Operations Manager at Littledata"
+    },
+    {
+      "title": "Full-Stack Developer",
+      "role": "Employee",
+      "url": "https://angel.co/u/stefan-florescu-1",
+      "name": "Stefan Florescu",
+      "avatar": "https://photos.angel.co/users/9038898-medium_jpg?1552031520",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "380545",
+    "angelListUrl": "https://angel.co/company/littledata"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Lead Software Developer",
+      "description": "Location: Bucharest, Romania (remote working possible)\n\n\nLittledata’s app provides automated insights for eCommerce – translating web analytics into actionable insights for growing companies. Our software is in use by thousands of companies globally, and our development team is growing to keep up with the demand for new features.\n\nWe need an experienced coder to execute on our roadmap – building fast, robust software for data integrations. You will join a product team of 8 people based on Bucharest, Cluj, and London.\n\nKey responsibilities:\n - Supporting developers with architecture choices and mentoring on code style and best practice.\n- Adding to existing functionality built with Node, MeteorJS, and MongoDB\n- Evaluating the feasibility of new features\n- Researching technical best practice\n- Using Kanban and Test-driven development to maintain speed\n\nRequirements:\nExperienced in building commercial web services (any language)\nFamiliarity with JavaScript ES6\nRun an Agile process in a small team\nStrong mathematical education\n\nBenefits:\n- Competitive salary\n- Have more impact in a fast-moving startup team\n- Fun culture in a global team\n- Private health insurance\n- Quarterly offsite in Europe\n\nTo apply, please email us an example of a web service you have built and your role in the development to jobs@littledata.io, and attach your CV.",
+      "descriptionHtml": "<p>Location: Bucharest, Romania (remote working possible)</p>\n\n<p>Littledata’s app provides automated insights for eCommerce – translating web analytics into actionable insights for growing companies. Our software is in use by thousands of companies globally, and our development team is growing to keep up with the demand for new features.</p>\n\n<p>We need an experienced coder to execute on our roadmap – building fast, robust software for data integrations. You will join a product team of 8 people based on Bucharest, Cluj, and London.</p>\n\n<p>Key responsibilities:</p>\n\n<ul>\n<li>Supporting developers with architecture choices and mentoring on code style and best practice.\n\n<ul>\n<li>Adding to existing functionality built with Node, MeteorJS, and MongoDB</li>\n<li>Evaluating the feasibility of new features</li>\n<li>Researching technical best practice</li>\n<li>Using Kanban and Test-driven development to maintain speed</li>\n</ul></li>\n</ul>\n\n<p>Requirements:<br>\nExperienced in building commercial web services (any language)<br>\nFamiliarity with JavaScript ES6<br>\nRun an Agile process in a small team<br>\nStrong mathematical education</p>\n\n<p>Benefits:</p>\n\n<ul>\n<li>Competitive salary</li>\n<li>Have more impact in a fast-moving startup team</li>\n<li>Fun culture in a global team</li>\n<li>Private health insurance</li>\n<li>Quarterly offsite in Europe</li>\n</ul>\n\n<p>To apply, please email us an example of a web service you have built and your role in the development to <a href=\"mailto:jobs@littledata.io\" target=\"_blank\" rel=\"nofollow\">jobs@littledata.io</a>, and attach your CV.</p>\n",
+      "position": "contract",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Cluj-Napoca"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe"
+      ],
+      "skills": [],
+      "payment": {
+        "salary": "$10k – $40k"
+      },
+      "recruiter": {
+        "title": "Finance & Operations Manager",
+        "role": "Employee",
+        "url": "https://angel.co/u/georgeta-codrea",
+        "name": "Georgeta Reus",
+        "avatar": "https://photos.angel.co/users/8150374-medium_jpg?1532615989"
+      },
+      "refs": {
+        "angelListId": "722982",
+        "angelListUrl": "https://angel.co/company/littledata/jobs/722982-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Technical Support Rep (West Coast US hours)",
+      "description": "Location: Nashville, TN\n\nSome remote working is possible, but you must reside in the Nashville area and be available to work in person at least two days per week.\n\nDo you love customer support and have an aptitude for technical details?\n\nWe have an exciting opportunity to join our world-class support team and help customers get the most out of Littledata. You will solve problems every day and be a key player in customer success.\n\nLittledata is an eCommerce analytics startup with customers in over 50 countries. Our app fixes tracking automatically and helps eCommerce sites get accurate data about their online sales and marketing. We’re growing fast and are dedicated to continuing to offer best-in-class customer support to all of our customers.\n\nAs our new Technical Support Representative, you’ll communicate daily with leads and customers in North America to help them get the most out of Littledata. You will work directly with our Customer Support Director in Nashville, help customers in the Pacific time zone, and communicate daily with our global team.\n\nKey responsibilities:\n\n- Responding to customer inquiries and tracking help tickets (most communication happens via email/online chat)\n- Arranging calls and screen-shares with leads and customers to increase engagement and upsells\n- Helping build and improve clear and useful technical documentation\n- Gathering customer feedback for product development\n- Encouraging online reviews\n\nRequirements:\n\n- 2+ years demonstrated success in a customer support role\n- Experience with Google Analytics or other tracking tools\n- Interest in ecommerce\n- BA or equivalent\n\nBenefits:\n\n- Fun culture in a small, global team\n- Health insurance stipend\n- Annual offsite in Europe\n\nTo apply, please email us at jobs@littledata.io with a resume and cover letter.",
+      "descriptionHtml": "<p>Location: Nashville, TN</p>\n\n<p>Some remote working is possible, but you must reside in the Nashville area and be available to work in person at least two days per week.</p>\n\n<p>Do you love customer support and have an aptitude for technical details?</p>\n\n<p>We have an exciting opportunity to join our world-class support team and help customers get the most out of Littledata. You will solve problems every day and be a key player in customer success.</p>\n\n<p>Littledata is an eCommerce analytics startup with customers in over 50 countries. Our app fixes tracking automatically and helps eCommerce sites get accurate data about their online sales and marketing. We’re growing fast and are dedicated to continuing to offer best-in-class customer support to all of our customers.</p>\n\n<p>As our new Technical Support Representative, you’ll communicate daily with leads and customers in North America to help them get the most out of Littledata. You will work directly with our Customer Support Director in Nashville, help customers in the Pacific time zone, and communicate daily with our global team.</p>\n\n<p>Key responsibilities:</p>\n\n<ul>\n<li>Responding to customer inquiries and tracking help tickets (most communication happens via email/online chat)</li>\n<li>Arranging calls and screen-shares with leads and customers to increase engagement and upsells</li>\n<li>Helping build and improve clear and useful technical documentation</li>\n<li>Gathering customer feedback for product development</li>\n<li>Encouraging online reviews</li>\n</ul>\n\n<p>Requirements:</p>\n\n<ul>\n<li>2+ years demonstrated success in a customer support role</li>\n<li>Experience with Google Analytics or other tracking tools</li>\n<li>Interest in ecommerce</li>\n<li>BA or equivalent</li>\n</ul>\n\n<p>Benefits:</p>\n\n<ul>\n<li>Fun culture in a small, global team</li>\n<li>Health insurance stipend</li>\n<li>Annual offsite in Europe</li>\n</ul>\n\n<p>To apply, please email us at <a href=\"mailto:jobs@littledata.io\" target=\"_blank\" rel=\"nofollow\">jobs@littledata.io</a> with a resume and cover letter.</p>\n",
+      "position": "contract",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Cluj-Napoca"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$10k – $40k"
+      },
+      "recruiter": {
+        "title": "Finance & Operations Manager",
+        "role": "Employee",
+        "url": "https://angel.co/u/georgeta-codrea",
+        "name": "Georgeta Reus",
+        "avatar": "https://photos.angel.co/users/8150374-medium_jpg?1532615989"
+      },
+      "refs": {
+        "angelListId": "722988",
+        "angelListUrl": "https://angel.co/company/littledata/jobs/722988-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "name": "Arachnys",
+  "avatar": "https://photos.angel.co/startups/i/51087-62468bda18b711571defdd13bc6d4720-medium_jpg.jpg?buster=1569340610",
+  "slogan": "Intelligent Risk & Compliance Technology",
+  "description": "Arachnys is a technology company specialising in intelligent risk and compliance. What makes us different is that we offer unparalleled control of truly global data. We are the only way to make sure your team see exactly the data they need, retrieved and translated in real-time from the widest collection available worldwide, to empower your decision making in the most efficient and auditable way possible. \n\nThe Arachnys platform is used by several of the world’s largest investment banks, consulting & law firms as well as corporates. \n\n*What we are doing*\t\t \t \t \t\t\n- Maintaining a 120TB+ news cluster, enabling millions of searches a day\n- Entity matching and scoring across structured and unstructured data\n- Pioneering algorithms for precision searching\n- Structured, and semi-automated data extraction from complex web pages\n- Distributed, highly-available process automation framework\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.arachnys.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@arachnys"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/arachnys"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "New York City",
+    "London",
+    "Kyiv"
+  ],
+  "marketTags": [
+    "Banking",
+    "Business Intelligence",
+    "SaaS",
+    "Legal"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 5000000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1415923200,
+        "valuation": 10000000
+      },
+      {
+        "type": "Series A",
+        "closedAt": 1322438400,
+        "valuation": null
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/david-buxton",
+      "name": "David Buxton",
+      "avatar": "https://photos.angel.co/users/167586-medium_jpg?1424968783",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/arachnys\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Arachnys</span></a>, <a href=\"https://angel.co/company/arachnys\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Arachnys</span></a> Information Services • Studied at <a href=\"https://angel.co/university-of-oxford-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Oxford</span></a>"
+    },
+    {
+      "title": "Director, Product Management",
+      "role": "Employee",
+      "url": "https://angel.co/u/nate_soffio",
+      "name": "Nate Soffio",
+      "avatar": "https://photos.angel.co/users/1120171-medium_jpg?1488728542",
+      "bioHtml": "GPM <a href=\"https://angel.co/company/arachnys\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Arachnys</span></a>  |  Alum: <a href=\"https://angel.co/company/cxense\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Cxense</span></a> • <a href=\"https://angel.co/company/altaclaro\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">AltaClaro</span></a> • <a href=\"https://angel.co/company/attivio\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Attivio</span></a> • <a href=\"https://angel.co/company/relationship-science-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Relationship Science</span></a> | <a href=\"https://angel.co/yale-university\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Yale University</span></a> 2010"
+    },
+    {
+      "title": "Product Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/timothy-dewis-goodman",
+      "name": "Timothy Dewis-Goodman",
+      "avatar": "https://photos.angel.co/users/2302655-medium_jpg?1464869158",
+      "bioHtml": "Lead BA experienced in driving successful implementations for enterprise customers.Recently relocated to New York to develop &amp; lead the US BA function"
+    },
+    {
+      "title": "Software Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/weichung-shaw",
+      "name": "Weichung Shaw",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at Arachnys"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "51087",
+    "angelListUrl": "https://angel.co/company/arachnys"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Technical Lead",
+      "description": "Arachnys is a workflow automation platform to analyse and prevent financial crime. We produce and maintain an enterprise-grade platform, enabling banks and multinationals to handle risks more efficiently and onboard customers, suppliers and partners. Our partners include global top-10 banks, big four advisory firms and large multinationals.\n\nWe work predominantly with Python, Django, JavaScript, React, and Docker. Our infrastructure is backed by Kubernetes, Hadoop, ElasticSearch, Terraform, and Amazon Web Services.\n\nRequirements:\nExperience leading a team of engineers, including line management\n5+ years web development\nStrong knowledge in Python and web development\nExperience with Docker and infrastructure\n\nWhat’s different about us?\nTeam of smart, collaborative people working together to solve hard, interesting problems for real customers.\nAnyone can get involved with any part of our system — front-end developers can write Hadoop jobs if they fancy.\nWe have a committed focus on delivering quality, while not being scared of pushing back on customer demands. (A top bank recently told us that we were the first supplier that had asked them, \"Why?\" about their requirements.)\n\nWhat hard problems are we solving?\nHigh frequency media monitoring with Big Data\nWe are maintaining a news cluster of a 120TB+ that we do millions of searches a day against in addition to searches against numerous data integration partners \nEntity matching, and scoring across both structured, and unstructured data\nWe are pioneering algorithms for precision searching, and reconciliation of risk relevant information across our news data, and third party datasets (see: https://www.slideshare.net/charliejuggler/finding-the-bad-actor-custom-scoring-forensic-name-matching-with-elasticsearch)\nStructured, and semi-automated data extraction from complex web pages\nWe are engineering a multi-purpose Chrome extension to seamlessly automate complex data collection processes\nDistributed, highly-available process automation framework\nWe are developing a plug-n-play platform to ease the codification, and hence, the automation / structuring of repetitive business processes\n\nWhat's great about our culture?\nWe work hard but it’s never “Crunch-Time” for us. No sleeping under desks or 14-hour days.\nWe use the best technology to solve problems, whether it’s something new or something established.\n\nWhat benefits do we have?\nWeekly training sessions where one of the team presents a new technology or we watch and discuss a talk from experts\nWe’re paired with a great L&D start-up, Wonderwerk\nRegular company wide social lunches, events, talks, parties and culture club\nBonus.ly - Our in-house micro rewards scheme redeemable for haircuts, spotify memberships and much more\nWe’ve got great infrastructure for working from home (easy to drop-in hangouts, a lot of communication over chat and Github)\nGreat collaborative environment. Everyone wants to improve and get better at coding.",
+      "descriptionHtml": "<p>Arachnys is a workflow automation platform to analyse and prevent financial crime. We produce and maintain an enterprise-grade platform, enabling banks and multinationals to handle risks more efficiently and onboard customers, suppliers and partners. Our partners include global top-10 banks, big four advisory firms and large multinationals.</p>\n\n<p>We work predominantly with Python, Django, JavaScript, React, and Docker. Our infrastructure is backed by Kubernetes, Hadoop, ElasticSearch, Terraform, and Amazon Web Services.</p>\n\n<p>Requirements:<br>\nExperience leading a team of engineers, including line management<br>\n5+ years web development<br>\nStrong knowledge in Python and web development<br>\nExperience with Docker and infrastructure</p>\n\n<p>What’s different about us?<br>\nTeam of smart, collaborative people working together to solve hard, interesting problems for real customers.<br>\nAnyone can get involved with any part of our system — front-end developers can write Hadoop jobs if they fancy.<br>\nWe have a committed focus on delivering quality, while not being scared of pushing back on customer demands. (A top bank recently told us that we were the first supplier that had asked them, &quot;Why?&quot; about their requirements.)</p>\n\n<p>What hard problems are we solving?<br>\nHigh frequency media monitoring with Big Data<br>\nWe are maintaining a news cluster of a 120TB+ that we do millions of searches a day against in addition to searches against numerous data integration partners <br>\nEntity matching, and scoring across both structured, and unstructured data<br>\nWe are pioneering algorithms for precision searching, and reconciliation of risk relevant information across our news data, and third party datasets (see: <a href=\"https://www.slideshare.net/charliejuggler/finding-the-bad-actor-custom-scoring-forensic-name-matching-with-elasticsearch\" target=\"_blank\" rel=\"nofollow\">https://www.slideshare.net/charliejuggler/finding-the-bad-actor-custom-scoring-forensic-name-matching-with-elasticsearch</a>)<br>\nStructured, and semi-automated data extraction from complex web pages<br>\nWe are engineering a multi-purpose Chrome extension to seamlessly automate complex data collection processes<br>\nDistributed, highly-available process automation framework<br>\nWe are developing a plug-n-play platform to ease the codification, and hence, the automation / structuring of repetitive business processes</p>\n\n<p>What&#39;s great about our culture?<br>\nWe work hard but it’s never “Crunch-Time” for us. No sleeping under desks or 14-hour days.<br>\nWe use the best technology to solve problems, whether it’s something new or something established.</p>\n\n<p>What benefits do we have?<br>\nWeekly training sessions where one of the team presents a new technology or we watch and discuss a talk from experts<br>\nWe’re paired with a great L&amp;D start-up, Wonderwerk<br>\nRegular company wide social lunches, events, talks, parties and culture club<br>\nBonus.ly - Our in-house micro rewards scheme redeemable for haircuts, spotify memberships and much more<br>\nWe’ve got great infrastructure for working from home (easy to drop-in hangouts, a lot of communication over chat and Github)<br>\nGreat collaborative environment. Everyone wants to improve and get better at coding.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "React.js"
+      ],
+      "payment": {
+        "salary": "£75k – £90k"
+      },
+      "recruiter": {
+        "title": "HR & Recruitment Manager",
+        "role": "Employee",
+        "url": "https://angel.co/u/daniel-adcock-2",
+        "name": "Daniel Adcock",
+        "avatar": "https://photos.angel.co/users/5505963-medium_jpg?1485100524"
+      },
+      "refs": {
+        "angelListId": "664090",
+        "angelListUrl": "https://angel.co/company/arachnys/jobs/664090-"
+      }
+    }
+  ]
+}

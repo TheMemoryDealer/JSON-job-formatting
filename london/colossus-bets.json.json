@@ -1,0 +1,114 @@
+{
+  "name": "Colossus Bets",
+  "avatar": "https://photos.angel.co/startups/i/2343747-9a3157f8e65bff3a20fcce66d58b2da8-medium_jpg.jpg?buster=1474277210",
+  "slogan": "Lottery-style sports betting, including the world's biggest sports jackpot",
+  "description": "Online lottery-style sports betting featuring weekly life-changing jackpots and cash-out.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.colossusbets.com/colossus"
+    },
+    {
+      "type": "blog",
+      "url": "https://blog.colossusbets.com/"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/ColossusBets"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/3259998/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Sports",
+    "Online Gaming"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/bernard-marantelli",
+      "name": "Bernard Marantelli",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/chloe-wallace",
+      "name": "Chloe Wallace",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Chief of Staff",
+      "role": "Employee",
+      "url": "https://angel.co/u/eva-karagianni-goel",
+      "name": "Eva Karagianni-Goel",
+      "avatar": "https://photos.angel.co/users/1283254-medium_jpg?1465013519",
+      "bioHtml": "Chief of Staff at Colossus Bets"
+    },
+    {
+      "title": "CTO",
+      "role": "Employee",
+      "url": "https://angel.co/u/myles-milston",
+      "name": "Myles Milston",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "CTO at Colossus Bets"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "2343747",
+    "angelListUrl": "https://angel.co/company/colossus-bets"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior ROR Developer (Back-end)",
+      "description": "About Colossus\n\nWe believe in making sports bigger by enabling sports fans to engage with the sports they love and realise their dreams through lottery-sized jackpots. We are the inventors of the award-winning Cash Out, Syndicates and FreePlay features. We develop our technology and manage risk fully in-house.\n\nOur story in numbers: 20M bets processed, £100M payouts, 12 patents granted, 25 languages, 50 currencies, 35 countries, 50+ B2B partners.\n\nDo you have what it takes?\n\nFind out more at colossusbets.com and corporate.colossusbets.com\n\n\nAbout this Role\n\nWe are looking for an experienced and highly motivated Senior Ruby on Rails (ROR) Developer to join the most ambitious sports gaming technology team in recent memory. The Back-end team has been at the forefront of our expansion, achieving feats such as integrating a new partner every 2 weeks for a continuous period of 12 months, while being key to the launch of sophisticated new features. The Senior ROR Developer will actively participate in the decision making process for ongoing core product improvements and integrate new partners, while advocating best practices for high quality code. The successful candidate will combine the mindset of a strong, disciplined individual contributor with that of a leader keen on mentoring others. This is a fantastic opportunity for someone looking to develop in a leadership capacity, while enjoying all the benefits of a high-growth and collaborative environment.\n\n\nRequired Skills\n\nBachelor’s degree in Computer Science\nStrong Ruby on Rails programming skills with 3+ years of experience in a business setting\nFormal management experience and/or demonstrated ability to plan, delegate and lead\nRESTful APIs\nDatabases such as MySQL\nExperience with MongoDB\nExperience with a messaging system (i.e. Kafka, RabbitMQ)\nManagement of cache system (Redis, Memcached)\nExperience with working and reasoning with applications running at scale\nSolid understanding of software engineering best practices (version control, code reviews, testing, refactoring, etc.)\nPersonal attributes\n\nStrong organisational skills, good time management and planning\nAbility to scope deliverables and set goals for others\nSelf-motivated and leading by example\nKeen problem solver\nBest practice fanatic, especially when it comes to writing clean code",
+      "descriptionHtml": "<p>About Colossus</p>\n\n<p>We believe in making sports bigger by enabling sports fans to engage with the sports they love and realise their dreams through lottery-sized jackpots. We are the inventors of the award-winning Cash Out, Syndicates and FreePlay features. We develop our technology and manage risk fully in-house.</p>\n\n<p>Our story in numbers: 20M bets processed, £100M payouts, 12 patents granted, 25 languages, 50 currencies, 35 countries, 50+ B2B partners.</p>\n\n<p>Do you have what it takes?</p>\n\n<p>Find out more at colossusbets.com and corporate.colossusbets.com</p>\n\n<p>About this Role</p>\n\n<p>We are looking for an experienced and highly motivated Senior Ruby on Rails (ROR) Developer to join the most ambitious sports gaming technology team in recent memory. The Back-end team has been at the forefront of our expansion, achieving feats such as integrating a new partner every 2 weeks for a continuous period of 12 months, while being key to the launch of sophisticated new features. The Senior ROR Developer will actively participate in the decision making process for ongoing core product improvements and integrate new partners, while advocating best practices for high quality code. The successful candidate will combine the mindset of a strong, disciplined individual contributor with that of a leader keen on mentoring others. This is a fantastic opportunity for someone looking to develop in a leadership capacity, while enjoying all the benefits of a high-growth and collaborative environment.</p>\n\n<p>Required Skills</p>\n\n<p>Bachelor’s degree in Computer Science<br>\nStrong Ruby on Rails programming skills with 3+ years of experience in a business setting<br>\nFormal management experience and/or demonstrated ability to plan, delegate and lead<br>\nRESTful APIs<br>\nDatabases such as MySQL<br>\nExperience with MongoDB<br>\nExperience with a messaging system (i.e. Kafka, RabbitMQ)<br>\nManagement of cache system (Redis, Memcached)<br>\nExperience with working and reasoning with applications running at scale<br>\nSolid understanding of software engineering best practices (version control, code reviews, testing, refactoring, etc.)<br>\nPersonal attributes</p>\n\n<p>Strong organisational skills, good time management and planning<br>\nAbility to scope deliverables and set goals for others<br>\nSelf-motivated and leading by example<br>\nKeen problem solver<br>\nBest practice fanatic, especially when it comes to writing clean code</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$60k – $70k"
+      },
+      "recruiter": {
+        "title": "Chief of Staff",
+        "role": "Employee",
+        "url": "https://angel.co/u/eva-karagianni-goel",
+        "name": "Eva Karagianni-Goel",
+        "avatar": "https://photos.angel.co/users/1283254-medium_jpg?1465013519"
+      },
+      "refs": {
+        "angelListId": "519983",
+        "angelListUrl": "https://angel.co/company/colossus-bets/jobs/519983-"
+      }
+    }
+  ]
+}

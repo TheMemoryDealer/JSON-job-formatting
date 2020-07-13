@@ -1,0 +1,194 @@
+{
+  "name": "SteelEye",
+  "avatar": "https://photos.angel.co/startups/i/4778295-279521cd465fb2101b806e8bbced5c65-medium_jpg.jpg?buster=1579593103",
+  "slogan": "We consolidate your data to help you comply smarter",
+  "description": "SteelEye is the only regulatory compliance technology and data analytics firm that offers transaction reporting, record keeping, trade reconstruction, best execution and data insight in one comprehensive solution.\n\nThe firm’s scalable secure data storage platform offers encryption at rest and in flight and best-in-class analytics to help financial firms meet regulatory obligations and gain additional insights into their business activities, helping them to trade with greater efficiency and profitability. With a fully open API framework, SteeleEye enables clients to visualise, interpret and store consolidated data in flexible ways that suit their needs. The company’s mission is to empower its clients to leverage opportunities presented by their data – safe in the knowledge that it is both completely secure and compliant with the latest regulations.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.steel-eye.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.steel-eye.com/news?hslang=en"
+    },
+    {
+      "type": "twitter",
+      "url": "https://www.twitter.com/steeleyeltd"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/steeleyelimited"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Bengaluru",
+    "France"
+  ],
+  "marketTags": [
+    "Financial Services",
+    "Big Data",
+    "Analytics / Data"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 16639079,
+    "rounds": [
+      {
+        "type": "Series A",
+        "closedAt": 1581292800,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1542931200,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1504224000,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/matt-smith-105",
+      "name": "Matt Smith",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/vshank77",
+      "name": "Shankar Vasudevan",
+      "avatar": "https://photos.angel.co/users/2678217-medium_jpg?1487780417",
+      "bioHtml": "Co-Founder <a href=\"https://angel.co/company/steeleye-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">SteelEye</span></a> "
+    },
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/david-haines-4",
+      "name": "David Haines",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Backend Developer",
+      "role": "Employee",
+      "url": "https://angel.co/u/puneeth-r-7",
+      "name": "Puneeth R",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Sr Application Developer",
+      "role": "Employee",
+      "url": "https://angel.co/u/mayanktg",
+      "name": "Mayank Kumar",
+      "avatar": "https://photos.angel.co/users/367169-medium_jpg?1546197683",
+      "bioHtml": "Software Development Engineer - II <a href=\"https://angel.co/company/urbanclap\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">UrbanClap</span></a>, Contract developer intern <a href=\"https://angel.co/company/google-summer-of-code\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Google Summer of Code</span></a>, SDE intern <a href=\"https://angel.co/company/venturesity\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Venturesity</span></a> | JS enthusiast"
+    },
+    {
+      "title": "Infrastructure Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/sathish-balaji-2",
+      "name": "Sathish Balaji",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4778295",
+    "angelListUrl": "https://angel.co/company/steeleye-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Site Reliability Engineer - III",
+      "description": "### About SteelEye\n\nSteelEye is a fast growing FinTech company based in London and has offices in Bangalore and Paris, that offers a data platform to help financial institutions such as Investment Banks, Hedge Funds, Brokerage Firms, Asset Management Firms to comply with financial regulations in the European Union.  Our clients can aggregate, search, surveillance and report on trade, communications and market data. SteelEye also enables customers to gain powerful insights from their data, helping them to trade with greater efficiency and profitability. \n\nThe company has a highly experienced management team and a strong board, who have decades of technology and management experience and worked in senior positions at many leading international financial businesses.\n\nWe are looking to hire a seasoned SRE to join us as we start on our next phase of growth. We have a culture of openness, collaboration, and the passion to get things done whilst appreciating the importance of a good work life balance. \nBeing part of a start-up can be equally exciting as it is challenging. You will be part of the SteelEye team not just because of your talent but also because of your entrepreneurial flare which we thrive on at SteelEye. This means we want you to be curious, contribute, ask questions and share ideas. We encourage you to get involved in helping shape our business.\n\n[Read about our latest funding](https://www.steel-eye.com/news/steeleye-secures-10m-in-growth-capital-in-round-led-by-eight-roads)\n\n### What you’ll do \n\n* Develop and Maintain IAC using Terraform and Ansible \n* Draft design documents that translate requirements into code. \n* Deal with challenges associated with scale. \n* Assume responsibilities from technical design through technical client support. \n* Manage expectations with internal stakeholders and context-switch in a fast paced environment. \n* Thrive in an environment that uses Elasticsearch extensively. \n* Keep abreast of technology and contribute to the engineering strategy.  Champion best development practices and provide mentorship.\n\n### What we’re looking for \n\n• An AWS Certified Engineer with strong skills in \no Terraform o Ansible \no *nix and shell scripting \n• Preferably with experience in: \no Elasticsearch \no Circle CI \no CloudFormation \no Python \no Packer \no Docker \no Prometheus and Grafana \no Challenges of scale \no Production support \n• Sharp analytical and problem-solving skills. \n• Strong sense of ownership. \n• Demonstrable desire to learn and grow. \n• Excellent written and oral communication skills. \n• Mature collaboration and mentoring abilities.\n\n### About SteelEye Culture: \n\n* Top of the line health insurance \n* Order discounted meals every day from a dedicated portal \n* Fair and simple salary structure \n* 30+ holidays in a year \n* Fresh fruits every day \n* Centrally located. 5 mins to the nearest metro station (MG Road) \n* Measured on output and not input \n* Regular team outings and drinks! \n* Great team to work with and no B.S!",
+      "descriptionHtml": "<h3>About SteelEye</h3>\n<p>SteelEye is a fast growing FinTech company based in London and has offices in Bangalore and Paris, that offers a data platform to help financial institutions such as Investment Banks, Hedge Funds, Brokerage Firms, Asset Management Firms to comply with financial regulations in the European Union.  Our clients can aggregate, search, surveillance and report on trade, communications and market data. SteelEye also enables customers to gain powerful insights from their data, helping them to trade with greater efficiency and profitability. </p>\n\n<p>The company has a highly experienced management team and a strong board, who have decades of technology and management experience and worked in senior positions at many leading international financial businesses.</p>\n\n<p>We are looking to hire a seasoned SRE to join us as we start on our next phase of growth. We have a culture of openness, collaboration, and the passion to get things done whilst appreciating the importance of a good work life balance. <br>\nBeing part of a start-up can be equally exciting as it is challenging. You will be part of the SteelEye team not just because of your talent but also because of your entrepreneurial flare which we thrive on at SteelEye. This means we want you to be curious, contribute, ask questions and share ideas. We encourage you to get involved in helping shape our business.</p>\n\n<p><a href=\"https://www.steel-eye.com/news/steeleye-secures-10m-in-growth-capital-in-round-led-by-eight-roads\" target=\"_blank\" rel=\"nofollow\">Read about our latest funding</a></p>\n<h3>What you’ll do</h3>\n<ul>\n<li>Develop and Maintain IAC using Terraform and Ansible </li>\n<li>Draft design documents that translate requirements into code. </li>\n<li>Deal with challenges associated with scale. </li>\n<li>Assume responsibilities from technical design through technical client support. </li>\n<li>Manage expectations with internal stakeholders and context-switch in a fast paced environment. </li>\n<li>Thrive in an environment that uses Elasticsearch extensively. </li>\n<li>Keep abreast of technology and contribute to the engineering strategy.  Champion best development practices and provide mentorship.</li>\n</ul>\n<h3>What we’re looking for</h3>\n<p>• An AWS Certified Engineer with strong skills in <br>\no Terraform o Ansible <br>\no *nix and shell scripting <br>\n• Preferably with experience in: <br>\no Elasticsearch <br>\no Circle CI <br>\no CloudFormation <br>\no Python <br>\no Packer <br>\no Docker <br>\no Prometheus and Grafana <br>\no Challenges of scale <br>\no Production support <br>\n• Sharp analytical and problem-solving skills. <br>\n• Strong sense of ownership. <br>\n• Demonstrable desire to learn and grow. <br>\n• Excellent written and oral communication skills. <br>\n• Mature collaboration and mentoring abilities.</p>\n<h3>About SteelEye Culture:</h3>\n<ul>\n<li>Top of the line health insurance </li>\n<li>Order discounted meals every day from a dedicated portal </li>\n<li>Fair and simple salary structure </li>\n<li>30+ holidays in a year </li>\n<li>Fresh fruits every day </li>\n<li>Centrally located. 5 mins to the nearest metro station (MG Road) </li>\n<li>Measured on output and not input </li>\n<li>Regular team outings and drinks! </li>\n<li>Great team to work with and no B.S!</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "Bengaluru",
+        "Bangalore Urban",
+        "Indiranagar"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "System Administration",
+        "DevOps",
+        "Docker",
+        "Ansible",
+        "AWS",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "payment": {
+        "salary": "₹20L – ₹30L",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "Head of Operations - India",
+        "role": "Employee",
+        "url": "https://angel.co/u/arjun-shivraj-3",
+        "name": "Arjun Shivraj",
+        "avatar": "https://photos.angel.co/users/7034159-medium_jpg?1532674784"
+      },
+      "refs": {
+        "angelListId": "303390",
+        "angelListUrl": "https://angel.co/company/steeleye-1/jobs/303390-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Front End Developer",
+      "description": "SteelEye is looking for a talented and enthusiastic Front End JavaScript Developer to join our growing team in London and build great products. \r\nYour primary focus will be on developing new features, functionality, and user interface components and implementing them in SteelEye's best of breed SaaS application.\r\n\r\n\r\nWhat You'll Do:\r\n- Develop new user-facing features using React.js and Redux\r\n- Build robust, reusable, and easy-to-maintain components\r\n- Translate designs and mockups into re-usable, high-quality code\r\n- Optimize components for maximum performance\r\n- Ensure software is up-to-date with the latest technologies\r\n- Triage issues and enhancing core features for a rapidly-growing application\r\n\r\nWhat We're Looking For:\r\n- You are a well-organized self-starter with excellent communication skills\r\n- You have a thorough and demonstrable understanding of React.js and its core principles\r\n- You have broad experience and strong proficiency in JavaScript based technologies\r\n- You have the ability to translate business requirements into high-quality, high-performance code\r\n- You are comfortable working in a fast-paced environment and can adapt to changing requirements\r\n- You are familiar and up-to-date with common front-end dev tools (e.g. Babel, Webpack, NPM, Yarn, etc...)\r\n- You are familiar with RESTful APIs\r\n- You have experience with code versioning (Git) and CI/CD (Jenkins, Circle, etc...) tools\r\n- Familiarity/Experience with Elasticsearch and/or D3 is a huge plus",
+      "descriptionHtml": "<p>SteelEye is looking for a talented and enthusiastic Front End JavaScript Developer to join our growing team in London and build great products. <br>\nYour primary focus will be on developing new features, functionality, and user interface components and implementing them in SteelEye&#39;s best of breed SaaS application.</p>\n\n<p>What You&#39;ll Do:</p>\n\n<ul>\n<li>Develop new user-facing features using React.js and Redux</li>\n<li>Build robust, reusable, and easy-to-maintain components</li>\n<li>Translate designs and mockups into re-usable, high-quality code</li>\n<li>Optimize components for maximum performance</li>\n<li>Ensure software is up-to-date with the latest technologies</li>\n<li>Triage issues and enhancing core features for a rapidly-growing application</li>\n</ul>\n\n<p>What We&#39;re Looking For:</p>\n\n<ul>\n<li>You are a well-organized self-starter with excellent communication skills</li>\n<li>You have a thorough and demonstrable understanding of React.js and its core principles</li>\n<li>You have broad experience and strong proficiency in JavaScript based technologies</li>\n<li>You have the ability to translate business requirements into high-quality, high-performance code</li>\n<li>You are comfortable working in a fast-paced environment and can adapt to changing requirements</li>\n<li>You are familiar and up-to-date with common front-end dev tools (e.g. Babel, Webpack, NPM, Yarn, etc...)</li>\n<li>You are familiar with RESTful APIs</li>\n<li>You have experience with code versioning (Git) and CI/CD (Jenkins, Circle, etc...) tools</li>\n<li>Familiarity/Experience with Elasticsearch and/or D3 is a huge plus</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "React.js",
+        "Redux"
+      ],
+      "payment": {
+        "salary": "£45k – £70k"
+      },
+      "recruiter": {
+        "title": "HR Partner",
+        "role": "Employee",
+        "url": "https://angel.co/u/alicia-ariffin",
+        "name": "Alicia Ariffin",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "590537",
+        "angelListUrl": "https://angel.co/company/steeleye-1/jobs/590537-"
+      }
+    }
+  ]
+}

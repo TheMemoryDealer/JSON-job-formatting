@@ -1,0 +1,172 @@
+{
+  "name": "Knowledge Officer",
+  "avatar": "https://photos.angel.co/startups/i/3073930-d588664890d2f5f93a88bab8e88f176e-medium_jpg.jpg?buster=1521244879",
+  "slogan": "Organising the world's knowledge and adding context to content",
+  "description": "Knowledge Officer is building personalized and dynamic learning paths that help professionals achieve their career goals.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://knowledgeofficer.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://medium.com/knowledge-officer"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/ko_platform"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/knowledgeofficer/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/knowledge-officer-ltd/"
+    },
+    {
+      "type": "productHunt",
+      "url": "https://www.producthunt.com/posts/knowledge-officer-2-0"
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Technology",
+    "Knowledge Management",
+    "Startups",
+    "Education"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 800000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1521072000,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/ahmed-el-sharkasy",
+      "name": "Ahmed Sharkasy",
+      "avatar": "https://photos.angel.co/users/195301-medium_jpg?1472743558",
+      "bioHtml": "CEO &amp; Co-Founder at Knowledge Officer."
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/ahmed-eshra",
+      "name": "Ahmed Eshra",
+      "avatar": "https://photos.angel.co/users/774019-medium_jpg?1525599958",
+      "bioHtml": "CTO &amp; Co-founder  <a href=\"https://angel.co/company/knowledge-officer-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Knowledge Officer</span></a>, Master <a href=\"https://angel.co/faculty-of-engineering-alexandria-university\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Faculty Of Engineering, Alexandria University</span></a> "
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/parsa-shahab",
+      "name": "Parsa Shahab",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/billblairko",
+      "name": "Bill Blair",
+      "avatar": "https://photos.angel.co/users/10110109-medium_jpg?1570782925",
+      "bioHtml": "Heading up talent for Knowledge Officer. Looking for exceptional engineers to join this exciting startup. "
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/billrblair",
+      "name": "Bill Blair",
+      "avatar": "https://photos.angel.co/users/4360808-medium_jpg?1476184451",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "3073930",
+    "angelListUrl": "https://angel.co/company/knowledge-officer-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Machine Learning Engineer",
+      "description": "Software Engineer - Machine Learning / Natural Language Processing (London)\n\n£45000 - £50000 + share options\n\nAre you a Machine Learning and Natural Language Processing specialist who wants to make a difference to the world of work and the lives of many?\n\nWe are looking for a senior software engineer with expertise in Machine Learning and Natural Language Processing to join our amazing team and help solve a global challenge in creating personalized learning paths.\n\nThis is an exceptional opportunity to join a very ambitious startup where you can truly make an impact...\n\nOur mission at Knowledge Officer is to build the shortest and most efficient path to employment and career progression.\n\nFresh from being awarded a big grant from the UK’s innovation agency, Innovate UK and having experienced fantastic growth over the past year, we are now starting to scale our team in London.\n\n\nWe are working hard on our core natural language processing and applied machine learning. The main focus is on documents cleaning, documents classification and auto labeling. \nAll that needs to be served based on our recommendation techniques to suggest the right content to the right user at the right time.\n\nOur technical team is building:\n- A complete automated solution for text processing: Content crawlers, Text classifiers, Recommendation systems.\n- Different internal applications for data management, data analytics, .. etc.\n\nInterested?\n\nHere’s what we’re looking for...\n\nRequired skills:\n- Experience with Python/Ruby & JS - RESTful and Event Stream APIs.\n- Knowledge in traditional machine learning methods in text processing.\n- Knowledge in NLP problems: word2vec, topic models, Keyword extraction, and document similarity. \n- Track record of shipping NLP & ML solution and developing secured & high-availability applications with secured data transmission.\n- Basic Experience in data visualization, evaluate and visualize work output. \n- Familiar with different databases (SQL/NoSQL).\n- An advocate of agile practices for rapid development of quality software.\n- Know how to make the tradeoffs required to ship without compromising quality.\n- Excellent communication.\n\nNice to have:\n- Contribution in NLP/ML open source projects.\n- Experience with Scrapy and Splash\n- Comfortable with docker (micro-service architecture)\n\nEducation\n- MSc/Bachelor in Computer Science/Electrical or related field with specialization in natural language processing and/or machine learning.\n\nDoes that sound like you? \n\nIf it does, please apply and we’ll be in touch soon. We’d love to hear from you.\n\nIf you would like to find out more or would prefer to get in contact with one of the team, please drop our Talent Manager an email at bill.blair@knowledgeofficer.com",
+      "descriptionHtml": "<p>Software Engineer - Machine Learning / Natural Language Processing (London)</p>\n\n<p>£45000 - £50000 + share options</p>\n\n<p>Are you a Machine Learning and Natural Language Processing specialist who wants to make a difference to the world of work and the lives of many?</p>\n\n<p>We are looking for a senior software engineer with expertise in Machine Learning and Natural Language Processing to join our amazing team and help solve a global challenge in creating personalized learning paths.</p>\n\n<p>This is an exceptional opportunity to join a very ambitious startup where you can truly make an impact...</p>\n\n<p>Our mission at Knowledge Officer is to build the shortest and most efficient path to employment and career progression.</p>\n\n<p>Fresh from being awarded a big grant from the UK’s innovation agency, Innovate UK and having experienced fantastic growth over the past year, we are now starting to scale our team in London.</p>\n\n<p>We are working hard on our core natural language processing and applied machine learning. The main focus is on documents cleaning, documents classification and auto labeling. <br>\nAll that needs to be served based on our recommendation techniques to suggest the right content to the right user at the right time.</p>\n\n<p>Our technical team is building:</p>\n\n<ul>\n<li>A complete automated solution for text processing: Content crawlers, Text classifiers, Recommendation systems.</li>\n<li>Different internal applications for data management, data analytics, .. etc.</li>\n</ul>\n\n<p>Interested?</p>\n\n<p>Here’s what we’re looking for...</p>\n\n<p>Required skills:</p>\n\n<ul>\n<li>Experience with Python/Ruby &amp; JS - RESTful and Event Stream APIs.</li>\n<li>Knowledge in traditional machine learning methods in text processing.</li>\n<li>Knowledge in NLP problems: word2vec, topic models, Keyword extraction, and document similarity. </li>\n<li>Track record of shipping NLP &amp; ML solution and developing secured &amp; high-availability applications with secured data transmission.</li>\n<li>Basic Experience in data visualization, evaluate and visualize work output. </li>\n<li>Familiar with different databases (SQL/NoSQL).</li>\n<li>An advocate of agile practices for rapid development of quality software.</li>\n<li>Know how to make the tradeoffs required to ship without compromising quality.</li>\n<li>Excellent communication.</li>\n</ul>\n\n<p>Nice to have:</p>\n\n<ul>\n<li>Contribution in NLP/ML open source projects.</li>\n<li>Experience with Scrapy and Splash</li>\n<li>Comfortable with docker (micro-service architecture)</li>\n</ul>\n\n<p>Education</p>\n\n<ul>\n<li>MSc/Bachelor in Computer Science/Electrical or related field with specialization in natural language processing and/or machine learning.</li>\n</ul>\n\n<p>Does that sound like you? </p>\n\n<p>If it does, please apply and we’ll be in touch soon. We’d love to hear from you.</p>\n\n<p>If you would like to find out more or would prefer to get in contact with one of the team, please drop our Talent Manager an email at <a href=\"mailto:bill.blair@knowledgeofficer.com\" target=\"_blank\" rel=\"nofollow\">bill.blair@knowledgeofficer.com</a></p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Ruby",
+        "Natural Language Processing"
+      ],
+      "payment": {
+        "salary": "£45k – £50k",
+        "equity": "0.5% – 2.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/billblairko",
+        "name": "Bill Blair",
+        "avatar": "https://photos.angel.co/users/10110109-medium_jpg?1570782925"
+      },
+      "refs": {
+        "angelListId": "643291",
+        "angelListUrl": "https://angel.co/company/knowledge-officer-1/jobs/643291-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Student Brand Ambassador Universities",
+      "description": "**Job description:**\n\nThe student ambassador is part of Knowledge Officer’s mission to empower students to achieve their career development objectives. They will form an integral part of our acquisition campaigns for students.\nThe ambassador will be tasked with:\n- Representing our brand and leading campaigns on their campus\n- Coordinating on campus marketing events such as advertisements, outreach, campus events and fairs - Proposing and testing innovative approaches with the Knowledge Officer team to land sign ups for the platform and recruit undergraduate and graduate students to our Career Accelerator Program Plus & Pro programs\n\n**Benefits:**\n- ​% of monthly target for sign ups, increasing incentive after meeting monthly target - Ambassador starter pack\n- Free unlimited access to our Knowledge Officer ​Plus\n- A 10% discount on our Career Accelerator ​Pro\n- Boost your Linkedin profile and get featured on our website as a student ambassador\n\n**Duration:**\n3 months\n\n**To apply:**\nSend your resume to ​parsa.dehkordi@knowledgeofficer.com",
+      "descriptionHtml": "<p><strong>Job description:</strong></p>\n\n<p>The student ambassador is part of Knowledge Officer’s mission to empower students to achieve their career development objectives. They will form an integral part of our acquisition campaigns for students.<br>\nThe ambassador will be tasked with:</p>\n\n<ul>\n<li>Representing our brand and leading campaigns on their campus</li>\n<li>Coordinating on campus marketing events such as advertisements, outreach, campus events and fairs - Proposing and testing innovative approaches with the Knowledge Officer team to land sign ups for the platform and recruit undergraduate and graduate students to our Career Accelerator Program Plus &amp; Pro programs</li>\n</ul>\n\n<p><strong>Benefits:</strong></p>\n\n<ul>\n<li>​% of monthly target for sign ups, increasing incentive after meeting monthly target - Ambassador starter pack</li>\n<li>Free unlimited access to our Knowledge Officer ​Plus</li>\n<li>A 10% discount on our Career Accelerator ​Pro</li>\n<li>Boost your Linkedin profile and get featured on our website as a student ambassador</li>\n</ul>\n\n<p><strong>Duration:</strong><br>\n3 months</p>\n\n<p><strong>To apply:</strong><br>\nSend your resume to ​<a href=\"mailto:parsa.dehkordi@knowledgeofficer.com\" target=\"_blank\" rel=\"nofollow\">parsa.dehkordi@knowledgeofficer.com</a></p>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "United Kingdom"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Event Planning",
+        "Community Outreach",
+        "University Relations",
+        "Student Leadership"
+      ],
+      "payment": {
+        "salary": "£1k – £3k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/parsa-shahab",
+        "name": "Parsa Shahab",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "732928",
+        "angelListUrl": "https://angel.co/company/knowledge-officer-1/jobs/732928-"
+      }
+    }
+  ]
+}

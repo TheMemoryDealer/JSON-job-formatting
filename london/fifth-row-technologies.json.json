@@ -1,0 +1,90 @@
+{
+  "name": "Fifth Row Technologies",
+  "avatar": "https://photos.angel.co/startups/i/7084275-1baee354297b2a7dc2dde347c1e2e207-medium_jpg.jpg?buster=1564061377",
+  "slogan": "London-based research and development laboratory researching low latency technologies",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.fifthrowtech.com/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Software"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/shaun-ng",
+      "name": "Shaun Ng",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7084275",
+    "angelListUrl": "https://angel.co/company/fifth-row-technologies"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Low latency technologist",
+      "description": "Description \n\nAre you a natural programmer with a deep understanding of hardware? Do you love writing lightning-fast code that plays the L1/L2 caches like a symphony? At Fifth Row, we’re developing derivative exchange technologies performant far beyond existing solutions to disrupt a multi-billion dollar market, backed by some of the biggest names in venture capital.  \n \nIn this role you’ll help improve the heart of our exchange technology, focusing on our matching engines, position/risk auditing and persistence capabilities.  \n\nObjectives \n\n● Build history’s fastest and safest exchange backend platform  \n● Develop core functionality for users spanning hedge funds, HFTs and retail traders  \n● Grow alongside an exciting team of technologists, industry experts and quants\n\nEssential\n\n● Low level / systems development experience ideally in C/C++/C#, Java, Go, Rust, etc. \n● Exceptional programming skills evidenced through, e.g. olympiad participation, topcoder, and open source contributions \n● Intellectual curiosity and drive to anticipate and solve challenging technological problems \n\nDesirable\n\n● Experience working at a high frequency trading firm \n● Rust programming experience \n● kdb/q experience",
+      "descriptionHtml": "<p>Description </p>\n\n<p>Are you a natural programmer with a deep understanding of hardware? Do you love writing lightning-fast code that plays the L1/L2 caches like a symphony? At Fifth Row, we’re developing derivative exchange technologies performant far beyond existing solutions to disrupt a multi-billion dollar market, backed by some of the biggest names in venture capital.  </p>\n\n<p>In this role you’ll help improve the heart of our exchange technology, focusing on our matching engines, position/risk auditing and persistence capabilities.  </p>\n\n<p>Objectives </p>\n\n<p>● Build history’s fastest and safest exchange backend platform<br><br>\n● Develop core functionality for users spanning hedge funds, HFTs and retail traders<br><br>\n● Grow alongside an exciting team of technologists, industry experts and quants</p>\n\n<p>Essential</p>\n\n<p>● Low level / systems development experience ideally in C/C++/C#, Java, Go, Rust, etc. <br>\n● Exceptional programming skills evidenced through, e.g. olympiad participation, topcoder, and open source contributions <br>\n● Intellectual curiosity and drive to anticipate and solve challenging technological problems </p>\n\n<p>Desirable</p>\n\n<p>● Experience working at a high frequency trading firm <br>\n● Rust programming experience <br>\n● kdb/q experience</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "City of London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£50k – £100k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/shaun-ng",
+        "name": "Shaun Ng",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "596154",
+        "angelListUrl": "https://angel.co/company/fifth-row-technologies/jobs/596154-"
+      }
+    }
+  ]
+}

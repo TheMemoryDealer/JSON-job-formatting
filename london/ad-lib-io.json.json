@@ -1,0 +1,95 @@
+{
+  "name": "Ad-Lib.io",
+  "avatar": "https://photos.angel.co/startups/i/6039226-0fc6acbd54dc3839d1b2e55152df2f40-medium_jpg.jpg?buster=1532104515",
+  "slogan": "Creative Technology",
+  "description": "Ad-Lib helps tailor creative to users online.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://Ad-lib.io"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Advertising",
+    "Advertising Platforms"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/oli-marlow-thomas",
+      "name": "Oli Marlow Thomas",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6039226",
+    "angelListUrl": "https://angel.co/company/ad-lib-io"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Chief Eng Officer",
+      "description": "Chief Eng Officer\r\nBuild and Lead an Eng team\r\nLearn from current partner based in Germany\r\nPartnerships with both Google and Facebook\r\nDevelopment and management of applications and APIs\r\nDesign and implementation of scalable applications\r\nImplementation of automated tests\r\nRelease Management\r\nVery good practical Python knowledge\r\nExperience with Tornado/Twisted/gevent or similar concurrency frameworks\r\nAt least 3 years of professional experience\r\nMethodical approach and excellent problem solving skills\r\nExperience with several SQL/NoSQL data stores and data bases\r\nSolid Unix knowledge (filesystem, sockets, memory, TCP/IP)\r\nSolid English\r\nHuge plus: C/C++ and ZeroMQ experience",
+      "descriptionHtml": "<p>Chief Eng Officer<br>\nBuild and Lead an Eng team<br>\nLearn from current partner based in Germany<br>\nPartnerships with both Google and Facebook<br>\nDevelopment and management of applications and APIs<br>\nDesign and implementation of scalable applications<br>\nImplementation of automated tests<br>\nRelease Management<br>\nVery good practical Python knowledge<br>\nExperience with Tornado/Twisted/gevent or similar concurrency frameworks<br>\nAt least 3 years of professional experience<br>\nMethodical approach and excellent problem solving skills<br>\nExperience with several SQL/NoSQL data stores and data bases<br>\nSolid Unix knowledge (filesystem, sockets, memory, TCP/IP)<br>\nSolid English<br>\nHuge plus: C/C++ and ZeroMQ experience</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "PHP",
+        "Javascript"
+      ],
+      "payment": {
+        "salary": "£40k – £60k",
+        "equity": "1.0% – 3.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/oli-marlow-thomas",
+        "name": "Oli Marlow Thomas",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "398175",
+        "angelListUrl": "https://angel.co/company/ad-lib-io/jobs/398175-"
+      },
+      "postedAt": 1589658398175
+    }
+  ]
+}

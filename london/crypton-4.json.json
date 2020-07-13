@@ -1,0 +1,92 @@
+{
+  "name": "Crypton",
+  "avatar": "https://photos.angel.co/startups/i/7063267-610555db472fc62950c122a971c638dd-medium_jpg.jpg?buster=1563197467",
+  "slogan": "Reinventing Financial Systems",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.crypton.ai"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Financial Services",
+    "Investment Management",
+    "Financial Technology",
+    "Blockchain / Cryptocurrency"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/samuel-ellis-7",
+      "name": "Samuel Ellis",
+      "avatar": "https://photos.angel.co/users/9690636-medium_jpg?1563286781",
+      "bioHtml": "Work at Crypton"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7063267",
+    "angelListUrl": "https://angel.co/company/crypton-4"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Chief Science Officer",
+      "description": "Seeking Chief Science Officer with academic & professional experience in AI & NLP\n\nWho are we?\nWe are Crypton. We are creating new methods and technologies to buy and sell digital assets globally. Our mission is to provide retail liquidity, which is critical to the future success of digital assets markets and exchanges.\n\nWho are we looking for?\nWe are seeking an exceptionally creative and critical thinker for the role of Chief Science Officer to lead our artificial intelligence research programme. The Chief Science Officer will be working alongside our Chief Technology Officer, Chief Investment Officer, and a team of data scientists to implement artificial intelligence in the sphere of digital asset algo-trading and market making.\n\nWhat do I need to be considered?\n\n• an advanced degree and a history of research in a relevant scientific field\n• a deep understanding of the requisite mathematical domains\n• a high level of competence in programming languages and related technologies\n• experience with financial markets, cryptocurrencies, and other digital assets\n• excellent communication and leadership skills\n\nScientific Background\nYou should possess an advanced degree in a cognitive science, e.g., cognitive psychology, artificial intelligence, computational linguistics, etc. While an understanding of modern machine learning methods is essential, in addition you should have solid foundations in knowledge representation, automated reasoning, and related symbolic approaches to AI research; formal training in computational semantics and natural language processing is ideal. \n\npractically, you must have significant experience in the development and execution of well-designed experimental studies, and in the presentation of research findings to both technical and non-technical audiences.Therefore, a publication history and university-level teaching experience are highly desirable. Relatedly, strong editorial skills are required.\n\nIn short, we are seeking a candidate with a history of high-quality experimental research that combines formal, rule-based AI with probabilistic models of semantic knowledge derived from machine learning techniques applied to natural language.\n\nMathematical Background\nThe research agenda described above presupposes a high degree of mathematical sophistication. You should be well-versed in the following domains: set theory, first-order logic, higher-order logics, modal logic, combinatorics, group theory, category theory, probability theory (including Bayesian probability), game theory, decision theory, and statistics (hypothesis testing, regression and prediction, classification, etc.). Because of the domain in which Crypton operates, it is also important to understand the mathematical basis of cryptography.\n\nTechnological Background\nYou will be working closely with our Chief Technology Officer and a team of developers, and you will be expected to demonstrate a high degree of technological competence, including facility with a variety of programming languages (C, C++, C#, Java, Python, Scala, R, etc.), markup languages (XML, HTML, TeX, etc.), and query languages (SQL, XPath, etc.), and most importantly, you should be equipped to master new languages quickly. You must be comfortable working in Linux/Unix environments, employing a variety of command line utilities (sed, AWK, grep/Tgrep, etc.), and automating their deployment using shell scripting. Knowledge of containers (e.g., Docker) is essential. Furthermore, experience with cloud-based technologies (e.g., Amazon Web Services, Microsoft Azure, Google Cloud) is highly-desirable, as is experience with database administration and management.\n\nFinance Background\nYou will be working closely with our Chief Investment Officer to apply artificial intelligence to the development and deployment of algo-trading and market making strategies. Thus, you should have a solid understanding of financial markets generally -- and digital asset markets in particular. Ideally, you will have previous experience with market connectivity, especially using FIX protocol, and previous experience in the implementation of trading algorithms.\n\nLeadership Background\nAside from your scientific and technological qualifications, it is important that you also possess strong leadership skills, including strong communication skills. Your CV should highlight past successes in leadership or management roles in startup or team environments.\n\n________________________________________\n\nIf you are interested in joining us, please send your CV to careers@crypton.ai",
+      "descriptionHtml": "<p>Seeking Chief Science Officer with academic &amp; professional experience in AI &amp; NLP</p>\n\n<p>Who are we?<br>\nWe are Crypton. We are creating new methods and technologies to buy and sell digital assets globally. Our mission is to provide retail liquidity, which is critical to the future success of digital assets markets and exchanges.</p>\n\n<p>Who are we looking for?<br>\nWe are seeking an exceptionally creative and critical thinker for the role of Chief Science Officer to lead our artificial intelligence research programme. The Chief Science Officer will be working alongside our Chief Technology Officer, Chief Investment Officer, and a team of data scientists to implement artificial intelligence in the sphere of digital asset algo-trading and market making.</p>\n\n<p>What do I need to be considered?</p>\n\n<p>• an advanced degree and a history of research in a relevant scientific field<br>\n• a deep understanding of the requisite mathematical domains<br>\n• a high level of competence in programming languages and related technologies<br>\n• experience with financial markets, cryptocurrencies, and other digital assets<br>\n• excellent communication and leadership skills</p>\n\n<p>Scientific Background<br>\nYou should possess an advanced degree in a cognitive science, e.g., cognitive psychology, artificial intelligence, computational linguistics, etc. While an understanding of modern machine learning methods is essential, in addition you should have solid foundations in knowledge representation, automated reasoning, and related symbolic approaches to AI research; formal training in computational semantics and natural language processing is ideal. </p>\n\n<p>practically, you must have significant experience in the development and execution of well-designed experimental studies, and in the presentation of research findings to both technical and non-technical audiences.Therefore, a publication history and university-level teaching experience are highly desirable. Relatedly, strong editorial skills are required.</p>\n\n<p>In short, we are seeking a candidate with a history of high-quality experimental research that combines formal, rule-based AI with probabilistic models of semantic knowledge derived from machine learning techniques applied to natural language.</p>\n\n<p>Mathematical Background<br>\nThe research agenda described above presupposes a high degree of mathematical sophistication. You should be well-versed in the following domains: set theory, first-order logic, higher-order logics, modal logic, combinatorics, group theory, category theory, probability theory (including Bayesian probability), game theory, decision theory, and statistics (hypothesis testing, regression and prediction, classification, etc.). Because of the domain in which Crypton operates, it is also important to understand the mathematical basis of cryptography.</p>\n\n<p>Technological Background<br>\nYou will be working closely with our Chief Technology Officer and a team of developers, and you will be expected to demonstrate a high degree of technological competence, including facility with a variety of programming languages (C, C++, C#, Java, Python, Scala, R, etc.), markup languages (XML, HTML, TeX, etc.), and query languages (SQL, XPath, etc.), and most importantly, you should be equipped to master new languages quickly. You must be comfortable working in Linux/Unix environments, employing a variety of command line utilities (sed, AWK, grep/Tgrep, etc.), and automating their deployment using shell scripting. Knowledge of containers (e.g., Docker) is essential. Furthermore, experience with cloud-based technologies (e.g., Amazon Web Services, Microsoft Azure, Google Cloud) is highly-desirable, as is experience with database administration and management.</p>\n\n<p>Finance Background<br>\nYou will be working closely with our Chief Investment Officer to apply artificial intelligence to the development and deployment of algo-trading and market making strategies. Thus, you should have a solid understanding of financial markets generally -- and digital asset markets in particular. Ideally, you will have previous experience with market connectivity, especially using FIX protocol, and previous experience in the implementation of trading algorithms.</p>\n\n<p>Leadership Background<br>\nAside from your scientific and technological qualifications, it is important that you also possess strong leadership skills, including strong communication skills. Your CV should highlight past successes in leadership or management roles in startup or team environments.</p>\n\n<hr>\n\n<p>If you are interested in joining us, please send your CV to <a href=\"mailto:careers@crypton.ai\" target=\"_blank\" rel=\"nofollow\">careers@crypton.ai</a></p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "Soho"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£50k – £60k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/samuel-ellis-7",
+        "name": "Samuel Ellis",
+        "avatar": "https://photos.angel.co/users/9690636-medium_jpg?1563286781"
+      },
+      "refs": {
+        "angelListId": "589577",
+        "angelListUrl": "https://angel.co/company/crypton-4/jobs/589577-"
+      }
+    }
+  ]
+}

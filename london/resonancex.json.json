@@ -1,0 +1,203 @@
+{
+  "name": "ResonanceX",
+  "avatar": "https://photos.angel.co/startups/i/6027344-672d0bf7205d2391aea1a876484f6dab-medium_jpg.jpg?buster=1557515079",
+  "slogan": "Smart access to bespoke investment solutions",
+  "description": "A Techstars-backed company, ResonanceX is a platform leveraging automation, market expertise, and intelligent insights to solve issues faced by Private Banks, Wealth Managers and other Professional Investors in relation to structured products and alternative investments.\n\nWe enable the delivery of best-in-class customer service by providing superior lifecycle management, notifications, and intuitive performance visualisation.\n \nThrough a partnership, we have access to 15 top issuers of structured products globally for price discovery & execution, complying with the highest Best Execution standards.\n\nResonanceX graduated from the Barclays accelerator by Techstars in New York and from Kickstart Accelerator in Zurich in 2018. We were part of the first cohort of the of the Velocity accelerator by the UK Investment Association, and then the NatWest Entrepreneur Accelerator in London.\n\nThe company is authorised and regulated by the U.K Financial Conduct Authority (FCA).",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://resonancex.io"
+    },
+    {
+      "type": "blog",
+      "url": "https://medium.com/resonancex"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/resonancex_io"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/resonancex.io/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/resonancex/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "New York City",
+    "London"
+  ],
+  "marketTags": [
+    "Financial Services",
+    "Financial Technology",
+    "Investment Management",
+    "Blockchain / Cryptocurrency"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 820000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1555286400,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1536537600,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "Chief Product Architect",
+      "role": "Founder",
+      "url": "https://angel.co/u/hariton-korizis",
+      "name": "Hariton Korizis",
+      "avatar": "https://photos.angel.co/users/8117190-medium_jpg?1538854720",
+      "bioHtml": "Fintech | Capital markets | Structuring | Trading | AI | Blockchain"
+    },
+    {
+      "title": "Chief Technology Officer",
+      "role": "Employee",
+      "url": "https://angel.co/u/richard-bibb-1",
+      "name": "Richard Bibb",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at Ashenden Capital, Independent Consultant. Experience with Business Analysis, Disaster Recovery, Equities. Went to The University of Manchester"
+    },
+    {
+      "title": "Senior Developer",
+      "role": "Employee",
+      "url": "https://angel.co/u/matthew-middleweek",
+      "name": "Matthew Middleweek",
+      "avatar": "https://photos.angel.co/users/6464557-medium_jpg?1563214008",
+      "bioHtml": ""
+    },
+    {
+      "title": "CEO",
+      "role": "Employee",
+      "url": "https://angel.co/u/guillaume-chatain",
+      "name": "Guillaume Chatain",
+      "avatar": "https://photos.angel.co/users/8881952-medium_jpg?1562660960",
+      "bioHtml": "Co-Founder and CEO at ResonanceX\nFormer MD and Head of Equities at J.P.Morgan Private Bank\nFormer Regional Sales Manager at Airbus Helicopters"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6027344",
+    "angelListUrl": "https://angel.co/company/resonancex"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Front End Developer JS React",
+      "description": "Building a next generation alternative investments platform.\n\nWe are looking for a Full Stack Developer to work on our Alternative Investments platform. The role would suit an ambitious Software Engineer who wants to enhance their technical skills and gain experience in finance, trading, and investment products.\n\nThe team is small, close-knit and boasts a considerable amount of experience gained at senior levels within the some of the best investment banking, private banking and systematic hedge funds.\n\nYou'll be building our flagship product in a small, friendly and experienced development team. The product is used by major private banks, investment banks and wealth advisors. \n\n<- The Opportunity ->\nThe tech stack is modern and includes React, Redux, Typescript, Javascript, C#, .Net Core, Google Cloud Platform, NGiNx, and many more. We are a technology business that sees the value in investing in the latest tech stack.\n\nThis role will suit a mid-level Developer who's comfortable with modern JavaScript/ Typescript and React. \n\nRequired skills for the role:\n- Web/ REST APIs\n- Javascript\n- React/ Redux\n- Agile SDLC\n- Git workflow\n- Basic Linux scripting\n- CI / CD\n\nDesirable skills for the role:\n- Webpack\n- Typescript\n- Jest\n- NodeJS/ ExpressJs\n- Cloud Technologies (Google Cloud/ AWS/ Azure)\n- Caching technologies (Redis)\n- NGiNX/ Apache\n\nWhat else is on offer:\n• Excellent starting salary\n• A flat hierarchy with considerable opportunity for career progression\n\nWe value fierce skills, creativity and curiosity as the key agents of innovation towards a better future.",
+      "descriptionHtml": "<p>Building a next generation alternative investments platform.</p>\n\n<p>We are looking for a Full Stack Developer to work on our Alternative Investments platform. The role would suit an ambitious Software Engineer who wants to enhance their technical skills and gain experience in finance, trading, and investment products.</p>\n\n<p>The team is small, close-knit and boasts a considerable amount of experience gained at senior levels within the some of the best investment banking, private banking and systematic hedge funds.</p>\n\n<p>You&#39;ll be building our flagship product in a small, friendly and experienced development team. The product is used by major private banks, investment banks and wealth advisors. </p>\n\n<p>&lt;- The Opportunity -&gt;<br>\nThe tech stack is modern and includes React, Redux, Typescript, Javascript, C#, .Net Core, Google Cloud Platform, NGiNx, and many more. We are a technology business that sees the value in investing in the latest tech stack.</p>\n\n<p>This role will suit a mid-level Developer who&#39;s comfortable with modern JavaScript/ Typescript and React. </p>\n\n<p>Required skills for the role:</p>\n\n<ul>\n<li>Web/ REST APIs</li>\n<li>Javascript</li>\n<li>React/ Redux</li>\n<li>Agile SDLC</li>\n<li>Git workflow</li>\n<li>Basic Linux scripting</li>\n<li>CI / CD</li>\n</ul>\n\n<p>Desirable skills for the role:</p>\n\n<ul>\n<li>Webpack</li>\n<li>Typescript</li>\n<li>Jest</li>\n<li>NodeJS/ ExpressJs</li>\n<li>Cloud Technologies (Google Cloud/ AWS/ Azure)</li>\n<li>Caching technologies (Redis)</li>\n<li>NGiNX/ Apache</li>\n</ul>\n\n<p>What else is on offer:<br>\n• Excellent starting salary<br>\n• A flat hierarchy with considerable opportunity for career progression</p>\n\n<p>We value fierce skills, creativity and curiosity as the key agents of innovation towards a better future.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "City of London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Node.js",
+        "Kanban",
+        "Computer Science",
+        "Git",
+        "Redis",
+        "Cloud Services",
+        "Nginx",
+        "Agile",
+        "REST APIs",
+        "Express.js",
+        "TypeScript",
+        "Docker",
+        "React.js",
+        "Webpack",
+        "Redux",
+        "CICD"
+      ],
+      "payment": {
+        "salary": "£50k – £70k",
+        "equity": "0.0% – 0.25%"
+      },
+      "recruiter": {
+        "title": "Chief Product Architect",
+        "role": "Founder",
+        "url": "https://angel.co/u/hariton-korizis",
+        "name": "Hariton Korizis",
+        "avatar": "https://photos.angel.co/users/8117190-medium_jpg?1538854720"
+      },
+      "refs": {
+        "angelListId": "616238",
+        "angelListUrl": "https://angel.co/company/resonancex/jobs/616238-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Developer .NET, JS React",
+      "description": "Building a next generation alternative investments platform.\n\nWe are looking for a Full Stack Developer to work on our Alternative Investments platform. The role would suit an ambitious Software Engineer who wants to enhance their technical skills and gain experience in finance, trading, and investment products.\n\nThe team is small, close-knit and boasts a considerable amount of experience gained at senior levels within the some of the best investment banking, private banking and systematic hedge funds.\n\nYou'll be building our flagship product in a small, friendly and experienced development team. The product is used by major private banks, investment banks and wealth advisors. \n\n<- The Opportunity ->\nThe tech stack is modern and includes React, Redux, Typescript, Javascript, C#, .Net Core, Google Cloud Platform, NGiNx, and many more. We are a technology business that sees the value in investing in the latest tech stack.\n\nThis role will suit a mid-level .NET Developer who's comfortable with modern JavaScript/ Typescript and React.\n\nRequired skills for the role:\n- C#/ .Net core\n- Web/ REST APIs\n- Javascript\n- React/ Redux\n- SQL Server\n- Agile SDLC\n- Git workflow\n- Basic Linux scripting\n- CI / CD\n\nDesirable skills for the role:\n- Webpack\n- Typescript\n- Jest\n- NodeJS/ ExpressJs\n- Cloud Technologies (Google Cloud/ AWS/ Azure)\n- Caching technologies (Redis)\n- NGiNX/ Apache\n\nWhat else is on offer:\n• Excellent starting salary\n• A flat hierarchy with considerable opportunity for career progression\n\nWe value fierce skills, creativity and curiosity as the key agents of innovation towards a better future",
+      "descriptionHtml": "<p>Building a next generation alternative investments platform.</p>\n\n<p>We are looking for a Full Stack Developer to work on our Alternative Investments platform. The role would suit an ambitious Software Engineer who wants to enhance their technical skills and gain experience in finance, trading, and investment products.</p>\n\n<p>The team is small, close-knit and boasts a considerable amount of experience gained at senior levels within the some of the best investment banking, private banking and systematic hedge funds.</p>\n\n<p>You&#39;ll be building our flagship product in a small, friendly and experienced development team. The product is used by major private banks, investment banks and wealth advisors. </p>\n\n<p>&lt;- The Opportunity -&gt;<br>\nThe tech stack is modern and includes React, Redux, Typescript, Javascript, C#, .Net Core, Google Cloud Platform, NGiNx, and many more. We are a technology business that sees the value in investing in the latest tech stack.</p>\n\n<p>This role will suit a mid-level .NET Developer who&#39;s comfortable with modern JavaScript/ Typescript and React.</p>\n\n<p>Required skills for the role:</p>\n\n<ul>\n<li>C#/ .Net core</li>\n<li>Web/ REST APIs</li>\n<li>Javascript</li>\n<li>React/ Redux</li>\n<li>SQL Server</li>\n<li>Agile SDLC</li>\n<li>Git workflow</li>\n<li>Basic Linux scripting</li>\n<li>CI / CD</li>\n</ul>\n\n<p>Desirable skills for the role:</p>\n\n<ul>\n<li>Webpack</li>\n<li>Typescript</li>\n<li>Jest</li>\n<li>NodeJS/ ExpressJs</li>\n<li>Cloud Technologies (Google Cloud/ AWS/ Azure)</li>\n<li>Caching technologies (Redis)</li>\n<li>NGiNX/ Apache</li>\n</ul>\n\n<p>What else is on offer:<br>\n• Excellent starting salary<br>\n• A flat hierarchy with considerable opportunity for career progression</p>\n\n<p>We value fierce skills, creativity and curiosity as the key agents of innovation towards a better future</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "City of London"
+      ],
+      "remote": false,
+      "remoteLocations": [
+        "Europe"
+      ],
+      "skills": [
+        "Javascript",
+        "Software Development",
+        "C#",
+        "Cloud Computing",
+        "Node.js",
+        "Kanban",
+        "Git",
+        "Redis",
+        "Nginx",
+        "Agile",
+        "REST APIs",
+        "Microsoft SQL Server",
+        "Express.js",
+        "TypeScript",
+        "Linux shell scripting",
+        "React.js",
+        "Microsoft .NET",
+        "Jest",
+        "Webpack",
+        "Kubernetes",
+        "CICD"
+      ],
+      "payment": {
+        "salary": "£50k – £70k",
+        "equity": "0.0% – 0.25%"
+      },
+      "recruiter": {
+        "title": "Chief Product Architect",
+        "role": "Founder",
+        "url": "https://angel.co/u/hariton-korizis",
+        "name": "Hariton Korizis",
+        "avatar": "https://photos.angel.co/users/8117190-medium_jpg?1538854720"
+      },
+      "refs": {
+        "angelListId": "648564",
+        "angelListUrl": "https://angel.co/company/resonancex/jobs/648564-"
+      }
+    }
+  ]
+}

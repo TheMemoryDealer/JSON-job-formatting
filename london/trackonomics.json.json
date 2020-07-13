@@ -1,0 +1,93 @@
+{
+  "name": "Trackonomics",
+  "avatar": "https://photos.angel.co/startups/i/1236381-8b4944cc78437b304217e7d042d81bb4-medium_jpg.jpg?buster=1567351542",
+  "slogan": "",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.trackonomics.net"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.trackonomics.net/blogonomics-trackonomics-blog/"
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/5237368/admin/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "Tel Aviv-Yafo",
+    "London"
+  ],
+  "marketTags": [
+    "Advertising Platforms",
+    "Big Data Analytics",
+    "Digital Publishing"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Founder",
+      "role": "Employee",
+      "url": "https://angel.co/u/hanan-maayan",
+      "name": "Hanan Maayan",
+      "avatar": "https://photos.angel.co/users/2501185-medium_jpg?1467066254",
+      "bioHtml": "Founder at Trackonomics"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "1236381",
+    "angelListUrl": "https://angel.co/company/trackonomics"
+  },
+  "jobs": [
+    {
+      "role": "Sales",
+      "title": "Sales Leader",
+      "description": "",
+      "descriptionHtml": "",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£60k – £75k",
+        "equity": "0.0% – 0.5%"
+      },
+      "recruiter": {
+        "title": "Founder",
+        "role": "Employee",
+        "url": "https://angel.co/u/hanan-maayan",
+        "name": "Hanan Maayan",
+        "avatar": "https://photos.angel.co/users/2501185-medium_jpg?1467066254"
+      },
+      "refs": {
+        "angelListId": "618410",
+        "angelListUrl": "https://angel.co/company/trackonomics/jobs/618410-"
+      }
+    }
+  ]
+}

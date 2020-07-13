@@ -1,0 +1,97 @@
+{
+  "name": "Shub.one",
+  "avatar": "https://photos.angel.co/startups/i/7288319-6a1bc17018ebb74f4f4526243d2b7a0e-medium_jpg.jpg?buster=1572610145",
+  "slogan": "Business Social Media",
+  "description": "Shub.one is a social media platform designed for the business community, enabling professionals to network, promote, expand and grow their business, brand or careers. Members can post interesting news, comments, images and articles to the news stream for their followers to comment, upvote & share.\n\nWhat’s more, Shub.one is free to use. Simply sign up to begin your journey.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.shub.one"
+    },
+    {
+      "type": "blog",
+      "url": "https://medium.com/@adywheels/the-shub-one-story-d0b3955c5f96"
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Social Media Platforms"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Co Founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/mark-fryer-1",
+      "name": "Mark Fryer",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Co Founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/adrian-wheeler",
+      "name": "Adrian Wheeler",
+      "avatar": "https://photos.angel.co/users/10198477-medium_jpg?1576523281",
+      "bioHtml": "Founder of SHUB.ONE Business Social network. and AUTOCROC Auto Marketplace."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7288319",
+    "angelListUrl": "https://angel.co/company/shub-one"
+  },
+  "jobs": [
+    {
+      "role": "Sales",
+      "title": "Investor",
+      "description": "We are looking for an investor to come on board as a co founder",
+      "descriptionHtml": "<p>We are looking for an investor to come on board as a co founder</p>\n",
+      "position": "cofounder",
+      "experience": 0,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": "Co Founder",
+        "role": "Founder",
+        "url": "https://angel.co/u/adrian-wheeler",
+        "name": "Adrian Wheeler",
+        "avatar": "https://photos.angel.co/users/10198477-medium_jpg?1576523281"
+      },
+      "refs": {
+        "angelListId": "655359",
+        "angelListUrl": "https://angel.co/company/shub-one/jobs/655359-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "name": "iProov",
+  "avatar": "https://photos.angel.co/startups/i/2990836-0d95a5631b1ced9c65af41f9f57d5e00-medium_jpg.jpg?buster=1553255480",
+  "slogan": "",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.iproov.com/"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.iproov.com/newsroom/blog"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/iProov"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/iproov/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Fin Tech",
+    "Finance Technology"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/reena-singh-18",
+      "name": "Reena Singh",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/isabell-reinholz",
+      "name": "Isabell Reinholz",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Internal Recruiter",
+      "role": "Employee",
+      "url": "https://angel.co/u/alex-barzenski-1",
+      "name": "Alex Barzenski",
+      "avatar": "https://photos.angel.co/users/9114613-medium_jpg?1553596366",
+      "bioHtml": "Recruiting top tech talent for opportunities within our world-class team in London."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "2990836",
+    "angelListUrl": "https://angel.co/company/iproov"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Python Developer",
+      "description": "Join our fast expanding team as our new Senior Python Developer and contribute to our rapidly growing success.\n\nYou’ll be based in our friendly London office with 3-4 other developers working on the product. Our team is self-organising, occasionally remote with a flat-ish management structure. We have regular syncs and good communication processes to ensure nobody gets stuck. Guidance from our leadership team is provided when needed but we trust everyone to do things well and work independently.\n\nThis is a fantastic opportunity to develop technical and business skills in a fast-growing startup and to exchange knowledge and skills with a passionate and experienced team.\n\nYour Responsibilities: \n\n-Combining the challenges of a high-end secure development with the excitement of competing in a rapid growth industry\n-Work as a member of our core development team building our biometric platform with a strong focus on security and performance\n-Work with our research team to see the products of the research turned into production code\n-Support the build of our production platform on Kubernetes/Docker\n\nYour Qualifications:\n\n-Undergraduate degree in Computer Science, Engineering or similar discipline\n-Experience as part of a Development team\n-Experience with Python and other languages\n-Focus on performance, testing or security\n\nAbout You:\n\n-You have good interpersonal skills and the confidence to state a clearly reasoned and articulated viewpoint\n-You should be happy to take initiative in your tasks and be relatively self-organising\n-You’re eager to ship releases and new features\n-You’re able and willing to debate to put forward improvements to processes\n\nWe are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. Interested in working with brilliant colleagues paving the future of digital life?  We’re looking forward to receiving your CV and cover letter.",
+      "descriptionHtml": "<p>Join our fast expanding team as our new Senior Python Developer and contribute to our rapidly growing success.</p>\n\n<p>You’ll be based in our friendly London office with 3-4 other developers working on the product. Our team is self-organising, occasionally remote with a flat-ish management structure. We have regular syncs and good communication processes to ensure nobody gets stuck. Guidance from our leadership team is provided when needed but we trust everyone to do things well and work independently.</p>\n\n<p>This is a fantastic opportunity to develop technical and business skills in a fast-growing startup and to exchange knowledge and skills with a passionate and experienced team.</p>\n\n<p>Your Responsibilities: </p>\n\n<p>-Combining the challenges of a high-end secure development with the excitement of competing in a rapid growth industry<br>\n-Work as a member of our core development team building our biometric platform with a strong focus on security and performance<br>\n-Work with our research team to see the products of the research turned into production code<br>\n-Support the build of our production platform on Kubernetes/Docker</p>\n\n<p>Your Qualifications:</p>\n\n<p>-Undergraduate degree in Computer Science, Engineering or similar discipline<br>\n-Experience as part of a Development team<br>\n-Experience with Python and other languages<br>\n-Focus on performance, testing or security</p>\n\n<p>About You:</p>\n\n<p>-You have good interpersonal skills and the confidence to state a clearly reasoned and articulated viewpoint<br>\n-You should be happy to take initiative in your tasks and be relatively self-organising<br>\n-You’re eager to ship releases and new features<br>\n-You’re able and willing to debate to put forward improvements to processes</p>\n\n<p>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. Interested in working with brilliant colleagues paving the future of digital life?  We’re looking forward to receiving your CV and cover letter.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "City of London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Software Engineering",
+        "Python",
+        "Software Development",
+        "Coding",
+        "Linux",
+        "Bash",
+        "DevOps",
+        "Backend Development",
+        "Docker",
+        "Kubernetes"
+      ],
+      "payment": {
+        "salary": "£60k – £65k"
+      },
+      "recruiter": {
+        "title": "Recruiter ",
+        "role": "Employee",
+        "url": "https://angel.co/u/francesca-pal",
+        "name": "Francesca Pal",
+        "avatar": "https://photos.angel.co/users/9094881-medium_jpg?1553264768"
+      },
+      "refs": {
+        "angelListId": "568219",
+        "angelListUrl": "https://angel.co/company/iproov/jobs/568219-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Systems Administrator",
+      "description": "You’ll be based in our friendly London office collaborating closely with 3-4 colleagues. Our team is self-organising, occasionally remote with a flat-ish management structure. We have regular syncs and good communication processes to ensure nobody gets stuck. Guidance from our leadership team is provided when needed but we trust everyone to do things well and work independently. \n\nThis is a fantastic opportunity to further your team and business skills in a fast-growing startup and to exchange knowledge and skills with a passionate and experienced team.\n\nYour future responsibilities:\n- System administration of CentOS servers in the Cloud and Data Centres \n- Network design and management in the Cloud and Data Centres \n- Setup and tuning of new systems for example monitoring, logging, backups, patching in the Cloud and Data Centres \n- User management and support across all systems including implementing new systems \n- Working with and upholding ISO 27001 processes  \n- This will be a great opportunity to develop technical and business skills in a fast growing startup and to be mentored by a passionate and experienced team.\n\nYour qualifications:\n- Strong CentOS (or RHEL) skills with practical selinux experience, and working knowledge of other linux distros and OSs \n- Cloud infrastructure skills, Azure in particular \n- Data Centre skills including deployment, remote management and PXE, \nDocker & Kuberenetes  \n- Broad knowledge of infrastructure management tooling (e.g. Zabbix, Splunk, ELK, Nagios, patching, Cloud native options such as Azure Application Insights) \n- Strong desire to automate using appropriate scripts (BASH, Python, YAML) and document (Markdown) \n- Excellent interpersonal skills with the confidence to state a clearly reasoned and articulated viewpoint \n- Excellent organiser and planner with problem-solving skills, initiative and creativity\n- Degree to 2:1 level in any technical subject desirable but not essential\n\nAbout you\n- You have good interpersonal skills and the confidence to state a clearly reasoned and articulated viewpoint\n- You should be happy to take initiative in your tasks and be relatively self-organising\n- You’re eager to ship releases and new features \n- You’re able and willing to debate to put forward improvements to processes\n\nWe are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. Interested in working with brilliant colleagues paving the future of digital life?  We’re looking forward to receiving your CV and cover letter to opportunities@iproov.com.",
+      "descriptionHtml": "<p>You’ll be based in our friendly London office collaborating closely with 3-4 colleagues. Our team is self-organising, occasionally remote with a flat-ish management structure. We have regular syncs and good communication processes to ensure nobody gets stuck. Guidance from our leadership team is provided when needed but we trust everyone to do things well and work independently. </p>\n\n<p>This is a fantastic opportunity to further your team and business skills in a fast-growing startup and to exchange knowledge and skills with a passionate and experienced team.</p>\n\n<p>Your future responsibilities:</p>\n\n<ul>\n<li>System administration of CentOS servers in the Cloud and Data Centres </li>\n<li>Network design and management in the Cloud and Data Centres </li>\n<li>Setup and tuning of new systems for example monitoring, logging, backups, patching in the Cloud and Data Centres </li>\n<li>User management and support across all systems including implementing new systems </li>\n<li>Working with and upholding ISO 27001 processes<br></li>\n<li>This will be a great opportunity to develop technical and business skills in a fast growing startup and to be mentored by a passionate and experienced team.</li>\n</ul>\n\n<p>Your qualifications:</p>\n\n<ul>\n<li>Strong CentOS (or RHEL) skills with practical selinux experience, and working knowledge of other linux distros and OSs </li>\n<li>Cloud infrastructure skills, Azure in particular </li>\n<li>Data Centre skills including deployment, remote management and PXE, \nDocker &amp; Kuberenetes<br></li>\n<li>Broad knowledge of infrastructure management tooling (e.g. Zabbix, Splunk, ELK, Nagios, patching, Cloud native options such as Azure Application Insights) </li>\n<li>Strong desire to automate using appropriate scripts (BASH, Python, YAML) and document (Markdown) </li>\n<li>Excellent interpersonal skills with the confidence to state a clearly reasoned and articulated viewpoint </li>\n<li>Excellent organiser and planner with problem-solving skills, initiative and creativity</li>\n<li>Degree to 2:1 level in any technical subject desirable but not essential</li>\n</ul>\n\n<p>About you</p>\n\n<ul>\n<li>You have good interpersonal skills and the confidence to state a clearly reasoned and articulated viewpoint</li>\n<li>You should be happy to take initiative in your tasks and be relatively self-organising</li>\n<li>You’re eager to ship releases and new features </li>\n<li>You’re able and willing to debate to put forward improvements to processes</li>\n</ul>\n\n<p>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. Interested in working with brilliant colleagues paving the future of digital life?  We’re looking forward to receiving your CV and cover letter to <a href=\"mailto:opportunities@iproov.com\" target=\"_blank\" rel=\"nofollow\">opportunities@iproov.com</a>.</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Greater London",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Bash",
+        "Azure",
+        "YAML",
+        "Docker",
+        "Kubernetes"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/isabell-reinholz",
+        "name": "Isabell Reinholz",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "567199",
+        "angelListUrl": "https://angel.co/company/iproov/jobs/567199-"
+      }
+    }
+  ]
+}

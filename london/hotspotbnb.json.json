@@ -1,0 +1,153 @@
+{
+  "name": "HotspotBnB",
+  "avatar": "https://photos.angel.co/startups/i/688132-36b47d9c51a6e0285d130e47dc65f0da-medium_jpg.jpg?buster=1577074082",
+  "slogan": "Host Apps on your Wi-Fi Access Point",
+  "description": "HotspotBnB introduces apps to your wireless access point. Our free software is compatible with 5% of wireless access points in 2020 (50+ million). A figure which is expected to double by 2022.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://hotspotbnb.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://github.com/unclehowell/hbnb/releases"
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": "https://facebook.com/hotspotbnb"
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "California"
+  ],
+  "marketTags": [
+    "Telecommunications",
+    "Smart Home"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 2500000,
+    "rounds": [
+      {
+        "type": "Series A",
+        "closedAt": 1577836800,
+        "valuation": 50000000
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1433462400,
+        "valuation": 6000000
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/sion-buckler",
+      "name": "Sion Buckler",
+      "avatar": "https://photos.angel.co/users/1196985-medium_jpg?1565377927",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/hotspotbnb\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">HotspotBnB</span></a>  • Worked at <a href=\"https://angel.co/company/british-army\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">British Army</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "688132",
+    "angelListUrl": "https://angel.co/company/hotspotbnb"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "We are looking for talented Linux Software Engineers to maintain our products Operating System.",
+      "descriptionHtml": "<p>We are looking for talented Linux Software Engineers to maintain our products Operating System.</p>\n",
+      "position": "internship",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "California",
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "United States",
+        "United Kingdom"
+      ],
+      "skills": [
+        "Python",
+        "HTML/CSS/PHP/MYSQL",
+        "Unix/Linux",
+        "Technical Writing",
+        "Shell Scripting"
+      ],
+      "payment": {
+        "salary": "$24k – $60k",
+        "equity": "1.0% – 5.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/sion-buckler",
+        "name": "Sion Buckler",
+        "avatar": "https://photos.angel.co/users/1196985-medium_jpg?1565377927"
+      },
+      "refs": {
+        "angelListId": "686615",
+        "angelListUrl": "https://angel.co/company/hotspotbnb/jobs/686615-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Investment Manager",
+      "description": "A financial savvy individual with an established reputation in finance who seeks to join a startup. Working alongside the CEO and CFO to direct all matters of investor relations.",
+      "descriptionHtml": "<p>A financial savvy individual with an established reputation in finance who seeks to join a startup. Working alongside the CEO and CFO to direct all matters of investor relations.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "California",
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "United States",
+        "United Kingdom"
+      ],
+      "skills": [
+        "Fundraising",
+        "Funding",
+        "Financial Services",
+        "VC and Angel Financings",
+        "Startup Funding"
+      ],
+      "payment": {
+        "salary": "$40k – $60k",
+        "equity": "2.0% – 5.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/sion-buckler",
+        "name": "Sion Buckler",
+        "avatar": "https://photos.angel.co/users/1196985-medium_jpg?1565377927"
+      },
+      "refs": {
+        "angelListId": "686617",
+        "angelListUrl": "https://angel.co/company/hotspotbnb/jobs/686617-"
+      }
+    }
+  ]
+}

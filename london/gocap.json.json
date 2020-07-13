@@ -1,0 +1,109 @@
+{
+  "name": "GOCAP",
+  "avatar": "https://photos.angel.co/startups/i/7688107-207bf22ec7d1abe8f9a0cbdedbd13f27-medium_jpg.jpg?buster=1589200258",
+  "slogan": "Revolutionising Personal Lending",
+  "description": "There are two main mismatches in the market of personal lending:\n1.     loans are either unproportionally  expensive, considering the global low-interest environment; or\n2.     very complex and timely to attain. \n \nThe tendency of the low cost of money for ‘classic’ loan providers not being passed on to borrowers, is due to inadequate and expensive risk assessment technique for individuals. The complexity surrounding personal loans is due to the lack of automatisation of the process. Both mismatches lead to inefficient and highly under-utilised markets.\n \nThe first problem is tackled by GOCAP forecasting future income potential. Usually, loan payments are not adjusted to household income, where loans can be serviced to a higher degree in time when salary or other sources of income rise. Loan providers use a snapshot in time to determine the terms. GOCAP will determine past, present and future to structure the product as a long-term loan with the payable interest being the higher of a low fixed interest and a percentage contribution of income. The company will therefore, be able to offer more affordable loans in the initial stage, than competitors and starts to monetise once the borrower reaches higher income levels.\n \nThe second problem is solved by automating the entire lending and assessment process. A machine learning predictive model is used to quickly provide fair and individualised terms based on data points provided by the customer. The money will reach the customer within hours compared to sometimes weeks as it is the case with banks.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://gocap.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Consumer Lending",
+    "Personal Finance",
+    "Finance",
+    "Loans"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/anton-oldenburg",
+      "name": "Anton Oldenburg",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/gocap\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">GOCAP</span></a> Finance &amp; Business background (Associate Director Disruptive Capital Finance, EY transaction advisory), passed CFA level 2 and level 3 candidate"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/emanuel-grolman",
+      "name": "Emanuel Grolman",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7688107",
+    "angelListUrl": "https://angel.co/company/gocap"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Senior Data Analyst",
+      "description": "Become part in building a disruptive Fintech, aiming to revolutionise the personal lending market. \r\n\r\nWe are embarking on an ambitious and exciting jouney and need someone with the courage to become a part of it from the very beginning. Adding to our strong Fintech, business and finance background, we are looking for someone with deep  understanding of data to accelerate our set-up process at GOCAP. \r\n\r\nOur business is based around the understanding of individual data to make predictions regarding risk factors and future income potential. To be able to build our minimum viable product, we require research and testing of our key assumptions in the risk and pricing assessment. \r\n\r\nAdditionally, the position will provide the opportunity to be involved and learn about all the processes around the set up of a Fintech from scratch. Among others this will include, an FCA authorisation, research, fundraising, hiring, website and building an machine learning predictive model. \r\n\r\nRequired skills: \r\n\r\n•    Data Mining and Analysis\r\n•    Basic software development\r\n•    General Market Research and Analysis\r\n\r\nThis opportunity comes with a salary, exciting vesting options and an outlook on a permanent role as Chief Technology Officer.",
+      "descriptionHtml": "<p>Become part in building a disruptive Fintech, aiming to revolutionise the personal lending market. </p>\n\n<p>We are embarking on an ambitious and exciting jouney and need someone with the courage to become a part of it from the very beginning. Adding to our strong Fintech, business and finance background, we are looking for someone with deep  understanding of data to accelerate our set-up process at GOCAP. </p>\n\n<p>Our business is based around the understanding of individual data to make predictions regarding risk factors and future income potential. To be able to build our minimum viable product, we require research and testing of our key assumptions in the risk and pricing assessment. </p>\n\n<p>Additionally, the position will provide the opportunity to be involved and learn about all the processes around the set up of a Fintech from scratch. Among others this will include, an FCA authorisation, research, fundraising, hiring, website and building an machine learning predictive model. </p>\n\n<p>Required skills: </p>\n\n<p>•    Data Mining and Analysis<br>\n•    Basic software development<br>\n•    General Market Research and Analysis</p>\n\n<p>This opportunity comes with a salary, exciting vesting options and an outlook on a permanent role as Chief Technology Officer.</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe"
+      ],
+      "skills": [
+        "Data Mining",
+        "Software Development",
+        "Data Analysis",
+        "Data Science",
+        "Market Research and Analysis"
+      ],
+      "payment": {
+        "salary": "£18k – £35k",
+        "equity": "0.25% – 2.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/anton-oldenburg",
+        "name": "Anton Oldenburg",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "821662",
+        "angelListUrl": "https://angel.co/company/gocap/jobs/821662-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "name": "Just Capital",
+  "avatar": "https://photos.angel.co/startups/i/7366556-21ef421713fe35c23e2ef1b92555f5bb-medium_jpg.jpg?buster=1576234093",
+  "slogan": "Revenue Finance for online brands",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.just.capital"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Financial Services"
+  ],
+  "employees": null,
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/daniel-lipinski",
+      "name": "Daniel Lipinski",
+      "avatar": "https://photos.angel.co/users/753481-medium_jpg?1410445170",
+      "bioHtml": "CEO &amp; Founder- Strong commercial acumen, with a passion for achieving results in emerging markets."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7366556",
+    "angelListUrl": "https://angel.co/company/just-capital-3"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Ruby Engineer",
+      "description": "Key points:\n\njust capital has launched a new finance product and looking for a very hands on engineer to lead the way.\n\nIts a greenfield opportunity so you get to choose how things get done, the technologies and autonomy with approach.\n\nGet to market fast, we are a startup with a small but senior team and do not like over engineering (so if you like to build for building sake then this is not for you)- don't apply.\n\n \n\nWhat's the opportunity?\n\nWe're looking for an experienced Senior Full Stack Software Engineer to help us support the way businesses, do business. You will be joining a very product focused team and will lead the development process throughout the product development cycle - from new ideas all the way to implementations. If you’re passionate about the craft and process of building an exciting product from the ground up and working with great people, you’ll fit right in.\n\nWho are we?\n\njust capital is a well funded start up, building the future of revenue finance. We help businesses get access to growth capital fast and repay via a revenue share model without having to put their home on the line or lose equity. A true partnership.\n\nWe integrate with a suite of live data points, so we can create an unfiltered view of a business's performance- as and when it happens.\n\nWhat will you be doing?\n\nAs a senior engineer, you will have the opportunity to set up the standards in how the development process works. As a product focused team, we trust each individual to be autonomous and work towards are shared goals. We are fully committed in supporting one another in any way possible.\n\nAct as a champion that drives product ideas from start to completion: from research insights, to workflows all the way to visual front end.\nPrototype ideas to quickly access viability, we don’t need anything perfect.\nIterate based on feedback from the whole team.\nWork closely with the product team to ship ideas.\nWhat skills and experience do I need?\n\nWe are looking for full stack engineers that have done this before.\n\nRuby on rails \nAn appreciation of the entire product development process, from problem solving through to front end.\nThe ability to quickly built MVPs\nExcellent communicator that can articulate the thought behind proposals.\nAble to collaborate with the risk team and the wider company on strategy and delivery.\nFrontend: our design system is built with Ruby, JavaScript and Sass CSS\nInfrastructure: Heroku, AWS",
+      "descriptionHtml": "<p>Key points:</p>\n\n<p>just capital has launched a new finance product and looking for a very hands on engineer to lead the way.</p>\n\n<p>Its a greenfield opportunity so you get to choose how things get done, the technologies and autonomy with approach.</p>\n\n<p>Get to market fast, we are a startup with a small but senior team and do not like over engineering (so if you like to build for building sake then this is not for you)- don&#39;t apply.</p>\n\n<p>What&#39;s the opportunity?</p>\n\n<p>We&#39;re looking for an experienced Senior Full Stack Software Engineer to help us support the way businesses, do business. You will be joining a very product focused team and will lead the development process throughout the product development cycle - from new ideas all the way to implementations. If you’re passionate about the craft and process of building an exciting product from the ground up and working with great people, you’ll fit right in.</p>\n\n<p>Who are we?</p>\n\n<p>just capital is a well funded start up, building the future of revenue finance. We help businesses get access to growth capital fast and repay via a revenue share model without having to put their home on the line or lose equity. A true partnership.</p>\n\n<p>We integrate with a suite of live data points, so we can create an unfiltered view of a business&#39;s performance- as and when it happens.</p>\n\n<p>What will you be doing?</p>\n\n<p>As a senior engineer, you will have the opportunity to set up the standards in how the development process works. As a product focused team, we trust each individual to be autonomous and work towards are shared goals. We are fully committed in supporting one another in any way possible.</p>\n\n<p>Act as a champion that drives product ideas from start to completion: from research insights, to workflows all the way to visual front end.<br>\nPrototype ideas to quickly access viability, we don’t need anything perfect.<br>\nIterate based on feedback from the whole team.<br>\nWork closely with the product team to ship ideas.<br>\nWhat skills and experience do I need?</p>\n\n<p>We are looking for full stack engineers that have done this before.</p>\n\n<p>Ruby on rails <br>\nAn appreciation of the entire product development process, from problem solving through to front end.<br>\nThe ability to quickly built MVPs<br>\nExcellent communicator that can articulate the thought behind proposals.<br>\nAble to collaborate with the risk team and the wider company on strategy and delivery.<br>\nFrontend: our design system is built with Ruby, JavaScript and Sass CSS<br>\nInfrastructure: Heroku, AWS</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Ruby on Rails"
+      ],
+      "payment": {
+        "salary": "£60k – £80k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/daniel-lipinski",
+        "name": "Daniel Lipinski",
+        "avatar": "https://photos.angel.co/users/753481-medium_jpg?1410445170"
+      },
+      "refs": {
+        "angelListId": "681673",
+        "angelListUrl": "https://angel.co/company/just-capital-3/jobs/681673-"
+      }
+    }
+  ]
+}

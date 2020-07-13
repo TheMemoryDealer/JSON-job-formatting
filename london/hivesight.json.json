@@ -1,0 +1,182 @@
+{
+  "name": "HiveSight",
+  "avatar": "https://photos.angel.co/startups/i/7676565-39d312a958671ae30b33e9e9d1135209-medium_jpg.jpg?buster=1588741916",
+  "slogan": "A streaming service with customized movies and series",
+  "description": "A streaming service with customized movies and series. It creates unique and personal experiences for customers who might feel left out or omitted from traditional media. People of color and members of the lgbt community who only see themselves in 1-2 mainstream films a year most of which refuse to cast minority roles accurately even when those characters are based on real people.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://hivesightmedia.info/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London",
+    "Antigua and Barbuda"
+  ],
+  "marketTags": [
+    "Video Games",
+    "Film Production",
+    "Entertainment Industry",
+    "Artificial Intelligence / Machine Learning",
+    "B2B · SaaS · Mobile · Artificial Intelligence / Machine Learning"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/kai-cochrane",
+      "name": "Kai Cochrane",
+      "avatar": "https://photos.angel.co/users/11108771-medium_jpg?1588746383",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7676565",
+    "angelListUrl": "https://angel.co/company/hivesight"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "Game Lead Engineer/Programmer",
+      "description": "Some experience in building life simulation games like sims, petville, imvu, our second life. Familiarity with the core game mechanics of games like Pokemon and Street Fighter. Contribute to the vetting and selection of game development portion of team. Be able to manage a game development team with 3-5 Members.",
+      "descriptionHtml": "<p>Some experience in building life simulation games like sims, petville, imvu, our second life. Familiarity with the core game mechanics of games like Pokemon and Street Fighter. Contribute to the vetting and selection of game development portion of team. Be able to manage a game development team with 3-5 Members.</p>\n",
+      "position": "cofounder",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Antigua and Barbuda"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "India",
+        "Antigua and Barbuda",
+        "Pakistan Steel Town",
+        "Pakistan"
+      ],
+      "skills": [
+        "Python",
+        "C++",
+        "Houdini VFX",
+        "Unreal Engine 4"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "10.0% – 20.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/kai-cochrane",
+        "name": "Kai Cochrane",
+        "avatar": "https://photos.angel.co/users/11108771-medium_jpg?1588746383"
+      },
+      "refs": {
+        "angelListId": "810696",
+        "angelListUrl": "https://angel.co/company/hivesight/jobs/810696-"
+      },
+      "postedAt": 1589658810696
+    },
+    {
+      "role": "Other",
+      "title": "Data Scientist",
+      "description": "Lead a Machine Learning sub team. Some experience creating AI for antagonist in video game. Able to design/build ML/DL models for Speech synthesis, motion capture from video, audio based facial re-enactment etc. Design",
+      "descriptionHtml": "<p>Lead a Machine Learning sub team. Some experience creating AI for antagonist in video game. Able to design/build ML/DL models for Speech synthesis, motion capture from video, audio based facial re-enactment etc. Design</p>\n",
+      "position": "cofounder",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Antigua and Barbuda"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "C++",
+        "Data Mining",
+        "Microsoft Azure",
+        "Machine Learning Data Science Python"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "10.0% – 14.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/kai-cochrane",
+        "name": "Kai Cochrane",
+        "avatar": "https://photos.angel.co/users/11108771-medium_jpg?1588746383"
+      },
+      "refs": {
+        "angelListId": "810723",
+        "angelListUrl": "https://angel.co/company/hivesight/jobs/810723-"
+      },
+      "postedAt": 1589658810723
+    },
+    {
+      "role": "Designer",
+      "title": "Visual Effects Supervisor/Lead Visual Effects Artist",
+      "description": "Film Visual Effects artist, with some experience working with Game Engines, Unreal engine in particular. Someone who knows vfx workfolws in Maya and 3Dmax. Can co-ordinate a team of vfx artists to create a united vision.",
+      "descriptionHtml": "<p>Film Visual Effects artist, with some experience working with Game Engines, Unreal engine in particular. Someone who knows vfx workfolws in Maya and 3Dmax. Can co-ordinate a team of vfx artists to create a united vision.</p>\n",
+      "position": "cofounder",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Antigua and Barbuda"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Houdini VFX",
+        "Autodesk Maya",
+        "Zbrush",
+        "3D Modeling"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "10.0% – 14.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/kai-cochrane",
+        "name": "Kai Cochrane",
+        "avatar": "https://photos.angel.co/users/11108771-medium_jpg?1588746383"
+      },
+      "refs": {
+        "angelListId": "810725",
+        "angelListUrl": "https://angel.co/company/hivesight/jobs/810725-"
+      },
+      "postedAt": 1589658810725
+    }
+  ]
+}

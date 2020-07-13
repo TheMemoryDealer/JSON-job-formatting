@@ -1,0 +1,123 @@
+{
+  "name": "Datapane",
+  "avatar": "https://photos.angel.co/startups/i/826797-1eed0d7c18944af22b76a1a8cdcfb006-medium_jpg.jpg?buster=1568098356",
+  "slogan": "An API for building data-driven dashboards",
+  "description": "Datapane is building a next-generation BI platform which enables a new class of data developers to use the new open source data ecosystem instead of old proprietary platforms. Our product is an API which provides the easiest way to share and embed results from open source analyses.\n\nDatapane is backed by over 15 top-tier investors and angels from London and San Francisco, who have funded companies such as Uber, Zoom, ClassPass, and Pintrest.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://datapane.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://blog.datapane.com"
+    },
+    {
+      "type": "twitter",
+      "url": "http://www.twitter.com/datapaneapp"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Big Data Analytics",
+    "Business Intelligence",
+    "Business Analytics"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/mandeep-gill-2",
+      "name": "Mandeep Gill",
+      "avatar": "https://photos.angel.co/users/1526116-medium_jpg?1484316657",
+      "bioHtml": "Co-founder at Datapane (www.datapane.com), previously PhD Computer Science at University of Oxford."
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/leo-nstack-com",
+      "name": "Leo Anthias",
+      "avatar": "https://photos.angel.co/users/211511-medium_jpg?1441569966",
+      "bioHtml": "<a href=\"https://angel.co/company/y-combinator\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Y Combinator</span></a> S13, founder @nstack, previously CTO <a href=\"https://angel.co/company/kivo\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Kivo</span></a>"
+    },
+    {
+      "title": "VP Commercial Strategy",
+      "role": "Employee",
+      "url": "https://angel.co/u/chris-mooney",
+      "name": "Chris Mooney",
+      "avatar": "https://photos.angel.co/users/242319-medium_jpg?1567108596",
+      "bioHtml": "Interim Consultant and Founder Cloudcart • Worked at <a href=\"https://angel.co/company/ibm\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">IBM</span></a>, <a href=\"https://angel.co/company/citigroup\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Citigroup</span></a> • Studied at BSc and MSc <a href=\"https://angel.co/london-school-of-economics\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">London School of Economics</span></a>"
+    },
+    {
+      "title": "Senior Business Operations",
+      "role": "Employee",
+      "url": "https://angel.co/u/mara-livermore",
+      "name": "Mara Livermore",
+      "avatar": "https://photos.angel.co/users/5356105-medium_jpg?1520430020",
+      "bioHtml": "An analytical &amp; ambitious researcher with extensive internal &amp; external business Ops experience looking to solve problems and help build a better world."
+    },
+    {
+      "title": "",
+      "role": "Employee",
+      "url": "https://angel.co/u/jonathan-boulle-1",
+      "name": "Jonathan Boulle",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "826797",
+    "angelListUrl": "https://angel.co/company/datapane"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Data Science Evangelist Intern",
+      "description": "We are looking for a data science evangelist to join our team for the summer, where you will help create example analyses and content, and grow Datapane's user-base by engaging with the data science community.\r\n\r\nDatapane is an API and open source framework for BI and reporting in Python, so we are looking specifically for someone with a technical data background who wants to be more focused on outreach and knowledge sharing. \r\n\r\nExperience in Python data analysis is a pre-cursor, and you should be familiar with Jupyter, pandas, and be comfortable picking up visualisation libraries like Bokeh and Altair. Previous experience of data science blogging or open source contributions would be a great indicator of fit. \r\n\r\nThe work will vary day to day, but will include elements of:\r\n- Planning and developing new data science content, such as building examples analyses and templates \r\n- Reaching out to people publishing content on Twitter, GitHub, and Reddit, and helping them convert it to Datapane\r\n\r\nYou should like the idea of interacting with customers and the community and planning and writing content. You'll be working and liaising with a talented team of domain experts, data scientists, and backend engineers, and will have extensive scope to build the outbound messaging.\r\n\r\n**Please note: this is a technical role and requires proficiency in Python data analysis.**",
+      "descriptionHtml": "<p>We are looking for a data science evangelist to join our team for the summer, where you will help create example analyses and content, and grow Datapane&#39;s user-base by engaging with the data science community.</p>\n\n<p>Datapane is an API and open source framework for BI and reporting in Python, so we are looking specifically for someone with a technical data background who wants to be more focused on outreach and knowledge sharing. </p>\n\n<p>Experience in Python data analysis is a pre-cursor, and you should be familiar with Jupyter, pandas, and be comfortable picking up visualisation libraries like Bokeh and Altair. Previous experience of data science blogging or open source contributions would be a great indicator of fit. </p>\n\n<p>The work will vary day to day, but will include elements of:</p>\n\n<ul>\n<li>Planning and developing new data science content, such as building examples analyses and templates </li>\n<li>Reaching out to people publishing content on Twitter, GitHub, and Reddit, and helping them convert it to Datapane</li>\n</ul>\n\n<p>You should like the idea of interacting with customers and the community and planning and writing content. You&#39;ll be working and liaising with a talented team of domain experts, data scientists, and backend engineers, and will have extensive scope to build the outbound messaging.</p>\n\n<p><strong>Please note: this is a technical role and requires proficiency in Python data analysis.</strong></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/leo-nstack-com",
+        "name": "Leo Anthias",
+        "avatar": "https://photos.angel.co/users/211511-medium_jpg?1441569966"
+      },
+      "refs": {
+        "angelListId": "825223",
+        "angelListUrl": "https://angel.co/company/datapane/jobs/825223-"
+      }
+    }
+  ]
+}

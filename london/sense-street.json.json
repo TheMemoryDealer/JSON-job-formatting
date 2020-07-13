@@ -1,0 +1,104 @@
+{
+  "name": "Sense Street",
+  "avatar": "https://photos.angel.co/startups/i/6891086-5765b1db3c7a3c4e98fd161a291302b1-medium_jpg.jpg?buster=1555542753",
+  "slogan": "Developing Natural Language Processing Systems for Capital Markets",
+  "description": "At Sense Street we are developing natural language processing systems for capital markets.\nOur premise is simple: markets are conversations and we aim to help investment banks have better and more efficient conversations.\n\nThrough our partnerships with global banks we have access to datasets never previously made available to the research community.\nThis allows us to advance natural language processing whilst creating language models uniquely suitable for the investment banking community.\n\nThe core of our stack is natural language understanding, supported by the industrial strength engineering demanded by our clients.\nWe are an EF company founded by professionals with 40 years of experience spanning trading, quantitative research and emerging technologies.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://sensestreet.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Fin Tech"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/mathew-smith-6",
+      "name": "Mathew Smith",
+      "avatar": "https://photos.angel.co/users/8685561-medium_jpg?1557491166",
+      "bioHtml": "Co-Founder &amp; CTO <a href=\"https://angel.co/company/street-sense\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Street Sense</span></a>\n\nPreviously: \nHead of Fixed Income Trading Systems  <a href=\"https://angel.co/company/mufg-securities\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">MUFG Securities</span></a>\nQuantitative Developer <a href=\"https://angel.co/morgan\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Morgan</span></a> Stanley"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/haroon-hassan-2",
+      "name": "Haroon Hassan",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6891086",
+    "angelListUrl": "https://angel.co/company/sense-street"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Machine Learning Engineer",
+      "description": "At Sense Street we are developing natural language processing systems for capital markets. Our premise is simple: markets are conversations and we aim to help investment banks have better and more efficient conversations.\n\nThrough our partnerships with global banks we have access to datasets never previously made available to the research community. This allows us to advance natural language processing whilst creating language models uniquely suitable for the investment banking community.\n\nThe core of our stack is natural language understanding, supported by the industrial strength engineering demanded by our clients. We are an EF company founded by professionals with 40 years of experience spanning trading, quantitative research and emerging technologies.\n\nRole:\n\n- Design and develop our data engineering platform and NLP toolkits\n- Help enhance entire technology stack and performance of NLP models\n- Assist clients utilise our platform and derive value from their data\n- Keep up-to-date with developments in ML, NLP and software engineering\n\nRequired:\n\n- Solid engineering skills in Python and experience of Java or C#\n- Familiar with packages such as NumPy, Scikit-Learn and Tensorflow\n- Worked with SQL-based databases such as PostgreSQL and SQL Server\n- Experience of software development tools such as Git and GitHub\n\nPreferable:\n\n- Experience of JavaScript libraries for developing user interfaces\n- Familiar with NLP packages/tools such as spaCy, Prodigy and Snorkel\n- Utilised cloud platforms such as AWS, Microsoft Azure and Google Cloud\n- Prior experience of capital markets, machine learning or NLP\n\nBenefits:\n\n- Highly skilled team, flat hierarchy and opportunities for mentorship\n- Ability to heavily influence platform and culture from an early phase\n- Flexible working, central London location, company share option scheme\n- Budget/time for books, training and attending conferences/hackathons",
+      "descriptionHtml": "<p>At Sense Street we are developing natural language processing systems for capital markets. Our premise is simple: markets are conversations and we aim to help investment banks have better and more efficient conversations.</p>\n\n<p>Through our partnerships with global banks we have access to datasets never previously made available to the research community. This allows us to advance natural language processing whilst creating language models uniquely suitable for the investment banking community.</p>\n\n<p>The core of our stack is natural language understanding, supported by the industrial strength engineering demanded by our clients. We are an EF company founded by professionals with 40 years of experience spanning trading, quantitative research and emerging technologies.</p>\n\n<p>Role:</p>\n\n<ul>\n<li>Design and develop our data engineering platform and NLP toolkits</li>\n<li>Help enhance entire technology stack and performance of NLP models</li>\n<li>Assist clients utilise our platform and derive value from their data</li>\n<li>Keep up-to-date with developments in ML, NLP and software engineering</li>\n</ul>\n\n<p>Required:</p>\n\n<ul>\n<li>Solid engineering skills in Python and experience of Java or C#</li>\n<li>Familiar with packages such as NumPy, Scikit-Learn and Tensorflow</li>\n<li>Worked with SQL-based databases such as PostgreSQL and SQL Server</li>\n<li>Experience of software development tools such as Git and GitHub</li>\n</ul>\n\n<p>Preferable:</p>\n\n<ul>\n<li>Experience of JavaScript libraries for developing user interfaces</li>\n<li>Familiar with NLP packages/tools such as spaCy, Prodigy and Snorkel</li>\n<li>Utilised cloud platforms such as AWS, Microsoft Azure and Google Cloud</li>\n<li>Prior experience of capital markets, machine learning or NLP</li>\n</ul>\n\n<p>Benefits:</p>\n\n<ul>\n<li>Highly skilled team, flat hierarchy and opportunities for mentorship</li>\n<li>Ability to heavily influence platform and culture from an early phase</li>\n<li>Flexible working, central London location, company share option scheme</li>\n<li>Budget/time for books, training and attending conferences/hackathons</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Git",
+        "Numpy/Scipy/Pandas/Scikit-learn"
+      ],
+      "payment": {
+        "salary": "£40k – £80k",
+        "equity": "0.0% – 2.0%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Founder",
+        "url": "https://angel.co/u/mathew-smith-6",
+        "name": "Mathew Smith",
+        "avatar": "https://photos.angel.co/users/8685561-medium_jpg?1557491166"
+      },
+      "refs": {
+        "angelListId": "540408",
+        "angelListUrl": "https://angel.co/company/sense-street/jobs/540408-"
+      }
+    }
+  ]
+}

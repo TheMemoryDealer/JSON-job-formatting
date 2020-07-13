@@ -1,0 +1,106 @@
+{
+  "name": "onfriday",
+  "avatar": "https://photos.angel.co/startups/i/6913138-dda6acaa3fe83d74c41da58d16dbd6e2-medium_jpg.jpg?buster=1556556699",
+  "slogan": "It's a job matching platform",
+  "description": "It’s a job matching platform. It’s efficient - our video profiles ensure talent selection is quick and personal; accurate - our algorithm matches talents with jobs by comparing criteria; transparent - our tracker enables progress tracking of each hiring stage.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://onfriday.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Future Of Work",
+    "Search",
+    "Match-Making"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/aga-florek",
+      "name": "Aga Florek",
+      "avatar": "https://photos.angel.co/users/7433618-medium_jpg?1519326164",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/marius_uk",
+      "name": "Marius Siugzdinis",
+      "avatar": "https://photos.angel.co/users/7002382-medium_jpg?1532355515",
+      "bioHtml": "CEO / Product Designer. "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6913138",
+    "angelListUrl": "https://angel.co/company/onfriday"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Looking for a co-founder (mobile developer)",
+      "description": "Looking for a react native/ios developer (co-founder position)\n\nWhat is onfriday?\nIt’s a job matching app that makes your every day feel like Friday. It matches talent with real jobs. Talents apply with just one click and track using our timeline. See more onfriday.co.uk\n\nWhat are we looking for?\nWe are looking for a react native / iOS developer who would look to join us and change the way talent gets hired. We are looking for a co-founder, equity only at this stage.",
+      "descriptionHtml": "<p>Looking for a react native/ios developer (co-founder position)</p>\n\n<p>What is onfriday?<br>\nIt’s a job matching app that makes your every day feel like Friday. It matches talent with real jobs. Talents apply with just one click and track using our timeline. See more onfriday.co.uk</p>\n\n<p>What are we looking for?<br>\nWe are looking for a react native / iOS developer who would look to join us and change the way talent gets hired. We are looking for a co-founder, equity only at this stage.</p>\n",
+      "position": "cofounder",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "SQL",
+        "iOS Development",
+        "React Native",
+        "Swift/Objective C/iOS/Xcode"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "10.0% – 25.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/marius_uk",
+        "name": "Marius Siugzdinis",
+        "avatar": "https://photos.angel.co/users/7002382-medium_jpg?1532355515"
+      },
+      "refs": {
+        "angelListId": "568867",
+        "angelListUrl": "https://angel.co/company/onfriday/jobs/568867-"
+      }
+    }
+  ]
+}

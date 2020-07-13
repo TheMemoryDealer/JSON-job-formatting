@@ -1,0 +1,97 @@
+{
+  "name": "Certsmarket",
+  "avatar": "https://photos.angel.co/startups/i/6900245-8257f3d10bc30b8e72e1ffe5fbb2b393-medium_jpg.jpg?buster=1556801890",
+  "slogan": "technology",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.certsmarket.com/cisco-mock-tests"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Education Technology"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/linda-francis-1",
+      "name": "linda francis",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Developer at Certsmarket"
+    },
+    {
+      "title": "Developer",
+      "role": "Employee",
+      "url": "https://angel.co/u/linda-francis-1",
+      "name": "linda francis",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Developer at Certsmarket"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6900245",
+    "angelListUrl": "https://angel.co/company/certsmarket"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "SEO Expert",
+      "description": "",
+      "descriptionHtml": "",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$1k – $5k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/linda-francis-1",
+        "name": "linda francis",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "548579",
+        "angelListUrl": "https://angel.co/company/certsmarket/jobs/548579-"
+      }
+    }
+  ]
+}

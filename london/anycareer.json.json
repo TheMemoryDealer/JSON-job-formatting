@@ -1,0 +1,147 @@
+{
+  "name": "ANYCAREER",
+  "avatar": "https://photos.angel.co/startups/i/6842474-d4e7d88d2f65cffc1a3e98a51f4c5874-medium_jpg.jpg?buster=1573866949",
+  "slogan": "An online career platform powered by AI & big data",
+  "description": "Anycareer is changing the recruitment market with an online career platform. Through courses, mentors & guides powered by machine learning and big data, the platform collects data on users to optimise their career development and to automate the recruitment process. \n\nBy working closely with universities, student societies and employers, we introduce a faster, cheaper and better way of recruiting talent. Candidates can spend their time developing themselves and their skills, while consequently improving their chances of being matched with a top employer. Employers save significant time and resources while making smarter hiring decisions, with recruiting algorithms based on data profiles of their top performers. \n\nThrough employer and recruitment partners, Anycareer recruits talents from top universities to more than 4.5 million employers, specialising in the Asian and European markets. The second version of the platform will launch in Q2 2020. For more information, check out anycareer.com.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://anycareer.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/anycareer"
+    },
+    {
+      "type": "facebook",
+      "url": "https://facebook.com/anycareer"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://linkedin.com/company/anycareer"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Shenzhen"
+  ],
+  "marketTags": [
+    "Recruiting",
+    "Edtech",
+    "Artificial Intelligence",
+    "Career Planning",
+    "Big Data"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 90000,
+    "rounds": [
+      {
+        "type": "Pre-Seed",
+        "closedAt": 1533081600,
+        "valuation": 1500000
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/sunny-cui-3",
+      "name": "Sunny Cui",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/simonskuggevik",
+      "name": "Simon Skuggevik",
+      "avatar": "https://photos.angel.co/users/9056748-medium_jpg?1552418090",
+      "bioHtml": "Co-Founded Anycareer at university in UK. Recruiting international education and connect talented people with some of the biggest companies in the world. "
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/oliver-anycareer-com",
+      "name": "Oliver Horvei",
+      "avatar": "https://photos.angel.co/users/9056494-medium_jpg?1563373756",
+      "bioHtml": "Co-founder, CEO of Anycareer."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/tony-guo-4",
+      "name": "Tony Guo",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/simonskuggevik",
+      "name": "Simon Skuggevik",
+      "avatar": "https://photos.angel.co/users/9056748-medium_jpg?1552418090",
+      "bioHtml": "Co-Founded Anycareer at university in UK. Recruiting international education and connect talented people with some of the biggest companies in the world. "
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/sunny-cui-2",
+      "name": "Sunny Cui",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6842474",
+    "angelListUrl": "https://angel.co/company/anycareer"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "",
+      "descriptionHtml": "",
+      "position": "cofounder",
+      "experience": 2,
+      "visaSponsorship": true,
+      "locations": [
+        "London",
+        "Shenzhen"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Ruby on Rails",
+        "Web Technologies",
+        "Application Development"
+      ],
+      "payment": {
+        "salary": "£50k – £70k",
+        "equity": "2.5% – 5.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/oliver-anycareer-com",
+        "name": "Oliver Horvei",
+        "avatar": "https://photos.angel.co/users/9056494-medium_jpg?1563373756"
+      },
+      "refs": {
+        "angelListId": "584456",
+        "angelListUrl": "https://angel.co/company/anycareer/jobs/584456-"
+      },
+      "postedAt": 1589658584456
+    }
+  ]
+}

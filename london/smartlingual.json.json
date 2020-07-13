@@ -1,0 +1,182 @@
+{
+  "name": "Smartlingual",
+  "avatar": "https://photos.angel.co/startups/i/6859774-5fc5260f67da3683bcb91da39aed7ee7-medium_jpg.jpg?buster=1553695971",
+  "slogan": "Accurate and fast medical translation combing human expertise with machine translation",
+  "description": "A cloud-based medical translation platform integrating Deep Learning, data science and the latest advances in language technology.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.smartlingual.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "E-Commerce",
+    "Translation"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/jiawei-li-5",
+      "name": "Jiawei Li",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6859774",
+    "angelListUrl": "https://angel.co/company/smartlingual"
+  },
+  "jobs": [
+    {
+      "role": "Sales",
+      "title": "Account Executive",
+      "description": "",
+      "descriptionHtml": "",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£21k – £24k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/jiawei-li-5",
+        "name": "Jiawei Li",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "534547",
+        "angelListUrl": "https://angel.co/company/smartlingual/jobs/534547-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Data Scientist",
+      "description": "",
+      "descriptionHtml": "",
+      "position": "contract",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/jiawei-li-5",
+        "name": "Jiawei Li",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "534550",
+        "angelListUrl": "https://angel.co/company/smartlingual/jobs/534550-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Developer",
+      "description": "Smartlingual is looking for a strong and dynamic Software Engineer to join our tech team – to help create and launch our translation platform and develop the products and services that we will deliver from this platform for both external and internal clients.  \nWe need someone who has a strong DevOps mindset, who has a clear understanding of CI, CD, Unit Tests, and Application monitoring, and what tools to use – and from the get go incorporates this \"way of working\" into everything they and the team do.\n\nKey Responsibilities:\n•\tArchitect, integrate and build our translation platform\n•\tDesign & develop new projects\n•\tResearch, evaluate and adopt new technologies with a right tool for the job mentality\n•\tPrototype, fail rapidly and iterate.\n•\tFocus on both speed of delivery and quality, with suitable pragmatism\n\nRequired Skills:\n•\tJavascript – ideally previously worked with VueJS \n•\tPython – with at least 2 years’ experience\n•\tDjango framework\n•\tSQL\n\nGood to know:\n•\tDocker\n•\tRabbitMQ\n•\tAI/Deep learning\n•\tA second spoken language would be a plus\n\n To apply:\nPlease send your CV and cover letter to info@smartlingual.com, with the subject line ‘Full Stack Developer’.",
+      "descriptionHtml": "<p>Smartlingual is looking for a strong and dynamic Software Engineer to join our tech team – to help create and launch our translation platform and develop the products and services that we will deliver from this platform for both external and internal clients.<br><br>\nWe need someone who has a strong DevOps mindset, who has a clear understanding of CI, CD, Unit Tests, and Application monitoring, and what tools to use – and from the get go incorporates this &quot;way of working&quot; into everything they and the team do.</p>\n\n<p>Key Responsibilities:<br>\n• Architect, integrate and build our translation platform<br>\n• Design &amp; develop new projects<br>\n• Research, evaluate and adopt new technologies with a right tool for the job mentality<br>\n• Prototype, fail rapidly and iterate.<br>\n• Focus on both speed of delivery and quality, with suitable pragmatism</p>\n\n<p>Required Skills:<br>\n• Javascript – ideally previously worked with VueJS <br>\n• Python – with at least 2 years’ experience<br>\n• Django framework<br>\n• SQL</p>\n\n<p>Good to know:<br>\n• Docker<br>\n• RabbitMQ<br>\n• AI/Deep learning<br>\n• A second spoken language would be a plus</p>\n\n<p>To apply:<br>\nPlease send your CV and cover letter to <a href=\"mailto:info@smartlingual.com\" target=\"_blank\" rel=\"nofollow\">info@smartlingual.com</a>, with the subject line ‘Full Stack Developer’.</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Javascript",
+        "SQL",
+        "Django"
+      ],
+      "payment": {
+        "salary": "£30k – £35k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/jiawei-li-5",
+        "name": "Jiawei Li",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "528447",
+        "angelListUrl": "https://angel.co/company/smartlingual/jobs/528447-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Junior Software Engineer",
+      "description": "",
+      "descriptionHtml": "",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£23k – £26k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/jiawei-li-5",
+        "name": "Jiawei Li",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "534548",
+        "angelListUrl": "https://angel.co/company/smartlingual/jobs/534548-"
+      }
+    }
+  ]
+}

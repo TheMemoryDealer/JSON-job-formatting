@@ -1,0 +1,192 @@
+{
+  "name": "Gambit Research",
+  "avatar": "https://photos.angel.co/startups/i/6132579-fd0a80849a87eea4c83cfa8669e59cde-medium_jpg.jpg?buster=1533889911",
+  "slogan": "We develop automated tools to facilitate high-speed trading on sports betting markets",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.gambitresearch.com/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/gambit-research/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Information Technology",
+    "Gambling"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/swati-gupta-104",
+      "name": "Gambit Careers Team",
+      "avatar": "https://photos.angel.co/users/8210392-medium_jpg?1545239659",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6132579",
+    "angelListUrl": "https://angel.co/company/gambit-research-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Python Developer",
+      "description": "Purpose of the Role- As an Experienced Python Developer, you’ll be responsible for implementing new features for our system, diagnosing issues, and fixing bugs. Many of the projects you’ll work on will be oriented to provide services for our customers, and you’ll be engaged in studying and improving\nhow our customers interact with the system. Most of our components are written in Python, with C/C++ for high-performance components. They interface with external APIs and websites, as well as with our core system, which is mostly written in Erlang. This normalises offers from different sources and processes a significant number of bet placements and associated\ninformation. You’ll have the chance to get up close and personal with these systems, enhancing your experience, whilst working on projects that have a real impact on the business.\n\nResponsibilities and Duties-Your day-to-day duties will typically include:\n\n● Designing and developing enhancements to projects, mostly using Python\n● Using a range of both 1st and 3rd party libraries and technologies as appropriate for the task\n● Working in a Linux environment\n● Coordinating with team members on the development of large components\n● Analysing sources such as log files, database tables, graphs, and code to diagnose problems, and subsequently fix them\n● Researching and learning new skills and technologies as requirements evolve\n● Giving input into the potential progression of the company and its systems\n\nSkills and Competencies -You’ll have:\n\n● Previous commercial experience of programming in an object-oriented, functional, or dynamic language.\n● Experience of developing in Python\n● A working knowledge of algorithms and data structures\n● A working knowledge of relational databases and SQL, particularly PostgreSQL\n● An interest in new technologies, theoretical computer science, and/or mathematics\n● The ability to communicate well with others from a variety of backgrounds, and build strong, healthy, professional relationships\n● Problem solving skills, and the tenacity to resolve technical problems that you might not have seen before\n● Research and decision making skills, as you’ll be need to decide where to focus your learning, and what to focus on\n● The ability to work collaboratively and productively in a team, as well as on solo projects when needed\n● Openness to hear the technical suggestions of others, and find constructive\nsolutions when these disagree with your own ideas",
+      "descriptionHtml": "<p>Purpose of the Role- As an Experienced Python Developer, you’ll be responsible for implementing new features for our system, diagnosing issues, and fixing bugs. Many of the projects you’ll work on will be oriented to provide services for our customers, and you’ll be engaged in studying and improving<br>\nhow our customers interact with the system. Most of our components are written in Python, with C/C++ for high-performance components. They interface with external APIs and websites, as well as with our core system, which is mostly written in Erlang. This normalises offers from different sources and processes a significant number of bet placements and associated<br>\ninformation. You’ll have the chance to get up close and personal with these systems, enhancing your experience, whilst working on projects that have a real impact on the business.</p>\n\n<p>Responsibilities and Duties-Your day-to-day duties will typically include:</p>\n\n<p>● Designing and developing enhancements to projects, mostly using Python<br>\n● Using a range of both 1st and 3rd party libraries and technologies as appropriate for the task<br>\n● Working in a Linux environment<br>\n● Coordinating with team members on the development of large components<br>\n● Analysing sources such as log files, database tables, graphs, and code to diagnose problems, and subsequently fix them<br>\n● Researching and learning new skills and technologies as requirements evolve<br>\n● Giving input into the potential progression of the company and its systems</p>\n\n<p>Skills and Competencies -You’ll have:</p>\n\n<p>● Previous commercial experience of programming in an object-oriented, functional, or dynamic language.<br>\n● Experience of developing in Python<br>\n● A working knowledge of algorithms and data structures<br>\n● A working knowledge of relational databases and SQL, particularly PostgreSQL<br>\n● An interest in new technologies, theoretical computer science, and/or mathematics<br>\n● The ability to communicate well with others from a variety of backgrounds, and build strong, healthy, professional relationships<br>\n● Problem solving skills, and the tenacity to resolve technical problems that you might not have seen before<br>\n● Research and decision making skills, as you’ll be need to decide where to focus your learning, and what to focus on<br>\n● The ability to work collaboratively and productively in a team, as well as on solo projects when needed<br>\n● Openness to hear the technical suggestions of others, and find constructive<br>\nsolutions when these disagree with your own ideas</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Linux"
+      ],
+      "payment": {
+        "salary": "£40k – £80k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/swati-gupta-104",
+        "name": "Gambit Careers Team",
+        "avatar": "https://photos.angel.co/users/8210392-medium_jpg?1545239659"
+      },
+      "refs": {
+        "angelListId": "409803",
+        "angelListUrl": "https://angel.co/company/gambit-research-1/jobs/409803-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Erlang Developer",
+      "description": "Purpose of the Role- As an Erlang Developer, you’ll be responsible for implementing new features for our system, diagnosing issues, and fixing bugs. We have a number of components that are mostly written in Erlang, which interface with external APIs and websites, normalise offers from different sources, process large quantities of bet placements, and manage strategies. You’ll have the chance to get up close and personal with these, enhancing your experience, whilst working on projects that have a real impact on the business.\n\nResponsibilities and Duties- Your day-to-day duties will typically include:\n\n● Designing and developing enhancements to projects, and integrating them in Erlang\n● Using a range of both 1st and 3rd party libraries and technologies as appropriate for the\ntask\n● Working in a Linux environment\n● Coordinating with team members on the development of large components\n● Analysing sources such as log files, database tables, graphs, and code to diagnose\nproblems, and subsequently fix them\n● Researching and learning new skills and technologies as requirements evolve\n● Giving input into the potential progression of the company and its systems\n\nSkills and Competencies- You’ll have:\n\n● Previous commercial experience of programming in Erlang is essential. Knowledge of Python would also be a bonus, but is not essential\n● A working knowledge of algorithms and data structures\n● A working knowledge of relational databases and SQL would be very beneficial, but is not essential\n● An interest in new technologies, theoretical computer science, and/or mathematics\n● The ability to communicate well with others from a variety of backgrounds, and build strong, healthy, professional relationships\n● Problem solving skills, and the tenacity to resolve technical problems that you might not have seen before\n● Research and decision making skills, as you’ll be need to decide where to focus your learning, and what to focus on\n● The ability to work collaboratively and productively in a team, as well as on solo projects when needed\n● Openness to hear the technical suggestions of others, and find constructive\nsolutions when these disagree with your own ideas",
+      "descriptionHtml": "<p>Purpose of the Role- As an Erlang Developer, you’ll be responsible for implementing new features for our system, diagnosing issues, and fixing bugs. We have a number of components that are mostly written in Erlang, which interface with external APIs and websites, normalise offers from different sources, process large quantities of bet placements, and manage strategies. You’ll have the chance to get up close and personal with these, enhancing your experience, whilst working on projects that have a real impact on the business.</p>\n\n<p>Responsibilities and Duties- Your day-to-day duties will typically include:</p>\n\n<p>● Designing and developing enhancements to projects, and integrating them in Erlang<br>\n● Using a range of both 1st and 3rd party libraries and technologies as appropriate for the<br>\ntask<br>\n● Working in a Linux environment<br>\n● Coordinating with team members on the development of large components<br>\n● Analysing sources such as log files, database tables, graphs, and code to diagnose<br>\nproblems, and subsequently fix them<br>\n● Researching and learning new skills and technologies as requirements evolve<br>\n● Giving input into the potential progression of the company and its systems</p>\n\n<p>Skills and Competencies- You’ll have:</p>\n\n<p>● Previous commercial experience of programming in Erlang is essential. Knowledge of Python would also be a bonus, but is not essential<br>\n● A working knowledge of algorithms and data structures<br>\n● A working knowledge of relational databases and SQL would be very beneficial, but is not essential<br>\n● An interest in new technologies, theoretical computer science, and/or mathematics<br>\n● The ability to communicate well with others from a variety of backgrounds, and build strong, healthy, professional relationships<br>\n● Problem solving skills, and the tenacity to resolve technical problems that you might not have seen before<br>\n● Research and decision making skills, as you’ll be need to decide where to focus your learning, and what to focus on<br>\n● The ability to work collaboratively and productively in a team, as well as on solo projects when needed<br>\n● Openness to hear the technical suggestions of others, and find constructive<br>\nsolutions when these disagree with your own ideas</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Haskell",
+        "Erlang",
+        "Functional Programming",
+        "Elixir",
+        "Go (Golang)"
+      ],
+      "payment": {
+        "salary": "£40k – £40k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/swati-gupta-104",
+        "name": "Gambit Careers Team",
+        "avatar": "https://photos.angel.co/users/8210392-medium_jpg?1545239659"
+      },
+      "refs": {
+        "angelListId": "409809",
+        "angelListUrl": "https://angel.co/company/gambit-research-1/jobs/409809-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Junior Python Developer",
+      "description": "Purpose of the Role\nAs a Junior Gambit Developer, you’ll be responsible for implementing new features for our system, diagnosing issues, and fixing bugs. We have a number of components that are mostly written in Erlang or Python, which interface with external APIs and websites, normalise offers from different sources, process large quantities of bet placements, and manage strategies. You’ll have the chance to get up close and personal with these, enhancing your experience, whilst working on projects that have a real impact on the business. \n \nResponsibilities and Duties\nYour day-to-day duties will typically include:\n- Designing and developing enhancements to projects, and integrating them in Python\n- Using a range of both 1st and 3rd party libraries and technologies as appropriate for the task\n- Working in a Linux environment\n- Coordinating with team members on the development of large components\n- Analysing sources such as log files, database tables, graphs, and code to diagnose problems, and subsequently fix them\n- Researching and learning new skills and technologies as requirements evolve\n- Giving input into the potential progression of the company and its systems\n- Opportunities to learn about minimizing latency in Python and web technologies\n\nSkills and Competencies\nYou’ll have:\n- Previous commercial experience of programming in an object-oriented, functional, or dynamic language, particularly Python\n- Problem solving skills, and the tenacity to resolve technical problems that you might not have seen before\n- An interest in new technologies, computer science, and/or mathematics\n- A working knowledge of Linux / UNIX and/or SQL\n- The ability to communicate well with others from a variety of backgrounds, and build strong, healthy, professional relationships\n- Research and decision making skills, as you’ll be need to decide where to focus your learning, and what to focus on\n- The ability to work collaboratively and productively in a team, as well as on solo projects when needed\n- Openness to hear the technical suggestions of others, and find constructive solutions when these disagree with your own ideas\n\nQualifications and Experience\nYou’ll have the following:\n- An excellent academic record,  ideally a 2.1 (or higher) Bachelor's degree, in a relevant subject - or equivalent experience\n- Previous experience of developing in a commercial or open source environment\n- An example of programming something in python, either commercially or for fun\n- Knowledge of Internet technologies and protocols\n- Experience developing with Linux, including the use of shell utilities such as grep, sed, find\n- If possible, include evidence of having used a technology for fun, or having self-taught yourself a technology\n- Experience with a range of technologies and libraries\n- A willingness to learn languages from different families, especially Javascript and Erlang",
+      "descriptionHtml": "<p>Purpose of the Role<br>\nAs a Junior Gambit Developer, you’ll be responsible for implementing new features for our system, diagnosing issues, and fixing bugs. We have a number of components that are mostly written in Erlang or Python, which interface with external APIs and websites, normalise offers from different sources, process large quantities of bet placements, and manage strategies. You’ll have the chance to get up close and personal with these, enhancing your experience, whilst working on projects that have a real impact on the business. </p>\n\n<p>Responsibilities and Duties<br>\nYour day-to-day duties will typically include:</p>\n\n<ul>\n<li>Designing and developing enhancements to projects, and integrating them in Python</li>\n<li>Using a range of both 1st and 3rd party libraries and technologies as appropriate for the task</li>\n<li>Working in a Linux environment</li>\n<li>Coordinating with team members on the development of large components</li>\n<li>Analysing sources such as log files, database tables, graphs, and code to diagnose problems, and subsequently fix them</li>\n<li>Researching and learning new skills and technologies as requirements evolve</li>\n<li>Giving input into the potential progression of the company and its systems</li>\n<li>Opportunities to learn about minimizing latency in Python and web technologies</li>\n</ul>\n\n<p>Skills and Competencies<br>\nYou’ll have:</p>\n\n<ul>\n<li>Previous commercial experience of programming in an object-oriented, functional, or dynamic language, particularly Python</li>\n<li>Problem solving skills, and the tenacity to resolve technical problems that you might not have seen before</li>\n<li>An interest in new technologies, computer science, and/or mathematics</li>\n<li>A working knowledge of Linux / UNIX and/or SQL</li>\n<li>The ability to communicate well with others from a variety of backgrounds, and build strong, healthy, professional relationships</li>\n<li>Research and decision making skills, as you’ll be need to decide where to focus your learning, and what to focus on</li>\n<li>The ability to work collaboratively and productively in a team, as well as on solo projects when needed</li>\n<li>Openness to hear the technical suggestions of others, and find constructive solutions when these disagree with your own ideas</li>\n</ul>\n\n<p>Qualifications and Experience<br>\nYou’ll have the following:</p>\n\n<ul>\n<li>An excellent academic record,  ideally a 2.1 (or higher) Bachelor&#39;s degree, in a relevant subject - or equivalent experience</li>\n<li>Previous experience of developing in a commercial or open source environment</li>\n<li>An example of programming something in python, either commercially or for fun</li>\n<li>Knowledge of Internet technologies and protocols</li>\n<li>Experience developing with Linux, including the use of shell utilities such as grep, sed, find</li>\n<li>If possible, include evidence of having used a technology for fun, or having self-taught yourself a technology</li>\n<li>Experience with a range of technologies and libraries</li>\n<li>A willingness to learn languages from different families, especially Javascript and Erlang</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£40k – £50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/swati-gupta-104",
+        "name": "Gambit Careers Team",
+        "avatar": "https://photos.angel.co/users/8210392-medium_jpg?1545239659"
+      },
+      "refs": {
+        "angelListId": "455042",
+        "angelListUrl": "https://angel.co/company/gambit-research-1/jobs/455042-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Python / Javascript (React) Developer",
+      "description": "As a Gambit Python Developer in the Tools team, you’ll write code which helps the company discover and fix problems with the betting platform, and that helps us provide tools for spotting long-term patterns. The team works on a mixture of new feature implementation and maintenance tasks.",
+      "descriptionHtml": "<p>As a Gambit Python Developer in the Tools team, you’ll write code which helps the company discover and fix problems with the betting platform, and that helps us provide tools for spotting long-term patterns. The team works on a mixture of new feature implementation and maintenance tasks.</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Javascript",
+        "React.js"
+      ],
+      "payment": {
+        "salary": "£40k – £65k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/swati-gupta-104",
+        "name": "Gambit Careers Team",
+        "avatar": "https://photos.angel.co/users/8210392-medium_jpg?1545239659"
+      },
+      "refs": {
+        "angelListId": "522037",
+        "angelListUrl": "https://angel.co/company/gambit-research-1/jobs/522037-"
+      }
+    }
+  ]
+}

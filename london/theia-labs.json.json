@@ -1,0 +1,98 @@
+{
+  "name": "Theia Labs",
+  "avatar": "https://photos.angel.co/startups/i/5921311-f530e56a7f2025efb68d165ab1c88f9c-medium_jpg.jpg?buster=1544893078",
+  "slogan": "Computer Vision for the fitness industry",
+  "description": "Our mission is to develop a seamless and scalable solution that will allow gyms, fitness clubs and athletic centres to automate logging, tracking and analysis of data from athlete's exercise sessions and to unlock the potential of data that historically has been very challenging to access",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.theialabs.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Fitness",
+    "Computer Vision",
+    "Deep Learning"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/eduard-kim",
+      "name": "Eduard Kim",
+      "avatar": "https://photos.angel.co/users/885262-medium_jpg?1529933487",
+      "bioHtml": "Product person currently exploring applications of Computer Vision. In the past co-founded a social networking platform and a real estate development company."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5921311",
+    "angelListUrl": "https://angel.co/company/theia-labs"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Technical Co-founder",
+      "description": "Who we are\n\nAt Theia Labs we want to make personalised and data-driven fitness accessible to everyone by leveraging Computer Vision to create a truly scalable connected gym experience. Our vision that CV powered cameras will seamlessly extract athlete's data in real time keeping the log of their workouts, performance and achievements\n\nWe want to give gym operators the ability to leverage this data to engage and motivate existing members, provide scalable personal trainer experience and win new business through use of cutting-edge technology.\n\nYou can learn more about the concept by watching our explainer video:\nhttps://vimeo.com/304442703 \n\nTheia Labs has a strong pipeline of 8 independent gyms/small gym chains looking to pilot our MVP and we are formally advised by one of the most respected academic minds in the Computer Vision space\n\nWhat is this for\n\nWe are looking for smart, entrepreneurial people passionate about fitness, technology and Machine Learning, to join our growing founding team. Potential co-founder, is someone resilient and willing to learn and grow with the business, someone who’s ready to get hands on with technology but also able to make hard business decisions and take risks. \n\nWhat’s in it for you\n* Become a founding member of an early stage startup\n* Significant equity\n* Work on something that has truly never been attempted before (we checked)\n* Become part of the team of smart, passionate people, willing to do whatever it takes to make a difference\n\nInterested and want to learn more? Drop me an email: ed@theialabs.co.uk",
+      "descriptionHtml": "<p>Who we are</p>\n\n<p>At Theia Labs we want to make personalised and data-driven fitness accessible to everyone by leveraging Computer Vision to create a truly scalable connected gym experience. Our vision that CV powered cameras will seamlessly extract athlete&#39;s data in real time keeping the log of their workouts, performance and achievements</p>\n\n<p>We want to give gym operators the ability to leverage this data to engage and motivate existing members, provide scalable personal trainer experience and win new business through use of cutting-edge technology.</p>\n\n<p>You can learn more about the concept by watching our explainer video:<br>\n<a href=\"https://vimeo.com/304442703\" target=\"_blank\" rel=\"nofollow\">https://vimeo.com/304442703</a> </p>\n\n<p>Theia Labs has a strong pipeline of 8 independent gyms/small gym chains looking to pilot our MVP and we are formally advised by one of the most respected academic minds in the Computer Vision space</p>\n\n<p>What is this for</p>\n\n<p>We are looking for smart, entrepreneurial people passionate about fitness, technology and Machine Learning, to join our growing founding team. Potential co-founder, is someone resilient and willing to learn and grow with the business, someone who’s ready to get hands on with technology but also able to make hard business decisions and take risks. </p>\n\n<p>What’s in it for you</p>\n\n<ul>\n<li>Become a founding member of an early stage startup</li>\n<li>Significant equity</li>\n<li>Work on something that has truly never been attempted before (we checked)</li>\n<li>Become part of the team of smart, passionate people, willing to do whatever it takes to make a difference</li>\n</ul>\n\n<p>Interested and want to learn more? Drop me an email: <a href=\"mailto:ed@theialabs.co.uk\" target=\"_blank\" rel=\"nofollow\">ed@theialabs.co.uk</a></p>\n",
+      "position": "cofounder",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Software Engineering",
+        "Python",
+        "Machine Learning",
+        "Computer Vision",
+        "Deep Learning"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "30.0% – 32.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/eduard-kim",
+        "name": "Eduard Kim",
+        "avatar": "https://photos.angel.co/users/885262-medium_jpg?1529933487"
+      },
+      "refs": {
+        "angelListId": "412482",
+        "angelListUrl": "https://angel.co/company/theia-labs/jobs/412482-"
+      }
+    }
+  ]
+}

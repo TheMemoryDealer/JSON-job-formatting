@@ -1,0 +1,107 @@
+{
+  "name": "Vivid IoV Labs",
+  "avatar": "https://photos.angel.co/startups/i/7694867-4561e3f4485882c30b9e8c74c152f78c-medium_jpg.jpg?buster=1589397486",
+  "slogan": "Live streaming on demand platform with enhanced web monetisation functions",
+  "description": "Vivid revolutionises how content creators get rewarded for live streaming. Incumbents take 50% from creators revenues, depriving them of $1.5bn earnings per year. With Vivid, creators can answer user requests or set terms for their own content. This method allows users to get paid fairly rather than having to resort to clickbait tactics to entice viewers with a cluttered ad-driven experience.\n\nWe are also creating standalone tools to enhance Web Monetisation tech incl. 1) enabling users to stream micropayments P2P with a crypto address-free interface using $ and usernames & 2) pooling & splitting payments e.g. top sharers of quality content get rewarded.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.vividiov.com/"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.vividiov.com/blog"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/vividiov"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/vividiov"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/vivid-iov-labs"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Video Streaming",
+    "Online Video Advertising",
+    "Cryptocurrency",
+    "Blockchain / Cryptocurrency"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/ben-c-marshall",
+      "name": "Ben Marshall",
+      "avatar": "https://photos.angel.co/users/11148683-medium_jpg?1589398441",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/greg-hannam",
+      "name": "Greg Hannam",
+      "avatar": "https://photos.angel.co/users/5254603-medium_jpg?1535986637",
+      "bioHtml": "Pathologically curious. Solving big problems through technology. Operations and products now previously Engineer and BI Consultant."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7694867",
+    "angelListUrl": "https://angel.co/company/vivid-iov-labs"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "We are looking for mostly technical skills as per below, however if you think you could add something we would be pleased to hear from you!\r\n\r\nThe following skills or experience are our priorities:\r\n\r\nVue JS experience or willing to learn\r\nNode JS experience or willing to learn\r\nLive video streaming experience or similar production environment:\r\n\r\nUnderstanding of video technologies including: encoding, compression, streaming, formats, bit-rates, multicasting.\r\nUnderstanding of HTTP Live Streaming (HLS), MPEG Dash specification, RTMP and RTSP\r\nUnderstanding of video codecs such as H.264/AVC and H.265/HEVC\r\nUnderstanding of systems for over-the-top (OTT) delivery\r\nAppreciation for Digital Rights Management (DRM) solutions (e.g. Marlin, CENC, FairPlay)\r\nExperience of encoding hardware / software, i.e. ffmpeg, Harmonic, Elemental\r\nBlockchain:\r\n\r\nInterledger JS experience or willing to learn\r\nRust / Solidity Smart Contract experience or willing to learn\r\nDesign:\r\n\r\nUI/UX experience including HTML + CSS skills\r\nEqually important is being a complementary fit into the team.\r\n\r\nInterpersonal:\r\n\r\nMotivated - you will be in frequent communication with your teammates, but the ability to work autonomously is key\r\nFlexible - expect lots to change as we navigate uncharted waters, we approach every challenge with an open mind\r\nActive listener - allow the speaker to fully engage, but always willing to put your own ideas forward\r\nTeamwork - not afraid to chip in and get involved in anything to help the progress of the company\r\nResponsible - take ownership and acts in the best interests of the company &amp; its values\r\nDependable - consistent in your approach and a reliable pair of hands under pressure is of the utmost importance for us as we move quickly",
+      "descriptionHtml": "<p>We are looking for mostly technical skills as per below, however if you think you could add something we would be pleased to hear from you!</p>\n\n<p>The following skills or experience are our priorities:</p>\n\n<p>Vue JS experience or willing to learn<br>\nNode JS experience or willing to learn<br>\nLive video streaming experience or similar production environment:</p>\n\n<p>Understanding of video technologies including: encoding, compression, streaming, formats, bit-rates, multicasting.<br>\nUnderstanding of HTTP Live Streaming (HLS), MPEG Dash specification, RTMP and RTSP<br>\nUnderstanding of video codecs such as H.264/AVC and H.265/HEVC<br>\nUnderstanding of systems for over-the-top (OTT) delivery<br>\nAppreciation for Digital Rights Management (DRM) solutions (e.g. Marlin, CENC, FairPlay)<br>\nExperience of encoding hardware / software, i.e. ffmpeg, Harmonic, Elemental<br>\nBlockchain:</p>\n\n<p>Interledger JS experience or willing to learn<br>\nRust / Solidity Smart Contract experience or willing to learn<br>\nDesign:</p>\n\n<p>UI/UX experience including HTML + CSS skills<br>\nEqually important is being a complementary fit into the team.</p>\n\n<p>Interpersonal:</p>\n\n<p>Motivated - you will be in frequent communication with your teammates, but the ability to work autonomously is key<br>\nFlexible - expect lots to change as we navigate uncharted waters, we approach every challenge with an open mind<br>\nActive listener - allow the speaker to fully engage, but always willing to put your own ideas forward<br>\nTeamwork - not afraid to chip in and get involved in anything to help the progress of the company<br>\nResponsible - take ownership and acts in the best interests of the company &amp; its values<br>\nDependable - consistent in your approach and a reliable pair of hands under pressure is of the utmost importance for us as we move quickly</p>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Node.js",
+        "Blockchain",
+        "Vue.Js",
+        "VueJS",
+        "NodeJS"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "% – 5.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/ben-c-marshall",
+        "name": "Ben Marshall",
+        "avatar": "https://photos.angel.co/users/11148683-medium_jpg?1589398441"
+      },
+      "refs": {
+        "angelListId": "823508",
+        "angelListUrl": "https://angel.co/company/vivid-iov-labs/jobs/823508-"
+      }
+    }
+  ]
+}

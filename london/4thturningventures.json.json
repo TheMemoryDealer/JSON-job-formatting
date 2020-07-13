@@ -1,0 +1,98 @@
+{
+  "name": "Fourth Turning Ventures",
+  "avatar": "https://photos.angel.co/startups/i/7019253-1f57c129ff72886ed6969110871f3110-medium_jpg.jpg?buster=1561119107",
+  "slogan": "Employing traditional and new financial strategies to generate alpha in the crypto market",
+  "description": "Our product will be managing investors money to deliver alpha.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.google.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Venture Capital",
+    "Hedge Funds",
+    "Blockchain / Cryptocurrency"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/alexander-beasant",
+      "name": "Alexander Beasant",
+      "avatar": "https://photos.angel.co/users/2274570-medium_jpg?1554194642",
+      "bioHtml": "I founded the incubator for new products and services at Deloitte Ventures. I moonlight as an investor in the blockchain and cryptocurrency ecosystem."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7019253",
+    "angelListUrl": "https://angel.co/company/4thturningventures"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "Crypto Hedge Fund/Quant trader",
+      "description": "I am looking for a co-founder with expertise in the 'traditional' financial markets, specifically in a hedge fund and/or other investment vehicle. It is envisioned that the fund will apply a number of investment approaches to generate alpha from the emerging crypto asset space including venture investing, generalised mining and complex mathematical models to predict investment opportunities. I am looking for a co-founder from a quantitative background with a blend of mathematics and programming expertise who has built models in the past and can demonstrate how these would be applied to the crypto asset markets.",
+      "descriptionHtml": "<p>I am looking for a co-founder with expertise in the &#39;traditional&#39; financial markets, specifically in a hedge fund and/or other investment vehicle. It is envisioned that the fund will apply a number of investment approaches to generate alpha from the emerging crypto asset space including venture investing, generalised mining and complex mathematical models to predict investment opportunities. I am looking for a co-founder from a quantitative background with a blend of mathematics and programming expertise who has built models in the past and can demonstrate how these would be applied to the crypto asset markets.</p>\n",
+      "position": "cofounder",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Programming",
+        "Mathematics",
+        "Financial Modeling",
+        "Financial Engineering",
+        "Hedge Funds"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "50.0% – 50.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/alexander-beasant",
+        "name": "Alexander Beasant",
+        "avatar": "https://photos.angel.co/users/2274570-medium_jpg?1554194642"
+      },
+      "refs": {
+        "angelListId": "577496",
+        "angelListUrl": "https://angel.co/company/4thturningventures/jobs/577496-"
+      }
+    }
+  ]
+}

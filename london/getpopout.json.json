@@ -1,0 +1,92 @@
+{
+  "name": "Popout",
+  "avatar": "https://photos.angel.co/startups/i/7453771-32d9e4306a126e4e983dc53114fae861-medium_jpg.jpg?buster=1580339654",
+  "slogan": "Book your next date",
+  "description": "Popout simplifies the whole concept of online dating by simply booking a date, specifying the time and the place (the venue).\nBy defining a meeting in the near future, users will just need to show interest and discuss the actual date and get to know each other in person.\n\nCheck out the website: https://popout.ws/\n\nDownload Popout: https://itunes.apple.com/us/app/popout/id1354494077?ls=1&mt=9",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://popout.ws/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Greater London"
+  ],
+  "marketTags": [
+    "Digital Entertainment",
+    "Social Network"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/rhea-asani",
+      "name": "Rhea Asani",
+      "avatar": "https://photos.angel.co/users/10187251-medium_jpg?1580156272",
+      "bioHtml": "Co-Founder of Seecceed - Be seen with one job application\n"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7453771",
+    "angelListUrl": "https://angel.co/company/getpopout"
+  },
+  "jobs": [
+    {
+      "role": "Marketing",
+      "title": "Marketing Specialist- Co-Founder",
+      "description": "Develop a social campaign and strategy\nBuild awareness and grow following (organically)\nBranding + Optimisation. \nCreate Content Marketing\nMonthly Analytics\nBuild a Hashtag \nWork with influencers to promote brand",
+      "descriptionHtml": "<p>Develop a social campaign and strategy<br>\nBuild awareness and grow following (organically)<br>\nBranding + Optimisation. <br>\nCreate Content Marketing<br>\nMonthly Analytics<br>\nBuild a Hashtag <br>\nWork with influencers to promote brand</p>\n",
+      "position": "cofounder",
+      "experience": 5,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary",
+        "equity": "% – 3.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/rhea-asani",
+        "name": "Rhea Asani",
+        "avatar": "https://photos.angel.co/users/10187251-medium_jpg?1580156272"
+      },
+      "refs": {
+        "angelListId": "709296",
+        "angelListUrl": "https://angel.co/company/getpopout/jobs/709296-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "name": "Neugo",
+  "avatar": "https://photos.angel.co/startups/i/7277081-fba061add777057cb6af6897f4fe6dd1-medium_jpg.jpg?buster=1574012541",
+  "slogan": "A platform using ML to improve student efficiency",
+  "description": "Neugo App is a social platform which allows its users to competitively track and improve their study habits. Users share information such as; where they studied, how long for, what they studied combined with specific university information such as modules,deadlines and coursework dates through our association with universities across the UK. The compounded data obtained from users is used by our algorithms to assimilate and evolve each users' personal style order to better tailor advice, challenges and competitions towards each student. For users its a simple way to take the stress out of studying.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://notiveyet.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Education Technology",
+    "Education",
+    "Artificial Intelligence / Machine Learning"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/neugo1",
+      "name": " Cecil Newman",
+      "avatar": "https://photos.angel.co/users/10173875-medium_jpg?1574011427",
+      "bioHtml": "Undergrad in Chemical Engineering, Currently work at top 3 investment bank with experience sales. I focus on our Relationship Development&amp;Strategy."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7277081",
+    "angelListUrl": "https://angel.co/company/neugo"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Principal Software Engineer",
+      "description": "As a principal software engineer you will be responsible for developing a mobile app demo for prospective seed investors. We are looking for someone who has experience developing MVPs quickly and who has an interest in Neugo's vision. \n\nIdeally, you will be have an interest in startup businesses and the idea of being an equity holding co-founder will be enticing to you.\n\nRequirements: \n- A love of software engineering demonstrated by links to public software projects \n- Experience with Javascript and React Native\n- Familiarity with Python and Django\n- Previous front end web development skills including HTML and CSS",
+      "descriptionHtml": "<p>As a principal software engineer you will be responsible for developing a mobile app demo for prospective seed investors. We are looking for someone who has experience developing MVPs quickly and who has an interest in Neugo&#39;s vision. </p>\n\n<p>Ideally, you will be have an interest in startup businesses and the idea of being an equity holding co-founder will be enticing to you.</p>\n\n<p>Requirements: </p>\n\n<ul>\n<li>A love of software engineering demonstrated by links to public software projects </li>\n<li>Experience with Javascript and React Native</li>\n<li>Familiarity with Python and Django</li>\n<li>Previous front end web development skills including HTML and CSS</li>\n</ul>\n",
+      "position": "cofounder",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Javascript",
+        "HTML",
+        "CSS",
+        "React Native"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "25.0% – 30.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/neugo1",
+        "name": " Cecil Newman",
+        "avatar": "https://photos.angel.co/users/10173875-medium_jpg?1574011427"
+      },
+      "refs": {
+        "angelListId": "651455",
+        "angelListUrl": "https://angel.co/company/neugo/jobs/651455-"
+      }
+    }
+  ]
+}

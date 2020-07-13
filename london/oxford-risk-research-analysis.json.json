@@ -1,0 +1,123 @@
+{
+  "name": "Oxford Risk",
+  "avatar": "https://photos.angel.co/startups/i/5907556-0f2741f28b1bfcb22a1604587ddd4f24-medium_jpg.jpg?buster=1536666456",
+  "slogan": "Behavioural finance decision tools, investor risk profiling",
+  "description": "Our software helps financial institutions efficiently personalise advice and service. We improve client outcomes using behavioural finance and data analytics.\n\nOur software is used by financial advisers, wealth managers and banks. Our operating model is B2B2C SaaS accessible via API or our own web app. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.oxfordrisk.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@oxfordriskltd"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/oxford-risk/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Financial Services",
+    "Wealth Management",
+    "Behavioural Science",
+    "Insurance"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 500000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1537920000,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/greg-davies-2",
+      "name": "Greg Davies",
+      "avatar": "https://photos.angel.co/users/9916303-medium_jpg?1567684445",
+      "bioHtml": "Expert in applied behavioural finance, decision science, impact investing, financial wellbeing, and FinTech."
+    },
+    {
+      "title": "Software Developer",
+      "role": "Employee",
+      "url": "https://angel.co/u/adrian-bompa",
+      "name": "Adrian Bompa",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at Oxford Risk"
+    },
+    {
+      "title": "",
+      "role": "Employee",
+      "url": "https://angel.co/u/daniel-conaghan-940",
+      "name": "Daniel Conaghan",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5907556",
+    "angelListUrl": "https://angel.co/company/oxford-risk-research-analysis"
+  },
+  "jobs": [
+    {
+      "role": "Sales",
+      "title": "Business Development Director",
+      "description": "Experienced business development role to bring Oxford Risk's unique behavioural finance solutions to banks and financial services firms in Western Europe.",
+      "descriptionHtml": "<p>Experienced business development role to bring Oxford Risk&#39;s unique behavioural finance solutions to banks and financial services firms in Western Europe.</p>\n",
+      "position": "full-time",
+      "experience": 7,
+      "visaSponsorship": false,
+      "locations": [
+        "Germany",
+        "Switzerland",
+        "Western Europe"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Western Europe"
+      ],
+      "skills": [
+        "Financial Services",
+        "Insurance",
+        "Wealth Management",
+        "Financial Regulation"
+      ],
+      "payment": {
+        "salary": "€60k – €80k"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/marcus-quierin-1",
+        "name": "Marcus Quierin",
+        "avatar": "https://photos.angel.co/users/3785463-medium_jpg?1473920415"
+      },
+      "refs": {
+        "angelListId": "425924",
+        "angelListUrl": "https://angel.co/company/oxford-risk-research-analysis/jobs/425924-"
+      }
+    }
+  ]
+}

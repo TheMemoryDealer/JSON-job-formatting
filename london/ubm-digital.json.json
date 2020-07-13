@@ -1,0 +1,98 @@
+{
+  "name": "UBM Digital",
+  "avatar": "https://photos.angel.co/startups/i/6287830-346064bf989245a3f450b5ce4c5d6919-medium_jpg.jpg?buster=1536609309",
+  "slogan": "London based Digital software consultancy",
+  "description": "We are a London based digital development consultancy, developing using leading edge technologies, developing high level sites and systems across a range of London's most prestigious companies",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://ubmdig.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Digital Media",
+    "Financial Services",
+    "Ecommerce"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/andy-greyson",
+      "name": "Andy Greyson",
+      "avatar": "https://photos.angel.co/users/8339319-medium_jpg?1536609413",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6287830",
+    "angelListUrl": "https://angel.co/company/ubm-digital"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "PHP Developer with MVC experience – London City - 40-70k",
+      "description": "PHP Developer with MVC experience – London City  - 40-70k\n\nWe are UBM Digital a London based Software development consultancy company, we build websites and applications for London’s most prestigious companies. UBM Digital are a relatively new company however we are backed by our sister company that have been in business for decades and are a leader in their field “Market-leading events”.\n\nWe are currently recruiting for an Open Source programmer, highly skilled in object-oriented PHP. You will need to have a background and experience in MVC Frameworks, the ideal framework would be Symfony but we would consider Laravel or other framewors. JavaScript frameworks like: Angular, React, Node or Vue would be a distinct advantage. This role is going to be working on a Large ecommerce project for one of our key clients, so any ecommerce or high traffic web site experience would be advantageous too.\nThe selected candidate will have the opportunity to work in our London office and remotely from time to time if required. We provide all our staff with a company phone and laptop with a yearly software and book allowance. We have an awesome benefits package, Gym and Bonus scheme as standard.\n\nFor more information on this position please email; andy@ubmdig.com",
+      "descriptionHtml": "<p>PHP Developer with MVC experience – London City  - 40-70k</p>\n\n<p>We are UBM Digital a London based Software development consultancy company, we build websites and applications for London’s most prestigious companies. UBM Digital are a relatively new company however we are backed by our sister company that have been in business for decades and are a leader in their field “Market-leading events”.</p>\n\n<p>We are currently recruiting for an Open Source programmer, highly skilled in object-oriented PHP. You will need to have a background and experience in MVC Frameworks, the ideal framework would be Symfony but we would consider Laravel or other framewors. JavaScript frameworks like: Angular, React, Node or Vue would be a distinct advantage. This role is going to be working on a Large ecommerce project for one of our key clients, so any ecommerce or high traffic web site experience would be advantageous too.<br>\nThe selected candidate will have the opportunity to work in our London office and remotely from time to time if required. We provide all our staff with a company phone and laptop with a yearly software and book allowance. We have an awesome benefits package, Gym and Bonus scheme as standard.</p>\n\n<p>For more information on this position please email; <a href=\"mailto:andy@ubmdig.com\" target=\"_blank\" rel=\"nofollow\">andy@ubmdig.com</a></p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "PHP",
+        "Javascript",
+        "Mvc"
+      ],
+      "payment": {
+        "salary": "£50k – £70k",
+        "equity": "5.0% – 2.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/andy-greyson",
+        "name": "Andy Greyson",
+        "avatar": "https://photos.angel.co/users/8339319-medium_jpg?1536609413"
+      },
+      "refs": {
+        "angelListId": "425260",
+        "angelListUrl": "https://angel.co/company/ubm-digital/jobs/425260-"
+      },
+      "postedAt": 1589658425260
+    }
+  ]
+}

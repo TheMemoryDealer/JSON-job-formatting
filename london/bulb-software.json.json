@@ -1,0 +1,231 @@
+{
+  "name": "Bulb Software",
+  "avatar": "https://photos.angel.co/startups/i/881078-45afc73c74a4efcefdb35c898f660d5a-medium_jpg.jpg?buster=1586862289",
+  "slogan": "Helping growing businesses manage their physical assets in an easy and affordable way",
+  "description": "Here's the thing, companies finance many physical assets that cost them money if they don't track them well. The problem is, once they've reached a number of assets (typically more than 50 assets) trying to do this with paperwork or excel spreadsheets becomes a nightmare! \n\nOur Virtual Asset Manager platform, BulbThings, helps customers with 3 main things:\n1- Consolidate all data about their assets in one place and keep a history of everything (e.g. location, events, costs) \n2- Automate many tasks (e.g. allocation/booking of assets, tracking maintenances and jobs, renewals at end of life etc) and work more efficiently\n3- Get action-oriented smart alerts and real-time analytics from many sources of data (IoT sensors, customer input, suppliers data, external APIs etc.). We use machine learning and automated workflows to make more accurate recommendations and take automated actions for our customers.\n\nFRESH NEWS: We're just about to launch a complete new version of our product (check out our Twitter for announcements). We'll also be making our API and SDK available to 3rd party developers and partners.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.bulbthings.com"
+    },
+    {
+      "type": "blog",
+      "url": "http://bulbthings.tumblr.com"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@bulbthings"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "http://linkedin.com/linkd.in/1pil1sx"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Enterprise Software",
+    "Internet of Things",
+    "SaaS",
+    "Big Data Analytics"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 1250000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1465948800,
+        "valuation": 3600000
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1445212800,
+        "valuation": 2000000
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "Chief Architect",
+      "role": "Founder",
+      "url": "https://angel.co/u/stephane-mariel",
+      "name": "Stephane Mariel",
+      "avatar": "https://photos.angel.co/users/1646678-medium_jpg?1449347277",
+      "bioHtml": "https://fr.linkedin.com/in/smariel"
+    },
+    {
+      "title": "Chief Product Officer",
+      "role": "Founder",
+      "url": "https://angel.co/u/yann-depond",
+      "name": "Yann Depond",
+      "avatar": "https://photos.angel.co/users/1769130-medium_jpg?1449347340",
+      "bioHtml": "LinkedIn: http://tiny.cc/je276x"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/leslie-depond-valleray",
+      "name": "Leslie Depond-Valleray",
+      "avatar": "https://photos.angel.co/users/1646612-medium_jpg?1449347528",
+      "bioHtml": "CEO\nhttps://uk.linkedin.com/in/leslie-depond-valleray-7b33aa2"
+    },
+    {
+      "title": "Product and Special Projects Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/matthew-sharp-3",
+      "name": "Matthew Sharp",
+      "avatar": "https://photos.angel.co/users/4390230-medium_jpg?1478257665",
+      "bioHtml": "Software engineer, product manager. Ex Founder of Toshka. Looking for a new challenge. Degree in Mathematics"
+    },
+    {
+      "title": "IoT and data engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/diego-moran-jurado",
+      "name": "Diego Moran Jurado",
+      "avatar": "https://photos.angel.co/users/6449233-medium_jpg?1496324087",
+      "bioHtml": "Worked a year at Technicolor R&amp;D and 6 months at Creawave (TTS start-up). Several development experiences, I&#39;m drawn toward start-up for my next opportunity!"
+    },
+    {
+      "title": "CTO",
+      "role": "Employee",
+      "url": "https://angel.co/u/florian-magot",
+      "name": "Florian Magot",
+      "avatar": "https://photos.angel.co/users/1675420-medium_jpg?1494879730",
+      "bioHtml": "CTO <a href=\"https://angel.co/company/bulb-software\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Bulb Software</span></a> "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "881078",
+    "angelListUrl": "https://angel.co/company/bulb-software"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Data and IoT engineer (interns or full-time juniors)",
+      "description": "We're looking for a smart Data and IoT engineer who gets excited about solving complex data problems and building smart apps. This role is also opened to Bsc-level interns that can demonstrate passion for coding/software development (through academic and personal projects).\n\nWHAT YOU WILL BE DOING:\n- Research and test IoT technologies\n- Build API integrations and develop relevant features/analytics\n- Help develop/maintain our platform SDK\n\nMUST HAVES: \n- M.Sc/M.Eng or B.Sc/B.Eng in computer science/applied mathematics\n- 1 to 3 years of backend development and/or data engineering experience, preferably with enterprise software/SaaS platforms. \n- Experience with the following technologies : REST API, Node JS, PostresSQL, NoSQL\n- Can break down and solve complex problems - very analytical\n- You have strong work ethic and are autonomous \n\nNICE TO HAVES: \n- Previous experience developing IoT solutions\n- Previous experience and/or strong interest in big data and machine learning technologies\n- Speaks another foreign language (e.g. Italian, Spanish, German, French)\n\nSALARY/COMPENSATION:\nWe believe a small team of rock stars can accomplish at least 10x more than an average team so we recruit very selectively and for the right candidate our salary/compensation package can be pretty competitive. We also offer flexible/remote working conditions however team get-togethers are required from time to time, especially during your onboarding (expect somewhere fun in South Europe, but that's a surprise!), so you need to be opened to travel.\n\nPLEASE NOTE: We currently only accept remote workers from the UK and Europe.",
+      "descriptionHtml": "<p>We&#39;re looking for a smart Data and IoT engineer who gets excited about solving complex data problems and building smart apps. This role is also opened to Bsc-level interns that can demonstrate passion for coding/software development (through academic and personal projects).</p>\n\n<p>WHAT YOU WILL BE DOING:</p>\n\n<ul>\n<li>Research and test IoT technologies</li>\n<li>Build API integrations and develop relevant features/analytics</li>\n<li>Help develop/maintain our platform SDK</li>\n</ul>\n\n<p>MUST HAVES: </p>\n\n<ul>\n<li>M.Sc/M.Eng or B.Sc/B.Eng in computer science/applied mathematics</li>\n<li>1 to 3 years of backend development and/or data engineering experience, preferably with enterprise software/SaaS platforms. </li>\n<li>Experience with the following technologies : REST API, Node JS, PostresSQL, NoSQL</li>\n<li>Can break down and solve complex problems - very analytical</li>\n<li>You have strong work ethic and are autonomous </li>\n</ul>\n\n<p>NICE TO HAVES: </p>\n\n<ul>\n<li>Previous experience developing IoT solutions</li>\n<li>Previous experience and/or strong interest in big data and machine learning technologies</li>\n<li>Speaks another foreign language (e.g. Italian, Spanish, German, French)</li>\n</ul>\n\n<p>SALARY/COMPENSATION:<br>\nWe believe a small team of rock stars can accomplish at least 10x more than an average team so we recruit very selectively and for the right candidate our salary/compensation package can be pretty competitive. We also offer flexible/remote working conditions however team get-togethers are required from time to time, especially during your onboarding (expect somewhere fun in South Europe, but that&#39;s a surprise!), so you need to be opened to travel.</p>\n\n<p>PLEASE NOTE: We currently only accept remote workers from the UK and Europe.</p>\n",
+      "position": "internship",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe",
+        "United Kingdom"
+      ],
+      "skills": [
+        "REST APIs",
+        "IoT",
+        "Algorithms & Data Structures",
+        "Front-End/Full-Stack (UI-AngularJS-JS-NodeJS)"
+      ],
+      "payment": {
+        "salary": "€35k – €55k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/leslie-depond-valleray",
+        "name": "Leslie Depond-Valleray",
+        "avatar": "https://photos.angel.co/users/1646612-medium_jpg?1449347528"
+      },
+      "refs": {
+        "angelListId": "249923",
+        "angelListUrl": "https://angel.co/company/bulb-software/jobs/249923-"
+      },
+      "postedAt": 1589658249923
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Experienced full stack developer/engineer",
+      "description": "We're currently extending our tribe and are looking for an experienced and rounded full stack developer/engineer. This role can rapidly evolve into a VP Engineering position. If you're looking for an opportunity to work in a friendly but highly effective team, contribute directly to product development and really make a difference in the business then we should talk! \r\n**PLEASE NOTE: Currently, we are only able to accept remote workers based in the European Union and UK.**\r\n\r\n***MUST HAVES***\r\nYour background:\r\n- You have a M.Sc/M.Eng in Computer Science or Applied Mathematics (or equivalent)\r\n- You've got successful prior experience working for a startup\r\n- You've helped your team build a great B2B/SaaS platform and can demonstrate your direct contribution in achieving this\r\n\r\nYour skills:\r\n- 3+ years experience as a full stack developer/engineer, with 1+ years coding with our technology stack (e.g. Angular JS, React JS, Node JS, PostgreSQL, REST API)\r\n- You can demonstrate ability to quickly understand customer/business problems and you're pretty creative at finding solutions to solve them.\r\n- You own your features from A to Z: refining high level requirements, thinking through the user experience (UX) and shipping clean, maintenable code at a good pace.\r\n- You are familiar with or have some prior experience with data engineering and devops, that you can build upon.\r\n- Any previous experience building/leading a small team of developers will be valued.\r\n\r\nPersonality traits we’ll be looking for:\r\n- You've got tons of curiosity\r\n- You learn insanely fast and adapt to change easily\r\n- You've demonstrated grit, tenacity in achieving challenging goals (personal and/or at work)\r\n- High EQ: you communicate well and can get along with all our team members (product or marketing/sales)\r\n- You have strong work ethic and are autonomous \r\n\r\n***NICE TO HAVES***\r\n- Prior experience with finance/accounting, ERP systems, fleet management or asset tracking software.\r\n- You speak another foreign language (e.g. French, German, Spanish, Italian)\r\n\r\n***SALARY/COMPENSATION***\r\nWe believe a small team of rock stars can accomplish at least 10x more than an average team so we recruit very selectively. For the right candidate our salary/compensation package can be pretty competitive and the role can evolve into a VP of Engineering role within 1-1.5 years.\r\nWe also offer flexible/remote working conditions however team get-togethers are required from time to time, especially during your onboarding (expect somewhere fun in South Europe, but that's a surprise!), so you need to be opened to travel.",
+      "descriptionHtml": "<p>We&#39;re currently extending our tribe and are looking for an experienced and rounded full stack developer/engineer. This role can rapidly evolve into a VP Engineering position. If you&#39;re looking for an opportunity to work in a friendly but highly effective team, contribute directly to product development and really make a difference in the business then we should talk! <br>\n<strong>PLEASE NOTE: Currently, we are only able to accept remote workers based in the European Union and UK.</strong></p>\n\n<p><strong><em>MUST HAVES</em></strong><br>\nYour background:</p>\n\n<ul>\n<li>You have a M.Sc/M.Eng in Computer Science or Applied Mathematics (or equivalent)</li>\n<li>You&#39;ve got successful prior experience working for a startup</li>\n<li>You&#39;ve helped your team build a great B2B/SaaS platform and can demonstrate your direct contribution in achieving this</li>\n</ul>\n\n<p>Your skills:</p>\n\n<ul>\n<li>3+ years experience as a full stack developer/engineer, with 1+ years coding with our technology stack (e.g. Angular JS, React JS, Node JS, PostgreSQL, REST API)</li>\n<li>You can demonstrate ability to quickly understand customer/business problems and you&#39;re pretty creative at finding solutions to solve them.</li>\n<li>You own your features from A to Z: refining high level requirements, thinking through the user experience (UX) and shipping clean, maintenable code at a good pace.</li>\n<li>You are familiar with or have some prior experience with data engineering and devops, that you can build upon.</li>\n<li>Any previous experience building/leading a small team of developers will be valued.</li>\n</ul>\n\n<p>Personality traits we’ll be looking for:</p>\n\n<ul>\n<li>You&#39;ve got tons of curiosity</li>\n<li>You learn insanely fast and adapt to change easily</li>\n<li>You&#39;ve demonstrated grit, tenacity in achieving challenging goals (personal and/or at work)</li>\n<li>High EQ: you communicate well and can get along with all our team members (product or marketing/sales)</li>\n<li>You have strong work ethic and are autonomous </li>\n</ul>\n\n<p><strong><em>NICE TO HAVES</em></strong></p>\n\n<ul>\n<li>Prior experience with finance/accounting, ERP systems, fleet management or asset tracking software.</li>\n<li>You speak another foreign language (e.g. French, German, Spanish, Italian)</li>\n</ul>\n\n<p><strong><em>SALARY/COMPENSATION</em></strong><br>\nWe believe a small team of rock stars can accomplish at least 10x more than an average team so we recruit very selectively. For the right candidate our salary/compensation package can be pretty competitive and the role can evolve into a VP of Engineering role within 1-1.5 years.<br>\nWe also offer flexible/remote working conditions however team get-togethers are required from time to time, especially during your onboarding (expect somewhere fun in South Europe, but that&#39;s a surprise!), so you need to be opened to travel.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe"
+      ],
+      "skills": [
+        "Software Development",
+        "Big Data",
+        "PostgreSQL",
+        "REST APIs",
+        "Algorithms & Data Structures",
+        "Front-End/Full-Stack (UI-AngularJS-JS-NodeJS)"
+      ],
+      "payment": {
+        "salary": "€65k – €75k",
+        "equity": "0.5% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/leslie-depond-valleray",
+        "name": "Leslie Depond-Valleray",
+        "avatar": "https://photos.angel.co/users/1646612-medium_jpg?1449347528"
+      },
+      "refs": {
+        "angelListId": "94679",
+        "angelListUrl": "https://angel.co/company/bulb-software/jobs/94679-"
+      },
+      "postedAt": 1589658194679
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Web front-End/Mobile Developer",
+      "description": "We're currently extending our tribe and are looking for an experienced front end developer that loves crafting beautiful web and mobile apps. If you're looking for a position where you can work in a friendly but highly effective team, contribute directly to product development and really make a difference in the business (and be rewarded for it) we should talk!\n\n***MUST HAVES***\n\nYour background:\n- You have a M.Sc/B.Sc or M.Eng/B.Eng in computer science, applied mathematics\n- You've got a successful experience working for a startup\n- You've helped your team build a great B2B/SaaS (rather complex) product and can demonstrate your direct contribution in achieving this\n\nYour skills:\n- 4-6 years experience designing and developing web and mobile apps with at least 2 years experience working with our technology stack (e.g. html5/CSS3, Angular JS, React JS)\n- You can demonstrate very strong design skills applied to SaaS products\n- You’re very good at understand business customers problems and you're pretty creative at finding solutions to solve them.\n- You own your features from A to Z and can ship clean, maintainable code at a good pace.\n- You understand the importance of customer analytics and are familiar with the tools and techniques to analyse customer behaviour and improve product UI.\n- You're very comfortable with customer facing interactions (e.g. customer feedback or ideation sessions, demos)\n\nPersonality traits we’ll be looking for:\n- You've got tons of curiosity\n- You learn insanely fast and adapt to change easily\n- You've demonstrated grit, tenacity to achieve challenging goals (personal and/or at work)\n- High EQ: you communicate well and can get along with all our team members (rather they're in product or growth parts of the business)\n- You have strong work ethic and are autonomous\n\n***NICE TO HAVES***\n- Experience with finance/accounting, CRM or other B2B data-rich apps\n- You speak another foreign language (e.g. French, German, Spanish, Italian)\n\n***SALARY/COMPENSATION***\nWe believe a small team of rock stars can accomplish at least 10x more than an average team so we recruit very selectively and for the right candidate our salary/compensation package can be pretty competitive. We also offer flexible/remote working conditions however team get-togethers are required from time to time, especially during your onboarding (expect somewhere fun in South Europe, but that's a surprise!), so you need to be opened to travel on a regular basis.\n\nPLEASE NOTE: We currently accept remote work only from the UK and Europe.",
+      "descriptionHtml": "<p>We&#39;re currently extending our tribe and are looking for an experienced front end developer that loves crafting beautiful web and mobile apps. If you&#39;re looking for a position where you can work in a friendly but highly effective team, contribute directly to product development and really make a difference in the business (and be rewarded for it) we should talk!</p>\n\n<p><strong><em>MUST HAVES</em></strong></p>\n\n<p>Your background:</p>\n\n<ul>\n<li>You have a M.Sc/B.Sc or M.Eng/B.Eng in computer science, applied mathematics</li>\n<li>You&#39;ve got a successful experience working for a startup</li>\n<li>You&#39;ve helped your team build a great B2B/SaaS (rather complex) product and can demonstrate your direct contribution in achieving this</li>\n</ul>\n\n<p>Your skills:</p>\n\n<ul>\n<li>4-6 years experience designing and developing web and mobile apps with at least 2 years experience working with our technology stack (e.g. html5/CSS3, Angular JS, React JS)</li>\n<li>You can demonstrate very strong design skills applied to SaaS products</li>\n<li>You’re very good at understand business customers problems and you&#39;re pretty creative at finding solutions to solve them.</li>\n<li>You own your features from A to Z and can ship clean, maintainable code at a good pace.</li>\n<li>You understand the importance of customer analytics and are familiar with the tools and techniques to analyse customer behaviour and improve product UI.</li>\n<li>You&#39;re very comfortable with customer facing interactions (e.g. customer feedback or ideation sessions, demos)</li>\n</ul>\n\n<p>Personality traits we’ll be looking for:</p>\n\n<ul>\n<li>You&#39;ve got tons of curiosity</li>\n<li>You learn insanely fast and adapt to change easily</li>\n<li>You&#39;ve demonstrated grit, tenacity to achieve challenging goals (personal and/or at work)</li>\n<li>High EQ: you communicate well and can get along with all our team members (rather they&#39;re in product or growth parts of the business)</li>\n<li>You have strong work ethic and are autonomous</li>\n</ul>\n\n<p><strong><em>NICE TO HAVES</em></strong></p>\n\n<ul>\n<li>Experience with finance/accounting, CRM or other B2B data-rich apps</li>\n<li>You speak another foreign language (e.g. French, German, Spanish, Italian)</li>\n</ul>\n\n<p><strong><em>SALARY/COMPENSATION</em></strong><br>\nWe believe a small team of rock stars can accomplish at least 10x more than an average team so we recruit very selectively and for the right candidate our salary/compensation package can be pretty competitive. We also offer flexible/remote working conditions however team get-togethers are required from time to time, especially during your onboarding (expect somewhere fun in South Europe, but that&#39;s a surprise!), so you need to be opened to travel on a regular basis.</p>\n\n<p>PLEASE NOTE: We currently accept remote work only from the UK and Europe.</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe"
+      ],
+      "skills": [
+        "Javascript",
+        "Front-End Development",
+        "UI/UX Design",
+        "HTML5 & CSS3",
+        "AngularJS",
+        "React.js"
+      ],
+      "payment": {
+        "salary": "€50k – €65k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/leslie-depond-valleray",
+        "name": "Leslie Depond-Valleray",
+        "avatar": "https://photos.angel.co/users/1646612-medium_jpg?1449347528"
+      },
+      "refs": {
+        "angelListId": "151652",
+        "angelListUrl": "https://angel.co/company/bulb-software/jobs/151652-"
+      },
+      "postedAt": 1589658151652
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "name": "OpenCell.bio",
+  "avatar": "https://photos.angel.co/startups/i/7003839-ba79b0bac654f2c6985d1ebc1c63ce73-medium_jpg.jpg?buster=1560419367",
+  "slogan": "Building biotech labs in shipping containers",
+  "description": "We design cheap labs so biotech companies can grow faster.\nBy lowering the barrier to entry for biotechnology we enable our customers to develop next generation therapeutics and sustainable biomaterials.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://opencell.bio"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Biotechnology"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/helene-steiner",
+      "name": "Helene Steiner",
+      "avatar": "https://photos.angel.co/users/6140178-medium_jpg?1491474114",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/thomas-meany-1",
+      "name": "Thomas Meany",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7003839",
+    "angelListUrl": "https://angel.co/company/opencell-bio"
+  },
+  "jobs": [
+    {
+      "role": "Other Engineering",
+      "title": "Bioengineer",
+      "description": "1) A collaborative attitude, an open mind and a passion for doing things differently. Prove this by discussing a time you have worked in a team with diverse experience\r\n\r\n2) A passion for translating science and ideas into tangible products. Demonstrate this with an example. Have you developed a product before? Have you sold a product (developed by you or anyone else) before?\r\n‍\r\n3) Experience in synthetic biology: Have you worked in a biology lab where workflows include designing primers, assembling DNA constructs, and expressing proteins in an organism? You do not need to demonstrate this with a degree but with an outcome (paper/product/project).\r\n\r\n4) Experience in programming: Have you used any coding in your workflow (ideally python)? This could be bioinformatics or programming a custom data acquisition script or programming an opentrons with autoprotocol? Can you explain this or share a link to the code?\r\n\r\n5) Experience in hardware and/or automation: Have you solved a problem in lab using a physical/hardware solution? This can be for any application and may include modifying existing equipment or augmenting it with arduinos, raspberry pis etc. Alternatively, have you automated any workflows?\r\n‍\r\nYou must have 1) and 2)! You need good skills in all of 3, 4 and 5 OR outstanding skills in ONE of 3/4/5 that makes up for less skill in the others.",
+      "descriptionHtml": "<p>1) A collaborative attitude, an open mind and a passion for doing things differently. Prove this by discussing a time you have worked in a team with diverse experience</p>\n\n<p>2) A passion for translating science and ideas into tangible products. Demonstrate this with an example. Have you developed a product before? Have you sold a product (developed by you or anyone else) before?<br>\n‍<br>\n3) Experience in synthetic biology: Have you worked in a biology lab where workflows include designing primers, assembling DNA constructs, and expressing proteins in an organism? You do not need to demonstrate this with a degree but with an outcome (paper/product/project).</p>\n\n<p>4) Experience in programming: Have you used any coding in your workflow (ideally python)? This could be bioinformatics or programming a custom data acquisition script or programming an opentrons with autoprotocol? Can you explain this or share a link to the code?</p>\n\n<p>5) Experience in hardware and/or automation: Have you solved a problem in lab using a physical/hardware solution? This can be for any application and may include modifying existing equipment or augmenting it with arduinos, raspberry pis etc. Alternatively, have you automated any workflows?<br>\n‍<br>\nYou must have 1) and 2)! You need good skills in all of 3, 4 and 5 OR outstanding skills in ONE of 3/4/5 that makes up for less skill in the others.</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£40k – £50k",
+        "equity": "0.5% – 5.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/thomas-meany-1",
+        "name": "Thomas Meany",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "572517",
+        "angelListUrl": "https://angel.co/company/opencell-bio/jobs/572517-"
+      }
+    }
+  ]
+}

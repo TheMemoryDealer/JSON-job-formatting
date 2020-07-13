@@ -1,0 +1,91 @@
+{
+  "name": "Taizen",
+  "avatar": "https://photos.angel.co/startups/i/7630156-33a8b2fa6655cd5e20846b3c17c94cbc-medium_jpg.jpg?buster=1586964097",
+  "slogan": "A new B2B performance coaching platform for startups",
+  "description": "We’re Taizen, a digital performance coaching solution revolutionising how companies approach talent development. Taizen is the future of maximising organisational capability and achieving outstanding growth. \n\nOur personalised coaching programmes are based on the latest insights from behavioural science, ensuring you and your team embark on a developmental journey that yields quantifiable improvements for your organisation from the outset. \n",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://taizen.io"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "B2B · SaaS · Mobile · Artificial Intelligence / Machine Learning"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/kim-pathfinder-software-com",
+      "name": "Kim Aviv",
+      "avatar": "https://photos.angel.co/users/6856054-medium_jpg?1517848043",
+      "bioHtml": "Founder and CEO at Pathfinder"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7630156",
+    "angelListUrl": "https://angel.co/company/taizen"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "Looking for a dedicated Software Engineer to join an exciting, high-potential new venture. Freelance / Founder role position. Europe/US only.\r\n\r\n✅ Experience with building mobile apps is essential. \r\n✅ Ability to build alone is essential. \r\n✅ Full-stack ideal.",
+      "descriptionHtml": "<p>Looking for a dedicated Software Engineer to join an exciting, high-potential new venture. Freelance / Founder role position. Europe/US only.</p>\n\n<p>✅ Experience with building mobile apps is essential. <br>\n✅ Ability to build alone is essential. <br>\n✅ Full-stack ideal.</p>\n",
+      "position": "cofounder",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Mobile Application Development"
+      ],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/kim-pathfinder-software-com",
+        "name": "Kim Aviv",
+        "avatar": "https://photos.angel.co/users/6856054-medium_jpg?1517848043"
+      },
+      "refs": {
+        "angelListId": "790588",
+        "angelListUrl": "https://angel.co/company/taizen/jobs/790588-"
+      }
+    }
+  ]
+}

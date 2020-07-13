@@ -1,0 +1,111 @@
+{
+  "name": "Picnic",
+  "avatar": "https://photos.angel.co/startups/i/7233464-5ba32e19212a94edb4bc2751b800deb6-medium_jpg.jpg?buster=1579606732",
+  "slogan": "The Friendship Company",
+  "description": "Picnic is a digital home for your friendships. Friends make our lives happier, our minds healthier, and our decisions better (at least most of the time). Built on chat, Picnic combines technology and science to ensure your most important relationships stay strong, online and offline.\n\nWe are early stage and currently in 'stealth mode' while we build the Picnic app.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://picnic.ventures"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/picnicapp"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Social Media",
+    "Software"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/jonny-miles",
+      "name": "Jonny Miles",
+      "avatar": "https://photos.angel.co/users/8634587-medium_jpg?1547143525",
+      "bioHtml": "Senior Designer with 12 years commercial experience."
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/fahad-saud",
+      "name": "Fahad Saud",
+      "avatar": "https://photos.angel.co/users/10080992-medium_jpg?1570187084",
+      "bioHtml": "Angel investor turned Micro-VC\nCo-Founder &amp; Chairman at Picnic"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/harry-lachenmayer-1",
+      "name": "Harry Lachenmayer",
+      "avatar": "https://graph.facebook.com/10153453415908108/picture?type=large",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7233464",
+    "angelListUrl": "https://angel.co/company/picnic-9"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full-Stack Developer [React Native / Node.js]",
+      "description": "About Picnic\n\nPicnic is a digital home for your most important friendships. Friends make our lives happier, our minds healthier, and our decisions better (at least most of the time). Built on group chat, Picnic combines technology and science to ensure your most important relationships stay strong, online and offline.\n\nWe are early stage but well backed by some incredible investors and are currently in 'stealth mode' while we build the Picnic app. \n\nOverview\n\nWe are looking for a React & React Native developer who loves creating products that people want to use. You understand that apps—and code—are for people, not for computers, and always strive to make our app and codebase more understandable and easy to use.*\n\nWe currently have a product team of 3 people, and you'll be working directly on our flagship product alongside the founding team. As we're still small, we have a very lean product development process, and ship features daily.\n\nWe have absolutely no legacy code, and are free to make any technical decision that makes sense for the product.\n\nWhat you'll be doing\n\nWe have built a prototype React Native chat app using latest best practices: a GraphQL API, TypeScript types (automatically generated from GraphQL queries), MobX, hooks, etc.\n\nWe are now looking to turn this into a marketable app in the next few months.\n\nThis role is a brilliant opportunity for anyone looking to join a purpose-driven, ethical (B Corp Pending (https://bcorporation.net/) ✨) tech startup where they can make a huge impact from day one. This is a critical business role so we're setting the bar high.\n\nWhat we're looking for\n\nTo be clear, a \"high bar\" for us does not mean \"many years of experience\". Most of all, we are looking for someone who never wants to stop learning, regardless of seniority.\n\nSince we are such a small team, and currently work extremely quickly, our main \"hard requirement\" is around React and React Native. These will form the core part of your work, and we expect you to be proficient in them.\n\n✅ **Must haves**\n\n- Fluency in TypeScript & knowledge of how the JavaScript ecosystem has been evolving over the past few years\n- Understanding of React & React Native and how they interact with the underlying platforms, ie. the DOM, iOS and Android\n- Experience creating web servers in Node.js, ideally with a GraphQL API (We're using Express & Apollo, but having direct experience with these is not a hard requirement as long as you understand the fundamentals)\n- Understanding of PostgreSQL & Redis\n\n❤️ **Nice to haves**\n\n- Evidence of self-learning / discovery of new programming languages, frameworks and environments\n- Contributions to open source projects (visible on Github/similar)\n- Interest or knowledge of functional programming (eg. Haskell, Elm, Clojure, Ocaml/Reason, etc.), reactive programming (eg. MobX, RxJS, etc.), distributed systems, event sourcing / event-based architectures\n\nWe strongly encourage women, people of color, lesbian, gay, bisexual, transgender, queer and non-binary people, veterans, and individuals with disabilities to apply. Picnic is an equal opportunity employer and welcomes everyone to our team. If you need reasonable accommodation at any point in the application or interview process, please let us know.\n\nDetails\n\nThis is a permanent position (no contractors).  \n\n- 40 Hours per week - flexible working encouraged (including \"work how you like\" Wednesdays)\n- Pay: £65,000-£75,000 depending on seniority\n- Equity\n- Pension\n- Personal development budget\n- Personal health and wellbeing budget\n- 25 days holiday\n- Additional 1 wellness day / quarter\n- Based in London Fields (in an amazing 🐶dog friendly office (https://thefisheries.london/))\n- Self-proclaimed fun colleagues that don't take themselves too seriously.",
+      "descriptionHtml": "<p>About Picnic</p>\n\n<p>Picnic is a digital home for your most important friendships. Friends make our lives happier, our minds healthier, and our decisions better (at least most of the time). Built on group chat, Picnic combines technology and science to ensure your most important relationships stay strong, online and offline.</p>\n\n<p>We are early stage but well backed by some incredible investors and are currently in &#39;stealth mode&#39; while we build the Picnic app. </p>\n\n<p>Overview</p>\n\n<p>We are looking for a React &amp; React Native developer who loves creating products that people want to use. You understand that apps—and code—are for people, not for computers, and always strive to make our app and codebase more understandable and easy to use.*</p>\n\n<p>We currently have a product team of 3 people, and you&#39;ll be working directly on our flagship product alongside the founding team. As we&#39;re still small, we have a very lean product development process, and ship features daily.</p>\n\n<p>We have absolutely no legacy code, and are free to make any technical decision that makes sense for the product.</p>\n\n<p>What you&#39;ll be doing</p>\n\n<p>We have built a prototype React Native chat app using latest best practices: a GraphQL API, TypeScript types (automatically generated from GraphQL queries), MobX, hooks, etc.</p>\n\n<p>We are now looking to turn this into a marketable app in the next few months.</p>\n\n<p>This role is a brilliant opportunity for anyone looking to join a purpose-driven, ethical (B Corp Pending (<a href=\"https://bcorporation.net/\" target=\"_blank\" rel=\"nofollow\">https://bcorporation.net/</a>) ✨) tech startup where they can make a huge impact from day one. This is a critical business role so we&#39;re setting the bar high.</p>\n\n<p>What we&#39;re looking for</p>\n\n<p>To be clear, a &quot;high bar&quot; for us does not mean &quot;many years of experience&quot;. Most of all, we are looking for someone who never wants to stop learning, regardless of seniority.</p>\n\n<p>Since we are such a small team, and currently work extremely quickly, our main &quot;hard requirement&quot; is around React and React Native. These will form the core part of your work, and we expect you to be proficient in them.</p>\n\n<p>✅ <strong>Must haves</strong></p>\n\n<ul>\n<li>Fluency in TypeScript &amp; knowledge of how the JavaScript ecosystem has been evolving over the past few years</li>\n<li>Understanding of React &amp; React Native and how they interact with the underlying platforms, ie. the DOM, iOS and Android</li>\n<li>Experience creating web servers in Node.js, ideally with a GraphQL API (We&#39;re using Express &amp; Apollo, but having direct experience with these is not a hard requirement as long as you understand the fundamentals)</li>\n<li>Understanding of PostgreSQL &amp; Redis</li>\n</ul>\n\n<p>❤️ <strong>Nice to haves</strong></p>\n\n<ul>\n<li>Evidence of self-learning / discovery of new programming languages, frameworks and environments</li>\n<li>Contributions to open source projects (visible on Github/similar)</li>\n<li>Interest or knowledge of functional programming (eg. Haskell, Elm, Clojure, Ocaml/Reason, etc.), reactive programming (eg. MobX, RxJS, etc.), distributed systems, event sourcing / event-based architectures</li>\n</ul>\n\n<p>We strongly encourage women, people of color, lesbian, gay, bisexual, transgender, queer and non-binary people, veterans, and individuals with disabilities to apply. Picnic is an equal opportunity employer and welcomes everyone to our team. If you need reasonable accommodation at any point in the application or interview process, please let us know.</p>\n\n<p>Details</p>\n\n<p>This is a permanent position (no contractors).  </p>\n\n<ul>\n<li>40 Hours per week - flexible working encouraged (including &quot;work how you like&quot; Wednesdays)</li>\n<li>Pay: £65,000-£75,000 depending on seniority</li>\n<li>Equity</li>\n<li>Pension</li>\n<li>Personal development budget</li>\n<li>Personal health and wellbeing budget</li>\n<li>25 days holiday</li>\n<li>Additional 1 wellness day / quarter</li>\n<li>Based in London Fields (in an amazing 🐶dog friendly office (<a href=\"https://thefisheries.london/)\" target=\"_blank\" rel=\"nofollow\">https://thefisheries.london/)</a>)</li>\n<li>Self-proclaimed fun colleagues that don&#39;t take themselves too seriously.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Node.js",
+        "React Native"
+      ],
+      "payment": {
+        "salary": "£65k – £75k",
+        "equity": "0.25% – 0.5%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/jonny-miles",
+        "name": "Jonny Miles",
+        "avatar": "https://photos.angel.co/users/8634587-medium_jpg?1547143525"
+      },
+      "refs": {
+        "angelListId": "701723",
+        "angelListUrl": "https://angel.co/company/picnic-9/jobs/701723-"
+      }
+    }
+  ]
+}

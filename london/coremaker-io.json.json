@@ -1,0 +1,101 @@
+{
+  "name": "coremaker.io",
+  "avatar": "https://photos.angel.co/startups/i/6873830-545c068a45c77fe5f8cf3bb6869251e7-medium_jpg.jpg?buster=1554745839",
+  "slogan": "A startup that helps startups bring their ideas to live",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://coremaker.io"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Consulting",
+    "Startups",
+    "Software Engineering"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/ciprian-briscaru",
+      "name": "Ciprian Briscaru",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6873830",
+    "angelListUrl": "https://angel.co/company/coremaker-io"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Node.Js Software Developer",
+      "description": "Develop and extend the reach of our existing applications\nParticipate in software design meetings and analyse user needs to determine technical requirements\nTo help architect new business solutions with the Technical Lead\nCollaborate with our product manager to deliver features and continue to improve/optimise post-release\nDevelop and produce functional solutions in accordance with architecture design standards and code standards\nEnsure projects are delivered on time and to a high standard\nContribute to continuous improvements in the team resulting in greater efficiency, quality, and productivity",
+      "descriptionHtml": "<p>Develop and extend the reach of our existing applications<br>\nParticipate in software design meetings and analyse user needs to determine technical requirements<br>\nTo help architect new business solutions with the Technical Lead<br>\nCollaborate with our product manager to deliver features and continue to improve/optimise post-release<br>\nDevelop and produce functional solutions in accordance with architecture design standards and code standards<br>\nEnsure projects are delivered on time and to a high standard<br>\nContribute to continuous improvements in the team resulting in greater efficiency, quality, and productivity</p>\n",
+      "position": "contract",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "MySQL",
+        "MongoDB",
+        "Node.js",
+        "Git",
+        "Express.js",
+        "Docker",
+        "React.js",
+        "ReactNative"
+      ],
+      "payment": {
+        "salary": "£40k – £45k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/ciprian-briscaru",
+        "name": "Ciprian Briscaru",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "534611",
+        "angelListUrl": "https://angel.co/company/coremaker-io/jobs/534611-"
+      }
+    }
+  ]
+}

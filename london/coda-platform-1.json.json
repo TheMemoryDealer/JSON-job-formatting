@@ -1,0 +1,105 @@
+{
+  "name": "Coda Platform",
+  "avatar": "https://photos.angel.co/startups/i/7128993-79df3f2a6600077e2999f8a766b897e6-medium_jpg.jpg?buster=1565843917",
+  "slogan": "Mobile games publisher backed by clever platform learning",
+  "description": "A market-first that gives developers access to intelligent market & gaming data, helping them to create hit games faster. We built our platform to help developers optimise their processes and create games more efficiently. \n\nWith the Coda platform, you will be working on the best ideas backed by the best data available in the market. Our tools include game concept generation, competitor monitoring, lookalike monitoring and more!",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://coda.xyz"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Publishing",
+    "Mobile Games"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/coda-platform",
+      "name": "Coda Platform",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7128993",
+    "angelListUrl": "https://angel.co/company/coda-platform-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Backend Engineer",
+      "description": "We are looking for experienced backend engineers to build the Coda platform from scratch. You will be one of the pioneer engineers who contribute to all parts and elements of the data platform we are building, from infrastructure to architecture to development.\n\nYou will work in a team consisting of experienced backend, data and machine learning engineers, directly reporting to CTO, for designing and building an integrated platform with numerous components and services, the primary intention being recording, querying and processing data. Agility, speed, robustness, security and availability are the core properties of the system we are aiming for. Although there are particular technologies we would like you to be experienced with, the main acceptance criteria for this role are system thinking ability, perfect problem solving skills and desire for constant positive contribution to Coda’s success.\n\nResponsibilities\n\n- Be the part of the team to architect and build the platform from ground up\n- Implement microservices architecture for all inbound/outbound backend services\n- Develop services for client and server to record, query and process various types of data streams\n- Develop real-time 3rd party connected services to import/export data\n- Develop high throughput configuration services for client feedback\n- Work on and improve the deployment/orchestration/maintenance process\n- Support Data Engineers and Machine Learning Engineers in building Data Science workbench and creating testing/staging and production environments.\n\nQualifications\n\n- 5+ years of Software Engineering experience in backend development\n- 3+ years of experience with Go\n- Designed and built services/applications that deal with big data (high in volume and throughput)\n- Experience in different types of data storage schemes (logs, objects, relational, time series, graph etc.)\n- Having successfully implemented solutions to deal with at least over 100K TPS\n- Knowledge in microservices architecture, containers, and orchestration\n- Proficient in SQL\n- Former experience with at least one relational database solution (PostgreSQL, MySQL)\n- Former experience with in-memory data stores (Redis, Memchached, etc)\n- Thorough knowledge on cloud infrastructure, experience with AWS and its variety of services from IAM to EC2, from S3 to Kinesis.\n- Keen on CI/CD pipelines and automated testing\n- As a plus worked with distributed data warehouses (Snowflake) and distributed computing frameworks (Apache Spark)",
+      "descriptionHtml": "<p>We are looking for experienced backend engineers to build the Coda platform from scratch. You will be one of the pioneer engineers who contribute to all parts and elements of the data platform we are building, from infrastructure to architecture to development.</p>\n\n<p>You will work in a team consisting of experienced backend, data and machine learning engineers, directly reporting to CTO, for designing and building an integrated platform with numerous components and services, the primary intention being recording, querying and processing data. Agility, speed, robustness, security and availability are the core properties of the system we are aiming for. Although there are particular technologies we would like you to be experienced with, the main acceptance criteria for this role are system thinking ability, perfect problem solving skills and desire for constant positive contribution to Coda’s success.</p>\n\n<p>Responsibilities</p>\n\n<ul>\n<li>Be the part of the team to architect and build the platform from ground up</li>\n<li>Implement microservices architecture for all inbound/outbound backend services</li>\n<li>Develop services for client and server to record, query and process various types of data streams</li>\n<li>Develop real-time 3rd party connected services to import/export data</li>\n<li>Develop high throughput configuration services for client feedback</li>\n<li>Work on and improve the deployment/orchestration/maintenance process</li>\n<li>Support Data Engineers and Machine Learning Engineers in building Data Science workbench and creating testing/staging and production environments.</li>\n</ul>\n\n<p>Qualifications</p>\n\n<ul>\n<li>5+ years of Software Engineering experience in backend development</li>\n<li>3+ years of experience with Go</li>\n<li>Designed and built services/applications that deal with big data (high in volume and throughput)</li>\n<li>Experience in different types of data storage schemes (logs, objects, relational, time series, graph etc.)</li>\n<li>Having successfully implemented solutions to deal with at least over 100K TPS</li>\n<li>Knowledge in microservices architecture, containers, and orchestration</li>\n<li>Proficient in SQL</li>\n<li>Former experience with at least one relational database solution (PostgreSQL, MySQL)</li>\n<li>Former experience with in-memory data stores (Redis, Memchached, etc)</li>\n<li>Thorough knowledge on cloud infrastructure, experience with AWS and its variety of services from IAM to EC2, from S3 to Kinesis.</li>\n<li>Keen on CI/CD pipelines and automated testing</li>\n<li>As a plus worked with distributed data warehouses (Snowflake) and distributed computing frameworks (Apache Spark)</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Turkey",
+        "Eastern Europe",
+        "South Africa",
+        "Nigeria"
+      ],
+      "skills": [
+        "DevOps",
+        "Data Warehouse",
+        "Docker",
+        "Microservices",
+        "AWS",
+        "Go",
+        "Automation CI/CD",
+        "Data Lake"
+      ],
+      "payment": {
+        "salary": "£75k – £85k",
+        "equity": "0.1% – 0.2%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/coda-platform",
+        "name": "Coda Platform",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "623367",
+        "angelListUrl": "https://angel.co/company/coda-platform-1/jobs/623367-"
+      }
+    }
+  ]
+}

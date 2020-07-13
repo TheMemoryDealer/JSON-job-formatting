@@ -1,0 +1,102 @@
+{
+  "name": "Osprey Measurement Systems",
+  "avatar": "https://photos.angel.co/startups/i/7257035-0abf4bd28b50b5ff85dfdd439f559284-medium_jpg.jpg?buster=1571217883",
+  "slogan": "Sensors to monitor infrastructure physical health",
+  "description": "Our products are used by companies like Network Rail and the London Underground to monitor their infrastructure for long term degradation from natural or human influences. They use low power radios to communicate highly accurate, precise data taken from the structure itself to gain insight into its health.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://ospreymeasurement.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Construction",
+    "Sensors",
+    "Internet of Things",
+    "Smart Building"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/george-waller-1",
+      "name": "George Waller",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at Osprey Measurement Systems"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7257035",
+    "angelListUrl": "https://angel.co/company/osprey-measurement-systems"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Embedded Software Engineer",
+      "description": "The role will see you develop software for embedded systems, mostly bare metal applications on microcontrollers. Some work will be in a low power Linux environment. Challenges include balancing battery life and measurement performance so a good knowledge of data acquisition and statistics is needed. You will have a large influence on how the software architectures are implemented, we are looking for a person who is motivated and eager to create some great products with a small team based in London.\n\nWe are open to people who have practical experience rather than academic and in some ways prefer it. You must be able to talk about and demonstrate previous projects.\n\nA key point on location: You need to be able to commute to London ideally once a week (we do not mind from where). You will need pay for this yourself as HMRC rules say the employer cannot cover these costs. Please bear this in mind when applying.\n\nKey skills required:\n\n- Writing C for embedded applications.\n- Python scripting.\n- System architecture over low power, low throughput wireless networks.\n- Data acquisition (ADCs, sampling theorems, noise, accuracy, precision, dynamic range etc.).\n- Knowledge of version control/releases.\n- Working knowledge of electronics hardware (able to diagnose basic issues and report them effectively).",
+      "descriptionHtml": "<p>The role will see you develop software for embedded systems, mostly bare metal applications on microcontrollers. Some work will be in a low power Linux environment. Challenges include balancing battery life and measurement performance so a good knowledge of data acquisition and statistics is needed. You will have a large influence on how the software architectures are implemented, we are looking for a person who is motivated and eager to create some great products with a small team based in London.</p>\n\n<p>We are open to people who have practical experience rather than academic and in some ways prefer it. You must be able to talk about and demonstrate previous projects.</p>\n\n<p>A key point on location: You need to be able to commute to London ideally once a week (we do not mind from where). You will need pay for this yourself as HMRC rules say the employer cannot cover these costs. Please bear this in mind when applying.</p>\n\n<p>Key skills required:</p>\n\n<ul>\n<li>Writing C for embedded applications.</li>\n<li>Python scripting.</li>\n<li>System architecture over low power, low throughput wireless networks.</li>\n<li>Data acquisition (ADCs, sampling theorems, noise, accuracy, precision, dynamic range etc.).</li>\n<li>Knowledge of version control/releases.</li>\n<li>Working knowledge of electronics hardware (able to diagnose basic issues and report them effectively).</li>\n</ul>\n",
+      "position": "contract",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "United Kingdom"
+      ],
+      "skills": [
+        "Python",
+        "Embedded Systems",
+        "C",
+        "Embedded Linux",
+        "Microcontrollers",
+        "STM32"
+      ],
+      "payment": {
+        "salary": "£30k – £50k",
+        "equity": "1.0% – 5.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/george-waller-1",
+        "name": "George Waller",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "645116",
+        "angelListUrl": "https://angel.co/company/osprey-measurement-systems/jobs/645116-"
+      }
+    }
+  ]
+}

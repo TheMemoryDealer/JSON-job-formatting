@@ -1,0 +1,1202 @@
+{
+  "name": "Fellowship.AI",
+  "avatar": "https://photos.angel.co/startups/i/561080-968bcd7f58cc22b747ef0b6eece09df8-medium_jpg.jpg?buster=1430334215",
+  "slogan": "",
+  "description": "Fellowship Program:\nData Science is not knowledge to be acquired but rather an art that can be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  The Startup.ML fellowship gives aspiring data scientists the chance to hone their skills by building machine learning systems for startups.  \n\nWorking with Startups:\nWe help startups use machine learning as a key differentiator. Our world-class data scientists actively engage with startups for a year to ensure that machine learning techniques are successfully embedded into new products and a smooth transition is made to an in-house team.  We then take on the role of a trusted advisor and provide counsel to founders to set them up for continued success.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://fellowship.ai"
+    },
+    {
+      "type": "blog",
+      "url": "http://launchpad.ai/blog"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/fellowshipai"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "San Francisco",
+    "London"
+  ],
+  "marketTags": [
+    "Machine Learning",
+    "Education"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/arshak",
+      "name": "Arshak Navruzyan",
+      "avatar": "https://photos.angel.co/users/319577-medium_jpg?1463591727",
+      "bioHtml": "Current on ML and Hadoop.  VP product roles at various big data venture funded startups."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/shubhamitra-das",
+      "name": "Shubhamitra Das",
+      "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614",
+      "bioHtml": "Data Scientist"
+    },
+    {
+      "title": "Machine Learning Fellow",
+      "role": "Employee",
+      "url": "https://angel.co/u/sharath-kalkur",
+      "name": "Sharath Kalkur",
+      "avatar": "https://photos.angel.co/users/6467131-medium_jpg?1496342234",
+      "bioHtml": "UIC-ECE, Skilled in Machine Learning, Deep Learning, and Computer Vision"
+    },
+    {
+      "title": "Mentor",
+      "role": "Employee",
+      "url": "https://angel.co/u/karen-chaltikian",
+      "name": "Karen Chaltikian",
+      "avatar": "https://photos.angel.co/users/4446571-medium_jpg?1488474329",
+      "bioHtml": "Works as a Director of Research at a Quantitative hedge fund. Mentor at Startup.ML\nWorked at BlackRock and Barclays\nPhD Theoretical Physics, Stanford"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "561080",
+    "angelListUrl": "https://angel.co/company/fellowshipai"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship in San Francisco (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<ul>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "San Francisco",
+        "San Francisco Bay Area"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Coding",
+        "Research",
+        "Quantitative Analysis",
+        "Data Science"
+      ],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "193604",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/193604-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Remote Machine Learning Fellow in Zurich (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\nWe are accepting applications for fellows to work out of our new Zurich location. \r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<p>We are accepting applications for fellows to work out of our new Zurich location. </p>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "Zurich"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "269318",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/269318-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship  in London (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\nWe are accepting applications for fellows to work out of our new London location housed at Plexal, Europe's largest innovation ecosystem.\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<p>We are accepting applications for fellows to work out of our new London location housed at Plexal, Europe&#39;s largest innovation ecosystem.</p>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Machine Learning",
+        "Data Science"
+      ],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "303273",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/303273-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Remote Machine Learning Fellowship in Berlin (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Berlin",
+        "Berlin"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "376948",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/376948-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Remote Machine Learning Fellow in Melbourne (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\nWe are accepting applications for fellows to work out of our new Melbourne location.\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<p>We are accepting applications for fellows to work out of our new Melbourne location.</p>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Melbourne"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "376950",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/376950-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship-United States/Canada-EST (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \n\n- build scalable machine learning models with agile software development methodology \n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \n\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\n\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\n\n- interface directly with commercial customers\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\n\n\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<ul>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Canada",
+        "United States",
+        "Toronto"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Canada",
+        "United States"
+      ],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "377581",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/377581-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote FellowShip in Dublin (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<ul>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Dublin"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "771540",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/771540-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship UK / Central Europe /Eastern Europe CEST (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \n\n- build scalable machine learning models with agile software development methodology \n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \n- interface directly with commercial customers\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\n\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\n\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\n \n\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Amsterdam",
+        "Madrid"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Amsterdam",
+        "United Kingdom",
+        "Eastern Europe",
+        "Western Europe",
+        "Dublin"
+      ],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "486207",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/486207-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship in  Amsterdam (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<ul>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Amsterdam"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "771604",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/771604-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship in Austin(fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<ul>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Austin"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "771588",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/771588-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship in Beijing (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<ul>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Beijing"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "771542",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/771542-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship in Bengaluru (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<ul>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Bengaluru"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "771584",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/771584-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship in Boston (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<ul>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Boston"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "771544",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/771544-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship in Brussels (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<ul>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Brussels"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "771601",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/771601-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship in Buenos Aires (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<ul>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Buenos Aires Province"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "771594",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/771594-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship in Chicago (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<ul>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Chicago"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "771585",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/771585-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship in Copenhagen (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<ul>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Copenhagen"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "771579",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/771579-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship in Hong Kong (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<ul>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Hong Kong"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "771599",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/771599-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship in Los Angeles (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<ul>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Los Angeles"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "771602",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/771602-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship in Madrid (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<ul>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Madrid"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "771618",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/771618-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship in Mumbai(fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<ul>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Mumbai"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "771570",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/771570-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship in New Delhi (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<ul>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Delhi"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "771628",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/771628-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship in New York (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<ul>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "New York City"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "771548",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/771548-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship in Seattle(fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<ul>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Seattle"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "771573",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/771573-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship in Shanghai (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<ul>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Shanghai"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "771611",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/771611-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship in Singapore(fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<ul>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Singapore"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "771634",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/771634-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship in Stockholm (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<ul>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Stockholm"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "771569",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/771569-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship in Tokyo (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<ul>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Tokyo"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "771622",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/771622-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship in Toronto (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \n\n- build scalable machine learning models with agile software development methodology \n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \n- interface directly with commercial customers\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\n\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\n\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\n \n\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "Toronto"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "486223",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/486223-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship-Asia China Standard Time(fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \n\n- build scalable machine learning models with agile software development methodology \n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \n- interface directly with commercial customers\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\n\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\n\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\n\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "China"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "China",
+        "Beijing"
+      ],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "486217",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/486217-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship-Asia IST(fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \n\n- build scalable machine learning models with agile software development methodology \n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \n- interface directly with commercial customers\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\n\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\n\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\n\n\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "India",
+        "Asia"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "India",
+        "Asia"
+      ],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "486210",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/486210-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship-Australia AEST- (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \n\n- build scalable machine learning models with agile software development methodology \n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \n- interface directly with commercial customers\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\n\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\n\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\n\n\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "Australia",
+        "Melbourne",
+        "Sydney"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Australia"
+      ],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "486219",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/486219-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship-United States-Central Time (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \n\n- build scalable machine learning models with agile software development methodology \n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \n- interface directly with commercial customers\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\n\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\n\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\n\n\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "United States"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Texas",
+        "United States"
+      ],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "486206",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/486206-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship-United States-Mountain Time (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \n\n- build scalable machine learning models with agile software development methodology \n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \n- interface directly with commercial customers\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\n\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\n\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\n\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "United States"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "United States",
+        "Arizona"
+      ],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "486216",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/486216-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Remote Fellowship:United States-PST (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \n\n- build scalable machine learning models with agile software development methodology \n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \n- interface directly with commercial customers\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\n\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\n\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\n\n\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "United States"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "United States"
+      ],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "486218",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/486218-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Remote Machine Learning Fellow in Paris (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "Paris"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "486222",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/486222-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Remote Machine Learning Fellowship in Dubai  (fellowship.ai/apply)",
+      "description": "Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    \r\n\r\n- build scalable machine learning models with agile software development methodology \r\n- full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore \r\n- apply latest research in deep learning, ensemble learners, optimization techniques, etc.  \r\n\r\nCheck out https://platform.ai/blog which showcases the work done by some of our fellows.\r\n\r\nFellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.\r\n\r\n- interface directly with commercial customers\r\n- work on enhancement to the solution portfolio https://launchpad.ai/solutions\r\n\r\n\r\nPlease apply at www.fellowship.ai/apply",
+      "descriptionHtml": "<p>Data Science is not knowledge to be acquired but rather an art that must be learned through practice.  The number one qualification employers look for when hiring a data science candidate is previous experience.  Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.    </p>\n\n<ul>\n<li>build scalable machine learning models with agile software development methodology </li>\n<li>full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors we are based in San Francisco, New York, London and Singapore </li>\n<li>apply latest research in deep learning, ensemble learners, optimization techniques, etc.<br></li>\n</ul>\n\n<p>Check out <a href=\"https://platform.ai/blog\" target=\"_blank\" rel=\"nofollow\">https://platform.ai/blog</a> which showcases the work done by some of our fellows.</p>\n\n<p>Fellows from previous cohorts are now in data science roles at Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange,  etc.</p>\n\n<ul>\n<li>interface directly with commercial customers</li>\n<li>work on enhancement to the solution portfolio <a href=\"https://launchpad.ai/solutions\" target=\"_blank\" rel=\"nofollow\">https://launchpad.ai/solutions</a></li>\n</ul>\n\n<p>Please apply at <a href=\"http://www.fellowship.ai/apply\" target=\"_blank\" rel=\"nofollow\">www.fellowship.ai/apply</a></p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Dubai"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/shubhamitra-das",
+        "name": "Shubhamitra Das",
+        "avatar": "https://photos.angel.co/users/109655-medium_jpg?1544759614"
+      },
+      "refs": {
+        "angelListId": "771469",
+        "angelListUrl": "https://angel.co/company/fellowshipai/jobs/771469-"
+      }
+    }
+  ]
+}

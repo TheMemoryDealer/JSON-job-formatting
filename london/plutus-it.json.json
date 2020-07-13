@@ -1,0 +1,158 @@
+{
+  "name": "Plutus",
+  "avatar": "https://photos.angel.co/startups/i/983680-53d94e8331a7b95f3bbd3bf2560e2067-medium_jpg.jpg?buster=1575492141",
+  "slogan": "Earn rewards on the blockchain for everyday purchases",
+  "description": "Plutus is a London based Fintech startup, we provide a financial management and payments platform. \n\nOur members can sign up to our current account and debit card facilities. We have also custom built a decentralised loyalty reward system for online and in-store purchases.\n\nWebsite: https://plutus.it\n\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://plutus.it"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": "https://www.producthunt.com/posts/plutus-it"
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Bitcoin",
+    "Fin Tech",
+    "Blockchains"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/danial-daychopan",
+      "name": "Danial Daychopan",
+      "avatar": "https://photos.angel.co/users/1039310-medium_jpg?1575489765",
+      "bioHtml": ""
+    },
+    {
+      "title": "Full-Stack Developer",
+      "role": "Employee",
+      "url": "https://angel.co/u/plamen-hristov-5",
+      "name": "Plamen Hristov",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/jasper-tay-2",
+      "name": "Jasper Tay",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "PM",
+      "role": "Employee",
+      "url": "https://angel.co/u/danial-daychopan",
+      "name": "Danial Daychopan",
+      "avatar": "https://photos.angel.co/users/1039310-medium_jpg?1575489765",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "983680",
+    "angelListUrl": "https://angel.co/company/plutus-it"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Remote Backend Engineer for a UK based Fintech/Blockchain Startup",
+      "description": "** Who are we?\n\nWe are a UK based Fintech startup, with a mission to bridge the gap between the traditional payment infrastructure and the blockchain. A distributed team with our head office in London for our local team, however we encourage working 100% remotely, we are passionate about our product, we have a great engineering culture, and we're looking for other talented individuals to join us to disrupt the finance industry.\n\nWe are a highly collaborative team with little micro-management but you'll get lots of guidance and support from your colleagues. Task ownership is key; we strongly believe that freedom and autonomy brings out the best attribute in people.\n\nDust off your resume - If you feel this could be of interest, come in for a chat! We like ambitious and bright minds, not bots.\n\n\n** What we do?\n\nThe company was founded in 2015 and has gone to raise funding since and develop and launch several products with thousands of downloads and users of our applications, our product achievements so far:\n\n- Personal finance and management platform\n- Payment infrastructure with third party VISA integration\n- Peer-to-Peer currency exchange built on the Blockchain (DEX)\n- Decentralised Loyalty Programme\n- Android Finance Application\n- iOS Finance Application\n\n\n** What we need?\n\nOur development team is looking for a like minded and strong candidate who is able to demonstrate that he/she has the ability and skills to play a key role as a developer for a Fintech startup, who has completed at least one full cycle of a Fintech solution development.\n\n\n- Strong backend experience with Node.js/Express development.\n- At least 2 projects where you were fully involved in writing services on that technology\n- Proficiency JavaScript, CSS, HTML, SQL, PostgreSQL coding principles\n- Good undersanding of Webpack, ES6, OAuth, JWT, Git, CI/CD, AWS, Linux\n- Preferred basic understanding of Docker\n- Preferred basic knowledge of GraphQL\n- Extensive experience of developing high performance, large-scale systems throughout the product lifecycle.\n- Proficient in Blockchain.\n- Fluent English\n\n\n** Benefits\n\n- Competitive salary. (up to €60,000)\n- 100% remote working.\n- Flexible working hours.\n- A development team made by developers, for developers.\n- Quarterly socials.",
+      "descriptionHtml": "<p>** Who are we?</p>\n\n<p>We are a UK based Fintech startup, with a mission to bridge the gap between the traditional payment infrastructure and the blockchain. A distributed team with our head office in London for our local team, however we encourage working 100% remotely, we are passionate about our product, we have a great engineering culture, and we&#39;re looking for other talented individuals to join us to disrupt the finance industry.</p>\n\n<p>We are a highly collaborative team with little micro-management but you&#39;ll get lots of guidance and support from your colleagues. Task ownership is key; we strongly believe that freedom and autonomy brings out the best attribute in people.</p>\n\n<p>Dust off your resume - If you feel this could be of interest, come in for a chat! We like ambitious and bright minds, not bots.</p>\n\n<p>** What we do?</p>\n\n<p>The company was founded in 2015 and has gone to raise funding since and develop and launch several products with thousands of downloads and users of our applications, our product achievements so far:</p>\n\n<ul>\n<li>Personal finance and management platform</li>\n<li>Payment infrastructure with third party VISA integration</li>\n<li>Peer-to-Peer currency exchange built on the Blockchain (DEX)</li>\n<li>Decentralised Loyalty Programme</li>\n<li>Android Finance Application</li>\n<li>iOS Finance Application</li>\n</ul>\n\n<p>** What we need?</p>\n\n<p>Our development team is looking for a like minded and strong candidate who is able to demonstrate that he/she has the ability and skills to play a key role as a developer for a Fintech startup, who has completed at least one full cycle of a Fintech solution development.</p>\n\n<ul>\n<li>Strong backend experience with Node.js/Express development.</li>\n<li>At least 2 projects where you were fully involved in writing services on that technology</li>\n<li>Proficiency JavaScript, CSS, HTML, SQL, PostgreSQL coding principles</li>\n<li>Good undersanding of Webpack, ES6, OAuth, JWT, Git, CI/CD, AWS, Linux</li>\n<li>Preferred basic understanding of Docker</li>\n<li>Preferred basic knowledge of GraphQL</li>\n<li>Extensive experience of developing high performance, large-scale systems throughout the product lifecycle.</li>\n<li>Proficient in Blockchain.</li>\n<li>Fluent English</li>\n</ul>\n\n<p>** Benefits</p>\n\n<ul>\n<li>Competitive salary. (up to €60,000)</li>\n<li>100% remote working.</li>\n<li>Flexible working hours.</li>\n<li>A development team made by developers, for developers.</li>\n<li>Quarterly socials.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "CSS",
+        "Node.js",
+        "Bitcoin",
+        "JSON / XML / HTML / Javascript / JQuery",
+        "Ethereum",
+        "Blockchain"
+      ],
+      "payment": {
+        "salary": "$40k – $60k"
+      },
+      "recruiter": {
+        "title": "PM",
+        "role": "Employee",
+        "url": "https://angel.co/u/danial-daychopan",
+        "name": "Danial Daychopan",
+        "avatar": "https://photos.angel.co/users/1039310-medium_jpg?1575489765"
+      },
+      "refs": {
+        "angelListId": "676368",
+        "angelListUrl": "https://angel.co/company/plutus-it/jobs/676368-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Remote DevOps Engineer for a UK based Fintech/Blockchain Startup",
+      "description": "**Who we are?\n\nWe are a UK based Fintech startup, with a mission to bridge the gap between the traditional payment infrastructure and the blockchain. A distributed team with our head office in London for our local team, however we encourage working 100% remotely, we are passionate about our product, we have a great engineering culture, and we're looking for other talented individuals to join us to disrupt the finance industry.\n\nWe are a highly collaborative team with little micro-management but you'll get lots of guidance and support from your colleagues. Task ownership is key; we strongly believe that freedom and autonomy brings out the best attribute in people.\n\nDust off your resume - If you feel this could be of interest, come in for a chat! We like ambitious and bright minds, not bots.\n\n\n**What we do?\n\nThe company was founded in 2015 and has gone to raise funding since and develop and launch several products with thousands of downloads and users of our applications, our product achievements so far:\n\n- Personal finance and management platform\n- Payment infrastructure with third party VISA integration\n- Peer-to-Peer currency exchange built on the Blockchain (DEX)\n- Decentralised Loyalty Programme\n- Android Finance Application\n- iOS Finance Application\n\n\n**What we need?\n\nOur talented development team needs another like minded individual to join and help them with the systems infrastructure, you obviously need to be skill-full but must have love for the code.\n\n- Experience with cloud infrastructure, management and hosting\n- Experience with infrastructure as code, specifically Terraform\n- Experience 1-2 years with GCP and configuring VPCs\n- Experience with infrastructure as code / containerization / DevOps (Kubernetes, Docker)\n- Experience with configuring IPSEC site-to-site connection\n- Experience configure NAT\n(You must have good internet connection and a laptop if you prefer to work remote.)\n\n\n**Benefits\n\n- Competitive salary (up to €60,000)\n- Remote working structure\n- Flexible working hours\n- A development team made by developers, for developers\n- Quarterly socials",
+      "descriptionHtml": "<p>**Who we are?</p>\n\n<p>We are a UK based Fintech startup, with a mission to bridge the gap between the traditional payment infrastructure and the blockchain. A distributed team with our head office in London for our local team, however we encourage working 100% remotely, we are passionate about our product, we have a great engineering culture, and we&#39;re looking for other talented individuals to join us to disrupt the finance industry.</p>\n\n<p>We are a highly collaborative team with little micro-management but you&#39;ll get lots of guidance and support from your colleagues. Task ownership is key; we strongly believe that freedom and autonomy brings out the best attribute in people.</p>\n\n<p>Dust off your resume - If you feel this could be of interest, come in for a chat! We like ambitious and bright minds, not bots.</p>\n\n<p>**What we do?</p>\n\n<p>The company was founded in 2015 and has gone to raise funding since and develop and launch several products with thousands of downloads and users of our applications, our product achievements so far:</p>\n\n<ul>\n<li>Personal finance and management platform</li>\n<li>Payment infrastructure with third party VISA integration</li>\n<li>Peer-to-Peer currency exchange built on the Blockchain (DEX)</li>\n<li>Decentralised Loyalty Programme</li>\n<li>Android Finance Application</li>\n<li>iOS Finance Application</li>\n</ul>\n\n<p>**What we need?</p>\n\n<p>Our talented development team needs another like minded individual to join and help them with the systems infrastructure, you obviously need to be skill-full but must have love for the code.</p>\n\n<ul>\n<li>Experience with cloud infrastructure, management and hosting</li>\n<li>Experience with infrastructure as code, specifically Terraform</li>\n<li>Experience 1-2 years with GCP and configuring VPCs</li>\n<li>Experience with infrastructure as code / containerization / DevOps (Kubernetes, Docker)</li>\n<li>Experience with configuring IPSEC site-to-site connection</li>\n<li>Experience configure NAT\n(You must have good internet connection and a laptop if you prefer to work remote.)</li>\n</ul>\n\n<p>**Benefits</p>\n\n<ul>\n<li>Competitive salary (up to €60,000)</li>\n<li>Remote working structure</li>\n<li>Flexible working hours</li>\n<li>A development team made by developers, for developers</li>\n<li>Quarterly socials</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Management",
+        "Cloud Computing",
+        "Domain & Web Hosting",
+        "IPsec",
+        "Terraform",
+        "DevOps/Linux/Docker/Jenkins/Chef/Puppet/Git"
+      ],
+      "payment": {
+        "salary": "€40k – €60k"
+      },
+      "recruiter": {
+        "title": "PM",
+        "role": "Employee",
+        "url": "https://angel.co/u/danial-daychopan",
+        "name": "Danial Daychopan",
+        "avatar": "https://photos.angel.co/users/1039310-medium_jpg?1575489765"
+      },
+      "refs": {
+        "angelListId": "676371",
+        "angelListUrl": "https://angel.co/company/plutus-it/jobs/676371-"
+      }
+    }
+  ]
+}

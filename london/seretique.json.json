@@ -1,0 +1,111 @@
+{
+  "name": "ShareTap",
+  "avatar": "https://photos.angel.co/startups/i/652228-5214237bd3ad8614efac18227c4f9db4-medium_jpg.jpg?buster=1581000334",
+  "slogan": "FoodSharing",
+  "description": "Coming soon",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://underdevelopment.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Web Development"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [],
+  "perks": [],
+  "refs": {
+    "angelListId": "652228",
+    "angelListUrl": "https://angel.co/company/seretique"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "CTO/Co-Founder/App Developer",
+      "description": "I am looking for a CTO/Co-Founder who would develop a mobile app and be in charge of our tech side. However, this is a super early stage and I cannot offer a salary, only equity once we are up and running.\n\nIf you have time to devote on a new project, I am flexible with working hours - you can do it in your own time as long as you are serious about it.\n\nI can't say too much about the company here yet, but it focuses on reducing food waste and hunger. If this sounds of any interest to you, please drop me a message and we can discuss further. Thanks!",
+      "descriptionHtml": "<p>I am looking for a CTO/Co-Founder who would develop a mobile app and be in charge of our tech side. However, this is a super early stage and I cannot offer a salary, only equity once we are up and running.</p>\n\n<p>If you have time to devote on a new project, I am flexible with working hours - you can do it in your own time as long as you are serious about it.</p>\n\n<p>I can&#39;t say too much about the company here yet, but it focuses on reducing food waste and hunger. If this sounds of any interest to you, please drop me a message and we can discuss further. Thanks!</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Machine Learning",
+        "Mobile Development",
+        "Web Applications",
+        "AI",
+        "Data Science",
+        "Apple"
+      ],
+      "payment": {
+        "salary": "10.0% – 20.0%",
+        "equity": "10.0% – 20.0%"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "668357",
+        "angelListUrl": "https://angel.co/company/seretique/jobs/668357-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Market Researcher/Analyst - 1 Month Internship at a Sustainability Startup",
+      "description": "I am working on an app to tackle the food waste issue we are facing. I am looking for someone to help out with the market analysis and business plan. You can work in your own time, no need to come to an office!",
+      "descriptionHtml": "<p>I am working on an app to tackle the food waste issue we are facing. I am looking for someone to help out with the market analysis and business plan. You can work in your own time, no need to come to an office!</p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Data Analysis",
+        "Marketing Strategy",
+        "Market Research",
+        "Business Analyst"
+      ],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "718501",
+        "angelListUrl": "https://angel.co/company/seretique/jobs/718501-"
+      }
+    }
+  ]
+}

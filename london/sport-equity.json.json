@@ -1,0 +1,95 @@
+{
+  "name": "Sport Equity",
+  "avatar": "https://photos.angel.co/startups/i/6880915-ed576e56f5fed76bd93945b0b2bc5df5-medium_jpg.jpg?buster=1555083361",
+  "slogan": "Sport Blockchain project",
+  "description": "We are currently working on a blockchain project in sport based on redistribution. I use my sports connection to respond to this identified need. In addition to participating in the sports economy, our approach has a social act. We are looking for a motivated person sharing the values of sport. You will have a big role in our team because you will implement and control the whole technical part of the project. We are really looking forward to meeting you !",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://sport-equity.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Sports",
+    "Blockchains",
+    "Social"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/luix-roussarie",
+      "name": "LUIX ROUSSARIE",
+      "avatar": "https://photos.angel.co/users/9208620-medium_jpg?1555407385",
+      "bioHtml": "I am a former professional rugby player and I got my master&#39;s in business last summer. I am fascinated by new technologies especially blockchain. "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6880915",
+    "angelListUrl": "https://angel.co/company/sport-equity"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "CTO",
+      "description": "We are currently working on a blockchain project in sport based on redistribution. I use my sports connection to respond to this identified need. In addition to participating in the sports economy, our approach has a social act. We are looking for a motivated person sharing the values of sport. You will have a big role in our team because you will implement and control the whole technical part of the project. We are really looking forward to meeting you !",
+      "descriptionHtml": "<p>We are currently working on a blockchain project in sport based on redistribution. I use my sports connection to respond to this identified need. In addition to participating in the sports economy, our approach has a social act. We are looking for a motivated person sharing the values of sport. You will have a big role in our team because you will implement and control the whole technical part of the project. We are really looking forward to meeting you !</p>\n",
+      "position": "cofounder",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Paris"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Programming",
+        "Coding"
+      ],
+      "payment": {
+        "salary": "€30k – €50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/luix-roussarie",
+        "name": "LUIX ROUSSARIE",
+        "avatar": "https://photos.angel.co/users/9208620-medium_jpg?1555407385"
+      },
+      "refs": {
+        "angelListId": "546757",
+        "angelListUrl": "https://angel.co/company/sport-equity/jobs/546757-"
+      }
+    }
+  ]
+}

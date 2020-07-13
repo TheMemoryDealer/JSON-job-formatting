@@ -1,0 +1,345 @@
+{
+  "name": "City Pantry",
+  "avatar": "https://photos.angel.co/startups/i/604147-783c1edc743106158e65d33191e6bc0b-medium_jpg.jpg?buster=1500795722",
+  "slogan": "Online Catering Platform",
+  "description": "Good food makes a great company. Order office food delivery in London and get your team around the table every week with delicious catered food from London's best restaurants for office meetings, events or team lunch.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://citypantry.com/careers"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/citypantry"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/citypantry"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/citypantry/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "London",
+    "Greater London",
+    "London",
+    "City of London",
+    "Manchester",
+    "Manchester"
+  ],
+  "marketTags": [
+    "Food and Beverages",
+    "Marketplaces",
+    "Foodtech",
+    "Online Marketplaces",
+    "Catering",
+    "Marketplace"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 6570000,
+    "rounds": [
+      {
+        "type": "Series A",
+        "closedAt": 1523145600,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1470182400,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/stuart-sunderland-1",
+      "name": "Stuart Sunderland",
+      "avatar": "https://photos.angel.co/users/1288835-medium_jpg?1434646074",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/city-pantry\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">City Pantry</span></a> • Worked at <a href=\"https://angel.co/company/cantor-fitzgerald\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Cantor Fitzgerald</span></a> • Studied at <a href=\"https://angel.co/university-of-st-andrews\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of St Andrews</span></a>"
+    },
+    {
+      "title": "Marketing Comms Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/bethan-sibley-1",
+      "name": "Bethan Sibley",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Works at Festicket"
+    },
+    {
+      "title": "Corporate and New Markets Sales Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/linda-yuan-2",
+      "name": "Linda Yuan",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "A results driven and resilient sales professional with a track record in generating high revenue growth for SMEs."
+    },
+    {
+      "title": "Head of Sales",
+      "role": "Employee",
+      "url": "https://angel.co/u/david-james-forster",
+      "name": "David James Forster",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [
+    {
+      "category": "parental_leave",
+      "title": "Great Pat and Mat Leave! "
+    },
+    {
+      "category": "generous_vacation",
+      "title": "UNLIMITED HOLIDAYS! "
+    },
+    {
+      "category": "company_meals",
+      "title": "Free Lunch 3x a week! "
+    },
+    {
+      "category": "work_from_home",
+      "title": "Flexible Working for all! "
+    }
+  ],
+  "refs": {
+    "angelListId": "604147",
+    "angelListUrl": "https://angel.co/company/city-pantry"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Engineer",
+      "description": "Company culture, delivered.\n\nWe help London’s greatest teams work better by eating together. We believe that good food makes a great company – sharing a meal creates an environment where better communication, productivity and health are nourished.\n\nAfter four years, we are delivering thousands of meals every day across London to some of the world’s most iconic brands – Google, Facebook, Spotify and Buzzfeed, amongst many others. We’re working with a world of kitchens, over 300 of the best independent chefs, street vendors, specialist caterers, restaurants and supper clubs in London.\n\nWe are currently a team of 60, working from an really cool new office near London Bridge. You’ll be joining at the most exciting stage of our journey so far, as we solidify our position as Europe’s largest B2B food delivery platform.\n\nAs one of our full stack engineers, you'll play a key part in building and maintaining the whole City Pantry system - customer-facing platforms, backend interface, vendor-facing platforms, operations tooling and more. From the first drafts of new features to scaling our system on Google Cloud Platform, you'll be on the frontline of our entire technical solution.\n\nRequirements\n\nWorking with us as a Full Stack Engineer, you will:\n\n* Design, develop and deliver new features for our core API, front end platforms and related services\n* Maintain and evolve our technology infrastructure\n* Continually develop processes to improve the development lifecycle\n* Maintain and develop coding standards, best practices, and procedures\n* Engage with the following tech stack:\n** PHP 7.1, Symfony 3, PHPUnit, Mockery\n** MongoDB, SQL\n** Angular (5+), AngularJS\n** HTML, CSS, Sass\n** NodeJS 6+\n** Google Cloud Platform, AWS\n** Git, Linux\n** Docker, Kubernetes\n\n\nHere’s what we’ll need from you:\n\n* Demonstrable, commensurate experience in software development, architecture, security and design\n* Superb communication skills\n* Mastery of PHP development and preferably experience with an Object Oriented Backend language (Java, Scala)\n* Solid experience with Angular or another modern JavaScript framework\n* Understanding of RESTful design & API driven development principles\n* Familiarity with MongoDB and SQL databases\n* Familiarity with Continuous Integration, Containerisation and deployment workflows\n* Experience with Cloud hosted services - Google cloud or AWS - will be a real benefit\n* Docker or Kubernetes Experience\n\nBenefits\n\nHere’s what you can expect from us. We practice what we preach and eat together three times a week – of course – but there’s a lot more besides:\n\n* Competitive compensation package\n* Unlimited holiday\n* Flexible working hours\n* £2000 annual learning allowance\n* Delicious lunch provided three times a week\n* Opportunity to help scale a really cool startup across the UK and beyond\n* Exciting team invents including ‘Gin and Learn’ Fridays",
+      "descriptionHtml": "<p>Company culture, delivered.</p>\n\n<p>We help London’s greatest teams work better by eating together. We believe that good food makes a great company – sharing a meal creates an environment where better communication, productivity and health are nourished.</p>\n\n<p>After four years, we are delivering thousands of meals every day across London to some of the world’s most iconic brands – Google, Facebook, Spotify and Buzzfeed, amongst many others. We’re working with a world of kitchens, over 300 of the best independent chefs, street vendors, specialist caterers, restaurants and supper clubs in London.</p>\n\n<p>We are currently a team of 60, working from an really cool new office near London Bridge. You’ll be joining at the most exciting stage of our journey so far, as we solidify our position as Europe’s largest B2B food delivery platform.</p>\n\n<p>As one of our full stack engineers, you&#39;ll play a key part in building and maintaining the whole City Pantry system - customer-facing platforms, backend interface, vendor-facing platforms, operations tooling and more. From the first drafts of new features to scaling our system on Google Cloud Platform, you&#39;ll be on the frontline of our entire technical solution.</p>\n\n<p>Requirements</p>\n\n<p>Working with us as a Full Stack Engineer, you will:</p>\n\n<ul>\n<li>Design, develop and deliver new features for our core API, front end platforms and related services</li>\n<li>Maintain and evolve our technology infrastructure</li>\n<li>Continually develop processes to improve the development lifecycle</li>\n<li>Maintain and develop coding standards, best practices, and procedures</li>\n<li>Engage with the following tech stack:\n** PHP 7.1, Symfony 3, PHPUnit, Mockery\n** MongoDB, SQL\n** Angular (5+), AngularJS\n** HTML, CSS, Sass\n** NodeJS 6+\n** Google Cloud Platform, AWS\n** Git, Linux\n** Docker, Kubernetes</li>\n</ul>\n\n<p>Here’s what we’ll need from you:</p>\n\n<ul>\n<li>Demonstrable, commensurate experience in software development, architecture, security and design</li>\n<li>Superb communication skills</li>\n<li>Mastery of PHP development and preferably experience with an Object Oriented Backend language (Java, Scala)</li>\n<li>Solid experience with Angular or another modern JavaScript framework</li>\n<li>Understanding of RESTful design &amp; API driven development principles</li>\n<li>Familiarity with MongoDB and SQL databases</li>\n<li>Familiarity with Continuous Integration, Containerisation and deployment workflows</li>\n<li>Experience with Cloud hosted services - Google cloud or AWS - will be a real benefit</li>\n<li>Docker or Kubernetes Experience</li>\n</ul>\n\n<p>Benefits</p>\n\n<p>Here’s what you can expect from us. We practice what we preach and eat together three times a week – of course – but there’s a lot more besides:</p>\n\n<ul>\n<li>Competitive compensation package</li>\n<li>Unlimited holiday</li>\n<li>Flexible working hours</li>\n<li>£2000 annual learning allowance</li>\n<li>Delicious lunch provided three times a week</li>\n<li>Opportunity to help scale a really cool startup across the UK and beyond</li>\n<li>Exciting team invents including ‘Gin and Learn’ Fridays</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£60k – £70k"
+      },
+      "recruiter": {
+        "title": "Head of Talent",
+        "role": "Employee",
+        "url": "https://angel.co/u/alex-jones-6",
+        "name": "Alex Jones",
+        "avatar": "https://photos.angel.co/users/1189971-medium_jpg?1472826935"
+      },
+      "refs": {
+        "angelListId": "427033",
+        "angelListUrl": "https://angel.co/company/city-pantry/jobs/427033-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Lead Front End Developer",
+      "description": "Company culture, delivered.\n\nWe help London’s greatest teams work better by eating together. We believe that good food makes a great company – sharing a meal creates an environment where better communication, productivity and health are nourished.\n\nAfter four years, we are delivering thousands of meals every day across London to some of the world’s most iconic brands – Google, Facebook, Spotify and Buzzfeed, amongst many others. We’re working with a world of kitchens, over 300 of the best independent chefs, street vendors, specialist caterers, restaurants and supper clubs in London.\n\nWe are currently a team of 65, working from a cool new office near London Bridge. You’ll be joining at the most exciting stage of our journey so far, as we solidify our position as Europe’s largest B2B food delivery platform.\n\nAs a Lead Front End Developer, you'll play a key part in building and maintaining the whole City Pantry system - customer-facing platforms, admin interface, vendor-facing platforms, operations tooling and more. From the first drafts of new features to scaling our system on Google Cloud Platform, you'll be on the frontline of our entire technical solution. \n\nYou'll be building a team, as we scale as a business. Helping us to grow globally and deliver food worldwide. \n\nWHAT WE DO\n\nThe Tech team builds and maintains all of the infrastructure and applications responsible for choosing and delivering 10,000 meals every day. From search engines, menu planning, eater management to integrations with courier APIs, our tools provide seamless ordering experience and help the UK’s most influential companies feed their teams better and faster. On the other end of the platform, we create tools that help kitchens build their menus, track orders and improve outreach to maximise their potential.\n\nWHAT YOU’LL DO\n\nDeliver large frontend features to our customers.\nShape the future of our frontend by driving decisions around its structure, coding guidelines, testing, QA, and delivery.\nSolve complex architectural problems in an extensible, maintainable way and bring clarity around those across the organisation.\nContribute to discussions around the design, implementation and scaling of the entire platform, from infrastructure all the way to the UX.\nMentor more junior engineers to deliver exceptional code fast.\nHelp evolve our CI/CD pipeline and improve it to drive a fast product release cycle.\n\nWHAT WE THINK ARE IMPORTANT SKILLS FOR THIS ROLE\n\nTrack record of building large, scalable frontend solutions.\nExperience with varied front end technologies, from MVC to modern JS frameworks, and a good understanding of the tradeoffs in each of them.\nExcellent command of JavaScript, TypeScript and at least one backend technology.\nExperience in architecting and building full-stack solutions.\nKnowledge of best practices in modern CI/CD pipelines.\nPassion for building approachable, scalable infrastructure and code that enables teams to quickly iterate on complex solutions.\nDedication to passing on the knowledge you’ve gained to others through pair programming, code reviews and mentorship.\n8+ years of experience.\n\nWHAT WE VALUE\n\nCreative individuals who strive to deliver value to our customers fast through by means of exceptional, accessible code.\nStrong communication skills and the ability to explain complex problems to technical and non-technical audiences, through code, white-boarding or company-wide presentations.\nAbility to manage the expectations of others–do what you say you will!\nEmpathy for your peers and your users.\n\nBenefits\n\nHere’s what you can expect from us. We practice what we preach and eat together three times a week – of course – but there’s a lot more besides:\n\n* Competitive compensation package\n* Unlimited holiday\n* Flexible working hours\n* £2000 annual learning allowance\n* Delicious lunch provided three times a week\n* Opportunity to help scale a really cool startup across the UK and beyond\n* Exciting team invents such as ‘Wellness Wednesdays’ or ‘Gin and Learn Fridays’",
+      "descriptionHtml": "<p>Company culture, delivered.</p>\n\n<p>We help London’s greatest teams work better by eating together. We believe that good food makes a great company – sharing a meal creates an environment where better communication, productivity and health are nourished.</p>\n\n<p>After four years, we are delivering thousands of meals every day across London to some of the world’s most iconic brands – Google, Facebook, Spotify and Buzzfeed, amongst many others. We’re working with a world of kitchens, over 300 of the best independent chefs, street vendors, specialist caterers, restaurants and supper clubs in London.</p>\n\n<p>We are currently a team of 65, working from a cool new office near London Bridge. You’ll be joining at the most exciting stage of our journey so far, as we solidify our position as Europe’s largest B2B food delivery platform.</p>\n\n<p>As a Lead Front End Developer, you&#39;ll play a key part in building and maintaining the whole City Pantry system - customer-facing platforms, admin interface, vendor-facing platforms, operations tooling and more. From the first drafts of new features to scaling our system on Google Cloud Platform, you&#39;ll be on the frontline of our entire technical solution. </p>\n\n<p>You&#39;ll be building a team, as we scale as a business. Helping us to grow globally and deliver food worldwide. </p>\n\n<p>WHAT WE DO</p>\n\n<p>The Tech team builds and maintains all of the infrastructure and applications responsible for choosing and delivering 10,000 meals every day. From search engines, menu planning, eater management to integrations with courier APIs, our tools provide seamless ordering experience and help the UK’s most influential companies feed their teams better and faster. On the other end of the platform, we create tools that help kitchens build their menus, track orders and improve outreach to maximise their potential.</p>\n\n<p>WHAT YOU’LL DO</p>\n\n<p>Deliver large frontend features to our customers.<br>\nShape the future of our frontend by driving decisions around its structure, coding guidelines, testing, QA, and delivery.<br>\nSolve complex architectural problems in an extensible, maintainable way and bring clarity around those across the organisation.<br>\nContribute to discussions around the design, implementation and scaling of the entire platform, from infrastructure all the way to the UX.<br>\nMentor more junior engineers to deliver exceptional code fast.<br>\nHelp evolve our CI/CD pipeline and improve it to drive a fast product release cycle.</p>\n\n<p>WHAT WE THINK ARE IMPORTANT SKILLS FOR THIS ROLE</p>\n\n<p>Track record of building large, scalable frontend solutions.<br>\nExperience with varied front end technologies, from MVC to modern JS frameworks, and a good understanding of the tradeoffs in each of them.<br>\nExcellent command of JavaScript, TypeScript and at least one backend technology.<br>\nExperience in architecting and building full-stack solutions.<br>\nKnowledge of best practices in modern CI/CD pipelines.<br>\nPassion for building approachable, scalable infrastructure and code that enables teams to quickly iterate on complex solutions.<br>\nDedication to passing on the knowledge you’ve gained to others through pair programming, code reviews and mentorship.<br>\n8+ years of experience.</p>\n\n<p>WHAT WE VALUE</p>\n\n<p>Creative individuals who strive to deliver value to our customers fast through by means of exceptional, accessible code.<br>\nStrong communication skills and the ability to explain complex problems to technical and non-technical audiences, through code, white-boarding or company-wide presentations.<br>\nAbility to manage the expectations of others–do what you say you will!<br>\nEmpathy for your peers and your users.</p>\n\n<p>Benefits</p>\n\n<p>Here’s what you can expect from us. We practice what we preach and eat together three times a week – of course – but there’s a lot more besides:</p>\n\n<ul>\n<li>Competitive compensation package</li>\n<li>Unlimited holiday</li>\n<li>Flexible working hours</li>\n<li>£2000 annual learning allowance</li>\n<li>Delicious lunch provided three times a week</li>\n<li>Opportunity to help scale a really cool startup across the UK and beyond</li>\n<li>Exciting team invents such as ‘Wellness Wednesdays’ or ‘Gin and Learn Fridays’</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "PHP",
+        "Software Development",
+        "Node.js",
+        "Front-End Development",
+        "Frontend Development",
+        "AngularJS",
+        "Application Development",
+        "React.js",
+        "Angular"
+      ],
+      "payment": {
+        "salary": "£70k – £85k"
+      },
+      "recruiter": {
+        "title": "Head of Talent",
+        "role": "Employee",
+        "url": "https://angel.co/u/alex-jones-6",
+        "name": "Alex Jones",
+        "avatar": "https://photos.angel.co/users/1189971-medium_jpg?1472826935"
+      },
+      "refs": {
+        "angelListId": "439366",
+        "angelListUrl": "https://angel.co/company/city-pantry/jobs/439366-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Head of Performance Marketing",
+      "description": "PLEASE NOTE THAT APPLICATIONS WILL ONLY BE CONSIDERED IF A COVER LETTER IS INCLUDED OUTLINING YOUR REASONS FOR APPLYING TO THIS ROLE AND WHY YOU THINK YOU MAKE AN EXCEPTIONAL CANDIDATE.\n\n\nAt City Pantry we’re changing the way people work together. We believe that good food makes a great company and that sharing a meal creates an environment where better communication, productivity and health are nourished. It’s a tough challenge. And we need people like you.\n\nAfter four years, we are delivering thousands of meals every day across London to some of the world’s most iconic brands – Google, Facebook, Spotify and Buzzfeed, among many others. We’re working with a world of kitchens, over 400 of the best independent chefs, street vendors, specialist caterers, restaurants and supper clubs in London.\n\nWe are currently a team of 70, with offices based in London Bridge. As we solidify our position as Europe’s largest B2B food delivery platform and continue to expand geographically, we are looking for a proactive self-starter with a demonstrable track record of delivering growth through a relentless focus on channel performance.\n\n\nThe Role\n\nThe Head of Performance Marketing will be an experienced and entrepreneurial leader responsible for driving and accelerating growth through customer acquisition. A newly created role to lead acquisition marketing, currently with 1 direct report, but with a remit for rapid expansion. You will be responsible for managing all paid acquisition channels including Paid Search, Facebook, LinkedIn & Display. As a rapidly scaling business, where budgets are rapidly increasing year on year, your task will be to deliver continued growth through optimising existing channels and unlocking new ones.\n\nWorking closely with the Head of Marketing, you will own the paid performance of the business, balancing the need for growth with the need for effectiveness. You will provide a relentless focus on metrics and data driven-decision making. Together with the management team, you will also be involved in guiding the wider performance of City Pantry, helping to shape the direction of the business as it goes through the next stage of its growth.\n\nWorking with us as the Head of Performance Marketing, you will be responsible for:\n\n* Managing all paid media activity and budget allocation across paid search, SEO, paid social and other channels\n* Defining channel strategies and managing a continuous, meticulously planned and documented testing plan with an obsessive focus on measurement and analysis\n* Delivering consistent channel growth and performance improvements, against key metrics and company targets\n* Forecasting and deep diving into channel performance, process and operations to identify opportunities and constantly optimize spend and ROI\n* Developing segmentation and personalisation strategies based on customer profiling, purchase cycle and churn analysis\n* Leading a team of high performing senior digital marketers\n* Building the performance marketing infrastructure, such as reporting, process necessary to support growth\n\nRequirements\n\nWe do what we say we will. And here is what we’ll need from you:\n\n* A proven Performance Marketer, deeply familiar with best practice and performance management of marketing channels\n* 7 years+ of digital marketing experience, preferably work experience in both client and agency roles\n* Highly effective communicator able to clearly present complex and data rich proposals, both in written and verbal form\n* Demonstrable experience with traditional digital marketing tools (e.g. Google Ads, Google Analytics, Facebook Ads, Funnel analytics tools)\n* Advanced excel abilities and comfortability with BI tools, ability to develop formulas and build reports with a meticulous attention to detail\n* Previous experience managing a team\n* Previous experience of working in a high growth company or start-up environment, preferably in a B2B or B2B2C environment\n\nBenefits\n\nWe practice what we preach and eat lunch together three times a week. We also offer:\n\n* Competitive Salary\n* Unlimited holiday\n* Flexible working hours\n* £2000 annual education allowance for you to spend on learning and development\n* Regular and diverse social activities such as yoga, “gin & learn” sessions, five-a-side, and Wellness Wednesday",
+      "descriptionHtml": "<p>PLEASE NOTE THAT APPLICATIONS WILL ONLY BE CONSIDERED IF A COVER LETTER IS INCLUDED OUTLINING YOUR REASONS FOR APPLYING TO THIS ROLE AND WHY YOU THINK YOU MAKE AN EXCEPTIONAL CANDIDATE.</p>\n\n<p>At City Pantry we’re changing the way people work together. We believe that good food makes a great company and that sharing a meal creates an environment where better communication, productivity and health are nourished. It’s a tough challenge. And we need people like you.</p>\n\n<p>After four years, we are delivering thousands of meals every day across London to some of the world’s most iconic brands – Google, Facebook, Spotify and Buzzfeed, among many others. We’re working with a world of kitchens, over 400 of the best independent chefs, street vendors, specialist caterers, restaurants and supper clubs in London.</p>\n\n<p>We are currently a team of 70, with offices based in London Bridge. As we solidify our position as Europe’s largest B2B food delivery platform and continue to expand geographically, we are looking for a proactive self-starter with a demonstrable track record of delivering growth through a relentless focus on channel performance.</p>\n\n<p>The Role</p>\n\n<p>The Head of Performance Marketing will be an experienced and entrepreneurial leader responsible for driving and accelerating growth through customer acquisition. A newly created role to lead acquisition marketing, currently with 1 direct report, but with a remit for rapid expansion. You will be responsible for managing all paid acquisition channels including Paid Search, Facebook, LinkedIn &amp; Display. As a rapidly scaling business, where budgets are rapidly increasing year on year, your task will be to deliver continued growth through optimising existing channels and unlocking new ones.</p>\n\n<p>Working closely with the Head of Marketing, you will own the paid performance of the business, balancing the need for growth with the need for effectiveness. You will provide a relentless focus on metrics and data driven-decision making. Together with the management team, you will also be involved in guiding the wider performance of City Pantry, helping to shape the direction of the business as it goes through the next stage of its growth.</p>\n\n<p>Working with us as the Head of Performance Marketing, you will be responsible for:</p>\n\n<ul>\n<li>Managing all paid media activity and budget allocation across paid search, SEO, paid social and other channels</li>\n<li>Defining channel strategies and managing a continuous, meticulously planned and documented testing plan with an obsessive focus on measurement and analysis</li>\n<li>Delivering consistent channel growth and performance improvements, against key metrics and company targets</li>\n<li>Forecasting and deep diving into channel performance, process and operations to identify opportunities and constantly optimize spend and ROI</li>\n<li>Developing segmentation and personalisation strategies based on customer profiling, purchase cycle and churn analysis</li>\n<li>Leading a team of high performing senior digital marketers</li>\n<li>Building the performance marketing infrastructure, such as reporting, process necessary to support growth</li>\n</ul>\n\n<p>Requirements</p>\n\n<p>We do what we say we will. And here is what we’ll need from you:</p>\n\n<ul>\n<li>A proven Performance Marketer, deeply familiar with best practice and performance management of marketing channels</li>\n<li>7 years+ of digital marketing experience, preferably work experience in both client and agency roles</li>\n<li>Highly effective communicator able to clearly present complex and data rich proposals, both in written and verbal form</li>\n<li>Demonstrable experience with traditional digital marketing tools (e.g. Google Ads, Google Analytics, Facebook Ads, Funnel analytics tools)</li>\n<li>Advanced excel abilities and comfortability with BI tools, ability to develop formulas and build reports with a meticulous attention to detail</li>\n<li>Previous experience managing a team</li>\n<li>Previous experience of working in a high growth company or start-up environment, preferably in a B2B or B2B2C environment</li>\n</ul>\n\n<p>Benefits</p>\n\n<p>We practice what we preach and eat lunch together three times a week. We also offer:</p>\n\n<ul>\n<li>Competitive Salary</li>\n<li>Unlimited holiday</li>\n<li>Flexible working hours</li>\n<li>£2000 annual education allowance for you to spend on learning and development</li>\n<li>Regular and diverse social activities such as yoga, “gin &amp; learn” sessions, five-a-side, and Wellness Wednesday</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Sales and Marketing",
+        "Performance Marketing",
+        "Digital Marketing"
+      ],
+      "payment": {
+        "salary": "£65k – £75k"
+      },
+      "recruiter": {
+        "title": "Head of Talent",
+        "role": "Employee",
+        "url": "https://angel.co/u/alex-jones-6",
+        "name": "Alex Jones",
+        "avatar": "https://photos.angel.co/users/1189971-medium_jpg?1472826935"
+      },
+      "refs": {
+        "angelListId": "459921",
+        "angelListUrl": "https://angel.co/company/city-pantry/jobs/459921-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Head of Customer Experience",
+      "description": "PLEASE NOTE THAT APPLICATIONS WILL ONLY BE CONSIDERED IF A COVER LETTER IS INCLUDED OUTLINING YOUR REASONS FOR APPLYING TO THIS ROLE AND WHY YOU THINK YOU MAKE AN EXCEPTIONAL CANDIDATE.\n\n\nAt City Pantry we’re changing the way people work together. We believe that good food makes a great company and that sharing a meal creates an environment where better communication, productivity and health are nourished. It’s a tough challenge. And we need people like you.\n\nAfter four years, we are delivering thousands of meals every day across London to some of the world’s most iconic brands – Google, Facebook, Spotify and Buzzfeed, among many others. We’re working with a world of kitchens, over 400 of the best independent chefs, street vendors, specialist caterers, restaurants and supper clubs in London.\n\nWe are currently a team of 70, with offices based in London Bridge. As we solidify our position as Europe’s largest B2B food delivery platform and continue to expand geographically, we are looking for someone to help us scale a world class customer experience/customer service department.\n\nThe Role\n\nAs the Head of Customer Experience, you will be responsible for defining and delivering the vision for City Pantry’s customer experience based on our strategy, market positioning and values. Our customer service team currently operates across phone, email, chat and text.\n\nYou will be responsible for defining the strategy and the initiatives that will be required to deliver this customer experience. You will deliver a robust short, mid and long-term roadmap for the company with clear priorities, metrics and deliverables, to arrive at a transformational and differentiating customer experience.\n\nThis will also include building out a customer service team that can efficiently and scalably support a fast growing business that plans to expand beyond London and grow in scope, beyond merely responding to customer inquiries and issues.\n\nMore specifically, you will work closely with the Head of Customer Service to:\n\n* Develop a high performing and highly efficient customer service team. You will be expected to share best practices around:\n** Hiring, training, motivating and retaining a world class team that embodies the City Pantry spirit and values.\n** Identifying operational efficiencies that would allow us to hit all of our internal SLAs, lead and lag measures.\n** Optimizing the use of technology and telephony platforms e.g. text, chat, email to maximize team efficiency and scalability, while providing the best possible experience for our customers.\n\n* Provide team leadership:\n** Motivating, inspiring and developing the broader Customer Service team, taking a hands on role as required.\n** Creating the right team management structures, policies and procedures.\n** Create collaborative, yet constructive/challenging relationships with the other team leads and third parties.\n\n* Scope and prioritise all necessary initiatives - internal, cross functional or external - to take City Pantry’s customer experience to the next level. This would include the building of any business cases to support the case for changes to policies, processes or required investments.\n* Work with the company leadership team and other team leads to explore:\n** How the Customer Service team can support the other areas of the business when it comes to increasing overall business efficiency and scalability.\n** How to improve the Customer Experience across all customer touchpoints\n\nYou will report to the COO. Reporting to you will be the Head of Customer Service, and indirectly, a team of customer service agents.\n\nRequirements\n\nWe do what we say we will. And here is what we’ll need from you:\n\n* A minimum of 6-8 years experience in the customer service space (Call Center environment), with at least 3 years in a management capacity.\n* Experience of having led and scaled a customer facing team in a fast growing company, ideally one that operates across email, chat, text and phone channels.\n* Have implemented and/or optimised customer-related technologies and telephony systems in previous companies, e.g. Zendesk, CRM systems, etc.\n* Strong leadership skills, with the gravitas to define and champion the customer experience, challenging other leaders in the business where necessary.\n* The analytical rigor and problem solving skills required to build business cases and analyse and report on outcomes in a data-driven company.\n\nBenefits\n\nHere’s what you can expect from us. We practice what we preach and eat together three days a week – of course – but there’s a lot more besides:\n\n* Competitive Salary\n* Unlimited holiday\n* Flexible working hours\n* £2000 annual education allowance for you to spend on learning and development\n* Regular and diverse social activities such as yoga, “gin & learn” sessions, five-a-side, and Wellness Wednesdays, etc.",
+      "descriptionHtml": "<p>PLEASE NOTE THAT APPLICATIONS WILL ONLY BE CONSIDERED IF A COVER LETTER IS INCLUDED OUTLINING YOUR REASONS FOR APPLYING TO THIS ROLE AND WHY YOU THINK YOU MAKE AN EXCEPTIONAL CANDIDATE.</p>\n\n<p>At City Pantry we’re changing the way people work together. We believe that good food makes a great company and that sharing a meal creates an environment where better communication, productivity and health are nourished. It’s a tough challenge. And we need people like you.</p>\n\n<p>After four years, we are delivering thousands of meals every day across London to some of the world’s most iconic brands – Google, Facebook, Spotify and Buzzfeed, among many others. We’re working with a world of kitchens, over 400 of the best independent chefs, street vendors, specialist caterers, restaurants and supper clubs in London.</p>\n\n<p>We are currently a team of 70, with offices based in London Bridge. As we solidify our position as Europe’s largest B2B food delivery platform and continue to expand geographically, we are looking for someone to help us scale a world class customer experience/customer service department.</p>\n\n<p>The Role</p>\n\n<p>As the Head of Customer Experience, you will be responsible for defining and delivering the vision for City Pantry’s customer experience based on our strategy, market positioning and values. Our customer service team currently operates across phone, email, chat and text.</p>\n\n<p>You will be responsible for defining the strategy and the initiatives that will be required to deliver this customer experience. You will deliver a robust short, mid and long-term roadmap for the company with clear priorities, metrics and deliverables, to arrive at a transformational and differentiating customer experience.</p>\n\n<p>This will also include building out a customer service team that can efficiently and scalably support a fast growing business that plans to expand beyond London and grow in scope, beyond merely responding to customer inquiries and issues.</p>\n\n<p>More specifically, you will work closely with the Head of Customer Service to:</p>\n\n<ul>\n<li><p>Develop a high performing and highly efficient customer service team. You will be expected to share best practices around:<br>\n** Hiring, training, motivating and retaining a world class team that embodies the City Pantry spirit and values.<br>\n** Identifying operational efficiencies that would allow us to hit all of our internal SLAs, lead and lag measures.<br>\n** Optimizing the use of technology and telephony platforms e.g. text, chat, email to maximize team efficiency and scalability, while providing the best possible experience for our customers.</p></li>\n<li><p>Provide team leadership:<br>\n** Motivating, inspiring and developing the broader Customer Service team, taking a hands on role as required.<br>\n** Creating the right team management structures, policies and procedures.<br>\n** Create collaborative, yet constructive/challenging relationships with the other team leads and third parties.</p></li>\n<li><p>Scope and prioritise all necessary initiatives - internal, cross functional or external - to take City Pantry’s customer experience to the next level. This would include the building of any business cases to support the case for changes to policies, processes or required investments.</p></li>\n<li><p>Work with the company leadership team and other team leads to explore:<br>\n** How the Customer Service team can support the other areas of the business when it comes to increasing overall business efficiency and scalability.<br>\n** How to improve the Customer Experience across all customer touchpoints</p></li>\n</ul>\n\n<p>You will report to the COO. Reporting to you will be the Head of Customer Service, and indirectly, a team of customer service agents.</p>\n\n<p>Requirements</p>\n\n<p>We do what we say we will. And here is what we’ll need from you:</p>\n\n<ul>\n<li>A minimum of 6-8 years experience in the customer service space (Call Center environment), with at least 3 years in a management capacity.</li>\n<li>Experience of having led and scaled a customer facing team in a fast growing company, ideally one that operates across email, chat, text and phone channels.</li>\n<li>Have implemented and/or optimised customer-related technologies and telephony systems in previous companies, e.g. Zendesk, CRM systems, etc.</li>\n<li>Strong leadership skills, with the gravitas to define and champion the customer experience, challenging other leaders in the business where necessary.</li>\n<li>The analytical rigor and problem solving skills required to build business cases and analyse and report on outcomes in a data-driven company.</li>\n</ul>\n\n<p>Benefits</p>\n\n<p>Here’s what you can expect from us. We practice what we preach and eat together three days a week – of course – but there’s a lot more besides:</p>\n\n<ul>\n<li>Competitive Salary</li>\n<li>Unlimited holiday</li>\n<li>Flexible working hours</li>\n<li>£2000 annual education allowance for you to spend on learning and development</li>\n<li>Regular and diverse social activities such as yoga, “gin &amp; learn” sessions, five-a-side, and Wellness Wednesdays, etc.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/stuart-sunderland-1",
+        "name": "Stuart Sunderland",
+        "avatar": "https://photos.angel.co/users/1288835-medium_jpg?1434646074"
+      },
+      "refs": {
+        "angelListId": "524206",
+        "angelListUrl": "https://angel.co/company/city-pantry/jobs/524206-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Sales Manager",
+      "description": "Company culture, delivered.\n\nAt City Pantry we’re changing the way people work together. We believe that good food makes a great company and that sharing a meal creates an environment where better communication, productivity and health are nourished. It’s a tough challenge. And we need people like you.\n\n\nWe’re working with a world of kitchens, over 250 of the best independent chefs, street vendors, specialist caterers, restaurants and supper clubs in London. After three years, we’ve already delivered over one million meals across London to some of the world’s most iconic brands – Google, Facebook, Spotify and Buzzfeed, amongst many others. We’re hungry for more and hope you are too.\n\n\nWorking with us as our Sales Manager, you will:\n\n* Deliver a constant flow of new accounts from both outbound and inbound activity.\n* Work with your team to refine sales propositions, constantly refining strategic approach to ensure maximum conversion on high-potential leads.\n* Help marketing to roll out new corporate initiatives to drive inbound leads.\n* Stay on top of the day-to-day through our CRM system.\n* Learn and develop: we are young ambitious company with regular offsite training.\n\nRequirements\n\nWe do what we say we will. Here's what we'll need from you:\n\n* 3+ years experience in B2B sales both phone & face to face\n* A proven track record of (and a hunger to) smash targets\n* Experience selling a service rather than a product (Software as a Service experience is highly desierable)\n* Takes pride in being the best in the market, and relishes competing with direct competitors for business\n* The ability to get stuff done, consistently and smartly in a startup environment\n* An innate love of speaking to new people each and every day, networking and building relationships\n* A passion for food and cuisine\n* Experience in a fast growth company or startup is highly desirable\n\nBenefits\n\nHere’s what you can expect from us. We practice what we preach and eat together three days a week – of course – but there’s a lot more besides:\n\n* Competitive compensation package based on experience (£30-35k base salary + approx £10-15k OTE)\n* Lunch three times a week from one of our amazing vendors\n* Annual £2k education allowance to continue learning\n* A new Mac and any other tech you need to exceed targets\n* A great office minutes away from London Bridge\n* Fun, friendly and collaborative team with lots of socials",
+      "descriptionHtml": "<p>Company culture, delivered.</p>\n\n<p>At City Pantry we’re changing the way people work together. We believe that good food makes a great company and that sharing a meal creates an environment where better communication, productivity and health are nourished. It’s a tough challenge. And we need people like you.</p>\n\n<p>We’re working with a world of kitchens, over 250 of the best independent chefs, street vendors, specialist caterers, restaurants and supper clubs in London. After three years, we’ve already delivered over one million meals across London to some of the world’s most iconic brands – Google, Facebook, Spotify and Buzzfeed, amongst many others. We’re hungry for more and hope you are too.</p>\n\n<p>Working with us as our Sales Manager, you will:</p>\n\n<ul>\n<li>Deliver a constant flow of new accounts from both outbound and inbound activity.</li>\n<li>Work with your team to refine sales propositions, constantly refining strategic approach to ensure maximum conversion on high-potential leads.</li>\n<li>Help marketing to roll out new corporate initiatives to drive inbound leads.</li>\n<li>Stay on top of the day-to-day through our CRM system.</li>\n<li>Learn and develop: we are young ambitious company with regular offsite training.</li>\n</ul>\n\n<p>Requirements</p>\n\n<p>We do what we say we will. Here&#39;s what we&#39;ll need from you:</p>\n\n<ul>\n<li>3+ years experience in B2B sales both phone &amp; face to face</li>\n<li>A proven track record of (and a hunger to) smash targets</li>\n<li>Experience selling a service rather than a product (Software as a Service experience is highly desierable)</li>\n<li>Takes pride in being the best in the market, and relishes competing with direct competitors for business</li>\n<li>The ability to get stuff done, consistently and smartly in a startup environment</li>\n<li>An innate love of speaking to new people each and every day, networking and building relationships</li>\n<li>A passion for food and cuisine</li>\n<li>Experience in a fast growth company or startup is highly desirable</li>\n</ul>\n\n<p>Benefits</p>\n\n<p>Here’s what you can expect from us. We practice what we preach and eat together three days a week – of course – but there’s a lot more besides:</p>\n\n<ul>\n<li>Competitive compensation package based on experience (£30-35k base salary + approx £10-15k OTE)</li>\n<li>Lunch three times a week from one of our amazing vendors</li>\n<li>Annual £2k education allowance to continue learning</li>\n<li>A new Mac and any other tech you need to exceed targets</li>\n<li>A great office minutes away from London Bridge</li>\n<li>Fun, friendly and collaborative team with lots of socials</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/stuart-sunderland-1",
+        "name": "Stuart Sunderland",
+        "avatar": "https://photos.angel.co/users/1288835-medium_jpg?1434646074"
+      },
+      "refs": {
+        "angelListId": "529705",
+        "angelListUrl": "https://angel.co/company/city-pantry/jobs/529705-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Customer Experience Head",
+      "description": "PLEASE NOTE THAT APPLICATIONS WILL ONLY BE CONSIDERED IF A COVER LETTER IS INCLUDED OUTLINING YOUR REASONS FOR APPLYING TO THIS ROLE AND WHY YOU THINK YOU MAKE AN EXCEPTIONAL CANDIDATE.\n\nAt City Pantry we’re changing the way people work together. We believe that good food makes a great company and that sharing a meal creates an environment where better communication, productivity and health are nourished. It’s a tough challenge. And we need people like you.\n\nAfter four years, we are delivering thousands of meals every day across London to some of the world’s most iconic brands – Google, Facebook, Spotify and Buzzfeed, among many others. We’re working with a world of kitchens, over 400 of the best independent chefs, street vendors, specialist caterers, restaurants and supper clubs in London.\n\nWe are currently a team of 70, with offices based in London Bridge. As we solidify our position as Europe’s largest B2B food delivery platform and continue to expand geographically, we are looking for someone to help us scale a world class customer experience/customer service department.\n\nThe Role\n\nAs the Head of Customer Experience, you will be responsible for defining and delivering the vision for City Pantry’s customer experience based on our strategy, market positioning and values. Our customer service team currently operates across phone, email, chat and text.\n\nYou will be responsible for defining the strategy and the initiatives that will be required to deliver this customer experience. You will deliver a robust short, mid and long-term roadmap for the company with clear priorities, metrics and deliverables, to arrive at a transformational and differentiating customer experience.\n\nThis will also include building out a customer service team that can efficiently and scalably support a fast growing business that plans to expand beyond London and grow in scope, beyond merely responding to customer inquiries and issues.\n\nMore specifically, you will work closely with the Head of Customer Service to:\n\n* Develop a high performing and highly efficient customer service team. You will be expected to share best practices around:\n** Hiring, training, motivating and retaining a world class team that embodies the City Pantry spirit and values.\n** Identifying operational efficiencies that would allow us to hit all of our internal SLAs, lead and lag measures.\n** Optimizing the use of technology and telephony platforms e.g. text, chat, email to maximize team efficiency and scalability, while providing the best possible experience for our customers.\n\n* Provide team leadership:\n** Motivating, inspiring and developing the broader Customer Service team, taking a hands on role as required.\n** Creating the right team management structures, policies and procedures.\n** Create collaborative, yet constructive/challenging relationships with the other team leads and third parties.\n\n* Scope and prioritise all necessary initiatives - internal, cross functional or external - to take City Pantry’s customer experience to the next level. This would include the building of any business cases to support the case for changes to policies, processes or required investments.\n* Work with the company leadership team and other team leads to explore:\n** How the Customer Service team can support the other areas of the business when it comes to increasing overall business efficiency and scalability.\n** How to improve the Customer Experience across all customer touchpoints\n\nYou will report to the COO. Reporting to you will be the Head of Customer Service, and indirectly, a team of customer service agents.\n\nRequirements\n\nWe do what we say we will. And here is what we’ll need from you:\n\n* A minimum of 6-8 years experience in the customer service space (Call Center environment), with at least 3 years in a management capacity.\n* Experience of having led and scaled a customer facing team in a fast growing company, ideally one that operates across email, chat, text and phone channels.\n* Have implemented and/or optimised customer-related technologies and telephony systems in previous companies, e.g. Zendesk, CRM systems, etc.\n* Strong leadership skills, with the gravitas to define and champion the customer experience, challenging other leaders in the business where necessary.\n* The analytical rigor and problem solving skills required to build business cases and analyse and report on outcomes in a data-driven company.\n\nBenefits\n\nHere’s what you can expect from us. We practice what we preach and eat together three days a week – of course – but there’s a lot more besides:\n\n* Competitive Salary\n* Unlimited holiday\n* Flexible working hours\n* £2000 annual education allowance for you to spend on learning and development\n* Regular and diverse social activities such as yoga, “gin & learn” sessions, five-a-side, and Wellness Wednesdays, etc.",
+      "descriptionHtml": "<p>PLEASE NOTE THAT APPLICATIONS WILL ONLY BE CONSIDERED IF A COVER LETTER IS INCLUDED OUTLINING YOUR REASONS FOR APPLYING TO THIS ROLE AND WHY YOU THINK YOU MAKE AN EXCEPTIONAL CANDIDATE.</p>\n\n<p>At City Pantry we’re changing the way people work together. We believe that good food makes a great company and that sharing a meal creates an environment where better communication, productivity and health are nourished. It’s a tough challenge. And we need people like you.</p>\n\n<p>After four years, we are delivering thousands of meals every day across London to some of the world’s most iconic brands – Google, Facebook, Spotify and Buzzfeed, among many others. We’re working with a world of kitchens, over 400 of the best independent chefs, street vendors, specialist caterers, restaurants and supper clubs in London.</p>\n\n<p>We are currently a team of 70, with offices based in London Bridge. As we solidify our position as Europe’s largest B2B food delivery platform and continue to expand geographically, we are looking for someone to help us scale a world class customer experience/customer service department.</p>\n\n<p>The Role</p>\n\n<p>As the Head of Customer Experience, you will be responsible for defining and delivering the vision for City Pantry’s customer experience based on our strategy, market positioning and values. Our customer service team currently operates across phone, email, chat and text.</p>\n\n<p>You will be responsible for defining the strategy and the initiatives that will be required to deliver this customer experience. You will deliver a robust short, mid and long-term roadmap for the company with clear priorities, metrics and deliverables, to arrive at a transformational and differentiating customer experience.</p>\n\n<p>This will also include building out a customer service team that can efficiently and scalably support a fast growing business that plans to expand beyond London and grow in scope, beyond merely responding to customer inquiries and issues.</p>\n\n<p>More specifically, you will work closely with the Head of Customer Service to:</p>\n\n<ul>\n<li><p>Develop a high performing and highly efficient customer service team. You will be expected to share best practices around:<br>\n** Hiring, training, motivating and retaining a world class team that embodies the City Pantry spirit and values.<br>\n** Identifying operational efficiencies that would allow us to hit all of our internal SLAs, lead and lag measures.<br>\n** Optimizing the use of technology and telephony platforms e.g. text, chat, email to maximize team efficiency and scalability, while providing the best possible experience for our customers.</p></li>\n<li><p>Provide team leadership:<br>\n** Motivating, inspiring and developing the broader Customer Service team, taking a hands on role as required.<br>\n** Creating the right team management structures, policies and procedures.<br>\n** Create collaborative, yet constructive/challenging relationships with the other team leads and third parties.</p></li>\n<li><p>Scope and prioritise all necessary initiatives - internal, cross functional or external - to take City Pantry’s customer experience to the next level. This would include the building of any business cases to support the case for changes to policies, processes or required investments.</p></li>\n<li><p>Work with the company leadership team and other team leads to explore:<br>\n** How the Customer Service team can support the other areas of the business when it comes to increasing overall business efficiency and scalability.<br>\n** How to improve the Customer Experience across all customer touchpoints</p></li>\n</ul>\n\n<p>You will report to the COO. Reporting to you will be the Head of Customer Service, and indirectly, a team of customer service agents.</p>\n\n<p>Requirements</p>\n\n<p>We do what we say we will. And here is what we’ll need from you:</p>\n\n<ul>\n<li>A minimum of 6-8 years experience in the customer service space (Call Center environment), with at least 3 years in a management capacity.</li>\n<li>Experience of having led and scaled a customer facing team in a fast growing company, ideally one that operates across email, chat, text and phone channels.</li>\n<li>Have implemented and/or optimised customer-related technologies and telephony systems in previous companies, e.g. Zendesk, CRM systems, etc.</li>\n<li>Strong leadership skills, with the gravitas to define and champion the customer experience, challenging other leaders in the business where necessary.</li>\n<li>The analytical rigor and problem solving skills required to build business cases and analyse and report on outcomes in a data-driven company.</li>\n</ul>\n\n<p>Benefits</p>\n\n<p>Here’s what you can expect from us. We practice what we preach and eat together three days a week – of course – but there’s a lot more besides:</p>\n\n<ul>\n<li>Competitive Salary</li>\n<li>Unlimited holiday</li>\n<li>Flexible working hours</li>\n<li>£2000 annual education allowance for you to spend on learning and development</li>\n<li>Regular and diverse social activities such as yoga, “gin &amp; learn” sessions, five-a-side, and Wellness Wednesdays, etc.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/stuart-sunderland-1",
+        "name": "Stuart Sunderland",
+        "avatar": "https://photos.angel.co/users/1288835-medium_jpg?1434646074"
+      },
+      "refs": {
+        "angelListId": "541131",
+        "angelListUrl": "https://angel.co/company/city-pantry/jobs/541131-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Customer Service Representative (Full Time)",
+      "description": "Welcome to our world\n\nWe help London’s greatest teams work better by eating together. We believe that good food makes a great company – sharing a meal creates an environment where better communication, productivity and health are nourished.\n\nAfter three years, we are delivering thousands of meals every day across London to some of the world’s most iconic brands – Google, Facebook, Spotify and Buzzfeed, amongst many others. We’re working with a world of kitchens, over 400 of the best independent chefs, street vendors, specialist caterers and restaurants in London.\n\nWe are currently a team of 70, working from an achingly cool open-plan office next to London Bridge. You’ll be joining at the most exciting stage of our journey so far, as we solidify our position as Europe’s largest B2B food delivery platform.\n\nWhat will you be doing?\n\nCustomer service is something that we take very seriously, and it is truly what sets us apart from the rest.\n\nIn this role you will be literally, the backbone of City Pantry, ensuring that our operation runs seamlessly and that our customers and vendors have the best experience possible. We are looking for individuals who can act fast, but smart. Individuals who will live and breathe our City Pantry values. Individuals who are as excited about being on this journey with one of the fastest growing, most disruptive food tech platforms in London as we are.\n\nWhen will you be doing it?\n\nWe plan to be running 3 full time shifts a day.\n\nThese shifts will typically run from 0630 to 1630, from 0830-1830 and from 1030 to 2030. This includes a paid 30 minute lunch break and two other paid 15 minute breaks throughout your shift. You will be expected to sign up for 5 shifts a week, Monday to Sunday. You should be flexible enough to work a rota system; that said, we foster a collaborative, collegial environment where the odd shift swap definitely happens!\n\nIn summary, you can expect a total paid working hours of 50 hours per week, with actual working hours to be 45 hours.\n\nYour Responsibilities\n\n* Be the first point of contact for our customers, providing general support and building engaging relationships with each and every customer call or interaction\n* Taking ownership of the day’s deliveries, working with our third party logistics companies on a daily basis to help to solve any live order issues\n* Regularly saving the day by juggling tasks such as editing orders, solving for missing portions and order cancellations and generally, creating wow for every customer!\n* Collect customer and driver feedback, collect data and report any issues to inform future business processes\n\nRequirements\n\n* Excellent communicator - good spoken and written English a must\n* Proactive problem solver, able to think on your feet\n* An obsession with detail; you won't rest until everything is in order\n* High energy & enthusiasm\n* A minimum of 2 years of customer service experience, ideally with experience on the phone/online chat/Zendesk.\n* Must have permission to work in the UK.\n\nBenefits\n\n* Free lunch at least 3 x a week from some of London’s best and tastiest restaurants\n* Super cool office in London Bridge/Bermondsey\n* Lots of fun events, including Wellness Wednesdays and regular socials!\n* Be part of something big. We’re here to change things",
+      "descriptionHtml": "<p>Welcome to our world</p>\n\n<p>We help London’s greatest teams work better by eating together. We believe that good food makes a great company – sharing a meal creates an environment where better communication, productivity and health are nourished.</p>\n\n<p>After three years, we are delivering thousands of meals every day across London to some of the world’s most iconic brands – Google, Facebook, Spotify and Buzzfeed, amongst many others. We’re working with a world of kitchens, over 400 of the best independent chefs, street vendors, specialist caterers and restaurants in London.</p>\n\n<p>We are currently a team of 70, working from an achingly cool open-plan office next to London Bridge. You’ll be joining at the most exciting stage of our journey so far, as we solidify our position as Europe’s largest B2B food delivery platform.</p>\n\n<p>What will you be doing?</p>\n\n<p>Customer service is something that we take very seriously, and it is truly what sets us apart from the rest.</p>\n\n<p>In this role you will be literally, the backbone of City Pantry, ensuring that our operation runs seamlessly and that our customers and vendors have the best experience possible. We are looking for individuals who can act fast, but smart. Individuals who will live and breathe our City Pantry values. Individuals who are as excited about being on this journey with one of the fastest growing, most disruptive food tech platforms in London as we are.</p>\n\n<p>When will you be doing it?</p>\n\n<p>We plan to be running 3 full time shifts a day.</p>\n\n<p>These shifts will typically run from 0630 to 1630, from 0830-1830 and from 1030 to 2030. This includes a paid 30 minute lunch break and two other paid 15 minute breaks throughout your shift. You will be expected to sign up for 5 shifts a week, Monday to Sunday. You should be flexible enough to work a rota system; that said, we foster a collaborative, collegial environment where the odd shift swap definitely happens!</p>\n\n<p>In summary, you can expect a total paid working hours of 50 hours per week, with actual working hours to be 45 hours.</p>\n\n<p>Your Responsibilities</p>\n\n<ul>\n<li>Be the first point of contact for our customers, providing general support and building engaging relationships with each and every customer call or interaction</li>\n<li>Taking ownership of the day’s deliveries, working with our third party logistics companies on a daily basis to help to solve any live order issues</li>\n<li>Regularly saving the day by juggling tasks such as editing orders, solving for missing portions and order cancellations and generally, creating wow for every customer!</li>\n<li>Collect customer and driver feedback, collect data and report any issues to inform future business processes</li>\n</ul>\n\n<p>Requirements</p>\n\n<ul>\n<li>Excellent communicator - good spoken and written English a must</li>\n<li>Proactive problem solver, able to think on your feet</li>\n<li>An obsession with detail; you won&#39;t rest until everything is in order</li>\n<li>High energy &amp; enthusiasm</li>\n<li>A minimum of 2 years of customer service experience, ideally with experience on the phone/online chat/Zendesk.</li>\n<li>Must have permission to work in the UK.</li>\n</ul>\n\n<p>Benefits</p>\n\n<ul>\n<li>Free lunch at least 3 x a week from some of London’s best and tastiest restaurants</li>\n<li>Super cool office in London Bridge/Bermondsey</li>\n<li>Lots of fun events, including Wellness Wednesdays and regular socials!</li>\n<li>Be part of something big. We’re here to change things</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Customer Service",
+        "Customer Experience",
+        "Customer Success",
+        "customer support"
+      ],
+      "payment": {
+        "salary": "£22k – £24k"
+      },
+      "recruiter": {
+        "title": "Head of Talent",
+        "role": "Employee",
+        "url": "https://angel.co/u/alex-jones-6",
+        "name": "Alex Jones",
+        "avatar": "https://photos.angel.co/users/1189971-medium_jpg?1472826935"
+      },
+      "refs": {
+        "angelListId": "551082",
+        "angelListUrl": "https://angel.co/company/city-pantry/jobs/551082-"
+      }
+    }
+  ]
+}

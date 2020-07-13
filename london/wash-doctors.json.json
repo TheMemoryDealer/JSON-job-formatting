@@ -1,0 +1,99 @@
+{
+  "name": "Wash Doctors",
+  "avatar": "https://photos.angel.co/startups/i/6112147-5578394eb9472033714060dd5e166e54-medium_jpg.jpg?buster=1533571968",
+  "slogan": "On-Demand car care services",
+  "description": "Wash Doctors is a iOS and Android application that enables customers to get a car valet in any location in West London. The app allows customers to book on the day or in advanced. Their job is then matched with one the Wash Doctors trained valeters who will then travel out to the customer to complete their service. \n\nWash Doctors not only take the hassle away from customers of having to travel to the car wash and wait in queues but the customer no longer needs to be there at all, so they can be off doing other (more fun) things. \n\nOur customer range from young professionals who have busy jobs and no time, young families who can never find the time to get away to the car wash and of course the car proud owners who love the luxury of always having a clean car. We are also building partnerships with big car-sharing companies such as Drivy and Hiya car for people who rent out their personal cars to the public.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.washdoctors.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "E-Commerce",
+    "Automotive",
+    "Services"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/will-mapstone",
+      "name": "Will Mapstone",
+      "avatar": "https://photos.angel.co/users/8192595-medium_jpg?1533570945",
+      "bioHtml": "Founded Wash Doctors after completeing a Master in Mechanical Engineering at Bristol University"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6112147",
+    "angelListUrl": "https://angel.co/company/wash-doctors"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Front-End Developer",
+      "description": "You will initially be continuing to build the platform and managing the runway for the introduction of future technology. However, as the team grows and develops you will be expected to manage a team of developers, so good communication and management skills are necessary.",
+      "descriptionHtml": "<p>You will initially be continuing to build the platform and managing the runway for the introduction of future technology. However, as the team grows and develops you will be expected to manage a team of developers, so good communication and management skills are necessary.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Firebase",
+        "React.js",
+        "React Native",
+        "Redux",
+        "Javascript ES6"
+      ],
+      "payment": {
+        "salary": "£30k – £45k",
+        "equity": "0.5% – 2.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/will-mapstone",
+        "name": "Will Mapstone",
+        "avatar": "https://photos.angel.co/users/8192595-medium_jpg?1533570945"
+      },
+      "refs": {
+        "angelListId": "407135",
+        "angelListUrl": "https://angel.co/company/wash-doctors/jobs/407135-"
+      }
+    }
+  ]
+}

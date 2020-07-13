@@ -1,0 +1,98 @@
+{
+  "name": "So Energy",
+  "avatar": "https://photos.angel.co/startups/i/6474898-fe76ef168e8ba12292dc97f778928951-medium_jpg.jpg?buster=1540042659",
+  "slogan": "Changing the way people buy energy",
+  "description": "We keep things simple by only have 1 fixed rate tariff at any one time, so there's no confusion as to which tariff to choose. You get our best tariff we have available that day. We also give you the option of how you'd like to pay your bills throughout the year, not how we tell you to.\n\nWe're committed to always having low prices. We have a Low Price Commitment so you know you're always on a great deal. We're not one of those companies that gets you in on a cheap deal and then hopes you sleepwalk into an expensive one. We appreciate our loyal customers; we're not here to try to exploit them.\n\nWe treat everyone the same regardless of who you are. We don't offer discounts, 'mates-rates'​, 2 for 1 or 'new customer only deals'​. We believe that everyone should get the same great value energy deal. We're doing our best to help lead change in the energy industry for the better.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.so.energy"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.so.energy/blog"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/SoEnergyUK"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/SoEnergyUK"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/so-energy"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Energy",
+    "Clean Technology",
+    "Renewable Tech",
+    "User Experience Design"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/charlie-davies-2",
+      "name": "Charlie Davies",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6474898",
+    "angelListUrl": "https://angel.co/company/so-energy"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Front-end Developer",
+      "description": "We’re looking for a Front-end Developer who is confident with their skills but is looking to grow their experience through improving our customer-facing web site and owning the look and feel of our online resources.",
+      "descriptionHtml": "<p>We’re looking for a Front-end Developer who is confident with their skills but is looking to grow their experience through improving our customer-facing web site and owning the look and feel of our online resources.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "UI/UX Design",
+        "HTML/CSS/Javascript",
+        "Bootstrap",
+        "Haml & SASS/SCSS",
+        "Vue.Js"
+      ],
+      "payment": {
+        "salary": "£45k – £70k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/charlie-davies-2",
+        "name": "Charlie Davies",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "445578",
+        "angelListUrl": "https://angel.co/company/so-energy/jobs/445578-"
+      }
+    }
+  ]
+}

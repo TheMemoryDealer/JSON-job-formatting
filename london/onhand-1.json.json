@@ -1,0 +1,99 @@
+{
+  "name": "onHand",
+  "avatar": "https://photos.angel.co/startups/i/7396689-1079e81ac6ab853c1b6393ababf3515b-medium_jpg.jpg?buster=1579359904",
+  "slogan": "We're a Tech for Good start-up that makes giving help easy and getting help affordable",
+  "description": "Our platform matches trusted locals with older adults who need help with everyday tasks. Shopping, tech help, a cup of tea and a chat. The kind of things over-stretched friends and family or expensive professional carers are relied on for today. Getting help for the simple things shouldn’t be hard or expensive - that’s why we’re here.\n\nLaunched in March 2019, we've graduated from Facebook's LND_LABS accelerator, signed up 3500+ volunteers and delivered over 1500 hours of help to 100's of older adults in London. In our second year, we'd like to reach 1000's of older adults and expand to more areas in the UK. We'll only achieve this through Tech enablement.\n\nhttps://apps.apple.com/gb/app/onhand/id1367396948",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://apps.apple.com/gb/app/onhand/id1367396948"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/beonhand"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "Brighton",
+    "London"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Marketplaces",
+    "Technology",
+    "Mobile Application"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/sanjay-lobo-1",
+      "name": "Sanjay Lobo",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7396689",
+    "angelListUrl": "https://angel.co/company/onhand-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Backend Developer / Senior Backend Developer",
+      "description": "Fantastic opportunity for someone wanting to take the lead for a fast growing Tech for Good start-up.\nonHand is a marketplace app that allows people to give and get help, whenever and wherever they are. It’s enabled “on-demand volunteering” and with over 3500 app downloads and over 1000hrs of help delivered, this is an exciting moment to join us. Our focus is using the app to match volunteers with older adults who need help with basic tasks. Things like shopping, tech lessons, help around the house or simply sharing a cup of tea and having a chat. In doing so, we believe onHand can help address the growing care crisis facing our ageing population and maybe just leave the world a better place too.\nAs our second dev hire, you will be at the heart of how we use Tech to onboard, match and track member engagement through our marketplace community. If we are successful, we expect to grow very quickly, expanding across the UK and then internationally. The scope for personal and professional growth for any team member joining us at this stage should be tremendous.\n\nWhat we’re looking for\nWe're a 2018 graduate of Facebook's LDN_LABs Accelerator programme (others include Olio and Goodgym) and, whilst the service has only been live since the start of this year, demand is far outpacing our expectations. Our App is live and performing robustly, but it is v1: given the demand we seeing, now is the right moment to invest in technology to enable scale.\nWe are looking for a software engineer with proven technical and analytical capabilities. Someone who can balance designing and creating robust, scalable and well-tested code. You will be a key member of the team, responsible for the design and development of innovative mobile app experiences and software solutions. You need to be dynamic, collaborative and curious, as you’ll work in a fast-paced environment where continuous experimentation and innovation are expected.\n\nYour responsibilities will also include:\nCollaboration and product planning with the founder and wider team\nDesign, development, and testing of mobile applications and/or services\nUsing agile methodologies to deliver high quality solutions on time\nWorking with operations teams to ensure applications and services are highly available, reliable and on-point for our users\nSupporting applications and/or services as and when required\n\nRequirements\nNOTE: You can apply even if your experience and interests aren't an exact match with what we've laid out in this job description. We are building something different at onHand and if this sounds interesting, we want to hear from you. We'll really value coding quality best practices, frontend mobile app experience and a curious, problem-solving mindset that wants to grow with us.\nComputer Science or related technical discipline (or equivalent experience)\n3 to 5+ years experience of Python programming\nProficient in designing and building REST APIs, preferably with Flask or Django\nProficient in designing and building databases, preferably with Flask + SQLAlchemy + PostgreSQL or similar\nProficient building databases and APIs for reliability, availability, scalability and performance\nCompetent in building unit tests / integrated testing \nCompetent in build, versioning and deployment tools (Github, Docker, Heroku)\nCares for code quality, best practices, and latest tools\nNice to haves:\nExperience with startup companies a bonus\nExperience exporting data into reports\nExperience with Firebase \nExperience with AWS\nExperience of running/participating in web development workshops/discovery to turn ideas into requirements and use cases\nFamiliar with web/mobile frontend technologies (HTML/CSS/JavaScript/NodeJS/React)\n\nWhat we offer\nYour choice of laptop and phone (budget provided). 25 days holiday a year plus bank holidays. Feeling great everyday about what we do.\n\nOur main office is in Brighton, but we also operate from London frequently and applicants can be based in either.\n\nSalary and equity based on experience.\n\nApply with CV to hello@beonhand.co.uk\nPlease let us know what's attracted you to the role on your covering email.",
+      "descriptionHtml": "<p>Fantastic opportunity for someone wanting to take the lead for a fast growing Tech for Good start-up.<br>\nonHand is a marketplace app that allows people to give and get help, whenever and wherever they are. It’s enabled “on-demand volunteering” and with over 3500 app downloads and over 1000hrs of help delivered, this is an exciting moment to join us. Our focus is using the app to match volunteers with older adults who need help with basic tasks. Things like shopping, tech lessons, help around the house or simply sharing a cup of tea and having a chat. In doing so, we believe onHand can help address the growing care crisis facing our ageing population and maybe just leave the world a better place too.<br>\nAs our second dev hire, you will be at the heart of how we use Tech to onboard, match and track member engagement through our marketplace community. If we are successful, we expect to grow very quickly, expanding across the UK and then internationally. The scope for personal and professional growth for any team member joining us at this stage should be tremendous.</p>\n\n<p>What we’re looking for<br>\nWe&#39;re a 2018 graduate of Facebook&#39;s LDN_LABs Accelerator programme (others include Olio and Goodgym) and, whilst the service has only been live since the start of this year, demand is far outpacing our expectations. Our App is live and performing robustly, but it is v1: given the demand we seeing, now is the right moment to invest in technology to enable scale.<br>\nWe are looking for a software engineer with proven technical and analytical capabilities. Someone who can balance designing and creating robust, scalable and well-tested code. You will be a key member of the team, responsible for the design and development of innovative mobile app experiences and software solutions. You need to be dynamic, collaborative and curious, as you’ll work in a fast-paced environment where continuous experimentation and innovation are expected.</p>\n\n<p>Your responsibilities will also include:<br>\nCollaboration and product planning with the founder and wider team<br>\nDesign, development, and testing of mobile applications and/or services<br>\nUsing agile methodologies to deliver high quality solutions on time<br>\nWorking with operations teams to ensure applications and services are highly available, reliable and on-point for our users<br>\nSupporting applications and/or services as and when required</p>\n\n<p>Requirements<br>\nNOTE: You can apply even if your experience and interests aren&#39;t an exact match with what we&#39;ve laid out in this job description. We are building something different at onHand and if this sounds interesting, we want to hear from you. We&#39;ll really value coding quality best practices, frontend mobile app experience and a curious, problem-solving mindset that wants to grow with us.<br>\nComputer Science or related technical discipline (or equivalent experience)<br>\n3 to 5+ years experience of Python programming<br>\nProficient in designing and building REST APIs, preferably with Flask or Django<br>\nProficient in designing and building databases, preferably with Flask + SQLAlchemy + PostgreSQL or similar<br>\nProficient building databases and APIs for reliability, availability, scalability and performance<br>\nCompetent in building unit tests / integrated testing <br>\nCompetent in build, versioning and deployment tools (Github, Docker, Heroku)<br>\nCares for code quality, best practices, and latest tools<br>\nNice to haves:<br>\nExperience with startup companies a bonus<br>\nExperience exporting data into reports<br>\nExperience with Firebase <br>\nExperience with AWS<br>\nExperience of running/participating in web development workshops/discovery to turn ideas into requirements and use cases<br>\nFamiliar with web/mobile frontend technologies (HTML/CSS/JavaScript/NodeJS/React)</p>\n\n<p>What we offer<br>\nYour choice of laptop and phone (budget provided). 25 days holiday a year plus bank holidays. Feeling great everyday about what we do.</p>\n\n<p>Our main office is in Brighton, but we also operate from London frequently and applicants can be based in either.</p>\n\n<p>Salary and equity based on experience.</p>\n\n<p>Apply with CV to <a href=\"mailto:hello@beonhand.co.uk\" target=\"_blank\" rel=\"nofollow\">hello@beonhand.co.uk</a><br>\nPlease let us know what&#39;s attracted you to the role on your covering email.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Brighton"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Flask",
+        "Python/Django/Flask"
+      ],
+      "payment": {
+        "salary": "£35k – £60k",
+        "equity": "0.0% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/sanjay-lobo-1",
+        "name": "Sanjay Lobo",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "691098",
+        "angelListUrl": "https://angel.co/company/onhand-1/jobs/691098-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "name": "My Voice Ai ",
+  "avatar": "https://photos.angel.co/startups/i/3809958-68f749c3a6e67a2255a23cdead9f48b0-medium_jpg.jpg?buster=1501608097",
+  "slogan": "Speaker identification, Emotion detection, Diarization, Language identification",
+  "description": "We believe that speech is the fundamental means of human communication. All cultures persuade, inform and build relationships primarily through speech. Voice user interface has exploded in popularity over the recent years where speech recognition technology enables users to communicate with technology with their voice only.  \nWe have developed a state of the art speaker identification system that identifies people via their voice only. We know who you are regardless of dialect, language and both through free speech and short pre-learned phrases. To improve the quality of voice user interfaces we need to develop machines capable of comprehending not only context but also other information like stress and emotion with a better understanding of user intention based on the identity and profile of a speaker. \n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.myvoice.ai"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Tel Aviv-Yafo",
+    "Paris"
+  ],
+  "marketTags": [
+    "Automotive",
+    "Online Gaming",
+    "Banking",
+    "Healthcare",
+    "Mobile"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/dr-david-horowitz",
+      "name": "Dr. David Horowitz",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/ivar-line",
+      "name": "Ivar Line",
+      "avatar": "https://photos.angel.co/users/3244558-medium_jpg?1489607641",
+      "bioHtml": "Co-founder &amp; CEO at a Voice Biometric technology company"
+    },
+    {
+      "title": "Cofounder and Chief Entrepreneur ",
+      "role": "Founder",
+      "url": "https://angel.co/u/nikola-andelic",
+      "name": "Nikola Andelic",
+      "avatar": "https://photos.angel.co/users/492061-medium_jpg?1463803990",
+      "bioHtml": "Co-Founder of myvoice.ai"
+    },
+    {
+      "title": "Senior Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/mark-phipps-3",
+      "name": "Mark Phipps",
+      "avatar": "https://photos.angel.co/users/5453427-medium_jpg?1484809320",
+      "bioHtml": "Quality focussed full stack js engineer"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/moez-ajili",
+      "name": "Moez Ajili",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/stefan-miletic",
+      "name": "Stefan Miletic",
+      "avatar": "https://photos.angel.co/users/6161170-medium_jpg?1491738961",
+      "bioHtml": "Programming polyglot, computer enthusiast, artist/musician in a previous life. "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "3809958",
+    "angelListUrl": "https://angel.co/company/my-voice-ai"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Speech Scientist",
+      "description": "We are looking for a speech scientist with a strong speaker identification background. You must have experience in developing and training complex state of the art algorithms, and you should be able to do so in about one-third the time that most competent people think possible.\"\n\nWe are exploring the potential of uncovered areas of human Voice. Speaker identification, stress and emotion detection, language identification and speaker separation. \n\nPLEASE APPLY ONLY IF YOU HAVE RELEVANT EXPERIENCE.",
+      "descriptionHtml": "<p>We are looking for a speech scientist with a strong speaker identification background. You must have experience in developing and training complex state of the art algorithms, and you should be able to do so in about one-third the time that most competent people think possible.&quot;</p>\n\n<p>We are exploring the potential of uncovered areas of human Voice. Speaker identification, stress and emotion detection, language identification and speaker separation. </p>\n\n<p>PLEASE APPLY ONLY IF YOU HAVE RELEVANT EXPERIENCE.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Machine Learning",
+        "Software Development",
+        "Neural Networks",
+        "Speech Recognition",
+        "Artificial Neural Networks",
+        "Automatic Speech Recognition",
+        "Deep Neural Networks",
+        "Speech Synthesis",
+        "Speech"
+      ],
+      "payment": {
+        "salary": "£27k – £65k",
+        "equity": "0.1% – 0.2%"
+      },
+      "recruiter": {
+        "title": "Cofounder and Chief Entrepreneur ",
+        "role": "Founder",
+        "url": "https://angel.co/u/nikola-andelic",
+        "name": "Nikola Andelic",
+        "avatar": "https://photos.angel.co/users/492061-medium_jpg?1463803990"
+      },
+      "refs": {
+        "angelListId": "387402",
+        "angelListUrl": "https://angel.co/company/my-voice-ai/jobs/387402-"
+      }
+    }
+  ]
+}

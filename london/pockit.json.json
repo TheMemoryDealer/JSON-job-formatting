@@ -1,0 +1,108 @@
+{
+  "name": "Pockit",
+  "avatar": "https://photos.angel.co/startups/i/179441-7cd8e80ade136de3865db420eff240ad-medium_jpg.jpg?buster=1362663472",
+  "slogan": "Prepaid cards",
+  "description": "Pockit is a prepaid MasterCard that helps cardholders in the UK to save and manage their money. \n\nWe have partnerships with over 25 leading high street retailers, where our cardholders can earn exclusive in-store and online cashback between 2-10% if they pay with their Pockit Prepaid Card. Some of our retail partners include M&S, B&Q, Halfords, Toys R Us and many more. \n\nWe help customers to save money and help to drive incremental volume, loyalty and retention to retailers.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.pockit.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.facebook.com/pockituk"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/PockitPrepaid"
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Credit Cards",
+    "Finance"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/virraj-jatania",
+      "name": "Virraj Jatania",
+      "avatar": "https://photos.angel.co/users/261460-medium_jpg?1424365634",
+      "bioHtml": "Founder &amp; CEO <a href=\"https://angel.co/company/pockit-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Pockit</span></a>, @pockit-1-1 \nWorked at <a href=\"https://angel.co/company/barclays-wealth-investment-management\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Barclays Wealth &amp; Investment Management</span></a>, family business background (Lornamead)"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/benji-weber-1",
+      "name": "Benji Weber",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "VP Engineering at Pockit"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "179441",
+    "angelListUrl": "https://angel.co/company/pockit"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "Role\n\nAs a software engineer at Pockit you will make a difference. You will solve problems for our customers using some of the latest .net technologies. You will further our mission of financial inclusion and banking for everyone.\n\nYou will also have the opportunity to shape a culture, take responsibility, and learn fast. All as part of a growing team that gets stuff done fast, and releases daily.\n\nCompany\n\nPockit is a fair, no-nonsense alternative to traditional banking. We’re there for customers who’ve been ignored or locked out by the high-street, and offer disruptive new products that are custom-built for the millions of consumers that are currently underserved.\n\nWe’re a lively, international community based in three offices throughout London and Poland. You’ll be made to feel at home straight away, and join a team that fosters curiosity, ambition, accountability and resilience.\n\nFlexible working, and a well-stocked office snack cupboard are just a few of the benefits you’ll enjoy as part of the Pockit family. Team socials are the norm, and a truly flat hierarchy means you’ll receive exposure to senior staff and execs as a matter of course.\n\nProduct\n\nAlready serving 400,000 customers throughout the UK, Pockit's no-fuss current account offers all the tools you’d expect from a bank – and many more. A well-structured and agile engineering team creates new features from scratch on a regular basis, and continually improves our existing offering to ensure we’re serving customers in the best way possible.\n\nPockit’s product set is highly distinctive and contains elements found in no other current accounts, such as a credit builder and transparently-priced microloan (as well as direct debit, peer-to-peer transfers, and the unique ability to pay in with cash at virtual branches). Opening an account takes 2 minutes from any phone or desktop, and the product has accessibility at its heart.\n\nTech\n\nOur set of small services are built in several technologies including c# (7), .net core, SQL Server, CosmosDB, Azure Storage, and more (running on Azure). On the frontend we use Xamarin Forms for our mobile apps and JavaScript on the web. Don’t feel you need experience in all of these technologies.\n\nWe have the challenging task of taming the complexity in the industry, integrating many services to provide a smooth and reliable experience for our users, while dealing with tens of millions of transactions every month.\n\nYou’ll be responsible for\n\n* Writing code and designing solutions that solve real problems\n* Improving the quality, safety, and scale of our existing systems\n* Working with the rest of the business to help scope, design and support solutions\n* Collaborating with local and remote team members\n* Participating in an on-call rota to keep the systems you build running (it’s rare to see issues but they occur occasionally)\n\nYou’ll need these skills\n\n* Familiarity with c#/.net\n* Ability to write clean, unit-tested code and improve existing code\n* Ability to understand complexity and clearly communicate your ideas\n* Any of these skills (or a desire to learn them) will help, but are not essential\n\n* Frontend technologies for Web or Mobile apps\n* Tech practices such as TDD, Domain Driven Design, Continuous Deployment, Pairing\n* Running production systems in Azure/AWS/GCP & infrastructure as code\n* End to end & integration test automation\n* Application security threats and good practices\n* Understanding of the financial business domain\n* Expertise in data engineering expertise e.g. SQL, data pipelines\n\nYou’ll get on well here if you are\n\n* Ambitious: both in your personal growth and in the product & tech goals you aim for\n* Accountable: comfortable taking ownership for work\n* Growing: see challenges, setbacks, and feedback as an opportunity to improve.\n* Curious: keen to get to grips with new technologies, a complex business, and seek to understand in-depth, not just superficially\n* Empathetic: about the impact of your work on users, commercial outcomes, and the wider team\n* Collaborative: you’re happiest working with closely with and helping others\n\nOur benefits include\n\n* Competitive annual leave entitlement\n* Pension\n* Perkbox – many discounts and offers at your favourite stores\n* Bespoke training options\n* Exposure to senior executives and experts\n* Regular company socials\n* Free snacks, coffee, tea, and fruit everyday",
+      "descriptionHtml": "<p>Role</p>\n\n<p>As a software engineer at Pockit you will make a difference. You will solve problems for our customers using some of the latest .net technologies. You will further our mission of financial inclusion and banking for everyone.</p>\n\n<p>You will also have the opportunity to shape a culture, take responsibility, and learn fast. All as part of a growing team that gets stuff done fast, and releases daily.</p>\n\n<p>Company</p>\n\n<p>Pockit is a fair, no-nonsense alternative to traditional banking. We’re there for customers who’ve been ignored or locked out by the high-street, and offer disruptive new products that are custom-built for the millions of consumers that are currently underserved.</p>\n\n<p>We’re a lively, international community based in three offices throughout London and Poland. You’ll be made to feel at home straight away, and join a team that fosters curiosity, ambition, accountability and resilience.</p>\n\n<p>Flexible working, and a well-stocked office snack cupboard are just a few of the benefits you’ll enjoy as part of the Pockit family. Team socials are the norm, and a truly flat hierarchy means you’ll receive exposure to senior staff and execs as a matter of course.</p>\n\n<p>Product</p>\n\n<p>Already serving 400,000 customers throughout the UK, Pockit&#39;s no-fuss current account offers all the tools you’d expect from a bank – and many more. A well-structured and agile engineering team creates new features from scratch on a regular basis, and continually improves our existing offering to ensure we’re serving customers in the best way possible.</p>\n\n<p>Pockit’s product set is highly distinctive and contains elements found in no other current accounts, such as a credit builder and transparently-priced microloan (as well as direct debit, peer-to-peer transfers, and the unique ability to pay in with cash at virtual branches). Opening an account takes 2 minutes from any phone or desktop, and the product has accessibility at its heart.</p>\n\n<p>Tech</p>\n\n<p>Our set of small services are built in several technologies including c# (7), .net core, SQL Server, CosmosDB, Azure Storage, and more (running on Azure). On the frontend we use Xamarin Forms for our mobile apps and JavaScript on the web. Don’t feel you need experience in all of these technologies.</p>\n\n<p>We have the challenging task of taming the complexity in the industry, integrating many services to provide a smooth and reliable experience for our users, while dealing with tens of millions of transactions every month.</p>\n\n<p>You’ll be responsible for</p>\n\n<ul>\n<li>Writing code and designing solutions that solve real problems</li>\n<li>Improving the quality, safety, and scale of our existing systems</li>\n<li>Working with the rest of the business to help scope, design and support solutions</li>\n<li>Collaborating with local and remote team members</li>\n<li>Participating in an on-call rota to keep the systems you build running (it’s rare to see issues but they occur occasionally)</li>\n</ul>\n\n<p>You’ll need these skills</p>\n\n<ul>\n<li>Familiarity with c#/.net</li>\n<li>Ability to write clean, unit-tested code and improve existing code</li>\n<li>Ability to understand complexity and clearly communicate your ideas</li>\n<li><p>Any of these skills (or a desire to learn them) will help, but are not essential</p></li>\n<li><p>Frontend technologies for Web or Mobile apps</p></li>\n<li><p>Tech practices such as TDD, Domain Driven Design, Continuous Deployment, Pairing</p></li>\n<li><p>Running production systems in Azure/AWS/GCP &amp; infrastructure as code</p></li>\n<li><p>End to end &amp; integration test automation</p></li>\n<li><p>Application security threats and good practices</p></li>\n<li><p>Understanding of the financial business domain</p></li>\n<li><p>Expertise in data engineering expertise e.g. SQL, data pipelines</p></li>\n</ul>\n\n<p>You’ll get on well here if you are</p>\n\n<ul>\n<li>Ambitious: both in your personal growth and in the product &amp; tech goals you aim for</li>\n<li>Accountable: comfortable taking ownership for work</li>\n<li>Growing: see challenges, setbacks, and feedback as an opportunity to improve.</li>\n<li>Curious: keen to get to grips with new technologies, a complex business, and seek to understand in-depth, not just superficially</li>\n<li>Empathetic: about the impact of your work on users, commercial outcomes, and the wider team</li>\n<li>Collaborative: you’re happiest working with closely with and helping others</li>\n</ul>\n\n<p>Our benefits include</p>\n\n<ul>\n<li>Competitive annual leave entitlement</li>\n<li>Pension</li>\n<li>Perkbox – many discounts and offers at your favourite stores</li>\n<li>Bespoke training options</li>\n<li>Exposure to senior executives and experts</li>\n<li>Regular company socials</li>\n<li>Free snacks, coffee, tea, and fruit everyday</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "SQL",
+        "Pair Programming",
+        "Domain Driven Design",
+        "TDD",
+        "C#.NET",
+        "Software Craftsmanship",
+        "Microsoft Azure",
+        "Xamarin",
+        ".NET Core"
+      ],
+      "payment": {
+        "salary": "£40k – £80k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/benji-weber-1",
+        "name": "Benji Weber",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "465618",
+        "angelListUrl": "https://angel.co/company/pockit/jobs/465618-"
+      }
+    }
+  ]
+}

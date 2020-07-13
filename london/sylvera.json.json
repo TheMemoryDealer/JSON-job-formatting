@@ -1,0 +1,180 @@
+{
+  "name": "Sylvera",
+  "avatar": "https://photos.angel.co/startups/i/7518461-472d16a9a47e4a0aa5775631cb0f8b7e-medium_jpg.jpg?buster=1582631936",
+  "slogan": "Software underpinning carbon removal markets",
+  "description": "Software underpinning carbon removal markets",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://sylvera.io"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Financial Services",
+    "Carbon",
+    "Sustainability"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO & Co-Founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/allister-furey",
+      "name": "Allister Furey",
+      "avatar": "https://photos.angel.co/users/529783-medium_jpg?1564562089",
+      "bioHtml": "Co-founder <a href=\"https://angel.co/company/sylvera\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Sylvera</span></a>\n\nEx MD <a href=\"https://angel.co/company/entrepreneur-first\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Entrepreneur First</span></a> , <a href=\"https://angel.co/company/reaction-engines\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Reaction Engines</span></a>, <a href=\"https://angel.co/company/kite-power-solutions\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Kite Power Solutions</span></a> , <a href=\"https://angel.co/company/balderton-capital\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Balderton Capital</span></a>\n \nAI-Robotics PhD, MBA <a href=\"https://angel.co/london-business-school\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">London Business School</span></a> "
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/samuel-gill-4",
+      "name": "Samuel Gill",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7518461",
+    "angelListUrl": "https://angel.co/company/sylvera"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Data Engineer",
+      "description": "📍 Location: London. Remote possible for right candidate\n\n⏰ Start Date: ASAP.\n\n**What is this Sylvera you speak of?** 👩‍👨\n\nSylvera is scaling carbon markets with software, by developing tools to quantify stocks of carbon stored in vegetation using AI applied to satellite or drone data.\n\nUsing current quantification techniques, it is impossible to provide accurate and regular data on the performance of forestry projects, which leads to issues with corruption, fraud and uncertainty. This leads to significant financial and reputational risk for corporates purchasing offsets and makes it hard for high quality forest projects to secure fair prices and low cost finance at large scale.\n\nBy providing a quantitative sequestration audit trail and associated risk ratings, Sylvera intends to underpin effective voluntary carbon markets. This will allow the market to scale to keep the planet under 2C of warming, and unlock huge co benefits for nature and society.\n\n**What's my impact?** 👩‍💻👨‍💻\n\n- Leading development of the data platform and infrastructure underlying our AI engine for carbon offset verification\n- This is a broad and high impact role straddling data engineering and backend development\n- You'll create and maintain AI and ML infrastructures that our engineers can leverage to train and host ML models\n- You’ll contribute to the design and development of geospatial data pipelines and the infrastructure to deliver services to customers\n- Shape product and drive revenue, working with team to serve customer requests\n- Supporting, training and hiring other tech team members to ensure awesomeness across the team\n\n**Requirements**\n\n**What do I need** ❓\n\n- To care about the future of the planet - you want to solve climate change in the most high leverage way possible\n\n- Adaptability - we’re a small startup, things will change alot and fast early on - this should be exciting rather than make your heart sink!\n- Comfortable in Python, ideally with JS, Java or Scala experience\n- RESTful API design and development (Ideally with documentation tools i.e. Swagger)\n- Experience building and optimizing 'big data' data pipelines, architectures and data sets.\n- You know why tests are important and you love to write them :)\n\n**Brownie Points** 🍰\n\n- Understanding of CI/CD from practice\n- Knowledge of PostGIS and/or working with geospatial pipelines, data, algorithms\n- Experience working with serverless architectures, AWS Lambda ideally\n- Experience working in cross functional agile teams\n- Experience with big data tools such as Spark/ Kafka\n\nFeel free to apply even if you feel unsure about whether you meet every single requirement in this posting. As long as you're a quick learner, and are excited about changing the carbon markets for the better, we're happy to support you as you come up to speed with our tech stack.\n\n**Equal Employment Opportunity**\n\nSylvera is an equal opportunity employer: we value diversity. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\n**Feel free to apply even if you feel unsure about whether you meet every single requirement in this posting. As long as you're a quick learner, and are excited about changing the carbon markets for the better, we're happy to support you as you come up to speed with our tech stack.**\n\n**Equal Employment Opportunity**\n\nSylvera is an equal opportunity employer: we value diversity. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\n**Benefits**\n\n£50-£65k p.a. 0-1% Equity. Dependent on experience.\n\nYou also get paid to save the world which is nice.\n\nNO AGENCIES THANKS\n\n",
+      "descriptionHtml": "<p>📍 Location: London. Remote possible for right candidate</p>\n\n<p>⏰ Start Date: ASAP.</p>\n\n<p><strong>What is this Sylvera you speak of?</strong> 👩‍👨</p>\n\n<p>Sylvera is scaling carbon markets with software, by developing tools to quantify stocks of carbon stored in vegetation using AI applied to satellite or drone data.</p>\n\n<p>Using current quantification techniques, it is impossible to provide accurate and regular data on the performance of forestry projects, which leads to issues with corruption, fraud and uncertainty. This leads to significant financial and reputational risk for corporates purchasing offsets and makes it hard for high quality forest projects to secure fair prices and low cost finance at large scale.</p>\n\n<p>By providing a quantitative sequestration audit trail and associated risk ratings, Sylvera intends to underpin effective voluntary carbon markets. This will allow the market to scale to keep the planet under 2C of warming, and unlock huge co benefits for nature and society.</p>\n\n<p><strong>What&#39;s my impact?</strong> 👩‍💻👨‍💻</p>\n\n<ul>\n<li>Leading development of the data platform and infrastructure underlying our AI engine for carbon offset verification</li>\n<li>This is a broad and high impact role straddling data engineering and backend development</li>\n<li>You&#39;ll create and maintain AI and ML infrastructures that our engineers can leverage to train and host ML models</li>\n<li>You’ll contribute to the design and development of geospatial data pipelines and the infrastructure to deliver services to customers</li>\n<li>Shape product and drive revenue, working with team to serve customer requests</li>\n<li>Supporting, training and hiring other tech team members to ensure awesomeness across the team</li>\n</ul>\n\n<p><strong>Requirements</strong></p>\n\n<p><strong>What do I need</strong> ❓</p>\n\n<ul>\n<li><p>To care about the future of the planet - you want to solve climate change in the most high leverage way possible</p></li>\n<li><p>Adaptability - we’re a small startup, things will change alot and fast early on - this should be exciting rather than make your heart sink!</p></li>\n<li><p>Comfortable in Python, ideally with JS, Java or Scala experience</p></li>\n<li><p>RESTful API design and development (Ideally with documentation tools i.e. Swagger)</p></li>\n<li><p>Experience building and optimizing &#39;big data&#39; data pipelines, architectures and data sets.</p></li>\n<li><p>You know why tests are important and you love to write them :)</p></li>\n</ul>\n\n<p><strong>Brownie Points</strong> 🍰</p>\n\n<ul>\n<li>Understanding of CI/CD from practice</li>\n<li>Knowledge of PostGIS and/or working with geospatial pipelines, data, algorithms</li>\n<li>Experience working with serverless architectures, AWS Lambda ideally</li>\n<li>Experience working in cross functional agile teams</li>\n<li>Experience with big data tools such as Spark/ Kafka</li>\n</ul>\n\n<p>Feel free to apply even if you feel unsure about whether you meet every single requirement in this posting. As long as you&#39;re a quick learner, and are excited about changing the carbon markets for the better, we&#39;re happy to support you as you come up to speed with our tech stack.</p>\n\n<p><strong>Equal Employment Opportunity</strong></p>\n\n<p>Sylvera is an equal opportunity employer: we value diversity. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>\n\n<p><strong>Feel free to apply even if you feel unsure about whether you meet every single requirement in this posting. As long as you&#39;re a quick learner, and are excited about changing the carbon markets for the better, we&#39;re happy to support you as you come up to speed with our tech stack.</strong></p>\n\n<p><strong>Equal Employment Opportunity</strong></p>\n\n<p>Sylvera is an equal opportunity employer: we value diversity. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>\n\n<p><strong>Benefits</strong></p>\n\n<p>£50-£65k p.a. 0-1% Equity. Dependent on experience.</p>\n\n<p>You also get paid to save the world which is nice.</p>\n\n<p>NO AGENCIES THANKS</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [
+        "Europe",
+        "Africa"
+      ],
+      "skills": [
+        "Python",
+        "Javascript",
+        "PostgreSQL",
+        "AWS",
+        "Serverless"
+      ],
+      "payment": {
+        "salary": "£45k – £65k",
+        "equity": "0.0% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/samuel-gill-4",
+        "name": "Samuel Gill",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "807189",
+        "angelListUrl": "https://angel.co/company/sylvera/jobs/807189-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Engineer",
+      "description": "📍 Location: London / Remote possible for right candidate\n\n⏰ Start Date: ASAP. End date: Flexible\n\n**What is this Sylvera you speak of?** 👩‍👨\n\nSylvera is scaling carbon markets with software, by developing tools to quantify stocks of carbon stored in vegetation using AI applied to satellite or drone data.\n\nUsing current quantification techniques, it is impossible to provide accurate and regular data on the performance of forestry projects, which leads to issues with corruption, fraud and uncertainty. This leads to significant financial and reputational risk for corporates purchasing offsets and makes it hard for high quality forest projects to secure fair prices and low cost finance at large scale.\n\nBy providing a quantitative sequestration audit trail and associated risk ratings, Sylvera intends to underpin effective voluntary carbon markets. This will allow the market to scale to keep the planet under 2C of warming, and unlock huge co benefits for nature and society.\n\n**What's my impact?** 👩‍💻👨‍💻\n\n- Leading part(s) of the product from inception to launch, and own a material part of the product’s execution.\n- Working with our founders and frontend team to build products with the goal of delighting and increasing the success of our users.\n- Deploying machine learning algorithms and augmenting data scientists to make our AI platform smarter\n- Architecting, building, testing, and releasing product-facing features.\n\n**Requirements**\n\n**What do I need?** ❓\n\n- Knowledge of Javascript & Python \n- Comfortable designing and owning a RESTful API that will serve our product and integrations into 3rd party products.\n- Experience with scalable distributed systems, ideally serverless\n- Willingness to learn and use new technologies.\n- Extremely data-driven.\n- Ability to debug complex systems.\n\n**Brownie Points** 🍰\n\n- Has worked with Geospatial data, PostGIS\n- Cares about the future of the planet and wants to solve climate change in the most high leverage way possible\n\n**Feel free to apply even if you feel unsure about whether you meet every single requirement in this posting. As long as you're a quick learner, and are excited about changing the carbon markets for the better, we're happy to support you as you come up to speed with our tech stack.**\n\n**Tech Stack** 🔨\n\n- ReactJS / Svelte\n- NodeJS\n- Python\n- AWS\n- Aurora PostgreSQL Serverless\n\n**Equal Employment Opportunity**\n\nSylvera is an equal opportunity employer: we value diversity. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\n**Benefits**\n\n**Compensation**\n\n£50-£65k p.a. 0-1% Equity. Dependent on experience.\n\nYou also get paid to save the world which is nice.\n\nNO AGENCIES THANKS\n\n",
+      "descriptionHtml": "<p>📍 Location: London / Remote possible for right candidate</p>\n\n<p>⏰ Start Date: ASAP. End date: Flexible</p>\n\n<p><strong>What is this Sylvera you speak of?</strong> 👩‍👨</p>\n\n<p>Sylvera is scaling carbon markets with software, by developing tools to quantify stocks of carbon stored in vegetation using AI applied to satellite or drone data.</p>\n\n<p>Using current quantification techniques, it is impossible to provide accurate and regular data on the performance of forestry projects, which leads to issues with corruption, fraud and uncertainty. This leads to significant financial and reputational risk for corporates purchasing offsets and makes it hard for high quality forest projects to secure fair prices and low cost finance at large scale.</p>\n\n<p>By providing a quantitative sequestration audit trail and associated risk ratings, Sylvera intends to underpin effective voluntary carbon markets. This will allow the market to scale to keep the planet under 2C of warming, and unlock huge co benefits for nature and society.</p>\n\n<p><strong>What&#39;s my impact?</strong> 👩‍💻👨‍💻</p>\n\n<ul>\n<li>Leading part(s) of the product from inception to launch, and own a material part of the product’s execution.</li>\n<li>Working with our founders and frontend team to build products with the goal of delighting and increasing the success of our users.</li>\n<li>Deploying machine learning algorithms and augmenting data scientists to make our AI platform smarter</li>\n<li>Architecting, building, testing, and releasing product-facing features.</li>\n</ul>\n\n<p><strong>Requirements</strong></p>\n\n<p><strong>What do I need?</strong> ❓</p>\n\n<ul>\n<li>Knowledge of Javascript &amp; Python </li>\n<li>Comfortable designing and owning a RESTful API that will serve our product and integrations into 3rd party products.</li>\n<li>Experience with scalable distributed systems, ideally serverless</li>\n<li>Willingness to learn and use new technologies.</li>\n<li>Extremely data-driven.</li>\n<li>Ability to debug complex systems.</li>\n</ul>\n\n<p><strong>Brownie Points</strong> 🍰</p>\n\n<ul>\n<li>Has worked with Geospatial data, PostGIS</li>\n<li>Cares about the future of the planet and wants to solve climate change in the most high leverage way possible</li>\n</ul>\n\n<p><strong>Feel free to apply even if you feel unsure about whether you meet every single requirement in this posting. As long as you&#39;re a quick learner, and are excited about changing the carbon markets for the better, we&#39;re happy to support you as you come up to speed with our tech stack.</strong></p>\n\n<p><strong>Tech Stack</strong> 🔨</p>\n\n<ul>\n<li>ReactJS / Svelte</li>\n<li>NodeJS</li>\n<li>Python</li>\n<li>AWS</li>\n<li>Aurora PostgreSQL Serverless</li>\n</ul>\n\n<p><strong>Equal Employment Opportunity</strong></p>\n\n<p>Sylvera is an equal opportunity employer: we value diversity. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>\n\n<p><strong>Benefits</strong></p>\n\n<p><strong>Compensation</strong></p>\n\n<p>£50-£65k p.a. 0-1% Equity. Dependent on experience.</p>\n\n<p>You also get paid to save the world which is nice.</p>\n\n<p>NO AGENCIES THANKS</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Node.js",
+        "React.js",
+        "AWS",
+        "SvelteJS"
+      ],
+      "payment": {
+        "salary": "£40k – £75k",
+        "equity": "0.0% – 2.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/samuel-gill-4",
+        "name": "Samuel Gill",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "775254",
+        "angelListUrl": "https://angel.co/company/sylvera/jobs/775254-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Engineer",
+      "description": "📍 Location: London / Remote\n\n⏰ Start Date: ASAP. End date: Flexible\n\n**What is this Sylvera you speak of?** 👩‍👨\n\nSylvera is scaling carbon markets with software, by developing tools to quantify stocks of carbon stored in vegetation using AI applied to satellite or drone data.\n\nUsing current quantification techniques, it is impossible to provide accurate and regular data on the performance of forestry projects, which leads to issues with corruption, fraud and uncertainty. This leads to significant financial and reputational risk for corporates purchasing offsets and makes it hard for high quality forest projects to secure fair prices and low cost finance at large scale.\n\nBy providing a quantitative sequestration audit trail and associated risk ratings, Sylvera intends to underpin effective voluntary carbon markets. This will allow the market to scale to keep the planet under 2C of warming, and unlock huge co benefits for nature and society.\n\n**What’s my impact?** 👩‍💻👨‍💻\n\n- Guiding development of the core AI engine for carbon offset verification\n- Contribute to development of new machine learning architectures, models and analytics products using geospatial data\n- Contribute to the design and development of pipelines to train, evaluate and deploy machine learning models at scale\n- Shape product and drive revenue, working with our developer team to deploy the model and serve customer requests\n- Working alongside our academic partners who are leaders in the earth observation and natural carbon community to push forward the state of the art\n- Publishing our methodology and model validation for open scrutiny by academics, NGO, Governments and customers\n- Supporting, training and hiring other tech team members to ensure awesomeness across the team\n\n**Requirements**\n\n**What do I need?** ❓\n\n- Strong working knowledge of Python and machine learning frameworks, i.e. Pytorch, Tensorflow\n- Demonstrated experience in building, validating, and leveraging machine learning models in computer vision and/or earth observation\n- 2+ years of industry experience implementing ML models on image data\n- Good foundations of software architecture, object-oriented design, APIs and testing patterns\n- Breadth of coverage and capable of making informed decisions about choice of tools, models and approaches\n- To care about the future of the planet - you want to solve climate change in the most high leverage way possible\n\n**Brownie Points** 🍰\n\n- Has worked with Geospatial data\n- Has worked with multispectral passive and/or active satellite data such as SAR or LIDAR\n- PhD level in relevant area\n- Experience contributing to product development\n- Experience working with developers deploying models in a production environment\n\n**Feel free to apply even if you feel unsure about whether you meet every single requirement in this posting. As long as you're a quick learner, and are excited about changing the carbon markets for the better, we're happy to support you as you come up to speed with our tech stack.**\n\n**Equal Employment Opportunity**\n\nSylvera is an equal opportunity employer: we value diversity. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\n**Benefits**\n\n£55-£85k p.a. 0.5-1.25% Equity. Dependent on experience.\n\nYou also get paid to save the world which is nice.\n\nNO AGENCIES THANKS\n\n",
+      "descriptionHtml": "<p>📍 Location: London / Remote</p>\n\n<p>⏰ Start Date: ASAP. End date: Flexible</p>\n\n<p><strong>What is this Sylvera you speak of?</strong> 👩‍👨</p>\n\n<p>Sylvera is scaling carbon markets with software, by developing tools to quantify stocks of carbon stored in vegetation using AI applied to satellite or drone data.</p>\n\n<p>Using current quantification techniques, it is impossible to provide accurate and regular data on the performance of forestry projects, which leads to issues with corruption, fraud and uncertainty. This leads to significant financial and reputational risk for corporates purchasing offsets and makes it hard for high quality forest projects to secure fair prices and low cost finance at large scale.</p>\n\n<p>By providing a quantitative sequestration audit trail and associated risk ratings, Sylvera intends to underpin effective voluntary carbon markets. This will allow the market to scale to keep the planet under 2C of warming, and unlock huge co benefits for nature and society.</p>\n\n<p><strong>What’s my impact?</strong> 👩‍💻👨‍💻</p>\n\n<ul>\n<li>Guiding development of the core AI engine for carbon offset verification</li>\n<li>Contribute to development of new machine learning architectures, models and analytics products using geospatial data</li>\n<li>Contribute to the design and development of pipelines to train, evaluate and deploy machine learning models at scale</li>\n<li>Shape product and drive revenue, working with our developer team to deploy the model and serve customer requests</li>\n<li>Working alongside our academic partners who are leaders in the earth observation and natural carbon community to push forward the state of the art</li>\n<li>Publishing our methodology and model validation for open scrutiny by academics, NGO, Governments and customers</li>\n<li>Supporting, training and hiring other tech team members to ensure awesomeness across the team</li>\n</ul>\n\n<p><strong>Requirements</strong></p>\n\n<p><strong>What do I need?</strong> ❓</p>\n\n<ul>\n<li>Strong working knowledge of Python and machine learning frameworks, i.e. Pytorch, Tensorflow</li>\n<li>Demonstrated experience in building, validating, and leveraging machine learning models in computer vision and/or earth observation</li>\n<li>2+ years of industry experience implementing ML models on image data</li>\n<li>Good foundations of software architecture, object-oriented design, APIs and testing patterns</li>\n<li>Breadth of coverage and capable of making informed decisions about choice of tools, models and approaches</li>\n<li>To care about the future of the planet - you want to solve climate change in the most high leverage way possible</li>\n</ul>\n\n<p><strong>Brownie Points</strong> 🍰</p>\n\n<ul>\n<li>Has worked with Geospatial data</li>\n<li>Has worked with multispectral passive and/or active satellite data such as SAR or LIDAR</li>\n<li>PhD level in relevant area</li>\n<li>Experience contributing to product development</li>\n<li>Experience working with developers deploying models in a production environment</li>\n</ul>\n\n<p><strong>Feel free to apply even if you feel unsure about whether you meet every single requirement in this posting. As long as you&#39;re a quick learner, and are excited about changing the carbon markets for the better, we&#39;re happy to support you as you come up to speed with our tech stack.</strong></p>\n\n<p><strong>Equal Employment Opportunity</strong></p>\n\n<p>Sylvera is an equal opportunity employer: we value diversity. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>\n\n<p><strong>Benefits</strong></p>\n\n<p>£55-£85k p.a. 0.5-1.25% Equity. Dependent on experience.</p>\n\n<p>You also get paid to save the world which is nice.</p>\n\n<p>NO AGENCIES THANKS</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Computer Vision",
+        "Geographic Information System (GIS)",
+        "Deep Learning"
+      ],
+      "payment": {
+        "salary": "£55k – £85k",
+        "equity": "0.5% – 1.5%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/samuel-gill-4",
+        "name": "Samuel Gill",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "807188",
+        "angelListUrl": "https://angel.co/company/sylvera/jobs/807188-"
+      }
+    }
+  ]
+}

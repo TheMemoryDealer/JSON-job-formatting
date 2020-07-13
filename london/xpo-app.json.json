@@ -1,0 +1,102 @@
+{
+  "name": "XPO APP",
+  "avatar": "https://photos.angel.co/startups/i/6639724-a161563c16dc872f2302aefaf0bb32c3-medium_jpg.jpg?buster=1543799714",
+  "slogan": "A payment processing app that makes it easy and secure to pay instagram influencers",
+  "description": "XPO is a payment processing app that makes it easy and secure to pay instagram influencers. Users can request and pay for influencers to promote their content through the app. Their payments will be held in a XPO wallet before, once both parties are satisfied the funds are released to the influencers. This makes it easy and secure to pay influencers. XPO. Simple. Secure. Promo.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.xpo-app.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile Payments",
+    "Influencer Marketing"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Co-founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/tomi-aiyeola",
+      "name": "Tomi Aiyeola",
+      "avatar": "https://photos.angel.co/users/8661534-medium_jpg?1543820488",
+      "bioHtml": ""
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/lotanna-ezeike-1",
+      "name": "Lotanna Ezeike",
+      "avatar": "https://photos.angel.co/users/8661511-medium_jpg?1543799639",
+      "bioHtml": "Founder XPO APP • Strong financial background. FORTNITE God • Worked at <a href=\"https://angel.co/company/barclays\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">BARCLAYS</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6639724",
+    "angelListUrl": "https://angel.co/company/xpo-app"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "CTO - Swift Expert - Mobile UI Designer",
+      "description": "- We are looking for a CTO to come onboard in our team\n- We have raised £50K pre-seed which will give us a 7 month-run\n\nXPO an app that allows you to securely pay instagram influencers with ease.\n\nhttps://www.xpo-app.com",
+      "descriptionHtml": "<ul>\n<li>We are looking for a CTO to come onboard in our team</li>\n<li>We have raised £50K pre-seed which will give us a 7 month-run</li>\n</ul>\n\n<p>XPO an app that allows you to securely pay instagram influencers with ease.</p>\n\n<p><a href=\"https://www.xpo-app.com\" target=\"_blank\" rel=\"nofollow\">https://www.xpo-app.com</a></p>\n",
+      "position": "cofounder",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "UI/UX Design",
+        "Swift/Objective C/iOS/Xcode"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "10.0% – 15.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/lotanna-ezeike-1",
+        "name": "Lotanna Ezeike",
+        "avatar": "https://photos.angel.co/users/8661511-medium_jpg?1543799639"
+      },
+      "refs": {
+        "angelListId": "510191",
+        "angelListUrl": "https://angel.co/company/xpo-app/jobs/510191-"
+      }
+    }
+  ]
+}

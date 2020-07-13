@@ -1,0 +1,101 @@
+{
+  "name": "5iveTech ",
+  "avatar": "https://photos.angel.co/startups/i/4808912-b89a3fb4037eb95945b36f368bb5851e-medium_jpg.jpg?buster=1550843289",
+  "slogan": "Ruby and Elixir",
+  "description": "5iveTech Recruitment provides hard to find talent for startups who are led by amazing people. We focus on software development, Data science, DevOps, Product and Infrastructure. We work with companies because we genuinely believe in their ideas. \n\nOur consultants have deep technical knowledge of each subject area. With our proven recruitment model, together we can build a better brand, secure right candidates and scale up on demand. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.5ivetech.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Europe"
+  ],
+  "marketTags": [
+    "Technology"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Director",
+      "role": "Founder",
+      "url": "https://angel.co/u/samtherubyman",
+      "name": "Sam Wellalage",
+      "avatar": "https://photos.angel.co/users/6767545-medium_jpg?1502189098",
+      "bioHtml": "I&#39;m inspired by great ideas and working closely with key decision makers to build tech teams.I have an extensive network in Ruby on Rails and Elixir"
+    },
+    {
+      "title": "Director",
+      "role": "Employee",
+      "url": "https://angel.co/u/samtherubyman",
+      "name": "Sam Wellalage",
+      "avatar": "https://photos.angel.co/users/6767545-medium_jpg?1502189098",
+      "bioHtml": "I&#39;m inspired by great ideas and working closely with key decision makers to build tech teams.I have an extensive network in Ruby on Rails and Elixir"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4808912",
+    "angelListUrl": "https://angel.co/company/5ive-tech-2"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Ruby on Rails Developers",
+      "description": "5iveTech Recruitment is a specialist in Ruby on Rails and Elixir and our founder has been working in this market for the past 6 years. \n\nWe are working with carefully selected startups in London for their inspiring ideas and growth aspects. \n\nAs such, we are looking for Junior to Senior, as well as Tech Architects and Tech Leads for these inspiring startups.\n\nFor more information please contact Sam Wellalage on sw@5ivetech.co.uk",
+      "descriptionHtml": "<p>5iveTech Recruitment is a specialist in Ruby on Rails and Elixir and our founder has been working in this market for the past 6 years. </p>\n\n<p>We are working with carefully selected startups in London for their inspiring ideas and growth aspects. </p>\n\n<p>As such, we are looking for Junior to Senior, as well as Tech Architects and Tech Leads for these inspiring startups.</p>\n\n<p>For more information please contact Sam Wellalage on <a href=\"mailto:sw@5ivetech.co.uk\" target=\"_blank\" rel=\"nofollow\">sw@5ivetech.co.uk</a></p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Ruby on Rails",
+        "Elixir"
+      ],
+      "payment": {
+        "salary": "£40k – £100k"
+      },
+      "recruiter": {
+        "title": "Director",
+        "role": "Employee",
+        "url": "https://angel.co/u/samtherubyman",
+        "name": "Sam Wellalage",
+        "avatar": "https://photos.angel.co/users/6767545-medium_jpg?1502189098"
+      },
+      "refs": {
+        "angelListId": "509527",
+        "angelListUrl": "https://angel.co/company/5ive-tech-2/jobs/509527-"
+      }
+    }
+  ]
+}

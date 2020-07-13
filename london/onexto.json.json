@@ -1,0 +1,99 @@
+{
+  "name": "ONexto",
+  "avatar": "https://photos.angel.co/startups/i/7120768-7c99fc347e875380e0b2e98a1324771f-medium_jpg.jpg?buster=1565549436",
+  "slogan": "Algorithmic solutions that provide actionable advice",
+  "description": "Two products.\n\nAdShorten - Algorithms balance the decisions on optimisation and growth, giving customers control of their brand power in disruptive industries.\n\nOkContent - Streamlines the process of content generation in the digital ad market.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://ONexto.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Advertising",
+    "Mobile Commerce",
+    "Social Commerce",
+    "Technology"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/first-onexto",
+      "name": "First ONexto",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7120768",
+    "angelListUrl": "https://angel.co/company/onexto"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "CoFounder",
+      "description": "",
+      "descriptionHtml": "",
+      "position": "cofounder",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Athens",
+        "Barcelona"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "C++",
+        "Software Development",
+        "Growth Hacking"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "10.0% – 25.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/first-onexto",
+        "name": "First ONexto",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "606203",
+        "angelListUrl": "https://angel.co/company/onexto/jobs/606203-"
+      }
+    }
+  ]
+}

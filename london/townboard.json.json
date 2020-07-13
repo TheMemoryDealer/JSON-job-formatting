@@ -1,0 +1,89 @@
+{
+  "name": "TownBoard",
+  "avatar": "https://photos.angel.co/startups/i/6119772-20e534d8ede80a8c620e093d1b2c9c9f-medium_jpg.jpg?buster=1533675431",
+  "slogan": "Co-Founder Opportunity!",
+  "description": "A simple, social media oriented app. Apply for more details.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://N/A.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Social Media"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/henry-bewley",
+      "name": "Henry Bewley",
+      "avatar": "https://photos.angel.co/users/8199558-medium_jpg?1533674850",
+      "bioHtml": "I have a solid app idea that I am looking for an opportunity to develop, I am looking for a Co-Founder to work closely with and grow this idea. Get in touch!"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6119772",
+    "angelListUrl": "https://angel.co/company/townboard"
+  },
+  "jobs": [
+    {
+      "role": "Operations",
+      "title": "Co-Founder",
+      "description": "",
+      "descriptionHtml": "",
+      "position": "cofounder",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/henry-bewley",
+        "name": "Henry Bewley",
+        "avatar": "https://photos.angel.co/users/8199558-medium_jpg?1533674850"
+      },
+      "refs": {
+        "angelListId": "408245",
+        "angelListUrl": "https://angel.co/company/townboard/jobs/408245-"
+      }
+    }
+  ]
+}

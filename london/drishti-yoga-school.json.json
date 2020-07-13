@@ -1,0 +1,92 @@
+{
+  "name": "Drishti Yoga School",
+  "avatar": "https://photos.angel.co/startups/i/6523100-5dd8943994efe4c90712a06f66a8248e-medium_jpg.jpg?buster=1541003441",
+  "slogan": "Yoga Teacher",
+  "description": "Yoga teacher training",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.drishtiyogaschool.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/mayank-rana-5",
+      "name": "mayank rana",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6523100",
+    "angelListUrl": "https://angel.co/company/drishti-yoga-school"
+  },
+  "jobs": [
+    {
+      "role": "Operations",
+      "title": "Office Manager",
+      "description": "",
+      "descriptionHtml": "",
+      "position": "full-time",
+      "experience": 6,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Good communication skills"
+      ],
+      "payment": {
+        "salary": "€30k – €50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/mayank-rana-5",
+        "name": "mayank rana",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "450988",
+        "angelListUrl": "https://angel.co/company/drishti-yoga-school/jobs/450988-"
+      },
+      "postedAt": 1589658450988
+    }
+  ]
+}

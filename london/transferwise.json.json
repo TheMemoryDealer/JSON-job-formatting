@@ -1,0 +1,412 @@
+{
+  "name": "TransferWise",
+  "avatar": "https://photos.angel.co/startups/i/27427-bab73226bb0db75cfedf4c320152658f-medium_jpg.jpg?buster=1589652854",
+  "slogan": "We're on a mission to bring transparency to finance. Affordable and clear",
+  "description": "Current banking systems don’t let us send, spend or receive money across borders easily. Or quickly. Or cheaply. \n\nSo we’re building a new one.\n\nWe won’t stop until everyone can send, spend and receive money wherever they are, in any currency.\n\nBut we can’t do it alone. We’re growing incredibly fast and there’s still lots to get done.\n\nVisit transferwise.com/careers to join us.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://transferwise.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://tech.transferwise.com/"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/#!/transferwise"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/transferwise"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/transferwise"
+    },
+    {
+      "type": "productHunt",
+      "url": "https://www.producthunt.com/posts/transferwise"
+    }
+  ],
+  "locations": [
+    "London",
+    "New York City",
+    "Budapest",
+    "Cherkasy",
+    "Singapore",
+    "Tampa",
+    "Tallinn"
+  ],
+  "marketTags": [
+    "Consumers",
+    "Financial Services",
+    "P2P Money Transfer",
+    "Fin Tech",
+    "Finance",
+    "Payments",
+    "Peer-to-Peer"
+  ],
+  "employees": "SIZE_1001_5000",
+  "funding": {
+    "totalRaised": 396368040,
+    "rounds": [
+      {
+        "type": "Series E",
+        "closedAt": 1509580800,
+        "valuation": 0
+      },
+      {
+        "type": "Series D",
+        "closedAt": 1464134400,
+        "valuation": 1100000000
+      },
+      {
+        "type": "Series C",
+        "closedAt": 1422230400,
+        "valuation": null
+      },
+      {
+        "type": "Series B",
+        "closedAt": 1402358400,
+        "valuation": 0
+      },
+      {
+        "type": "Series A",
+        "closedAt": 1368489600,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1334620800,
+        "valuation": 0
+      },
+      {
+        "type": null,
+        "closedAt": 1312156800,
+        "valuation": null
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/p/taavet",
+      "name": "Taavet Hinrikus",
+      "avatar": "https://photos.angel.co/users/69966-medium_jpg?1405477964",
+      "bioHtml": "CEO &amp; Co-Founder  <a href=\"https://angel.co/company/transferwise\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">TransferWise</span></a>, previously helped build <a href=\"https://angel.co/company/skype\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Skype</span></a> as 1st employee"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/p/kaarmann",
+      "name": "Kristo Käärmann",
+      "avatar": "https://photos.angel.co/users/73265-medium_jpg?1405478563",
+      "bioHtml": "CEO at <a href=\"https://angel.co/company/transferwise\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">TransferWise</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/adam-chew-2",
+      "name": "Adam Chew",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/amadeus-junqueira-1",
+      "name": "Amadeus Junqueira",
+      "avatar": "https://photos.angel.co/users/11009851-medium_jpg?1587153798",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/lorenagonzaleztransferwise",
+      "name": "Lorena Gonzalez",
+      "avatar": "https://photos.angel.co/users/9943457-medium_jpg?1567595425",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [
+    {
+      "category": "work_from_home",
+      "title": "Flexible working"
+    },
+    {
+      "category": "equity",
+      "title": "Stock option package"
+    },
+    {
+      "category": "pet_friendly",
+      "title": "Pet friendly office"
+    },
+    {
+      "category": "company_meals",
+      "title": "Free breakfast and weekly team lunches"
+    },
+    {
+      "category": "parental_leave",
+      "title": "Parental leave"
+    },
+    {
+      "category": "retirement",
+      "title": "Pension / Retirement plans"
+    },
+    {
+      "category": "healthcare",
+      "title": "Medical insurance plan"
+    },
+    {
+      "category": "wellness",
+      "title": "Health and wellbeing discounts"
+    },
+    {
+      "category": "generous_vacation",
+      "title": "Generous holiday allowance"
+    },
+    {
+      "category": "generous_vacation",
+      "title": "Paid for annual company trip"
+    },
+    {
+      "category": "company_events",
+      "title": "Social events"
+    },
+    {
+      "category": "wellness",
+      "title": "Subsidised activity clubs"
+    },
+    {
+      "category": "miscellaneous",
+      "title": "In office sauna"
+    },
+    {
+      "category": "generous_vacation",
+      "title": "Paid sabbatical after four years"
+    }
+  ],
+  "refs": {
+    "angelListId": "27427",
+    "angelListUrl": "https://angel.co/company/transferwise"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Full Stack Developer - New York",
+      "description": "NYC tip #528 There’s a Brooklyn beyond Williamsburg. \n\nMoney transfer tip #2 There’s a better exchange rate beyond your bank. \n\nCareer tip #6 Join TransferWise to help build money without borders.\n\nSeen any of our top tips on the Subway recently? It’s all part of our campaign to help more US customers save money using TransferWise. So far, we’ve saved over 3 million customers more than $10 billion in bank fees so far. Yet we’re moving less than 1% of the world’s money. There’s still heaps to do and we can’t do it alone. \n\nYour mission:\n\n* Help us help to scale our product to impact millions more customers\n* Take ownership of the entire TransferWise user experience for our U.S. customers, helping to make their international transfers faster, easier and cheaper (this covers: banking; payment processing; verification; compliance and marketing\n* Integrate payment methods and partners, creating a scalable and automated payments engine \n* Understand our customers and the impact our product is making (through data analysis and user research) to drive our team and product roadmap\n\nThis role will give you the opportunity to:\n\n* Develop your expertise in the fast-growing FinTech market in the US working alongside our CTO and growing engineering team based in the Flatiron district\n* Choose your own path to success - you’ll have the freedom to define the vision and the responsibility for making it happen\n* Be flexible in how and where you work, we understand everyone needs a little something different so we’ll do our best to make it happen\n* Travel to work and learn with our dev teams in London, Tallinn, Budapest, Singapore and more\n\nA bit about you:\n\n* You’ll be passionate about product and user experience - customers are at the heart of what you do and that empathy drives your decisions\n* You’ll have used a back-end MVC Framework, Java/Spring Boot preferred\n* You’ll have experience with HTML, CSS and JavaScript\n* You’ll have previously developed a modern front-end framework. Angular.js is preferred, but experience with Backbone, Ember, Knockout or React is also relevant \n* You’ll have experience working with SQL databases, writing custom queries and designing schemas\n* You’ll have an understanding of test-driven development (TDD) and have the desire to write tests\n* You’ll be familiar with Continuous Delivery approach mindset\n\nSome extra skills that would be awesome:\n\n* You’ll have experience with commercial software development and may have built modular scalable systems\n* You might have used database abstraction layers like Hibernate or messaging services (Apache Kafka, RabbitMQ, JMS etc)\n* You have knowledge of payment platforms, foreign exchange and highly complex systems\n* You have a broad understanding of the concept of minimum viable product (MVP)",
+      "descriptionHtml": "<p>NYC tip #528 There’s a Brooklyn beyond Williamsburg. </p>\n\n<p>Money transfer tip #2 There’s a better exchange rate beyond your bank. </p>\n\n<p>Career tip #6 Join TransferWise to help build money without borders.</p>\n\n<p>Seen any of our top tips on the Subway recently? It’s all part of our campaign to help more US customers save money using TransferWise. So far, we’ve saved over 3 million customers more than $10 billion in bank fees so far. Yet we’re moving less than 1% of the world’s money. There’s still heaps to do and we can’t do it alone. </p>\n\n<p>Your mission:</p>\n\n<ul>\n<li>Help us help to scale our product to impact millions more customers</li>\n<li>Take ownership of the entire TransferWise user experience for our U.S. customers, helping to make their international transfers faster, easier and cheaper (this covers: banking; payment processing; verification; compliance and marketing</li>\n<li>Integrate payment methods and partners, creating a scalable and automated payments engine </li>\n<li>Understand our customers and the impact our product is making (through data analysis and user research) to drive our team and product roadmap</li>\n</ul>\n\n<p>This role will give you the opportunity to:</p>\n\n<ul>\n<li>Develop your expertise in the fast-growing FinTech market in the US working alongside our CTO and growing engineering team based in the Flatiron district</li>\n<li>Choose your own path to success - you’ll have the freedom to define the vision and the responsibility for making it happen</li>\n<li>Be flexible in how and where you work, we understand everyone needs a little something different so we’ll do our best to make it happen</li>\n<li>Travel to work and learn with our dev teams in London, Tallinn, Budapest, Singapore and more</li>\n</ul>\n\n<p>A bit about you:</p>\n\n<ul>\n<li>You’ll be passionate about product and user experience - customers are at the heart of what you do and that empathy drives your decisions</li>\n<li>You’ll have used a back-end MVC Framework, Java/Spring Boot preferred</li>\n<li>You’ll have experience with HTML, CSS and JavaScript</li>\n<li>You’ll have previously developed a modern front-end framework. Angular.js is preferred, but experience with Backbone, Ember, Knockout or React is also relevant </li>\n<li>You’ll have experience working with SQL databases, writing custom queries and designing schemas</li>\n<li>You’ll have an understanding of test-driven development (TDD) and have the desire to write tests</li>\n<li>You’ll be familiar with Continuous Delivery approach mindset</li>\n</ul>\n\n<p>Some extra skills that would be awesome:</p>\n\n<ul>\n<li>You’ll have experience with commercial software development and may have built modular scalable systems</li>\n<li>You might have used database abstraction layers like Hibernate or messaging services (Apache Kafka, RabbitMQ, JMS etc)</li>\n<li>You have knowledge of payment platforms, foreign exchange and highly complex systems</li>\n<li>You have a broad understanding of the concept of minimum viable product (MVP)</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "New York City"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "Javascript",
+        "Amazon Web Services",
+        "AngularJS",
+        "Kafka",
+        "Docker",
+        "React.js",
+        "AWS",
+        "Spring Boot"
+      ],
+      "payment": {
+        "salary": "$120k – $175k",
+        "equity": "0.001% – 0.001%"
+      },
+      "recruiter": {
+        "title": "Tech Recruitment Lead",
+        "role": "Employee",
+        "url": "https://angel.co/u/andrei-muresan-3",
+        "name": "Andrei Muresan",
+        "avatar": "https://photos.angel.co/users/6631040-medium_jpg?1531759462"
+      },
+      "refs": {
+        "angelListId": "187959",
+        "angelListUrl": "https://angel.co/company/transferwise/jobs/187959-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Developer",
+      "description": "Full Stack Developer\n \nTransferWise was founded in 2011 with a clear mission: Money without borders - so people and businesses can send and receive any currency effortlessly, whenever, wherever. \n \nSure, the heart of what we do is international money transfer. And we’re committed to making it instant, convenient and fair for millions of people, all over the world. But we’re growing our other products and our teams at an exciting pace. And we’re looking for the very best to jump on board. \n \nWhat it’s really like to work here\n \nAt TransferWise, we do things a bit differently. There’s no corporate nonsense, and no old-fashioned hierarchy. Instead, we work in dozens of self-sufficient, autonomous teams. Think of them like start-ups within a start-up that learn from each other.\n \nEach team picks the problems they want to solve. So there’s no micro-management. No hiding behind fancy job titles. And no one telling you what to do. You are your own boss. But you’ll get tons of guidance and plenty of support from talented, super-smart colleagues from all over TransferWise. \n \nWe’re going to be upfront — the way we work doesn’t suit everyone. But if freedom, autonomy, and life-affirming, head-scratching professional challenges rock your world, we could be a match made in heaven.\n \nWe hire engineers that empathise with our customers problems, develop solutions and measure results.  We’re proud of our engineering team - it's built an incredible product that’s changing the world.  They operate autonomously within their teams, focussing relentlessly on our customers, there is no one telling you what to do. It’s your plan.\n \nWhat you’ll be working on:\nTransferWise is complex under the hood, but we’re just getting started. With our own payment rails, there are lots of opportunities to build new products and services on them.\nAt its core, our stack is Java microservices, using Netflix OSS offerings, and SPAs written in Angular 1/React, with a legacy Grails monolith. We are moving quickly to proven distributed technologies that can be scaled (Kafka, Zookeeper, Eureka, Bouncer +  much more)\nMore details: http://tech.transferwise.com/the-transferwise-stack-heartbeat-of-our-little-revolution/\nWe’re integrating with a variety of partners and providers across the world, so our customers can send money across borders with minimal fuss and maximum confidence.\n \nMust Have: \nTech\nBack-end MVC Framework\nJava and Spring Boot preferred\nHTML, CSS and JavaScript\nExperience developing in a modern front end framework, Angular.js is preferred, but experience with Backbone, Ember, Knockout or React is also relevant.\nExperience working with SQL databases, writing custom queries and designing schemas.\nUnderstanding of test driven development (TDD), and the desire to write tests.\nMindset\nPassionate about technology, product and user experience.\nAbility to work independently and plan your own solutions to problems\nBroad understanding of the concept of minimum viable product and conversion rates.\nYou put the customer at the heart of everything you do and that empathy drives every decision you make.\n \nBonus Points:\nUnderstanding of Scrum and Agile development\nExperience using database abstraction layers like Hibernate.\nBe a customer of TransferWise",
+      "descriptionHtml": "<p>Full Stack Developer</p>\n\n<p>TransferWise was founded in 2011 with a clear mission: Money without borders - so people and businesses can send and receive any currency effortlessly, whenever, wherever. </p>\n\n<p>Sure, the heart of what we do is international money transfer. And we’re committed to making it instant, convenient and fair for millions of people, all over the world. But we’re growing our other products and our teams at an exciting pace. And we’re looking for the very best to jump on board. </p>\n\n<p>What it’s really like to work here</p>\n\n<p>At TransferWise, we do things a bit differently. There’s no corporate nonsense, and no old-fashioned hierarchy. Instead, we work in dozens of self-sufficient, autonomous teams. Think of them like start-ups within a start-up that learn from each other.</p>\n\n<p>Each team picks the problems they want to solve. So there’s no micro-management. No hiding behind fancy job titles. And no one telling you what to do. You are your own boss. But you’ll get tons of guidance and plenty of support from talented, super-smart colleagues from all over TransferWise. </p>\n\n<p>We’re going to be upfront — the way we work doesn’t suit everyone. But if freedom, autonomy, and life-affirming, head-scratching professional challenges rock your world, we could be a match made in heaven.</p>\n\n<p>We hire engineers that empathise with our customers problems, develop solutions and measure results.  We’re proud of our engineering team - it&#39;s built an incredible product that’s changing the world.  They operate autonomously within their teams, focussing relentlessly on our customers, there is no one telling you what to do. It’s your plan.</p>\n\n<p>What you’ll be working on:<br>\nTransferWise is complex under the hood, but we’re just getting started. With our own payment rails, there are lots of opportunities to build new products and services on them.<br>\nAt its core, our stack is Java microservices, using Netflix OSS offerings, and SPAs written in Angular 1/React, with a legacy Grails monolith. We are moving quickly to proven distributed technologies that can be scaled (Kafka, Zookeeper, Eureka, Bouncer +  much more)<br>\nMore details: <a href=\"http://tech.transferwise.com/the-transferwise-stack-heartbeat-of-our-little-revolution/\" target=\"_blank\" rel=\"nofollow\">http://tech.transferwise.com/the-transferwise-stack-heartbeat-of-our-little-revolution/</a><br>\nWe’re integrating with a variety of partners and providers across the world, so our customers can send money across borders with minimal fuss and maximum confidence.</p>\n\n<p>Must Have: <br>\nTech<br>\nBack-end MVC Framework<br>\nJava and Spring Boot preferred<br>\nHTML, CSS and JavaScript<br>\nExperience developing in a modern front end framework, Angular.js is preferred, but experience with Backbone, Ember, Knockout or React is also relevant.<br>\nExperience working with SQL databases, writing custom queries and designing schemas.<br>\nUnderstanding of test driven development (TDD), and the desire to write tests.<br>\nMindset<br>\nPassionate about technology, product and user experience.<br>\nAbility to work independently and plan your own solutions to problems<br>\nBroad understanding of the concept of minimum viable product and conversion rates.<br>\nYou put the customer at the heart of everything you do and that empathy drives every decision you make.</p>\n\n<p>Bonus Points:<br>\nUnderstanding of Scrum and Agile development<br>\nExperience using database abstraction layers like Hibernate.<br>\nBe a customer of TransferWise</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "Javascript",
+        "Angular.JS",
+        "AngularJS",
+        "Spring Boot"
+      ],
+      "payment": {
+        "salary": "£45k – £80k"
+      },
+      "recruiter": {
+        "title": "Marketing Manager - Recruitment",
+        "role": "Employee",
+        "url": "https://angel.co/u/jihan-ahmed",
+        "name": "Jihan Ahmed",
+        "avatar": "https://photos.angel.co/users/7363549-medium_jpg?1587156897"
+      },
+      "refs": {
+        "angelListId": "187961",
+        "angelListUrl": "https://angel.co/company/transferwise/jobs/187961-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Developer",
+      "description": "Who we are\n\nTransferWise was founded in 2011 with a clear mission: Money without borders - so people and businesses can send and receive any currency effortlessly, whenever, wherever.\n\nSure, the heart of what we do is international money transfer. And we’re committed to making it instant, convenient and fair for millions of people, all over the world. But we’re growing our other products and our teams at an exciting pace. And we’re looking for the very best to jump on board.\n\nWhat it’s really like to work here\n\nAt TransferWise, we do things a bit differently. There’s no corporate nonsense, and no old-fashioned hierarchy. Instead, we work in dozens of self-sufficient, autonomous teams. Think of them like start-ups within a start-up that learn from each other.\n\nEach team picks the problems they want to solve. So there’s no micro-management. No hiding behind fancy job titles. And no one telling you what to do. You are your own boss. But you’ll get tons of guidance and plenty of support from talented, super-smart colleagues from all over TransferWise.\n\nWe’re going to be upfront — the way we work doesn’t suit everyone. But if freedom, autonomy, and life-affirming, head-scratching professional challenges rock your world, we could be a match made in heaven.\n\nProduct engineers only\n\nHere at TransferWise we don’t hire coders, who pick up tickets from a backlog and push code to production without considering value and impact.\n\nWhat you’ll be working on:\n\nTransferWise is complex under the hood, but we’re just getting started. With our own payment rails, there are lots of opportunities to build new products and services on them. At its core, our stack is Java microservices, using Netflix OSS offerings, and SPAs written in Angular 1/React, with a legacy Grails monolith. We are moving quickly to proven distributed technologies that can be scaled (Kafka, Zookeeper, Eureka, Bouncer +  much more)\nMore details: http://tech.transferwise.com/the-transferwise-stack-heartbeat-of-our-little-revolution/\n\nIntegrating with a variety of partners and providers across the world, so our customers can send money across borders with minimal fuss and maximum confidence. Getting to the core of the customer’s problems by conducting interviews, answering support and figure out what TransferWise is to the customer and how it can be improved.\n\nWhat do you want to be working on? Autonomous teams come up with their own plans, there is no hierarchy telling you what to do.\n\nMust haves:\n- Passionate about technology and its relationship with business and user experience.\n- Ability to work independently and plan your own solutions to problems.\n- Experience using a back-end MVC Frameworks.\n- Experience with Java and Spring Boot preferred.\n- Experience developing in HTML, CSS and JavaScript\n- Experience developing in a modern front end framework, Angular.js is preferred, but experience with Backbone, Ember, Knockout or React is also relevant.\n- Experience working with SQL databases, writing custom queries and designing schemas.\n- Understanding of test driven development (TDD), the ability to structure your code so it’s testable, and the desire to write tests.\n- Broad understanding of the concept of minimum viable product and conversion rates.\n- Possess empathy for the user and able to build great code that drives fantastic user experience.\n- Strong communication skills and ability to articulate complex and technical concepts to non-technical audiences.\n- Be willing to travel, to work and learn with dev teams in Estonia and Ukraine.\n- Excitement to work in a high-growth company, and throw themselves fully -\n into a revolution.\n- Be open, communicative, and fun to work with.\n\nNice to haves:\n\n- Understanding of Scrum and Agile development\n- Experience using database abstraction layers like Hibernate.\n- Be a customer of TransferWise\n- Teamlead experience\n\nBenefits:\n\nApart from the all-expenses-paid company trips, stock options in one of Europe’s most hotly tipped startups, a laptop and team lunches every other Thursday, you won’t get much in the way of extras. However, we will give you 28 days holiday a year (plus public holidays), a fun, friendly atmosphere, plenty of opportunities to grow and the chance to be part of our little revolution. Oh, and coffee, there’s plenty of coffee.\n\nNot from Estonia? - No stress, we will help you (and your family) to relocate from any part of the world!",
+      "descriptionHtml": "<p>Who we are</p>\n\n<p>TransferWise was founded in 2011 with a clear mission: Money without borders - so people and businesses can send and receive any currency effortlessly, whenever, wherever.</p>\n\n<p>Sure, the heart of what we do is international money transfer. And we’re committed to making it instant, convenient and fair for millions of people, all over the world. But we’re growing our other products and our teams at an exciting pace. And we’re looking for the very best to jump on board.</p>\n\n<p>What it’s really like to work here</p>\n\n<p>At TransferWise, we do things a bit differently. There’s no corporate nonsense, and no old-fashioned hierarchy. Instead, we work in dozens of self-sufficient, autonomous teams. Think of them like start-ups within a start-up that learn from each other.</p>\n\n<p>Each team picks the problems they want to solve. So there’s no micro-management. No hiding behind fancy job titles. And no one telling you what to do. You are your own boss. But you’ll get tons of guidance and plenty of support from talented, super-smart colleagues from all over TransferWise.</p>\n\n<p>We’re going to be upfront — the way we work doesn’t suit everyone. But if freedom, autonomy, and life-affirming, head-scratching professional challenges rock your world, we could be a match made in heaven.</p>\n\n<p>Product engineers only</p>\n\n<p>Here at TransferWise we don’t hire coders, who pick up tickets from a backlog and push code to production without considering value and impact.</p>\n\n<p>What you’ll be working on:</p>\n\n<p>TransferWise is complex under the hood, but we’re just getting started. With our own payment rails, there are lots of opportunities to build new products and services on them. At its core, our stack is Java microservices, using Netflix OSS offerings, and SPAs written in Angular 1/React, with a legacy Grails monolith. We are moving quickly to proven distributed technologies that can be scaled (Kafka, Zookeeper, Eureka, Bouncer +  much more)<br>\nMore details: <a href=\"http://tech.transferwise.com/the-transferwise-stack-heartbeat-of-our-little-revolution/\" target=\"_blank\" rel=\"nofollow\">http://tech.transferwise.com/the-transferwise-stack-heartbeat-of-our-little-revolution/</a></p>\n\n<p>Integrating with a variety of partners and providers across the world, so our customers can send money across borders with minimal fuss and maximum confidence. Getting to the core of the customer’s problems by conducting interviews, answering support and figure out what TransferWise is to the customer and how it can be improved.</p>\n\n<p>What do you want to be working on? Autonomous teams come up with their own plans, there is no hierarchy telling you what to do.</p>\n\n<p>Must haves:</p>\n\n<ul>\n<li>Passionate about technology and its relationship with business and user experience.</li>\n<li>Ability to work independently and plan your own solutions to problems.</li>\n<li>Experience using a back-end MVC Frameworks.</li>\n<li>Experience with Java and Spring Boot preferred.</li>\n<li>Experience developing in HTML, CSS and JavaScript</li>\n<li>Experience developing in a modern front end framework, Angular.js is preferred, but experience with Backbone, Ember, Knockout or React is also relevant.</li>\n<li>Experience working with SQL databases, writing custom queries and designing schemas.</li>\n<li>Understanding of test driven development (TDD), the ability to structure your code so it’s testable, and the desire to write tests.</li>\n<li>Broad understanding of the concept of minimum viable product and conversion rates.</li>\n<li>Possess empathy for the user and able to build great code that drives fantastic user experience.</li>\n<li>Strong communication skills and ability to articulate complex and technical concepts to non-technical audiences.</li>\n<li>Be willing to travel, to work and learn with dev teams in Estonia and Ukraine.</li>\n<li>Excitement to work in a high-growth company, and throw themselves fully -\ninto a revolution.</li>\n<li>Be open, communicative, and fun to work with.</li>\n</ul>\n\n<p>Nice to haves:</p>\n\n<ul>\n<li>Understanding of Scrum and Agile development</li>\n<li>Experience using database abstraction layers like Hibernate.</li>\n<li>Be a customer of TransferWise</li>\n<li>Teamlead experience</li>\n</ul>\n\n<p>Benefits:</p>\n\n<p>Apart from the all-expenses-paid company trips, stock options in one of Europe’s most hotly tipped startups, a laptop and team lunches every other Thursday, you won’t get much in the way of extras. However, we will give you 28 days holiday a year (plus public holidays), a fun, friendly atmosphere, plenty of opportunities to grow and the chance to be part of our little revolution. Oh, and coffee, there’s plenty of coffee.</p>\n\n<p>Not from Estonia? - No stress, we will help you (and your family) to relocate from any part of the world!</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": true,
+      "locations": [
+        "Tallinn"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "MySQL",
+        "PostgreSQL",
+        "Hibernate",
+        "Spring",
+        "Jenkins",
+        "Kafka",
+        "Springboot"
+      ],
+      "payment": {
+        "salary": "€28k – €74k",
+        "equity": "0.001% – 0.001%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/gergo-nagy-1",
+        "name": "Gergő Nagy",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "204510",
+        "angelListUrl": "https://angel.co/company/transferwise/jobs/204510-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Java Developer - New York",
+      "description": "NYC tip #528 There’s a Brooklyn beyond Williamsburg.\n\nMoney transfer tip #2 There’s a better exchange rate beyond your bank.\n\nCareer tip #6 Join TransferWise to help build money without borders.\n\nSeen any of our top tips on the Subway recently? It’s all part of our campaign to help more US customers save money using TransferWise. So far, we’ve saved over 3 million customers more than $1 billion in bank fees so far. Yet we’re moving less than 1% of the world’s money. There’s still heaps to do and we can’t do it alone.\n\nYour mission:\n\n* Help us help to scale our product to impact millions more customers\n* Take ownership of the entire TransferWise user experience for our U.S. customers, helping to make their international transfers faster, easier and cheaper (this covers: banking; payment processing; verification; compliance & marketing\n* Integrate payment methods and partners, creating a scalable and automated payments engine\n* Understand our customers and the impact our product is making (through data analysis and user research) to drive our team and product roadmap.\n\nThis role will give you the opportunity to:\n\n* Develop your expertise in the fast-growing FinTech market in the US working alongside our CTO and growing engineering team based in the Flatiron district\n* Choose your path to success - you’ll have the freedom to define the vision & the responsibility for making it happen\n* Be flexible in how and where you work, we understand everyone needs a little something different so we’ll do our best to make it happen\n* Travel to work and learn with our dev teams in London, Tallinn, Budapest, Singapore and more\n \nA bit about you:\n\n* You’ll be passionate about product and user experience - customers are at the heart of what you do and that empathy drives your decisions\n* You’ll have solid Java 8 knowledge and hands-on experience\n* You'll have experience with Spring frameworks - Spring Boot preferred \n* You’ll have experience working with SQL databases, query optimisation & designing schemas\n* You’ll have an understanding of test-driven development (TDD) and the desire to write tests\n* You’ll have high coding standards - understanding of test coverage best practices & test pyramid concept\n* You’ll be familiar with Continuous Delivery approach mindset\n\nSome extra skills that would be awesome:\n\n* You’ll have experience with commercial software development and may have built modular scalable systems\n* You might have used DB abstraction layers like Hibernate or messaging services (Apache Kafka, RabbitMQ, JMS etc)\n* You have knowledge of payment platforms, foreign exchange and highly complex systems\n* You have a broad understanding of the concept of minimum viable product (MVP)\n\nFor a sneak - peek into our Engineering world check: \nhttp://tech.transferwise.com/  \n\nSome of your benefits...\n\nThis is a full-time position with our growing North America team and our scaling-up engineering office in New York City. All of our full-time employees are eligible for our great benefits, including:\n\nCompetitive package including salary, stock options, and company matches to a 401k plan\nGenerous vacation policy, including an all-expenses-paid company holiday in Europe and paid sabbatical after a certain period of time in the company  \nTravel to and work with teams in our UK and European offices\nPeace of mind with terrific medical, dental, and vision plans alongside family leave\nMany social events, including team lunches on Friday\nA bit about TransferWise:\n\nSince 2011, we’ve had a clear mission: money without borders. Built by and for people who live global lives, we’re the fairest, easiest way to manage your money across borders.\n\nWe’re just at the beginning of our story and we’re growing at an incredible pace. We won’t stop until anyone, anywhere can send, spend and receive money wherever they are, whatever they’re doing. There’s still heaps to do and we can’t do it alone.\n\nOur People:\n\nAt TransferWise, you’ll be joining a movement of people who believe in a better, fairer, more transparent way of moving money around the world. You’ll collaborate to do your best work and take on problems that no one has looked at before.\n\nIf you’re keen to learn, grow, try new things and aren’t afraid of a bold plan, you’ll fit right in.\n\nHow we work:\n\nAt TransferWise our strategy emerges from the collective brainpower of all our people, who are organised in dozens of independent, autonomous teams. Teams stay closest to our customers, so they choose what problems to solve and where to spend the most time.\n\nYou’ll experience radical levels of ownership and empowerment within your role. Plus the opportunity to see the direct impact of your work on our customers.",
+      "descriptionHtml": "<p>NYC tip #528 There’s a Brooklyn beyond Williamsburg.</p>\n\n<p>Money transfer tip #2 There’s a better exchange rate beyond your bank.</p>\n\n<p>Career tip #6 Join TransferWise to help build money without borders.</p>\n\n<p>Seen any of our top tips on the Subway recently? It’s all part of our campaign to help more US customers save money using TransferWise. So far, we’ve saved over 3 million customers more than $1 billion in bank fees so far. Yet we’re moving less than 1% of the world’s money. There’s still heaps to do and we can’t do it alone.</p>\n\n<p>Your mission:</p>\n\n<ul>\n<li>Help us help to scale our product to impact millions more customers</li>\n<li>Take ownership of the entire TransferWise user experience for our U.S. customers, helping to make their international transfers faster, easier and cheaper (this covers: banking; payment processing; verification; compliance &amp; marketing</li>\n<li>Integrate payment methods and partners, creating a scalable and automated payments engine</li>\n<li>Understand our customers and the impact our product is making (through data analysis and user research) to drive our team and product roadmap.</li>\n</ul>\n\n<p>This role will give you the opportunity to:</p>\n\n<ul>\n<li>Develop your expertise in the fast-growing FinTech market in the US working alongside our CTO and growing engineering team based in the Flatiron district</li>\n<li>Choose your path to success - you’ll have the freedom to define the vision &amp; the responsibility for making it happen</li>\n<li>Be flexible in how and where you work, we understand everyone needs a little something different so we’ll do our best to make it happen</li>\n<li>Travel to work and learn with our dev teams in London, Tallinn, Budapest, Singapore and more</li>\n</ul>\n\n<p>A bit about you:</p>\n\n<ul>\n<li>You’ll be passionate about product and user experience - customers are at the heart of what you do and that empathy drives your decisions</li>\n<li>You’ll have solid Java 8 knowledge and hands-on experience</li>\n<li>You&#39;ll have experience with Spring frameworks - Spring Boot preferred </li>\n<li>You’ll have experience working with SQL databases, query optimisation &amp; designing schemas</li>\n<li>You’ll have an understanding of test-driven development (TDD) and the desire to write tests</li>\n<li>You’ll have high coding standards - understanding of test coverage best practices &amp; test pyramid concept</li>\n<li>You’ll be familiar with Continuous Delivery approach mindset</li>\n</ul>\n\n<p>Some extra skills that would be awesome:</p>\n\n<ul>\n<li>You’ll have experience with commercial software development and may have built modular scalable systems</li>\n<li>You might have used DB abstraction layers like Hibernate or messaging services (Apache Kafka, RabbitMQ, JMS etc)</li>\n<li>You have knowledge of payment platforms, foreign exchange and highly complex systems</li>\n<li>You have a broad understanding of the concept of minimum viable product (MVP)</li>\n</ul>\n\n<p>For a sneak - peek into our Engineering world check: <br>\n<a href=\"http://tech.transferwise.com/\" target=\"_blank\" rel=\"nofollow\">http://tech.transferwise.com/</a>  </p>\n\n<p>Some of your benefits...</p>\n\n<p>This is a full-time position with our growing North America team and our scaling-up engineering office in New York City. All of our full-time employees are eligible for our great benefits, including:</p>\n\n<p>Competitive package including salary, stock options, and company matches to a 401k plan<br>\nGenerous vacation policy, including an all-expenses-paid company holiday in Europe and paid sabbatical after a certain period of time in the company<br><br>\nTravel to and work with teams in our UK and European offices<br>\nPeace of mind with terrific medical, dental, and vision plans alongside family leave<br>\nMany social events, including team lunches on Friday<br>\nA bit about TransferWise:</p>\n\n<p>Since 2011, we’ve had a clear mission: money without borders. Built by and for people who live global lives, we’re the fairest, easiest way to manage your money across borders.</p>\n\n<p>We’re just at the beginning of our story and we’re growing at an incredible pace. We won’t stop until anyone, anywhere can send, spend and receive money wherever they are, whatever they’re doing. There’s still heaps to do and we can’t do it alone.</p>\n\n<p>Our People:</p>\n\n<p>At TransferWise, you’ll be joining a movement of people who believe in a better, fairer, more transparent way of moving money around the world. You’ll collaborate to do your best work and take on problems that no one has looked at before.</p>\n\n<p>If you’re keen to learn, grow, try new things and aren’t afraid of a bold plan, you’ll fit right in.</p>\n\n<p>How we work:</p>\n\n<p>At TransferWise our strategy emerges from the collective brainpower of all our people, who are organised in dozens of independent, autonomous teams. Teams stay closest to our customers, so they choose what problems to solve and where to spend the most time.</p>\n\n<p>You’ll experience radical levels of ownership and empowerment within your role. Plus the opportunity to see the direct impact of your work on our customers.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "New York City"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "MySQL",
+        "Amazon Web Services",
+        "Spring",
+        "Kafka",
+        "Docker",
+        "AWS",
+        "Spring Boot",
+        "Springboot"
+      ],
+      "payment": {
+        "salary": "$120k – $175k",
+        "equity": "0.001% – 0.001%"
+      },
+      "recruiter": {
+        "title": "Tech Recruitment Lead",
+        "role": "Employee",
+        "url": "https://angel.co/u/andrei-muresan-3",
+        "name": "Andrei Muresan",
+        "avatar": "https://photos.angel.co/users/6631040-medium_jpg?1531759462"
+      },
+      "refs": {
+        "angelListId": "492250",
+        "angelListUrl": "https://angel.co/company/transferwise/jobs/492250-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Product Manager - Business Payouts",
+      "description": "We’re looking for a Product Manager to join our Business Payouts team in Tallinn.\n\nTransferWise is rapidly building new products for new kinds of consumers and businesses. TransferWise for Business helps our customers grow by making international business easy. We save them money when they send or receive currency, make getting international banking details the click of a button and offer powerful payout and reporting APIs.\n\nThis is a unique opportunity to build a product that will help businesses all around the world to fully automate all their payments and reporting processes.\n\nYour mission:\nYour mission is to build a great payouts and reporting product for business customers.  This includes set of different features like payments upload via files, executing payouts via API, building scalable reporting solution etc.\nYou will own the vision and goals of the team, how to measure them and how to set the KPIs - you'll make the decisions and define the product strategy with the team.\nYou will work within an independent and autonomous team of product engineers, analysts, operations and compliance specialists to build the systems and team to achieve your vision.\nYou will work with other product teams, understanding their potential and providing insights and data where necessary. As we are a data focused company, it helps to know what makes each of the teams tick to make sure they are focusing on the proper KPIs.\n\nSome extra skills that would be awesome:\nYou are familiar with all kinds of APIs, both building and consuming side. You know what makes one API better than the other.\nYou understand how financial accounting is done for small businesses.\nYou know how domestic and international payment networks actually work behind the scenes.\n\nThis role will give you the opportunity to:\nTravel to work with our teams in London and Budapest or other TransferWise locations.\nBe flexible in how and where you work, we understand everyone needs a little something different so we’ll do our best to make it happen.\n\nA bit about you:\nYou are customer-focused. At TransferWise, customers always come first. You need to be enthusiastic about our customers. We are a company doing great things, but we couldn’t do it without our customers being ready to start a revolution.\nEntrepreneurial. Either you have run your own company or independently delivered high impact projects.\nYou need to have ideas. You’re going to change the world, so we want to see what exceptional ideas you’ve had before.\nSomeone who loves to get things done. You make things happen instead of wondering why things happened. You are not afraid to roll up your sleeves and take responsibility. We do not hire people just to manage other people. We expect you to deliver results directly.\nA head for numbers. You are data-driven. You need to be able to prioritise the value you can add to customers, and numbers are the best way to do this. You can give examples of how you have moved some metrics before.\nTechnical know-how. You may have started out your career as an engineer or maybe it's a secret passion.\nYou need to be able to communicate effectively with our product engineers.\n\nA bit about TransferWise:\nSince 2011, we’ve had a clear mission: money without borders. Built by and for people who live global lives, we’re the fairest, easiest way to manage your money across borders.\n\nWe’re just at the beginning of our story and we’re growing at an incredible pace. We won’t stop until anyone, anywhere can send, spend and receive money wherever they are, whatever they’re doing. There’s still heaps to do and we can’t do it alone.\n\nOur People:\nAt TransferWise, you’ll be joining a movement of people who believe in a better, fairer, more transparent way of moving money around the world. You’ll collaborate to do your best work and take on problems that no one has looked at before.\n\nIf you’re keen to learn, grow, try new things and aren’t afraid of a bold plan, you’ll fit right in.\n\nHow we work:\nAt TransferWise our strategy emerges from the collective brainpower of all our people, who are organised in dozens of independent, autonomous teams. Teams stay closest to our customers, so they choose what problems to solve and where to spend the most time.\n\nYou’ll experience radical levels of ownership and empowerment within your role. Plus the opportunity to see the direct impact of your work on our customers",
+      "descriptionHtml": "<p>We’re looking for a Product Manager to join our Business Payouts team in Tallinn.</p>\n\n<p>TransferWise is rapidly building new products for new kinds of consumers and businesses. TransferWise for Business helps our customers grow by making international business easy. We save them money when they send or receive currency, make getting international banking details the click of a button and offer powerful payout and reporting APIs.</p>\n\n<p>This is a unique opportunity to build a product that will help businesses all around the world to fully automate all their payments and reporting processes.</p>\n\n<p>Your mission:<br>\nYour mission is to build a great payouts and reporting product for business customers.  This includes set of different features like payments upload via files, executing payouts via API, building scalable reporting solution etc.<br>\nYou will own the vision and goals of the team, how to measure them and how to set the KPIs - you&#39;ll make the decisions and define the product strategy with the team.<br>\nYou will work within an independent and autonomous team of product engineers, analysts, operations and compliance specialists to build the systems and team to achieve your vision.<br>\nYou will work with other product teams, understanding their potential and providing insights and data where necessary. As we are a data focused company, it helps to know what makes each of the teams tick to make sure they are focusing on the proper KPIs.</p>\n\n<p>Some extra skills that would be awesome:<br>\nYou are familiar with all kinds of APIs, both building and consuming side. You know what makes one API better than the other.<br>\nYou understand how financial accounting is done for small businesses.<br>\nYou know how domestic and international payment networks actually work behind the scenes.</p>\n\n<p>This role will give you the opportunity to:<br>\nTravel to work with our teams in London and Budapest or other TransferWise locations.<br>\nBe flexible in how and where you work, we understand everyone needs a little something different so we’ll do our best to make it happen.</p>\n\n<p>A bit about you:<br>\nYou are customer-focused. At TransferWise, customers always come first. You need to be enthusiastic about our customers. We are a company doing great things, but we couldn’t do it without our customers being ready to start a revolution.<br>\nEntrepreneurial. Either you have run your own company or independently delivered high impact projects.<br>\nYou need to have ideas. You’re going to change the world, so we want to see what exceptional ideas you’ve had before.<br>\nSomeone who loves to get things done. You make things happen instead of wondering why things happened. You are not afraid to roll up your sleeves and take responsibility. We do not hire people just to manage other people. We expect you to deliver results directly.<br>\nA head for numbers. You are data-driven. You need to be able to prioritise the value you can add to customers, and numbers are the best way to do this. You can give examples of how you have moved some metrics before.<br>\nTechnical know-how. You may have started out your career as an engineer or maybe it&#39;s a secret passion.<br>\nYou need to be able to communicate effectively with our product engineers.</p>\n\n<p>A bit about TransferWise:<br>\nSince 2011, we’ve had a clear mission: money without borders. Built by and for people who live global lives, we’re the fairest, easiest way to manage your money across borders.</p>\n\n<p>We’re just at the beginning of our story and we’re growing at an incredible pace. We won’t stop until anyone, anywhere can send, spend and receive money wherever they are, whatever they’re doing. There’s still heaps to do and we can’t do it alone.</p>\n\n<p>Our People:<br>\nAt TransferWise, you’ll be joining a movement of people who believe in a better, fairer, more transparent way of moving money around the world. You’ll collaborate to do your best work and take on problems that no one has looked at before.</p>\n\n<p>If you’re keen to learn, grow, try new things and aren’t afraid of a bold plan, you’ll fit right in.</p>\n\n<p>How we work:<br>\nAt TransferWise our strategy emerges from the collective brainpower of all our people, who are organised in dozens of independent, autonomous teams. Teams stay closest to our customers, so they choose what problems to solve and where to spend the most time.</p>\n\n<p>You’ll experience radical levels of ownership and empowerment within your role. Plus the opportunity to see the direct impact of your work on our customers</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": true,
+      "locations": [
+        "Tallinn"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Product Management"
+      ],
+      "payment": {
+        "salary": "€30k – €50k",
+        "equity": "0.01% – 0.01%"
+      },
+      "recruiter": {
+        "title": "Marketing Manager - Recruitment",
+        "role": "Employee",
+        "url": "https://angel.co/u/jihan-ahmed",
+        "name": "Jihan Ahmed",
+        "avatar": "https://photos.angel.co/users/7363549-medium_jpg?1587156897"
+      },
+      "refs": {
+        "angelListId": "528998",
+        "angelListUrl": "https://angel.co/company/transferwise/jobs/528998-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Product Marketing Manager – North America",
+      "description": "Are you the best product marketer in New York? We’d love to meet you.\n\nTransferWise was founded in 2011 with a clear mission — money without borders — instant, convenient, fair, and eventually free.  We built a market-leading technology product that’s been used by over 4 million people to move money around the world without the rip-off fees charged by the banks.\n\nWe have a market-leading money transfer product available across North American and Latin American markets. In 2019 we launched a new product in the U.S., the TransferWise debit card, to help customers send money, receive money and spend money in any currency in the world — without the rip-off fees. \n\nNow, we’re looking for a world-class consumer Product Marketing Manager to join our New York office to drive adoption of TransferWise products to customers across the Americas.\n\nIt’s not just being able to deliver on insight, value props, messaging and go-to-market – we’re looking for someone with the magic touch that takes the delivery of our marketing from good, to blow-your-mind brilliant. We want every TransferWise user to feel like we built the product just for them — that we’re not only right up their street, but invited in, sitting down at the kitchen table with a cup of coffee like old friends. \n\nOn the day to day, the North America PMM will be responsible for insight, messaging, multi-channel product comms, and working with the team to build tools and run experiments to constantly improve product adoption and the customer experience. You’ll drive cross-sell conversion, onboarding funnel optimisation, activation and usage KPIs. \n\nYou’ll own the go-to-market strategy for new currency, product and feature launches across the Americas, focussing primarily on the U.S. and Canadian markets. You’ll work closely with our global product marketing team based in London and Singapore to optimise global product adoption and deliver on team OKRs. \n\nYou’ll obsess over product economics, LTV and churn rate, continuously testing lifecycle marketing campaigns to increase share-of-wallet and reactivated customers. And in doing so, you’ll deliver the kind of marketing that makes your friends say, “I love the way TransferWise do stuff”. \n\nYou’ll have the opportunity to travel and spend time in our London office and Headquarters in Tallinn, Estonia. You’ll also have the chance to take part in Summer Days, our annual company offsite in Estonia. You should have the right to work in the U.S. but be willing to travel overseas to take part in company events. \n\nA bit about the PMM Consumer role:\n\nWork daily with the North America product team to drive product adoption\nKnow our North America customer segments, use cases and LTVs inside out\nWork ad hoc with the Latin America product team to run product and feature launches in market\nRun customer insight, market research and competitive analyses\nDevelop value proposition and messaging frameworks for key use cases and test messaging hypotheses \nBuild and test multi-channel (email, push, in-app-messaging) lifecycle comms and A/B test to continuously improve performance \nRun scalable cross-sell tests in-product to drive adoption\nOwn go-to-market for product and feature launches in the Americas\nBe razor sharp on product economics, work with analysts to build launch forecasts and opportunity sizing for projects and campaigns\nInform product roadmap, building conviction through customer insight \nDevelop creative assets, content and campaigns to help customers get the most value out of the product\nWork closely with the performance marketing team to understand CPA for customer segments and keep them closely looped in to product updates\nA bit about you: \n\nExperience in product marketing role in high growth / technology company\nProven success at launching new products or features for consumer tech products\nExperience running customer insights and market research programmes\nExperience running multi-channel tests, with proven results \nStrong bias for data-driven decision making\nStrong eye for design, demonstrated by recent campaigns\nExcellent communication skills, able to craft succinct, on point messaging\nStrong analytics skills, comfortable working with datasets\nSelf-starter with drive to get things done, able to build effective cross-team relationships to move projects forward\nLanguage skills: Spanish / Portuguese a plus\nHard skills: HTML and CSS or SQL a plus\nUniversity degree level education\nGenuine passion and interest in contributing to our mission, we’re not looking for someone just to do the job, but to help us change the way the world moves money\nWhere you’ll be going:\n\nIf successful, you’ll be the PMM for the North America product team, working on one of the biggest growth market opportunities in the company. You’ll be a key part of figuring out how we 10x product adoption in the North America market, and have the chance to launch game-changing products in new markets.  So if you’re an ambitious go-getter who wants to play an active and enthusiastic role in the future of TransferWise, we’d love to hear from you.\n\nIf you’re interested, send us your CV with a covering letter. We love a great covering letter. It’s your opportunity to show us your communication skills, your passion and your understanding of the TransferWise product. \n\n We cannot provide sponsorship for this position.",
+      "descriptionHtml": "<p>Are you the best product marketer in New York? We’d love to meet you.</p>\n\n<p>TransferWise was founded in 2011 with a clear mission — money without borders — instant, convenient, fair, and eventually free.  We built a market-leading technology product that’s been used by over 4 million people to move money around the world without the rip-off fees charged by the banks.</p>\n\n<p>We have a market-leading money transfer product available across North American and Latin American markets. In 2019 we launched a new product in the U.S., the TransferWise debit card, to help customers send money, receive money and spend money in any currency in the world — without the rip-off fees. </p>\n\n<p>Now, we’re looking for a world-class consumer Product Marketing Manager to join our New York office to drive adoption of TransferWise products to customers across the Americas.</p>\n\n<p>It’s not just being able to deliver on insight, value props, messaging and go-to-market – we’re looking for someone with the magic touch that takes the delivery of our marketing from good, to blow-your-mind brilliant. We want every TransferWise user to feel like we built the product just for them — that we’re not only right up their street, but invited in, sitting down at the kitchen table with a cup of coffee like old friends. </p>\n\n<p>On the day to day, the North America PMM will be responsible for insight, messaging, multi-channel product comms, and working with the team to build tools and run experiments to constantly improve product adoption and the customer experience. You’ll drive cross-sell conversion, onboarding funnel optimisation, activation and usage KPIs. </p>\n\n<p>You’ll own the go-to-market strategy for new currency, product and feature launches across the Americas, focussing primarily on the U.S. and Canadian markets. You’ll work closely with our global product marketing team based in London and Singapore to optimise global product adoption and deliver on team OKRs. </p>\n\n<p>You’ll obsess over product economics, LTV and churn rate, continuously testing lifecycle marketing campaigns to increase share-of-wallet and reactivated customers. And in doing so, you’ll deliver the kind of marketing that makes your friends say, “I love the way TransferWise do stuff”. </p>\n\n<p>You’ll have the opportunity to travel and spend time in our London office and Headquarters in Tallinn, Estonia. You’ll also have the chance to take part in Summer Days, our annual company offsite in Estonia. You should have the right to work in the U.S. but be willing to travel overseas to take part in company events. </p>\n\n<p>A bit about the PMM Consumer role:</p>\n\n<p>Work daily with the North America product team to drive product adoption<br>\nKnow our North America customer segments, use cases and LTVs inside out<br>\nWork ad hoc with the Latin America product team to run product and feature launches in market<br>\nRun customer insight, market research and competitive analyses<br>\nDevelop value proposition and messaging frameworks for key use cases and test messaging hypotheses <br>\nBuild and test multi-channel (email, push, in-app-messaging) lifecycle comms and A/B test to continuously improve performance <br>\nRun scalable cross-sell tests in-product to drive adoption<br>\nOwn go-to-market for product and feature launches in the Americas<br>\nBe razor sharp on product economics, work with analysts to build launch forecasts and opportunity sizing for projects and campaigns<br>\nInform product roadmap, building conviction through customer insight <br>\nDevelop creative assets, content and campaigns to help customers get the most value out of the product<br>\nWork closely with the performance marketing team to understand CPA for customer segments and keep them closely looped in to product updates<br>\nA bit about you: </p>\n\n<p>Experience in product marketing role in high growth / technology company<br>\nProven success at launching new products or features for consumer tech products<br>\nExperience running customer insights and market research programmes<br>\nExperience running multi-channel tests, with proven results <br>\nStrong bias for data-driven decision making<br>\nStrong eye for design, demonstrated by recent campaigns<br>\nExcellent communication skills, able to craft succinct, on point messaging<br>\nStrong analytics skills, comfortable working with datasets<br>\nSelf-starter with drive to get things done, able to build effective cross-team relationships to move projects forward<br>\nLanguage skills: Spanish / Portuguese a plus<br>\nHard skills: HTML and CSS or SQL a plus<br>\nUniversity degree level education<br>\nGenuine passion and interest in contributing to our mission, we’re not looking for someone just to do the job, but to help us change the way the world moves money<br>\nWhere you’ll be going:</p>\n\n<p>If successful, you’ll be the PMM for the North America product team, working on one of the biggest growth market opportunities in the company. You’ll be a key part of figuring out how we 10x product adoption in the North America market, and have the chance to launch game-changing products in new markets.  So if you’re an ambitious go-getter who wants to play an active and enthusiastic role in the future of TransferWise, we’d love to hear from you.</p>\n\n<p>If you’re interested, send us your CV with a covering letter. We love a great covering letter. It’s your opportunity to show us your communication skills, your passion and your understanding of the TransferWise product. </p>\n\n<p>We cannot provide sponsorship for this position.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "New York City"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$80k – $120k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/lorenagonzaleztransferwise",
+        "name": "Lorena Gonzalez",
+        "avatar": "https://photos.angel.co/users/9943457-medium_jpg?1567595425"
+      },
+      "refs": {
+        "angelListId": "740092",
+        "angelListUrl": "https://angel.co/company/transferwise/jobs/740092-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "name": "Memrise",
+  "avatar": "https://photos.angel.co/startups/i/19979-744befd35bdee202e3c1807afccb4e2e-medium_jpg.jpg?buster=1564144669",
+  "slogan": "The fastest way on the planet to learn a language",
+  "description": "At Memrise, our mission is to become the world's most entertaining language learning app. We believe that people learn faster, better and remember more when they're having fun. That's why we teach real-world language through a variety of effective entertaining memory techniques. Our super smart tech personalises each learner's experience, giving them just the right level of challenge to keep them motivated and on-track.\n\nSimply put, we're a team of over 70 people who speak about 45 languages in total, all working on a product that makes language learning entertaining and effortless. We're an innovative, cohesive and tight-knit team. We live up to our values, living a playful life, curious about the world and being passionate about transforming the way the world learns languages.\n\nFor more info about our company and learning products, please go to memrise.com",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.memrise.com"
+    },
+    {
+      "type": "blog",
+      "url": "http://blog.memrise.com/"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/memrise"
+    },
+    {
+      "type": "facebook",
+      "url": "http://www.facebook.com/memrise"
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Educational Games",
+    "Language Learning",
+    "Education Technology"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 6218000,
+    "rounds": [
+      {
+        "type": "Series A",
+        "closedAt": 1354838400,
+        "valuation": null
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1329350400,
+        "valuation": null
+      },
+      {
+        "type": null,
+        "closedAt": 1298937600,
+        "valuation": null
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "COO",
+      "role": "Founder",
+      "url": "https://angel.co/p/ben-whately",
+      "name": "Ben Whately ",
+      "avatar": "https://photos.angel.co/users/38134-medium_jpg?1405466402",
+      "bioHtml": "COO and co-founder at <a href=\"https://angel.co/company/memrise\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Memrise</span></a>.  \n\n\n"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/p/ed-cooke1",
+      "name": "Ed Cooke",
+      "avatar": "https://photos.angel.co/users/38011-medium_jpg?1498751883",
+      "bioHtml": "CEO and Co-founder of <a href=\"https://angel.co/company/memrise\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Memrise</span></a>, Memory Grandmaster, author, mental coach. Writings in Guardian, Times, Journal of Consciousness Studies. "
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/sophie-mcgowan",
+      "name": "Sophie McGowan",
+      "avatar": "https://photos.angel.co/users/8676297-medium_jpg?1545040028",
+      "bioHtml": "Senior Talent Acquisition Specialist"
+    },
+    {
+      "title": "Recruiter",
+      "role": "Employee",
+      "url": "https://angel.co/u/claudia-colvin",
+      "name": "Claudia Colvin",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Head of Growth Marketing",
+      "role": "Employee",
+      "url": "https://angel.co/u/daniel-carter-1",
+      "name": "Daniel Carter",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "19979",
+    "angelListUrl": "https://angel.co/company/memrise"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Engineering Manager - Mobile",
+      "description": "At Memrise, we’re working on building the world’s most entertaining and effective language-learning product. We’ve combined cognitive science, powerful tech and entertaining content, to create a truly recreational, and fast, learning system that is used by over 42 million people globally. We’re exceptionally humbled to have been recognised for our hard work and dedication to transforming the way the world learns languages - our app is highly rated and regularly featured on both Google Play and the App store and we’re one of the top go-to developer partners when they launch new features on iOS and Android.\r\n\r\nWe’re now looking for an Engineering Manager to lead the Memrise Mobile Engineering Team in creating the world’s best language learning app. We have a small, very talented team and a serious commitment to pushing the boundaries of what a language learning app can do, and that’s where you come in.\r\n\r\nWe have big plans for development in new areas of the product in 2020. We aren’t sitting still with what we have – we’re developing entirely new concepts that will immerse our users in language and allow them to communicate with each other.\r\n\r\n**In this role you’ll:**\r\n\r\n- Line manage our 10 iOS and Android engineers\r\n- Ensure effective delivery of mobile projects in the mobile engineering teams\r\n- Facilitate the development and execution of mobile technical strategy\r\n- Cultivate a bold, empathetic, and playful product engineering culture\r\n\r\n**We’re looking for someone with:**\r\n\r\n- Solid commercial development experience with either iOS or Android (or both)\r\n- Experience running delivery of a product focused engineering team\r\n- Experience running teams in fast-paced consumer startups\r\n- Ability to effectively line manage a team of 10 people\r\n- Ability to raise the bar for performance of an existing team\r\n- Ability to foster a team culture of continuous improvement through regular, actionable retrospectives\r\n- Ability to design and implement processes where they are needed\r\n- Ability to effectively delegate technical and delivery responsibilities\r\n- Ability to drive key technical projects to completion\r\n- Strong technical and organisational mentoring and coaching skills\r\n\r\n**What’s it like being an engineer at Memrise?**\r\n\r\nMemrise has a diverse, harmonious, humble engineering team. Our engineers are creative generalists who work autonomously in product-oriented cross-functional teams. We're a dynamic team that cares deeply about ownership, impact and people over processes. We run hackathons every quarter; some of our prominent features were originally creative hacks.\r\n\r\nWe have smooth, refined user interfaces to build that our users will adore; a fun, varied game-like core to our experience, which we’re iterating playfully; and the challenges of meeting the needs of millions of users per day from across the world. We’re fans of keeping things as simple as possible and being open minded about new ideas and new technologies.\r\n\r\n\r\nIf you aren’t completely confident that you fit our exact criteria, please get in touch nevertheless. Humility is a wonderful thing and we’re not interested in hiring ‘rockstars’ or ‘ninjas’. And we're just as interested in character as in talent.\r\n\r\n\r\n**NOTE: In light of the coronavirus (COVID-19) and to protect our candidates’ and interviewers’ health and wellbeing, we will be conducting all interviews virtually via Google Hangout for the foreseeable future.**\r\n\r\nBenefits:\r\nShare options, so you can retire on an island\r\nGenerous Learning and Development budget for training, conferences, books and L&amp;D leave\r\nFlexible working options (time-wise, plus we have standing desks)\r\nPrivate health insurance with Vitality, and related perks (50% off a Virgin and Nuffield Health Gym memberships)\r\nDental Insurance with Unum\r\nQuarterly hackathons\r\nBreakfast (the most important meal of the day)\r\nSnacks (the most enjoyable meal of the day)\r\nA startup-suitable array of teas and coffees\r\nBi-weekly team lunch with Feastly\r\nLanguage classes with in-office tutors\r\nPet friendly office and pet-petting colleagues\r\nCycle-to-work scheme\r\nAnd plenty more fun you’re welcome to ignore, including: dodgeball, meditation, football, running club, board games, and boxing classes.\r\n\r\nWe’re an equal opportunity employer. If it’s okay, we’re not going to list examples of people and groups we don’t discriminate against. We don’t discriminate, full stop. We celebrate.",
+      "descriptionHtml": "<p>At Memrise, we’re working on building the world’s most entertaining and effective language-learning product. We’ve combined cognitive science, powerful tech and entertaining content, to create a truly recreational, and fast, learning system that is used by over 42 million people globally. We’re exceptionally humbled to have been recognised for our hard work and dedication to transforming the way the world learns languages - our app is highly rated and regularly featured on both Google Play and the App store and we’re one of the top go-to developer partners when they launch new features on iOS and Android.</p>\n\n<p>We’re now looking for an Engineering Manager to lead the Memrise Mobile Engineering Team in creating the world’s best language learning app. We have a small, very talented team and a serious commitment to pushing the boundaries of what a language learning app can do, and that’s where you come in.</p>\n\n<p>We have big plans for development in new areas of the product in 2020. We aren’t sitting still with what we have – we’re developing entirely new concepts that will immerse our users in language and allow them to communicate with each other.</p>\n\n<p><strong>In this role you’ll:</strong></p>\n\n<ul>\n<li>Line manage our 10 iOS and Android engineers</li>\n<li>Ensure effective delivery of mobile projects in the mobile engineering teams</li>\n<li>Facilitate the development and execution of mobile technical strategy</li>\n<li>Cultivate a bold, empathetic, and playful product engineering culture</li>\n</ul>\n\n<p><strong>We’re looking for someone with:</strong></p>\n\n<ul>\n<li>Solid commercial development experience with either iOS or Android (or both)</li>\n<li>Experience running delivery of a product focused engineering team</li>\n<li>Experience running teams in fast-paced consumer startups</li>\n<li>Ability to effectively line manage a team of 10 people</li>\n<li>Ability to raise the bar for performance of an existing team</li>\n<li>Ability to foster a team culture of continuous improvement through regular, actionable retrospectives</li>\n<li>Ability to design and implement processes where they are needed</li>\n<li>Ability to effectively delegate technical and delivery responsibilities</li>\n<li>Ability to drive key technical projects to completion</li>\n<li>Strong technical and organisational mentoring and coaching skills</li>\n</ul>\n\n<p><strong>What’s it like being an engineer at Memrise?</strong></p>\n\n<p>Memrise has a diverse, harmonious, humble engineering team. Our engineers are creative generalists who work autonomously in product-oriented cross-functional teams. We&#39;re a dynamic team that cares deeply about ownership, impact and people over processes. We run hackathons every quarter; some of our prominent features were originally creative hacks.</p>\n\n<p>We have smooth, refined user interfaces to build that our users will adore; a fun, varied game-like core to our experience, which we’re iterating playfully; and the challenges of meeting the needs of millions of users per day from across the world. We’re fans of keeping things as simple as possible and being open minded about new ideas and new technologies.</p>\n\n<p>If you aren’t completely confident that you fit our exact criteria, please get in touch nevertheless. Humility is a wonderful thing and we’re not interested in hiring ‘rockstars’ or ‘ninjas’. And we&#39;re just as interested in character as in talent.</p>\n\n<p><strong>NOTE: In light of the coronavirus (COVID-19) and to protect our candidates’ and interviewers’ health and wellbeing, we will be conducting all interviews virtually via Google Hangout for the foreseeable future.</strong></p>\n\n<p>Benefits:<br>\nShare options, so you can retire on an island<br>\nGenerous Learning and Development budget for training, conferences, books and L&amp;D leave<br>\nFlexible working options (time-wise, plus we have standing desks)<br>\nPrivate health insurance with Vitality, and related perks (50% off a Virgin and Nuffield Health Gym memberships)<br>\nDental Insurance with Unum<br>\nQuarterly hackathons<br>\nBreakfast (the most important meal of the day)<br>\nSnacks (the most enjoyable meal of the day)<br>\nA startup-suitable array of teas and coffees<br>\nBi-weekly team lunch with Feastly<br>\nLanguage classes with in-office tutors<br>\nPet friendly office and pet-petting colleagues<br>\nCycle-to-work scheme<br>\nAnd plenty more fun you’re welcome to ignore, including: dodgeball, meditation, football, running club, board games, and boxing classes.</p>\n\n<p>We’re an equal opportunity employer. If it’s okay, we’re not going to list examples of people and groups we don’t discriminate against. We don’t discriminate, full stop. We celebrate.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/sophie-mcgowan",
+        "name": "Sophie McGowan",
+        "avatar": "https://photos.angel.co/users/8676297-medium_jpg?1545040028"
+      },
+      "refs": {
+        "angelListId": "759113",
+        "angelListUrl": "https://angel.co/company/memrise/jobs/759113-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer - Frontend",
+      "description": "Memrise is an award-winning language learning system with over 40 million users. Specialising in combining cognitive science, powerful tech and entertaining content, Memrise makes language learning genuinely recreational. We offer 200 language combinations across 24 languages on our website, iOS and Android apps. By leveraging lots of brain science and plenty of humour, we’re striving to enrich people’s consciousness and help people achieve confident, real-world language skills in just a few short months.\n\n \n\nWe have ambitious plans to grow the company and have been working on exciting new developments that will shape how our brand and products will look in the future. And this is where you fit in! We’re looking for a **Frontend Software Engineer** to join the team and **help us create fast and responsive web interfaces that will delight millions of people**. This role gives a unique opportunity to play a significant part in reshaping our web product with a fresher, more exciting design and will allow you to stretch your skills thanks to the interesting technical challenges that will come with this.\n\n \n\nBeing a **part of a small, focused team** , you will be working closely with other engineers, a designer and a product manager towards both **improving the existing experiences and building new ones**.\n\n**Requirements**\n\n**In this Role, you'll:**\n\n- Develop user interfaces of our web products.\n- Work with designers and be involved in the early stages of the design process.\n- Help shape our design system, and improve the quality of our frontend code.\n \n\n**Our Stack:**\n\n- We’re using React for web frontend, with Next.js to serve those page universally.\n- On the backend we’re using Python 3, Django, Kubernetes, Aurora, Redis, ElasticSearch and Kinesis.\n- We practice Continuous Delivery, comprehensive testing, trunk based development, and automate everything.\n- We’re fans of keeping things as simple as possible and being open minded about new ideas and new technologies.\n\n**What’s it like being an engineer at Memrise?**\n\nMemrise engineers are creative generalists that work autonomously in product-oriented cross-functional teams. The engineering team together is small and dynamic, and we care deeply about ownership, impact and people over processes. We run hackathons every quarter; some of our prominent features were originally creative hacks.\n\nWe have smooth, refined user interfaces to build that our users will adore; a fun, varied game-like core to our experience, which we’re iterating playfully; the challenges of meeting the needs of millions of users per day from across the world; and the big data to process and feed into our adaptive learning algorithms.\n\n \n\n**You might be a good fit if you:**\n\n- Have built usable web interfaces that form great product experiences.\n- Have experience with React, or similar modern frontend libraries such as Angular, Vue.js\n- Are comfortable making responsive, accessible and cross-browser code.\n- Have an interest in and passion for design and UX.\n- Thrive in dynamic, collaborative environments, without a lot of process and procedure holding you back. \n\nIf you aren’t completely confident that you fit our exact criteria, please get in touch nevertheless. Humility is a wonderful thing and we’re not interested in hiring ‘rockstars’ or ‘ninjas’. And we're just as interested in character as in talent.\n\nSalary: £45,000 - £65,000\n\nNOTE: In light of the coronavirus (COVID-19) and to protect our candidates’ and interviewers’ health and wellbeing, we will be conducting all interviews virtually via Google Hangout for the foreseeable future.\n\n**Benefits**\n\n- Share options, so you can retire on an island\n- Generous Learning and Development budget for training, conferences, books and L&D leave\n- Flexible working options (time-wise, plus we have standing desks)\n- Private health insurance with Vitality, and related perks (50% off a Virgin and Nuffield Health Gym memberships)\n- Dental Insurance with Unum\n- Quarterly hackathons\n- Breakfast (the most important meal of the day)\n- Snacks (the most enjoyable meal of the day)\n- A startup-suitable array of teas and coffees\n- Bi-weekly team lunch with [Feastly](https://experiences.chefsfeed.com/browse/) \n- Language classes with in-office tutors\n- Pet friendly office and pet-petting colleagues\n- Cycle-to-work scheme\n- And plenty more fun you’re welcome to ignore, including: dodgeball, meditation, football, running club, board games, and boxing classes.\n\nWe’re an equal opportunity employer. If it’s okay, we’re not going to list examples of people and groups we don’t discriminate against. We don’t discriminate, full stop. We celebrate.  \n  \n**What’s it like to work here?**\n\nInteresting. Fun. Challenging. Serious. Odd. Silly. It just depends on the day, really. But whatever day it is, we love what we do: helping people all around the world learn more about languages, new cultures and each other. They use our app to broaden their minds and horizons. And that feels pretty good.\n\nYou’ll join our London team of open-minded, big-hearted, goal-oriented ‘Memrisers’, made up of linguists, developers, designers, marketers and more, all working together to do great things. Get in touch if you want to join the team.\n\nFind out more here: [https://www.youtube.com/watch?v=zRrLOi6hmeA&feature=youtu.be](https://www.youtube.com/watch?v=zRrLOi6hmeA&feature=youtu.be)\n\n",
+      "descriptionHtml": "<p>Memrise is an award-winning language learning system with over 40 million users. Specialising in combining cognitive science, powerful tech and entertaining content, Memrise makes language learning genuinely recreational. We offer 200 language combinations across 24 languages on our website, iOS and Android apps. By leveraging lots of brain science and plenty of humour, we’re striving to enrich people’s consciousness and help people achieve confident, real-world language skills in just a few short months.</p>\n\n<p>We have ambitious plans to grow the company and have been working on exciting new developments that will shape how our brand and products will look in the future. And this is where you fit in! We’re looking for a <strong>Frontend Software Engineer</strong> to join the team and <strong>help us create fast and responsive web interfaces that will delight millions of people</strong>. This role gives a unique opportunity to play a significant part in reshaping our web product with a fresher, more exciting design and will allow you to stretch your skills thanks to the interesting technical challenges that will come with this.</p>\n\n<p>Being a <strong>part of a small, focused team</strong> , you will be working closely with other engineers, a designer and a product manager towards both <strong>improving the existing experiences and building new ones</strong>.</p>\n\n<p><strong>Requirements</strong></p>\n\n<p><strong>In this Role, you&#39;ll:</strong></p>\n\n<ul>\n<li>Develop user interfaces of our web products.</li>\n<li>Work with designers and be involved in the early stages of the design process.</li>\n<li>Help shape our design system, and improve the quality of our frontend code.</li>\n</ul>\n\n<p><strong>Our Stack:</strong></p>\n\n<ul>\n<li>We’re using React for web frontend, with Next.js to serve those page universally.</li>\n<li>On the backend we’re using Python 3, Django, Kubernetes, Aurora, Redis, ElasticSearch and Kinesis.</li>\n<li>We practice Continuous Delivery, comprehensive testing, trunk based development, and automate everything.</li>\n<li>We’re fans of keeping things as simple as possible and being open minded about new ideas and new technologies.</li>\n</ul>\n\n<p><strong>What’s it like being an engineer at Memrise?</strong></p>\n\n<p>Memrise engineers are creative generalists that work autonomously in product-oriented cross-functional teams. The engineering team together is small and dynamic, and we care deeply about ownership, impact and people over processes. We run hackathons every quarter; some of our prominent features were originally creative hacks.</p>\n\n<p>We have smooth, refined user interfaces to build that our users will adore; a fun, varied game-like core to our experience, which we’re iterating playfully; the challenges of meeting the needs of millions of users per day from across the world; and the big data to process and feed into our adaptive learning algorithms.</p>\n\n<p><strong>You might be a good fit if you:</strong></p>\n\n<ul>\n<li>Have built usable web interfaces that form great product experiences.</li>\n<li>Have experience with React, or similar modern frontend libraries such as Angular, Vue.js</li>\n<li>Are comfortable making responsive, accessible and cross-browser code.</li>\n<li>Have an interest in and passion for design and UX.</li>\n<li>Thrive in dynamic, collaborative environments, without a lot of process and procedure holding you back. </li>\n</ul>\n\n<p>If you aren’t completely confident that you fit our exact criteria, please get in touch nevertheless. Humility is a wonderful thing and we’re not interested in hiring ‘rockstars’ or ‘ninjas’. And we&#39;re just as interested in character as in talent.</p>\n\n<p>Salary: £45,000 - £65,000</p>\n\n<p>NOTE: In light of the coronavirus (COVID-19) and to protect our candidates’ and interviewers’ health and wellbeing, we will be conducting all interviews virtually via Google Hangout for the foreseeable future.</p>\n\n<p><strong>Benefits</strong></p>\n\n<ul>\n<li>Share options, so you can retire on an island</li>\n<li>Generous Learning and Development budget for training, conferences, books and L&amp;D leave</li>\n<li>Flexible working options (time-wise, plus we have standing desks)</li>\n<li>Private health insurance with Vitality, and related perks (50% off a Virgin and Nuffield Health Gym memberships)</li>\n<li>Dental Insurance with Unum</li>\n<li>Quarterly hackathons</li>\n<li>Breakfast (the most important meal of the day)</li>\n<li>Snacks (the most enjoyable meal of the day)</li>\n<li>A startup-suitable array of teas and coffees</li>\n<li>Bi-weekly team lunch with <a href=\"https://experiences.chefsfeed.com/browse/\" target=\"_blank\" rel=\"nofollow\">Feastly</a> </li>\n<li>Language classes with in-office tutors</li>\n<li>Pet friendly office and pet-petting colleagues</li>\n<li>Cycle-to-work scheme</li>\n<li>And plenty more fun you’re welcome to ignore, including: dodgeball, meditation, football, running club, board games, and boxing classes.</li>\n</ul>\n\n<p>We’re an equal opportunity employer. If it’s okay, we’re not going to list examples of people and groups we don’t discriminate against. We don’t discriminate, full stop. We celebrate.  </p>\n\n<p><strong>What’s it like to work here?</strong></p>\n\n<p>Interesting. Fun. Challenging. Serious. Odd. Silly. It just depends on the day, really. But whatever day it is, we love what we do: helping people all around the world learn more about languages, new cultures and each other. They use our app to broaden their minds and horizons. And that feels pretty good.</p>\n\n<p>You’ll join our London team of open-minded, big-hearted, goal-oriented ‘Memrisers’, made up of linguists, developers, designers, marketers and more, all working together to do great things. Get in touch if you want to join the team.</p>\n\n<p>Find out more here: <a href=\"https://www.youtube.com/watch?v=zRrLOi6hmeA&feature=youtu.be\" target=\"_blank\" rel=\"nofollow\">https://www.youtube.com/watch?v=zRrLOi6hmeA&amp;feature=youtu.be</a></p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "HTML",
+        "React.js",
+        "ReactJS"
+      ],
+      "payment": {
+        "salary": "£40k – £65k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/sophie-mcgowan",
+        "name": "Sophie McGowan",
+        "avatar": "https://photos.angel.co/users/8676297-medium_jpg?1545040028"
+      },
+      "refs": {
+        "angelListId": "696727",
+        "angelListUrl": "https://angel.co/company/memrise/jobs/696727-"
+      }
+    }
+  ]
+}

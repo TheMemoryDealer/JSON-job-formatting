@@ -1,0 +1,170 @@
+{
+  "name": "AJA.LA STUDIOS",
+  "avatar": "https://photos.angel.co/startups/i/5076159-674b3238a4d26b47aaef7496a555fa63-medium_jpg.jpg?buster=1513805064",
+  "slogan": "Speech and natural language understanding for under-resourced langauges",
+  "description": "We have developed prototype ASR & TTS products for selected languages and are now scaling product and language coverage.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.ajalastudios.com/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Financial Services",
+    "Telecommunications",
+    "Finance Technology"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/abake-adenle",
+      "name": "Abake Adenle",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/aja-la-studios\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">AJA.LA STUDIOS</span></a> • Worked at <a href=\"https://angel.co/company/morgan-stanley\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Morgan Stanley</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5076159",
+    "angelListUrl": "https://angel.co/company/aja-la-studios"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Machine Learning Engineer, Text-to-Speech",
+      "description": "Machine Learning Engineer, Speech Synthesis\n\nLocation: London, UK\nContact: hello@ajalastudios.com\n\nSummary & Opportunity\n\nAJA.LA Studios is a funded early-stage startup developing speech and natural language understanding technologies for under-resourced languages. We are looking to hire an engineer, to be based in London, to participate in developing unit-selection and parametric speech synthesis for a broad library of under-resourced languages. This role provides a unique opportunity to pursue research and commercialization of speech recognition for under-resourced languages.\n\nIdeally, candidates should be comfortable working with large quantities of data, have an interest in and/or demonstrate experience working with under-resourced languages, and an interest in working on the entire R&D/product-development cycle.\n\nSkills & Requirements\n\nThe ideal candidate should possess a combination of the following skills and qualifications\n•\tMasters or PhD in an analytical discipline through which you have acquired a strong knowledge of topics including\no\tTheory and practice of speech synthesis and/or speech processing, e.g. vocoding\no\tSignal Processing/Pattern Recognition\no\tProbability theory\no\tBayesian inference\no\tMachine learning and related topics\n•\tStrong software development skills\no\tRequired: C/C++, Python,shell scripting, Perl, Git\n•\tSpeech processing, Neural Network and Natural Language platforms and libraries\no\tFestival\no\tTheano, PDNN, pyTorch, TensorFlow\n•\tOperating Systems: Unix/Linux/Mac OS\n\n\nSalary\n\nWe offer a competitive salary, pension contribution, private medical insurance, and share options, flexible working hours, amongst other benefits.",
+      "descriptionHtml": "<p>Machine Learning Engineer, Speech Synthesis</p>\n\n<p>Location: London, UK<br>\nContact: <a href=\"mailto:hello@ajalastudios.com\" target=\"_blank\" rel=\"nofollow\">hello@ajalastudios.com</a></p>\n\n<p>Summary &amp; Opportunity</p>\n\n<p>AJA.LA Studios is a funded early-stage startup developing speech and natural language understanding technologies for under-resourced languages. We are looking to hire an engineer, to be based in London, to participate in developing unit-selection and parametric speech synthesis for a broad library of under-resourced languages. This role provides a unique opportunity to pursue research and commercialization of speech recognition for under-resourced languages.</p>\n\n<p>Ideally, candidates should be comfortable working with large quantities of data, have an interest in and/or demonstrate experience working with under-resourced languages, and an interest in working on the entire R&amp;D/product-development cycle.</p>\n\n<p>Skills &amp; Requirements</p>\n\n<p>The ideal candidate should possess a combination of the following skills and qualifications<br>\n• Masters or PhD in an analytical discipline through which you have acquired a strong knowledge of topics including<br>\no   Theory and practice of speech synthesis and/or speech processing, e.g. vocoding<br>\no   Signal Processing/Pattern Recognition<br>\no   Probability theory<br>\no   Bayesian inference<br>\no   Machine learning and related topics<br>\n• Strong software development skills<br>\no   Required: C/C++, Python,shell scripting, Perl, Git<br>\n• Speech processing, Neural Network and Natural Language platforms and libraries<br>\no   Festival<br>\no   Theano, PDNN, pyTorch, TensorFlow<br>\n• Operating Systems: Unix/Linux/Mac OS</p>\n\n<p>Salary</p>\n\n<p>We offer a competitive salary, pension contribution, private medical insurance, and share options, flexible working hours, amongst other benefits.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "United Kingdom",
+        "Greater London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "C++"
+      ],
+      "payment": {
+        "salary": "£50k – £60k",
+        "equity": "0.0% – 3.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/abake-adenle",
+        "name": "Abake Adenle",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "311610",
+        "angelListUrl": "https://angel.co/company/aja-la-studios/jobs/311610-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "System Architect/Developer",
+      "description": "AJA.LA Studios is a funded early-stage startup developing speech and natural language understanding technologies for under-resourced languages. We are looking to hire a system architect fluent in machine learning concepts, to work on the development and enhancement of our suite of speech and natural language understanding solutions. In this role, you will be responsible for the design and maintenance of the system architecture on which we train and deploy large-scale deep learning models, optimizing back-end infrastructure to support training machine learning for voice recognition and speech synthesis (particularly using CUDA), and developing functional and technical specifications for new products and future requirements.\n\nIdeally, candidates should be interested in establishing best-in-class architecture standards for systems that may be deployed in unconventional circumstances, interested in large-scale deep learning models and optimizing their implementation, and working on applications concerning speech and natural language understanding technologies.\n\nSkills & Requirements\n\nThe ideal candidate should possess a combination of the following skills and qualifications\n•\tBS, MSc or PhD in Computer Science, Electrical Engineering or related field\n•\tProgramming: C++, Python, CUDA. Additionally, experience with Java, Objective-C and Cocos2d-x are ideal\n•\tExperience with \no\tAWS and other cloud systems\no\tUnix/Linux/MacOS operating systems\no\tDeveloping and maintaining enterprise-grade systems\no\tDeep-learning frameworks including Theano, TensorFlow, etc.\n•\tModelling: knowledge of machine learning, neural networks, statistics/probability theory, Bayesian inference (core focus, however, is on Programming Skills and AWS experience)\n•\tWorking with external stakeholders to support product deployment, and as a lead to deliver internal projects, working with sub-contractors",
+      "descriptionHtml": "<p>AJA.LA Studios is a funded early-stage startup developing speech and natural language understanding technologies for under-resourced languages. We are looking to hire a system architect fluent in machine learning concepts, to work on the development and enhancement of our suite of speech and natural language understanding solutions. In this role, you will be responsible for the design and maintenance of the system architecture on which we train and deploy large-scale deep learning models, optimizing back-end infrastructure to support training machine learning for voice recognition and speech synthesis (particularly using CUDA), and developing functional and technical specifications for new products and future requirements.</p>\n\n<p>Ideally, candidates should be interested in establishing best-in-class architecture standards for systems that may be deployed in unconventional circumstances, interested in large-scale deep learning models and optimizing their implementation, and working on applications concerning speech and natural language understanding technologies.</p>\n\n<p>Skills &amp; Requirements</p>\n\n<p>The ideal candidate should possess a combination of the following skills and qualifications<br>\n• BS, MSc or PhD in Computer Science, Electrical Engineering or related field<br>\n• Programming: C++, Python, CUDA. Additionally, experience with Java, Objective-C and Cocos2d-x are ideal<br>\n• Experience with <br>\no   AWS and other cloud systems<br>\no   Unix/Linux/MacOS operating systems<br>\no   Developing and maintaining enterprise-grade systems<br>\no   Deep-learning frameworks including Theano, TensorFlow, etc.<br>\n• Modelling: knowledge of machine learning, neural networks, statistics/probability theory, Bayesian inference (core focus, however, is on Programming Skills and AWS experience)<br>\n• Working with external stakeholders to support product deployment, and as a lead to deliver internal projects, working with sub-contractors</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "United Kingdom",
+        "Greater London",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "C++",
+        "Unix",
+        "AWS/EC2/ELB/S3/DynamoDB",
+        "AWS"
+      ],
+      "payment": {
+        "salary": "£50k – £60k",
+        "equity": "0.0% – 3.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/abake-adenle",
+        "name": "Abake Adenle",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "345764",
+        "angelListUrl": "https://angel.co/company/aja-la-studios/jobs/345764-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer, Machine Learning",
+      "description": "AJA.LA develops speech solutions for low-resourced languages. Our is to support speech solutions for a broad range of languages, and to develop products that leverage these solutions to deliver services tailored to our target market.\n\nWe are looking to hire a Software Engineer to work with machine learning engineers to productionize and optimize models for deployment. The individual in this role is expected to have strong programming skills in a commercial or high-level academic context. Prior experience optimizing C/C++ implementations of machine learning algorithms for production, and have a strong understanding of related concepts including multi-threading.\n\nResponsibilities\n- Adapt machine learning models for optimized performance in production environment with a focus on scalability and latency\n- Collaborate with machine learning engineers to facilitate development activities to productionize ongoing machine learning research\n\nMinimum Qualitifcations\n- 2+ years of software engineering work experience in either a commercial or academic (PhD, Postdoc, etc), context\n- 2+ years of experience developing and debugging code in Python and C/C++\n\nPreferred Qualifications\n- Experience building production machine learning models\n- Experience with Python machine learning frameworks, e.g. TensorFlow, PyTorch, Theano, etc.\n- Experience with GPU development (CUDA)",
+      "descriptionHtml": "<p>AJA.LA develops speech solutions for low-resourced languages. Our is to support speech solutions for a broad range of languages, and to develop products that leverage these solutions to deliver services tailored to our target market.</p>\n\n<p>We are looking to hire a Software Engineer to work with machine learning engineers to productionize and optimize models for deployment. The individual in this role is expected to have strong programming skills in a commercial or high-level academic context. Prior experience optimizing C/C++ implementations of machine learning algorithms for production, and have a strong understanding of related concepts including multi-threading.</p>\n\n<p>Responsibilities</p>\n\n<ul>\n<li>Adapt machine learning models for optimized performance in production environment with a focus on scalability and latency</li>\n<li>Collaborate with machine learning engineers to facilitate development activities to productionize ongoing machine learning research</li>\n</ul>\n\n<p>Minimum Qualitifcations</p>\n\n<ul>\n<li>2+ years of software engineering work experience in either a commercial or academic (PhD, Postdoc, etc), context</li>\n<li>2+ years of experience developing and debugging code in Python and C/C++</li>\n</ul>\n\n<p>Preferred Qualifications</p>\n\n<ul>\n<li>Experience building production machine learning models</li>\n<li>Experience with Python machine learning frameworks, e.g. TensorFlow, PyTorch, Theano, etc.</li>\n<li>Experience with GPU development (CUDA)</li>\n</ul>\n",
+      "position": "contract",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "United Kingdom"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "C++",
+        "C"
+      ],
+      "payment": {
+        "salary": "£70k – £80k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/abake-adenle",
+        "name": "Abake Adenle",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "577998",
+        "angelListUrl": "https://angel.co/company/aja-la-studios/jobs/577998-"
+      }
+    }
+  ]
+}

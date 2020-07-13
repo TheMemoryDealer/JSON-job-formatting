@@ -1,0 +1,170 @@
+{
+  "name": "Mosaic Smart Data",
+  "avatar": "https://photos.angel.co/startups/i/5726847-6f46f70554e44691ed3883aab6356330-medium_jpg.jpg?buster=1589300875",
+  "slogan": "A data analytics company with the ambitious aim of allowing a sell-side institution",
+  "description": "Mosaic Smart Data Limited (Mosaic) is a data analytics company servicing the financial services industry. Since it's foundation in 2014, has been developing its MSX® platform into an award winning data analytics solution for financial services markets. Mosaic’s MSX® platform harnesses the abundance of trading data available to financial services firms and translates it into real-time data analytics, enabling users to better understand the behaviour of their customers and thereby increase market share and maximise profitability. \n\nMosaic’s technology uses machine learning, natural language generation, and natural language processing to provide historical, real-time and predictive analytics.\n\nMosaic’s customers include global investment banks. Mosaic’s partnerships include the European Space Agency, where Mosaic is working to apply their machine learning models in financial markets.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://mosaicsmartdata.com/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/mosaicsmartdata"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://in.linkedin.com/company/mosaic-smart-data"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Financial Services",
+    "Machine Learning",
+    "Big Data",
+    "Artificial Intelligence",
+    "Startups",
+    "Data Visualization",
+    "Big Data Analytics",
+    "Fin Tech",
+    "Financial Technology",
+    "Artificial Intelligence / Machine Learning",
+    "Real Time"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 9000000,
+    "rounds": [
+      {
+        "type": null,
+        "closedAt": 1556496000,
+        "valuation": null
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/bradley-finch-2",
+      "name": "Bradley Finch",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/rebecca-cornwell-3",
+      "name": "Rebecca Cornwell",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Client Services Graduate",
+      "role": "Employee",
+      "url": "https://angel.co/u/adelaide-hargreaves-1",
+      "name": "Adelaide Hargreaves",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Client Services Graduate at Mosaic Smart Data"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5726847",
+    "angelListUrl": "https://angel.co/company/mosaic-smart-data"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Core Engineer",
+      "description": " **THE ROLE**\n\nWe’re looking for an experienced engineer to join our highly skilled team and build the back-end of our award-winning MSX® data analytics platform. The role will provide the opportunity to work directly with our customers – traders, salespeople and technologists at leading investment banks. The ideal candidate is a hands-on engineer who cares passionately about the quality of their work and the satisfaction of the end user. We are looking for someone who can work well within a team, is able to articulate problems, and can use their own initiative to identify and implement solutions.\n\nThis role is part of a broader recruitment effort to scale the organization to meet market opportunity. This role offers a unique opportunity to join a successful start-up and to share in our future growth as we embark on the next step of our incredible, industry-enabling journey.\n\n**KEY RESPONSIBILITIES **\n\n- Own features from design to deployment\n- Work with technology and data science teams to understand application requirements\n- Write tests, API and deployment documentation\n\n**SKILLS AND EXPERIENCE**\n\nREQUIRED\n\n- 3+ years of hands-on development experience\n- In depth knowledge of the Java programming language (Collections, multi-threading, JDBC etc.)\n- Strong fundamentals of SQL, basic data structures and algorithms\n- Comprehension of application architecture\n- Experience with Kafka and other distributed systems is a PLUS\n\nDESIRABLE\n\n- Experience working with big data sets (preferably financial data) and real-time analytics software\n- Experience with some of these tools/technologies:\n  - Python, Bash scripting, Apache Spark, Scala\n- Dev-Ops: Ansible, Docker, VirtualBox, Jenkins, Chef, Puppet, ELK Stack etc\n- Experience with cloud-based infrastructures, preferably with AWS  \n",
+      "descriptionHtml": "<p><strong>THE ROLE</strong></p>\n\n<p>We’re looking for an experienced engineer to join our highly skilled team and build the back-end of our award-winning MSX® data analytics platform. The role will provide the opportunity to work directly with our customers – traders, salespeople and technologists at leading investment banks. The ideal candidate is a hands-on engineer who cares passionately about the quality of their work and the satisfaction of the end user. We are looking for someone who can work well within a team, is able to articulate problems, and can use their own initiative to identify and implement solutions.</p>\n\n<p>This role is part of a broader recruitment effort to scale the organization to meet market opportunity. This role offers a unique opportunity to join a successful start-up and to share in our future growth as we embark on the next step of our incredible, industry-enabling journey.</p>\n\n<p>*<em>KEY RESPONSIBILITIES *</em></p>\n\n<ul>\n<li>Own features from design to deployment</li>\n<li>Work with technology and data science teams to understand application requirements</li>\n<li>Write tests, API and deployment documentation</li>\n</ul>\n\n<p><strong>SKILLS AND EXPERIENCE</strong></p>\n\n<p>REQUIRED</p>\n\n<ul>\n<li>3+ years of hands-on development experience</li>\n<li>In depth knowledge of the Java programming language (Collections, multi-threading, JDBC etc.)</li>\n<li>Strong fundamentals of SQL, basic data structures and algorithms</li>\n<li>Comprehension of application architecture</li>\n<li>Experience with Kafka and other distributed systems is a PLUS</li>\n</ul>\n\n<p>DESIRABLE</p>\n\n<ul>\n<li>Experience working with big data sets (preferably financial data) and real-time analytics software</li>\n<li>Experience with some of these tools/technologies:\n\n<ul>\n<li>Python, Bash scripting, Apache Spark, Scala</li>\n</ul></li>\n<li>Dev-Ops: Ansible, Docker, VirtualBox, Jenkins, Chef, Puppet, ELK Stack etc</li>\n<li>Experience with cloud-based infrastructures, preferably with AWS<br></li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Big Data",
+        "Software Architecture",
+        "DevOps",
+        "Jenkins",
+        "JDBC",
+        "Big Data Infrastructure",
+        "KDB+",
+        "VirtualBox",
+        "HDFS",
+        "Docker",
+        "Bash Scripting",
+        "Ansible",
+        "Data Structures and algorithms",
+        "Apache Kafka",
+        "kdb/q"
+      ],
+      "payment": {
+        "salary": "£60k – £80k",
+        "equity": "0.0% – 0.1%"
+      },
+      "recruiter": {
+        "title": "Client Services Graduate",
+        "role": "Employee",
+        "url": "https://angel.co/u/adelaide-hargreaves-1",
+        "name": "Adelaide Hargreaves",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "365690",
+        "angelListUrl": "https://angel.co/company/mosaic-smart-data/jobs/365690-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Core Python Engineer",
+      "description": " **THE ROLE**\n\nWe’re looking for an experienced engineer to join our highly skilled team and build the back-end of our award-winning MSX® data analytics platform. The ideal candidate is a hands-on engineer who cares passionately about the quality of their work and the satisfaction of the end user. We are looking for someone who can work well within a team, is able to articulate problems, and can use their own initiative to identify and implement solutions. The successful candidate will work closely with our data science team to develop cutting edge technology.\n\nThis role is part of a broader recruitment effort to scale the organisation to meet market opportunity. This role offers a unique opportunity to join a successful start-up and to share in our future growth as we embark on the next step of our incredible, industry-enabling journey.\n\n**KEY RESPONSIBILITIES **\n\n- Work with technology and data science teams to drive complex application requirements from conceptualisation to production\n- Write tests, API and deployment and production support documentation\n- Define and implement the process for software build and deployment\n\n**SKILLS & EXPERIENCE **\n\nREQUIRED \n\n- 3+ years of hands on Python development experience\n- Knowledge of Python numerical libraries including NumPy and Pandas\n- Strong fundamentals of SQL, Bash scripting, basic data structures and algorithms\n- Comprehension of application architecture\n- A passion for TDD\n- Active team member willing to help and mentor colleagues\n\nDESIRABLE\n\n- Experience working with Kafka and other distributed systems\n- Experience working with big data sets and real-time analytics software\n- Java programming experience\n- Dev-Ops: Ansible, Docker, VirtualBox, Jenkins, Chef, Puppet, ELK Stack etc\n- Experience with cloud-based infrastructures, preferably with AWS\n\n \n\n",
+      "descriptionHtml": "<p><strong>THE ROLE</strong></p>\n\n<p>We’re looking for an experienced engineer to join our highly skilled team and build the back-end of our award-winning MSX® data analytics platform. The ideal candidate is a hands-on engineer who cares passionately about the quality of their work and the satisfaction of the end user. We are looking for someone who can work well within a team, is able to articulate problems, and can use their own initiative to identify and implement solutions. The successful candidate will work closely with our data science team to develop cutting edge technology.</p>\n\n<p>This role is part of a broader recruitment effort to scale the organisation to meet market opportunity. This role offers a unique opportunity to join a successful start-up and to share in our future growth as we embark on the next step of our incredible, industry-enabling journey.</p>\n\n<p>*<em>KEY RESPONSIBILITIES *</em></p>\n\n<ul>\n<li>Work with technology and data science teams to drive complex application requirements from conceptualisation to production</li>\n<li>Write tests, API and deployment and production support documentation</li>\n<li>Define and implement the process for software build and deployment</li>\n</ul>\n\n<p>*<em>SKILLS &amp; EXPERIENCE *</em></p>\n\n<p>REQUIRED </p>\n\n<ul>\n<li>3+ years of hands on Python development experience</li>\n<li>Knowledge of Python numerical libraries including NumPy and Pandas</li>\n<li>Strong fundamentals of SQL, Bash scripting, basic data structures and algorithms</li>\n<li>Comprehension of application architecture</li>\n<li>A passion for TDD</li>\n<li>Active team member willing to help and mentor colleagues</li>\n</ul>\n\n<p>DESIRABLE</p>\n\n<ul>\n<li>Experience working with Kafka and other distributed systems</li>\n<li>Experience working with big data sets and real-time analytics software</li>\n<li>Java programming experience</li>\n<li>Dev-Ops: Ansible, Docker, VirtualBox, Jenkins, Chef, Puppet, ELK Stack etc</li>\n<li>Experience with cloud-based infrastructures, preferably with AWS</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Client Services Graduate",
+        "role": "Employee",
+        "url": "https://angel.co/u/adelaide-hargreaves-1",
+        "name": "Adelaide Hargreaves",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "681062",
+        "angelListUrl": "https://angel.co/company/mosaic-smart-data/jobs/681062-"
+      }
+    }
+  ]
+}

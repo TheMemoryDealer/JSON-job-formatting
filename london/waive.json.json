@@ -1,0 +1,109 @@
+{
+  "name": "Waive",
+  "avatar": "https://photos.angel.co/startups/i/4946394-2032ae0aad7a27e5c7407b80e879eb5e-medium_jpg.jpg?buster=1511104408",
+  "slogan": "Consumer Intelligence Platform using AI to connect businesses with their future customer",
+  "description": "Waive is a Consumer Intelligence Platform. We identify and track current trends, forecast their changes and predict emerging ones with the primary goal of providing actionable recommendations to engage new and existing audiences. By listening and monitoring what read, search, share, like and talk about, we bring accurate and intelligent insights that empower brands to create great content that is relevant and timely. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.letswaive.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@letswaive"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Content Marketing",
+    "Consumer Goods",
+    "Machine Learning",
+    "Natural Language Processing",
+    "New Product Development",
+    "Big Data Analytics"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/yaseed",
+      "name": "Yaseed Chaumoo",
+      "avatar": "https://photos.angel.co/users/1668526-medium_jpg?1511105533",
+      "bioHtml": "Founder and CEO of <a href=\"https://angel.co/company/waive\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Waive</span></a> • Digital leader fusing creativity with data and product. Worked at <a href=\"https://angel.co/company/lloyds-banking-group\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Lloyds Banking Group</span></a>, <a href=\"https://angel.co/company/telegraph-media-group\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Telegraph Media Group</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/magda-piatkowska",
+      "name": "Magda Piatkowska",
+      "avatar": "https://photos.angel.co/users/10451546-medium_jpg?1578396276",
+      "bioHtml": "Data scientist &amp; MBA level business leader, public speaker, diversity advocate, strategist, technologist and innovator."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4946394",
+    "angelListUrl": "https://angel.co/company/waive"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Senior Data Engineer (ML for Waive Platform)",
+      "description": "**Job Description - what is this job about?\n\nThis is a key role for Waive. It is a partnership with the Chief Science and Technology Officer with the remit to technically execute the vision for the:\nDelivery against immediate requirements of the clients\nDelivery against long term growth and scale of the platform\n\nThis involves the following:\n\nSetting up data pipelines (including social media APIs, NLP engine, deployment of predictive models) to enable scalable, repeatable, and secure data platform;\nBeing responsible for the infrastructure to ensure large scale and batch/real-time processing that leverage emerging technologies;\nDeploying and driving development of highly performing machine learning algorithms;\nWorking with Chief Science and Technology Officer to create an honest, transparent and open minded team that is fun to work with (for the team and for the clients);\n\n**Requirements - what do you need to be amazing at this job?\n\nTo be great at this job you will have experience in the following:\n\nCoding, testing, and documenting new, large scale data and ML driven systems to create robust and scalable applications; \nAbility to architect highly scalable distributed systems, using different open source tools\nBuilding strategies for growth and roll out of the platform (from one to millions of users);\nBeing successful (or not, but knowing what went wrong) in executing those strategies;\n\nOn top of this, following characteristics will make the job right for you:\n\nBachelor's in computer science, computer engineering, or equivalent work experience as software engineer, data engineer, machine learning engineer or data scientist;\nUnderstanding how algorithms work and have experience building and deploying high-performance algorithmic systems;\nReally good and practical knowledge in different programming or scripting languages;\nHave knowledge of data modeling and understanding of different data structures and their benefits and limitations under particular use cases;\nAmbition to grow towards machine learning engineering and applied data science;\nHigh awareness and care about the product as well as the people who build it and use it;\n\n**Learnings and benefits - what are you getting out of this job?\n\nBuilding something that has direct impact on how businesses operate and connect to their customers;\nBeing at the forefront of new, interesting data science and machine learning developments with a chance to publish and speak proudly about your work;\nWorking alongside industry recognised individuals;\nJoy of open, honest, intellectually stimulating and flexible culture;\n\n**Waive in short\n\nWaive is a Consumer Intelligence Platform that uses AI to connect businesses with their future consumer, putting them front and centre of every decision.\n\n**So what is Waive?\n\nBrands today are struggling to remain relevant, failing to engage and retain audiences. We as consumers are always changing and adapting our preferences which are proving hard for organisations to understand. 90% of all digital activity a company publishes online simply fails. \n\nYou can help companies make better, more relevant products.\n\nWaive combines media expertise, engineering excellence and science to address this problem. It gives content creators an innovative way to accurately understand future generations, from Millennials to Gen Z. We believe that data processed in an intelligent way, without invading user’s privacy can inform new products and services, your favorite shows, articles and interesting and engaging marketing campaigns.\n\nCome and join us! It is fun to have an impact!\n\n**How do we do it?\n\nWaive’s platform is powered by multiple sources of data, including social APIs providing posts, content and associated metadata, as well as search and news RSS feeds for context. Natural Language Engine is processing text and turns it into meaningful features fed into prediction engine. Our algorithms are designed to understand viral effects and associations between users and concepts. The output feeds into sleek Waive app presenting predictions of current needs, trends and behaviours of consumers over the weeks and months ahead. \n\nWe are based in Google Cloud Platform and key technologies we use are BigQuery, CloudSQL, Kubernetes and most of the code base is in Python.",
+      "descriptionHtml": "<p>**Job Description - what is this job about?</p>\n\n<p>This is a key role for Waive. It is a partnership with the Chief Science and Technology Officer with the remit to technically execute the vision for the:<br>\nDelivery against immediate requirements of the clients<br>\nDelivery against long term growth and scale of the platform</p>\n\n<p>This involves the following:</p>\n\n<p>Setting up data pipelines (including social media APIs, NLP engine, deployment of predictive models) to enable scalable, repeatable, and secure data platform;<br>\nBeing responsible for the infrastructure to ensure large scale and batch/real-time processing that leverage emerging technologies;<br>\nDeploying and driving development of highly performing machine learning algorithms;<br>\nWorking with Chief Science and Technology Officer to create an honest, transparent and open minded team that is fun to work with (for the team and for the clients);</p>\n\n<p>**Requirements - what do you need to be amazing at this job?</p>\n\n<p>To be great at this job you will have experience in the following:</p>\n\n<p>Coding, testing, and documenting new, large scale data and ML driven systems to create robust and scalable applications; <br>\nAbility to architect highly scalable distributed systems, using different open source tools<br>\nBuilding strategies for growth and roll out of the platform (from one to millions of users);<br>\nBeing successful (or not, but knowing what went wrong) in executing those strategies;</p>\n\n<p>On top of this, following characteristics will make the job right for you:</p>\n\n<p>Bachelor&#39;s in computer science, computer engineering, or equivalent work experience as software engineer, data engineer, machine learning engineer or data scientist;<br>\nUnderstanding how algorithms work and have experience building and deploying high-performance algorithmic systems;<br>\nReally good and practical knowledge in different programming or scripting languages;<br>\nHave knowledge of data modeling and understanding of different data structures and their benefits and limitations under particular use cases;<br>\nAmbition to grow towards machine learning engineering and applied data science;<br>\nHigh awareness and care about the product as well as the people who build it and use it;</p>\n\n<p>**Learnings and benefits - what are you getting out of this job?</p>\n\n<p>Building something that has direct impact on how businesses operate and connect to their customers;<br>\nBeing at the forefront of new, interesting data science and machine learning developments with a chance to publish and speak proudly about your work;<br>\nWorking alongside industry recognised individuals;<br>\nJoy of open, honest, intellectually stimulating and flexible culture;</p>\n\n<p>**Waive in short</p>\n\n<p>Waive is a Consumer Intelligence Platform that uses AI to connect businesses with their future consumer, putting them front and centre of every decision.</p>\n\n<p>**So what is Waive?</p>\n\n<p>Brands today are struggling to remain relevant, failing to engage and retain audiences. We as consumers are always changing and adapting our preferences which are proving hard for organisations to understand. 90% of all digital activity a company publishes online simply fails. </p>\n\n<p>You can help companies make better, more relevant products.</p>\n\n<p>Waive combines media expertise, engineering excellence and science to address this problem. It gives content creators an innovative way to accurately understand future generations, from Millennials to Gen Z. We believe that data processed in an intelligent way, without invading user’s privacy can inform new products and services, your favorite shows, articles and interesting and engaging marketing campaigns.</p>\n\n<p>Come and join us! It is fun to have an impact!</p>\n\n<p>**How do we do it?</p>\n\n<p>Waive’s platform is powered by multiple sources of data, including social APIs providing posts, content and associated metadata, as well as search and news RSS feeds for context. Natural Language Engine is processing text and turns it into meaningful features fed into prediction engine. Our algorithms are designed to understand viral effects and associations between users and concepts. The output feeds into sleek Waive app presenting predictions of current needs, trends and behaviours of consumers over the weeks and months ahead. </p>\n\n<p>We are based in Google Cloud Platform and key technologies we use are BigQuery, CloudSQL, Kubernetes and most of the code base is in Python.</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "SQL",
+        "Twitter API",
+        "GCP"
+      ],
+      "payment": {
+        "salary": "£30k – £45k",
+        "equity": "0.0% – 5.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/magda-piatkowska",
+        "name": "Magda Piatkowska",
+        "avatar": "https://photos.angel.co/users/10451546-medium_jpg?1578396276"
+      },
+      "refs": {
+        "angelListId": "691984",
+        "angelListUrl": "https://angel.co/company/waive/jobs/691984-"
+      }
+    }
+  ]
+}

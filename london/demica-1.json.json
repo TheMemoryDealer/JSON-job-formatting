@@ -1,0 +1,133 @@
+{
+  "name": "Demica",
+  "avatar": "https://photos.angel.co/startups/i/6651190-22cadf4035f5b3f81992e46b9322f7e0-medium_jpg.jpg?buster=1544029809",
+  "slogan": "World leader FinTech on working capital finance solutions",
+  "description": "Demica is a world leading FinTech in the Working Capital Solutions space, offering innovative Supply Chain and Trade Receivables Finance platforms on a SaaS model. We support over $90 billion of funding, and help companies access cash in an agile model reducing capital cycles from months into days. By integrating banks, corporates and their suppliers with our cutting edge platforms, we can liberate capital trapped in rigid old processes. Demica is also pioneering the use of technologies such as ML and AI for fraud detection, pattern discovery, optimisation, among others.\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.demica.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/demica/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Fin Tech"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/nana-arkhurst",
+      "name": "Nana Arkhurst",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/didier-varon-3",
+      "name": "Didier Varon",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6651190",
+    "angelListUrl": "https://angel.co/company/demica-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Software Engineer",
+      "description": "At least 5 years of experience as Software Developer, working mainly in Java technologies with knowledge of relational database concept and SQL beyond simple queries. Working on a full software development life cycle environment under Agile methodologies, capable to take lead on software design and implementation best practices (Unit Testing, Test Driven Development, Continuous Integration, Source Control policies, among others), be open to do full stack development (database development, Java development, front end (web)). \n\nDegree in Computer Science/ software engineering or equivalent discipline\n\nHard Skills: Java, Spring boot, Hibernate (or other ORM frameworks), SQL, REST API, Camel, Mockito – Junit (or other testing framework), Test Driven Development, Git, Tomcat, Maven\n\nSoft Skills: Able to work closely with BA – Product Owners to refine user stories and requirements, Identify, prioritize and execute tasks in the software development life cycle, mentor junior developers, work independently and proactively (looking for details and answers, not just waiting patiently for a reply), comfortable raising challenges and proposing software improvements.",
+      "descriptionHtml": "<p>At least 5 years of experience as Software Developer, working mainly in Java technologies with knowledge of relational database concept and SQL beyond simple queries. Working on a full software development life cycle environment under Agile methodologies, capable to take lead on software design and implementation best practices (Unit Testing, Test Driven Development, Continuous Integration, Source Control policies, among others), be open to do full stack development (database development, Java development, front end (web)). </p>\n\n<p>Degree in Computer Science/ software engineering or equivalent discipline</p>\n\n<p>Hard Skills: Java, Spring boot, Hibernate (or other ORM frameworks), SQL, REST API, Camel, Mockito – Junit (or other testing framework), Test Driven Development, Git, Tomcat, Maven</p>\n\n<p>Soft Skills: Able to work closely with BA – Product Owners to refine user stories and requirements, Identify, prioritize and execute tasks in the software development life cycle, mentor junior developers, work independently and proactively (looking for details and answers, not just waiting patiently for a reply), comfortable raising challenges and proposing software improvements.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "SQL",
+        "Git",
+        "Spring",
+        "Test Driven Development",
+        "Spring Boot"
+      ],
+      "payment": {
+        "salary": "£75k – £80k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/didier-varon-3",
+        "name": "Didier Varon",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "469619",
+        "angelListUrl": "https://angel.co/company/demica-1/jobs/469619-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Lead Developer, Supply Chain Finance",
+      "description": "Job Title: Lead Developer, Supply Chain Finance \nLocation: London, EC4M 9BE\nSalary Range: £75,000 to £80,000 per annum, plus benefits \nPositing date: 21st October 2019 \nClosing date: 18th October 2019 \n \nCompany Information \nDemica is a rapidly growing Fintech providing working capital solutions to large corporates and banks. We accelerate growth by unlocking cash trapped in working capital using our receivables, payables, and inventory finance solutions. Our technology platform connects hundreds of multinationals to banks and institutional investors. With a broad range of structures, simple implementation processes and unique risk management features, our solutions enable our clients to access billions of dollars of cost-effective funding. Over the past three years we have materially expanded our origination, structuring, implementation and placement teams to enable us to compete globally. \n \nJob Description \n\nAs a senior developer, your role will involve leading a high performing development team distributed both in-house and offshore. The team is responsible for the full stack of the platform; from Angular in the presentation layer, through to spring boot applications in the framework, and lastly data logic in the database (Sybase).\n\nThe Team Lead will primarily work closely with the VP of Engineering and the CTO, to define solutions while serving change requests triggered from Demica’s clients. The successful applicant will also lead development projects predominantly specialising in Java, MQ, REST APIs and SQL based technologies.\n\nYou will work directly with Project Managers, Product Owners, Business Analysts, and Developers. Being able to write or understand a variety of code such as Java /MQ/Angular and SQL is essential to the role and knowledge of continuous deployment is also necessary.\n\nYou and your team will specialise in developing our Supply Chain Finance (SCF) platform. Whilst giving a wide range of challenges across different projects, you will also have an opportunity to influence the future direction of our SCF system at Demica.\n\n\nPrimary responsibilities: \n\n•\tManaging the delivery of complex SCF projects from design through to final project\n•\tUnderstanding technical design, implementation and deployment of development projects\n•\tLeading your project in writing MQ/SQL and Java code with the ability to remove bugs and defects\n•\tConducting in depth code reviews, giving effective feedback to your team\n•\tIntegration of internal system development projects\n•\tTranslate User Stories into working software and have expertise on microservice architectural design\n•\tProvide in depth progress updates to the senior management and technology team, including any delivery risks or issues\n•\tInvestigate new technologies and continually update technical knowledge and skills\n•\tTechnical design, implementation, deployment and support of the platform \n•\tCreating technical specifications and test plans \n•\tWorking with the Technical Architect and QA Lead on estimates, statuses identifying issues and raising risks \n•\tEnsuring product quality through unit testing, system testing and continuous integration \n•\tInvestigating new technologies and continually updating technical knowledge and skills \n•\tProviding guidance around best practices \n•\tMentoring junior developers and supporting the Tech Lead when required\n•\tProgramming jobs in Talend, Camel, as well as configuring queues in ActiveMQ\n\nEducation and Qualifications: \n\nBachelor’s or Master’s Degree in Computer Science / Software Engineering or an equivalent discipline.\n\nEssential Requirements \n\n•\tDemonstrable experience as a full stack Developer with leadership capabilities\n•\tExplicit experience in Java, MQ, Spring Boot, Docker, Kubernetes and Angular technologies with knowledge of relational database concept and SQL beyond simple queries\n•\tCompetent in working under continuous deployment projects in a structured environment\n•\tAble to define delivery phases of the project including sub-activities and milestones, documented for progress upgrade reports to senior project\n•\tExperience in microservice architecture and software design\n•\tAble to lead a team well, giving instruction where necessary\n•\tMentor and coach junior developers\n•\tManaged globally distributed teams\n•\tWork independently and proactively (looking for details and answers, not just waiting patiently for a reply)\n•\tComfortable raising challenges and proposing software improvements \n•\tMaterial, proven and demonstrable experience of enterprise systems development using Java 8  \n•\tHigh degree of demonstrable competence (not less than 2 years) in;\n-\tprogramming queues in Talend\n-\tconfiguring and programming highly scalable web services\n-\tbuilding highly scalable front-end solution on Angular, Bootstrap and CSS\n-\tconfiguring and administering Tomcat containers\n-\tdesigning and implementing REST APIs\n-\timplementing solutions for a micro-service environment\n•\tSubject Matter Expert in Sybase T-SQL database programming; writing complex Stored Procedures that are capable to interact with WebServices and ActiqueMQ \n•\tDemonstrable competence in working under Scrum and Kanban methodologies while providing services to projects run in Waterfall\n•\tDemonstrable competence in Camel and ActiveMQ \n•\tDemonstrable competence in decommissioning legacy code and migrating business logic developed in T-SQL into Java 8\n•\tDemonstrable competence in working under a Continuous Integration / Continuous Deploy environment helping to configure jobs in Jenkins and Deployment in Octopus\n•\tDemonstrable competence in setting Kubernetes Nodes under Docker containers\n•\tSubject Matter Expert in writing complex applications in Spring Boot, that runs under a Container and as stand-alone Java application; providing subsequent support and training for users\n•\tSubject Matter Expert in setting and administering IIS http servers to connect to Tomcat Containers under Azure\n•\tSubject Matter Expert in programming highly scalable Java Applications that handles large data sets in CSV, TXT, XML, XLXS, and ISO 20022, connecting to MQ, sftp, web services and http\n•\tDemonstrable competence in setting and fixing System Event Processor jobs in Sybase\n•\tExpertise in Software Architecture and distributed solutions\n•\tExperiences in RFP process and software auditing\n\n\nTechnical Knowledge: \n•\tJava (8+) \n•\tSybase T-SQL\n•\tSybase System Event Processor\n•\tSpring framework \n•\tMVC design pattern \n•\tAngular \n•\tHibernate\n•\tMicroservices Architecture pattern \n•\tREST services \n•\tTesting Frameworks (JUnit) \n•\tGit \n•\tWorked on medium to large application development projects \n•\tFinancial application development experience \n•\tContinuous Integration (Jenkins, Hudson, GoCI) \n•\tWeb application security (OWASP) \n•\tAgile Principles, Scrum and Kaban are essentials\n•\tTalend\n•\tFile processing through multiple channels\n\nPersonal Attributes: \n•\tA strong team leader capable of delivering excellent results under pressure and to strict deadlines \n•\tAbility to communicate effectively with clients and colleagues\n•\tA second language is desirable, but not a prerequisite \n•\tEntrepreneurial\n•\tMotivator\n•\tCritical thinker\n•\tCollaborative\n•\tProactive\n•\tTeam player",
+      "descriptionHtml": "<p>Job Title: Lead Developer, Supply Chain Finance <br>\nLocation: London, EC4M 9BE<br>\nSalary Range: £75,000 to £80,000 per annum, plus benefits <br>\nPositing date: 21st October 2019 <br>\nClosing date: 18th October 2019 </p>\n\n<p>Company Information <br>\nDemica is a rapidly growing Fintech providing working capital solutions to large corporates and banks. We accelerate growth by unlocking cash trapped in working capital using our receivables, payables, and inventory finance solutions. Our technology platform connects hundreds of multinationals to banks and institutional investors. With a broad range of structures, simple implementation processes and unique risk management features, our solutions enable our clients to access billions of dollars of cost-effective funding. Over the past three years we have materially expanded our origination, structuring, implementation and placement teams to enable us to compete globally. </p>\n\n<p>Job Description </p>\n\n<p>As a senior developer, your role will involve leading a high performing development team distributed both in-house and offshore. The team is responsible for the full stack of the platform; from Angular in the presentation layer, through to spring boot applications in the framework, and lastly data logic in the database (Sybase).</p>\n\n<p>The Team Lead will primarily work closely with the VP of Engineering and the CTO, to define solutions while serving change requests triggered from Demica’s clients. The successful applicant will also lead development projects predominantly specialising in Java, MQ, REST APIs and SQL based technologies.</p>\n\n<p>You will work directly with Project Managers, Product Owners, Business Analysts, and Developers. Being able to write or understand a variety of code such as Java /MQ/Angular and SQL is essential to the role and knowledge of continuous deployment is also necessary.</p>\n\n<p>You and your team will specialise in developing our Supply Chain Finance (SCF) platform. Whilst giving a wide range of challenges across different projects, you will also have an opportunity to influence the future direction of our SCF system at Demica.</p>\n\n<p>Primary responsibilities: </p>\n\n<p>• Managing the delivery of complex SCF projects from design through to final project<br>\n• Understanding technical design, implementation and deployment of development projects<br>\n• Leading your project in writing MQ/SQL and Java code with the ability to remove bugs and defects<br>\n• Conducting in depth code reviews, giving effective feedback to your team<br>\n• Integration of internal system development projects<br>\n• Translate User Stories into working software and have expertise on microservice architectural design<br>\n• Provide in depth progress updates to the senior management and technology team, including any delivery risks or issues<br>\n• Investigate new technologies and continually update technical knowledge and skills<br>\n• Technical design, implementation, deployment and support of the platform <br>\n• Creating technical specifications and test plans <br>\n• Working with the Technical Architect and QA Lead on estimates, statuses identifying issues and raising risks <br>\n• Ensuring product quality through unit testing, system testing and continuous integration <br>\n• Investigating new technologies and continually updating technical knowledge and skills <br>\n• Providing guidance around best practices <br>\n• Mentoring junior developers and supporting the Tech Lead when required<br>\n• Programming jobs in Talend, Camel, as well as configuring queues in ActiveMQ</p>\n\n<p>Education and Qualifications: </p>\n\n<p>Bachelor’s or Master’s Degree in Computer Science / Software Engineering or an equivalent discipline.</p>\n\n<p>Essential Requirements </p>\n\n<p>• Demonstrable experience as a full stack Developer with leadership capabilities<br>\n• Explicit experience in Java, MQ, Spring Boot, Docker, Kubernetes and Angular technologies with knowledge of relational database concept and SQL beyond simple queries<br>\n• Competent in working under continuous deployment projects in a structured environment<br>\n• Able to define delivery phases of the project including sub-activities and milestones, documented for progress upgrade reports to senior project<br>\n• Experience in microservice architecture and software design<br>\n• Able to lead a team well, giving instruction where necessary<br>\n• Mentor and coach junior developers<br>\n• Managed globally distributed teams<br>\n• Work independently and proactively (looking for details and answers, not just waiting patiently for a reply)<br>\n• Comfortable raising challenges and proposing software improvements <br>\n• Material, proven and demonstrable experience of enterprise systems development using Java 8<br><br>\n• High degree of demonstrable competence (not less than 2 years) in;</p>\n\n<ul>\n<li>  programming queues in Talend</li>\n<li>  configuring and programming highly scalable web services</li>\n<li>  building highly scalable front-end solution on Angular, Bootstrap and CSS</li>\n<li>  configuring and administering Tomcat containers</li>\n<li>  designing and implementing REST APIs</li>\n<li>  implementing solutions for a micro-service environment\n• Subject Matter Expert in Sybase T-SQL database programming; writing complex Stored Procedures that are capable to interact with WebServices and ActiqueMQ \n• Demonstrable competence in working under Scrum and Kanban methodologies while providing services to projects run in Waterfall\n• Demonstrable competence in Camel and ActiveMQ \n• Demonstrable competence in decommissioning legacy code and migrating business logic developed in T-SQL into Java 8\n• Demonstrable competence in working under a Continuous Integration / Continuous Deploy environment helping to configure jobs in Jenkins and Deployment in Octopus\n• Demonstrable competence in setting Kubernetes Nodes under Docker containers\n• Subject Matter Expert in writing complex applications in Spring Boot, that runs under a Container and as stand-alone Java application; providing subsequent support and training for users\n• Subject Matter Expert in setting and administering IIS http servers to connect to Tomcat Containers under Azure\n• Subject Matter Expert in programming highly scalable Java Applications that handles large data sets in CSV, TXT, XML, XLXS, and ISO 20022, connecting to MQ, sftp, web services and http\n• Demonstrable competence in setting and fixing System Event Processor jobs in Sybase\n• Expertise in Software Architecture and distributed solutions\n• Experiences in RFP process and software auditing</li>\n</ul>\n\n<p>Technical Knowledge: <br>\n• Java (8+) <br>\n• Sybase T-SQL<br>\n• Sybase System Event Processor<br>\n• Spring framework <br>\n• MVC design pattern <br>\n• Angular <br>\n• Hibernate<br>\n• Microservices Architecture pattern <br>\n• REST services <br>\n• Testing Frameworks (JUnit) <br>\n• Git <br>\n• Worked on medium to large application development projects <br>\n• Financial application development experience <br>\n• Continuous Integration (Jenkins, Hudson, GoCI) <br>\n• Web application security (OWASP) <br>\n• Agile Principles, Scrum and Kaban are essentials<br>\n• Talend<br>\n• File processing through multiple channels</p>\n\n<p>Personal Attributes: <br>\n• A strong team leader capable of delivering excellent results under pressure and to strict deadlines <br>\n• Ability to communicate effectively with clients and colleagues<br>\n• A second language is desirable, but not a prerequisite <br>\n• Entrepreneurial<br>\n• Motivator<br>\n• Critical thinker<br>\n• Collaborative<br>\n• Proactive<br>\n• Team player</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/nana-arkhurst",
+        "name": "Nana Arkhurst",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "647983",
+        "angelListUrl": "https://angel.co/company/demica-1/jobs/647983-"
+      }
+    }
+  ]
+}

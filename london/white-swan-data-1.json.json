@@ -1,0 +1,101 @@
+{
+  "name": "White Swan Data",
+  "avatar": "https://photos.angel.co/startups/i/7341579-4183ad0df98ea5ba0d1c8448077e52ed-medium_jpg.jpg?buster=1574942884",
+  "slogan": "A sports betting analytics company",
+  "description": "We help our clients design cutting edge betting algorithms.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.whiteswandata.com/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Gambling",
+    "Sports",
+    "Algorithms",
+    "Trading"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/victor-gendre-1",
+      "name": "Victor Gendre",
+      "avatar": "https://photos.angel.co/users/10311476-medium_jpg?1574949572",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7341579",
+    "angelListUrl": "https://angel.co/company/white-swan-data-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Python developer",
+      "description": "At White Swan Data we do sports betting analysis. Our clients are leading gamblers and operators who rely on us to design and improve their betting strategies and products. Working with us, you will be at the heart of an exciting maths, analytics and logistics driven environment, working closely with other developers, quantitative analysts and sports fans!\n\nWe are a meritocratic workplace. Here, you will get the opportunity to witness instantly the impact of your work and steer projects in new and uncharted territories. We welcome and reward creativity, initiative and a get-things-done mentality.\n\nWe are a small team of around 25 and currently have more data scientists than software developers. But we are growing our development team to take exciting projects to the next level of performance and robustness. \n\n\nResponsibilities\n•\tYou will first be working with our horse racing team. The team works on very successful strategies and needs a great programmer to expand faster and bring best coding practices. \n•\tYou will be responsible for designing and implementing new data storage architectures of the team. In an industry where data quality and analysis make the difference between success and failure, you will thus be a major driver of the team performance.\n•\tYou will be part of every new project launch, working closely with quantitative analysts to build the highest performing betting strategies for our clients. \n\nMust have\n•\t3+ years programming experience in object-oriented programming. \n•\t2+ years commercial experience\n•\tExperience with Python or a strong willingness and ability to become very strong at it. \n•\tDemonstrable SQL and RDBMS design skills.\n•\tSome VCS, preferably git.\n•\tStrong communication and collaboration skills.\n•\tExperience working with a Linux environment.\n\nNice to have\n•\tPython 3.5+, pandas, numpy, trio, requests, beautiful soup, asyncio etc.\n•\tStatistical modelling and data analytics exposure.\n•\tExperience setting up ETL processes.\n•\tCI/CD, DevOps.\n•\tExperience in the financial, betting or gaming industries.\n•\tKnowledge of APIs interaction with order book management and prices (personal exchange projects is a major advantage).",
+      "descriptionHtml": "<p>At White Swan Data we do sports betting analysis. Our clients are leading gamblers and operators who rely on us to design and improve their betting strategies and products. Working with us, you will be at the heart of an exciting maths, analytics and logistics driven environment, working closely with other developers, quantitative analysts and sports fans!</p>\n\n<p>We are a meritocratic workplace. Here, you will get the opportunity to witness instantly the impact of your work and steer projects in new and uncharted territories. We welcome and reward creativity, initiative and a get-things-done mentality.</p>\n\n<p>We are a small team of around 25 and currently have more data scientists than software developers. But we are growing our development team to take exciting projects to the next level of performance and robustness. </p>\n\n<p>Responsibilities<br>\n• You will first be working with our horse racing team. The team works on very successful strategies and needs a great programmer to expand faster and bring best coding practices. <br>\n• You will be responsible for designing and implementing new data storage architectures of the team. In an industry where data quality and analysis make the difference between success and failure, you will thus be a major driver of the team performance.<br>\n• You will be part of every new project launch, working closely with quantitative analysts to build the highest performing betting strategies for our clients. </p>\n\n<p>Must have<br>\n• 3+ years programming experience in object-oriented programming. <br>\n• 2+ years commercial experience<br>\n• Experience with Python or a strong willingness and ability to become very strong at it. <br>\n• Demonstrable SQL and RDBMS design skills.<br>\n• Some VCS, preferably git.<br>\n• Strong communication and collaboration skills.<br>\n• Experience working with a Linux environment.</p>\n\n<p>Nice to have<br>\n• Python 3.5+, pandas, numpy, trio, requests, beautiful soup, asyncio etc.<br>\n• Statistical modelling and data analytics exposure.<br>\n• Experience setting up ETL processes.<br>\n• CI/CD, DevOps.<br>\n• Experience in the financial, betting or gaming industries.<br>\n• Knowledge of APIs interaction with order book management and prices (personal exchange projects is a major advantage).</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "SQL",
+        "Git",
+        "PostgreSQL",
+        "Linux",
+        "API",
+        "ETL",
+        "Object Oriented Programming"
+      ],
+      "payment": {
+        "salary": "£45k – £60k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/victor-gendre-1",
+        "name": "Victor Gendre",
+        "avatar": "https://photos.angel.co/users/10311476-medium_jpg?1574949572"
+      },
+      "refs": {
+        "angelListId": "672822",
+        "angelListUrl": "https://angel.co/company/white-swan-data-1/jobs/672822-"
+      }
+    }
+  ]
+}

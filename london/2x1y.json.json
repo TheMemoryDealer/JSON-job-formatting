@@ -1,0 +1,99 @@
+{
+  "name": "2x1y",
+  "avatar": "https://photos.angel.co/startups/i/6978744-3b5396508f46edebdc3dd1e472df39df-medium_jpg.jpg?buster=1559306723",
+  "slogan": "An intelligent, learning healthcare system that rewards users for making healthier choices",
+  "description": "It's comprehensive app-based healthcare, with user lifestyle tracking, nudging, health scores, redeemable health points, virtual clinics and pay-as-you-live cover for private hospital care. It is a direct competitor to insurers but is not insurance, so it will not be regulated by the FCA, will be sold direct online rather than through intermediaries and will be exempt from the insurance premium tax, which is currently 12%.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://2x1y.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Health Care Information Technology",
+    "Personal Health",
+    "Insurtech",
+    "Artificial Intelligence / Machine Learning"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/nigel-kellow",
+      "name": "Nigel Kellow",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6978744",
+    "angelListUrl": "https://angel.co/company/2x1y"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "Co-founders with domain expertise in AI, Big Data and Mobile development",
+      "description": "We are looking for 2 to 3 co-founders. We have developed the model but we need people to help us make it happen. You will come in as co-founders. \r\n\r\nWe are particularly looking for people with experience in machine learning/deep learning with a masters degree or PhD from a top university. \r\n\r\nWe also want someone with experience in Big Data analytics whose responsibility will be to ensure the back end is secure and rapidly scalable. \r\n\r\nWe also want someone who has a strong track record in mobile application development.",
+      "descriptionHtml": "<p>We are looking for 2 to 3 co-founders. We have developed the model but we need people to help us make it happen. You will come in as co-founders. </p>\n\n<p>We are particularly looking for people with experience in machine learning/deep learning with a masters degree or PhD from a top university. </p>\n\n<p>We also want someone with experience in Big Data analytics whose responsibility will be to ensure the back end is secure and rapidly scalable. </p>\n\n<p>We also want someone who has a strong track record in mobile application development.</p>\n",
+      "position": "cofounder",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Machine Learning",
+        "Mobile Application Design",
+        "Mobile Development",
+        "Artificial Intelligence"
+      ],
+      "payment": {
+        "salary": "£50k – £100k",
+        "equity": "1.0% – 7.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/nigel-kellow",
+        "name": "Nigel Kellow",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "565488",
+        "angelListUrl": "https://angel.co/company/2x1y/jobs/565488-"
+      },
+      "postedAt": 1589658565488
+    }
+  ]
+}

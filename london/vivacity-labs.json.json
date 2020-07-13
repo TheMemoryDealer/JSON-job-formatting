@@ -1,0 +1,162 @@
+{
+  "name": "Vivacity Labs",
+  "avatar": "https://photos.angel.co/startups/i/1048937-929896673a7f1820866074dd85ddcf31-medium_jpg.jpg?buster=1487351017",
+  "slogan": "Smart Local Data for Smart Cities and Intelligent Transport",
+  "description": "We are implementing transport-focused smart cities, using cameras with on-board machine learning in order to quantify movement of pedestrians, vehicles and cyclists, and then building advanced predictive AI systems around this data.\n\nOur main customers are local governments, infrastructure owners and transport providers. Real-time data from a network of video feeds enable them to react to demand, improve safety and improve the utilisation of their assets; and prediction gives them the foresight to pre-empt problems in their network, rather than simply reacting.\n\nOur systems use the latest machine learning and computer vision techniques, run on bespoke, low-cost, easy-to-install hardware. All the edge intelligence is in the software, enabling remote updating and reducing hardware obsolescence and cost.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.vivacitylabs.com/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/vivacitylabs"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Machine Learning",
+    "Transportation",
+    "Computer Vision",
+    "Smart Cities"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Co-Founder and Chief Operating Officer",
+      "role": "Founder",
+      "url": "https://angel.co/u/peter-mildon-1",
+      "name": "Peter Mildon",
+      "avatar": "https://photos.angel.co/users/5811472-medium_jpg?1487667231",
+      "bioHtml": "Co-founded Vivacity Labs. Previously at Frazer Nash. Experienced Mechanical Engineering + Business Process Manager. Distinction from Cambridge University."
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/mdenicholson",
+      "name": "Mark Nicholson",
+      "avatar": "https://photos.angel.co/users/991987-medium_jpg?1445955733",
+      "bioHtml": "CEO of Vivacity. Tech-savvy commercial leader with experience in strategy consultancy (OC&amp;C) &amp; solar car racing. Cambridge 2012"
+    },
+    {
+      "title": "Product Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/soraiya-sal",
+      "name": "Soraiya Salemohamed",
+      "avatar": "https://photos.angel.co/users/702583-medium_jpg?1516021635",
+      "bioHtml": "Product Manager with experience in using data driven techniques and design thinking to create user centric products."
+    },
+    {
+      "title": "CUSTOMER SUCCESS & PROJECT MANAGER",
+      "role": "Employee",
+      "url": "https://angel.co/u/sarah-chaillot-gmail-com",
+      "name": "Sarah Chaillot",
+      "avatar": "https://photos.angel.co/users/7064561-medium_jpg?1561825588",
+      "bioHtml": "Delivery Project Manager \nCustomer Success Manager"
+    },
+    {
+      "title": "Software Team Lead",
+      "role": "Employee",
+      "url": "https://angel.co/u/craig-valladares",
+      "name": "Craig Valladares",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Software engineer and team lead at Vivacity Labs"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "1048937",
+    "angelListUrl": "https://angel.co/company/vivacity-labs"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Machine Learning Researcher",
+      "description": "COVID-19 Update: \r\nWe are still hiring despite the current pandemic. Our primary clients are governments, who are still purchasing sensors, extending networks, and using our data as a critical part of their fight against COVID-19. As such, please continue to apply &amp; be part of a life-saving team!\r\n\r\nABOUT US: \r\nAt Vivacity, our goal is to make cities smarter. Our work reduces congestion by making traffic lights more intelligent, improves safety by spotting dangerous manoeuvres on the road, and supports autonomous vehicles &amp; city management alike through real-time data.\r\n\r\nTo do this, we create cutting-edge products using machine learning, including sensors with on-board video analytics capabilities, and city-wide control and optimisation algorithms. We are currently rolling out thousands of sensors across the UK, and are seeking a passionate machine learning researcher to join our Smart Junctions team.\r\n\r\nThis is an exciting opportunity to take part in shaping the future of an energetic company dedicated to revolutionising the way our cities work while supporting the personal growth of every team member. On joining you can expect a warm welcome from a friendly team, with plenty of fun activities &amp; a range of benefits. \r\n\r\n\r\nTHE ROLE\r\nAs a machine learning researcher in the Smart Junctions team, you will be part of a group that’s developing new technologies to optimise traffic control in cities. We are revolutionising the way that traffic is managed by leveraging our existing expertise in applied machine-learning and by giving more power to network operators.\r\n\r\nThe Smart Junctions team is cross-disciplinary and includes software developers, systems and hardware engineers, machine-learning researchers and project management. As a member of the team, you’ll have an excellent opportunity to learn, grow and shape the direction of our current and future products. \r\n\r\nYour day to day tasks will include:\r\n- Design, implementation and evaluation of novel reinforcement learning algorithms and deep neural network architectures\r\n- Analysis of road traffic sensor data, simulation outputs, and experimental results, and presentation of these analyses\r\n- Collaborating with the broader team to lead research outputs into the real world\r\n- Contributing to the development of our RL experiment platform\r\n- Learning new libraries, tools, and processes\r\n- An agile workflow of daily standups with fortnightly grooming, planning, and retrospective meetings\r\n\r\nABOUT YOU\r\n- PhD in a relevant field, or other evidence of research proficiency\r\n- Strong understanding of reinforcement learning techniques and processes, and evidence of applying these\r\n- Competent programming skills for prototyping\r\n- Strong communication and teamwork skills\r\n- Genuine passion for AI and driving cutting-edge research to real-world control systems\r\n- Enjoy working as part of a fast-moving, collaborative team\r\n\r\nWhile not necessary, the following experience would substantially strengthen any application:\r\n- Experience relevant to traffic signal control or road traffic simulation\r\n- Experience with timeseries data processing and analysis\r\n- Experience with multi-agent systems\r\n\r\nVivacity welcomes applications from all candidates and embraces diversity within our teams. If you are in any doubt as to whether you would be a good fit, please get in touch, or apply anyway and we will get back to you. We look forward to hearing from you!",
+      "descriptionHtml": "<p>COVID-19 Update: <br>\nWe are still hiring despite the current pandemic. Our primary clients are governments, who are still purchasing sensors, extending networks, and using our data as a critical part of their fight against COVID-19. As such, please continue to apply &amp; be part of a life-saving team!</p>\n\n<p>ABOUT US: <br>\nAt Vivacity, our goal is to make cities smarter. Our work reduces congestion by making traffic lights more intelligent, improves safety by spotting dangerous manoeuvres on the road, and supports autonomous vehicles &amp; city management alike through real-time data.</p>\n\n<p>To do this, we create cutting-edge products using machine learning, including sensors with on-board video analytics capabilities, and city-wide control and optimisation algorithms. We are currently rolling out thousands of sensors across the UK, and are seeking a passionate machine learning researcher to join our Smart Junctions team.</p>\n\n<p>This is an exciting opportunity to take part in shaping the future of an energetic company dedicated to revolutionising the way our cities work while supporting the personal growth of every team member. On joining you can expect a warm welcome from a friendly team, with plenty of fun activities &amp; a range of benefits. </p>\n\n<p>THE ROLE<br>\nAs a machine learning researcher in the Smart Junctions team, you will be part of a group that’s developing new technologies to optimise traffic control in cities. We are revolutionising the way that traffic is managed by leveraging our existing expertise in applied machine-learning and by giving more power to network operators.</p>\n\n<p>The Smart Junctions team is cross-disciplinary and includes software developers, systems and hardware engineers, machine-learning researchers and project management. As a member of the team, you’ll have an excellent opportunity to learn, grow and shape the direction of our current and future products. </p>\n\n<p>Your day to day tasks will include:</p>\n\n<ul>\n<li>Design, implementation and evaluation of novel reinforcement learning algorithms and deep neural network architectures</li>\n<li>Analysis of road traffic sensor data, simulation outputs, and experimental results, and presentation of these analyses</li>\n<li>Collaborating with the broader team to lead research outputs into the real world</li>\n<li>Contributing to the development of our RL experiment platform</li>\n<li>Learning new libraries, tools, and processes</li>\n<li>An agile workflow of daily standups with fortnightly grooming, planning, and retrospective meetings</li>\n</ul>\n\n<p>ABOUT YOU</p>\n\n<ul>\n<li>PhD in a relevant field, or other evidence of research proficiency</li>\n<li>Strong understanding of reinforcement learning techniques and processes, and evidence of applying these</li>\n<li>Competent programming skills for prototyping</li>\n<li>Strong communication and teamwork skills</li>\n<li>Genuine passion for AI and driving cutting-edge research to real-world control systems</li>\n<li>Enjoy working as part of a fast-moving, collaborative team</li>\n</ul>\n\n<p>While not necessary, the following experience would substantially strengthen any application:</p>\n\n<ul>\n<li>Experience relevant to traffic signal control or road traffic simulation</li>\n<li>Experience with timeseries data processing and analysis</li>\n<li>Experience with multi-agent systems</li>\n</ul>\n\n<p>Vivacity welcomes applications from all candidates and embraces diversity within our teams. If you are in any doubt as to whether you would be a good fit, please get in touch, or apply anyway and we will get back to you. We look forward to hearing from you!</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Reinforcement Learning"
+      ],
+      "payment": {
+        "salary": "£40k – £55k",
+        "equity": "0.0% – 0.3%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/yang-lu-8",
+        "name": "Yang Lu",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "664275",
+        "angelListUrl": "https://angel.co/company/vivacity-labs/jobs/664275-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Traffic Microsimulation & Data Science Researcher",
+      "description": "COVID-19 Update: \r\nWe are still hiring despite the current pandemic. Our primary clients are governments, who are still purchasing sensors, extending networks, and using our data as a critical part of their fight against COVID-19. As such, please continue to apply &amp; be part of a life-saving team!\r\n\r\nABOUT US: \r\nAt Vivacity, our goal is to make cities smarter. Our work reduces congestion by making traffic lights more intelligent, improves safety by spotting dangerous manoeuvres on the road, and supports autonomous vehicles &amp; city management alike through real-time data.\r\n\r\nTo do this, we create cutting-edge products using machine learning, including sensors with on-board video analytics capabilities, and city-wide control and optimisation algorithms. We are currently rolling out thousands of sensors across the UK, and are seeking a passionate microsimulation researcher to join our Smart Junctions team.\r\n\r\nThis is an exciting opportunity to take part in shaping the future of an energetic company dedicated to revolutionising the way our cities work while supporting the personal growth of every team member. On joining you can expect a warm welcome from a friendly team, with plenty of fun activities &amp; a range of benefits. \r\n\r\n\r\nTHE ROLE\r\n\r\nAs a traffic microsimulation researcher in the Smart Junctions team, you will be part of a group that's developing new technologies to optimise traffic light control in cities. We are revolutionising the way that traffic is managed by leveraging our existing expertise in applied machine-learning and by giving more power to network operators.\r\nThe Smart Junctions team is cross-disciplinary and includes software developers, systems and hardware engineers, machine-learning researchers and project management. As a member of the team, you'll have an excellent opportunity to learn, grow and shape the direction of our current and future products.\r\n\r\nYour day to day tasks will include:\r\n- Calibration and validation of microsimulation models (SUMO) using data from our vision-based sensors\r\n- Working closely with machine learning researchers, contributing to our software stack, and upskilling where necessary to drive value from simulation for traffic light control research\r\n- Timeseries data analysis and presentation of findings\r\n- Collaborating with the broader team to deploy research outputs into the real world\r\n- An agile workflow of daily standups with fortnightly grooming, planning, and retrospective meetings\r\n\r\nABOUT YOU\r\n\r\n- Strong understanding of traffic simulation calibration and evidence of applying this. Experience with other relevant types of simulation would also be considered.\r\n- Willingness to upskill machine learning and software engineering competencies (python and C++) if needed\r\n- Strong communication and teamwork skills\r\n- Genuine interest in AI and driving cutting-edge research to real-world control systems\r\n- Enjoy working as part of a fast-moving, collaborative team\r\n\r\nWhile not necessary, the following experience would substantially strengthen any application:\r\n- Experience calibrating SUMO simulation models or developing SUMO source code\r\n- Experience with machine learning\r\n- Experience relevant to traffic signal control\r\n- PhD or evidence of independent investigatory work\r\n- Software engineering experience with C++\r\n\r\n\r\nVivacity welcomes applications from all candidates and embraces diversity within our teams. If you are in any doubt as to whether you would be a good fit, please get in touch, or apply anyway and we will get back to you. We look forward to hearing from you!",
+      "descriptionHtml": "<p>COVID-19 Update: <br>\nWe are still hiring despite the current pandemic. Our primary clients are governments, who are still purchasing sensors, extending networks, and using our data as a critical part of their fight against COVID-19. As such, please continue to apply &amp; be part of a life-saving team!</p>\n\n<p>ABOUT US: <br>\nAt Vivacity, our goal is to make cities smarter. Our work reduces congestion by making traffic lights more intelligent, improves safety by spotting dangerous manoeuvres on the road, and supports autonomous vehicles &amp; city management alike through real-time data.</p>\n\n<p>To do this, we create cutting-edge products using machine learning, including sensors with on-board video analytics capabilities, and city-wide control and optimisation algorithms. We are currently rolling out thousands of sensors across the UK, and are seeking a passionate microsimulation researcher to join our Smart Junctions team.</p>\n\n<p>This is an exciting opportunity to take part in shaping the future of an energetic company dedicated to revolutionising the way our cities work while supporting the personal growth of every team member. On joining you can expect a warm welcome from a friendly team, with plenty of fun activities &amp; a range of benefits. </p>\n\n<p>THE ROLE</p>\n\n<p>As a traffic microsimulation researcher in the Smart Junctions team, you will be part of a group that&#39;s developing new technologies to optimise traffic light control in cities. We are revolutionising the way that traffic is managed by leveraging our existing expertise in applied machine-learning and by giving more power to network operators.<br>\nThe Smart Junctions team is cross-disciplinary and includes software developers, systems and hardware engineers, machine-learning researchers and project management. As a member of the team, you&#39;ll have an excellent opportunity to learn, grow and shape the direction of our current and future products.</p>\n\n<p>Your day to day tasks will include:</p>\n\n<ul>\n<li>Calibration and validation of microsimulation models (SUMO) using data from our vision-based sensors</li>\n<li>Working closely with machine learning researchers, contributing to our software stack, and upskilling where necessary to drive value from simulation for traffic light control research</li>\n<li>Timeseries data analysis and presentation of findings</li>\n<li>Collaborating with the broader team to deploy research outputs into the real world</li>\n<li>An agile workflow of daily standups with fortnightly grooming, planning, and retrospective meetings</li>\n</ul>\n\n<p>ABOUT YOU</p>\n\n<ul>\n<li>Strong understanding of traffic simulation calibration and evidence of applying this. Experience with other relevant types of simulation would also be considered.</li>\n<li>Willingness to upskill machine learning and software engineering competencies (python and C++) if needed</li>\n<li>Strong communication and teamwork skills</li>\n<li>Genuine interest in AI and driving cutting-edge research to real-world control systems</li>\n<li>Enjoy working as part of a fast-moving, collaborative team</li>\n</ul>\n\n<p>While not necessary, the following experience would substantially strengthen any application:</p>\n\n<ul>\n<li>Experience calibrating SUMO simulation models or developing SUMO source code</li>\n<li>Experience with machine learning</li>\n<li>Experience relevant to traffic signal control</li>\n<li>PhD or evidence of independent investigatory work</li>\n<li>Software engineering experience with C++</li>\n</ul>\n\n<p>Vivacity welcomes applications from all candidates and embraces diversity within our teams. If you are in any doubt as to whether you would be a good fit, please get in touch, or apply anyway and we will get back to you. We look forward to hearing from you!</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Simulations",
+        "Traffic Modelling"
+      ],
+      "payment": {
+        "salary": "£40k – £65k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/mdenicholson",
+        "name": "Mark Nicholson",
+        "avatar": "https://photos.angel.co/users/991987-medium_jpg?1445955733"
+      },
+      "refs": {
+        "angelListId": "699271",
+        "angelListUrl": "https://angel.co/company/vivacity-labs/jobs/699271-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "name": "SeatPlan.com",
+  "avatar": "https://photos.angel.co/startups/i/4011650-9ec8abf0497d5ef8f764a4090ead1ad9-medium_jpg.jpg?buster=1541526663",
+  "slogan": " Find the best theatre seats",
+  "description": "SeatPlan is a London based theatre ticketing company with a small team and startup atmosphere. We combine audience seat reviews and photos with ticket prices to give our customers the best possible information to choose and book the best seats. Our unique website helps over 400,000 users per month and sells a lot of tickets!\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://seatplan.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/seatplan"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/seatplan"
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Theatre",
+    "Ticketing",
+    "Reviews and Recommendations"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/ben-jackson-6",
+      "name": "Ben Jackson",
+      "avatar": "https://photos.angel.co/users/985352-medium_jpg?1493487412",
+      "bioHtml": "Founder / CEO at SeatPlan.com and CheapTheatreTickets.com. Strong affiliate marketing, SEO and product development experience."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/jeremy-annone",
+      "name": "Jeremy Annone",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Senior Product Manager at SeatPlan.com"
+    },
+    {
+      "title": "Digital Marketing Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/shaun-millis",
+      "name": "Shaun Millis",
+      "avatar": "https://photos.angel.co/users/9231214-medium_jpg?1572902381",
+      "bioHtml": "Digital Marketing Manager currently working for a theatre ticketing startup. Skilled in SEO, PPC, CRO, Analytics, Email Marketing &amp; Social Media."
+    }
+  ],
+  "perks": [
+    {
+      "category": "work_from_home",
+      "title": "Work from home"
+    },
+    {
+      "category": "company_events",
+      "title": "Monthly team events"
+    },
+    {
+      "category": "miscellaneous",
+      "title": "Theatre tickets"
+    },
+    {
+      "category": "retirement",
+      "title": "Pension"
+    },
+    {
+      "category": "professional_development",
+      "title": "Professional development"
+    }
+  ],
+  "refs": {
+    "angelListId": "4011650",
+    "angelListUrl": "https://angel.co/company/seatplan"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Symfony Developer",
+      "description": "SeatPlan is a London based theatre ticketing company with a small team and startup atmosphere. We're passionate about delivering the best possible theatre experiences to our customers. We combine theatre seat prices with audience reviews and photos to give our customers the best possible information to choose and book the best tickets. Our unique website helps over 400,000 users per month and sells loads of tickets!\n\nTHE ROLE\n\nWe're looking for an experienced Symfony Developer who can contribute to architecture and implementation of a challenging ticket search engine and interactive seating plan website. Ultimately enabling our users to choose and book the best tickets.\n\nYou'll be responsible for delivering scalable, testable products in an agile development environment, building on the foundations of our Symfony 3 system.\n\nOUR PLATFORM\n\nOur platform is built on the Symfony framework and runs on AWS. We use Vue.js javascript framework and Twig templating.\n\nESSENTIAL SKILLS\n\n• 4+ years commercial development experience\n• OO PHP\n• Strong Symfony or Laravel knowledge\n• HTML\n• GIT\n• Great communication\n\nDESIRABLE SKILLS\n\n• Passion for theatre or live events\n• Ecommerce website experience\n• Javascript frameworks (ideally Vue.js but Angular and React afficcionados can transition)\n• Unit testing\n• Dev ops\n• Agile environment\n\nSALARY AND TERMS\n\n• Full-time permanent role\n• £50-70k depending on experience.\n• 10% performance bonus\n• WFH option for 1 day per week once settled in\n• Choice of equipment to fulfil your role (MacBook Pro, Dell XPS, etc)\n• Free theatre tickets\n\nHOW TO APPLY\n\nTo apply email careers [at] seatplan.com with your experience and why you fit the bill.\n\nAlong with your CV, please include some examples of your work (ideally links to website pages you have worked on), or include details of Github or Stackoverflow accounts.",
+      "descriptionHtml": "<p>SeatPlan is a London based theatre ticketing company with a small team and startup atmosphere. We&#39;re passionate about delivering the best possible theatre experiences to our customers. We combine theatre seat prices with audience reviews and photos to give our customers the best possible information to choose and book the best tickets. Our unique website helps over 400,000 users per month and sells loads of tickets!</p>\n\n<p>THE ROLE</p>\n\n<p>We&#39;re looking for an experienced Symfony Developer who can contribute to architecture and implementation of a challenging ticket search engine and interactive seating plan website. Ultimately enabling our users to choose and book the best tickets.</p>\n\n<p>You&#39;ll be responsible for delivering scalable, testable products in an agile development environment, building on the foundations of our Symfony 3 system.</p>\n\n<p>OUR PLATFORM</p>\n\n<p>Our platform is built on the Symfony framework and runs on AWS. We use Vue.js javascript framework and Twig templating.</p>\n\n<p>ESSENTIAL SKILLS</p>\n\n<p>• 4+ years commercial development experience<br>\n• OO PHP<br>\n• Strong Symfony or Laravel knowledge<br>\n• HTML<br>\n• GIT<br>\n• Great communication</p>\n\n<p>DESIRABLE SKILLS</p>\n\n<p>• Passion for theatre or live events<br>\n• Ecommerce website experience<br>\n• Javascript frameworks (ideally Vue.js but Angular and React afficcionados can transition)<br>\n• Unit testing<br>\n• Dev ops<br>\n• Agile environment</p>\n\n<p>SALARY AND TERMS</p>\n\n<p>• Full-time permanent role<br>\n• £50-70k depending on experience.<br>\n• 10% performance bonus<br>\n• WFH option for 1 day per week once settled in<br>\n• Choice of equipment to fulfil your role (MacBook Pro, Dell XPS, etc)<br>\n• Free theatre tickets</p>\n\n<p>HOW TO APPLY</p>\n\n<p>To apply email careers [at] seatplan.com with your experience and why you fit the bill.</p>\n\n<p>Along with your CV, please include some examples of your work (ideally links to website pages you have worked on), or include details of Github or Stackoverflow accounts.</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "PHP",
+        "PHP Frameworks",
+        "Symfony2",
+        "HTML5 & CSS3",
+        "Vue.Js"
+      ],
+      "payment": {
+        "salary": "£50k – £70k",
+        "equity": "0.0% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/ben-jackson-6",
+        "name": "Ben Jackson",
+        "avatar": "https://photos.angel.co/users/985352-medium_jpg?1493487412"
+      },
+      "refs": {
+        "angelListId": "334861",
+        "angelListUrl": "https://angel.co/company/seatplan/jobs/334861-"
+      }
+    }
+  ]
+}

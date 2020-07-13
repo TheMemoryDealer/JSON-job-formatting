@@ -1,0 +1,323 @@
+{
+  "name": "Knotel",
+  "avatar": "https://photos.angel.co/startups/i/1000001-7afc94cb41a14870b31c68916d9763bf-medium_jpg.jpg?buster=1589575127",
+  "slogan": "Our flexible workspace platform matches, tailors and manages space for companies",
+  "description": "Knotel is the world’s leading flexible workspace platform that matches, tailors and manages space for customers. Knotel caters to established and growing companies, giving them the freedom to focus on their business, culture, and people. With over 5 million square feet across 200 locations in four continents, Knotel is transforming commercial real estate and moving companies forward. \n\nKnotel was founded in 2016 to give businesses the flexibility and speed to scale on their own terms. All Knotel spaces are tailored to the needs of each individual company by an in-house team of architects, interior designers, and workplace strategists. For more information, please visit www.knotel.com.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.knotel.com"
+    },
+    {
+      "type": "blog",
+      "url": "http://blog.knotel.com"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/knotel"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/knotelhq/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/knotel/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "New York City",
+    "San Francisco",
+    "London"
+  ],
+  "marketTags": [
+    "Office Space",
+    "Office Automation",
+    "Commercial Real Estate",
+    "Construction",
+    "Interior Design",
+    "Internet",
+    "Real Estate"
+  ],
+  "employees": "SIZE_201_500",
+  "funding": {
+    "totalRaised": 555000000,
+    "rounds": [
+      {
+        "type": "Series C",
+        "closedAt": 1566259200,
+        "valuation": 1300000000
+      },
+      {
+        "type": "Series B",
+        "closedAt": 1540857600,
+        "valuation": 0
+      },
+      {
+        "type": "Series B",
+        "closedAt": 1523232000,
+        "valuation": 500000000
+      },
+      {
+        "type": "Series A",
+        "closedAt": 1487635200,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/p/eshender",
+      "name": "Edward Shenderovich",
+      "avatar": "https://photos.angel.co/users/2820-medium_jpg?1405435161",
+      "bioHtml": "Managing Director at Kite Ventures"
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/amol",
+      "name": "Amol Sarva",
+      "avatar": "https://photos.angel.co/users/93149-medium_jpg?1405485350",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/knotel\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Knotel</span></a>, <a href=\"https://angel.co/company/knotable\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Knotable</span></a>, <a href=\"https://angel.co/company/peek\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Peek.com</span></a>, <a href=\"https://angel.co/company/virgin-mobile-usa\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Virgin Mobile USA</span></a> • <a href=\"https://angel.co/company/mckinsey\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">McKinsey &amp; Company</span></a> • Studied at <a href=\"https://angel.co/stanford-university\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Stanford University</span></a>, <a href=\"https://angel.co/columbia-college\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Columbia College</span></a>  • Builder of buildings. "
+    },
+    {
+      "title": "Senior Director Global Marketing",
+      "role": "Employee",
+      "url": "https://angel.co/u/allison-stoloff-1",
+      "name": "Allison Stoloff",
+      "avatar": "https://photos.angel.co/users/1470069-medium_jpg?1583098474",
+      "bioHtml": "Operator, investor, and startup advisor. Built and led high performing teams at Facebook, Oscar Health, Knotch, and Knotel"
+    },
+    {
+      "title": "Senior Manager, Sales",
+      "role": "Employee",
+      "url": "https://angel.co/u/allan-taylor-1",
+      "name": "Allan Taylor",
+      "avatar": "https://photos.angel.co/users/1261314-medium_jpg?1432772251",
+      "bioHtml": ""
+    },
+    {
+      "title": "Senior Manager TalDev",
+      "role": "Employee",
+      "url": "https://angel.co/u/alexandra-pearl-1",
+      "name": "Alexandra Pearl",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [
+    {
+      "category": "generous_vacation",
+      "title": "Flexible Vacation "
+    },
+    {
+      "category": "company_meals",
+      "title": "Team Lunch"
+    },
+    {
+      "category": "wellness",
+      "title": "Wellness Benefits"
+    },
+    {
+      "category": "commuter",
+      "title": "Commuter Benefits"
+    },
+    {
+      "category": "retirement",
+      "title": "401K Plan"
+    },
+    {
+      "category": "company_meals",
+      "title": "Drinks & Snacks"
+    },
+    {
+      "category": "healthcare",
+      "title": "Healthcare"
+    },
+    {
+      "category": "miscellaneous",
+      "title": "Partnership Discounts"
+    },
+    {
+      "category": "parental_leave",
+      "title": "Parental leave"
+    },
+    {
+      "category": "equity",
+      "title": "Equity benefits"
+    },
+    {
+      "category": "generous_vacation",
+      "title": "Generous vacation"
+    },
+    {
+      "category": "volunteer",
+      "title": "Volunteer opportunities"
+    }
+  ],
+  "refs": {
+    "angelListId": "1000001",
+    "angelListUrl": "https://angel.co/company/knotel"
+  },
+  "jobs": [
+    {
+      "role": "Operations",
+      "title": "Accounts Payable Manager",
+      "description": "The **Accounts Payable Manager**  will play a key role in ensuring timely and accurate processing of our vendor invoices. S/he will work to develop good habits within the team and globally across the company for an accurate and timely AP month end close.  \n\n**Wha**** t You’ll Do**\n\n- Manage the entire Accounts Payable process\n- Manage and communicate daily with the the AP outsourcing company\n- Support year end audits\n- Respond to escalated internal and external emails\n- Manage Concur Travel and Expense system, expense reports, approvals, & administration\n- Own the monthly credit card reconciliation and processing\n- Prepare monthly AP accruals and adjusting journal entries\n- Document and maintain standard AP procedures and controls policy manuals\n- Complete the annual 1099 reporting requirements\n- Develop reporting; proactively providing value-added AP analysis and metrics \n\n**Who You Are**\n\nAn eager accountant that excels in a fast paced, ever changing environment. You will need to be able to wear multiple hats and support the accounting team’s continued growth. \n\n- 5-7 years related experience, with at least 2 years of proven success managing a small team\n- ERP experience (Microsoft Dynamics, NetSuite, Intacct, Workday, etc.) and strong Excel skills\n- Strong knowledge of Accounting best practices\n- A passion for and experience leveraging systems and driving process improvements\n- Demonstrated ability to effectively manage and develop people as well as drive process improvement is an advantage\n- Ability to recognize risks to the expected quality or timeliness of deliverables and ability to reprioritize and successfully manage through risks\n- Data driven, analytical approach to problem solving leading to systemic improvements and lasting results\n\n**About Knotel**\n\nKnotel is the world’s leading flexible workspace platform that matches, tailors and manages space for customers. Knotel caters to established and growing companies, giving them the freedom to focus on their business, culture, and people. With over 5 million square feet across 200 locations in four continents, Knotel is transforming commercial real estate and moving companies forward. \n\nKnotel was founded in 2016 to give businesses the flexibility and speed to scale on their own terms. All Knotel spaces are tailored to the needs of each individual company by an in-house team of architects, interior designers, and workplace strategists. For more information, please visit www.knotel.com.\n\n**Our Core Values**\n\n- **Fly your Flag** - Don’t check your identity at the door. Bring it inside - we are better for it.\n- **Don’t Look Away** - Care for the details no one told you about. Make every space a home and give the gift of belonging.\n- **Outcomes, Not Processes** - Time is precious. Save it. Start with the goal and back out the journey\n- **Get Uncomfortable** - Innovation starts at the edge of the unknown. Embrace the adventure and sign up for the hairy challenges.\n- **“Where is it Engraved…”** - Question orthodoxy.\n- **Share in the Victory Dance** - No one summits alone. Leverage the best in others and offer the most in yourself.\n\n**Diversity & Inclusion at Knotel**\n\nAt Knotel, we know that a diverse workforce fosters our individual and collective success. We are committed to building an inclusive culture where people of any race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), or any other basis protected by law can do their best work and fly their flag. This is all fueled by our employees, who drive the efforts and initiatives further outlined [here](https://github.com/knotel/Values/wiki/Knotel-Culture-and-Values). \n\n",
+      "descriptionHtml": "<p>The <strong>Accounts Payable Manager</strong>  will play a key role in ensuring timely and accurate processing of our vendor invoices. S/he will work to develop good habits within the team and globally across the company for an accurate and timely AP month end close.  </p>\n\n<p><strong>Wha</strong>** t You’ll Do**</p>\n\n<ul>\n<li>Manage the entire Accounts Payable process</li>\n<li>Manage and communicate daily with the the AP outsourcing company</li>\n<li>Support year end audits</li>\n<li>Respond to escalated internal and external emails</li>\n<li>Manage Concur Travel and Expense system, expense reports, approvals, &amp; administration</li>\n<li>Own the monthly credit card reconciliation and processing</li>\n<li>Prepare monthly AP accruals and adjusting journal entries</li>\n<li>Document and maintain standard AP procedures and controls policy manuals</li>\n<li>Complete the annual 1099 reporting requirements</li>\n<li>Develop reporting; proactively providing value-added AP analysis and metrics </li>\n</ul>\n\n<p><strong>Who You Are</strong></p>\n\n<p>An eager accountant that excels in a fast paced, ever changing environment. You will need to be able to wear multiple hats and support the accounting team’s continued growth. </p>\n\n<ul>\n<li>5-7 years related experience, with at least 2 years of proven success managing a small team</li>\n<li>ERP experience (Microsoft Dynamics, NetSuite, Intacct, Workday, etc.) and strong Excel skills</li>\n<li>Strong knowledge of Accounting best practices</li>\n<li>A passion for and experience leveraging systems and driving process improvements</li>\n<li>Demonstrated ability to effectively manage and develop people as well as drive process improvement is an advantage</li>\n<li>Ability to recognize risks to the expected quality or timeliness of deliverables and ability to reprioritize and successfully manage through risks</li>\n<li>Data driven, analytical approach to problem solving leading to systemic improvements and lasting results</li>\n</ul>\n\n<p><strong>About Knotel</strong></p>\n\n<p>Knotel is the world’s leading flexible workspace platform that matches, tailors and manages space for customers. Knotel caters to established and growing companies, giving them the freedom to focus on their business, culture, and people. With over 5 million square feet across 200 locations in four continents, Knotel is transforming commercial real estate and moving companies forward. </p>\n\n<p>Knotel was founded in 2016 to give businesses the flexibility and speed to scale on their own terms. All Knotel spaces are tailored to the needs of each individual company by an in-house team of architects, interior designers, and workplace strategists. For more information, please visit <a href=\"http://www.knotel.com\" target=\"_blank\" rel=\"nofollow\">www.knotel.com</a>.</p>\n\n<p><strong>Our Core Values</strong></p>\n\n<ul>\n<li><strong>Fly your Flag</strong> - Don’t check your identity at the door. Bring it inside - we are better for it.</li>\n<li><strong>Don’t Look Away</strong> - Care for the details no one told you about. Make every space a home and give the gift of belonging.</li>\n<li><strong>Outcomes, Not Processes</strong> - Time is precious. Save it. Start with the goal and back out the journey</li>\n<li><strong>Get Uncomfortable</strong> - Innovation starts at the edge of the unknown. Embrace the adventure and sign up for the hairy challenges.</li>\n<li><strong>“Where is it Engraved…”</strong> - Question orthodoxy.</li>\n<li><strong>Share in the Victory Dance</strong> - No one summits alone. Leverage the best in others and offer the most in yourself.</li>\n</ul>\n\n<p><strong>Diversity &amp; Inclusion at Knotel</strong></p>\n\n<p>At Knotel, we know that a diverse workforce fosters our individual and collective success. We are committed to building an inclusive culture where people of any race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), or any other basis protected by law can do their best work and fly their flag. This is all fueled by our employees, who drive the efforts and initiatives further outlined <a href=\"https://github.com/knotel/Values/wiki/Knotel-Culture-and-Values\" target=\"_blank\" rel=\"nofollow\">here</a>. </p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "New York City",
+        "San Francisco",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$85k – $120k"
+      },
+      "recruiter": {
+        "title": "Recruiter",
+        "role": "Employee",
+        "url": "https://angel.co/u/hilary-nigrosh",
+        "name": "Hilary Nigrosh",
+        "avatar": "https://photos.angel.co/users/7413339-medium_jpg?1516810731"
+      },
+      "refs": {
+        "angelListId": "758049",
+        "angelListUrl": "https://angel.co/company/knotel/jobs/758049-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Associate Director, Global IT",
+      "description": "Working alongside our Markets and HQ leadership teams, the Associate Director of Global Information Technology will be charged with developing and enhancing Knotel’s technology product to provide an efficient and functional catered platform for clients so they can focus on their business. This leadership position will also be responsible for ensuring Knotel HQ operates at peak performance to allow the company to scale on a global level without issue.\n\n**What You’ll Do**\n\n- End to end, full accountability for all aspects of IT across the various global markets. This includes overseeing build-outs and IT operations for client workspaces.\n- Partnering with business stakeholders to deliver IT solutions and services aligned with the business vision and mission objectives.\n- Oversee, define and drive IT strategy and roadmap to deliver stable, predictable and cost effective (to budget) IT services.\n- Developing and maintaining strong relationships across all functions of the business, with local and global stakeholders, and establishing credibility and expertise across the Leadership Team. \n- Establishing and maintaining strong strategic partnerships with vendors and service suppliers. \n- Build processes and systems that meet long-term needs and scale appropriately.\n- Envision and actualize long-term goals while managing day to day activities.\n\n**Who You Are**\n\nYou are a results-driven technical management professional with the ability to make sound business decisions. You have strong IT experience providing network solutions within emerging innovation companies  and are comfortable diving deep into technical details. You appreciate that “done” is better than “perfect” and find entrepreneurial ways to persevere through obstacles. You operate cross-functionally, but still move fast to get things done. You inspire those beneath you with clear vision, determination, and ability to execute. You believe in the vision of Knotel while striving for continuous and ongoing operational improvements to operate the best workspaces for our members.  You also have the following:\n\n- A minimum of 8+ years of relevant experience managing global teams delivering network infrastructure and systems in multiple client sites. Experience at both an emerging venture and a mature IT organization would be preferable. \n- Project and program management experience defined by a proven track record of on time and on budget delivery of multiple concurrent projects.\n- Strong customer focus and understanding, defined by proven ability to develop and maintain customer relations with internal stakeholders. You actively seek information to understand customers’ circumstances, problems, expectations and needs.\n- Ability to build a successful team – proven track record of success through people management skills, motivating others, promoting a productive work culture, and managing performance.\n- Excellent communication and interpersonal skills necessary to develop customer relationships and work directly with executive management.\n- Strong decision making abilities, and a willingness to make timely yet well-informed decisions regarding business strategy, direction and tactical delivery.\n- Experience with office build-outs on the technology side, but also familiar with all aspects of a buildout and construction.\n- Cybersecurity knowledge and experience.\n- Knowledge of IT management frameworks such as ITIL and COBIT.\n- Familiarity with IT governance. Able to oversee creation and implementation in a loosely structured environment.\n\n**About Knotel**\n\nKnotel is the world’s leading flexible workspace platform that matches, tailors and manages space for customers. Knotel caters to established and growing companies, giving them the freedom to focus on their business, culture, and people. With over 5 million square feet across 200 locations in four continents, Knotel is transforming commercial real estate and moving companies forward. \n\nKnotel was founded in 2016 to give businesses the flexibility and speed to scale on their own terms. All Knotel spaces are tailored to the needs of each individual company by an in-house team of architects, interior designers, and workplace strategists. For more information, please visit www.knotel.com.\n\n**Our Core Values**\n\n- **Fly your Flag** - Don’t check your identity at the door. Bring it inside - we are better for it.\n- **Don’t Look Away** - Care for the details no one told you about. Make every space a home and give the gift of belonging.\n- **Outcomes, Not Processes** - Time is precious. Save it. Start with the goal and back out the journey\n- **Get Uncomfortable** - Innovation starts at the edge of the unknown. Embrace the adventure and sign up for the hairy challenges.\n- **“Where is it Engraved…”** - Question orthodoxy.\n- **Share in the Victory Dance** - No one summits alone. Leverage the best in others and offer the most in yourself.\n\n**Diversity & Inclusion at Knotel**\n\nAt Knotel, we know that a diverse workforce fosters our individual and collective success. We are committed to building an inclusive culture where people of any race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), or any other basis protected by law can do their best work and fly their flag. This is all fueled by our employees, who drive the efforts and initiatives further outlined [here](https://github.com/knotel/Values/wiki/Knotel-Culture-and-Values). \n\n",
+      "descriptionHtml": "<p>Working alongside our Markets and HQ leadership teams, the Associate Director of Global Information Technology will be charged with developing and enhancing Knotel’s technology product to provide an efficient and functional catered platform for clients so they can focus on their business. This leadership position will also be responsible for ensuring Knotel HQ operates at peak performance to allow the company to scale on a global level without issue.</p>\n\n<p><strong>What You’ll Do</strong></p>\n\n<ul>\n<li>End to end, full accountability for all aspects of IT across the various global markets. This includes overseeing build-outs and IT operations for client workspaces.</li>\n<li>Partnering with business stakeholders to deliver IT solutions and services aligned with the business vision and mission objectives.</li>\n<li>Oversee, define and drive IT strategy and roadmap to deliver stable, predictable and cost effective (to budget) IT services.</li>\n<li>Developing and maintaining strong relationships across all functions of the business, with local and global stakeholders, and establishing credibility and expertise across the Leadership Team. </li>\n<li>Establishing and maintaining strong strategic partnerships with vendors and service suppliers. </li>\n<li>Build processes and systems that meet long-term needs and scale appropriately.</li>\n<li>Envision and actualize long-term goals while managing day to day activities.</li>\n</ul>\n\n<p><strong>Who You Are</strong></p>\n\n<p>You are a results-driven technical management professional with the ability to make sound business decisions. You have strong IT experience providing network solutions within emerging innovation companies  and are comfortable diving deep into technical details. You appreciate that “done” is better than “perfect” and find entrepreneurial ways to persevere through obstacles. You operate cross-functionally, but still move fast to get things done. You inspire those beneath you with clear vision, determination, and ability to execute. You believe in the vision of Knotel while striving for continuous and ongoing operational improvements to operate the best workspaces for our members.  You also have the following:</p>\n\n<ul>\n<li>A minimum of 8+ years of relevant experience managing global teams delivering network infrastructure and systems in multiple client sites. Experience at both an emerging venture and a mature IT organization would be preferable. </li>\n<li>Project and program management experience defined by a proven track record of on time and on budget delivery of multiple concurrent projects.</li>\n<li>Strong customer focus and understanding, defined by proven ability to develop and maintain customer relations with internal stakeholders. You actively seek information to understand customers’ circumstances, problems, expectations and needs.</li>\n<li>Ability to build a successful team – proven track record of success through people management skills, motivating others, promoting a productive work culture, and managing performance.</li>\n<li>Excellent communication and interpersonal skills necessary to develop customer relationships and work directly with executive management.</li>\n<li>Strong decision making abilities, and a willingness to make timely yet well-informed decisions regarding business strategy, direction and tactical delivery.</li>\n<li>Experience with office build-outs on the technology side, but also familiar with all aspects of a buildout and construction.</li>\n<li>Cybersecurity knowledge and experience.</li>\n<li>Knowledge of IT management frameworks such as ITIL and COBIT.</li>\n<li>Familiarity with IT governance. Able to oversee creation and implementation in a loosely structured environment.</li>\n</ul>\n\n<p><strong>About Knotel</strong></p>\n\n<p>Knotel is the world’s leading flexible workspace platform that matches, tailors and manages space for customers. Knotel caters to established and growing companies, giving them the freedom to focus on their business, culture, and people. With over 5 million square feet across 200 locations in four continents, Knotel is transforming commercial real estate and moving companies forward. </p>\n\n<p>Knotel was founded in 2016 to give businesses the flexibility and speed to scale on their own terms. All Knotel spaces are tailored to the needs of each individual company by an in-house team of architects, interior designers, and workplace strategists. For more information, please visit <a href=\"http://www.knotel.com\" target=\"_blank\" rel=\"nofollow\">www.knotel.com</a>.</p>\n\n<p><strong>Our Core Values</strong></p>\n\n<ul>\n<li><strong>Fly your Flag</strong> - Don’t check your identity at the door. Bring it inside - we are better for it.</li>\n<li><strong>Don’t Look Away</strong> - Care for the details no one told you about. Make every space a home and give the gift of belonging.</li>\n<li><strong>Outcomes, Not Processes</strong> - Time is precious. Save it. Start with the goal and back out the journey</li>\n<li><strong>Get Uncomfortable</strong> - Innovation starts at the edge of the unknown. Embrace the adventure and sign up for the hairy challenges.</li>\n<li><strong>“Where is it Engraved…”</strong> - Question orthodoxy.</li>\n<li><strong>Share in the Victory Dance</strong> - No one summits alone. Leverage the best in others and offer the most in yourself.</li>\n</ul>\n\n<p><strong>Diversity &amp; Inclusion at Knotel</strong></p>\n\n<p>At Knotel, we know that a diverse workforce fosters our individual and collective success. We are committed to building an inclusive culture where people of any race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), or any other basis protected by law can do their best work and fly their flag. This is all fueled by our employees, who drive the efforts and initiatives further outlined <a href=\"https://github.com/knotel/Values/wiki/Knotel-Culture-and-Values\" target=\"_blank\" rel=\"nofollow\">here</a>. </p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "New York City",
+        "San Francisco",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Recruiter",
+        "role": "Employee",
+        "url": "https://angel.co/u/hilary-nigrosh",
+        "name": "Hilary Nigrosh",
+        "avatar": "https://photos.angel.co/users/7413339-medium_jpg?1516810731"
+      },
+      "refs": {
+        "angelListId": "808602",
+        "angelListUrl": "https://angel.co/company/knotel/jobs/808602-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Join our talent network!",
+      "description": " **Interested in working at Knotel but none of our posted roles are a good match?**\n\nFeel free to submit your resume into our open talent network. We will review on a regular cadence and you'll be alerted when a position comes up that could be a good fit. \n\nWant to stay up-to-date on Knotel happenings in the meantime? Submit your information at the bottom of [this page](https://www.knotel.com/about-us/) to sign up for our weekly newsletter.\n\n \n\n*If your company is currently looking for workspace, request a consultation [here](https://www.knotel.com/contact/).*\n\n \n\n**About Knotel**\n\nKnotel is the world’s leading flexible workspace platform that matches, tailors and manages space for customers. Knotel caters to established and growing companies, giving them the freedom to focus on their business, culture, and people. With over 5 million square feet across 200 locations in four continents, Knotel is transforming commercial real estate and moving companies forward. \n\nKnotel was founded in 2016 to give businesses the flexibility and speed to scale on their own terms. All Knotel spaces are tailored to the needs of each individual company by an in-house team of architects, interior designers, and workplace strategists. For more information, please visit [www.knotel.com](http://www.knotel.com).\n\n \n\n**Our Core Values**\n\n- **Fly your Flag** - Don’t check your identity at the door. Bring it inside - we are better for it.\n- **Don’t Look Away** - Care for the details no one told you about. Make every space a home and give the gift of belonging.\n- **Outcomes, Not Processes** - Time is precious. Save it. Start with the goal and back out the journey\n- **Get Uncomfortable** - Innovation starts at the edge of the unknown. Embrace the adventure and sign up for the hairy challenges.\n- **“Where is it Engraved…”** - Question orthodoxy.\n- **Share in the Victory Dance** - No one summits alone. Leverage the best in others and offer the most in yourself.\n\n \n\n**Diversity & Inclusion at Knotel**\n\nAt Knotel, we know that a diverse workforce fosters our individual and collective success. We are committed to building an inclusive culture where people of any race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), or any other basis protected by law can do their best work and fly their flag. This is all fueled by our employees, who drive the efforts and initiatives further outlined [here](https://github.com/knotel/Values/wiki/Knotel-Culture-and-Values). \n\n",
+      "descriptionHtml": "<p><strong>Interested in working at Knotel but none of our posted roles are a good match?</strong></p>\n\n<p>Feel free to submit your resume into our open talent network. We will review on a regular cadence and you&#39;ll be alerted when a position comes up that could be a good fit. </p>\n\n<p>Want to stay up-to-date on Knotel happenings in the meantime? Submit your information at the bottom of <a href=\"https://www.knotel.com/about-us/\" target=\"_blank\" rel=\"nofollow\">this page</a> to sign up for our weekly newsletter.</p>\n\n<p><em>If your company is currently looking for workspace, request a consultation <a href=\"https://www.knotel.com/contact/\" target=\"_blank\" rel=\"nofollow\">here</a>.</em></p>\n\n<p><strong>About Knotel</strong></p>\n\n<p>Knotel is the world’s leading flexible workspace platform that matches, tailors and manages space for customers. Knotel caters to established and growing companies, giving them the freedom to focus on their business, culture, and people. With over 5 million square feet across 200 locations in four continents, Knotel is transforming commercial real estate and moving companies forward. </p>\n\n<p>Knotel was founded in 2016 to give businesses the flexibility and speed to scale on their own terms. All Knotel spaces are tailored to the needs of each individual company by an in-house team of architects, interior designers, and workplace strategists. For more information, please visit <a href=\"http://www.knotel.com\" target=\"_blank\" rel=\"nofollow\">www.knotel.com</a>.</p>\n\n<p><strong>Our Core Values</strong></p>\n\n<ul>\n<li><strong>Fly your Flag</strong> - Don’t check your identity at the door. Bring it inside - we are better for it.</li>\n<li><strong>Don’t Look Away</strong> - Care for the details no one told you about. Make every space a home and give the gift of belonging.</li>\n<li><strong>Outcomes, Not Processes</strong> - Time is precious. Save it. Start with the goal and back out the journey</li>\n<li><strong>Get Uncomfortable</strong> - Innovation starts at the edge of the unknown. Embrace the adventure and sign up for the hairy challenges.</li>\n<li><strong>“Where is it Engraved…”</strong> - Question orthodoxy.</li>\n<li><strong>Share in the Victory Dance</strong> - No one summits alone. Leverage the best in others and offer the most in yourself.</li>\n</ul>\n\n<p><strong>Diversity &amp; Inclusion at Knotel</strong></p>\n\n<p>At Knotel, we know that a diverse workforce fosters our individual and collective success. We are committed to building an inclusive culture where people of any race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), or any other basis protected by law can do their best work and fly their flag. This is all fueled by our employees, who drive the efforts and initiatives further outlined <a href=\"https://github.com/knotel/Values/wiki/Knotel-Culture-and-Values\" target=\"_blank\" rel=\"nofollow\">here</a>. </p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "New York City",
+        "San Francisco",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Recruiter",
+        "role": "Employee",
+        "url": "https://angel.co/u/hilary-nigrosh",
+        "name": "Hilary Nigrosh",
+        "avatar": "https://photos.angel.co/users/7413339-medium_jpg?1516810731"
+      },
+      "refs": {
+        "angelListId": "809894",
+        "angelListUrl": "https://angel.co/company/knotel/jobs/809894-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Senior Accountant, Revenue",
+      "description": "Reporting to our Accounting Manager, the **Senior Revenue Accountant** will be responsible for timely collections and accurate client billing. S/he will work closely with colleagues to understand and track member revenue across various agreement structures. It’s crucial that our billing function is running accurately and smoothly, and the Senior Accountant will work with our Staff Accountant to maintain a high level of excellence in this regard.\n\nThe Senior Accountant will be able to execute process improvements under limited guidance, have strong critical thinking skills, and work with a sense of urgency. The ability to create and adhere to scalable processes with strong controls, all while juggling multiple priorities, is a must. \n\n**What You’ll Do**\n\n- Create and send accurate monthly and non-recurring customer bills\n- Incorporate add-ons, abatements, move-ins, and move-outs onto revenue tracker\n- Work closely with Staff Accountant to ensure the application of daily cash receipts and work with colleagues for timely resolution of discrepancies\n- Send dunning notices; escalate and collaborate with Relationship Leads as needed\n- Update collections tracker with collections correspondence and statuses\n- Prepare account reconciliations and analytics for month end close and ensure deadlines are met\n- Manage / participate in ad hoc projects, system integrations, accounting standard implementations\n- Support year end audits and tax filing requests\n- Approve journal entries timely and ensure data input is complete and accurate\n- Responsible for continuing to support the growth of the company with business process improvements and compliance with critical internal controls\n- Document and maintain standard operating procedures for revenue and collections\n- Prepare weekly reports; proactively provide value-added analysis and metrics \n\n**Who You Are**\n\nYou are a detail-oriented numbers person and a people person who is highly organized and always looking for more efficient ways of doing things. You bring energy and new ideas to your work and leverage them to build strong relationships with colleagues across different teams. You’re skilled when it comes to translating finance and accounting language into layman’s terms. You excel in a fast paced, ever changing environment and are  able to wear multiple hats. You also have the following:\n\n- Bachelor’s degree in Accounting and 3-5 years of related accounting experience\n- ERP experience (Microsoft Dynamics, NetSuite, Intacct, Workday, etc.) and strong Excel skills\n- Strong knowledge of Accounting best practices\n- A passion for and experience leveraging systems and driving process improvements\n- Ability to recognize risks to the expected quality or timeliness of deliverables and ability to reprioritize and successfully manage through risks\n- Data driven, analytical approach to problem solving leading to systemic improvements and lasting results\n- Excellent written and oral communication skills\n\n**About Knotel**\n\nKnotel is the world’s leading flexible workspace platform that matches, tailors and manages space for customers. Knotel caters to established and growing companies, giving them the freedom to focus on their business, culture, and people. With over 5 million square feet across 200 locations in four continents, Knotel is transforming commercial real estate and moving companies forward. \n\nKnotel was founded in 2016 to give businesses the flexibility and speed to scale on their own terms. All Knotel spaces are tailored to the needs of each individual company by an in-house team of architects, interior designers, and workplace strategists. For more information, please visit www.knotel.com.\n\n**Our Core Values**\n\n- **Fly your Flag** - Don’t check your identity at the door. Bring it inside - we are better for it.\n- **Don’t Look Away** - Care for the details no one told you about. Make every space a home and give the gift of belonging.\n- **Outcomes, Not Processes** - Time is precious. Save it. Start with the goal and back out the journey\n- **Get Uncomfortable** - Innovation starts at the edge of the unknown. Embrace the adventure and sign up for the hairy challenges.\n- **“Where is it Engraved…”** - Question orthodoxy.\n- **Share in the Victory Dance** - No one summits alone. Leverage the best in others and offer the most in yourself.\n\n**Diversity & Inclusion at Knotel**\n\nAt Knotel, we know that a diverse workforce fosters our individual and collective success. We are committed to building an inclusive culture where people of any race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), or any other basis protected by law can do their best work and fly their flag. This is all fueled by our employees, who drive the efforts and initiatives further outlined [here](https://github.com/knotel/Values/wiki/Knotel-Culture-and-Values). \n\n",
+      "descriptionHtml": "<p>Reporting to our Accounting Manager, the <strong>Senior Revenue Accountant</strong> will be responsible for timely collections and accurate client billing. S/he will work closely with colleagues to understand and track member revenue across various agreement structures. It’s crucial that our billing function is running accurately and smoothly, and the Senior Accountant will work with our Staff Accountant to maintain a high level of excellence in this regard.</p>\n\n<p>The Senior Accountant will be able to execute process improvements under limited guidance, have strong critical thinking skills, and work with a sense of urgency. The ability to create and adhere to scalable processes with strong controls, all while juggling multiple priorities, is a must. </p>\n\n<p><strong>What You’ll Do</strong></p>\n\n<ul>\n<li>Create and send accurate monthly and non-recurring customer bills</li>\n<li>Incorporate add-ons, abatements, move-ins, and move-outs onto revenue tracker</li>\n<li>Work closely with Staff Accountant to ensure the application of daily cash receipts and work with colleagues for timely resolution of discrepancies</li>\n<li>Send dunning notices; escalate and collaborate with Relationship Leads as needed</li>\n<li>Update collections tracker with collections correspondence and statuses</li>\n<li>Prepare account reconciliations and analytics for month end close and ensure deadlines are met</li>\n<li>Manage / participate in ad hoc projects, system integrations, accounting standard implementations</li>\n<li>Support year end audits and tax filing requests</li>\n<li>Approve journal entries timely and ensure data input is complete and accurate</li>\n<li>Responsible for continuing to support the growth of the company with business process improvements and compliance with critical internal controls</li>\n<li>Document and maintain standard operating procedures for revenue and collections</li>\n<li>Prepare weekly reports; proactively provide value-added analysis and metrics </li>\n</ul>\n\n<p><strong>Who You Are</strong></p>\n\n<p>You are a detail-oriented numbers person and a people person who is highly organized and always looking for more efficient ways of doing things. You bring energy and new ideas to your work and leverage them to build strong relationships with colleagues across different teams. You’re skilled when it comes to translating finance and accounting language into layman’s terms. You excel in a fast paced, ever changing environment and are  able to wear multiple hats. You also have the following:</p>\n\n<ul>\n<li>Bachelor’s degree in Accounting and 3-5 years of related accounting experience</li>\n<li>ERP experience (Microsoft Dynamics, NetSuite, Intacct, Workday, etc.) and strong Excel skills</li>\n<li>Strong knowledge of Accounting best practices</li>\n<li>A passion for and experience leveraging systems and driving process improvements</li>\n<li>Ability to recognize risks to the expected quality or timeliness of deliverables and ability to reprioritize and successfully manage through risks</li>\n<li>Data driven, analytical approach to problem solving leading to systemic improvements and lasting results</li>\n<li>Excellent written and oral communication skills</li>\n</ul>\n\n<p><strong>About Knotel</strong></p>\n\n<p>Knotel is the world’s leading flexible workspace platform that matches, tailors and manages space for customers. Knotel caters to established and growing companies, giving them the freedom to focus on their business, culture, and people. With over 5 million square feet across 200 locations in four continents, Knotel is transforming commercial real estate and moving companies forward. </p>\n\n<p>Knotel was founded in 2016 to give businesses the flexibility and speed to scale on their own terms. All Knotel spaces are tailored to the needs of each individual company by an in-house team of architects, interior designers, and workplace strategists. For more information, please visit <a href=\"http://www.knotel.com\" target=\"_blank\" rel=\"nofollow\">www.knotel.com</a>.</p>\n\n<p><strong>Our Core Values</strong></p>\n\n<ul>\n<li><strong>Fly your Flag</strong> - Don’t check your identity at the door. Bring it inside - we are better for it.</li>\n<li><strong>Don’t Look Away</strong> - Care for the details no one told you about. Make every space a home and give the gift of belonging.</li>\n<li><strong>Outcomes, Not Processes</strong> - Time is precious. Save it. Start with the goal and back out the journey</li>\n<li><strong>Get Uncomfortable</strong> - Innovation starts at the edge of the unknown. Embrace the adventure and sign up for the hairy challenges.</li>\n<li><strong>“Where is it Engraved…”</strong> - Question orthodoxy.</li>\n<li><strong>Share in the Victory Dance</strong> - No one summits alone. Leverage the best in others and offer the most in yourself.</li>\n</ul>\n\n<p><strong>Diversity &amp; Inclusion at Knotel</strong></p>\n\n<p>At Knotel, we know that a diverse workforce fosters our individual and collective success. We are committed to building an inclusive culture where people of any race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), or any other basis protected by law can do their best work and fly their flag. This is all fueled by our employees, who drive the efforts and initiatives further outlined <a href=\"https://github.com/knotel/Values/wiki/Knotel-Culture-and-Values\" target=\"_blank\" rel=\"nofollow\">here</a>. </p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "New York City",
+        "San Francisco",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$85k – $120k"
+      },
+      "recruiter": {
+        "title": "Recruiter",
+        "role": "Employee",
+        "url": "https://angel.co/u/hilary-nigrosh",
+        "name": "Hilary Nigrosh",
+        "avatar": "https://photos.angel.co/users/7413339-medium_jpg?1516810731"
+      },
+      "refs": {
+        "angelListId": "756136",
+        "angelListUrl": "https://angel.co/company/knotel/jobs/756136-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Staff Accountant",
+      "description": "Working alongside our Director of Finance and Senior Accountant, the Staff Accountant will be in charge of maintaining financial records and reports, performing account reconciliations, assisting with close processes and maintaining accounts payable documentation for Knotel UK & other Knotel growing entities in Europe. He/She will also be assisting the accounting manager as needed and respond to information requests by management and for auditing purposes. He/She will be encouraged to propose new solutions, new processes and new changes as Knotel is growing while He/She will always be encouraged to be consistent with having great organizational and analytical skills.\n\n**What You’ll Do**\n\n- Maintaining financial reports, records, and General Ledger accounts.\n- Preparing the Customer invoices based on the contract\n- Preparing journal entries, analyses, an account reconciliations and assisting with Monthly close processes.\n- Maintaining documentation for accounts payable, purchasing, and treasury and conducting internal audits.\n- Performing monthly balance sheet reconciliations.\n- Meeting processing and reporting deadlines\n- Responding to information requests, reviewing financial statements, and assisting with audits.\n- Ensuring compliance with UK-GAAP, IFRS and US-GAAP\n- Assisting the accounting manager as needed\n\n** **\n\n**Who You Are**\n\n- Bachelor’s degree in accounting or finance required\n- 3+years of accounting experience\n- Excellent communication skills, both written and verbal\n- Good Knowledge of GAAP\n- Strong numeracy and analytical skills\n- Good problem-solving and time management skills\n- Highly organized and detail-oriented\n- A second language such as German or French is a plus\n- Knowledge of Oracle Netsuite is strongly preferred\n\n**About Knotel**\n\nKnotel is the world’s leading flexible workspace platform that matches, tailors and manages space for customers. Knotel caters to established and growing companies, giving them the freedom to focus on their business, culture, and people. With over 5 million square feet across 200 locations in four continents, Knotel is transforming commercial real estate and moving companies forward. \n\nKnotel was founded in 2016 to give businesses the flexibility and speed to scale on their own terms. All Knotel spaces are tailored to the needs of each individual company by an in-house team of architects, interior designers, and workplace strategists. For more information, please visit www.knotel.com.\n\n**Our Core Values**\n\n- **Fly your Flag** - Don’t check your identity at the door. Bring it inside - we are better for it.\n- **Don’t Look Away** - Care for the details no one told you about. Make every space a home and give the gift of belonging.\n- **Outcomes, Not Processes** - Time is precious. Save it. Start with the goal and back out the journey\n- **Get Uncomfortable** - Innovation starts at the edge of the unknown. Embrace the adventure and sign up for the hairy challenges.\n- **“Where is it Engraved…”** - Question orthodoxy.\n- **Share in the Victory Dance** - No one summits alone. Leverage the best in others and offer the most in yourself.\n\n**Diversity & Inclusion at Knotel**\n\nAt Knotel, we know that a diverse workforce fosters our individual and collective success. We are committed to building an inclusive culture where people of any race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), or any other basis protected by law can do their best work and fly their flag. This is all fueled by our employees, who drive the efforts and initiatives further outlined [here](https://github.com/knotel/Values/wiki/Knotel-Culture-and-Values). \n\n",
+      "descriptionHtml": "<p>Working alongside our Director of Finance and Senior Accountant, the Staff Accountant will be in charge of maintaining financial records and reports, performing account reconciliations, assisting with close processes and maintaining accounts payable documentation for Knotel UK &amp; other Knotel growing entities in Europe. He/She will also be assisting the accounting manager as needed and respond to information requests by management and for auditing purposes. He/She will be encouraged to propose new solutions, new processes and new changes as Knotel is growing while He/She will always be encouraged to be consistent with having great organizational and analytical skills.</p>\n\n<p><strong>What You’ll Do</strong></p>\n\n<ul>\n<li>Maintaining financial reports, records, and General Ledger accounts.</li>\n<li>Preparing the Customer invoices based on the contract</li>\n<li>Preparing journal entries, analyses, an account reconciliations and assisting with Monthly close processes.</li>\n<li>Maintaining documentation for accounts payable, purchasing, and treasury and conducting internal audits.</li>\n<li>Performing monthly balance sheet reconciliations.</li>\n<li>Meeting processing and reporting deadlines</li>\n<li>Responding to information requests, reviewing financial statements, and assisting with audits.</li>\n<li>Ensuring compliance with UK-GAAP, IFRS and US-GAAP</li>\n<li>Assisting the accounting manager as needed</li>\n</ul>\n\n<hr>\n\n<p><strong>Who You Are</strong></p>\n\n<ul>\n<li>Bachelor’s degree in accounting or finance required</li>\n<li>3+years of accounting experience</li>\n<li>Excellent communication skills, both written and verbal</li>\n<li>Good Knowledge of GAAP</li>\n<li>Strong numeracy and analytical skills</li>\n<li>Good problem-solving and time management skills</li>\n<li>Highly organized and detail-oriented</li>\n<li>A second language such as German or French is a plus</li>\n<li>Knowledge of Oracle Netsuite is strongly preferred</li>\n</ul>\n\n<p><strong>About Knotel</strong></p>\n\n<p>Knotel is the world’s leading flexible workspace platform that matches, tailors and manages space for customers. Knotel caters to established and growing companies, giving them the freedom to focus on their business, culture, and people. With over 5 million square feet across 200 locations in four continents, Knotel is transforming commercial real estate and moving companies forward. </p>\n\n<p>Knotel was founded in 2016 to give businesses the flexibility and speed to scale on their own terms. All Knotel spaces are tailored to the needs of each individual company by an in-house team of architects, interior designers, and workplace strategists. For more information, please visit <a href=\"http://www.knotel.com\" target=\"_blank\" rel=\"nofollow\">www.knotel.com</a>.</p>\n\n<p><strong>Our Core Values</strong></p>\n\n<ul>\n<li><strong>Fly your Flag</strong> - Don’t check your identity at the door. Bring it inside - we are better for it.</li>\n<li><strong>Don’t Look Away</strong> - Care for the details no one told you about. Make every space a home and give the gift of belonging.</li>\n<li><strong>Outcomes, Not Processes</strong> - Time is precious. Save it. Start with the goal and back out the journey</li>\n<li><strong>Get Uncomfortable</strong> - Innovation starts at the edge of the unknown. Embrace the adventure and sign up for the hairy challenges.</li>\n<li><strong>“Where is it Engraved…”</strong> - Question orthodoxy.</li>\n<li><strong>Share in the Victory Dance</strong> - No one summits alone. Leverage the best in others and offer the most in yourself.</li>\n</ul>\n\n<p><strong>Diversity &amp; Inclusion at Knotel</strong></p>\n\n<p>At Knotel, we know that a diverse workforce fosters our individual and collective success. We are committed to building an inclusive culture where people of any race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), or any other basis protected by law can do their best work and fly their flag. This is all fueled by our employees, who drive the efforts and initiatives further outlined <a href=\"https://github.com/knotel/Values/wiki/Knotel-Culture-and-Values\" target=\"_blank\" rel=\"nofollow\">here</a>. </p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Recruiter",
+        "role": "Employee",
+        "url": "https://angel.co/u/hilary-nigrosh",
+        "name": "Hilary Nigrosh",
+        "avatar": "https://photos.angel.co/users/7413339-medium_jpg?1516810731"
+      },
+      "refs": {
+        "angelListId": "747071",
+        "angelListUrl": "https://angel.co/company/knotel/jobs/747071-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "name": "Fig Tree Search",
+  "avatar": "https://photos.angel.co/startups/i/6539223-7559acaac3c4882a85051beee0e78fc4-medium_jpg.jpg?buster=1541433648",
+  "slogan": "Headhunting Firm",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.figtreesearch.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Finance",
+    "Finance Technology",
+    "Blockchain / Cryptocurrency"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Consultant ",
+      "role": "Employee",
+      "url": "https://angel.co/u/james-spenle",
+      "name": "James Spenle",
+      "avatar": "https://photos.angel.co/users/8561289-medium_jpg?1541433974",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6539223",
+    "angelListUrl": "https://angel.co/company/fig-tree-search"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Java Developer",
+      "description": "A cutting edge AI FinTech firm are looking for a well versed Senior Java Developer in Java 8. \n\nCandidates should have  \n- 7+ years of experience with Java \n- 3+ years of microservices  \n- A great understanding of REST & APIs - 3 years + \n- Extensive experience working on Agile  \n- Cloud AWS or PCF exposure  \n- CI/CD experience  \n- A good background in BDD & TDD \n\nEssential skills in  \n- Spring Framework, Spring Boot, Spring Cloud \n- JPA, Hibernate \n- Gradle, Jenskins, Cucumber  \n\nDesirable skills in \n- Docker, Kubernetes, PCF \n- Kafka or similar",
+      "descriptionHtml": "<p>A cutting edge AI FinTech firm are looking for a well versed Senior Java Developer in Java 8. </p>\n\n<p>Candidates should have  </p>\n\n<ul>\n<li>7+ years of experience with Java </li>\n<li>3+ years of microservices<br></li>\n<li>A great understanding of REST &amp; APIs - 3 years + </li>\n<li>Extensive experience working on Agile<br></li>\n<li>Cloud AWS or PCF exposure<br></li>\n<li>CI/CD experience<br></li>\n<li>A good background in BDD &amp; TDD </li>\n</ul>\n\n<p>Essential skills in  </p>\n\n<ul>\n<li>Spring Framework, Spring Boot, Spring Cloud </li>\n<li>JPA, Hibernate </li>\n<li>Gradle, Jenskins, Cucumber<br></li>\n</ul>\n\n<p>Desirable skills in </p>\n\n<ul>\n<li>Docker, Kubernetes, PCF </li>\n<li>Kafka or similar</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "Spring",
+        "Agile",
+        "AWS Cloud Services",
+        "Microservices",
+        "Java 8"
+      ],
+      "payment": {
+        "salary": "£100k – £150k"
+      },
+      "recruiter": {
+        "title": "Consultant ",
+        "role": "Employee",
+        "url": "https://angel.co/u/james-spenle",
+        "name": "James Spenle",
+        "avatar": "https://photos.angel.co/users/8561289-medium_jpg?1541433974"
+      },
+      "refs": {
+        "angelListId": "453319",
+        "angelListUrl": "https://angel.co/company/fig-tree-search/jobs/453319-"
+      }
+    }
+  ]
+}

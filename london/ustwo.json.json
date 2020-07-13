@@ -1,0 +1,212 @@
+{
+  "name": "ustwo",
+  "avatar": "https://photos.angel.co/startups/i/209150-8ead0d3da625aa98e52272412f51539c-medium_jpg.jpg?buster=1440406879",
+  "slogan": "WE'RE A DIGITAL PRODUCT STUDIO",
+  "description": "ustwo was founded by two best friends, Mills and Sinx, who set off to build the studio of dreams – a place full of passionate and talented people doing great work. Our ‘fampany’ has since grown and includes studios in Malmö, New York City and Sydney.\n\nWe’ve also built two amazing companies from scratch - ustwo games (creators of Monument Valley) and mobile ticketing business DICE\n\nustwo adventure is where we intend to build new companies, invest in early stage companies and create a burgeoning utopia for the most exciting founders and teams. We aim to curate a group of entrepreneurs with product vision, consumer insight, focused execution, and unwavering ambition and embed them within the heart of ustwo.\n\nWe are an equal opportunity employer and value diversity at our company. We believe diverse teams help us make better products and hire for cultural growth. We welcome people of all ages, stories and backgrounds. We provide everyone with equal access to professional development.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.ustwo.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://ustwo.com/blog"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/ustwo"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/pages/ustwo/127618770359"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/ustwo-"
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London",
+    "New York City"
+  ],
+  "marketTags": [
+    "Product Design",
+    "User Experience Design",
+    "New Product Development",
+    "Venture Capital"
+  ],
+  "employees": "SIZE_201_500",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/sinxustwo",
+      "name": "John Sinclair",
+      "avatar": "https://photos.angel.co/users/757964-medium_jpg?1411025521",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/p/millsustwo",
+      "name": "mills",
+      "avatar": "https://photos.angel.co/users/297723-medium_jpg?1480949703",
+      "bioHtml": "co-founded ustwo, ustwogames (maker of Monument Valley) and DICE - the world&#39;s smartest ticketing app with zero booking fees."
+    },
+    {
+      "title": "Senior Product Designer",
+      "role": "Employee",
+      "url": "https://angel.co/u/matt-gypps",
+      "name": "Matt Gypps",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at ustwo"
+    },
+    {
+      "title": "Full Stack Developer",
+      "role": "Employee",
+      "url": "https://angel.co/u/ethel-ng",
+      "name": "Ethel Ng",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at ustwo"
+    },
+    {
+      "title": "Technical Lead",
+      "role": "Employee",
+      "url": "https://angel.co/u/mark-shipton-1",
+      "name": "Mark Shipton",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "209150",
+    "angelListUrl": "https://angel.co/company/ustwo"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Developer",
+      "description": "ustwo engineering is looking for a full-stack software engineer to help us grow our web team.\n\nIn this role, you will:\n\n1. Build scalable server/client-side systems\n2. Build prototypes to help explore new propositions\n3. Champion our ways of working and developer workflows with our clients\n4. Help us improve our tools, processes, and knowledge\n\n\nThe ideal candidate thrives in a small team of outstanding developers working together to solve difficult problems and build great features in a cross-functional team of developers, designers, product owners and agile coaches.\n\nWe work on projects that make a meaningful impact to our clients, their customers, and the world. We work very hard to win interesting and challenging projects. Many of our client relationships span multiple years and projects. We work across the project lifecycle, from highly strategic discovery work to large-scale build projects and everything in between.\n\n\nOur teams work in a collaborative cross-discipline environment where everyone is responsible for quality, and hence encouraged to look beyond their immediate role. It’s also great fun working at ustwo!\n\nWe have a very warm and welcoming culture. We are a very transparent company and work hard to distribute leadership across the studio. We are an equal opportunity employer and very much value diversity and inclusion. We believe diverse teams help us make better products and we actively hire for cultural growth. We seek people of all ages, stories and backgrounds.\n\nRequirements\n\nMUST HAVE\n\n* Experience with deploying, hosting, securing, monitoring and scaling in the cloud (Google Cloud Platform or AWS) and experience with configuration management tools like (Terraform, Chef, Puppet, etc.)\n* Experience with containerised services and orchestration (Docker, Kubernetes)\n* Strong experience in at least one of Node, Ruby, Go and also experience with more than 1 language (less relevant which one).\n* Working knowledge of modern cross-browser HTML5, ES6/7 and CSS3/4.\n* Applying the best design pattern for the case (Flux, MVC, MVVM, Mediator, Rx, etc.)\n* Awareness of the latest libraries and tendencies (React.js, Vue.js, Redux, etc.)\n* Experience with databases (SQL and / or NoSQL)\n* Experience with unit testing (mocha, jest, jasmine, etc.)\n* Experience working with Git flows.\n* Excellent written and verbal communication skills.\n* Experience working within agile environments including Scrum / Kanban.\n\nNICE TO HAVE\n\n* Development or Computer Science related degree.\n* Experience with API integration / testing / design / implementation, ideally with deeper understanding of different patterns (CRUD, CQRS, SOA, etc.)\n* Experience in building highly scalable and resilient web application.\n* Knowledge of CSS pre-compilers (PostCSS, Stylus, SASS) and CSS patterns.\n* Knowledge of Continuous Integration / Deployment.\n* Practical experience with TDD and / or BDD (Mocha, Jest, Cucumber, Rspec, Capybara, Selenium, etc.)\n* Active Github account / open source contributions.\n\n\nCHARACTER\n\n* Hands on, passionate, persistent, result-oriented, and humble — you get things done\n* Have a strong appetite to explore new technologies and share knowledge.\n* Welcome feedback and look to improve project development and understanding.\n* Able to communicate well with non-technical team members or stakeholders\n* Be able to work to deadlines and in a fast-paced environment.\n\nBenefits\n\nWe're a people centred company, we don't care about how you look, who you choose to live your private life with or the colour of your skin. We care about you being nice to work with, passionate about what you do and show evidence of the the right technical skills.\n\nWe offer a competitive package, including but not limited to company wide profit sharing platform, company pension, life assurance, private medical, training budget and amazing family policies.\n\n25 days holiday, inclusive of studio closure days over Christmas. We also promote flexible working days.",
+      "descriptionHtml": "<p>ustwo engineering is looking for a full-stack software engineer to help us grow our web team.</p>\n\n<p>In this role, you will:</p>\n\n<ol>\n<li>Build scalable server/client-side systems</li>\n<li>Build prototypes to help explore new propositions</li>\n<li>Champion our ways of working and developer workflows with our clients</li>\n<li>Help us improve our tools, processes, and knowledge</li>\n</ol>\n\n<p>The ideal candidate thrives in a small team of outstanding developers working together to solve difficult problems and build great features in a cross-functional team of developers, designers, product owners and agile coaches.</p>\n\n<p>We work on projects that make a meaningful impact to our clients, their customers, and the world. We work very hard to win interesting and challenging projects. Many of our client relationships span multiple years and projects. We work across the project lifecycle, from highly strategic discovery work to large-scale build projects and everything in between.</p>\n\n<p>Our teams work in a collaborative cross-discipline environment where everyone is responsible for quality, and hence encouraged to look beyond their immediate role. It’s also great fun working at ustwo!</p>\n\n<p>We have a very warm and welcoming culture. We are a very transparent company and work hard to distribute leadership across the studio. We are an equal opportunity employer and very much value diversity and inclusion. We believe diverse teams help us make better products and we actively hire for cultural growth. We seek people of all ages, stories and backgrounds.</p>\n\n<p>Requirements</p>\n\n<p>MUST HAVE</p>\n\n<ul>\n<li>Experience with deploying, hosting, securing, monitoring and scaling in the cloud (Google Cloud Platform or AWS) and experience with configuration management tools like (Terraform, Chef, Puppet, etc.)</li>\n<li>Experience with containerised services and orchestration (Docker, Kubernetes)</li>\n<li>Strong experience in at least one of Node, Ruby, Go and also experience with more than 1 language (less relevant which one).</li>\n<li>Working knowledge of modern cross-browser HTML5, ES6/7 and CSS3/4.</li>\n<li>Applying the best design pattern for the case (Flux, MVC, MVVM, Mediator, Rx, etc.)</li>\n<li>Awareness of the latest libraries and tendencies (React.js, Vue.js, Redux, etc.)</li>\n<li>Experience with databases (SQL and / or NoSQL)</li>\n<li>Experience with unit testing (mocha, jest, jasmine, etc.)</li>\n<li>Experience working with Git flows.</li>\n<li>Excellent written and verbal communication skills.</li>\n<li>Experience working within agile environments including Scrum / Kanban.</li>\n</ul>\n\n<p>NICE TO HAVE</p>\n\n<ul>\n<li>Development or Computer Science related degree.</li>\n<li>Experience with API integration / testing / design / implementation, ideally with deeper understanding of different patterns (CRUD, CQRS, SOA, etc.)</li>\n<li>Experience in building highly scalable and resilient web application.</li>\n<li>Knowledge of CSS pre-compilers (PostCSS, Stylus, SASS) and CSS patterns.</li>\n<li>Knowledge of Continuous Integration / Deployment.</li>\n<li>Practical experience with TDD and / or BDD (Mocha, Jest, Cucumber, Rspec, Capybara, Selenium, etc.)</li>\n<li>Active Github account / open source contributions.</li>\n</ul>\n\n<p>CHARACTER</p>\n\n<ul>\n<li>Hands on, passionate, persistent, result-oriented, and humble — you get things done</li>\n<li>Have a strong appetite to explore new technologies and share knowledge.</li>\n<li>Welcome feedback and look to improve project development and understanding.</li>\n<li>Able to communicate well with non-technical team members or stakeholders</li>\n<li>Be able to work to deadlines and in a fast-paced environment.</li>\n</ul>\n\n<p>Benefits</p>\n\n<p>We&#39;re a people centred company, we don&#39;t care about how you look, who you choose to live your private life with or the colour of your skin. We care about you being nice to work with, passionate about what you do and show evidence of the the right technical skills.</p>\n\n<p>We offer a competitive package, including but not limited to company wide profit sharing platform, company pension, life assurance, private medical, training budget and amazing family policies.</p>\n\n<p>25 days holiday, inclusive of studio closure days over Christmas. We also promote flexible working days.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Recruiter",
+        "role": "Employee",
+        "url": "https://angel.co/u/diana-kalkoul",
+        "name": "Diana Kalkoul",
+        "avatar": "https://photos.angel.co/users/7436227-medium_jpg?1523951131"
+      },
+      "refs": {
+        "angelListId": "674424",
+        "angelListUrl": "https://angel.co/company/ustwo/jobs/674424-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Lead Producer (Games)",
+      "description": "We’re looking for a talented Lead Producer to join ustwo Games and help us to create innovative new gaming titles with stand-out production values, heart and broad appeal.\n\nThis role requires someone with solid experience in leading production for high end game projects, who has proven initiative and experience tackling a a wide variety of production tasks, inclusive of defining ways of working and leading a team of producers.This isn't just a project management role and requires a more holistic approach to what it means to be a Lead Producer for small teams.\n\nThis role involves dealing directly with external partners and communication on commercial opportunities, will assume Lead responsibilities with regards to production processes and line managing the production team, in addition to providing support of the wider studio teams and overall success of the studio releases.\n\nIf you thrive in a dynamic and unpredictable role, can showcase proven successes on a wide variety of projects that you have lead, you’re seeking a fast-paced, friendly environment, then come and help us make games that will be loved worldwide.\n\n\n\nRequirements\n\n* Proven production experience on multiple shipped products in a lead producer role\n* Experience working within small, dynamic development teams\n* Excellent project management skills - and a knowledge of establishing best working practices for high performing teams\n* Relevant industry experience working with small creative teams\n* A people person - with experience of Leading and Managing production teams\n* Process driven, with flexibility to adapt as the needs of the team arises.\n* Superb communication skills\n* Experience building excellent relationships and communicating with external partners\n* Great attention to detail\n* Can-do attitude\n* Passion for creating innovative games with heart\n* Strong analytical, interpersonal and decision-making skills\n* Drive to keep learning and inspiring\n\nBonus:\n\n* Familiarity with mobile releases\n* Mandarin speaker\n* Negotiation experience\n* Scrum Master certification - or equivalent Agile training / experience\n\nBenefits\n\nWe offer a competitive package, including but not limited to a company wide profit sharing platform, company pension, private medical and amazing family policies. We offer 25 days holiday (inclusive of studio closure days over Christmas.) We also promote flexible working days.",
+      "descriptionHtml": "<p>We’re looking for a talented Lead Producer to join ustwo Games and help us to create innovative new gaming titles with stand-out production values, heart and broad appeal.</p>\n\n<p>This role requires someone with solid experience in leading production for high end game projects, who has proven initiative and experience tackling a a wide variety of production tasks, inclusive of defining ways of working and leading a team of producers.This isn&#39;t just a project management role and requires a more holistic approach to what it means to be a Lead Producer for small teams.</p>\n\n<p>This role involves dealing directly with external partners and communication on commercial opportunities, will assume Lead responsibilities with regards to production processes and line managing the production team, in addition to providing support of the wider studio teams and overall success of the studio releases.</p>\n\n<p>If you thrive in a dynamic and unpredictable role, can showcase proven successes on a wide variety of projects that you have lead, you’re seeking a fast-paced, friendly environment, then come and help us make games that will be loved worldwide.</p>\n\n<p>Requirements</p>\n\n<ul>\n<li>Proven production experience on multiple shipped products in a lead producer role</li>\n<li>Experience working within small, dynamic development teams</li>\n<li>Excellent project management skills - and a knowledge of establishing best working practices for high performing teams</li>\n<li>Relevant industry experience working with small creative teams</li>\n<li>A people person - with experience of Leading and Managing production teams</li>\n<li>Process driven, with flexibility to adapt as the needs of the team arises.</li>\n<li>Superb communication skills</li>\n<li>Experience building excellent relationships and communicating with external partners</li>\n<li>Great attention to detail</li>\n<li>Can-do attitude</li>\n<li>Passion for creating innovative games with heart</li>\n<li>Strong analytical, interpersonal and decision-making skills</li>\n<li>Drive to keep learning and inspiring</li>\n</ul>\n\n<p>Bonus:</p>\n\n<ul>\n<li>Familiarity with mobile releases</li>\n<li>Mandarin speaker</li>\n<li>Negotiation experience</li>\n<li>Scrum Master certification - or equivalent Agile training / experience</li>\n</ul>\n\n<p>Benefits</p>\n\n<p>We offer a competitive package, including but not limited to a company wide profit sharing platform, company pension, private medical and amazing family policies. We offer 25 days holiday (inclusive of studio closure days over Christmas.) We also promote flexible working days.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Recruiter",
+        "role": "Employee",
+        "url": "https://angel.co/u/diana-kalkoul",
+        "name": "Diana Kalkoul",
+        "avatar": "https://photos.angel.co/users/7436227-medium_jpg?1523951131"
+      },
+      "refs": {
+        "angelListId": "674425",
+        "angelListUrl": "https://angel.co/company/ustwo/jobs/674425-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Programmer (Games)",
+      "description": "DESCRIPTION\n\nWe’re looking for a talented programmer to join our team at ustwo Games in London, creators of Monument Valley and Land’s End. We are a group of multi-talented people drawing from a diverse range of experience and creative influences to create interactive entertainment with stand-out production values, heart and broad appeal.\n\nThis role is for you if:\n\n+ You are smart, passionate and creative, looking to grow your skills and experience as part of small, organic teams.\n\n+ You love working on player-facing features, making a game *feel* good.\n\n+ You want to help create new things from scratch, making games outside the norm that have an impact on the world.\n\n\nWhat you’ll be doing:\n\n+ Working and learning in a supportive environment\n\n+ Designing, building and iterating both engine systems and gameplay features\n\n+ Working in a multi-disciplinary team, contributing creatively to the creation of a game and writing code to support it\n\n+ Helping to develop our common tech and to maintain existing titles\n\nRequirements\n\n+ BSc in computer science/maths-based subject or equivalent industry experience\n\n+ Excellent C#/C/C++ skills\n\n+ Track record of creating enjoyable interactive experiences\n\n+ Experience of at least one full production cycle\n\n+ Excellent 3D maths skills\n\n+ Great attention to detail\n\n+ Can-do attitude\n\n+ Passion for creating innovative games with heart\n\n+ Strong analytical, interpersonal and decision-making skills\n\n+ Drive to keep learning\n\n\nBonus:\n\n+ You’ve made your own games\n\n+ Secondary skillsets (game design, art, audio etc.)\n\n+ Graphics/physics/network/back end experience\n\n+ Mobile development experience\n\n+ ObjC/Swift/Java/Xcode/Android Studio\n\n+ Unity/Unreal Engine\n\n+ Knowledge of 3D content creation pipelines\n\nBenefits\n\nWe offer a competitive package, including but not limited to a company wide profit sharing platform, company pension, life assurance, private medical and amazing family policies. We offer 25 days holiday (inclusive of studio closure days over Christmas.) We also promote flexible working days.",
+      "descriptionHtml": "<p>DESCRIPTION</p>\n\n<p>We’re looking for a talented programmer to join our team at ustwo Games in London, creators of Monument Valley and Land’s End. We are a group of multi-talented people drawing from a diverse range of experience and creative influences to create interactive entertainment with stand-out production values, heart and broad appeal.</p>\n\n<p>This role is for you if:</p>\n\n<ul>\n<li><p>You are smart, passionate and creative, looking to grow your skills and experience as part of small, organic teams.</p></li>\n<li><p>You love working on player-facing features, making a game <em>feel</em> good.</p></li>\n<li><p>You want to help create new things from scratch, making games outside the norm that have an impact on the world.</p></li>\n</ul>\n\n<p>What you’ll be doing:</p>\n\n<ul>\n<li><p>Working and learning in a supportive environment</p></li>\n<li><p>Designing, building and iterating both engine systems and gameplay features</p></li>\n<li><p>Working in a multi-disciplinary team, contributing creatively to the creation of a game and writing code to support it</p></li>\n<li><p>Helping to develop our common tech and to maintain existing titles</p></li>\n</ul>\n\n<p>Requirements</p>\n\n<ul>\n<li><p>BSc in computer science/maths-based subject or equivalent industry experience</p></li>\n<li><p>Excellent C#/C/C++ skills</p></li>\n<li><p>Track record of creating enjoyable interactive experiences</p></li>\n<li><p>Experience of at least one full production cycle</p></li>\n<li><p>Excellent 3D maths skills</p></li>\n<li><p>Great attention to detail</p></li>\n<li><p>Can-do attitude</p></li>\n<li><p>Passion for creating innovative games with heart</p></li>\n<li><p>Strong analytical, interpersonal and decision-making skills</p></li>\n<li><p>Drive to keep learning</p></li>\n</ul>\n\n<p>Bonus:</p>\n\n<ul>\n<li><p>You’ve made your own games</p></li>\n<li><p>Secondary skillsets (game design, art, audio etc.)</p></li>\n<li><p>Graphics/physics/network/back end experience</p></li>\n<li><p>Mobile development experience</p></li>\n<li><p>ObjC/Swift/Java/Xcode/Android Studio</p></li>\n<li><p>Unity/Unreal Engine</p></li>\n<li><p>Knowledge of 3D content creation pipelines</p></li>\n</ul>\n\n<p>Benefits</p>\n\n<p>We offer a competitive package, including but not limited to a company wide profit sharing platform, company pension, life assurance, private medical and amazing family policies. We offer 25 days holiday (inclusive of studio closure days over Christmas.) We also promote flexible working days.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "England"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Recruiter",
+        "role": "Employee",
+        "url": "https://angel.co/u/diana-kalkoul",
+        "name": "Diana Kalkoul",
+        "avatar": "https://photos.angel.co/users/7436227-medium_jpg?1523951131"
+      },
+      "refs": {
+        "angelListId": "674427",
+        "angelListUrl": "https://angel.co/company/ustwo/jobs/674427-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "Senior Product Designer",
+      "description": "ustwo is looking for a talented and unparalleled Senior Product Designer to join the design team in our New York studio.\n\nAt ustwo NYC, we are working towards being a product design powerhouse. To do this, we structure our team around versatile designers who have, and are constantly developing and broadening their wide skill sets and deepening their process knowledge. Our designers are skilled, confident, and multi-faceted, collaborating across all disciplines involved in the product and service development process.\n\nTHE ROLE\n\nAs a successful Senior Product Designer at ustwo, you’ll get your hands dirty tackling detailed work yourself and working with other designers, developers, and project managers to define, build, and iterate solutions for our fantastic clients and partners. You will also ensure other product teams up for success, operating in a more critical capacity in the background, challenging, supporting and guiding less experienced designers on projects.\n\nYou will be able to provide vision and direction on projects, spanning setting out an approach, generating initial insights all the way through prototyping and delivering a completed product into the world.\n\n\nRequirements\n\nEXPECTATIONS\n\n* Able to frame and communicate challenges and opportunities to teams, and create alignment on a way forward.\n* Communicating the vision for the design team with the wider studio.\n* Break down unnecessary silos and improving working practices by fostering and maintaining effective working relationships with leads in other disciplines.\n* Can motivate the team to work with our ustwo ways of working and concepts.\n* Contribute to progressing & improving our culture and ways of working - offering up new approaches.\n* Practice and encourage a culture of showing and shipping early and often.\n\n\nYOU ARE...\n\n* Someone that enjoys getting your hands dirty.\n* Comfortable, confident and competent at leading projects.\n* Proven experience working on things that exist in the real world, not only as design comps or prototypes.\n* Focused on pixel perfection. You sweat the details to ensure that you and the team deliver remarkable products on time and on budget consistently.\n* Able to take an initial nugget of an idea through to products that live with people, day to day in the real world.\n* Comfortable with ambiguity and able to move projects forward. We won’t always have predefined constraints on projects.\n* Experienced and confident in visualizing and prototyping concepts fast to communicate ideas.\n* Able to understand the bigger picture and strategically and systemically about opportunities and challenges.\n* Someone who accepts and resolves critique gracefully.\n\n\nYOU HAVE…\n\n* Extensive design experience with plenty of years under your belt, deep knowledge and expertise in product design.\n* Core strengths in visual design, spanning UI, brand, iconography, and art direction.\n* Solid understanding across some of our other core disciplines - Motion, Interaction, Service Design.\n* Strong knowledge of design tools and workflows.\n* Proficiency in, and examples of, how you resolve difficult design challenges.\n* Experience in being involved in projects that have not always followed the status quo, and can demonstrate times you have challenged dominant design perspectives and broken new ground where traditional design paradigms didn’t make sense.\n* Proven capability of shipping software applications across a variety of platforms.\n* An solid understanding of how behavior and transition impact design.\n* The ability to multitask and contribute to more than one project at once.\n* Clear written and verbal communication style.\n* Can lead a project with little supervision\n* Strives to be a leader on the design team\n\nBenefits\n\n* Paid Medical, Vision and Dental insurance\n* 401k with up to 5% company matching\n* Transit and Health FSA programs\n* Personal Training and Development Budget\n* Citibike and Zipcar memberships\n* Paid parental leave\n* Flexible work hours\n\n\nABOUT USTWO\n\nustwo NYC combines expertise in product and service development, ventures and gaming to make a meaningful impact on the challenges companies and individuals face in contemporary culture.\n\nOver the last 5 years, we have been carving out a reputation in the US in the space between digital product development and new experience design. Our deep product development knowledge, our design heritage and our leadership at the edges of technology and culture, means we are capable of providing fresh creative and strategic direction on genuinely new experiences, as well as deep technical expertise on implementation - never disconnecting strategy from implementation.\n\nThis combination of capabilities is rare and valuable, particularly in a market that’s seeing ever increasing convergence of entertainment, gaming, content, commerce and platforms.\n\n\nustwo is committed to making a measurable positive impact on people's everyday lives. We are an equal opportunity employer and value diversity at our company. We believe diverse teams help us make better products and actively hire for cultural growth. We welcome people of all ages, stories and backgrounds. We provide everyone with equal access to professional development.",
+      "descriptionHtml": "<p>ustwo is looking for a talented and unparalleled Senior Product Designer to join the design team in our New York studio.</p>\n\n<p>At ustwo NYC, we are working towards being a product design powerhouse. To do this, we structure our team around versatile designers who have, and are constantly developing and broadening their wide skill sets and deepening their process knowledge. Our designers are skilled, confident, and multi-faceted, collaborating across all disciplines involved in the product and service development process.</p>\n\n<p>THE ROLE</p>\n\n<p>As a successful Senior Product Designer at ustwo, you’ll get your hands dirty tackling detailed work yourself and working with other designers, developers, and project managers to define, build, and iterate solutions for our fantastic clients and partners. You will also ensure other product teams up for success, operating in a more critical capacity in the background, challenging, supporting and guiding less experienced designers on projects.</p>\n\n<p>You will be able to provide vision and direction on projects, spanning setting out an approach, generating initial insights all the way through prototyping and delivering a completed product into the world.</p>\n\n<p>Requirements</p>\n\n<p>EXPECTATIONS</p>\n\n<ul>\n<li>Able to frame and communicate challenges and opportunities to teams, and create alignment on a way forward.</li>\n<li>Communicating the vision for the design team with the wider studio.</li>\n<li>Break down unnecessary silos and improving working practices by fostering and maintaining effective working relationships with leads in other disciplines.</li>\n<li>Can motivate the team to work with our ustwo ways of working and concepts.</li>\n<li>Contribute to progressing &amp; improving our culture and ways of working - offering up new approaches.</li>\n<li>Practice and encourage a culture of showing and shipping early and often.</li>\n</ul>\n\n<p>YOU ARE...</p>\n\n<ul>\n<li>Someone that enjoys getting your hands dirty.</li>\n<li>Comfortable, confident and competent at leading projects.</li>\n<li>Proven experience working on things that exist in the real world, not only as design comps or prototypes.</li>\n<li>Focused on pixel perfection. You sweat the details to ensure that you and the team deliver remarkable products on time and on budget consistently.</li>\n<li>Able to take an initial nugget of an idea through to products that live with people, day to day in the real world.</li>\n<li>Comfortable with ambiguity and able to move projects forward. We won’t always have predefined constraints on projects.</li>\n<li>Experienced and confident in visualizing and prototyping concepts fast to communicate ideas.</li>\n<li>Able to understand the bigger picture and strategically and systemically about opportunities and challenges.</li>\n<li>Someone who accepts and resolves critique gracefully.</li>\n</ul>\n\n<p>YOU HAVE…</p>\n\n<ul>\n<li>Extensive design experience with plenty of years under your belt, deep knowledge and expertise in product design.</li>\n<li>Core strengths in visual design, spanning UI, brand, iconography, and art direction.</li>\n<li>Solid understanding across some of our other core disciplines - Motion, Interaction, Service Design.</li>\n<li>Strong knowledge of design tools and workflows.</li>\n<li>Proficiency in, and examples of, how you resolve difficult design challenges.</li>\n<li>Experience in being involved in projects that have not always followed the status quo, and can demonstrate times you have challenged dominant design perspectives and broken new ground where traditional design paradigms didn’t make sense.</li>\n<li>Proven capability of shipping software applications across a variety of platforms.</li>\n<li>An solid understanding of how behavior and transition impact design.</li>\n<li>The ability to multitask and contribute to more than one project at once.</li>\n<li>Clear written and verbal communication style.</li>\n<li>Can lead a project with little supervision</li>\n<li>Strives to be a leader on the design team</li>\n</ul>\n\n<p>Benefits</p>\n\n<ul>\n<li>Paid Medical, Vision and Dental insurance</li>\n<li>401k with up to 5% company matching</li>\n<li>Transit and Health FSA programs</li>\n<li>Personal Training and Development Budget</li>\n<li>Citibike and Zipcar memberships</li>\n<li>Paid parental leave</li>\n<li>Flexible work hours</li>\n</ul>\n\n<p>ABOUT USTWO</p>\n\n<p>ustwo NYC combines expertise in product and service development, ventures and gaming to make a meaningful impact on the challenges companies and individuals face in contemporary culture.</p>\n\n<p>Over the last 5 years, we have been carving out a reputation in the US in the space between digital product development and new experience design. Our deep product development knowledge, our design heritage and our leadership at the edges of technology and culture, means we are capable of providing fresh creative and strategic direction on genuinely new experiences, as well as deep technical expertise on implementation - never disconnecting strategy from implementation.</p>\n\n<p>This combination of capabilities is rare and valuable, particularly in a market that’s seeing ever increasing convergence of entertainment, gaming, content, commerce and platforms.</p>\n\n<p>ustwo is committed to making a measurable positive impact on people&#39;s everyday lives. We are an equal opportunity employer and value diversity at our company. We believe diverse teams help us make better products and actively hire for cultural growth. We welcome people of all ages, stories and backgrounds. We provide everyone with equal access to professional development.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "New York City"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Recruiter",
+        "role": "Employee",
+        "url": "https://angel.co/u/diana-kalkoul",
+        "name": "Diana Kalkoul",
+        "avatar": "https://photos.angel.co/users/7436227-medium_jpg?1523951131"
+      },
+      "refs": {
+        "angelListId": "674428",
+        "angelListUrl": "https://angel.co/company/ustwo/jobs/674428-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "name": "S9 Tech",
+  "avatar": "https://photos.angel.co/startups/i/6182737-1cace2532cac433402ec27179d8cafae-medium_jpg.jpg?buster=1534672124",
+  "slogan": "Complete IT Solutions",
+  "description": "we sell IT\nwe resell Microsoft products\nwe develop apps for logistics, retail and shipping\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.s9tech.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Logistics Software",
+    "Retail Technology",
+    "Insurtech"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/tamer-alamad",
+      "name": "Tamer Alamad",
+      "avatar": "https://photos.angel.co/users/8248156-medium_jpg?1534672353",
+      "bioHtml": "Worked at S9 Tech, S9 Tech"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6182737",
+    "angelListUrl": "https://angel.co/company/s9-tech"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Business Solutions Manager",
+      "description": "West London, but the post holder may be required to visit other sites for the satisfactory performance of their duties and responsibilities.",
+      "descriptionHtml": "<p>West London, but the post holder may be required to visit other sites for the satisfactory performance of their duties and responsibilities.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Analytics & Reporting",
+        "Software Architecture",
+        "Project Management",
+        "Solutions Architecture",
+        "Time Management",
+        "Technical documentation",
+        "Delivery Management",
+        "Resource Management",
+        "Costing and Budgeting"
+      ],
+      "payment": {
+        "salary": "£30k – £45k"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/tamer-alamad",
+        "name": "Tamer Alamad",
+        "avatar": "https://photos.angel.co/users/8248156-medium_jpg?1534672353"
+      },
+      "refs": {
+        "angelListId": "414287",
+        "angelListUrl": "https://angel.co/company/s9-tech/jobs/414287-"
+      }
+    }
+  ]
+}

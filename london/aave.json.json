@@ -1,0 +1,132 @@
+{
+  "name": "Aave",
+  "avatar": "https://photos.angel.co/startups/i/4439799-0627d571214b574677f021085791ec52-medium_jpg.jpg?buster=1537256883",
+  "slogan": "Deposit. Earn. Control. Innovate",
+  "description": "Created in 2016, Aave is an Open Source and Non-Custodial protocol to earn interest on deposits & borrow assets.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.aave.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://medium.com/aave"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/aaveaave?lang=fr"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Blockchains",
+    "Fin Tech",
+    "Technology"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/stani-kulechov",
+      "name": "Stani Kulechov",
+      "avatar": "https://photos.angel.co/users/6726981-medium_jpg?1501355877",
+      "bioHtml": "Went to University of Helsinki, Faculty of Law"
+    },
+    {
+      "title": "Project Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/eugenia-ivanova-3",
+      "name": "Eugenia Ivanova",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Risk Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/alexandra-bertomeu-gilles",
+      "name": "Alexandra Bertomeu-Gilles",
+      "avatar": "https://photos.angel.co/users/1213718-medium_jpg?1540504848",
+      "bioHtml": "Qualified Actuary finalising a MSc in Digital Currency: Financial modelling, DLT systems, Tokenomics, Risk, Excel, Insurance"
+    },
+    {
+      "title": "CEO",
+      "role": "Employee",
+      "url": "https://angel.co/u/stani-kulechov",
+      "name": "Stani Kulechov",
+      "avatar": "https://photos.angel.co/users/6726981-medium_jpg?1501355877",
+      "bioHtml": "Went to University of Helsinki, Faculty of Law"
+    }
+  ],
+  "perks": [
+    {
+      "category": "work_from_home",
+      "title": "Remote"
+    },
+    {
+      "category": "company_events",
+      "title": "Events"
+    },
+    {
+      "category": "healthcare",
+      "title": "Private Health Insurance"
+    },
+    {
+      "category": "equity",
+      "title": "Token vesting program"
+    }
+  ],
+  "refs": {
+    "angelListId": "4439799",
+    "angelListUrl": "https://angel.co/company/aave"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "QA tester",
+      "description": "At Aave we are creating a money-market protocol on the Ethereum blockchain to enable depositors and borrowers to get interest from their crypto savings and to access capital.\n\nCurrently, we are looking for a manual and automation QA engineer to help us to improve the quality and robustness of all the products around our protocol. If you are curious, you like a fast-moving blockchain startup environment and love to take ownership on the QA side of a project, Aave is probably the perfect place for you!\n\nWhich technologies does Aave use?\nOur stack is composed by:\n- Solidity on the Ethereum smart contracts layer, managed by frameworks like Truffle and Buidler.\n- Typescript on the backends, with usage of both REST and Graphql.\n- Frontend based on React and Typescript.\n- Docker to wrap on containers our applications.\n\nWhich tecnologies do I need to know?\nWe will like you to have experience with, but not limited to:\n- Selenium.\n- Jest or Mocha + Chai.\n- Pupeeter\nIf you didn't work with some of those tecnologies, but you have experience with others covering the same needs, don't let stop you to apply!\n\nOther requirements?\nFor this position, we also believe it's important to have:\n- 2+ years of experience testing applications, both manually and through automation.\n- A good understanding of CI/CD pipelines and related tooling.\n- Strong attention to details (we are dealing with money!).\n- Good written and oral English. For most of us, English is not our native language, so we only need you to be able to communicate with the rest of the team fluidly.\n\nHow is the company culture in Aave?\nEven if it sounds a bit startup-cliché, in Aave every team member is a source of inspiration from where ideas are being formed all the time, with these ideas leading to new products and improvements in the current ones. In line with this, having a result-oriented work and good life balance is seen as fundamental for both the company and the employee to grow, this last one both personally and professionally.\nYou will need to respect the rest of your colleagues and you will get their respect back. This respect starts on the evaluation of your candidature, so diversity is accepted and welcome, celebrating the differences between individuals and believing that inclusion is critical to our success and growth as a global company.\n\nFrom where can I work in Aave?\nOur main headquarters are in London, UK, but we believe in remote working and look for candidates with a timezone close to Central European Time. Some members of our team are working in Switzerland and Russia (St. Petersburg), so if you are from one of those countries, you could also join them!",
+      "descriptionHtml": "<p>At Aave we are creating a money-market protocol on the Ethereum blockchain to enable depositors and borrowers to get interest from their crypto savings and to access capital.</p>\n\n<p>Currently, we are looking for a manual and automation QA engineer to help us to improve the quality and robustness of all the products around our protocol. If you are curious, you like a fast-moving blockchain startup environment and love to take ownership on the QA side of a project, Aave is probably the perfect place for you!</p>\n\n<p>Which technologies does Aave use?<br>\nOur stack is composed by:</p>\n\n<ul>\n<li>Solidity on the Ethereum smart contracts layer, managed by frameworks like Truffle and Buidler.</li>\n<li>Typescript on the backends, with usage of both REST and Graphql.</li>\n<li>Frontend based on React and Typescript.</li>\n<li>Docker to wrap on containers our applications.</li>\n</ul>\n\n<p>Which tecnologies do I need to know?<br>\nWe will like you to have experience with, but not limited to:</p>\n\n<ul>\n<li>Selenium.</li>\n<li>Jest or Mocha + Chai.</li>\n<li>Pupeeter\nIf you didn&#39;t work with some of those tecnologies, but you have experience with others covering the same needs, don&#39;t let stop you to apply!</li>\n</ul>\n\n<p>Other requirements?<br>\nFor this position, we also believe it&#39;s important to have:</p>\n\n<ul>\n<li>2+ years of experience testing applications, both manually and through automation.</li>\n<li>A good understanding of CI/CD pipelines and related tooling.</li>\n<li>Strong attention to details (we are dealing with money!).</li>\n<li>Good written and oral English. For most of us, English is not our native language, so we only need you to be able to communicate with the rest of the team fluidly.</li>\n</ul>\n\n<p>How is the company culture in Aave?<br>\nEven if it sounds a bit startup-cliché, in Aave every team member is a source of inspiration from where ideas are being formed all the time, with these ideas leading to new products and improvements in the current ones. In line with this, having a result-oriented work and good life balance is seen as fundamental for both the company and the employee to grow, this last one both personally and professionally.<br>\nYou will need to respect the rest of your colleagues and you will get their respect back. This respect starts on the evaluation of your candidature, so diversity is accepted and welcome, celebrating the differences between individuals and believing that inclusion is critical to our success and growth as a global company.</p>\n\n<p>From where can I work in Aave?<br>\nOur main headquarters are in London, UK, but we believe in remote working and look for candidates with a timezone close to Central European Time. Some members of our team are working in Switzerland and Russia (St. Petersburg), so if you are from one of those countries, you could also join them!</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£45k – £52k"
+      },
+      "recruiter": {
+        "title": "Head of Management, COO",
+        "role": "Employee",
+        "url": "https://angel.co/u/jordan-lazaro-gustave",
+        "name": "Jordan Lazaro Gustave",
+        "avatar": "https://photos.angel.co/users/6899973-medium_jpg?1504894102"
+      },
+      "refs": {
+        "angelListId": "737737",
+        "angelListUrl": "https://angel.co/company/aave/jobs/737737-"
+      }
+    }
+  ]
+}

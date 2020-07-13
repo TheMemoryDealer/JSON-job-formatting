@@ -1,0 +1,342 @@
+{
+  "name": "Unmade",
+  "avatar": "https://photos.angel.co/startups/i/530729-8e3689788eafff1bf1d5b3d974f355e0-medium_jpg.jpg?buster=1453126847",
+  "slogan": "Unmade is a global fashion software company driving innovation through customisation",
+  "description": "Unmade is a global fashion software company driving innovation through customisation and delivering an end-to-end digital solution for on-demand production at scale. Started by Hal Watts, Kirsty Emery-Laws and Ben Alun-Jones in 2014, the company was born out of a desire to reimagine both the design and manufacturing processes within the fashion industry, so brands only make what is actually sold, resulting in minimal waste. It then officially launched as Unmade in 2015, having previously been called Knyttan. \n",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.unmade.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/unmadeworks"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/UnmadeStudio"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://uk.linkedin.com/company/unmade-ltd"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Fashion",
+    "Software",
+    "Technology"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 3100000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1434585600,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/kirsty-emery",
+      "name": "Kirsty Emery",
+      "avatar": "https://photos.angel.co/users/1312874-medium_jpg?1435680104",
+      "bioHtml": "Co-Founder and Fashion Director at Knyttan"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/hal-watts",
+      "name": "Hal Watts",
+      "avatar": "https://photos.angel.co/users/853973-medium_jpg?1415570138",
+      "bioHtml": "Founder Knyttan • Studied at <a href=\"https://angel.co/imperial-college-london-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Imperial College London</span></a>, <a href=\"https://angel.co/the-royal-college-of-art\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">The Royal College of Art</span></a>"
+    },
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/ben-alun-jones",
+      "name": "Ben Alun-Jones",
+      "avatar": "https://photos.angel.co/users/729903-medium_jpg?1424643735",
+      "bioHtml": "Co-founder and Creative Director of Unmade. \nBringing technology and creativity closer together. "
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/samantha-maiden",
+      "name": "Samantha Maiden",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/ben-macgill-2",
+      "name": "Ben MacGill",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/gil-goncalves-1",
+      "name": "Gil Goncalves",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "530729",
+    "angelListUrl": "https://angel.co/company/unmade"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Backend Engineer",
+      "description": "We are a team of 30 people working across Engineering, Design & Product, Sales & Marketing, Customer Success, and Operations, and are based at Somerset House, one of London's most important and exciting cultural landmarks.\n\nWhat’s it like working at Unmade?\n\n- We are doing work we care about, and we are supportive of others to do the same.\n- We have fostered a culture of collaboration and we believe in exchanging information and learning from each other - no one is unapproachable, and everyone’s ideas matter.\n- We believe that potential is more important than experience, and hire accordingly. Don’t worry if you don’t have all the skills and experience we’re looking for today - apply anyway! In fact, many of our colleagues started here with little experience and learnt on the job.\n- We believe that what you build is just as important as how you build it, and that technology is just as much about people as it is about code. We are building a product where people with little to no technology experience can be involved in an element of the creative process, and are constantly thinking of ways to make it better and more seamless.\n- We strive to be transparent in everything we do, and share both our successes and failures with the rest of the team. As a result, we’re comfortable that even if things don’t always go as planned, we are always doing our best.\n\nAbout the role:\n\nWe’re building a SaaS product, and you will be building upon existing systems and help shape the architecture of the platform. Our technology stack covers everything from graphics programming and order processing and systems integrations to custom language compilers for industrial knitting machines.\n\nOur architecture consists of services and Django web applications. We use Django Admin to control the end-to-end flow of product creation, from allowing our customers to customise their designs, to getting the machines to print, knit, or embroider their fashion products, to sending the specs to factories, to finally delivering their finished product. It is a versatile and exciting role that will allow you to learn and to develop your skills further in an inclusive and supportive environment.\n\nIn the next 12 months you will be:\n\n- Supporting, maintaining, releasing and adding more features to our services and packages used in the backend of Unmade.\n- Reviewing your colleagues’ code to make sure what we are delivering is high quality.\n- Collaborating with our DevOps team and caring about how your code behaves in a production environment. Our infrastructure is CircleCI, Docker and AWS & ECS.\n- Collaborating with the Product team to make sure we’re delivering what our customers need.\n- Supporting our Customer Success team on the manufacturing end of our integrations.\n- Building internal tools to help scale other teams.\n- Learning about different clothing manufacturing methods e.g. machine knitting and sublimation printing.\n\nTo be successful in this role, you will need to have:\n\n- Experience building web applications\n- Good communication skills\n- An ability to work independently as well as within a team\n- A desire to contribute to an inclusive and positive working environment for everyone.\n\nNice to have (but not required):\n\nExperience with:\n\n-Python\n- Django\n- Docker\n- AWS (Amazon Web Services)\n- Logistics-related software\n- Node.js\n- React\n- TDD\n- Restful APIs\n\nIf you join Unmade:\n\nSalary: £40-60,000/annum + equity\nHoliday: 25 days + bank and public holidays\nPension: 5% (3% from you and 2% from Unmade)\nFlexible working hours\nKnowledge sharing and personal development\nConference and training budget\nFriday team lunches",
+      "descriptionHtml": "<p>We are a team of 30 people working across Engineering, Design &amp; Product, Sales &amp; Marketing, Customer Success, and Operations, and are based at Somerset House, one of London&#39;s most important and exciting cultural landmarks.</p>\n\n<p>What’s it like working at Unmade?</p>\n\n<ul>\n<li>We are doing work we care about, and we are supportive of others to do the same.</li>\n<li>We have fostered a culture of collaboration and we believe in exchanging information and learning from each other - no one is unapproachable, and everyone’s ideas matter.</li>\n<li>We believe that potential is more important than experience, and hire accordingly. Don’t worry if you don’t have all the skills and experience we’re looking for today - apply anyway! In fact, many of our colleagues started here with little experience and learnt on the job.</li>\n<li>We believe that what you build is just as important as how you build it, and that technology is just as much about people as it is about code. We are building a product where people with little to no technology experience can be involved in an element of the creative process, and are constantly thinking of ways to make it better and more seamless.</li>\n<li>We strive to be transparent in everything we do, and share both our successes and failures with the rest of the team. As a result, we’re comfortable that even if things don’t always go as planned, we are always doing our best.</li>\n</ul>\n\n<p>About the role:</p>\n\n<p>We’re building a SaaS product, and you will be building upon existing systems and help shape the architecture of the platform. Our technology stack covers everything from graphics programming and order processing and systems integrations to custom language compilers for industrial knitting machines.</p>\n\n<p>Our architecture consists of services and Django web applications. We use Django Admin to control the end-to-end flow of product creation, from allowing our customers to customise their designs, to getting the machines to print, knit, or embroider their fashion products, to sending the specs to factories, to finally delivering their finished product. It is a versatile and exciting role that will allow you to learn and to develop your skills further in an inclusive and supportive environment.</p>\n\n<p>In the next 12 months you will be:</p>\n\n<ul>\n<li>Supporting, maintaining, releasing and adding more features to our services and packages used in the backend of Unmade.</li>\n<li>Reviewing your colleagues’ code to make sure what we are delivering is high quality.</li>\n<li>Collaborating with our DevOps team and caring about how your code behaves in a production environment. Our infrastructure is CircleCI, Docker and AWS &amp; ECS.</li>\n<li>Collaborating with the Product team to make sure we’re delivering what our customers need.</li>\n<li>Supporting our Customer Success team on the manufacturing end of our integrations.</li>\n<li>Building internal tools to help scale other teams.</li>\n<li>Learning about different clothing manufacturing methods e.g. machine knitting and sublimation printing.</li>\n</ul>\n\n<p>To be successful in this role, you will need to have:</p>\n\n<ul>\n<li>Experience building web applications</li>\n<li>Good communication skills</li>\n<li>An ability to work independently as well as within a team</li>\n<li>A desire to contribute to an inclusive and positive working environment for everyone.</li>\n</ul>\n\n<p>Nice to have (but not required):</p>\n\n<p>Experience with:</p>\n\n<p>-Python</p>\n\n<ul>\n<li>Django</li>\n<li>Docker</li>\n<li>AWS (Amazon Web Services)</li>\n<li>Logistics-related software</li>\n<li>Node.js</li>\n<li>React</li>\n<li>TDD</li>\n<li>Restful APIs</li>\n</ul>\n\n<p>If you join Unmade:</p>\n\n<p>Salary: £40-60,000/annum + equity<br>\nHoliday: 25 days + bank and public holidays<br>\nPension: 5% (3% from you and 2% from Unmade)<br>\nFlexible working hours<br>\nKnowledge sharing and personal development<br>\nConference and training budget<br>\nFriday team lunches</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Django"
+      ],
+      "payment": {
+        "salary": "£40k – £55k",
+        "equity": "0.001% – 0.01%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/diana-pavel-2",
+        "name": "Diana Pavel",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "500311",
+        "angelListUrl": "https://angel.co/company/unmade/jobs/500311-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Frontend Engineer",
+      "description": "Unmade is a global fashion software company driving innovation through customisation and delivering an end-to-end digital solution for on-demand production at scale. Started by Hal Watts, Kirsty Emery-Laws and Ben Alun-Jones in 2014, the company was born out of a desire to reimagine both the design and manufacturing processes within the fashion industry, so brands only make what is actually sold, resulting in minimal waste. It then officially launched as Unmade in 2015, having previously been called Knyttan. \n\nWe were nominated for the LVMH Innovation Award at VivaTech in Paris, and in 2017, we won the Best Use of Innovation at the Drapers Digital Awards in London. \n\nFurthermore, Unmade was most recently named as one of the 100 best creatively led businesses in the UK by The Creative Industry Council, and in May 2018, it completed the Lafayette Plug and Play program as part of the renowned Plug and Play innovation accelerator. Pieces from Unmade are now a part of the permanent collections at both the The Museum of Modern Art in New York and the Victoria & Albert Museum in London.\n\nWe work with 4 out of the 25 largest groups in the fashion industry, and in addition we have clients like Farfetch, Opening Ceremony, Christopher Raeburn, Rapha, Moniker, and others, which work with us to give their customers the option to customise the products they want. \n\nWe are a team of 30 people working across Engineering, Design & Product, Sales & Marketing, Customer Success, and Operations, and are based at Somerset House, one of London's most important and exciting cultural landmarks.\n\nWhat’s it like working at Unmade?\n\n- We are doing work we care about, and we are supportive of others to do the same.\n- We have fostered a culture of collaboration and we believe in exchanging information and learning from each other - no one is unapproachable, and everyone’s ideas matter. \n- We believe that potential is more important than experience, and hire accordingly. Don’t worry if you don’t have all the skills and experience we’re looking for today - apply anyway! In fact, many of our colleagues started here with little experience and learnt on the job. \n- We believe that what you build is just as important as how you build it, and that technology is just as much about people as it is about code. We are building a product where people with little to no technology experience can be involved in an element of the creative process, and are constantly thinking of ways to make it better and more seamless.\n- We strive to be transparent in everything we do, and share both our successes and failures with the rest of the team. As a result, we’re comfortable that even if things don’t always go as planned, we are always doing our best.\n\n\nAbout the role:\n\nWe’re building a SaaS product, and you will be building upon existing systems and help shape the architecture of the platform. Our technology stack covers everything from dynamic UIs, graphics programs and order processing, to custom language compilers for industrial knitting machines.\n\nOur UIs enable consumers to customise physical garments via their browser. This means building and maintaining rich interactive UIs, modelling garment customisation in data, and aspects of 2D & 3D graphics. It is a versatile and exciting role that will allow you to learn and to develop your skills further in an inclusive and supportive environment.\n\nTo be successful in this role, you will need to have:\n\n- Experience writing modern Javascript\n- Exposure to building web UIs (perhaps by using a library or framework)\n- An eagerness to learn\n- Empathy in your communication\n- A desire to contribute to an inclusive and positive working environment for everyone\n\nNice to have (but not required):\n\nExperience with:\n- React/Vue\n- Testing\n- Web/Browser performance\n- Accessibility\n- Node.js",
+      "descriptionHtml": "<p>Unmade is a global fashion software company driving innovation through customisation and delivering an end-to-end digital solution for on-demand production at scale. Started by Hal Watts, Kirsty Emery-Laws and Ben Alun-Jones in 2014, the company was born out of a desire to reimagine both the design and manufacturing processes within the fashion industry, so brands only make what is actually sold, resulting in minimal waste. It then officially launched as Unmade in 2015, having previously been called Knyttan. </p>\n\n<p>We were nominated for the LVMH Innovation Award at VivaTech in Paris, and in 2017, we won the Best Use of Innovation at the Drapers Digital Awards in London. </p>\n\n<p>Furthermore, Unmade was most recently named as one of the 100 best creatively led businesses in the UK by The Creative Industry Council, and in May 2018, it completed the Lafayette Plug and Play program as part of the renowned Plug and Play innovation accelerator. Pieces from Unmade are now a part of the permanent collections at both the The Museum of Modern Art in New York and the Victoria &amp; Albert Museum in London.</p>\n\n<p>We work with 4 out of the 25 largest groups in the fashion industry, and in addition we have clients like Farfetch, Opening Ceremony, Christopher Raeburn, Rapha, Moniker, and others, which work with us to give their customers the option to customise the products they want. </p>\n\n<p>We are a team of 30 people working across Engineering, Design &amp; Product, Sales &amp; Marketing, Customer Success, and Operations, and are based at Somerset House, one of London&#39;s most important and exciting cultural landmarks.</p>\n\n<p>What’s it like working at Unmade?</p>\n\n<ul>\n<li>We are doing work we care about, and we are supportive of others to do the same.</li>\n<li>We have fostered a culture of collaboration and we believe in exchanging information and learning from each other - no one is unapproachable, and everyone’s ideas matter. </li>\n<li>We believe that potential is more important than experience, and hire accordingly. Don’t worry if you don’t have all the skills and experience we’re looking for today - apply anyway! In fact, many of our colleagues started here with little experience and learnt on the job. </li>\n<li>We believe that what you build is just as important as how you build it, and that technology is just as much about people as it is about code. We are building a product where people with little to no technology experience can be involved in an element of the creative process, and are constantly thinking of ways to make it better and more seamless.</li>\n<li>We strive to be transparent in everything we do, and share both our successes and failures with the rest of the team. As a result, we’re comfortable that even if things don’t always go as planned, we are always doing our best.</li>\n</ul>\n\n<p>About the role:</p>\n\n<p>We’re building a SaaS product, and you will be building upon existing systems and help shape the architecture of the platform. Our technology stack covers everything from dynamic UIs, graphics programs and order processing, to custom language compilers for industrial knitting machines.</p>\n\n<p>Our UIs enable consumers to customise physical garments via their browser. This means building and maintaining rich interactive UIs, modelling garment customisation in data, and aspects of 2D &amp; 3D graphics. It is a versatile and exciting role that will allow you to learn and to develop your skills further in an inclusive and supportive environment.</p>\n\n<p>To be successful in this role, you will need to have:</p>\n\n<ul>\n<li>Experience writing modern Javascript</li>\n<li>Exposure to building web UIs (perhaps by using a library or framework)</li>\n<li>An eagerness to learn</li>\n<li>Empathy in your communication</li>\n<li>A desire to contribute to an inclusive and positive working environment for everyone</li>\n</ul>\n\n<p>Nice to have (but not required):</p>\n\n<p>Experience with:</p>\n\n<ul>\n<li>React/Vue</li>\n<li>Testing</li>\n<li>Web/Browser performance</li>\n<li>Accessibility</li>\n<li>Node.js</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "UI/UX Design"
+      ],
+      "payment": {
+        "salary": "£35k – £45k",
+        "equity": "0.001% – 0.02%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/diana-pavel-2",
+        "name": "Diana Pavel",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "452171",
+        "angelListUrl": "https://angel.co/company/unmade/jobs/452171-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Sales Manager (Europe)",
+      "description": "Responsibilities:\n\nBuilding account plans and identifying winning strategies for target customers; \n\nProspecting for new customers to create a strong pipeline of prospects;  \n\nPositioning Unmade as a key partner and establishing long-term relationships with target customers;  \n\nMeet and exceed sales objectives; \n\nContribute to company growth.\n\n\nExperience and skills: \n\n2-5 years proven experience as Sales Manager in a similar context: digital/tech solution; a complex end to end process to address and consultative selling approach.\n\nHigh customer relationship skills.\n\nResults orientated and target driven - you’re comfortable working with team sales targets and able to drive forwards sales deals.  \n\nAbility to implement creative sales approaches and work collaboratively with Technical Sales Consultant and Product team members.  \n\nClear and effective communication skills, with the ability to build rapport with people at all levels.\n\nEntrepreneurial, tenacious and self-motivated.\n\nDesire to work in a fast-paced, results-oriented, dynamic environment.\n\nStrong understanding of and passion for the fashion landscape and fashion industry\n\nFrequent travels across Europe and in the US.",
+      "descriptionHtml": "<p>Responsibilities:</p>\n\n<p>Building account plans and identifying winning strategies for target customers; </p>\n\n<p>Prospecting for new customers to create a strong pipeline of prospects;  </p>\n\n<p>Positioning Unmade as a key partner and establishing long-term relationships with target customers;  </p>\n\n<p>Meet and exceed sales objectives; </p>\n\n<p>Contribute to company growth.</p>\n\n<p>Experience and skills: </p>\n\n<p>2-5 years proven experience as Sales Manager in a similar context: digital/tech solution; a complex end to end process to address and consultative selling approach.</p>\n\n<p>High customer relationship skills.</p>\n\n<p>Results orientated and target driven - you’re comfortable working with team sales targets and able to drive forwards sales deals.  </p>\n\n<p>Ability to implement creative sales approaches and work collaboratively with Technical Sales Consultant and Product team members.  </p>\n\n<p>Clear and effective communication skills, with the ability to build rapport with people at all levels.</p>\n\n<p>Entrepreneurial, tenacious and self-motivated.</p>\n\n<p>Desire to work in a fast-paced, results-oriented, dynamic environment.</p>\n\n<p>Strong understanding of and passion for the fashion landscape and fashion industry</p>\n\n<p>Frequent travels across Europe and in the US.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Customer Relationship Management",
+        "Strategic Partnerships",
+        "Consultative Sales",
+        "Prospecting and Cold Calling"
+      ],
+      "payment": {
+        "salary": "£40k – £55k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/ben-macgill-2",
+        "name": "Ben MacGill",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "565442",
+        "angelListUrl": "https://angel.co/company/unmade/jobs/565442-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Backend Engineer",
+      "description": "What’s it like working at Unmade?\n\n- We are doing work we care about, and we are supportive of others to do the same.\n- We have fostered a culture of collaboration and we believe in exchanging information and learning from each other - no one is unapproachable, and everyone’s ideas matter.\n- We believe that potential is more important than experience, and hire accordingly. Don’t worry if you don’t have all the skills and experience we’re looking for today - apply anyway! In fact, many of our colleagues started here with little experience and learnt on the job.\n- We believe that what you build is just as important as how you build it, and that technology is just as much about people as it is about code. We are building a product where people with little to no technology experience can be involved in an element of the creative process, and are constantly thinking of ways to make it better and more seamless.\n- We strive to be transparent in everything we do, and share both our successes and failures with the rest of the team. As a result, we’re comfortable that even if things don’t always go as planned, we are always doing our best.\n\nAbout the role:\n\nWe’re building a SaaS (Software as a Service) product, and you will be building upon existing systems and help shape the architecture of the platform. Our technology stack covers everything from graphics programming and order processing and systems integration to custom language compilers for industrial knitting machines.\n\nOur architecture consists of services and Django web applications. We use Django Admin to control the end-to-end flow of product creation, from allowing our customers to customise their designs, to getting the machines to print or knit their fashion products, to sending the specs to factories, to finally delivering their finished product. It is a versatile and exciting role that will allow you to learn and to develop your skills further in an inclusive and supportive environment.\n\nIn the next 12 months you will be:\n\n- Leading efforts in developing, maintaining and improving our existing backend systems.\n- Working with our Site Reliability Engineer to improve how we ship our code and scale, maintain and monitor it in production.\n- Collaborating the Product & Design team to make sure we're delivering what our customers need.\n- Learning about different clothing manufacturing methods e.g. machine knitting and sublimation printing.\n- Playing a prominent role in the team’s effort to devise and implement solutions to the problems we are trying to solve for us and for our customers.\n- Advocating for changes to our systems, where needed, by creating proposals that convey the value of such changes, and formulating plans to deliver them with minimal disruption.\n- Mentoring and teaching other Engineers in the team.\n- Leading architectural changes to our codebase.\n\nTo be successful in this role, you will need to have:\n\n- Experience of developing the skills of other engineers\n- Experience of working in an agile environment with close collaboration with stakeholders.\n- Professional experience programming in an OOP language.\n- Experience working with Web Applications.\n- Experience working with Operations (e.g. CI, AWS, Docker).\n\nNice to have (but not required):\n\nExperience with:\n\n- Python\n- Django\n- TDD\n- Restful APIs\n- Docker\n- AWS (Amazon Web Services)\n- Node.js\n- React\n\nIf you join Unmade:\n\n- Salary: £60-80,000/annum + equity\n- Holiday: 25 days + bank and public holidays\n- Pension: 5% (3% from you and 2% from Unmade)\n- Flexible working hours\n- Knowledge sharing and personal development\n- Conference and training budget\n- Friday team lunches",
+      "descriptionHtml": "<p>What’s it like working at Unmade?</p>\n\n<ul>\n<li>We are doing work we care about, and we are supportive of others to do the same.</li>\n<li>We have fostered a culture of collaboration and we believe in exchanging information and learning from each other - no one is unapproachable, and everyone’s ideas matter.</li>\n<li>We believe that potential is more important than experience, and hire accordingly. Don’t worry if you don’t have all the skills and experience we’re looking for today - apply anyway! In fact, many of our colleagues started here with little experience and learnt on the job.</li>\n<li>We believe that what you build is just as important as how you build it, and that technology is just as much about people as it is about code. We are building a product where people with little to no technology experience can be involved in an element of the creative process, and are constantly thinking of ways to make it better and more seamless.</li>\n<li>We strive to be transparent in everything we do, and share both our successes and failures with the rest of the team. As a result, we’re comfortable that even if things don’t always go as planned, we are always doing our best.</li>\n</ul>\n\n<p>About the role:</p>\n\n<p>We’re building a SaaS (Software as a Service) product, and you will be building upon existing systems and help shape the architecture of the platform. Our technology stack covers everything from graphics programming and order processing and systems integration to custom language compilers for industrial knitting machines.</p>\n\n<p>Our architecture consists of services and Django web applications. We use Django Admin to control the end-to-end flow of product creation, from allowing our customers to customise their designs, to getting the machines to print or knit their fashion products, to sending the specs to factories, to finally delivering their finished product. It is a versatile and exciting role that will allow you to learn and to develop your skills further in an inclusive and supportive environment.</p>\n\n<p>In the next 12 months you will be:</p>\n\n<ul>\n<li>Leading efforts in developing, maintaining and improving our existing backend systems.</li>\n<li>Working with our Site Reliability Engineer to improve how we ship our code and scale, maintain and monitor it in production.</li>\n<li>Collaborating the Product &amp; Design team to make sure we&#39;re delivering what our customers need.</li>\n<li>Learning about different clothing manufacturing methods e.g. machine knitting and sublimation printing.</li>\n<li>Playing a prominent role in the team’s effort to devise and implement solutions to the problems we are trying to solve for us and for our customers.</li>\n<li>Advocating for changes to our systems, where needed, by creating proposals that convey the value of such changes, and formulating plans to deliver them with minimal disruption.</li>\n<li>Mentoring and teaching other Engineers in the team.</li>\n<li>Leading architectural changes to our codebase.</li>\n</ul>\n\n<p>To be successful in this role, you will need to have:</p>\n\n<ul>\n<li>Experience of developing the skills of other engineers</li>\n<li>Experience of working in an agile environment with close collaboration with stakeholders.</li>\n<li>Professional experience programming in an OOP language.</li>\n<li>Experience working with Web Applications.</li>\n<li>Experience working with Operations (e.g. CI, AWS, Docker).</li>\n</ul>\n\n<p>Nice to have (but not required):</p>\n\n<p>Experience with:</p>\n\n<ul>\n<li>Python</li>\n<li>Django</li>\n<li>TDD</li>\n<li>Restful APIs</li>\n<li>Docker</li>\n<li>AWS (Amazon Web Services)</li>\n<li>Node.js</li>\n<li>React</li>\n</ul>\n\n<p>If you join Unmade:</p>\n\n<ul>\n<li>Salary: £60-80,000/annum + equity</li>\n<li>Holiday: 25 days + bank and public holidays</li>\n<li>Pension: 5% (3% from you and 2% from Unmade)</li>\n<li>Flexible working hours</li>\n<li>Knowledge sharing and personal development</li>\n<li>Conference and training budget</li>\n<li>Friday team lunches</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "PHP",
+        "Java",
+        "OOP",
+        "Ruby on Rails"
+      ],
+      "payment": {
+        "salary": "£60k – £80k",
+        "equity": "0.01% – 0.1%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/diana-pavel-2",
+        "name": "Diana Pavel",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "525851",
+        "angelListUrl": "https://angel.co/company/unmade/jobs/525851-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "Senior Product Designer (Digital)",
+      "description": "As our Senior Product Designer, you’ll help create the tools that are transforming an industry, and work as part of highly motivated cross-functional teams to deliver them. Reporting to our CPO, you’ll help us with the following:\n\nHands-on involvement at every stage from initial requirements gathering, exploratory user research, paper sketches & user testing to UX specification and UI detailing. \n\nTranslation of insights and requirements into clear wireframe mock-ups or prototypes that can both be tested, or act as a specification for development.  \nUnderstanding of constraints and work in an evidence-based way to come to one or more clear solutions that begin to address the challenge. \n\nCommunication of complex concepts (verbally or orally) to a broad audience who may have no context of the work previously \n\nSharing work often and early, managing user research or user testing to validate further, and active in seeking feedback where possible from the rest of the team.  \n\nAdvocating for the power of design; able to communicate the rationale for, and to coach towards, the best possible design outcome.  ",
+      "descriptionHtml": "<p>As our Senior Product Designer, you’ll help create the tools that are transforming an industry, and work as part of highly motivated cross-functional teams to deliver them. Reporting to our CPO, you’ll help us with the following:</p>\n\n<p>Hands-on involvement at every stage from initial requirements gathering, exploratory user research, paper sketches &amp; user testing to UX specification and UI detailing. </p>\n\n<p>Translation of insights and requirements into clear wireframe mock-ups or prototypes that can both be tested, or act as a specification for development.  <br>\nUnderstanding of constraints and work in an evidence-based way to come to one or more clear solutions that begin to address the challenge. </p>\n\n<p>Communication of complex concepts (verbally or orally) to a broad audience who may have no context of the work previously </p>\n\n<p>Sharing work often and early, managing user research or user testing to validate further, and active in seeking feedback where possible from the rest of the team.  </p>\n\n<p>Advocating for the power of design; able to communicate the rationale for, and to coach towards, the best possible design outcome.  </p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Product Development",
+        "User Research",
+        "UI/UX Design",
+        "Prototyping"
+      ],
+      "payment": {
+        "salary": "£55k – £80k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/ben-macgill-2",
+        "name": "Ben MacGill",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "565433",
+        "angelListUrl": "https://angel.co/company/unmade/jobs/565433-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Site Reliability Engineer",
+      "description": "What’s it like working at Unmade?\n\n- We are doing work we care about, and we are supportive of others to do the same.\n- We have fostered a culture of collaboration and we believe in exchanging information and learning from each other - no one is unapproachable, and everyone’s ideas matter.\n- We believe that potential is more important than experience, and hire accordingly. Don’t worry if you don’t have all the skills and experience we’re looking for today - apply anyway! In fact, many of our colleagues started here with little experience and learnt on the job.\n- We believe that what you build is just as important as how you build it, and that technology is just as much about people as it is about code. We are building a product where people with little to no technology experience can be involved in an element of the creative process, and are constantly thinking of ways to make it better and more seamless.\n- We strive to be transparent in everything we do, and share both our successes and failures with the rest of the team. As a result, we’re comfortable that even if things don’t always go as planned, we are always doing our best.\n\nAbout the role:\n\nWe are looking for a Senior Site Reliability Engineer to join our talented and welcoming engineering team. You will be the sole SRE at Unmade and will work alongside our Backend and Frontend teams. You will care about what good looks like and how that empowers the development team. You need to be able to navigate the trade-offs of time constraints and team requirements. It is vital you are comfortable discussing your ideas with those around you, we believe that done is better than perfect.\n\nOur infrastructure is managed with Terraform and is run on AWS with ECS (Elastic Container Service), which comes with specific scaling and security challenges that will need solving. There is room to learn about current best practices and apply that. We know what direction we want to go in, we'll need your help getting there.\n\nWe practice Continuous Deployment and use CircleCI to run our tests and then deploy Docker containers with our Python and JavaScript applications to production. We share out of hours on call responsibilities across the engineering team and have had no out of hours call outs in the last 6 months.\n\nYou will be responsible for:\n\n- Being the expert on our infrastructure, and continuing to learn and share your knowledge and skills with the rest of the engineering team to empower them to be responsible for their code when it is running in production.\n- Working with the rest of the engineering team to understand where improvements to our tools and processes can be made and then implementing changes as a result to make running our live infrastructure as smooth and as painless as possible.\n- Setting our strategy and plans for our infrastructure.\n\nIn the next 12 months you will be:\n\n- Simplifying our current infrastructure to make it as easy as possible to understand, maintain and grow.\n- Increasing the level of automation of changes to our infrastructure to minimise the time and effort spent on routine tasks.\n- Improving our tooling to make it as easy as possible for engineers to set up, test, deploy and monitor our applications.\n- Coaching, mentoring and training members of the engineering team to build up their skills and empowering them to take as much responsibility for our infrastructure as is possible.\n- Helping improve our approaches to the security of our infrastructure to ensure that we are applying reasonable practices.\n- Helping to keep our infrastructure as reliable as it currently is, so that we can maintain our exemplary record of keeping out of hours call outs a very rare occurrence even as we scale up our operations.\n- Helping to control the costs of our infrastructure by guiding us to make the most effective use or what we currently use.\n\nRequirements:\n\n- Professional experience managing infrastructure using Linux for web applications in the cloud.\n- Proven ability to write and maintain code to manage infrastructure.\n- Good communication and mentoring skills to enable you to share your knowledge with the wider team.\n- Ability to use your judgement and knowledge to identify options to improve our systems and make recommendations which explain the value of such changes and communicates their risk and/or impact.\n- Previous experience with managing infrastructure on AWS.\n- Familiarity with administrating Linux systems.\n- Experience coding with a scripting language.\n\nNice to have (but not required):\n\n- Previous experience with Terraform.\n- Previous experience writing code in Python.\n- Previous experience with Docker.\n\nIf you join Unmade:\n\n- Salary: £60-80,000/annum + equity\n- Holiday: 25 days + bank and public holidays\n- Pension: 5% (3% from you and 2% from Unmade)\n- Flexible working hours\n- Knowledge sharing and personal development\n- Conference and training budget\n- Friday team lunches\n\n\nNo recruitment agencies please.",
+      "descriptionHtml": "<p>What’s it like working at Unmade?</p>\n\n<ul>\n<li>We are doing work we care about, and we are supportive of others to do the same.</li>\n<li>We have fostered a culture of collaboration and we believe in exchanging information and learning from each other - no one is unapproachable, and everyone’s ideas matter.</li>\n<li>We believe that potential is more important than experience, and hire accordingly. Don’t worry if you don’t have all the skills and experience we’re looking for today - apply anyway! In fact, many of our colleagues started here with little experience and learnt on the job.</li>\n<li>We believe that what you build is just as important as how you build it, and that technology is just as much about people as it is about code. We are building a product where people with little to no technology experience can be involved in an element of the creative process, and are constantly thinking of ways to make it better and more seamless.</li>\n<li>We strive to be transparent in everything we do, and share both our successes and failures with the rest of the team. As a result, we’re comfortable that even if things don’t always go as planned, we are always doing our best.</li>\n</ul>\n\n<p>About the role:</p>\n\n<p>We are looking for a Senior Site Reliability Engineer to join our talented and welcoming engineering team. You will be the sole SRE at Unmade and will work alongside our Backend and Frontend teams. You will care about what good looks like and how that empowers the development team. You need to be able to navigate the trade-offs of time constraints and team requirements. It is vital you are comfortable discussing your ideas with those around you, we believe that done is better than perfect.</p>\n\n<p>Our infrastructure is managed with Terraform and is run on AWS with ECS (Elastic Container Service), which comes with specific scaling and security challenges that will need solving. There is room to learn about current best practices and apply that. We know what direction we want to go in, we&#39;ll need your help getting there.</p>\n\n<p>We practice Continuous Deployment and use CircleCI to run our tests and then deploy Docker containers with our Python and JavaScript applications to production. We share out of hours on call responsibilities across the engineering team and have had no out of hours call outs in the last 6 months.</p>\n\n<p>You will be responsible for:</p>\n\n<ul>\n<li>Being the expert on our infrastructure, and continuing to learn and share your knowledge and skills with the rest of the engineering team to empower them to be responsible for their code when it is running in production.</li>\n<li>Working with the rest of the engineering team to understand where improvements to our tools and processes can be made and then implementing changes as a result to make running our live infrastructure as smooth and as painless as possible.</li>\n<li>Setting our strategy and plans for our infrastructure.</li>\n</ul>\n\n<p>In the next 12 months you will be:</p>\n\n<ul>\n<li>Simplifying our current infrastructure to make it as easy as possible to understand, maintain and grow.</li>\n<li>Increasing the level of automation of changes to our infrastructure to minimise the time and effort spent on routine tasks.</li>\n<li>Improving our tooling to make it as easy as possible for engineers to set up, test, deploy and monitor our applications.</li>\n<li>Coaching, mentoring and training members of the engineering team to build up their skills and empowering them to take as much responsibility for our infrastructure as is possible.</li>\n<li>Helping improve our approaches to the security of our infrastructure to ensure that we are applying reasonable practices.</li>\n<li>Helping to keep our infrastructure as reliable as it currently is, so that we can maintain our exemplary record of keeping out of hours call outs a very rare occurrence even as we scale up our operations.</li>\n<li>Helping to control the costs of our infrastructure by guiding us to make the most effective use or what we currently use.</li>\n</ul>\n\n<p>Requirements:</p>\n\n<ul>\n<li>Professional experience managing infrastructure using Linux for web applications in the cloud.</li>\n<li>Proven ability to write and maintain code to manage infrastructure.</li>\n<li>Good communication and mentoring skills to enable you to share your knowledge with the wider team.</li>\n<li>Ability to use your judgement and knowledge to identify options to improve our systems and make recommendations which explain the value of such changes and communicates their risk and/or impact.</li>\n<li>Previous experience with managing infrastructure on AWS.</li>\n<li>Familiarity with administrating Linux systems.</li>\n<li>Experience coding with a scripting language.</li>\n</ul>\n\n<p>Nice to have (but not required):</p>\n\n<ul>\n<li>Previous experience with Terraform.</li>\n<li>Previous experience writing code in Python.</li>\n<li>Previous experience with Docker.</li>\n</ul>\n\n<p>If you join Unmade:</p>\n\n<ul>\n<li>Salary: £60-80,000/annum + equity</li>\n<li>Holiday: 25 days + bank and public holidays</li>\n<li>Pension: 5% (3% from you and 2% from Unmade)</li>\n<li>Flexible working hours</li>\n<li>Knowledge sharing and personal development</li>\n<li>Conference and training budget</li>\n<li>Friday team lunches</li>\n</ul>\n\n<p>No recruitment agencies please.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£60k – £80k",
+        "equity": "0.01% – 0.1%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/diana-pavel-2",
+        "name": "Diana Pavel",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "525763",
+        "angelListUrl": "https://angel.co/company/unmade/jobs/525763-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Technical Sales Consultant",
+      "description": "Responsibilities: \n\nOur Technical Sales Consultant will focus on providing technical expertise to prospective customers and showing off Unmade’s capabilities to the full.\n\nBecoming an expert in Unmade’s solution, it's business benefits and technical implementation; \n\nDemonstrating Unmade’s solution to prospective customers and showing off its capabilities to the full;  \n\nGathering and synthesizing requirements from prospective customers; \n\nDrawing on your knowledge of Unmade’s solution to develop compelling propositions for prospective customers about how they might use our technology; \n\nPreparing response documentation for RFI/RFP requests and Statement of Works; \n\nHelping develop sales materials which can be used by all members of the sales team.\n\n\nExperience and Skills: \n\n2-5 years experience of technology sales/ business development using a consultative approach; or business consulting experience in a technology context; Previous experience of enterprise sales for the fashion industry is a bonus. \n\nResults orientated and target driven - you’re comfortable working with team sales targets and able to drive forwards sales deals.  \n\nExcellent written and spoken presentation skills, You’re able to build a rapport with internal stakeholders across different business functions and levels and prepare written materials for different audiences/contexts.  \n\nDetail-orientated with good technical understanding - you’re comfortable speaking to and writing for technical and non-technical audiences with an appropriate level of detail.\n\nCurious and collaborative - you’re excited to work with Unmade’s Product and Customer Success teams to learn more about Unmade’s solution and implementation and share that with others.  \n\nFlexible, self motivated and entrepreneurial - you actively enjoy working in a fast-changing environment with a software product that is evolving. \n\nStrong understanding of and passion for the fashion landscape and fashion industry.\n\nNB: We work with a global customer base so some international travel is required for this role.",
+      "descriptionHtml": "<p>Responsibilities: </p>\n\n<p>Our Technical Sales Consultant will focus on providing technical expertise to prospective customers and showing off Unmade’s capabilities to the full.</p>\n\n<p>Becoming an expert in Unmade’s solution, it&#39;s business benefits and technical implementation; </p>\n\n<p>Demonstrating Unmade’s solution to prospective customers and showing off its capabilities to the full;  </p>\n\n<p>Gathering and synthesizing requirements from prospective customers; </p>\n\n<p>Drawing on your knowledge of Unmade’s solution to develop compelling propositions for prospective customers about how they might use our technology; </p>\n\n<p>Preparing response documentation for RFI/RFP requests and Statement of Works; </p>\n\n<p>Helping develop sales materials which can be used by all members of the sales team.</p>\n\n<p>Experience and Skills: </p>\n\n<p>2-5 years experience of technology sales/ business development using a consultative approach; or business consulting experience in a technology context; Previous experience of enterprise sales for the fashion industry is a bonus. </p>\n\n<p>Results orientated and target driven - you’re comfortable working with team sales targets and able to drive forwards sales deals.  </p>\n\n<p>Excellent written and spoken presentation skills, You’re able to build a rapport with internal stakeholders across different business functions and levels and prepare written materials for different audiences/contexts.  </p>\n\n<p>Detail-orientated with good technical understanding - you’re comfortable speaking to and writing for technical and non-technical audiences with an appropriate level of detail.</p>\n\n<p>Curious and collaborative - you’re excited to work with Unmade’s Product and Customer Success teams to learn more about Unmade’s solution and implementation and share that with others.  </p>\n\n<p>Flexible, self motivated and entrepreneurial - you actively enjoy working in a fast-changing environment with a software product that is evolving. </p>\n\n<p>Strong understanding of and passion for the fashion landscape and fashion industry.</p>\n\n<p>NB: We work with a global customer base so some international travel is required for this role.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "SaaS",
+        "Fashion",
+        "Enterprise Sales",
+        "Consultative Sales"
+      ],
+      "payment": {
+        "salary": "£40k – £55k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/ben-macgill-2",
+        "name": "Ben MacGill",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "565439",
+        "angelListUrl": "https://angel.co/company/unmade/jobs/565439-"
+      }
+    }
+  ]
+}

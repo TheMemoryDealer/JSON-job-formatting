@@ -1,0 +1,204 @@
+{
+  "name": "Feebris",
+  "avatar": "https://photos.angel.co/startups/i/6974575-b03b5995e415b6982cc38625350d4ae4-medium_jpg.jpg?buster=1559151520",
+  "slogan": "AI for respiratory disease diagnosis",
+  "description": "Feebris builds machine learning algorithms for precision detection of complex respiratory conditions in the field. Diagnosing these conditions typically requires an experienced pulmonologist, blood tests and imaging, but Feebris’ software platform connects to existing medical sensors, and can be used intuitively by non-doctor users, outside the clinic, to detect respiratory issues early and avoid complications and hospitalisations. \n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://feebris.com/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Healthcare",
+    "Digital Health",
+    "Machine Learning",
+    "Health Care Information Technology"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/elina-naydenova-1",
+      "name": "Elina Naydenova",
+      "avatar": "https://photos.angel.co/users/9447894-medium_jpg?1559151012",
+      "bioHtml": "CEO/Co-founder <a href=\"https://angel.co/company/feebris-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Feebris</span></a> "
+    },
+    {
+      "title": "COO",
+      "role": "Founder",
+      "url": "https://angel.co/u/adam-bacon",
+      "name": "Adam Bacon",
+      "avatar": "https://photos.angel.co/users/9447441-medium_jpg?1559147795",
+      "bioHtml": "COO/Co-founder  <a href=\"https://angel.co/company/feebris-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Feebris</span></a> "
+    },
+    {
+      "title": "Operations Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/jamie-cartland-1",
+      "name": "Jamie Cartland",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at Feebris"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/sebastian-durandeu-1",
+      "name": "Sebastian Durandeu",
+      "avatar": "https://photos.angel.co/users/9920179-medium_jpg?1567071200",
+      "bioHtml": "Software Engineering Lead at Feebris. Building AI to improve health care access."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6974575",
+    "angelListUrl": "https://angel.co/company/feebris-1"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Mid-Senior Machine Learning Engineer",
+      "description": "ABOUT FEEBRIS\nWe build intuitive, mobile-based software, powered by AI, so that non-medical users can precisely detect and monitor complex diseases, using the latest medical sensors. Our mobile app connects to off-the-shelf IOT medical sensors, and intuitively guides the users through a medical examination. Machine Learning and AI supports the user to capture high quality signals and make better health decisions for the patient.  Our web app enables doctors to remotely review patient data to provide diagnoses and treatment. \n\nOur mission is to prevent hospitalisations and suffering from conditions that could have been prevented or treated at home. We believe that no one should die or suffer from treatable conditions. And yet, every year nearly 1 million children around the world die from pneumonia (a treatable disease). But this is just the tip of the iceberg; the world over (even in the UK), our children and elderly often do not get the care they need until it is too late.\n\nWe currently provide our SaaS platform to organisations that provide health and social care to elderly in the UK, and children in India. Our app is live right now, being used by healthcare workers in Indian slums to help 4,000 young children. We’ve won awards for our disruptive technology (UKBAA, Children’s Prize), our founder is an internationally renowned speaker on AI in healthcare , and earlier this year we raised a £1.1m seed round.\n\nTHE ROLE\nIf you love harnessing the power of AI to solve complex challenges, this role is for you. You’ll develop machine learning algorithms that can operate with limited connectivity in remote locations, supporting low-skilled healthcare workers to diagnose complex diseases. You will work with noisy data generated from physiological signals, extracting meaningful information on patients’ health to ultimately improve their outcomes. You will be at the core of a dynamic and multidisciplinary product team including machine learning engineers, clinicians and software engineers. Together, we will push the boundaries of what’s technologically possible to make better healthcare a reality for millions of people.\n\nESSENTIAL\n•\tExcellent communication in English, both written and verbal; ability to easily explain complex topics in a way that anyone can understand\n•\tAbility to come up with creative and robust technical solutions\n•\tBSc or higher in a scientific subject area\n•\tExperience developing algorithms in python using relevant libraries such as numpy, pandas, sklearn, keras, & tensorflow\n•\tExperience with a range of machine learning (random forests, SVMs etc) and deep learning (convolutional and recurrent neural networks) techniques, in both supervised and unsupervised learning\n•\tExperience constructing holistic machine learning pipelines, including optimisation techniques, cross-validation, generalisability testing etc.\n\nNICE TO HAVE\n•\tMSc or PhD in a related scientific subject area\n•\tExperience deploying machine learning models (on device and/or as a cloud service)\n•\tExperience with time series analysis and signal processing\n•\tExperience manipulating physiological data and an understanding of the challenges that presents\n•\tTrack record in achieving business/research breakthroughs through design of innovative solutions using machine learning\n\nBENEFITS\n•\tImpactful work – help transform healthcare for billions of people worldwide\n•\tReal responsibility – make a direct, meaningful impact on Feebris' trajectory\n•\tRockstar team – join our small team, all passionate about building something game-changing\n•\tMassive growth opportunity – potential to quickly grow into Team Lead, external mentors through our advisory board and expert networks\n•\tFounder level contribution – work directly with the founders, providing strategic inputs & cross-functional contributions, culture shaping, candidate assessment\n•\tRegular personal development – quarterly performance assessment, 360 reviews and personal development coaching\n•\tCompetitive Compensation – Salary + Share Options (the most tax friendly way possible for you to own a piece of the company)\n•\tOutput-driven work culture – get unlimited paid time off and flexible working hours & location\n•\tAwesome office – we have resident status at the Google for Startups Campus near Old Street",
+      "descriptionHtml": "<p>ABOUT FEEBRIS<br>\nWe build intuitive, mobile-based software, powered by AI, so that non-medical users can precisely detect and monitor complex diseases, using the latest medical sensors. Our mobile app connects to off-the-shelf IOT medical sensors, and intuitively guides the users through a medical examination. Machine Learning and AI supports the user to capture high quality signals and make better health decisions for the patient.  Our web app enables doctors to remotely review patient data to provide diagnoses and treatment. </p>\n\n<p>Our mission is to prevent hospitalisations and suffering from conditions that could have been prevented or treated at home. We believe that no one should die or suffer from treatable conditions. And yet, every year nearly 1 million children around the world die from pneumonia (a treatable disease). But this is just the tip of the iceberg; the world over (even in the UK), our children and elderly often do not get the care they need until it is too late.</p>\n\n<p>We currently provide our SaaS platform to organisations that provide health and social care to elderly in the UK, and children in India. Our app is live right now, being used by healthcare workers in Indian slums to help 4,000 young children. We’ve won awards for our disruptive technology (UKBAA, Children’s Prize), our founder is an internationally renowned speaker on AI in healthcare , and earlier this year we raised a £1.1m seed round.</p>\n\n<p>THE ROLE<br>\nIf you love harnessing the power of AI to solve complex challenges, this role is for you. You’ll develop machine learning algorithms that can operate with limited connectivity in remote locations, supporting low-skilled healthcare workers to diagnose complex diseases. You will work with noisy data generated from physiological signals, extracting meaningful information on patients’ health to ultimately improve their outcomes. You will be at the core of a dynamic and multidisciplinary product team including machine learning engineers, clinicians and software engineers. Together, we will push the boundaries of what’s technologically possible to make better healthcare a reality for millions of people.</p>\n\n<p>ESSENTIAL<br>\n• Excellent communication in English, both written and verbal; ability to easily explain complex topics in a way that anyone can understand<br>\n• Ability to come up with creative and robust technical solutions<br>\n• BSc or higher in a scientific subject area<br>\n• Experience developing algorithms in python using relevant libraries such as numpy, pandas, sklearn, keras, &amp; tensorflow<br>\n• Experience with a range of machine learning (random forests, SVMs etc) and deep learning (convolutional and recurrent neural networks) techniques, in both supervised and unsupervised learning<br>\n• Experience constructing holistic machine learning pipelines, including optimisation techniques, cross-validation, generalisability testing etc.</p>\n\n<p>NICE TO HAVE<br>\n• MSc or PhD in a related scientific subject area<br>\n• Experience deploying machine learning models (on device and/or as a cloud service)<br>\n• Experience with time series analysis and signal processing<br>\n• Experience manipulating physiological data and an understanding of the challenges that presents<br>\n• Track record in achieving business/research breakthroughs through design of innovative solutions using machine learning</p>\n\n<p>BENEFITS<br>\n• Impactful work – help transform healthcare for billions of people worldwide<br>\n• Real responsibility – make a direct, meaningful impact on Feebris&#39; trajectory<br>\n• Rockstar team – join our small team, all passionate about building something game-changing<br>\n• Massive growth opportunity – potential to quickly grow into Team Lead, external mentors through our advisory board and expert networks<br>\n• Founder level contribution – work directly with the founders, providing strategic inputs &amp; cross-functional contributions, culture shaping, candidate assessment<br>\n• Regular personal development – quarterly performance assessment, 360 reviews and personal development coaching<br>\n• Competitive Compensation – Salary + Share Options (the most tax friendly way possible for you to own a piece of the company)<br>\n• Output-driven work culture – get unlimited paid time off and flexible working hours &amp; location<br>\n• Awesome office – we have resident status at the Google for Startups Campus near Old Street</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Digital Signal Processing",
+        "Deep Learning",
+        "TensorFlow"
+      ],
+      "payment": {
+        "salary": "£40k – £70k",
+        "equity": "0.5% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/elina-naydenova-1",
+        "name": "Elina Naydenova",
+        "avatar": "https://photos.angel.co/users/9447894-medium_jpg?1559151012"
+      },
+      "refs": {
+        "angelListId": "665343",
+        "angelListUrl": "https://angel.co/company/feebris-1/jobs/665343-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Mid-Senior Software Engineer (React / JavaScript)",
+      "description": "ABOUT FEEBRIS\nWe build intuitive, mobile-based software, powered by AI, so that non-medical users can precisely detect and monitor complex diseases, using the latest medical sensors. Our mobile app connects to off-the-shelf IOT medical sensors, and intuitively guides the users through a medical examination. Machine Learning and AI supports the user to capture high quality signals and make better health decisions for the patient.  Our web app enables doctors to remotely review patient data to provide diagnoses and treatment. \n\nOur mission is to prevent hospitalisations and suffering from conditions that could have been prevented or treated at home. We believe that no one should die or suffer from treatable conditions. And yet, every year nearly 1 million children around the world die from pneumonia (a treatable disease). But this is just the tip of the iceberg; the world over (even in the UK), our children and elderly often do not get the care they need until it is too late.\n\nWe currently provide our SaaS platform to organisations that provide health and social care to elderly in the UK, and children in India. Our app is live right now, being used by healthcare workers in Indian slums to help 4,000 young children. We’ve won awards for our disruptive technology (UKBAA, Children’s Prize), our founder is an internationally renowned speaker on AI in healthcare, and earlier this year we raised a £1.1m seed round.\n\nTHE ROLE\nYou’ll join our core software engineering team, designing and building tech that literally saves lives. You will work across mobile, web and cloud. You will build ground-breaking software that: deploys incredibly advanced Machine Learning models; captures data directly from the latest medical sensors; protects patients’ most sensitive data. You will work with an outstanding, truly multidisciplinary team to make this software accessible in the most remote communities for non-medical users. If you’re looking for challenging and impactful work on the cutting edge of health tech, then look no further – we would love to hear from you!\n\n\nESSENTIAL\n•\tExcellent communication in English, both written and verbal; ability to easily explain complex topics in a way that anyone can understand\n•\tAbility to come up with simple and elegant technical solutions\n•\tDemonstrated passion for great design and user experience\n•\tEnthusiasm to champion effective development standards and behaviours\n•\tContributions at both architectural and implementation levels\n•\tOrganised and self-motivated, with strong attention to detail\n•\tProfessional experience using React (>2 years) and JavaScript (>4 years)\n\n\nNICE TO HAVE\n•\tProfessional experience with: React Native (>1 year), Android (Java/Kotlin), iOS (Swift), API development\n•\tProfessional experience working with a major public cloud provider (Google Cloud Platform, Microsoft Azure, Amazon Web Services)\n•\tExperience integrating external devices or sensors with mobile apps using 3rd party SDKs\n•\tWorked in a regulated industry before (e.g. medical devices, quality management system)\n•\tDeployed machine learning models (on device and/or as a cloud service)\n•\tPrevious experience in designing architectures that scaled under high volumes of usage as well as ‘offline only’ use cases\n•\tExperience writing automated tests in a continuous delivery environment\n\n\nBENEFITS\n•\tImpactful work – help transform healthcare for billions of people worldwide\n•\tReal responsibility – make a direct, meaningful impact on Feebris' trajectory\n•\tRockstar team – join our small team, all passionate about building something game-changing\n•\tMassive growth opportunity – potential to quickly grow into Team Lead, external mentors through our advisory board and expert networks\n•\tFounder level contribution – work directly with the founders, providing strategic inputs & cross-functional contributions, culture shaping, candidate assessment\n•\tRegular personal development – quarterly performance assessment, 360 reviews and personal development coaching\n•\tCompetitive Compensation – Competitive Salary + Share Options (the most tax friendly way possible for you to own a piece of the company)\n•\tOutput-driven work culture – get unlimited paid time off and flexible working hours & location\n•\tAwesome office – we have resident status at the Google for Startups Campus near Old Street",
+      "descriptionHtml": "<p>ABOUT FEEBRIS<br>\nWe build intuitive, mobile-based software, powered by AI, so that non-medical users can precisely detect and monitor complex diseases, using the latest medical sensors. Our mobile app connects to off-the-shelf IOT medical sensors, and intuitively guides the users through a medical examination. Machine Learning and AI supports the user to capture high quality signals and make better health decisions for the patient.  Our web app enables doctors to remotely review patient data to provide diagnoses and treatment. </p>\n\n<p>Our mission is to prevent hospitalisations and suffering from conditions that could have been prevented or treated at home. We believe that no one should die or suffer from treatable conditions. And yet, every year nearly 1 million children around the world die from pneumonia (a treatable disease). But this is just the tip of the iceberg; the world over (even in the UK), our children and elderly often do not get the care they need until it is too late.</p>\n\n<p>We currently provide our SaaS platform to organisations that provide health and social care to elderly in the UK, and children in India. Our app is live right now, being used by healthcare workers in Indian slums to help 4,000 young children. We’ve won awards for our disruptive technology (UKBAA, Children’s Prize), our founder is an internationally renowned speaker on AI in healthcare, and earlier this year we raised a £1.1m seed round.</p>\n\n<p>THE ROLE<br>\nYou’ll join our core software engineering team, designing and building tech that literally saves lives. You will work across mobile, web and cloud. You will build ground-breaking software that: deploys incredibly advanced Machine Learning models; captures data directly from the latest medical sensors; protects patients’ most sensitive data. You will work with an outstanding, truly multidisciplinary team to make this software accessible in the most remote communities for non-medical users. If you’re looking for challenging and impactful work on the cutting edge of health tech, then look no further – we would love to hear from you!</p>\n\n<p>ESSENTIAL<br>\n• Excellent communication in English, both written and verbal; ability to easily explain complex topics in a way that anyone can understand<br>\n• Ability to come up with simple and elegant technical solutions<br>\n• Demonstrated passion for great design and user experience<br>\n• Enthusiasm to champion effective development standards and behaviours<br>\n• Contributions at both architectural and implementation levels<br>\n• Organised and self-motivated, with strong attention to detail<br>\n• Professional experience using React (&gt;2 years) and JavaScript (&gt;4 years)</p>\n\n<p>NICE TO HAVE<br>\n• Professional experience with: React Native (&gt;1 year), Android (Java/Kotlin), iOS (Swift), API development<br>\n• Professional experience working with a major public cloud provider (Google Cloud Platform, Microsoft Azure, Amazon Web Services)<br>\n• Experience integrating external devices or sensors with mobile apps using 3rd party SDKs<br>\n• Worked in a regulated industry before (e.g. medical devices, quality management system)<br>\n• Deployed machine learning models (on device and/or as a cloud service)<br>\n• Previous experience in designing architectures that scaled under high volumes of usage as well as ‘offline only’ use cases<br>\n• Experience writing automated tests in a continuous delivery environment</p>\n\n<p>BENEFITS<br>\n• Impactful work – help transform healthcare for billions of people worldwide<br>\n• Real responsibility – make a direct, meaningful impact on Feebris&#39; trajectory<br>\n• Rockstar team – join our small team, all passionate about building something game-changing<br>\n• Massive growth opportunity – potential to quickly grow into Team Lead, external mentors through our advisory board and expert networks<br>\n• Founder level contribution – work directly with the founders, providing strategic inputs &amp; cross-functional contributions, culture shaping, candidate assessment<br>\n• Regular personal development – quarterly performance assessment, 360 reviews and personal development coaching<br>\n• Competitive Compensation – Competitive Salary + Share Options (the most tax friendly way possible for you to own a piece of the company)<br>\n• Output-driven work culture – get unlimited paid time off and flexible working hours &amp; location<br>\n• Awesome office – we have resident status at the Google for Startups Campus near Old Street</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Cloud Computing",
+        "Android",
+        "Mobile Development",
+        "iOS Development",
+        "Communication Skills",
+        "Attention to Detail",
+        "React.js",
+        "React Native"
+      ],
+      "payment": {
+        "salary": "£40k – £80k",
+        "equity": "0.5% – 1.0%"
+      },
+      "recruiter": {
+        "title": "COO",
+        "role": "Founder",
+        "url": "https://angel.co/u/adam-bacon",
+        "name": "Adam Bacon",
+        "avatar": "https://photos.angel.co/users/9447441-medium_jpg?1559147795"
+      },
+      "refs": {
+        "angelListId": "702940",
+        "angelListUrl": "https://angel.co/company/feebris-1/jobs/702940-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Mid-Senior Software Engineer (React Native / JavaScript)",
+      "description": "ABOUT FEEBRIS\nWe build intuitive, mobile-based software, powered by AI, so that non-medical users can precisely detect and monitor complex diseases, using the latest medical sensors. Our mobile app connects to off-the-shelf IOT medical sensors, and intuitively guides the users through a medical examination. Machine Learning and AI supports the user to capture high quality signals and make better health decisions for the patient.  Our web app enables doctors to remotely review patient data to provide diagnoses and treatment. \n\nOur mission is to prevent hospitalisations and suffering from conditions that could have been prevented or treated at home. We believe that no one should die or suffer from treatable conditions. And yet, every year nearly 1 million children around the world die from pneumonia (a treatable disease). But this is just the tip of the iceberg; the world over (even in the UK), our children and elderly often do not get the care they need until it is too late.\n\nWe currently provide our SaaS platform to organisations that provide health and social care to elderly in the UK, and children in India. Our app is live right now, being used by healthcare workers in Indian slums to help 4,000 young children. We’ve won awards for our disruptive technology (UKBAA, Children’s Prize), our founder is an internationally renowned speaker on AI in healthcare, and earlier this year we raised a £1.1m seed round.\n\nTHE ROLE\nYou’ll join our core software engineering team, designing and building tech that literally saves lives. You will work across mobile, web and cloud. You will build ground-breaking software that: deploys incredibly advanced Machine Learning models; captures data directly from the latest medical sensors; protects patients’ most sensitive data. You will work with an outstanding, truly multidisciplinary team to make this software accessible in the most remote communities for non-medical users. If you’re looking for challenging and impactful work on the cutting edge of health tech, then look no further – we would love to hear from you!\n\n\nESSENTIAL\n•\tExcellent communication in English, both written and verbal; ability to easily explain complex topics in a way that anyone can understand\n•\tAbility to come up with simple and elegant technical solutions\n•\tDemonstrated passion for great design and user experience\n•\tEnthusiasm to champion effective development standards and behaviours\n•\tContributions at both architectural and implementation levels\n•\tOrganised and self-motivated, with strong attention to detail\n•\tProfessional experience using React Native (>1 year), React (>2 years) and JavaScript (>4 years)\n\n\nNICE TO HAVE\n•\tProfessional experience with: Android (Java/Kotlin), iOS (Swift), API development\n•\tProfessional experience working with a major public cloud provider (Google Cloud Platform, Microsoft Azure, Amazon Web Services)\n•\tExperience integrating external devices or sensors with mobile apps using 3rd party SDKs\n•\tWorked in a regulated industry before (e.g. medical devices, quality management system)\n•\tDeployed machine learning models (on device and/or as a cloud service)\n•\tPrevious experience in designing architectures that scaled under high volumes of usage as well as ‘offline only’ use cases\n•\tExperience writing automated tests in a continuous delivery environment\n\n\nBENEFITS\n•\tImpactful work – help transform healthcare for billions of people worldwide\n•\tReal responsibility – make a direct, meaningful impact on Feebris' trajectory\n•\tRockstar team – join our small team, all passionate about building something game-changing\n•\tMassive growth opportunity – potential to quickly grow into Team Lead, external mentors through our advisory board and expert networks\n•\tFounder level contribution – work directly with the founders, providing strategic inputs & cross-functional contributions, culture shaping, candidate assessment\n•\tRegular personal development – quarterly performance assessment, 360 reviews and personal development coaching\n•\tCompetitive Compensation – Competitive Salary + Share Options (the most tax friendly way possible for you to own a piece of the company)\n•\tOutput-driven work culture – get unlimited paid time off and flexible working hours & location\n•\tAwesome office – we have resident status at the Google for Startups Campus near Old Street",
+      "descriptionHtml": "<p>ABOUT FEEBRIS<br>\nWe build intuitive, mobile-based software, powered by AI, so that non-medical users can precisely detect and monitor complex diseases, using the latest medical sensors. Our mobile app connects to off-the-shelf IOT medical sensors, and intuitively guides the users through a medical examination. Machine Learning and AI supports the user to capture high quality signals and make better health decisions for the patient.  Our web app enables doctors to remotely review patient data to provide diagnoses and treatment. </p>\n\n<p>Our mission is to prevent hospitalisations and suffering from conditions that could have been prevented or treated at home. We believe that no one should die or suffer from treatable conditions. And yet, every year nearly 1 million children around the world die from pneumonia (a treatable disease). But this is just the tip of the iceberg; the world over (even in the UK), our children and elderly often do not get the care they need until it is too late.</p>\n\n<p>We currently provide our SaaS platform to organisations that provide health and social care to elderly in the UK, and children in India. Our app is live right now, being used by healthcare workers in Indian slums to help 4,000 young children. We’ve won awards for our disruptive technology (UKBAA, Children’s Prize), our founder is an internationally renowned speaker on AI in healthcare, and earlier this year we raised a £1.1m seed round.</p>\n\n<p>THE ROLE<br>\nYou’ll join our core software engineering team, designing and building tech that literally saves lives. You will work across mobile, web and cloud. You will build ground-breaking software that: deploys incredibly advanced Machine Learning models; captures data directly from the latest medical sensors; protects patients’ most sensitive data. You will work with an outstanding, truly multidisciplinary team to make this software accessible in the most remote communities for non-medical users. If you’re looking for challenging and impactful work on the cutting edge of health tech, then look no further – we would love to hear from you!</p>\n\n<p>ESSENTIAL<br>\n• Excellent communication in English, both written and verbal; ability to easily explain complex topics in a way that anyone can understand<br>\n• Ability to come up with simple and elegant technical solutions<br>\n• Demonstrated passion for great design and user experience<br>\n• Enthusiasm to champion effective development standards and behaviours<br>\n• Contributions at both architectural and implementation levels<br>\n• Organised and self-motivated, with strong attention to detail<br>\n• Professional experience using React Native (&gt;1 year), React (&gt;2 years) and JavaScript (&gt;4 years)</p>\n\n<p>NICE TO HAVE<br>\n• Professional experience with: Android (Java/Kotlin), iOS (Swift), API development<br>\n• Professional experience working with a major public cloud provider (Google Cloud Platform, Microsoft Azure, Amazon Web Services)<br>\n• Experience integrating external devices or sensors with mobile apps using 3rd party SDKs<br>\n• Worked in a regulated industry before (e.g. medical devices, quality management system)<br>\n• Deployed machine learning models (on device and/or as a cloud service)<br>\n• Previous experience in designing architectures that scaled under high volumes of usage as well as ‘offline only’ use cases<br>\n• Experience writing automated tests in a continuous delivery environment</p>\n\n<p>BENEFITS<br>\n• Impactful work – help transform healthcare for billions of people worldwide<br>\n• Real responsibility – make a direct, meaningful impact on Feebris&#39; trajectory<br>\n• Rockstar team – join our small team, all passionate about building something game-changing<br>\n• Massive growth opportunity – potential to quickly grow into Team Lead, external mentors through our advisory board and expert networks<br>\n• Founder level contribution – work directly with the founders, providing strategic inputs &amp; cross-functional contributions, culture shaping, candidate assessment<br>\n• Regular personal development – quarterly performance assessment, 360 reviews and personal development coaching<br>\n• Competitive Compensation – Competitive Salary + Share Options (the most tax friendly way possible for you to own a piece of the company)<br>\n• Output-driven work culture – get unlimited paid time off and flexible working hours &amp; location<br>\n• Awesome office – we have resident status at the Google for Startups Campus near Old Street</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Cloud Computing",
+        "Android",
+        "Mobile Development",
+        "iOS Development",
+        "Communication Skills",
+        "Attention to Detail",
+        "React.js",
+        "React Native"
+      ],
+      "payment": {
+        "salary": "£40k – £80k",
+        "equity": "0.5% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/elina-naydenova-1",
+        "name": "Elina Naydenova",
+        "avatar": "https://photos.angel.co/users/9447894-medium_jpg?1559151012"
+      },
+      "refs": {
+        "angelListId": "665341",
+        "angelListUrl": "https://angel.co/company/feebris-1/jobs/665341-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Unlikely AI",
+  "avatar": "https://photos.angel.co/startups/i/6956339-9907fe0df8b57fe330e40552229e9f88-medium_jpg.jpg?buster=1558368447",
+  "slogan": "Product-centric and contrarian advancement of Artificial Intelligence",
+  "description": "Much of what we are working on is still under the radar. An early product is a cryptic crossword solving app called Crossword Genius that can solve and explain cryptic crossword clues. The technology behind app is a test bed for some ideas around AI which we are advancing in other products.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://unlikely.ai"
+    },
+    {
+      "type": "blog",
+      "url": "https://unlikely.ai/blog/"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@unlikelyai"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Founder and CEO",
+      "role": "Founder",
+      "url": "https://angel.co/p/william-tunstall-pedoe",
+      "name": "William Tunstall-Pedoe",
+      "avatar": "https://photos.angel.co/users/2195542-medium_jpg?1468098613",
+      "bioHtml": "Founder of Evi (formerly True Knowledge) which was acquired by Amazon in 2012 and where I then built and launched Echo and Alexa. "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6956339",
+    "angelListUrl": "https://angel.co/company/unlikely-ai"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full stack developer",
+      "description": "We are looking for excellent software engineering talent to join our very early start-up. As an early team member you will have a chance to join at the very beginning and help define the company's engineering practices.\n\nWe will look at a wide range of experience for this role.\n\nOur company culture and principles are here: https://unlikely.ai/principles/",
+      "descriptionHtml": "<p>We are looking for excellent software engineering talent to join our very early start-up. As an early team member you will have a chance to join at the very beginning and help define the company&#39;s engineering practices.</p>\n\n<p>We will look at a wide range of experience for this role.</p>\n\n<p>Our company culture and principles are here: <a href=\"https://unlikely.ai/principles/\" target=\"_blank\" rel=\"nofollow\">https://unlikely.ai/principles/</a></p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "C++",
+        "SQL",
+        "Amazon RDS",
+        "AWS/EC2/ELB/S3/DynamoDB",
+        "AWS"
+      ],
+      "payment": {
+        "salary": "£30k – £90k",
+        "equity": "0.1% – 2.0%"
+      },
+      "recruiter": {
+        "title": "Founder and CEO",
+        "role": "Founder",
+        "url": "https://angel.co/p/william-tunstall-pedoe",
+        "name": "William Tunstall-Pedoe",
+        "avatar": "https://photos.angel.co/users/2195542-medium_jpg?1468098613"
+      },
+      "refs": {
+        "angelListId": "558500",
+        "angelListUrl": "https://angel.co/company/unlikely-ai/jobs/558500-"
+      }
+    }
+  ]
+}

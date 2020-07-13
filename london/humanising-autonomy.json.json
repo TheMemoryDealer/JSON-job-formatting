@@ -1,0 +1,231 @@
+{
+  "name": "Humanising Autonomy",
+  "avatar": "https://photos.angel.co/startups/i/4778856-4bbd88355719bee4d225bd43aa34ac6c-medium_jpg.jpg?buster=1523292424",
+  "slogan": "Creating global standards for human-machine interaction in urban mobility",
+  "description": "Humanising Autonomy envisions a world of natural interactions between autonomous systems and people. Our product creates novel methods to understand human behavior and body language and improve the decision making of autonomous vehicles.\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.humanisingautonomy.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://medium.com/@humanisingautonomy/autonomous-technology-for-the-people-ff96cc558bfa"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@humanisingauto"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/11295748/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Automotive",
+    "Robotics",
+    "Drones",
+    "Electric Vehicles"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/maya-pindeus",
+      "name": "Maya Pindeus",
+      "avatar": "https://photos.angel.co/users/7035363-medium_jpg?1510672226",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/humanising-autonomy\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Humanising Autonomy</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/raunaq-bose",
+      "name": "Raunaq Bose",
+      "avatar": "https://photos.angel.co/users/7035361-medium_jpg?1513079727",
+      "bioHtml": "Co-Founder of Humanising Autonomy. Designer &amp; Engineer."
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/leslie-nooteboom",
+      "name": "Leslie Nooteboom",
+      "avatar": "https://photos.angel.co/users/7035311-medium_jpg?1507921207",
+      "bioHtml": "Co Founder at Humaninsing Autonomy\n\nHumanising Autonomy creates a database of body language, to inform autonomous systems of human intent."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/wies-millenaar-2",
+      "name": "Wies Millenaar",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/wies-samlabs-com",
+      "name": "Wies Millenaar",
+      "avatar": "https://photos.angel.co/users/2028119-medium_jpg?1518781342",
+      "bioHtml": "Head of People at SAM labs "
+    },
+    {
+      "title": "Deep Learning Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/wassim-el-youssoufi",
+      "name": "Wassim El Youssoufi",
+      "avatar": "https://photos.angel.co/users/4606268-medium_jpg?1510329314",
+      "bioHtml": "Computer vision, Deep Learning, Machine Learning.\nStrong understanding of the theoretical aspects of these fields and ability to implement them in Python."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4778856",
+    "angelListUrl": "https://angel.co/company/humanising-autonomy"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Behavioural Data Scientist - Computational Anthropologist",
+      "description": "Humanising Autonomy is developing solutions that improve how autonomous systems and people interact with each other. We are currently developing industrial solutions within multiple industries, primarily the automotive industry.\nwww.humanisingautonomy.com\n\nYou’ll be part of the core team to build the foundation of the software stack. You will be observing and analysing the motion and behaviour of pedestrians, applying data mining techniques to help reveal the underlying behavioural and cultural patterns and develop a quantitative analysis for integration into computer vision models. This will be built into our software stack for innovative decision-making systems for the major players in the autonomous revolution.\nThe role would involve large responsibility within the company,  and require the ability to work independently as part of a core team of designers and engineers. Your work will impact how autonomous systems will interact with people - a field whose relevance is rapidly expanding, and from which you can expect a fast-moving adventure!\n\nSummary\n\nConduct behavioural research, develop and validate models of pedestrian behaviour.\nApplication of data mining techniques for  analysis of large scale datasets of human behaviour\nCompetitive salary + equity plan\n\nQualifications\n\nBSc/MSc/PhD degree in behavioural sciences, data science or a cognate social science\ndiscipline, together with relevant experience or a degree in other disciplines with a strong focus on applications to human behaviour and industry experience showing similar level of thinking.\nData Mining and Visualization Tools\nBig Data Queries and Interpretation\nExperience answering social science questions through quantitative analysis\nof large-scale data sets of human behaviour\nProgramming languages: R/ Python/ C/C++\nFavourable\nExperience with OpenCV, OpenCL, OpenGL\nFamiliarity with natural language processing, machine learning, computer vision or\nother techniques to process unstructured data\nDatabase development (e.g. SQL)",
+      "descriptionHtml": "<p>Humanising Autonomy is developing solutions that improve how autonomous systems and people interact with each other. We are currently developing industrial solutions within multiple industries, primarily the automotive industry.<br>\n<a href=\"http://www.humanisingautonomy.com\" target=\"_blank\" rel=\"nofollow\">www.humanisingautonomy.com</a></p>\n\n<p>You’ll be part of the core team to build the foundation of the software stack. You will be observing and analysing the motion and behaviour of pedestrians, applying data mining techniques to help reveal the underlying behavioural and cultural patterns and develop a quantitative analysis for integration into computer vision models. This will be built into our software stack for innovative decision-making systems for the major players in the autonomous revolution.<br>\nThe role would involve large responsibility within the company,  and require the ability to work independently as part of a core team of designers and engineers. Your work will impact how autonomous systems will interact with people - a field whose relevance is rapidly expanding, and from which you can expect a fast-moving adventure!</p>\n\n<p>Summary</p>\n\n<p>Conduct behavioural research, develop and validate models of pedestrian behaviour.<br>\nApplication of data mining techniques for  analysis of large scale datasets of human behaviour<br>\nCompetitive salary + equity plan</p>\n\n<p>Qualifications</p>\n\n<p>BSc/MSc/PhD degree in behavioural sciences, data science or a cognate social science<br>\ndiscipline, together with relevant experience or a degree in other disciplines with a strong focus on applications to human behaviour and industry experience showing similar level of thinking.<br>\nData Mining and Visualization Tools<br>\nBig Data Queries and Interpretation<br>\nExperience answering social science questions through quantitative analysis<br>\nof large-scale data sets of human behaviour<br>\nProgramming languages: R/ Python/ C/C++<br>\nFavourable<br>\nExperience with OpenCV, OpenCL, OpenGL<br>\nFamiliarity with natural language processing, machine learning, computer vision or<br>\nother techniques to process unstructured data<br>\nDatabase development (e.g. SQL)</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Data Mining",
+        "Social Science",
+        "Anthropology",
+        "Data Science",
+        "Behavioural Analysis"
+      ],
+      "payment": {
+        "salary": "£30k – £40k",
+        "equity": "0.0% – 0.3%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/maya-pindeus",
+        "name": "Maya Pindeus",
+        "avatar": "https://photos.angel.co/users/7035363-medium_jpg?1510672226"
+      },
+      "refs": {
+        "angelListId": "336727",
+        "angelListUrl": "https://angel.co/company/humanising-autonomy/jobs/336727-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Business Developer (jr)",
+      "description": "Want to work with exciting international customers within the tech, ai and automotive industry? \nJoin our team as a Junior Sales Manager and that is exactly what you will be doing. We are looking for someone who can help us grow and nurture our sales pipeline and help us on our mission to make cities safer and human centred! \n \nWhat we do \nWe have created a software for autonomous vehicles by combining AI and psychology to fully understand and predict pedestrian, cyclists and other vulnerable road users behavior in order to improve mobility systems. Have a look on our website for some user cases!\n \nWhat you will be doing \n> Lead generation and management of a high performing sales pipeline\n> Working with the commercial team to drive new customer acquisition strategies\n> Attending events to nurture and grow partner relationships and create new sales channels \n> Developing marketing initiatives that drive lead generation and business development\n> Continuously research and identify new trends and channels\n\nWe are looking for someone who has:\n> Strong relationship building skills and emotional intelligence to build rapport and trust and work effectively with different types of people at all levels\n> Passion to grow within the company\n> Excellent communication skills\n> Interest in the industry and our mission\n\nYou will be working with a small and exciting team of engineers, social scientists and commercial talent to shape the future! You will have a big say in how the company runs itself and there will be lots and lots of opportunity for growth. \n\nOther than having a job with a lot of growth opportunities and a close knit team, working with us has some more benefits: \n>Beautiful offices in Somerset House\n> Free access to museums and galleries\n> Guaranteed lots of plants in the office\n> Flexible working hours \n> Competitive salary and share options\n> Pension Scheme\n> 25 days holiday per annum + bank holidays\n> Cycle to Work scheme\n\nIf this sounds like the job for you, we'd love to hear from you! Please apply by sending your application including cv and cover letter to work@humanisingautonomy.com.",
+      "descriptionHtml": "<p>Want to work with exciting international customers within the tech, ai and automotive industry? <br>\nJoin our team as a Junior Sales Manager and that is exactly what you will be doing. We are looking for someone who can help us grow and nurture our sales pipeline and help us on our mission to make cities safer and human centred! </p>\n\n<p>What we do <br>\nWe have created a software for autonomous vehicles by combining AI and psychology to fully understand and predict pedestrian, cyclists and other vulnerable road users behavior in order to improve mobility systems. Have a look on our website for some user cases!</p>\n\n<p>What you will be doing </p>\n\n<blockquote>\n<p>Lead generation and management of a high performing sales pipeline<br>\nWorking with the commercial team to drive new customer acquisition strategies<br>\nAttending events to nurture and grow partner relationships and create new sales channels <br>\nDeveloping marketing initiatives that drive lead generation and business development<br>\nContinuously research and identify new trends and channels</p>\n</blockquote>\n\n<p>We are looking for someone who has:</p>\n\n<blockquote>\n<p>Strong relationship building skills and emotional intelligence to build rapport and trust and work effectively with different types of people at all levels<br>\nPassion to grow within the company<br>\nExcellent communication skills<br>\nInterest in the industry and our mission</p>\n</blockquote>\n\n<p>You will be working with a small and exciting team of engineers, social scientists and commercial talent to shape the future! You will have a big say in how the company runs itself and there will be lots and lots of opportunity for growth. </p>\n\n<p>Other than having a job with a lot of growth opportunities and a close knit team, working with us has some more benefits: </p>\n\n<blockquote>\n<p>Beautiful offices in Somerset House<br>\nFree access to museums and galleries<br>\nGuaranteed lots of plants in the office<br>\nFlexible working hours <br>\nCompetitive salary and share options<br>\nPension Scheme<br>\n25 days holiday per annum + bank holidays<br>\nCycle to Work scheme</p>\n</blockquote>\n\n<p>If this sounds like the job for you, we&#39;d love to hear from you! Please apply by sending your application including cv and cover letter to <a href=\"mailto:work@humanisingautonomy.com\" target=\"_blank\" rel=\"nofollow\">work@humanisingautonomy.com</a>.</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/wies-millenaar-2",
+        "name": "Wies Millenaar",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "651874",
+        "angelListUrl": "https://angel.co/company/humanising-autonomy/jobs/651874-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Fixed-term Project Management Internship",
+      "description": "Fixed Term Project Manager Internship\n\nPeriod: January 2019 - April 2019\nLocation: Hamburg, Germany\nPercentage: min. 60%\n\n\nWHO WE ARE \nHumanising Autonomy is building a global standard of how autonomous systems will interact with people. Humanising Autonomy has built a human intent prediction application that is able to recognise and predict human behavior from visual camera footage. Its main application is in automated vehicles as it allows the vehicle to make better decisions in terms of vehicle path planning and pedestrian interactions to improve the safety, societal acceptance, and deployment of level 2+ automated vehicles.\n\nYOUR OPPORTUNITY\nTo be part of a London based, fast growing start-up and at the same time get insight into the big fish in the aerospace industry, Airbus, to deliver a successful project. Are you bright, energetic, and a natural people person? Are you a results-driven, go-getter who’s looking for their next challenge in a cutting-edge field? Are you up to a hands-on project?\n\nWe are collaborating with Airbus to integrate our software into autonomous mobile robots to improve the safety and efficiency of Airbus’ manufacturing processes. The development of a data set of human behaviours in the manufacturing environment and the integration of our person detection and intent prediction software are an important step towards Industry 4.0 in the aerospace industry.\n\nYOUR ROLE\nThis role is offered as a three-month position at a minimum of 60%, located in Hamburg.\nYou will be responsible for the day to day operations of the project and will support the team in London to deliver a successful PoC by mid-April 2019. What does your day look like? You will get one-on-one time with mobile robots, manage the on-sight data acquisition which will inform our behavioural and AI models, and effectively communicate with Airbus as our customer and partner. You will get support from our business development and product team, who will join you in Hamburg regularly. This is a fast-paced project with an ambitious goal and you will be an invaluable member of our team during this time.\n\nYour main responsibilities are: \n- Manage data acquisition on the Airbus production sites\n- Set up sensors and data acquisition infrastructure for the trials   \n- Day to day communications with our partners at Airbus\n- Work collaboratively with your team in Hamburg and in London\n- Master your time management and work independently\n- Fluent written and spoken German is required for your communications with the team at Airbus. Written and spoken English is a preferred requirement.\n\nThe position is compensated accordingly and we can offer you a full-time work desk with access to the internet and lovely people in Hamburg with a possibility for long term employment.",
+      "descriptionHtml": "<p>Fixed Term Project Manager Internship</p>\n\n<p>Period: January 2019 - April 2019<br>\nLocation: Hamburg, Germany<br>\nPercentage: min. 60%</p>\n\n<p>WHO WE ARE <br>\nHumanising Autonomy is building a global standard of how autonomous systems will interact with people. Humanising Autonomy has built a human intent prediction application that is able to recognise and predict human behavior from visual camera footage. Its main application is in automated vehicles as it allows the vehicle to make better decisions in terms of vehicle path planning and pedestrian interactions to improve the safety, societal acceptance, and deployment of level 2+ automated vehicles.</p>\n\n<p>YOUR OPPORTUNITY<br>\nTo be part of a London based, fast growing start-up and at the same time get insight into the big fish in the aerospace industry, Airbus, to deliver a successful project. Are you bright, energetic, and a natural people person? Are you a results-driven, go-getter who’s looking for their next challenge in a cutting-edge field? Are you up to a hands-on project?</p>\n\n<p>We are collaborating with Airbus to integrate our software into autonomous mobile robots to improve the safety and efficiency of Airbus’ manufacturing processes. The development of a data set of human behaviours in the manufacturing environment and the integration of our person detection and intent prediction software are an important step towards Industry 4.0 in the aerospace industry.</p>\n\n<p>YOUR ROLE<br>\nThis role is offered as a three-month position at a minimum of 60%, located in Hamburg.<br>\nYou will be responsible for the day to day operations of the project and will support the team in London to deliver a successful PoC by mid-April 2019. What does your day look like? You will get one-on-one time with mobile robots, manage the on-sight data acquisition which will inform our behavioural and AI models, and effectively communicate with Airbus as our customer and partner. You will get support from our business development and product team, who will join you in Hamburg regularly. This is a fast-paced project with an ambitious goal and you will be an invaluable member of our team during this time.</p>\n\n<p>Your main responsibilities are: </p>\n\n<ul>\n<li>Manage data acquisition on the Airbus production sites</li>\n<li>Set up sensors and data acquisition infrastructure for the trials<br></li>\n<li>Day to day communications with our partners at Airbus</li>\n<li>Work collaboratively with your team in Hamburg and in London</li>\n<li>Master your time management and work independently</li>\n<li>Fluent written and spoken German is required for your communications with the team at Airbus. Written and spoken English is a preferred requirement.</li>\n</ul>\n\n<p>The position is compensated accordingly and we can offer you a full-time work desk with access to the internet and lovely people in Hamburg with a possibility for long term employment.</p>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "Hamburg"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Communication Skills",
+        "Time Management",
+        "Self Starter",
+        "German Language",
+        "English language"
+      ],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "485822",
+        "angelListUrl": "https://angel.co/company/humanising-autonomy/jobs/485822-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Project Management Internship",
+      "description": "To be part of a London based, fast growing start-up and at the same time get insight into the big fish in the aerospace industry, Airbus, to deliver a successful project. Are you bright, energetic, and a natural people person? Are you a results-driven, go-getter who’s looking for their next challenge in a\ncutting-edge field? Are you up to a hands-on project?\nWe are collaborating with Airbus to integrate our software in autonomous mobile robots to improve safety and efficiency of Airbus’ manufacturing processes. The development of a data set of human behaviours in the manufacturing environment and integration of our person detection and intent\nprediction software are an important step towards Industry 4.0 in the aerospace industry.\n\nThis role is offered as a three month position at a minimum of 60%, located in Hamburg. You will be responsible for the day to day operations of the project and will support the team in London to deliver a\nsuccessful PoC by mid April 2019. What does your day look like? You will get one-on-one time with mobile robots, manage the on-sight data acquisition which will inform our behavioural and AI models, and effectively communicate with Airbus as our customer and partner. You will get support from our\nbusiness development and product team, who will join you in Hamburg regularly. This is a fast-paced project with an ambitious goal and you will be an invaluable member of our team during this time.",
+      "descriptionHtml": "<p>To be part of a London based, fast growing start-up and at the same time get insight into the big fish in the aerospace industry, Airbus, to deliver a successful project. Are you bright, energetic, and a natural people person? Are you a results-driven, go-getter who’s looking for their next challenge in a<br>\ncutting-edge field? Are you up to a hands-on project?<br>\nWe are collaborating with Airbus to integrate our software in autonomous mobile robots to improve safety and efficiency of Airbus’ manufacturing processes. The development of a data set of human behaviours in the manufacturing environment and integration of our person detection and intent<br>\nprediction software are an important step towards Industry 4.0 in the aerospace industry.</p>\n\n<p>This role is offered as a three month position at a minimum of 60%, located in Hamburg. You will be responsible for the day to day operations of the project and will support the team in London to deliver a<br>\nsuccessful PoC by mid April 2019. What does your day look like? You will get one-on-one time with mobile robots, manage the on-sight data acquisition which will inform our behavioural and AI models, and effectively communicate with Airbus as our customer and partner. You will get support from our<br>\nbusiness development and product team, who will join you in Hamburg regularly. This is a fast-paced project with an ambitious goal and you will be an invaluable member of our team during this time.</p>\n",
+      "position": "internship",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Business Development",
+        "Management",
+        "Business Strategy",
+        "Project Coordinator"
+      ],
+      "payment": {
+        "salary": "$10k – $12k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/maya-pindeus",
+        "name": "Maya Pindeus",
+        "avatar": "https://photos.angel.co/users/7035363-medium_jpg?1510672226"
+      },
+      "refs": {
+        "angelListId": "481056",
+        "angelListUrl": "https://angel.co/company/humanising-autonomy/jobs/481056-"
+      }
+    }
+  ]
+}

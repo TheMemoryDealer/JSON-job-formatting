@@ -1,0 +1,227 @@
+{
+  "name": "Calipsa",
+  "avatar": "https://photos.angel.co/startups/i/7268499-1d02beb9d4c767c77043f58baca128f5-medium_jpg.jpg?buster=1571742890",
+  "slogan": "Deep learning powered false alarm filter for security monitoring",
+  "description": "With a mission to improve the detection and prevention of crime, Calipsa's cloud-based False Alarm Filtering Platform uses deep learning technology to filter out over 85% of CCTV false alarms. Calipsa recognises the cause of an alarm, filtering out those that are not caused by human of vehicle motion - anything from a spider, to foliage, or the weather - forwarding only genuine alarms to human operators to review.\n\nAs leaders in false alarm reduction, Calipsa is revolutionising false alarm management and video monitoring efficiency for security monitoring companies, integrators and installers.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.calipsa.io"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/calipsa_io"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/15180446"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Security",
+    "Artificial Intelligence",
+    "Technology",
+    "Law Enforcement"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/boris-ploix-1",
+      "name": "Boris Ploix",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/dopplesoldner",
+      "name": "Mohammad Rashid",
+      "avatar": "https://photos.angel.co/users/283037-medium_jpg?1455025777",
+      "bioHtml": "Co-founder <a href=\"https://angel.co/company/calipsa\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Calipsa</span></a>.io . Entrepreneur First (2016) Postgrad in ML at <a href=\"https://angel.co/university\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University</span></a> of Cambridge. Previously <a href=\"https://angel.co/company/symantec\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Symantec</span></a> <a href=\"https://angel.co/company/accenture\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Accenture</span></a> <a href=\"https://angel.co/company/wonga\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Wonga</span></a> "
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/gokulan-yogeswaran",
+      "name": "Gokulan Yogeswaran",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/toby-weatherall",
+      "name": "Toby Weatherall",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Business Development Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/tara-biglari",
+      "name": "Tara Biglari",
+      "avatar": "https://photos.angel.co/users/2835300-medium_jpg?1572008021",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [
+    {
+      "category": "work_from_home",
+      "title": "Flexible working"
+    },
+    {
+      "category": "generous_vacation",
+      "title": "Holiday allowance"
+    },
+    {
+      "category": "commuter",
+      "title": "Choice of hardware"
+    },
+    {
+      "category": "healthcare",
+      "title": "Private health insurance"
+    },
+    {
+      "category": "equity",
+      "title": "Stock options"
+    },
+    {
+      "category": "company_meals",
+      "title": "New starter lunches"
+    },
+    {
+      "category": "professional_development",
+      "title": "Opportunities for growth"
+    },
+    {
+      "category": "company_events",
+      "title": "Quarterly team celebrations"
+    }
+  ],
+  "refs": {
+    "angelListId": "7268499",
+    "angelListUrl": "https://angel.co/company/calipsaltd"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Head of Machine Learning",
+      "description": "We are looking for an experienced Head of Machine Learning to take complete ownership of Calipsa's data science team, processes and development. \r\n \r\nYou will be responsible for the core value of our product, collaborating with a team of engineers and researchers from varying backgrounds in order to achieve world-class performance. Due to the deep technical nature of the job, we expect you to be quite hands-on with an advanced knowledge of machine learning not only from a theoretical point of view, but also from a practical perspective. Your experience in the field should be mature enough to provide useful guidance and feedback to the team.\r\n\r\n\r\nTechnical skills:\r\n\r\nAdvanced knowledge of deep learning\r\nBest practices in data processing/cleaning\r\nComputer vision (nice to have)\r\n\r\nTechnical stack:\r\n\r\nPython\r\nTensorflow\r\nTF-serving",
+      "descriptionHtml": "<p>We are looking for an experienced Head of Machine Learning to take complete ownership of Calipsa&#39;s data science team, processes and development. </p>\n\n<p>You will be responsible for the core value of our product, collaborating with a team of engineers and researchers from varying backgrounds in order to achieve world-class performance. Due to the deep technical nature of the job, we expect you to be quite hands-on with an advanced knowledge of machine learning not only from a theoretical point of view, but also from a practical perspective. Your experience in the field should be mature enough to provide useful guidance and feedback to the team.</p>\n\n<p>Technical skills:</p>\n\n<p>Advanced knowledge of deep learning<br>\nBest practices in data processing/cleaning<br>\nComputer vision (nice to have)</p>\n\n<p>Technical stack:</p>\n\n<p>Python<br>\nTensorflow<br>\nTF-serving</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Computer Vision",
+        "Team Management",
+        "Deep Learning",
+        "Data Cleaning",
+        "Data Processing"
+      ],
+      "payment": {
+        "salary": "£80k – £140k"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/dopplesoldner",
+        "name": "Mohammad Rashid",
+        "avatar": "https://photos.angel.co/users/283037-medium_jpg?1455025777"
+      },
+      "refs": {
+        "angelListId": "649687",
+        "angelListUrl": "https://angel.co/company/calipsaltd/jobs/649687-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Software Engineer",
+      "description": "About us: \r\nCalipsa aims at detecting and preventing crime. We are building a cloud based solution that connects with CCTV cameras in order to understand and flag any anomalies.\r\n\r\nFounded three years ago, we have customers in four different country and we are growing at 30% month on month. We are looking for a senior full stack engineer to be part of this journey. For more info about the company, please see our website www.calipsa.io\r\n\r\nCulture: \r\n- Iterate fast - get it done mindset \r\n- everything is possible attitude \r\n- honest &amp; transparent \r\n- collaborative\r\n\r\nRole description:\r\n- You will lead the software infrastructure team and design and develop scalable systems and processes to support our growth\r\n- You will be responsible for the security of the software infrastructure, ensuring compliance with industry standards\r\n- You will be the connecting point between the various software engineering teams ensuring deployment of new changes to production environments\r\n- You will create, maintain and test recovery of our software systems (backup, restore, infrastructure and automation)\r\n- You will lead troubleshooting and resolution of issues throughout the product life cycle including out of hours support for incident resolution\r\n\r\nEssential requirements:\r\n- Minimum 5 years experience working within engineering teams with some experience as a team lead\r\n- Deep understanding of Linux/Unix environment\r\n- Fluency with TCP/IP stack and network design (TCP/IP, HTTP(S), iptables)\r\n- Experience with mass configuration management toolkit (Chef, Puppet, Ansible) - Understanding of technical security and risk mitigation\r\n- Docker\r\n- Google and Amazon web services\r\n\r\nImportant information:\r\n\r\nWe are based in London and ask applicants to be based here \r\nPlease provide your github account alongside your CV to boris.ploix@calipsa.io",
+      "descriptionHtml": "<p>About us: <br>\nCalipsa aims at detecting and preventing crime. We are building a cloud based solution that connects with CCTV cameras in order to understand and flag any anomalies.</p>\n\n<p>Founded three years ago, we have customers in four different country and we are growing at 30% month on month. We are looking for a senior full stack engineer to be part of this journey. For more info about the company, please see our website <a href=\"http://www.calipsa.io\" target=\"_blank\" rel=\"nofollow\">www.calipsa.io</a></p>\n\n<p>Culture: </p>\n\n<ul>\n<li>Iterate fast - get it done mindset </li>\n<li>everything is possible attitude </li>\n<li>honest &amp; transparent </li>\n<li>collaborative</li>\n</ul>\n\n<p>Role description:</p>\n\n<ul>\n<li>You will lead the software infrastructure team and design and develop scalable systems and processes to support our growth</li>\n<li>You will be responsible for the security of the software infrastructure, ensuring compliance with industry standards</li>\n<li>You will be the connecting point between the various software engineering teams ensuring deployment of new changes to production environments</li>\n<li>You will create, maintain and test recovery of our software systems (backup, restore, infrastructure and automation)</li>\n<li>You will lead troubleshooting and resolution of issues throughout the product life cycle including out of hours support for incident resolution</li>\n</ul>\n\n<p>Essential requirements:</p>\n\n<ul>\n<li>Minimum 5 years experience working within engineering teams with some experience as a team lead</li>\n<li>Deep understanding of Linux/Unix environment</li>\n<li>Fluency with TCP/IP stack and network design (TCP/IP, HTTP(S), iptables)</li>\n<li>Experience with mass configuration management toolkit (Chef, Puppet, Ansible) - Understanding of technical security and risk mitigation</li>\n<li>Docker</li>\n<li>Google and Amazon web services</li>\n</ul>\n\n<p>Important information:</p>\n\n<p>We are based in London and ask applicants to be based here <br>\nPlease provide your github account alongside your CV to <a href=\"mailto:boris.ploix@calipsa.io\" target=\"_blank\" rel=\"nofollow\">boris.ploix@calipsa.io</a></p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£40k – £60k"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/dopplesoldner",
+        "name": "Mohammad Rashid",
+        "avatar": "https://photos.angel.co/users/283037-medium_jpg?1455025777"
+      },
+      "refs": {
+        "angelListId": "774557",
+        "angelListUrl": "https://angel.co/company/calipsaltd/jobs/774557-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "Senior Web Designer",
+      "description": "Calipsa aims at detecting and preventing crime. We are building a cloud based solution that connects with CCTV cameras in order to understand and flag any anomalies.\r\n\r\nFounded three years ago, we have customers in four different country and we are growing at 30% month on month. We are looking for a senior full stack engineer to be part of this journey. For more info about the company, please see our website www.calipsa.io\r\n\r\nCulture: \r\n- Iterate fast - get it done mindset \r\n- Everything is possible attitude \r\n- Honest &amp; transparent \r\n- Collaborative\r\n\r\nRole description:\r\n- You will own the design and development of Calipsa web interfaces\r\n- You will design the web-pages end-to-end: including managing content, testing website interactions and customise the user experience\r\n- You will A/B test different updates and liaise with customers\r\n\r\nEssential requirements:\r\n- Minimum 2 years professional experience in web design\r\n- Design-oriented university degree\r\n- Advanced in visual design applications, i.e. Sketch, Adobe Creative Suites, etc.\r\n- Prototyping skills with Invision or Marvel\r\n- Thorough understanding of Agile methodology and tools such as Jira and Confluence\r\n- Thorough understanding of user experience principles\r\n- Engaging and charismatic, willingness to meet with customers\r\n\r\nImportant information:\r\nWe are based in London and ask applicants to be based here \r\nPlease provide your github account alongside your CV to boris.ploix@calipsa.io",
+      "descriptionHtml": "<p>Calipsa aims at detecting and preventing crime. We are building a cloud based solution that connects with CCTV cameras in order to understand and flag any anomalies.</p>\n\n<p>Founded three years ago, we have customers in four different country and we are growing at 30% month on month. We are looking for a senior full stack engineer to be part of this journey. For more info about the company, please see our website <a href=\"http://www.calipsa.io\" target=\"_blank\" rel=\"nofollow\">www.calipsa.io</a></p>\n\n<p>Culture: </p>\n\n<ul>\n<li>Iterate fast - get it done mindset </li>\n<li>Everything is possible attitude </li>\n<li>Honest &amp; transparent </li>\n<li>Collaborative</li>\n</ul>\n\n<p>Role description:</p>\n\n<ul>\n<li>You will own the design and development of Calipsa web interfaces</li>\n<li>You will design the web-pages end-to-end: including managing content, testing website interactions and customise the user experience</li>\n<li>You will A/B test different updates and liaise with customers</li>\n</ul>\n\n<p>Essential requirements:</p>\n\n<ul>\n<li>Minimum 2 years professional experience in web design</li>\n<li>Design-oriented university degree</li>\n<li>Advanced in visual design applications, i.e. Sketch, Adobe Creative Suites, etc.</li>\n<li>Prototyping skills with Invision or Marvel</li>\n<li>Thorough understanding of Agile methodology and tools such as Jira and Confluence</li>\n<li>Thorough understanding of user experience principles</li>\n<li>Engaging and charismatic, willingness to meet with customers</li>\n</ul>\n\n<p>Important information:<br>\nWe are based in London and ask applicants to be based here <br>\nPlease provide your github account alongside your CV to <a href=\"mailto:boris.ploix@calipsa.io\" target=\"_blank\" rel=\"nofollow\">boris.ploix@calipsa.io</a></p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Web Design",
+        "Graphic Design",
+        "UI/UX Design",
+        "Agile",
+        "Prototyping"
+      ],
+      "payment": {
+        "salary": "£30k – £50k"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/dopplesoldner",
+        "name": "Mohammad Rashid",
+        "avatar": "https://photos.angel.co/users/283037-medium_jpg?1455025777"
+      },
+      "refs": {
+        "angelListId": "709983",
+        "angelListUrl": "https://angel.co/company/calipsaltd/jobs/709983-"
+      }
+    }
+  ]
+}

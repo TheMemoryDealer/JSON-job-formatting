@@ -1,0 +1,125 @@
+{
+  "name": "Popsa",
+  "avatar": "https://photos.angel.co/startups/i/1461998-ec5b728e6a485a6188dfbf7dcaa59b3d-medium_jpg.jpg?buster=1468935892",
+  "slogan": "Machine Learning for your Memories",
+  "description": "In an increasingly digital world, it's all too easy to lose your photos to the cloud or to the depths of your camera roll, never to be seen again.\n\nSo we decided to do something about it.\n\nPopsa launched in 2016 to bring your memories to life by printing them in beautiful, physical products that you can hold.\n\nHowever, instead of making you spend hours designing your product (like Snapfish or Photobox), we do the hard work for you in minutes.\n\nOur vision is to send you regular bundles of photos in the post without you having to think about it. Little presents to yourself. A monthly subscription to your memories.\n\nWe're developing technology to make it happen:\n\n• Machine learning to curate your most sentimental photos.\n• Bespoke algorithms to automatically design beautiful layouts.\n• The fastest delivery from the best printers in the world.\n\nCustomers will sign up and every month they'll unwrap a new collection of memories to keep for years to come.\n\nJoin us:\nhttps://blog.popsa.com/jobs",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://popsa.com/"
+    },
+    {
+      "type": "blog",
+      "url": "https://blog.popsa.com/"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/popsaco"
+    },
+    {
+      "type": "facebook",
+      "url": "https://facebook.com/popsaco"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://linkedin.com/company-beta/10521957/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Photography",
+    "Printing",
+    "Artificial Intelligence",
+    "Personalization"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/marcello-alessi",
+      "name": "Marcello Alessi",
+      "avatar": "https://photos.angel.co/users/2765167-medium_jpg?1492610798",
+      "bioHtml": "I am a London based entrepreneur."
+    },
+    {
+      "title": "CTO & Co-Founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/tomjcohen",
+      "name": "Tom Cohen",
+      "avatar": "https://photos.angel.co/users/2843355-medium_jpg?1487592618",
+      "bioHtml": "Mobile and Tech Entrepreneur. Co-Founder and CTO of Popsa. "
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/liam-houghton",
+      "name": "Liam Houghton",
+      "avatar": "https://photos.angel.co/users/611562-medium_jpg?1492692237",
+      "bioHtml": "Founder of Popsa. Former architect. <a href=\"https://angel.co/company/500startups\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">500 Startups</span></a> alumnus.\nCo-creator of Pollen VC, Digipill. \nOne of M.E.&#39;s 30 Under 30 rising stars to watch in mobile."
+    },
+    {
+      "title": "Head of Engineering",
+      "role": "Employee",
+      "url": "https://angel.co/u/alexbilbie",
+      "name": "Alex Bilbie",
+      "avatar": "https://photos.angel.co/users/8035241-medium_jpg?1530029076",
+      "bioHtml": "I have 10 years experience building high performance, redundant, multi-region cloud-based architectures for academia, government and startups."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "1461998",
+    "angelListUrl": "https://angel.co/company/popsa"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Platform Engineer",
+      "description": "Popsa is a design-led, engineering focussed company that uses machine learning to help people rediscover their best experiences and turn them into beautiful printed products.\n\nWe grew about 500% in 2018 and we’re now shipping over half a million photos a week to 50 countries around the world.\n\nThis position is a great opportunity for experienced software engineers with a background in the likes of Go, Python, PHP or Node.js looking to apply their existing skillset and learn and use Go in a production environment.\n\n### Our Platform Technology Stack\n\n* Most of our backend code is written in Go with some Python and Node.js used where they're the right tool for the job.\n* We’re entirely hosted on AWS and make extensive use of many of their services (over 30 at last count!)\n* 15+ containerised microservices running in ECS (we’re open to exploring moving to Kubernetes in the future if appropriate). Our services talk protocol buffers over HTTP and are discovered with Consul.\n* Dozens of event driven serverless functions running on Lambda, some running as APIs behind API Gateway and others as Step Functions\n* Dockerised batch compute workflows\n* NoSQL databases (predominantly DynamoDB and ElasticSearch)\n* Serverless analytics data lake backed by S3 using Athena (PrestoDB)\n* Terraform and Serverless Framework to manage our infrastructure as code\n\nRead more about our platform technology stack - https://blog.popsa.com/the-popsa-platform/.\n\nSome other blog posts you might find interesting too:\n\n* https://blog.popsa.com/how-we-optimised-our-api-to-reduce-network-overhead-by-up-to-70/\n* https://blog.popsa.com/why-and-how-security-and-privacy-at-popsa-is-a-first-class-citizen-not-an-obligation/\n\n### You and the Role\n\nThis is a central role and the work you’ll be doing will touch every aspect of the business. The Popsa platform doesn’t just power our mobile apps, but numerous internal business applications and custom integrations with our industrial print partners (some of this runs on a fleet of Raspberry PIs!), as well as a burgeoning data platform which will feed further into our growth strategies.\n\nOur Head of Engineering Alex likes to describe our platform as an iceberg - the bit customers encounter is just the tip above the water - underneath is a dynamic event-driven structure that enables us to be a lean business that can iterate and experiment rapidly.\n\nYou will gain a unique perspective of a high growth business and have an opportunity to shape the landscape of our backend APIs, data pipelines and strategies, infrastructure automation and many more engineering goals.\n\n### You Should Apply If\n\n* You're impact driven and eager to have a real positive impact on the company, product, users and very importantly your colleagues as well\n* You have a self-starter mindset; you proactively identify issues and opportunities and tackle them without being told to do so\n* You’re keen to learn more about and play around with new technologies\n* What we’re doing here at Popsa excites you!\n\n**Desired skill set:**\n\n* Strong competency with a language such as Go or Python; the majority of the Platform backend is written in Go, but we’re flexible and you'll have the opportunity to learn on the job as well as making use of your existing skillset.\n* You structure code for scalability, performance and testing\n* Experience writing and consuming RESTful and RPC APIs; you'll be designing and building new APIs for our mobile and web clients and integrating with new partners and suppliers\n* You know and appreciate automated testing\n* Experience with Linux-based operating systems\n* Experience with container technologies\n* Production database experience, bonus points for experience with both SQL and NoSQL databases\n\n**Bonus:**\n\n* Experience of continuous integration and continuous deployment\n* Experience with AWS services such as EC2, ECS, DynamoDB, S3, SNS, SQS and Lambda, as well as tools such as Terraform and Serverless\n* Experience designing, building and managing distributed event-driven * services\n* Knowledge or experience of data engineering; tooling, processes, architectures, libraries\n\n### Rewards\n\nSalary is negotiable and dependent on level of skill and experience; feel free to be honest and state your desired remuneration level.\n\nMost importantly, you will also get to own part of the business. Popsa has a share options scheme that is open to all employees. We'll tell you all about it as part of the interview process.",
+      "descriptionHtml": "<p>Popsa is a design-led, engineering focussed company that uses machine learning to help people rediscover their best experiences and turn them into beautiful printed products.</p>\n\n<p>We grew about 500% in 2018 and we’re now shipping over half a million photos a week to 50 countries around the world.</p>\n\n<p>This position is a great opportunity for experienced software engineers with a background in the likes of Go, Python, PHP or Node.js looking to apply their existing skillset and learn and use Go in a production environment.</p>\n<h3>Our Platform Technology Stack</h3>\n<ul>\n<li>Most of our backend code is written in Go with some Python and Node.js used where they&#39;re the right tool for the job.</li>\n<li>We’re entirely hosted on AWS and make extensive use of many of their services (over 30 at last count!)</li>\n<li>15+ containerised microservices running in ECS (we’re open to exploring moving to Kubernetes in the future if appropriate). Our services talk protocol buffers over HTTP and are discovered with Consul.</li>\n<li>Dozens of event driven serverless functions running on Lambda, some running as APIs behind API Gateway and others as Step Functions</li>\n<li>Dockerised batch compute workflows</li>\n<li>NoSQL databases (predominantly DynamoDB and ElasticSearch)</li>\n<li>Serverless analytics data lake backed by S3 using Athena (PrestoDB)</li>\n<li>Terraform and Serverless Framework to manage our infrastructure as code</li>\n</ul>\n\n<p>Read more about our platform technology stack - <a href=\"https://blog.popsa.com/the-popsa-platform/\" target=\"_blank\" rel=\"nofollow\">https://blog.popsa.com/the-popsa-platform/</a>.</p>\n\n<p>Some other blog posts you might find interesting too:</p>\n\n<ul>\n<li><a href=\"https://blog.popsa.com/how-we-optimised-our-api-to-reduce-network-overhead-by-up-to-70/\" target=\"_blank\" rel=\"nofollow\">https://blog.popsa.com/how-we-optimised-our-api-to-reduce-network-overhead-by-up-to-70/</a></li>\n<li><a href=\"https://blog.popsa.com/why-and-how-security-and-privacy-at-popsa-is-a-first-class-citizen-not-an-obligation/\" target=\"_blank\" rel=\"nofollow\">https://blog.popsa.com/why-and-how-security-and-privacy-at-popsa-is-a-first-class-citizen-not-an-obligation/</a></li>\n</ul>\n<h3>You and the Role</h3>\n<p>This is a central role and the work you’ll be doing will touch every aspect of the business. The Popsa platform doesn’t just power our mobile apps, but numerous internal business applications and custom integrations with our industrial print partners (some of this runs on a fleet of Raspberry PIs!), as well as a burgeoning data platform which will feed further into our growth strategies.</p>\n\n<p>Our Head of Engineering Alex likes to describe our platform as an iceberg - the bit customers encounter is just the tip above the water - underneath is a dynamic event-driven structure that enables us to be a lean business that can iterate and experiment rapidly.</p>\n\n<p>You will gain a unique perspective of a high growth business and have an opportunity to shape the landscape of our backend APIs, data pipelines and strategies, infrastructure automation and many more engineering goals.</p>\n<h3>You Should Apply If</h3>\n<ul>\n<li>You&#39;re impact driven and eager to have a real positive impact on the company, product, users and very importantly your colleagues as well</li>\n<li>You have a self-starter mindset; you proactively identify issues and opportunities and tackle them without being told to do so</li>\n<li>You’re keen to learn more about and play around with new technologies</li>\n<li>What we’re doing here at Popsa excites you!</li>\n</ul>\n\n<p><strong>Desired skill set:</strong></p>\n\n<ul>\n<li>Strong competency with a language such as Go or Python; the majority of the Platform backend is written in Go, but we’re flexible and you&#39;ll have the opportunity to learn on the job as well as making use of your existing skillset.</li>\n<li>You structure code for scalability, performance and testing</li>\n<li>Experience writing and consuming RESTful and RPC APIs; you&#39;ll be designing and building new APIs for our mobile and web clients and integrating with new partners and suppliers</li>\n<li>You know and appreciate automated testing</li>\n<li>Experience with Linux-based operating systems</li>\n<li>Experience with container technologies</li>\n<li>Production database experience, bonus points for experience with both SQL and NoSQL databases</li>\n</ul>\n\n<p><strong>Bonus:</strong></p>\n\n<ul>\n<li>Experience of continuous integration and continuous deployment</li>\n<li>Experience with AWS services such as EC2, ECS, DynamoDB, S3, SNS, SQS and Lambda, as well as tools such as Terraform and Serverless</li>\n<li>Experience designing, building and managing distributed event-driven * services</li>\n<li>Knowledge or experience of data engineering; tooling, processes, architectures, libraries</li>\n</ul>\n<h3>Rewards</h3>\n<p>Salary is negotiable and dependent on level of skill and experience; feel free to be honest and state your desired remuneration level.</p>\n\n<p>Most importantly, you will also get to own part of the business. Popsa has a share options scheme that is open to all employees. We&#39;ll tell you all about it as part of the interview process.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Greater London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "RESTful Services",
+        "Amazon Web Services",
+        "Docker",
+        "Microservices",
+        "Go",
+        "Serverless"
+      ],
+      "payment": {
+        "salary": "£50k – £70k"
+      },
+      "recruiter": {
+        "title": "Head of Engineering",
+        "role": "Employee",
+        "url": "https://angel.co/u/alexbilbie",
+        "name": "Alex Bilbie",
+        "avatar": "https://photos.angel.co/users/8035241-medium_jpg?1530029076"
+      },
+      "refs": {
+        "angelListId": "299952",
+        "angelListUrl": "https://angel.co/company/popsa/jobs/299952-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "name": "Swordfish",
+  "avatar": "https://photos.angel.co/startups/i/6835023-df95db762db36e9086efeeff96c9baba-medium_jpg.jpg?buster=1564855956",
+  "slogan": "Swordfish Plugin Finds Cell Phone Numbers & Emails On LinkedIn, Facebook, Twitter, ",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.swordfishapp.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Remote"
+  ],
+  "marketTags": [
+    "Data"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/ben-m-argeband",
+      "name": "Ben M. Argeband",
+      "avatar": "https://photos.angel.co/users/1638821-medium_jpg?1487015823",
+      "bioHtml": "Founder | Swordfish: Find cell numbers, personal emails"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/drewc343",
+      "name": "Drew Clark",
+      "avatar": "https://photos.angel.co/users/10428816-medium_jpg?1577730550",
+      "bioHtml": "I have always had a fascination with people, understanding the thought process behind their key decisions and their rationale in a diverse range of situations."
+    },
+    {
+      "title": "CEO",
+      "role": "Employee",
+      "url": "https://angel.co/u/ben-m-argeband",
+      "name": "Ben M. Argeband",
+      "avatar": "https://photos.angel.co/users/1638821-medium_jpg?1487015823",
+      "bioHtml": "Founder | Swordfish: Find cell numbers, personal emails"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6835023",
+    "angelListUrl": "https://angel.co/company/swordfish-extension"
+  },
+  "jobs": [
+    {
+      "role": "Sales",
+      "title": "Sales Development Representative (SDR) For SaaS Chrome Extension",
+      "description": "Swordfishapp.com is looking for a Sales Development Representative (SDR). \n\nRequirements:\n\n• Strong technical understanding\n• Active listening / “problem-seeking” skills\n• Patient \n• Helpful \n\nLocation:\nPreferably United Kingdom - Surrey <-> Dorset \nOr Remote\n\nPros:\nRemote flexible 2-3 weeks per month\nBase + Enterprise Level commission",
+      "descriptionHtml": "<p>Swordfishapp.com is looking for a Sales Development Representative (SDR). </p>\n\n<p>Requirements:</p>\n\n<p>• Strong technical understanding<br>\n• Active listening / “problem-seeking” skills<br>\n• Patient <br>\n• Helpful </p>\n\n<p>Location:<br>\nPreferably United Kingdom - Surrey &lt;-&gt; Dorset <br>\nOr Remote</p>\n\n<p>Pros:<br>\nRemote flexible 2-3 weeks per month<br>\nBase + Enterprise Level commission</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "United Kingdom",
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "United States",
+        "United Kingdom"
+      ],
+      "skills": [],
+      "payment": {
+        "salary": "$18k – $20k"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/ben-m-argeband",
+        "name": "Ben M. Argeband",
+        "avatar": "https://photos.angel.co/users/1638821-medium_jpg?1487015823"
+      },
+      "refs": {
+        "angelListId": "666923",
+        "angelListUrl": "https://angel.co/company/swordfish-extension/jobs/666923-"
+      }
+    }
+  ]
+}

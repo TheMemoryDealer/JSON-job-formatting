@@ -1,0 +1,327 @@
+{
+  "name": "Factmata",
+  "avatar": "https://photos.angel.co/startups/i/3195248-a26a0b86df9db733c61ca8a4ded15500-medium_jpg.jpg?buster=1517949876",
+  "slogan": "Machine learning to battle misinformation/disinformation",
+  "description": "Factmata's vision is to help empower the world to better understand what is going on in online content.\n\nWe are building a number of customer-facing SaaS products for businesses who lack the tools to understand online media content for things not possible before, including bias, leaning and threatful-ness, for the purposes of moderation, intelligence and insights. Factmata's engine for language classification and understanding has applications for investment research, hedge fund trading, programmatic advertising, search engines and more. \n\nFactmata has a vision to use its proprietary Factmata content understanding engine to build a media platform for sharing, questioning, curating and responding to online content, targeted at domain experts and news enthusiasts, focused on the quality and credibility of content rather than how many 'likes' it gets. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.factmata.com/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@factmata"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Natural Language Processing",
+    "Machine Learning",
+    "Artificial Intelligence",
+    "News"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 3054000,
+    "rounds": [
+      {
+        "type": "Pre-Seed",
+        "closedAt": 1559347200,
+        "valuation": 0
+      },
+      {
+        "type": "Pre-Seed",
+        "closedAt": 1532995200,
+        "valuation": 0
+      },
+      {
+        "type": "Pre-Seed",
+        "closedAt": 1517184000,
+        "valuation": 0
+      },
+      {
+        "type": "Pre-Seed",
+        "closedAt": 1481068800,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/dhruv-ghulati",
+      "name": "Dhruv Ghulati",
+      "avatar": "https://photos.angel.co/users/335264-medium_jpg?1405586446",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/factmata\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Factmata</span></a> • Worked at <a href=\"https://angel.co/company/goldman-sachs\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Goldman Sachs</span></a>, <a href=\"https://angel.co/company/import-io\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Import.io</span></a> <a href=\"https://angel.co/company/merrill-lynch\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Merrill Lynch</span></a> <a href=\"https://angel.co/company/weave\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Weave</span></a>.ai <a href=\"https://angel.co/company/hellofresh\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">HelloFresh</span></a> <a href=\"https://angel.co/company/entrepreneur-first\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Entrepreneur First</span></a> "
+    },
+    {
+      "title": "Scientific Advisor",
+      "role": "Founder",
+      "url": "https://angel.co/u/riedelcastro",
+      "name": "Sebastian Riedel",
+      "avatar": "https://photos.angel.co/users/5640397-medium_jpg?1501580122",
+      "bioHtml": "Associate Professor at UCL, Co-founder and Head of Research at Bloomsbury AI, Advisor at Factmata, Allen Distinguished Investigator"
+    },
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/andreas-vlachos-1",
+      "name": "Andreas Vlachos",
+      "avatar": "https://photos.angel.co/users/5184925-medium_jpg?1480247103",
+      "bioHtml": "Lecturer at the University of Sheffield, Advisor at Factmata"
+    },
+    {
+      "title": "NLP Research engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/claudio-ceruti-1",
+      "name": "Claudio Ceruti",
+      "avatar": "https://photos.angel.co/users/7857978-medium_jpg?1553185470",
+      "bioHtml": "Postodc at Universita&#39; degli Studi di Milano, currently Machine Learning Researcher in London"
+    },
+    {
+      "title": "Office Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/angelina-shaf",
+      "name": "Angelina Shaf",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at Factmata"
+    },
+    {
+      "title": "CTO",
+      "role": "Employee",
+      "url": "https://angel.co/u/karthikeyan-subramanian",
+      "name": "Karthikeyan Subramanian ",
+      "avatar": "https://photos.angel.co/users/506925-medium_jpg?1587727722",
+      "bioHtml": "Experienced at building backend services, big data solutions, leading product development and high performing team"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "3195248",
+    "angelListUrl": "https://angel.co/company/factmata"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Backend Engineer",
+      "description": "Factmata's mission is to allow anyone to discern and verify the credibility, quality, safety and reliability of online content. We are building state-of-the-art technology to semi-automatically score and verify news and social media using a combination of an expert network platform for machine learning, and advanced natural language understanding techniques. Our team consists of top researchers in NLP and machine learning, and we are backed by the founder of Twitter, Craigslist, Zynga and Broadcast.com.\r\n\r\n**The role:**\r\n\r\nTo further this pursuit, we are looking for Software Engineers to help us expand our backend services. You will be an integral part of the design and development of our platform and core infrastructure, ranging from building APIs to creating a continuous deployment system for machine learning models. You will be joining an already established small team of Engineers.\r\n\r\nCurrent tech stack\r\n- Python \r\n- Golang\r\n- AWS\r\n- Kubernetes\r\n- Kubeflow\r\n- Kafka\r\n- CircleCI\r\n- Grafana\r\n- Prometheus\r\n- ELK\r\n- Terraform\r\n- Ansible\r\n\r\n**What you'll be doing**\r\n\r\n- Building the backend APIs and applications to support all of our data processing pipelines.\r\n- Building the backend APIs for the customer facing services\r\n- Work closely with the data engineering and ML team and support them\r\n- Work closely with the CTO to build a scalable, fault tolerant and robust microservice based platform running on Kubernetes.\r\n\r\nWhat we're looking for\r\n- Proactive and positive attitude with ability to own projects\r\n- Passionate about writing clean, well tested and maintainable code\r\n- Experience with distributed systems\r\n- Experience with Golang/Python\r\n- Experience with Kubernetes\r\n- Experience building, maintaining and documenting customer facing REST API with a focus on security, usage limits and scalability.\r\n\r\nBonus points for\r\n- Experience with AWS\r\n- Experience with Kubeflow\r\n- Experience building CICD pipelines using Jenkins/CircleCI\r\n- Experience with Kafka/RabbitMQ\r\n- Experience building highly scalable data processing architecture using messaging systems.\r\n\r\nOur values\r\nJoining the Factmata family represents an unprecedented opportunity to be part of a team with an outstanding purpose and the rare potential to do good in the world.  We hire strongly for our values. \r\n- Deliver results for our users.\r\n- Do the basics.\r\n- In facts we trust.\r\n- Team sport.\r\n- Be candid.\r\n- Think Big! \r\n- Prioritise growth.\r\n- Show humility.\r\n- Humour.",
+      "descriptionHtml": "<p>Factmata&#39;s mission is to allow anyone to discern and verify the credibility, quality, safety and reliability of online content. We are building state-of-the-art technology to semi-automatically score and verify news and social media using a combination of an expert network platform for machine learning, and advanced natural language understanding techniques. Our team consists of top researchers in NLP and machine learning, and we are backed by the founder of Twitter, Craigslist, Zynga and Broadcast.com.</p>\n\n<p><strong>The role:</strong></p>\n\n<p>To further this pursuit, we are looking for Software Engineers to help us expand our backend services. You will be an integral part of the design and development of our platform and core infrastructure, ranging from building APIs to creating a continuous deployment system for machine learning models. You will be joining an already established small team of Engineers.</p>\n\n<p>Current tech stack</p>\n\n<ul>\n<li>Python </li>\n<li>Golang</li>\n<li>AWS</li>\n<li>Kubernetes</li>\n<li>Kubeflow</li>\n<li>Kafka</li>\n<li>CircleCI</li>\n<li>Grafana</li>\n<li>Prometheus</li>\n<li>ELK</li>\n<li>Terraform</li>\n<li>Ansible</li>\n</ul>\n\n<p><strong>What you&#39;ll be doing</strong></p>\n\n<ul>\n<li>Building the backend APIs and applications to support all of our data processing pipelines.</li>\n<li>Building the backend APIs for the customer facing services</li>\n<li>Work closely with the data engineering and ML team and support them</li>\n<li>Work closely with the CTO to build a scalable, fault tolerant and robust microservice based platform running on Kubernetes.</li>\n</ul>\n\n<p>What we&#39;re looking for</p>\n\n<ul>\n<li>Proactive and positive attitude with ability to own projects</li>\n<li>Passionate about writing clean, well tested and maintainable code</li>\n<li>Experience with distributed systems</li>\n<li>Experience with Golang/Python</li>\n<li>Experience with Kubernetes</li>\n<li>Experience building, maintaining and documenting customer facing REST API with a focus on security, usage limits and scalability.</li>\n</ul>\n\n<p>Bonus points for</p>\n\n<ul>\n<li>Experience with AWS</li>\n<li>Experience with Kubeflow</li>\n<li>Experience building CICD pipelines using Jenkins/CircleCI</li>\n<li>Experience with Kafka/RabbitMQ</li>\n<li>Experience building highly scalable data processing architecture using messaging systems.</li>\n</ul>\n\n<p>Our values<br>\nJoining the Factmata family represents an unprecedented opportunity to be part of a team with an outstanding purpose and the rare potential to do good in the world.  We hire strongly for our values. </p>\n\n<ul>\n<li>Deliver results for our users.</li>\n<li>Do the basics.</li>\n<li>In facts we trust.</li>\n<li>Team sport.</li>\n<li>Be candid.</li>\n<li>Think Big! </li>\n<li>Prioritise growth.</li>\n<li>Show humility.</li>\n<li>Humour.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "DevOps",
+        "Backend Development",
+        "Flask",
+        "CircleCI",
+        "Docker",
+        "Go (Golang)",
+        "Kubernetes"
+      ],
+      "payment": {
+        "salary": "£50k – £75k",
+        "equity": "0.2% – 0.4%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/dhruv-ghulati",
+        "name": "Dhruv Ghulati",
+        "avatar": "https://photos.angel.co/users/335264-medium_jpg?1405586446"
+      },
+      "refs": {
+        "angelListId": "587630",
+        "angelListUrl": "https://angel.co/company/factmata/jobs/587630-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Data Engineer",
+      "description": "Factmata is looking for an experienced and creative data engineer to help us solve the problem of misinformation online. At Factmata, we are building systems to automatically classify the credibility, quality, safety and reliability of online information, using state-of-the-art machine learning algorithms paired with human expertise.\r\n\r\nWe’re looking for someone who will have a key role in building our core product as we bring it to market. You will be working with the Head of Machine Learning to design and implement bulk data processing pipelines, streaming pipelines, various data and model storage systems, integration testing, and a slick development experience for the ML team and making sure our system scales to huge datasets.\r\n\r\nCurrent tech stack\r\n- Python \r\n- Golang\r\n- AWS\r\n- Kubernetes\r\n- Kubeflow\r\n- Kafka\r\n- CircleCI\r\n- Grafana\r\n- Prometheus\r\n- ELK\r\n- Terraform\r\n- Ansible\r\n\r\nWhat you'll be doing\r\n\r\n- Making the data engineering codebase production-ready and able to scale with growing datasets.\r\n- Building out our Core ML suite to be fault-tolerant, with continuous integration, testing, monitoring and deployment of new algorithm\r\n- Manage integrations with other platforms and products\r\n- Making our system scale to work on real time news, streaming at many objects per second, on huge databases e.g. Twitter firehose\r\n- Lead the data engineering team working closely with the Head of ML and CTO.\r\n\r\nWhat we're looking for\r\n\r\n- Proactive and positive attitude with ability to own projects and take work into your own hands\r\n- Experience with devops and the infrastructure aspects of building a scalable system, including experience deploying cloud services using container infrastructure, auto-scaling, monitoring\r\n- Experience with Python and engineering practices involved in scaling systems\r\n- Experience with Kubernetes, AWS\r\n- Experience building and maintaining data platforms handling large amounts of data a day.\r\n- Have a good understanding of production-ready software engineering practices, machine learning, and data engineering technologies. \r\n\r\nBonus points for experience with:\r\n\r\n- Experience with Kubeflow\r\n- Experience with Ansible, Terraform\r\n- Experience with Jenkins/CircleCI\r\n- Experience with Golang\r\n- Observability experience with Prometheus, Grafana, Kibana\r\n- Experience with Kafka/RabbitMQ.\r\n\r\nOur values\r\n\r\nJoining the Factmata family represents an unprecedented opportunity to be part of a team with an outstanding purpose and the rare potential to do good in the world.  We hire strongly for our values. \r\n- Deliver results for our users.\r\n- Do the basics.\r\n- In facts we trust.\r\n- Team sport.\r\n- Be candid.\r\n- Think Big! \r\n- Prioritise growth.\r\n- Show humility.\r\n- Humour.",
+      "descriptionHtml": "<p>Factmata is looking for an experienced and creative data engineer to help us solve the problem of misinformation online. At Factmata, we are building systems to automatically classify the credibility, quality, safety and reliability of online information, using state-of-the-art machine learning algorithms paired with human expertise.</p>\n\n<p>We’re looking for someone who will have a key role in building our core product as we bring it to market. You will be working with the Head of Machine Learning to design and implement bulk data processing pipelines, streaming pipelines, various data and model storage systems, integration testing, and a slick development experience for the ML team and making sure our system scales to huge datasets.</p>\n\n<p>Current tech stack</p>\n\n<ul>\n<li>Python </li>\n<li>Golang</li>\n<li>AWS</li>\n<li>Kubernetes</li>\n<li>Kubeflow</li>\n<li>Kafka</li>\n<li>CircleCI</li>\n<li>Grafana</li>\n<li>Prometheus</li>\n<li>ELK</li>\n<li>Terraform</li>\n<li>Ansible</li>\n</ul>\n\n<p>What you&#39;ll be doing</p>\n\n<ul>\n<li>Making the data engineering codebase production-ready and able to scale with growing datasets.</li>\n<li>Building out our Core ML suite to be fault-tolerant, with continuous integration, testing, monitoring and deployment of new algorithm</li>\n<li>Manage integrations with other platforms and products</li>\n<li>Making our system scale to work on real time news, streaming at many objects per second, on huge databases e.g. Twitter firehose</li>\n<li>Lead the data engineering team working closely with the Head of ML and CTO.</li>\n</ul>\n\n<p>What we&#39;re looking for</p>\n\n<ul>\n<li>Proactive and positive attitude with ability to own projects and take work into your own hands</li>\n<li>Experience with devops and the infrastructure aspects of building a scalable system, including experience deploying cloud services using container infrastructure, auto-scaling, monitoring</li>\n<li>Experience with Python and engineering practices involved in scaling systems</li>\n<li>Experience with Kubernetes, AWS</li>\n<li>Experience building and maintaining data platforms handling large amounts of data a day.</li>\n<li>Have a good understanding of production-ready software engineering practices, machine learning, and data engineering technologies. </li>\n</ul>\n\n<p>Bonus points for experience with:</p>\n\n<ul>\n<li>Experience with Kubeflow</li>\n<li>Experience with Ansible, Terraform</li>\n<li>Experience with Jenkins/CircleCI</li>\n<li>Experience with Golang</li>\n<li>Observability experience with Prometheus, Grafana, Kibana</li>\n<li>Experience with Kafka/RabbitMQ.</li>\n</ul>\n\n<p>Our values</p>\n\n<p>Joining the Factmata family represents an unprecedented opportunity to be part of a team with an outstanding purpose and the rare potential to do good in the world.  We hire strongly for our values. </p>\n\n<ul>\n<li>Deliver results for our users.</li>\n<li>Do the basics.</li>\n<li>In facts we trust.</li>\n<li>Team sport.</li>\n<li>Be candid.</li>\n<li>Think Big! </li>\n<li>Prioritise growth.</li>\n<li>Show humility.</li>\n<li>Humour.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Big Data",
+        "Leadership",
+        "Scaling Web Applications",
+        "Infrastructure",
+        "Natural Language Processing",
+        "Data Warehouse",
+        "AWS/EC2/ELB/S3/DynamoDB",
+        "Docker",
+        "Data Engineering",
+        "AWS",
+        "Kubernetes"
+      ],
+      "payment": {
+        "salary": "£60k – £80k",
+        "equity": "0.2% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/dhruv-ghulati",
+        "name": "Dhruv Ghulati",
+        "avatar": "https://photos.angel.co/users/335264-medium_jpg?1405586446"
+      },
+      "refs": {
+        "angelListId": "244186",
+        "angelListUrl": "https://angel.co/company/factmata/jobs/244186-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Head of Engineering",
+      "description": "**Description of the Role**\r\n\r\nFactmata is looking for an engaged and experienced Tech Lead/Head of Eng to help us solve the problem of misinformation online. At Factmata, we are building systems to automatically classify the credibility, quality, safety and reliability of online information, using state-of-the-art machine learning algorithms paired with human expertise, as well as empower businesses to understand trending narratives online.\r\n\r\nWe’re looking for someone who will have a key role in building our core product as we bring it to market. You will be responsible for setting up and managing the AWS infrastructure needed to run our data pipelines and application services. \r\n\r\nA key part of the role will be managing the development of all the SaaS software components that need to be built from our content understanding engine, including a backend architecture to ingest client social media data and content, and give context automatically on a polling schedule about the fake news/hate speech within it and trends around this. We also have a long roadmap around building APIs.\r\n\r\nYou will work closely with the Machine Learning team to support them with their infrastructure requirements. You also need to be a confident, proactive colleague who can take work into your own hands.\r\n\r\nCurrent tech stack\r\n- Python \r\n- Golang\r\n- AWS\r\n- Kubernetes\r\n- Kubeflow\r\n- Kafka\r\n- CircleCI\r\n- Grafana\r\n- Prometheus\r\n- ELK\r\n- Terraform\r\n- Ansible\r\n\r\n**What you'll be doing**\r\n\r\n- Building and managing the various Kubernetes environments on AWS\r\n- Supporting data engineers and ML engineers to build data pipelines using Kubeflow\r\n- Making sure we can move from processing 00s of websites/URLs in the content understanding engine to millions so we can handle large ad tech clients\r\n- Making sure we have orchestrators, multi-threading and parallelisation in our architecture\r\n- Building out APIs to each ML model component we have built already\r\n- Support engineering team when deploying new features or services\r\n- Ensure everything we deploy is secure, performant and observable\r\n- Leading the platform team working closely with the ML Roadmap to ensure it can be executed and models can be run effectively in our pipeline.\r\n\r\n**What we're looking for**\r\n\r\n- Proactive and positive attitude with ability to own projects\r\n- Experience building and managing Kubernetes infrastructure on AWS and knowledge of virtualisation with proven wins\r\n- Passionate about writing clean, well tested, and maintainable code\r\n- Experience with distributed systems\r\n- Experience with AWS, Kubernetes, Terraform, Jenkins / CircleCI\r\n- Keen eye for doing things consistently, maintaining a clean architecture and making it possible for our development team to iterate and deploy quickly and smoothly. \r\n\r\nBonus points for experience with:\r\n\r\n- Experience with Ansible\r\n- Experience with Hashicorp Vault\r\n- Observability experience with Prometheus, Grafana, Kibana\r\n- Experience with Kafka/RabbitMQ.\r\n\r\nOur values\r\nJoining the Factmata family represents an unprecedented opportunity to be part of a team with an outstanding purpose and the rare potential to do good in the world.  We hire strongly for our values. \r\n- Deliver results for our users.\r\n- Do the basics.\r\n- In facts we trust.\r\n- Team sport.\r\n- Be candid.\r\n- Think Big! \r\n- Prioritise growth.\r\n- Show humility.\r\n- Humour.\r\n\r\nIf you aren't completely confident that you fit our exact criteria, please get in touch immediately. Humility is a wonderful thing - we're at least as interested in character as in talent. Factmata is an environment you will learn in and be challenged, develop and grow as a person, build phenomenal technology, be given limitless opportunities to innovate and research, given autonomy, and connected with some of the brightest minds to help you do your work",
+      "descriptionHtml": "<p><strong>Description of the Role</strong></p>\n\n<p>Factmata is looking for an engaged and experienced Tech Lead/Head of Eng to help us solve the problem of misinformation online. At Factmata, we are building systems to automatically classify the credibility, quality, safety and reliability of online information, using state-of-the-art machine learning algorithms paired with human expertise, as well as empower businesses to understand trending narratives online.</p>\n\n<p>We’re looking for someone who will have a key role in building our core product as we bring it to market. You will be responsible for setting up and managing the AWS infrastructure needed to run our data pipelines and application services. </p>\n\n<p>A key part of the role will be managing the development of all the SaaS software components that need to be built from our content understanding engine, including a backend architecture to ingest client social media data and content, and give context automatically on a polling schedule about the fake news/hate speech within it and trends around this. We also have a long roadmap around building APIs.</p>\n\n<p>You will work closely with the Machine Learning team to support them with their infrastructure requirements. You also need to be a confident, proactive colleague who can take work into your own hands.</p>\n\n<p>Current tech stack</p>\n\n<ul>\n<li>Python </li>\n<li>Golang</li>\n<li>AWS</li>\n<li>Kubernetes</li>\n<li>Kubeflow</li>\n<li>Kafka</li>\n<li>CircleCI</li>\n<li>Grafana</li>\n<li>Prometheus</li>\n<li>ELK</li>\n<li>Terraform</li>\n<li>Ansible</li>\n</ul>\n\n<p><strong>What you&#39;ll be doing</strong></p>\n\n<ul>\n<li>Building and managing the various Kubernetes environments on AWS</li>\n<li>Supporting data engineers and ML engineers to build data pipelines using Kubeflow</li>\n<li>Making sure we can move from processing 00s of websites/URLs in the content understanding engine to millions so we can handle large ad tech clients</li>\n<li>Making sure we have orchestrators, multi-threading and parallelisation in our architecture</li>\n<li>Building out APIs to each ML model component we have built already</li>\n<li>Support engineering team when deploying new features or services</li>\n<li>Ensure everything we deploy is secure, performant and observable</li>\n<li>Leading the platform team working closely with the ML Roadmap to ensure it can be executed and models can be run effectively in our pipeline.</li>\n</ul>\n\n<p><strong>What we&#39;re looking for</strong></p>\n\n<ul>\n<li>Proactive and positive attitude with ability to own projects</li>\n<li>Experience building and managing Kubernetes infrastructure on AWS and knowledge of virtualisation with proven wins</li>\n<li>Passionate about writing clean, well tested, and maintainable code</li>\n<li>Experience with distributed systems</li>\n<li>Experience with AWS, Kubernetes, Terraform, Jenkins / CircleCI</li>\n<li>Keen eye for doing things consistently, maintaining a clean architecture and making it possible for our development team to iterate and deploy quickly and smoothly. </li>\n</ul>\n\n<p>Bonus points for experience with:</p>\n\n<ul>\n<li>Experience with Ansible</li>\n<li>Experience with Hashicorp Vault</li>\n<li>Observability experience with Prometheus, Grafana, Kibana</li>\n<li>Experience with Kafka/RabbitMQ.</li>\n</ul>\n\n<p>Our values<br>\nJoining the Factmata family represents an unprecedented opportunity to be part of a team with an outstanding purpose and the rare potential to do good in the world.  We hire strongly for our values. </p>\n\n<ul>\n<li>Deliver results for our users.</li>\n<li>Do the basics.</li>\n<li>In facts we trust.</li>\n<li>Team sport.</li>\n<li>Be candid.</li>\n<li>Think Big! </li>\n<li>Prioritise growth.</li>\n<li>Show humility.</li>\n<li>Humour.</li>\n</ul>\n\n<p>If you aren&#39;t completely confident that you fit our exact criteria, please get in touch immediately. Humility is a wonderful thing - we&#39;re at least as interested in character as in talent. Factmata is an environment you will learn in and be challenged, develop and grow as a person, build phenomenal technology, be given limitless opportunities to innovate and research, given autonomy, and connected with some of the brightest minds to help you do your work</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Distributed Systems",
+        "DevOps",
+        "Kafka",
+        "Ansible",
+        "ElasticSearch ",
+        "AWS",
+        "Kubernetes",
+        "Terraform",
+        "Prometheus",
+        "Grafana",
+        "Hashicorp Vault",
+        "Kubeflow"
+      ],
+      "payment": {
+        "salary": "£60k – £100k",
+        "equity": "1.0% – 2.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/dhruv-ghulati",
+        "name": "Dhruv Ghulati",
+        "avatar": "https://photos.angel.co/users/335264-medium_jpg?1405586446"
+      },
+      "refs": {
+        "angelListId": "451429",
+        "angelListUrl": "https://angel.co/company/factmata/jobs/451429-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Data Engineer",
+      "description": "Factmata is looking for an experienced and creative data engineer to help us solve the problem of misinformation online. At Factmata, we are building systems to automatically classify the credibility, quality, safety and reliability of online information, using state-of-the-art machine learning algorithms paired with human expertise.\r\n\r\nWe’re looking for someone who will have a key role in building our core product as we bring it to market. You'll be responsible for adding new features to our data pipeline, connecting it to our machine learning systems, databases and external services. You will also be responsible for creating and maintaining our B2B APIs, to enable our clients to push and pull data from our data pipeline.\r\n\r\nCurrent stack: Python 3, PostgreSQL, RabbitMQ, CircleCI, Docker, Kubernetes, AWS\r\n\r\nWhat you'll be doing\r\n\r\n- Develop data and model storage systems \r\n- Coordinate with both the business product and user product teams to ensure high quality engineering in an agile environment\r\n- Scale and maintain our message-based data processing pipeline \r\n- Extend and build upon our existing B2B APIs\r\n- Develop web scraping architecture\r\n- Manage integrations with other platforms and products\r\n\r\nWhat we're looking for\r\n\r\n- Proactive and positive attitude with ability to own projects and take work into your own hands\r\n- Passionate about writing clean, well tested, and maintainable code\r\n- PostgreSQL (or MySQL) experience\r\n- 5+ years work experience \r\n- Extensive Python experience \r\n- Experience with distributed systems \r\n- Experience with Docker\r\n- Experience developing distributed microservices in Python\r\n\r\nBonus points for experience with:\r\n\r\n- Building complex data processing pipelines\r\n- Building scalable REST APIs\r\n- Experience with CI tools such as CircleCI\r\n- RabbitMQ\r\n- Real time distributed systems processing\r\n- Data pipelines that can handle &gt;1m URLs per hour\r\n\r\nPlease note the role is based in London, and is an on-site role. You must have existing eligibility to work in the United Kingdom.",
+      "descriptionHtml": "<p>Factmata is looking for an experienced and creative data engineer to help us solve the problem of misinformation online. At Factmata, we are building systems to automatically classify the credibility, quality, safety and reliability of online information, using state-of-the-art machine learning algorithms paired with human expertise.</p>\n\n<p>We’re looking for someone who will have a key role in building our core product as we bring it to market. You&#39;ll be responsible for adding new features to our data pipeline, connecting it to our machine learning systems, databases and external services. You will also be responsible for creating and maintaining our B2B APIs, to enable our clients to push and pull data from our data pipeline.</p>\n\n<p>Current stack: Python 3, PostgreSQL, RabbitMQ, CircleCI, Docker, Kubernetes, AWS</p>\n\n<p>What you&#39;ll be doing</p>\n\n<ul>\n<li>Develop data and model storage systems </li>\n<li>Coordinate with both the business product and user product teams to ensure high quality engineering in an agile environment</li>\n<li>Scale and maintain our message-based data processing pipeline </li>\n<li>Extend and build upon our existing B2B APIs</li>\n<li>Develop web scraping architecture</li>\n<li>Manage integrations with other platforms and products</li>\n</ul>\n\n<p>What we&#39;re looking for</p>\n\n<ul>\n<li>Proactive and positive attitude with ability to own projects and take work into your own hands</li>\n<li>Passionate about writing clean, well tested, and maintainable code</li>\n<li>PostgreSQL (or MySQL) experience</li>\n<li>5+ years work experience </li>\n<li>Extensive Python experience </li>\n<li>Experience with distributed systems </li>\n<li>Experience with Docker</li>\n<li>Experience developing distributed microservices in Python</li>\n</ul>\n\n<p>Bonus points for experience with:</p>\n\n<ul>\n<li>Building complex data processing pipelines</li>\n<li>Building scalable REST APIs</li>\n<li>Experience with CI tools such as CircleCI</li>\n<li>RabbitMQ</li>\n<li>Real time distributed systems processing</li>\n<li>Data pipelines that can handle &gt;1m URLs per hour</li>\n</ul>\n\n<p>Please note the role is based in London, and is an on-site role. You must have existing eligibility to work in the United Kingdom.</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "SQL",
+        "Big Data",
+        "Distributed Systems",
+        "Data Engineering"
+      ],
+      "payment": {
+        "salary": "£60k – £85k",
+        "equity": "0.2% – 0.6%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/dhruv-ghulati",
+        "name": "Dhruv Ghulati",
+        "avatar": "https://photos.angel.co/users/335264-medium_jpg?1405586446"
+      },
+      "refs": {
+        "angelListId": "451432",
+        "angelListUrl": "https://angel.co/company/factmata/jobs/451432-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Software/Data Engineer",
+      "description": "The role\r\n\r\nFactmata is looking for an engaged and creative engineer to help us solve the problem of misinformation online. You will be an integral part in the design and development of our platform and core infrastructure, ranging from building APIs to creating a continuous deployment system for machine learning models. \r\n\r\nIf you aren't completely confident that you fit our exact criteria, please get in touch immediately. Humility is a wonderful thing - we're at least as interested in character as in talent. Factmata is an environment you will learn in and be challenged, develop and grow as a person, build phenomenal technology, be given limitless opportunities to innovate and research, given autonomy, and connected with some of the brightest minds to help you do your work\r\n\r\nCurrent stack: Python 3, PostgreSQL, Elasticsearch, RabbitMQ, CircleCI, Docker, Kubernetes, AWS\r\n\r\nWhat you'll be doing\r\n\r\n- Design and implement our B2B APIs and the required infrastructure\r\n- Develop data and model storage systems \r\n- Scale and maintain our message-based data processing pipeline \r\n- Develop web scraping architecture\r\n- Manage integrations with other platforms and products, and test these strategic partners\r\n\r\nWhat we're looking for\r\n\r\n- Proactive and positive attitude with ability to own and drive projects\r\n- Passionate about writing clean, well tested, and maintainable code\r\n- Willingness to be pragmatic when the situation calls for it\r\n- Extensive Python experience, or willingness and ability to learn quickly \r\n- Very good knowledge of several database technologies, including at least one traditional RDBMS like Postgres or MySQL \r\n- Interest in and experience with distributed systems \r\n\r\nBonus points for experience with:\r\n- using Docker in production\r\n- building complex data processing pipelines\r\n- building scalable REST APIs",
+      "descriptionHtml": "<p>The role</p>\n\n<p>Factmata is looking for an engaged and creative engineer to help us solve the problem of misinformation online. You will be an integral part in the design and development of our platform and core infrastructure, ranging from building APIs to creating a continuous deployment system for machine learning models. </p>\n\n<p>If you aren&#39;t completely confident that you fit our exact criteria, please get in touch immediately. Humility is a wonderful thing - we&#39;re at least as interested in character as in talent. Factmata is an environment you will learn in and be challenged, develop and grow as a person, build phenomenal technology, be given limitless opportunities to innovate and research, given autonomy, and connected with some of the brightest minds to help you do your work</p>\n\n<p>Current stack: Python 3, PostgreSQL, Elasticsearch, RabbitMQ, CircleCI, Docker, Kubernetes, AWS</p>\n\n<p>What you&#39;ll be doing</p>\n\n<ul>\n<li>Design and implement our B2B APIs and the required infrastructure</li>\n<li>Develop data and model storage systems </li>\n<li>Scale and maintain our message-based data processing pipeline </li>\n<li>Develop web scraping architecture</li>\n<li>Manage integrations with other platforms and products, and test these strategic partners</li>\n</ul>\n\n<p>What we&#39;re looking for</p>\n\n<ul>\n<li>Proactive and positive attitude with ability to own and drive projects</li>\n<li>Passionate about writing clean, well tested, and maintainable code</li>\n<li>Willingness to be pragmatic when the situation calls for it</li>\n<li>Extensive Python experience, or willingness and ability to learn quickly </li>\n<li>Very good knowledge of several database technologies, including at least one traditional RDBMS like Postgres or MySQL </li>\n<li>Interest in and experience with distributed systems </li>\n</ul>\n\n<p>Bonus points for experience with:</p>\n\n<ul>\n<li>using Docker in production</li>\n<li>building complex data processing pipelines</li>\n<li>building scalable REST APIs</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Software Architecture",
+        "Distributed Systems",
+        "PostgreSQL",
+        "Web Scraping",
+        "REST APIs",
+        "Docker",
+        "Data Engineering",
+        "Kubernetes",
+        "Celery and Rabbit MQ"
+      ],
+      "payment": {
+        "salary": "£55k – £65k",
+        "equity": "0.1% – 0.3%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/karthikeyan-subramanian",
+        "name": "Karthikeyan Subramanian ",
+        "avatar": "https://photos.angel.co/users/506925-medium_jpg?1587727722"
+      },
+      "refs": {
+        "angelListId": "393604",
+        "angelListUrl": "https://angel.co/company/factmata/jobs/393604-"
+      }
+    }
+  ]
+}

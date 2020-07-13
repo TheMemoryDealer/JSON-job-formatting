@@ -1,0 +1,410 @@
+{
+  "name": "Engine Room",
+  "avatar": "https://photos.angel.co/startups/i/6862368-a42df67d82a2754bb5479b8055b6a4d7-medium_jpg.jpg?buster=1553862508",
+  "slogan": "On a mission to make the world a better place for animals, it's people and the environment",
+  "description": "We consider ourselves experienced engineers and not simply coders and designers. Our team consists of true visionaries and have a unique combination of multi market backgrounds. \n\nWe operate within social media, gaming, FinTech and traditional software development. We are a hothouse of talent with a wide area of expertise and knowhow.\n\nWe create the most flexible and modular frontend and backend systems that allow for faster iterations than ever seen before. We give brands the tools to have control over their story . . .but most importantly, we have a common passion for creating beautiful, innovative, no-nonsense, cutting edge solutions. \n\nWe invest in our teams and are one of the fastest growing agencies in Europe. We strongly encourage remote working, team play and personal development. If you have exceptional talent, we want to hear from you.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://ourengineroom.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "Warsaw",
+    "Isle of Man",
+    "London",
+    "Kiev",
+    "England",
+    "Poland",
+    "Ukraine",
+    "Remote",
+    "Argentina",
+    "Montreal"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Games",
+    "Blockchain / Cryptocurrency",
+    "Social Media",
+    "Fin Tech"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/kaspar-strandskov",
+      "name": "Kaspar Strandskov",
+      "avatar": "https://graph.facebook.com/10159248615976562/picture?type=large",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/engine-room-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Engine Room</span></a>"
+    },
+    {
+      "title": "Software Developer",
+      "role": "Employee",
+      "url": "https://angel.co/u/awdallah",
+      "name": "Elsayed Awdallah",
+      "avatar": "https://photos.angel.co/users/1036880-medium_jpg?1567350172",
+      "bioHtml": "Mobile and full stack developer, GSoC alumni, and ImagineCup Local finalist."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/ignacio-bononi",
+      "name": "Ignacio Bononi",
+      "avatar": "https://photos.angel.co/users/4947598-medium_jpg?1557542764",
+      "bioHtml": "I&#39;m a Developer with more than 15 years in the industry. I did apps, games and webs for companies such as MTV Networks, Nickelodeon, HP, etc."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/phillip-snelling",
+      "name": "Phillip Snelling",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at Engine Room 2 years"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6862368",
+    "angelListUrl": "https://angel.co/company/engine-room-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Backend developer: Python",
+      "description": "We’re looking for a talented backend developer to join our company,  remotely. The role includes working on projects with international brands as well as medium to large sized clients. The successful applicant will collaborate closely with our key teams across the Vivid Unity and Behind The Chain.\r\n\r\nStrong Python experience is a key requirement.\r\n\r\nWe have nationalities from all over the world and are a very diverse and dynamic company. We don’t really care where in the world you live as long as you can be available during European work hours.\r\n\r\nSo if you love code - passionately, talented but also a team player, and want to work for a fast growing creative and technology driven company, then get in touch.",
+      "descriptionHtml": "<p>We’re looking for a talented backend developer to join our company,  remotely. The role includes working on projects with international brands as well as medium to large sized clients. The successful applicant will collaborate closely with our key teams across the Vivid Unity and Behind The Chain.</p>\n\n<p>Strong Python experience is a key requirement.</p>\n\n<p>We have nationalities from all over the world and are a very diverse and dynamic company. We don’t really care where in the world you live as long as you can be available during European work hours.</p>\n\n<p>So if you love code - passionately, talented but also a team player, and want to work for a fast growing creative and technology driven company, then get in touch.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "Europe",
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Javascript",
+        "Django",
+        "MySQL"
+      ],
+      "payment": {
+        "salary": "$15k – $50k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/kaspar-strandskov",
+        "name": "Kaspar Strandskov",
+        "avatar": "https://graph.facebook.com/10159248615976562/picture?type=large"
+      },
+      "refs": {
+        "angelListId": "529706",
+        "angelListUrl": "https://angel.co/company/engine-room-1/jobs/529706-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "C++ / C# / Blockchain Engineer",
+      "description": "We’re looking for a talented blockchain developer to join our company, preferably remotely. The role includes working on projects with international brands as well as medium to large sized clients. The successful applicant will collaborate closely with our teams at Vivid Unity and Behind The Chain as well as our key team across the company.\r\n\r\nThe role includes working on a new interest based social media platform, blockchain wallet technology, blockchain work as well as smart contract development. You should be familiar with one of the major blockchains such as Ethereum or an alternative such as Hyper Ledger. The successful applicant will collaborate closely with our other developers as well as our key team across the company.\r\n\r\nWe have nationalities from all over the world and are a very diverse and dynamic company. We don’t really care where in the world you live as long as you can be available during European work hours.\r\n\r\nSo if you love code - passionately, talented but also a team player, and want to work for a fast growing creative and technology driven company, then get in touch.",
+      "descriptionHtml": "<p>We’re looking for a talented blockchain developer to join our company, preferably remotely. The role includes working on projects with international brands as well as medium to large sized clients. The successful applicant will collaborate closely with our teams at Vivid Unity and Behind The Chain as well as our key team across the company.</p>\n\n<p>The role includes working on a new interest based social media platform, blockchain wallet technology, blockchain work as well as smart contract development. You should be familiar with one of the major blockchains such as Ethereum or an alternative such as Hyper Ledger. The successful applicant will collaborate closely with our other developers as well as our key team across the company.</p>\n\n<p>We have nationalities from all over the world and are a very diverse and dynamic company. We don’t really care where in the world you live as long as you can be available during European work hours.</p>\n\n<p>So if you love code - passionately, talented but also a team player, and want to work for a fast growing creative and technology driven company, then get in touch.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Europe",
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "C++",
+        "C#",
+        "Go (Golang)",
+        "Solidity",
+        "Smart Contracts"
+      ],
+      "payment": {
+        "salary": "$28k – $48k",
+        "equity": "0.0% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/kaspar-strandskov",
+        "name": "Kaspar Strandskov",
+        "avatar": "https://graph.facebook.com/10159248615976562/picture?type=large"
+      },
+      "refs": {
+        "angelListId": "529715",
+        "angelListUrl": "https://angel.co/company/engine-room-1/jobs/529715-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Frontend Developer",
+      "description": "We’re looking for a talented frontend developer to join our company, either remotely or in Poland or the United Kingdom. The role includes working on projects with international brands as well as medium to large sized clients. The successful applicant will collaborate closely with our technical project manager at Vivid Unity as well as our key team across the company.\r\n\r\nThe successful applicant will be programming the frontend component of JSON API based web applications and be working closely with our Technical Project Manager, CSS Developers and Backend Developers. \r\n\r\nRequirements:\r\n\r\nVue.js (or any other major framework that utilises data binding)\r\nReact Native\r\nAdvanced Javascript Programming\r\njQuery\r\nHTML/CSS\r\nCollaborating with Git\r\nProficient English\r\n\r\nAbout Engine Room:\r\n\r\nEngine Room is a successful international company with Scandinavian and English clients and although we are now four years old, we still maintain a strong startup culture within the company. We have two key divisions within the company. Vivid Unity, is a creative agency, specialising in strategy, branding and technology for mid to large multinationals whilst Behind The Chain is our new blockchain company, primarily engaged in FinTech.\r\n\r\nWe have nationalities from all over the world and are a very diverse and dynamic company. We don’t really care where in the world you live as long as you can be available during European work hours.\r\n\r\nSo if you love code - passionately, talented but also a team player, and want to work for a fast growing creative and technology driven company, then get in touch.",
+      "descriptionHtml": "<p>We’re looking for a talented frontend developer to join our company, either remotely or in Poland or the United Kingdom. The role includes working on projects with international brands as well as medium to large sized clients. The successful applicant will collaborate closely with our technical project manager at Vivid Unity as well as our key team across the company.</p>\n\n<p>The successful applicant will be programming the frontend component of JSON API based web applications and be working closely with our Technical Project Manager, CSS Developers and Backend Developers. </p>\n\n<p>Requirements:</p>\n\n<p>Vue.js (or any other major framework that utilises data binding)<br>\nReact Native<br>\nAdvanced Javascript Programming<br>\njQuery<br>\nHTML/CSS<br>\nCollaborating with Git<br>\nProficient English</p>\n\n<p>About Engine Room:</p>\n\n<p>Engine Room is a successful international company with Scandinavian and English clients and although we are now four years old, we still maintain a strong startup culture within the company. We have two key divisions within the company. Vivid Unity, is a creative agency, specialising in strategy, branding and technology for mid to large multinationals whilst Behind The Chain is our new blockchain company, primarily engaged in FinTech.</p>\n\n<p>We have nationalities from all over the world and are a very diverse and dynamic company. We don’t really care where in the world you live as long as you can be available during European work hours.</p>\n\n<p>So if you love code - passionately, talented but also a team player, and want to work for a fast growing creative and technology driven company, then get in touch.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "Europe",
+        "Ukraine",
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "jQuery",
+        "HTML5 & CSS3",
+        "React.js",
+        "Vue.Js",
+        "React Native"
+      ],
+      "payment": {
+        "salary": "$10k – $18k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/kaspar-strandskov",
+        "name": "Kaspar Strandskov",
+        "avatar": "https://graph.facebook.com/10159248615976562/picture?type=large"
+      },
+      "refs": {
+        "angelListId": "530641",
+        "angelListUrl": "https://angel.co/company/engine-room-1/jobs/530641-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Lead DevOps Engineer",
+      "description": "We’re looking for a talented DevOps Engineer to join our company, remotely. The successful applicant will collaborate closely with our teams at Vivid Unity and Behind The Chain as well as our key teams across the company.\r\n\r\nWhat you do:\r\n\r\nWork experience as a DevOps Engineer or similar software engineering role\r\nStrong understanding of AWS\r\nGood knowledge of Ruby or Python would be useful\r\nWorking knowledge of databases and SQL\r\nProblem-solving attitude\r\nTeam spirit\r\nBSc in Computer Science, Engineering or relevant field\r\n\r\nAbout Engine Room &amp; Vivid Unity:\r\n\r\nEngine Room is a successful international company with Scandinavian and English clients and although we are now four years old, we still maintain a strong startup culture within the company. We have two key divisions within the company. Vivid Unity, is a creative agency, specialising in strategy, branding and technology for mid to large multinationals whilst Behind The Chain is our new blockchain company, primarily engaged in FinTech.\r\n\r\nWe have nationalities from all over the world and are a very diverse and dynamic company. We don’t really care where in the world you live as long as you can be available during European work hours. We collaborate online with monday.com, Gitlab and Google Docs.\r\n\r\nSo if you love code - passionately, talented but also a team player, and want to work for a fast growing creative and technology driven company, then get in touch.",
+      "descriptionHtml": "<p>We’re looking for a talented DevOps Engineer to join our company, remotely. The successful applicant will collaborate closely with our teams at Vivid Unity and Behind The Chain as well as our key teams across the company.</p>\n\n<p>What you do:</p>\n\n<p>Work experience as a DevOps Engineer or similar software engineering role<br>\nStrong understanding of AWS<br>\nGood knowledge of Ruby or Python would be useful<br>\nWorking knowledge of databases and SQL<br>\nProblem-solving attitude<br>\nTeam spirit<br>\nBSc in Computer Science, Engineering or relevant field</p>\n\n<p>About Engine Room &amp; Vivid Unity:</p>\n\n<p>Engine Room is a successful international company with Scandinavian and English clients and although we are now four years old, we still maintain a strong startup culture within the company. We have two key divisions within the company. Vivid Unity, is a creative agency, specialising in strategy, branding and technology for mid to large multinationals whilst Behind The Chain is our new blockchain company, primarily engaged in FinTech.</p>\n\n<p>We have nationalities from all over the world and are a very diverse and dynamic company. We don’t really care where in the world you live as long as you can be available during European work hours. We collaborate online with monday.com, Gitlab and Google Docs.</p>\n\n<p>So if you love code - passionately, talented but also a team player, and want to work for a fast growing creative and technology driven company, then get in touch.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "Europe",
+        "Ukraine",
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Git",
+        "Linux",
+        "Docker",
+        "AWS"
+      ],
+      "payment": {
+        "salary": "$25k – $45k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/kaspar-strandskov",
+        "name": "Kaspar Strandskov",
+        "avatar": "https://graph.facebook.com/10159248615976562/picture?type=large"
+      },
+      "refs": {
+        "angelListId": "530648",
+        "angelListUrl": "https://angel.co/company/engine-room-1/jobs/530648-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Sr. Unity Developer + php",
+      "description": "We’re looking for a talented Senior Unity 3D + php to join our company, either remotely or in Poland or the United Kingdom. The role includes working on projects with international brands as well as medium to large sized clients. The successful applicant will collaborate closely with our technical project manager at Vivid Unity and Behind The Chain as well as our global team across the company.\r\n\r\nThe role includes working on some very cool AR games as well as wallet and chat technologies. The successful applicant will collaborate closely with our designers and creatives as well as our key team across the company.\r\n\r\nWhat you do:\r\n\r\nDevelop clean, optimized code using common Unity tools with C#, C++, and other native kits and building primarily for hand-held and head-mounted display hardware\r\nWrite custom plugins for Unity or native Android &amp; iOS interfaces\r\nWork alongside 3D artists and animators on model preparation for Unity\r\nUse multiple SDKs to integrate AR/VR tracking, computer vision (CV), and haptics into Unity\r\nLearn and stay up-to-date with 3D rendering engine and game development standards\r\nYou are passionate about mobile games\r\n\r\n\r\nBig plus:\r\nphp API programming \r\nDatabase design and optimization (PostgreSQL)\r\n\r\nAn understanding of blockchain technologies\r\nGood spoken English and willing to talk on voice chat to collaborate with coworkers\r\n\r\nAbout Engine Room:\r\n\r\nEngine Room is a successful international company with Scandinavian and English clients and although we are now four years old, we still maintain a strong startup culture within the company. We have two key divisions within the company. Vivid Unity, is a creative agency, specialising in strategy, branding and technology for mid to large multinationals whilst Behind The Chain is our new blockchain company, primarily engaged in FinTech.\r\n\r\nWe have nationalities from all over the world and are a very diverse and dynamic company. We don’t really care where in the world you live as long as you can be available during European work hours.\r\n\r\nSo if you love code - passionately, talented but also a team player, and want to work for a fast growing creative and technology driven company, then get in touch.",
+      "descriptionHtml": "<p>We’re looking for a talented Senior Unity 3D + php to join our company, either remotely or in Poland or the United Kingdom. The role includes working on projects with international brands as well as medium to large sized clients. The successful applicant will collaborate closely with our technical project manager at Vivid Unity and Behind The Chain as well as our global team across the company.</p>\n\n<p>The role includes working on some very cool AR games as well as wallet and chat technologies. The successful applicant will collaborate closely with our designers and creatives as well as our key team across the company.</p>\n\n<p>What you do:</p>\n\n<p>Develop clean, optimized code using common Unity tools with C#, C++, and other native kits and building primarily for hand-held and head-mounted display hardware<br>\nWrite custom plugins for Unity or native Android &amp; iOS interfaces<br>\nWork alongside 3D artists and animators on model preparation for Unity<br>\nUse multiple SDKs to integrate AR/VR tracking, computer vision (CV), and haptics into Unity<br>\nLearn and stay up-to-date with 3D rendering engine and game development standards<br>\nYou are passionate about mobile games</p>\n\n<p>Big plus:<br>\nphp API programming <br>\nDatabase design and optimization (PostgreSQL)</p>\n\n<p>An understanding of blockchain technologies<br>\nGood spoken English and willing to talk on voice chat to collaborate with coworkers</p>\n\n<p>About Engine Room:</p>\n\n<p>Engine Room is a successful international company with Scandinavian and English clients and although we are now four years old, we still maintain a strong startup culture within the company. We have two key divisions within the company. Vivid Unity, is a creative agency, specialising in strategy, branding and technology for mid to large multinationals whilst Behind The Chain is our new blockchain company, primarily engaged in FinTech.</p>\n\n<p>We have nationalities from all over the world and are a very diverse and dynamic company. We don’t really care where in the world you live as long as you can be available during European work hours.</p>\n\n<p>So if you love code - passionately, talented but also a team player, and want to work for a fast growing creative and technology driven company, then get in touch.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Europe",
+        "Isle of Man",
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$12k – $30k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/ignacio-bononi",
+        "name": "Ignacio Bononi",
+        "avatar": "https://photos.angel.co/users/4947598-medium_jpg?1557542764"
+      },
+      "refs": {
+        "angelListId": "681383",
+        "angelListUrl": "https://angel.co/company/engine-room-1/jobs/681383-"
+      }
+    },
+    {
+      "role": "Management",
+      "title": "CTO",
+      "description": "We are looking for an exceptional talent who is ready to take on their first or second role as CTO as part of our senior management team. You have proven yourself as a lead developer and you've lead teams in the past. You are ready to step into a senior C-Level role and be part of building strong shareholder value for all stakeholders within the company. Equity is on the table for the right candidate.\r\n\r\n\r\nJob brief\r\nWe are looking for a Chief Technology Officer (CTO) to provide sound technical leadership in all aspects of our business. You will communicate with employees, stakeholders and customers to ensure our company’s technologies are used appropriately.\r\n\r\nStrategic thinking and strong business acumen are essential in this role. We expect you to be well-versed in current technological trends and familiar with a variety of business concepts. If you are also an excellent communicator and public speaker, we’d like to meet you.\r\n\r\nResponsibilities\r\n1. Develop technical aspects of the company’s strategy to ensure alignment with its business goals\r\n2. Discover and implement new technologies that yield competitive advantage\r\n3. Help departments use technology profitably\r\n4. Supervise system infrastructure to ensure functionality and efficiency\r\n5. Build quality assurance and data protection processes\r\n6. Monitor KPIs and IT budgets to assess technological performance\r\n7. Use stakeholders’ feedback to inform necessary improvements and adjustments to technology\r\n8. Communicate technology strategy to partners and investors\r\n9. Code when necessary\r\n10. Client facing with other senior management on key accounts\r\n\r\nYou:\r\n\r\nKnowledge of technological trends to build strategy\r\nUnderstanding of budgets and business-planning\r\nAbility to conduct technological analyses and research\r\nExcellent communication skills\r\nLeadership and organisational abilities\r\nStrategic thinking\r\nProblem-solving aptitude\r\n\r\nBSc/BA in Computer Science, Engineering or a related field; MBA or other relevant graduate degree is a plus.",
+      "descriptionHtml": "<p>We are looking for an exceptional talent who is ready to take on their first or second role as CTO as part of our senior management team. You have proven yourself as a lead developer and you&#39;ve lead teams in the past. You are ready to step into a senior C-Level role and be part of building strong shareholder value for all stakeholders within the company. Equity is on the table for the right candidate.</p>\n\n<p>Job brief<br>\nWe are looking for a Chief Technology Officer (CTO) to provide sound technical leadership in all aspects of our business. You will communicate with employees, stakeholders and customers to ensure our company’s technologies are used appropriately.</p>\n\n<p>Strategic thinking and strong business acumen are essential in this role. We expect you to be well-versed in current technological trends and familiar with a variety of business concepts. If you are also an excellent communicator and public speaker, we’d like to meet you.</p>\n\n<p>Responsibilities</p>\n\n<ol>\n<li>Develop technical aspects of the company’s strategy to ensure alignment with its business goals</li>\n<li>Discover and implement new technologies that yield competitive advantage</li>\n<li>Help departments use technology profitably</li>\n<li>Supervise system infrastructure to ensure functionality and efficiency</li>\n<li>Build quality assurance and data protection processes</li>\n<li>Monitor KPIs and IT budgets to assess technological performance</li>\n<li>Use stakeholders’ feedback to inform necessary improvements and adjustments to technology</li>\n<li>Communicate technology strategy to partners and investors</li>\n<li>Code when necessary</li>\n<li>Client facing with other senior management on key accounts</li>\n</ol>\n\n<p>You:</p>\n\n<p>Knowledge of technological trends to build strategy<br>\nUnderstanding of budgets and business-planning<br>\nAbility to conduct technological analyses and research<br>\nExcellent communication skills<br>\nLeadership and organisational abilities<br>\nStrategic thinking<br>\nProblem-solving aptitude</p>\n\n<p>BSc/BA in Computer Science, Engineering or a related field; MBA or other relevant graduate degree is a plus.</p>\n",
+      "position": "full-time",
+      "experience": 8,
+      "visaSponsorship": false,
+      "locations": [
+        "Europe",
+        "Isle of Man",
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe",
+        "Eastern Europe",
+        "Western Europe",
+        "Poland",
+        "Isle of Man"
+      ],
+      "skills": [
+        "PHP",
+        "C++",
+        "Java",
+        "Javascript",
+        "Mobile Development",
+        "CTO",
+        "C",
+        "Unity3D",
+        "DevOps",
+        "Backend Development",
+        "Frontend Development",
+        "C Sharp (C#)",
+        "Blockchain",
+        "Microsoft .NET"
+      ],
+      "payment": {
+        "salary": "$36k – $60k",
+        "equity": "0.5% – 5.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/kaspar-strandskov",
+        "name": "Kaspar Strandskov",
+        "avatar": "https://graph.facebook.com/10159248615976562/picture?type=large"
+      },
+      "refs": {
+        "angelListId": "691407",
+        "angelListUrl": "https://angel.co/company/engine-room-1/jobs/691407-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Javascript Engineer",
+      "description": "We are looking for a talented, enthusiastic Javascript, Android and iOS developer to join our company to assist us in developing both Fintech, ecommerce and mobile applications. The individual can work remotely or on the Isle of Man. The successful applicant will collaborate closely with our teams at Vivid Unity and Behind The Chain as well as our global team across the company.\r\n\r\nSkills:\r\n\r\n- Good knowledge of Node Js and Vue Js \r\n- Knowledge of the Java programming language\r\n- Building applications w using and having knowledge of the C# programming language\r\n- Experience in Objective-C programming language\r\n- Knowledge of C++, and other native kits and building primarily for hand-held and head-mounted display hardware\r\n- Experience of the Xcode development environment\r\n- IOS (IPhone / IPad) mobile applications development\r\n- Experience with cloud services \r\n\r\nWhat you do:\r\n\r\n- Develop clean, optimized code using common  tools with C#, C++, and other native kits and building primarily for hand-held and head-mounted display hardware\r\n\r\n- Build, optimise and deploy both Android and iOS native applications \r\n- Design application architecture \r\n- Develop interface and core product components\r\n- Write custom plugins for Unity or native Android &amp; iOS interfaces\r\n- Ensure the performance, quality and responsiveness of the application\r\n- Identify and correct any bugs\r\n- Work alongside 3D artists and animators on model preparation for Unity\r\n- You are passionate about new technologies",
+      "descriptionHtml": "<p>We are looking for a talented, enthusiastic Javascript, Android and iOS developer to join our company to assist us in developing both Fintech, ecommerce and mobile applications. The individual can work remotely or on the Isle of Man. The successful applicant will collaborate closely with our teams at Vivid Unity and Behind The Chain as well as our global team across the company.</p>\n\n<p>Skills:</p>\n\n<ul>\n<li>Good knowledge of Node Js and Vue Js </li>\n<li>Knowledge of the Java programming language</li>\n<li>Building applications w using and having knowledge of the C# programming language</li>\n<li>Experience in Objective-C programming language</li>\n<li>Knowledge of C++, and other native kits and building primarily for hand-held and head-mounted display hardware</li>\n<li>Experience of the Xcode development environment</li>\n<li>IOS (IPhone / IPad) mobile applications development</li>\n<li>Experience with cloud services </li>\n</ul>\n\n<p>What you do:</p>\n\n<ul>\n<li><p>Develop clean, optimized code using common  tools with C#, C++, and other native kits and building primarily for hand-held and head-mounted display hardware</p></li>\n<li><p>Build, optimise and deploy both Android and iOS native applications </p></li>\n<li><p>Design application architecture </p></li>\n<li><p>Develop interface and core product components</p></li>\n<li><p>Write custom plugins for Unity or native Android &amp; iOS interfaces</p></li>\n<li><p>Ensure the performance, quality and responsiveness of the application</p></li>\n<li><p>Identify and correct any bugs</p></li>\n<li><p>Work alongside 3D artists and animators on model preparation for Unity</p></li>\n<li><p>You are passionate about new technologies</p></li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 8,
+      "visaSponsorship": false,
+      "locations": [
+        "United Kingdom",
+        "Isle of Man",
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "PHP",
+        "C++",
+        "Javascript",
+        "MySQL",
+        "Node.js",
+        "REST APIs",
+        "React.js",
+        "SOAP/REST (Web Services)",
+        "Vue.Js",
+        "React Native"
+      ],
+      "payment": {
+        "salary": "$24k – $48k",
+        "equity": "0.01% – 0.5%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/kaspar-strandskov",
+        "name": "Kaspar Strandskov",
+        "avatar": "https://graph.facebook.com/10159248615976562/picture?type=large"
+      },
+      "refs": {
+        "angelListId": "749272",
+        "angelListUrl": "https://angel.co/company/engine-room-1/jobs/749272-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Software Project Manager",
+      "description": "We are looking for a talented, enthusiastic PM to join our company to assist us in developing both Fintech, ecommerce and mobile applications. The individual can work remotely or on the Isle of Man. The successful applicant will collaborate closely with our teams at Vivid Unity and Behind The Chain as well as our global team across the company.\r\n\r\n Below are some common duties typically expected of you including the following:\r\n\r\nUnderstand Needs\r\n\r\nYou must fully comprehend the project’s objectives. Doing so involves talking with the client to grasp what the final product should look like, what time frame is satisfactory, and how much money is budgeted. You will be fully supported by our key executives and software developers to get their input.\r\n\r\nCreate a Plan\r\n\r\nYou will be a core part of turning the desires of our clients into technical requirements that software developers understand. Breaking down the various elements involved in getting the work done, such as producing a timetable, assigning tasks to team members, and developing checkpoints for progress.\r\n\r\nServe as a Liaison\r\n\r\nAs a source of consistency throughout projects, you will field questions and provide information for everyone involved. You may serve as a go-between when a client has a new demand or the tech department wants to make a change. Providing status reports to all interested parties is another important responsibility. \r\n\r\nEnsure Results\r\n\r\nAs part of the creation process, tests must be performed on software to see how it measures up to expectations. You will help determine what tests should be run and inspect the results for quality including presenting a beta version to clients and select others for feedback.\r\n\r\nResource Allocation\r\n\r\nYou will look for ways to improve operations. Aiming to do things better, faster, and cheaper whenever possible but without sacrificing quality.\r\n\r\nFollow Up\r\n\r\nWhen the software is fully developed, you will deliver it to the client as well as assisting in training users or writing instruction manuals. Periodically, you will need to check in to see how the software is performing and answer any questions.",
+      "descriptionHtml": "<p>We are looking for a talented, enthusiastic PM to join our company to assist us in developing both Fintech, ecommerce and mobile applications. The individual can work remotely or on the Isle of Man. The successful applicant will collaborate closely with our teams at Vivid Unity and Behind The Chain as well as our global team across the company.</p>\n\n<p>Below are some common duties typically expected of you including the following:</p>\n\n<p>Understand Needs</p>\n\n<p>You must fully comprehend the project’s objectives. Doing so involves talking with the client to grasp what the final product should look like, what time frame is satisfactory, and how much money is budgeted. You will be fully supported by our key executives and software developers to get their input.</p>\n\n<p>Create a Plan</p>\n\n<p>You will be a core part of turning the desires of our clients into technical requirements that software developers understand. Breaking down the various elements involved in getting the work done, such as producing a timetable, assigning tasks to team members, and developing checkpoints for progress.</p>\n\n<p>Serve as a Liaison</p>\n\n<p>As a source of consistency throughout projects, you will field questions and provide information for everyone involved. You may serve as a go-between when a client has a new demand or the tech department wants to make a change. Providing status reports to all interested parties is another important responsibility. </p>\n\n<p>Ensure Results</p>\n\n<p>As part of the creation process, tests must be performed on software to see how it measures up to expectations. You will help determine what tests should be run and inspect the results for quality including presenting a beta version to clients and select others for feedback.</p>\n\n<p>Resource Allocation</p>\n\n<p>You will look for ways to improve operations. Aiming to do things better, faster, and cheaper whenever possible but without sacrificing quality.</p>\n\n<p>Follow Up</p>\n\n<p>When the software is fully developed, you will deliver it to the client as well as assisting in training users or writing instruction manuals. Periodically, you will need to check in to see how the software is performing and answer any questions.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "Europe",
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Git",
+        "Jira",
+        "Trello",
+        "English language",
+        "Monday.Com"
+      ],
+      "payment": {
+        "salary": "$20k – $36k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/kaspar-strandskov",
+        "name": "Kaspar Strandskov",
+        "avatar": "https://graph.facebook.com/10159248615976562/picture?type=large"
+      },
+      "refs": {
+        "angelListId": "802115",
+        "angelListUrl": "https://angel.co/company/engine-room-1/jobs/802115-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "name": "SeedLegals",
+  "avatar": "https://photos.angel.co/startups/i/2257979-3bf3e8941729eaba138f6e0032de6f8b-medium_jpg.jpg?buster=1474896023",
+  "slogan": "Startups Made Easy",
+  "description": "SeedLegals is the one-stop destination for taking care of all the legals you’ll need to build, run and fund your company. \n\nThere are 100,000 new growth startups in the UK every year. Each spends thousands of pounds on unique documentation. SeedLegals uses the power of the network to change that. Using mass deal data and the network effect, SeedLegals gives you the knowledge, documentation and data to build corporate, team and funding agreements that are perfect for your company.\n\nSeedLegals gives each the knowledge & data to make the best decisions for their startup funding & legals, and puts them in control.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://seedlegals.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://seedlegals.com/blog"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/seedlegals"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/seedlegals"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/seedlegals"
+    },
+    {
+      "type": "productHunt",
+      "url": "https://www.producthunt.com/posts/seedlegals-2"
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Web Design",
+    "Technology",
+    "Legal",
+    "Web Development",
+    "Legal Tech"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/laurent-laffy",
+      "name": "Laurent Laffy",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "15 years of venture capital"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/anthonyrose",
+      "name": "Anthony Rose",
+      "avatar": "https://photos.angel.co/users/53766-medium_jpg?1466976233",
+      "bioHtml": "Founder &amp; CEO SeedLegals, previously founder 6Tribes, zeebox/Beamly, &quot;Father of BBC iPlayer&quot;"
+    },
+    {
+      "title": "Head of Growth",
+      "role": "Employee",
+      "url": "https://angel.co/u/noelle-baquiche",
+      "name": "Noelle Baquiche",
+      "avatar": "https://photos.angel.co/users/1848345-medium_jpg?1458308646",
+      "bioHtml": "Head of Growth <a href=\"https://angel.co/company/seedlegals\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">SeedLegals</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/dee-chapman-2",
+      "name": "Dee Chapman",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Team Success Manager at SeedLegals"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/adam-blair-8",
+      "name": "Adam Blair",
+      "avatar": "https://photos.angel.co/users/9665378-medium_jpg?1563277410",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "2257979",
+    "angelListUrl": "https://angel.co/company/seedlegals"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Back-end Engineer: Spring, Kotlin/Java",
+      "description": "SeedLegals is London’s hottest lawtech startup. A disruptive startup to power other startups!\n\nIts founder is technology entrepreneur Anthony Rose, globally recognised for his role as Head of BBC iPlayer and more recently as a founder (Beamly/Zeebox, 6Tribes, SeedLegals), investor (Papped, QJAM), advisor and mentor.\n\nThe SeedLegals team are creating a brand new platform that uses machine learning, human experts, document automation and very clever engineering to revolutionise the way we define and negotiate the legals and equity arrangements that build and fund companies.\n\nOur founders have a vision for how the best user interface design, engineering, data and human expertise across domains can be combined to solve the problems facing every business. The code you write could power your friends’ next startup and their stock options!\n\n**The Role:**\n\nWe’re looking for very talented Spring / Kotlin / Java Developers. You’ll be experienced in build, development, test and deployment. You’ll have an excellent track record of delivering great engineering solutions to complex problems, while being highly respected by your peers and team members. You’ll be deeply passionate about the product you own. You’ll relish working with a superb team of expert Front End Developers and DevOps Engineers.\n\nTogether we’ll disrupt the old world of paying lawyers to create documents designed for other lawyers, replacing it with an elegant data-driven platform that uses sophisticated document automation, data and expert knowledge to create the perfect documents in minutes. Our vision will give the founders of the 500,000 annual new UK startups the insight, knowledge and tools to build their dream. You’ll be excited by the challenge of inventing and shipping a world class application, whilst working very closely with one of the key names in the UK tech industry - Anthony Rose.\n\nYou will get an education in how a startup is created, built and scaled. You will learn from experts who’ve been there and done it whilst witnessing first-hand how thousands of other startups make the decisions that determine their futures. Great for any budding entrepreneurs out there!\n\n**Requirements**\n\n- You love building standard and robust GraphQL and/or RESTful HATEOAS APIs and write automatically tested Kotlin or Java\n\n- You should have a deep knowledge of Spring and commonly used modules based on extensive work experience\n- Experience with Spring Data Rest, Boot, Security, Gradle and PostgreSQL would be fantastic\n- You see the value in writing unit tests using TDD and JUnit or a well-reasoned alternative\n- You have some experience building Microservices and like following renowned patterns\n- Experience with AWS or front end development in Angular or Typescript would be a highly appreciated bonus\n\n**Personal characteristics:**\n\n- You think, live and breathe Spring, Kotlin, Java, .NET... Anything that runs on a server.\n- You'd prefer to watch the Spring I/O rather than the Apple keynote\n- You recite the Agile manifesto every morning\n- You’re self-motivated and driven with a desire to solve challenging business problems\n- You like to take ownership and take pride in contributing to all stages of the development\n- We’d love to see evidence of your passion for technology in personal projects outside of work, e.g. blogs, publications or open source projects\n\n**Benefits**\n\n- Salary £50-80K depending on experience (could go higher with leadership experience or you're a Developer Gosu) with share options to be negotiated\n- Flexible working hours – we believe in a good work life balance!\n- 28 days annual leave (includes bank holidays)\n- Great gear and an office overlooking Lincoln's Inn Fields\n\n- Join us in the adventure and challenge of doing something that’s never been done before\n- Be an inventor, creator and shareholder\n- Experience the end to end life cycle of a world class technology start up, while being mentored by Anthony Rose\n- We’re very experienced in turning ideas into global successes\n- Work and learn from domain experts in UX, engineering, investment and law\n",
+      "descriptionHtml": "<p>SeedLegals is London’s hottest lawtech startup. A disruptive startup to power other startups!</p>\n\n<p>Its founder is technology entrepreneur Anthony Rose, globally recognised for his role as Head of BBC iPlayer and more recently as a founder (Beamly/Zeebox, 6Tribes, SeedLegals), investor (Papped, QJAM), advisor and mentor.</p>\n\n<p>The SeedLegals team are creating a brand new platform that uses machine learning, human experts, document automation and very clever engineering to revolutionise the way we define and negotiate the legals and equity arrangements that build and fund companies.</p>\n\n<p>Our founders have a vision for how the best user interface design, engineering, data and human expertise across domains can be combined to solve the problems facing every business. The code you write could power your friends’ next startup and their stock options!</p>\n\n<p><strong>The Role:</strong></p>\n\n<p>We’re looking for very talented Spring / Kotlin / Java Developers. You’ll be experienced in build, development, test and deployment. You’ll have an excellent track record of delivering great engineering solutions to complex problems, while being highly respected by your peers and team members. You’ll be deeply passionate about the product you own. You’ll relish working with a superb team of expert Front End Developers and DevOps Engineers.</p>\n\n<p>Together we’ll disrupt the old world of paying lawyers to create documents designed for other lawyers, replacing it with an elegant data-driven platform that uses sophisticated document automation, data and expert knowledge to create the perfect documents in minutes. Our vision will give the founders of the 500,000 annual new UK startups the insight, knowledge and tools to build their dream. You’ll be excited by the challenge of inventing and shipping a world class application, whilst working very closely with one of the key names in the UK tech industry - Anthony Rose.</p>\n\n<p>You will get an education in how a startup is created, built and scaled. You will learn from experts who’ve been there and done it whilst witnessing first-hand how thousands of other startups make the decisions that determine their futures. Great for any budding entrepreneurs out there!</p>\n\n<p><strong>Requirements</strong></p>\n\n<ul>\n<li><p>You love building standard and robust GraphQL and/or RESTful HATEOAS APIs and write automatically tested Kotlin or Java</p></li>\n<li><p>You should have a deep knowledge of Spring and commonly used modules based on extensive work experience</p></li>\n<li><p>Experience with Spring Data Rest, Boot, Security, Gradle and PostgreSQL would be fantastic</p></li>\n<li><p>You see the value in writing unit tests using TDD and JUnit or a well-reasoned alternative</p></li>\n<li><p>You have some experience building Microservices and like following renowned patterns</p></li>\n<li><p>Experience with AWS or front end development in Angular or Typescript would be a highly appreciated bonus</p></li>\n</ul>\n\n<p><strong>Personal characteristics:</strong></p>\n\n<ul>\n<li>You think, live and breathe Spring, Kotlin, Java, .NET... Anything that runs on a server.</li>\n<li>You&#39;d prefer to watch the Spring I/O rather than the Apple keynote</li>\n<li>You recite the Agile manifesto every morning</li>\n<li>You’re self-motivated and driven with a desire to solve challenging business problems</li>\n<li>You like to take ownership and take pride in contributing to all stages of the development</li>\n<li>We’d love to see evidence of your passion for technology in personal projects outside of work, e.g. blogs, publications or open source projects</li>\n</ul>\n\n<p><strong>Benefits</strong></p>\n\n<ul>\n<li>Salary £50-80K depending on experience (could go higher with leadership experience or you&#39;re a Developer Gosu) with share options to be negotiated</li>\n<li>Flexible working hours – we believe in a good work life balance!</li>\n<li>28 days annual leave (includes bank holidays)</li>\n<li><p>Great gear and an office overlooking Lincoln&#39;s Inn Fields</p></li>\n<li><p>Join us in the adventure and challenge of doing something that’s never been done before</p></li>\n<li><p>Be an inventor, creator and shareholder</p></li>\n<li><p>Experience the end to end life cycle of a world class technology start up, while being mentored by Anthony Rose</p></li>\n<li><p>We’re very experienced in turning ideas into global successes</p></li>\n<li><p>Work and learn from domain experts in UX, engineering, investment and law</p></li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "PostgreSQL",
+        "Spring",
+        "Gradle",
+        "JUNIT",
+        "Spring Security",
+        "AWS",
+        "Spring Data REST",
+        "Spring Boot"
+      ],
+      "payment": {
+        "salary": "£50k – £70k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "174525",
+        "angelListUrl": "https://angel.co/company/seedlegals/jobs/174525-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Customer Support: Law Graduate",
+      "description": "Join the team shaking up the legal world!\n\nWe have a fantastic opportunity for an ambitious and tech-minded legal graduate to join our team of 30.\n\nYou’ll be the primary interface for our users, helping them to get investment ready, on-boarding them onto the SeedLegals platform, helping them set up their documents and providing a wide range of legal and technical guidance.\n\nYour core responsibilities will include:\n\n- Helping our wonderful customers do everything they need to complete the documentation and legals for their funding round, including: assisting with cap table management, using the SeedLegals platform to create historical and current funding rounds, helping customers build their investment documents, articles of association and post-closing documents, all via our platform. \n- Assisting users via intercom (chat), email and video calls. \n- Collaborating with our amazing team of developers, growth hackers, founders, investors and lawyers to further develop the SeedLegals platform and change the world.\n\n**Requirements**\n\n- You are a recent law graduate, and looking for something a little different to a traditional legal career...\n- You have a genuine passion for entrepreneurship and innovation, and are excited by the opportunity to interact with startup founders every day.\n- Motivated by the opportunity to deliver an awesome experience to SeedLegals users.\n- Phenomenal communication skills.\n- Outstanding time management skills, and the ability to multitask.\n\n**Benefits**\n\nYou'll be joining an amazing team of founders, investors, developers and growth hackers. We're currently based just off Lincoln's Inn Fields (the legal heart of London).\n\n- You’ll get responsibility (and plenty of it!). This isn't a training-contract paperwork-only role, you will be client facing, with plenty of responsibility right from the get-go.\n- 28 days annual leave (includes bank holidays)\n- Access to world class training from some of the most experienced individuals in the UK in startup law, investment, and entrepreneurship. \n- Learning, development and networking opportunities.\n- Great offices with free fruit and coffee, overlooking the gorgeous gardens at Lincolns Inn Fields.\n- Some flexibility to start your day anytime up to 10am ;)\n- Contributory pension.\n- Free lunches on Fridays :-)\n- We’re looking to hire for this role as soon as we find the right match, so if that sounds like you – get in touch\n",
+      "descriptionHtml": "<p>Join the team shaking up the legal world!</p>\n\n<p>We have a fantastic opportunity for an ambitious and tech-minded legal graduate to join our team of 30.</p>\n\n<p>You’ll be the primary interface for our users, helping them to get investment ready, on-boarding them onto the SeedLegals platform, helping them set up their documents and providing a wide range of legal and technical guidance.</p>\n\n<p>Your core responsibilities will include:</p>\n\n<ul>\n<li>Helping our wonderful customers do everything they need to complete the documentation and legals for their funding round, including: assisting with cap table management, using the SeedLegals platform to create historical and current funding rounds, helping customers build their investment documents, articles of association and post-closing documents, all via our platform. </li>\n<li>Assisting users via intercom (chat), email and video calls. </li>\n<li>Collaborating with our amazing team of developers, growth hackers, founders, investors and lawyers to further develop the SeedLegals platform and change the world.</li>\n</ul>\n\n<p><strong>Requirements</strong></p>\n\n<ul>\n<li>You are a recent law graduate, and looking for something a little different to a traditional legal career...</li>\n<li>You have a genuine passion for entrepreneurship and innovation, and are excited by the opportunity to interact with startup founders every day.</li>\n<li>Motivated by the opportunity to deliver an awesome experience to SeedLegals users.</li>\n<li>Phenomenal communication skills.</li>\n<li>Outstanding time management skills, and the ability to multitask.</li>\n</ul>\n\n<p><strong>Benefits</strong></p>\n\n<p>You&#39;ll be joining an amazing team of founders, investors, developers and growth hackers. We&#39;re currently based just off Lincoln&#39;s Inn Fields (the legal heart of London).</p>\n\n<ul>\n<li>You’ll get responsibility (and plenty of it!). This isn&#39;t a training-contract paperwork-only role, you will be client facing, with plenty of responsibility right from the get-go.</li>\n<li>28 days annual leave (includes bank holidays)</li>\n<li>Access to world class training from some of the most experienced individuals in the UK in startup law, investment, and entrepreneurship. </li>\n<li>Learning, development and networking opportunities.</li>\n<li>Great offices with free fruit and coffee, overlooking the gorgeous gardens at Lincolns Inn Fields.</li>\n<li>Some flexibility to start your day anytime up to 10am ;)</li>\n<li>Contributory pension.</li>\n<li>Free lunches on Fridays :-)</li>\n<li>We’re looking to hire for this role as soon as we find the right match, so if that sounds like you – get in touch</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Legal Contracts",
+        "Customer Service",
+        "Startups",
+        "Venture Capital",
+        "Corporate Law",
+        "Capitalization Table"
+      ],
+      "payment": {
+        "salary": "£25k – £30k"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "425704",
+        "angelListUrl": "https://angel.co/company/seedlegals/jobs/425704-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Customer Support: Startup Investment",
+      "description": "Join the team shaking up the legal world!\n\nWe have a fantastic opportunity for an ambitious and tech-minded graduate to join our team of 30.\n\nYou’ll be the primary interface for our users, helping them to get investment ready, on-boarding them onto the Seedlegals platform, helping them set up their documents and providing a wide range of legal and technical guidance.\n\nFor this role you should be able demonstrate knowledge in some of the following areas:\n\n- Early stage fund raising methodology and legal process\n- Capitalisation tables\n- Investment preparation\n- Startup hiring and equity incentives\n- Tech\n\nYour core responsibilities will include:\n\n- Helping our wonderful customers do everything they need to complete the documentation and legals for their funding round, including: assisting with cap table management, using the SeedLegals platform to create historical and current funding rounds, helping customers build their investment documents, articles of association and post-closing documents, all via our platform. \n- Assisting users via intercom (chat), email and video calls. \n- Collaborating with our amazing team of developers, growth hackers, founders, investors and lawyers to further develop the SeedLegals platform and change the world.\n\n**Requirements**\n\n- You are (most likely) a recent graduate, and looking to join a high growth startup.\n\n- You have a genuine passion for entrepreneurship and innovation, and are excited by the opportunity to interact with startup founders every day.\n\n- Motivated by the opportunity to deliver an awesome experience to SeedLegals users.\n\n- Phenomenal communication skills.\n\n- Outstanding time management skills, and the ability to multitask.\n\n**Benefits**\n\nYou'll be joining an amazing team of founders, investors, developers and growth hackers. We're currently based just off Lincoln's Inn Fields (the legal heart of London).\n\n- You’ll get responsibility (and plenty of it!). This isn't a training-contract paperwork-only role, you will be client facing, with plenty of responsibility right from the get-go.\n- 28 days annual leave (includes bank holidays)\n- Access to world class training from some of the most experienced individuals in the UK in startup law, investment, and entrepreneurship. \n- Learning, development and networking opportunities.\n- Great offices with free fruit and coffee, overlooking the gorgeous gardens at Lincolns Inn Fields.\n- Some flexibility to start your day anytime up to 10am ;)\n- Contributory pension.\n- Free lunches on Fridays :-)\n- We’re looking to hire for this role as soon as we find the right match, so if that sounds like you – get in touch\n",
+      "descriptionHtml": "<p>Join the team shaking up the legal world!</p>\n\n<p>We have a fantastic opportunity for an ambitious and tech-minded graduate to join our team of 30.</p>\n\n<p>You’ll be the primary interface for our users, helping them to get investment ready, on-boarding them onto the Seedlegals platform, helping them set up their documents and providing a wide range of legal and technical guidance.</p>\n\n<p>For this role you should be able demonstrate knowledge in some of the following areas:</p>\n\n<ul>\n<li>Early stage fund raising methodology and legal process</li>\n<li>Capitalisation tables</li>\n<li>Investment preparation</li>\n<li>Startup hiring and equity incentives</li>\n<li>Tech</li>\n</ul>\n\n<p>Your core responsibilities will include:</p>\n\n<ul>\n<li>Helping our wonderful customers do everything they need to complete the documentation and legals for their funding round, including: assisting with cap table management, using the SeedLegals platform to create historical and current funding rounds, helping customers build their investment documents, articles of association and post-closing documents, all via our platform. </li>\n<li>Assisting users via intercom (chat), email and video calls. </li>\n<li>Collaborating with our amazing team of developers, growth hackers, founders, investors and lawyers to further develop the SeedLegals platform and change the world.</li>\n</ul>\n\n<p><strong>Requirements</strong></p>\n\n<ul>\n<li><p>You are (most likely) a recent graduate, and looking to join a high growth startup.</p></li>\n<li><p>You have a genuine passion for entrepreneurship and innovation, and are excited by the opportunity to interact with startup founders every day.</p></li>\n<li><p>Motivated by the opportunity to deliver an awesome experience to SeedLegals users.</p></li>\n<li><p>Phenomenal communication skills.</p></li>\n<li><p>Outstanding time management skills, and the ability to multitask.</p></li>\n</ul>\n\n<p><strong>Benefits</strong></p>\n\n<p>You&#39;ll be joining an amazing team of founders, investors, developers and growth hackers. We&#39;re currently based just off Lincoln&#39;s Inn Fields (the legal heart of London).</p>\n\n<ul>\n<li>You’ll get responsibility (and plenty of it!). This isn&#39;t a training-contract paperwork-only role, you will be client facing, with plenty of responsibility right from the get-go.</li>\n<li>28 days annual leave (includes bank holidays)</li>\n<li>Access to world class training from some of the most experienced individuals in the UK in startup law, investment, and entrepreneurship. </li>\n<li>Learning, development and networking opportunities.</li>\n<li>Great offices with free fruit and coffee, overlooking the gorgeous gardens at Lincolns Inn Fields.</li>\n<li>Some flexibility to start your day anytime up to 10am ;)</li>\n<li>Contributory pension.</li>\n<li>Free lunches on Fridays :-)</li>\n<li>We’re looking to hire for this role as soon as we find the right match, so if that sounds like you – get in touch</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Legal Contracts",
+        "Customer Service",
+        "Startup Founder",
+        "Startups",
+        "Venture Capital",
+        "Angel Investing",
+        "Early-Stage Startups",
+        "Cap Tables",
+        "VC Term Sheets",
+        "Legal assistant"
+      ],
+      "payment": {
+        "salary": "£25k – £30k"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "377601",
+        "angelListUrl": "https://angel.co/company/seedlegals/jobs/377601-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Front-end Engineer: Angular, TypeScript",
+      "description": "SeedLegals is London’s hottest LegalTech startup. A disruptive startup to power other startups!\n\nIts founder is technology entrepreneur Anthony Rose, globally recognised for his role as Head of BBC iPlayer and more recently as a founder (Beamly/Zeebox, 6Tribes, SeedLegals), investor (Papped, QJAM), advisor and mentor.\n\nThe SeedLegals team are creating a brand new platform that uses machine learning, human experts, document automation and very clever engineering to revolutionise the way we define and negotiate the legals and equity arrangements that build and fund companies.\n\nOur founders have a vision for how the best user interface design, engineering, data and human expertise across domains can be combined to solve the problems facing every business. The code you write could power your friends’ next startup and their stock options!\n\n**The Role:**\n\nWe’re looking for very talented Angular Developers. You’ll be experienced in build, development, test and deployment. You’ll have an excellent track record of delivering great engineering solutions to complex problems, while being highly respected by your peers and team members. You’ll be deeply passionate about the product you own. You’ll relish working with a superb team of experts in UX, design, engineering, investing and law.\n\nTogether we’ll disrupt the old world of paying lawyers to create documents designed for other lawyers, replacing it with an elegant data-driven platform that uses sophisticated document automation, data and expert knowledge to create the perfect documents in minutes. Our vision will give the founders of the 500,000 annual new UK startups the insight, knowledge and tools to build their dream. You’ll be excited by the challenge of inventing and shipping a world class application, whilst working very closely with one of the key names in the UK tech industry - Anthony Rose.\n\nYou will get an education in how a startup is created, built and scaled. You will learn from experts who’ve been there and done it whilst witnessing first-hand how thousands of other startups make the decisions that determine their futures. Great for any budding entrepreneurs out there!\n\n**Requirements**\n\n- You love building high-performance web applications on mobile and desktop, and writing automatically tested TypeScript, standard HTML5 and efficient SCSS\n- You should have a deep knowledge of Angular practices and commonly used modules based on extensive work experience\n- Experience with Angular Material and RxJS (ngrx) would be fantastic\n- You see the value in writing unit tests using automated TDD tasks, using Jest or a well-reasoned alternative\n- You see life as incomplete without an e2e test suite for components, and run them with Cypress.io or a well-reasoned alternative\n- Full stack experience with Java/Spring or AWS would be a highly appreciated bonus\n\n**Personal characteristics:**\n\n- You think, live and breathe Angular, TypeScript, React... Anything that runs on a browser\n- You'd prefer to watch the ngConf rather than the Apple keynote\n- You recite the Agile manifesto every morning\n- You’re self-motivated and driven with a desire to solve challenging business problems\n- You like to take ownership and take pride in contributing to all stages of the development\n- We’d love to see evidence of your passion for technology in personal projects outside of work, e.g. blogs, publications or open source projects\n\n**Benefits**\n\n- Salary £50-80K depending on experience (could go higher with leadership experience or if you're a Developer Gosu) with share options to be negotiated\n\n- Flexible working hours – we believe in a good work life balance!\n- 28 days annual leave (includes bank holidays)\n- Great gear and an office overlooking Lincoln's Inn Fields\n- Join us in the adventure and challenge of doing something that’s never been done before\n- Be an inventor, creator and shareholder\n- Experience the end to end life cycle of a world class technology start up, while being mentored by Anthony Rose\n- We’re very experienced in turning ideas into global successes\n- Work and learn from domain experts in UX, engineering, investment and law\n",
+      "descriptionHtml": "<p>SeedLegals is London’s hottest LegalTech startup. A disruptive startup to power other startups!</p>\n\n<p>Its founder is technology entrepreneur Anthony Rose, globally recognised for his role as Head of BBC iPlayer and more recently as a founder (Beamly/Zeebox, 6Tribes, SeedLegals), investor (Papped, QJAM), advisor and mentor.</p>\n\n<p>The SeedLegals team are creating a brand new platform that uses machine learning, human experts, document automation and very clever engineering to revolutionise the way we define and negotiate the legals and equity arrangements that build and fund companies.</p>\n\n<p>Our founders have a vision for how the best user interface design, engineering, data and human expertise across domains can be combined to solve the problems facing every business. The code you write could power your friends’ next startup and their stock options!</p>\n\n<p><strong>The Role:</strong></p>\n\n<p>We’re looking for very talented Angular Developers. You’ll be experienced in build, development, test and deployment. You’ll have an excellent track record of delivering great engineering solutions to complex problems, while being highly respected by your peers and team members. You’ll be deeply passionate about the product you own. You’ll relish working with a superb team of experts in UX, design, engineering, investing and law.</p>\n\n<p>Together we’ll disrupt the old world of paying lawyers to create documents designed for other lawyers, replacing it with an elegant data-driven platform that uses sophisticated document automation, data and expert knowledge to create the perfect documents in minutes. Our vision will give the founders of the 500,000 annual new UK startups the insight, knowledge and tools to build their dream. You’ll be excited by the challenge of inventing and shipping a world class application, whilst working very closely with one of the key names in the UK tech industry - Anthony Rose.</p>\n\n<p>You will get an education in how a startup is created, built and scaled. You will learn from experts who’ve been there and done it whilst witnessing first-hand how thousands of other startups make the decisions that determine their futures. Great for any budding entrepreneurs out there!</p>\n\n<p><strong>Requirements</strong></p>\n\n<ul>\n<li>You love building high-performance web applications on mobile and desktop, and writing automatically tested TypeScript, standard HTML5 and efficient SCSS</li>\n<li>You should have a deep knowledge of Angular practices and commonly used modules based on extensive work experience</li>\n<li>Experience with Angular Material and RxJS (ngrx) would be fantastic</li>\n<li>You see the value in writing unit tests using automated TDD tasks, using Jest or a well-reasoned alternative</li>\n<li>You see life as incomplete without an e2e test suite for components, and run them with Cypress.io or a well-reasoned alternative</li>\n<li>Full stack experience with Java/Spring or AWS would be a highly appreciated bonus</li>\n</ul>\n\n<p><strong>Personal characteristics:</strong></p>\n\n<ul>\n<li>You think, live and breathe Angular, TypeScript, React... Anything that runs on a browser</li>\n<li>You&#39;d prefer to watch the ngConf rather than the Apple keynote</li>\n<li>You recite the Agile manifesto every morning</li>\n<li>You’re self-motivated and driven with a desire to solve challenging business problems</li>\n<li>You like to take ownership and take pride in contributing to all stages of the development</li>\n<li>We’d love to see evidence of your passion for technology in personal projects outside of work, e.g. blogs, publications or open source projects</li>\n</ul>\n\n<p><strong>Benefits</strong></p>\n\n<ul>\n<li><p>Salary £50-80K depending on experience (could go higher with leadership experience or if you&#39;re a Developer Gosu) with share options to be negotiated</p></li>\n<li><p>Flexible working hours – we believe in a good work life balance!</p></li>\n<li><p>28 days annual leave (includes bank holidays)</p></li>\n<li><p>Great gear and an office overlooking Lincoln&#39;s Inn Fields</p></li>\n<li><p>Join us in the adventure and challenge of doing something that’s never been done before</p></li>\n<li><p>Be an inventor, creator and shareholder</p></li>\n<li><p>Experience the end to end life cycle of a world class technology start up, while being mentored by Anthony Rose</p></li>\n<li><p>We’re very experienced in turning ideas into global successes</p></li>\n<li><p>Work and learn from domain experts in UX, engineering, investment and law</p></li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Jasmine",
+        "HTML5 & CSS3",
+        "AngularJS",
+        "TypeScript",
+        "Karma",
+        "Protractor",
+        "Material Design",
+        "Rx Js",
+        "Angular",
+        "ngrx"
+      ],
+      "payment": {
+        "salary": "£50k – £70k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "174923",
+        "angelListUrl": "https://angel.co/company/seedlegals/jobs/174923-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "Senior UX/UI Designer",
+      "description": "Join the team shaking up the venture world!\n\nSeedLegals is on a mission to help startups get funded in a fraction of the time and cost.\n\nWe’re taking on the old school legal industry and putting money back into the pockets of startups. We do this by empowering founders with all the tools, knowledge and legals they need to get funded.\n\nIn just over 2 years, we’ve onboarded over 10,000 startups, with 1 in 12 UK funding rounds now closing on SeedLegals.com.\n\nWe ensure our customers and their investors have everything they need to close their deal online. No law firms. No accountants. All the legals are generated and signed directly on SeedLegals, saving thousands and legal fees and months in legal paperwork.\n\nNotable investors and accelerators we’ve worked with include Fuel Ventures, Forward Partners, Zinc VC, Angel Investment Network and Episode 1.\n\nWe’ve also closed several rounds of funding from investors including Seedcamp, Kima and Index Ventures. All closed on SeedLegals, of course!\n\nAbout the role:\n\nWe’re looking for a senior UX/UI designer to take SeedLegals to the next level. You will be working closely with our Chief Experience Officer to deliver a word-class journey - helping to change the way funding rounds work, for good. \n\nAbout you: \n\nYou love taking complex ideas, workflows and concepts and turning them into user experiences that are efficient and that delight. You’ll delight in testing your designs and concepts on real users, and rapidly iterate designs based on user feedback. You’ll relish in being given a challenging problem and being given free rein to come with solutions. Rapid iteration and user-driven development are your friends.\n\nIdeally you’ll have the following talents, skills and experience:\n\n - Experience working in a high-growth / start-up company\n - Participate in all phases of product development lifecycle, including product ideation and definition, strategy, UI design and user research and testing\n - A experience in designing a wide range of digital assets\n - Strong portfolio showcasing UX / design projects for responsive UI and mobile\n - Create sketches, wireframes and prototypes to tell compelling stories\n - Proficient in Adobe suite, Sketch and other prototyping tools\n - Experience working within an agile, multi-disciplinary team environment\n\n\nJoin our wonderful and super-talented team, and let’s go do some shaking up of an industry, and power the next generation of startups.\n\nIdeally we’re looking for a perm role, but if contracting is your thing we won’t let that get in the way.\n\nIf this is you, let’s talk!",
+      "descriptionHtml": "<p>Join the team shaking up the venture world!</p>\n\n<p>SeedLegals is on a mission to help startups get funded in a fraction of the time and cost.</p>\n\n<p>We’re taking on the old school legal industry and putting money back into the pockets of startups. We do this by empowering founders with all the tools, knowledge and legals they need to get funded.</p>\n\n<p>In just over 2 years, we’ve onboarded over 10,000 startups, with 1 in 12 UK funding rounds now closing on SeedLegals.com.</p>\n\n<p>We ensure our customers and their investors have everything they need to close their deal online. No law firms. No accountants. All the legals are generated and signed directly on SeedLegals, saving thousands and legal fees and months in legal paperwork.</p>\n\n<p>Notable investors and accelerators we’ve worked with include Fuel Ventures, Forward Partners, Zinc VC, Angel Investment Network and Episode 1.</p>\n\n<p>We’ve also closed several rounds of funding from investors including Seedcamp, Kima and Index Ventures. All closed on SeedLegals, of course!</p>\n\n<p>About the role:</p>\n\n<p>We’re looking for a senior UX/UI designer to take SeedLegals to the next level. You will be working closely with our Chief Experience Officer to deliver a word-class journey - helping to change the way funding rounds work, for good. </p>\n\n<p>About you: </p>\n\n<p>You love taking complex ideas, workflows and concepts and turning them into user experiences that are efficient and that delight. You’ll delight in testing your designs and concepts on real users, and rapidly iterate designs based on user feedback. You’ll relish in being given a challenging problem and being given free rein to come with solutions. Rapid iteration and user-driven development are your friends.</p>\n\n<p>Ideally you’ll have the following talents, skills and experience:</p>\n\n<ul>\n<li>Experience working in a high-growth / start-up company</li>\n<li>Participate in all phases of product development lifecycle, including product ideation and definition, strategy, UI design and user research and testing</li>\n<li>A experience in designing a wide range of digital assets</li>\n<li>Strong portfolio showcasing UX / design projects for responsive UI and mobile</li>\n<li>Create sketches, wireframes and prototypes to tell compelling stories</li>\n<li>Proficient in Adobe suite, Sketch and other prototyping tools</li>\n<li>Experience working within an agile, multi-disciplinary team environment</li>\n</ul>\n\n<p>Join our wonderful and super-talented team, and let’s go do some shaking up of an industry, and power the next generation of startups.</p>\n\n<p>Ideally we’re looking for a perm role, but if contracting is your thing we won’t let that get in the way.</p>\n\n<p>If this is you, let’s talk!</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "UI/UX Design",
+        "Digital Product Design",
+        "Product Design",
+        "UX Design"
+      ],
+      "payment": {
+        "salary": "£45k – £60k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/dee-chapman-2",
+        "name": "Dee Chapman",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "636010",
+        "angelListUrl": "https://angel.co/company/seedlegals/jobs/636010-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Startup Sales Manager",
+      "description": "Love start ups? Look no further... We are looking for an exceptional individual to help us transform startup fundraising.\n\nReporting directly to the Head of Sales, this is a great opportunity to join a rapidly growing team. Speaking directly to startup founders each day, you will be responsible for growing our customer base and revenues.\n\n- You will own the end to end sales process - from prospecting to closing / onboarding customers.\n- Demonstrating the benefits of our platform to UK founders via video call and F2F meetings.\n- Responsible for identifying upsell and cross sell opportunities, and other ways to help SeedLegals grow.\n\nThis role would be suitable for somebody with at least 12 months' experience in a sales role.\n\n**Requirements**\n\n- You have a track record of meeting (and exceeding!) targets in a B2B sales role.\n- You have a genuine passion for entrepreneurship and innovation, and are excited by the opportunity to interact with startup founders every day.\n- Excited by change, and able to excel in a fast paced environment.\n- Experience working with (or at) early stage companies, or within the startup community.\n- Phenomenal communication skills.\n- Outstanding time management skills, and the ability to multitask.\n\n**Benefits**\n\nYou’ll be working for one of the hottest startups in Europe, and joining a top notch team.\n\n- You’ll get responsibility (and plenty of it!).\n- Performance related bonus.\n- 28 days annual leave (includes bank holidays)\n- Professional development. \n- Learning, development and networking opportunities\n- Great offices with free fruit and coffee, overlooking the gorgeous gardens at Lincolns Inn Fields.\n- Contributory pension.\n- Free lunches on Fridays :)\n",
+      "descriptionHtml": "<p>Love start ups? Look no further... We are looking for an exceptional individual to help us transform startup fundraising.</p>\n\n<p>Reporting directly to the Head of Sales, this is a great opportunity to join a rapidly growing team. Speaking directly to startup founders each day, you will be responsible for growing our customer base and revenues.</p>\n\n<ul>\n<li>You will own the end to end sales process - from prospecting to closing / onboarding customers.</li>\n<li>Demonstrating the benefits of our platform to UK founders via video call and F2F meetings.</li>\n<li>Responsible for identifying upsell and cross sell opportunities, and other ways to help SeedLegals grow.</li>\n</ul>\n\n<p>This role would be suitable for somebody with at least 12 months&#39; experience in a sales role.</p>\n\n<p><strong>Requirements</strong></p>\n\n<ul>\n<li>You have a track record of meeting (and exceeding!) targets in a B2B sales role.</li>\n<li>You have a genuine passion for entrepreneurship and innovation, and are excited by the opportunity to interact with startup founders every day.</li>\n<li>Excited by change, and able to excel in a fast paced environment.</li>\n<li>Experience working with (or at) early stage companies, or within the startup community.</li>\n<li>Phenomenal communication skills.</li>\n<li>Outstanding time management skills, and the ability to multitask.</li>\n</ul>\n\n<p><strong>Benefits</strong></p>\n\n<p>You’ll be working for one of the hottest startups in Europe, and joining a top notch team.</p>\n\n<ul>\n<li>You’ll get responsibility (and plenty of it!).</li>\n<li>Performance related bonus.</li>\n<li>28 days annual leave (includes bank holidays)</li>\n<li>Professional development. </li>\n<li>Learning, development and networking opportunities</li>\n<li>Great offices with free fruit and coffee, overlooking the gorgeous gardens at Lincolns Inn Fields.</li>\n<li>Contributory pension.</li>\n<li>Free lunches on Fridays :)</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "SaaS",
+        "Sales",
+        "B2B Sales",
+        "Legal"
+      ],
+      "payment": {
+        "salary": "£28k – £35k"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "555321",
+        "angelListUrl": "https://angel.co/company/seedlegals/jobs/555321-"
+      }
+    }
+  ]
+}

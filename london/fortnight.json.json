@@ -1,0 +1,139 @@
+{
+  "name": "Fortnight",
+  "avatar": "https://photos.angel.co/startups/i/6165833-00547e8028c01cf5f90e25b8f24e8d1d-medium_jpg.jpg?buster=1542200200",
+  "slogan": "Creative Design & Development Studio",
+  "description": "Fortnight is a purposefully-small experimental studio of thinkers, makers and experienced product designers. We unify the process beyond integration.\n\nResearch. Strategic thinking. Branding. Smart content creation. Whatever you need, our team works collaboratively to deliver the best in print, digital, space and object design.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://fortnight.studio"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/studiofortnight"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Manchester"
+  ],
+  "marketTags": [
+    "Design",
+    "Web Development",
+    "Mobile",
+    "User Experience Design"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/fffabs",
+      "name": "Fabio ↬",
+      "avatar": "https://photos.angel.co/users/169032-medium_jpg?1542198539",
+      "bioHtml": "Director at Fortnight Limited"
+    },
+    {
+      "title": "Director",
+      "role": "Founder",
+      "url": "https://angel.co/u/rico-rauch",
+      "name": "Rico Rauch",
+      "avatar": "https://photos.angel.co/users/4377436-medium_jpg?1538144972",
+      "bioHtml": "Director at Fortnight Limited, a purposefully-small experimental studio of creative thinkers, makers and product designers."
+    },
+    {
+      "title": "Business Development Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/rustum-mathias",
+      "name": "Rustum Mathias",
+      "avatar": "https://photos.angel.co/users/3157801-medium_jpg?1584983211",
+      "bioHtml": "Connecting dreams with opportunities - A well-educated Sales and Business Development professional with a total of 11 years of professional work experience."
+    },
+    {
+      "title": "Product Manager & Producer",
+      "role": "Employee",
+      "url": "https://angel.co/u/rob-abrahams",
+      "name": "Rob Abrahams",
+      "avatar": "https://photos.angel.co/users/2005129-medium_jpg?1542702257",
+      "bioHtml": "Product, UX/UI Design enthusiast. Entrepreneur and growth specialist. Fortnight Studio champion."
+    },
+    {
+      "title": "Product Designer",
+      "role": "Employee",
+      "url": "https://angel.co/u/joe-barbieri-2",
+      "name": "Joe Barbieri",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Product Designer at Fortnight"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6165833",
+    "angelListUrl": "https://angel.co/company/fortnight"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Mobile Software Developer",
+      "description": "As an ideal candidate you’ll thrive in a small team working together to solve difficult problems and build great features in a cross-functional team. We are a very transparent company and we’re all leaders, responsible for our shared goals.\n\n- As an Mobile engineer we expect you to show proficiency with Swift, React Native and Cocoa Touch.\n- Know your way around different architectural patterns used in iOS.\n- Build iOS applications from scratch & iOS libraries that can be shared across applications.\n- Have experience with API design and development, familiarity with AWS is a plus.\n- Knack for benchmarking and optimisation.\n- Practical experience with TDD / BDD.\n- Experience with databases (SQL, NoSQL, GraphQL, DynamoDB)\n- Experience with Git, including understanding of branching and merging workflow\n\nNice to have\n\n- Working knowledge of JavaScript and React / ReactNative.\n- Experience with deploying, hosting, securing, monitoring and scaling in the cloud (Google Cloud Platform or AWS) and experience with configuration management tools (Terraform, Chef, Puppet, etc.)\n- A good eye for design and a perfectionist attitude as you’ll be working closely with our designers.",
+      "descriptionHtml": "<p>As an ideal candidate you’ll thrive in a small team working together to solve difficult problems and build great features in a cross-functional team. We are a very transparent company and we’re all leaders, responsible for our shared goals.</p>\n\n<ul>\n<li>As an Mobile engineer we expect you to show proficiency with Swift, React Native and Cocoa Touch.</li>\n<li>Know your way around different architectural patterns used in iOS.</li>\n<li>Build iOS applications from scratch &amp; iOS libraries that can be shared across applications.</li>\n<li>Have experience with API design and development, familiarity with AWS is a plus.</li>\n<li>Knack for benchmarking and optimisation.</li>\n<li>Practical experience with TDD / BDD.</li>\n<li>Experience with databases (SQL, NoSQL, GraphQL, DynamoDB)</li>\n<li>Experience with Git, including understanding of branching and merging workflow</li>\n</ul>\n\n<p>Nice to have</p>\n\n<ul>\n<li>Working knowledge of JavaScript and React / ReactNative.</li>\n<li>Experience with deploying, hosting, securing, monitoring and scaling in the cloud (Google Cloud Platform or AWS) and experience with configuration management tools (Terraform, Chef, Puppet, etc.)</li>\n<li>A good eye for design and a perfectionist attitude as you’ll be working closely with our designers.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Manchester",
+        "United Kingdom"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Western Europe"
+      ],
+      "skills": [
+        "iOS",
+        "Mobile Development",
+        "iOS Development",
+        "Mobile Application Development",
+        "Backend Development",
+        "AWS/EC2/ELB/S3/DynamoDB",
+        "Kotlin",
+        "Swift",
+        "React Native"
+      ],
+      "payment": {
+        "salary": "£30k – £35k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/fffabs",
+        "name": "Fabio ↬",
+        "avatar": "https://photos.angel.co/users/169032-medium_jpg?1542198539"
+      },
+      "refs": {
+        "angelListId": "643937",
+        "angelListUrl": "https://angel.co/company/fortnight/jobs/643937-"
+      }
+    }
+  ]
+}

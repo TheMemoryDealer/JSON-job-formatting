@@ -1,0 +1,98 @@
+{
+  "name": "Swimbazaar",
+  "avatar": "https://photos.angel.co/startups/i/7432592-bcba1804c6708e16f54cdb59896b7f36-medium_jpg.jpg?buster=1579621490",
+  "slogan": "Swimwear marketplace",
+  "description": "Swimwear marketplace allowing brands from anywhere in the world to easily connect their online stores and integrate their products of choice.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.aaa.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Fashion"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/clement_sb",
+      "name": "Clement F",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7432592",
+    "angelListUrl": "https://angel.co/company/swimbazaar"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "Senior Developer/CTO",
+      "description": "Platform is nearly fully developed. Need a CTO to take over the platform development and launch the product.",
+      "descriptionHtml": "<p>Platform is nearly fully developed. Need a CTO to take over the platform development and launch the product.</p>\n",
+      "position": "contract",
+      "experience": 3,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "PostgreSQL",
+        "Heroku",
+        "Ruby on Rails",
+        "Stripe API",
+        "Shopify",
+        "AWS S3",
+        "XML / JSON / REST API's"
+      ],
+      "payment": {
+        "salary": "£30k – £50k",
+        "equity": "0.0% – 5.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/clement_sb",
+        "name": "Clement F",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "701851",
+        "angelListUrl": "https://angel.co/company/swimbazaar/jobs/701851-"
+      }
+    }
+  ]
+}

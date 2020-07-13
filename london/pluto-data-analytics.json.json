@@ -1,0 +1,102 @@
+{
+  "name": "Pluto Data Analytics",
+  "avatar": "https://photos.angel.co/startups/i/7544346-7cf631602034df18804467a65c22be27-medium_jpg.jpg?buster=1583694641",
+  "slogan": "Data-driven sports analysis, real-time probability forecasts and betting insights",
+  "description": "We are building a scalable, real-time sports analysis product, pulling in data from live feeds and generating accurate probability forecasts through machine learning. We are focused on creating a flexible software platform that enables our data scientists and sports analysts to move from idea to productionised model as quickly as possible, allowing us to drive value in an ever-changing market. We have the expertise and backing of industry veterans, and the groundwork required to build a world-class technical team and product.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.plutodata.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Sports"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/charlie-eaton-1",
+      "name": "Charlie Eaton",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Tech Advisor",
+      "role": "Employee",
+      "url": "https://angel.co/u/james-gin-1",
+      "name": "James Gin",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Experienced R&amp;D manager building the team at Pluto Data Analytics"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7544346",
+    "angelListUrl": "https://angel.co/company/pluto-data-analytics"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full-Stack Developer",
+      "description": "### About Us\nPluto Data Analytics is an early-stage sports analysis and betting consultancy, backed by industry veterans. We are building a multi-sport analysis platform, producing real-time probability forecasts for in-play events using machine learning. Our focus is on creating a robust and automated machine learning environment which empowers our data scientists and sports analysts to move from idea to productionised models as quickly as possible.\n\n### Our Tech Stack\nWe use technologies to support the standard python machine learning stack, served in the cloud, with modern front-ends. \n* Back-end: Python - ML stack e.g. numpy, tensorflow, scikit-learn, API (Flask, FastAPI)\n* JavaScript (React 16, NightWatch);\n* AWS hosting environment, serverless (Lambda)\n* \n### About You\nYou have:\n* A degree in a relevant subject or equivalent commercial experience;\n* 5+ years engineering experience, including Python and at least one other language;\n* A self-starting attitude and leadership skills, the ability to work under remote direction\n* Experience leading development practices in software teams;\n* An excellent grasp of full-stack software development, from front-end engineering skills to cloud-based containerised hosting environments, taking in RDBMS and NoSQL data storage and RESTful API design.\n* Commercial experience leading technical architecture design and discussion, developing creative solutions to a wide range of technical problems.\n* Plenty of experience working with and implementing continuous integration and delivery processes;\n* The desire to build rock-solid software by using TDD, code reviews, Git;\n\n**In addition, it would be desirable if you have:**\n* A love of or interest in sports, particularly cricket and football\n* Experience with machine learning software, data engineering and ETL\n* A strong mathematical background\n* Working knowledge of security best practices\n\nAt Plutodata, you’ll be:\n\n* One of the first hires in a growing technical team working to operationalise and scale a winning sports model\n* Building a robust testing environment to enable rapid data science model development\n* Working with traders to develop a web-based front-end for in-play sports trading\n* Working directly with the technical lead to make large scale architecture and design decisions\n* Helping to define operational best practices for the development team as it’s built\n* Contributing to hiring decisions\n* Participating as a key member of a small team, supporting your colleagues, leading when necessary and always breaking new ground.\n\n### A bit about our team\n\nPlutodata is offering an exciting opportunity to be one of the first team members of a funded sports trading environment, with unique compensation options.",
+      "descriptionHtml": "<h3>About Us</h3>\n<p>Pluto Data Analytics is an early-stage sports analysis and betting consultancy, backed by industry veterans. We are building a multi-sport analysis platform, producing real-time probability forecasts for in-play events using machine learning. Our focus is on creating a robust and automated machine learning environment which empowers our data scientists and sports analysts to move from idea to productionised models as quickly as possible.</p>\n<h3>Our Tech Stack</h3>\n<p>We use technologies to support the standard python machine learning stack, served in the cloud, with modern front-ends. </p>\n\n<ul>\n<li>Back-end: Python - ML stack e.g. numpy, tensorflow, scikit-learn, API (Flask, FastAPI)</li>\n<li>JavaScript (React 16, NightWatch);</li>\n<li>AWS hosting environment, serverless (Lambda)</li>\n<li>\n### About You\nYou have:</li>\n<li>A degree in a relevant subject or equivalent commercial experience;</li>\n<li>5+ years engineering experience, including Python and at least one other language;</li>\n<li>A self-starting attitude and leadership skills, the ability to work under remote direction</li>\n<li>Experience leading development practices in software teams;</li>\n<li>An excellent grasp of full-stack software development, from front-end engineering skills to cloud-based containerised hosting environments, taking in RDBMS and NoSQL data storage and RESTful API design.</li>\n<li>Commercial experience leading technical architecture design and discussion, developing creative solutions to a wide range of technical problems.</li>\n<li>Plenty of experience working with and implementing continuous integration and delivery processes;</li>\n<li>The desire to build rock-solid software by using TDD, code reviews, Git;</li>\n</ul>\n\n<p><strong>In addition, it would be desirable if you have:</strong></p>\n\n<ul>\n<li>A love of or interest in sports, particularly cricket and football</li>\n<li>Experience with machine learning software, data engineering and ETL</li>\n<li>A strong mathematical background</li>\n<li>Working knowledge of security best practices</li>\n</ul>\n\n<p>At Plutodata, you’ll be:</p>\n\n<ul>\n<li>One of the first hires in a growing technical team working to operationalise and scale a winning sports model</li>\n<li>Building a robust testing environment to enable rapid data science model development</li>\n<li>Working with traders to develop a web-based front-end for in-play sports trading</li>\n<li>Working directly with the technical lead to make large scale architecture and design decisions</li>\n<li>Helping to define operational best practices for the development team as it’s built</li>\n<li>Contributing to hiring decisions</li>\n<li>Participating as a key member of a small team, supporting your colleagues, leading when necessary and always breaking new ground.</li>\n</ul>\n<h3>A bit about our team</h3>\n<p>Plutodata is offering an exciting opportunity to be one of the first team members of a funded sports trading environment, with unique compensation options.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "React.js",
+        "AWS"
+      ],
+      "payment": {
+        "salary": "£60k – £100k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/charlie-eaton-1",
+        "name": "Charlie Eaton",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "750988",
+        "angelListUrl": "https://angel.co/company/pluto-data-analytics/jobs/750988-"
+      }
+    }
+  ]
+}

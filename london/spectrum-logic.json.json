@@ -1,0 +1,95 @@
+{
+  "name": "Spectrum Logic",
+  "avatar": "https://photos.angel.co/startups/i/7307914-ae7318e13da61f5342875340d2e14059-medium_jpg.jpg?buster=1573480529",
+  "slogan": "CMOS Flat Panel Xray detectors",
+  "description": "Customised 50um CMOS Xray detectors for scientific and industrial purposes.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.spectrumlogic.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Industrial",
+    "Software"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/asmar-khan",
+      "name": "Spectrum Logic",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7307914",
+    "angelListUrl": "https://angel.co/company/spectrum-logic"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Developer",
+      "description": "The successful candidate will have experience in application and interface development and be able to address a wide range of development tasks across areas including C++, scripting, C#, .Net GUI and hardware systems control software. You will be able to translate user requirements into technical specifications, deliver software that meets those specifications and work closely with the rest of the interdisciplinary team to ensure that code is robust, well documented and meets the requirements. \n\nYou will be developing software (Application Programming Interfaces) for our X-ray detectors that meet the needs of X-ray systems manufacturers. You will also participate in developing GUI software products for use by end users in various scientific applications. These products typically include GUIs developed on top of in-house developed APIs. This will be a full-stack software development ensuring the complete release of the application inclduing testing following the product life cycle guidelines. \n\nYou will be expected to review task level project plans on projects, work well both on your own and in a team environment, and be able to investigate and fix bugs in shipping products as required. You will also take part in planning reviews, technical reviews, and bug reviews, providing your technical expertise to help ensure the smooth running of the existing projects and new product development.",
+      "descriptionHtml": "<p>The successful candidate will have experience in application and interface development and be able to address a wide range of development tasks across areas including C++, scripting, C#, .Net GUI and hardware systems control software. You will be able to translate user requirements into technical specifications, deliver software that meets those specifications and work closely with the rest of the interdisciplinary team to ensure that code is robust, well documented and meets the requirements. </p>\n\n<p>You will be developing software (Application Programming Interfaces) for our X-ray detectors that meet the needs of X-ray systems manufacturers. You will also participate in developing GUI software products for use by end users in various scientific applications. These products typically include GUIs developed on top of in-house developed APIs. This will be a full-stack software development ensuring the complete release of the application inclduing testing following the product life cycle guidelines. </p>\n\n<p>You will be expected to review task level project plans on projects, work well both on your own and in a team environment, and be able to investigate and fix bugs in shipping products as required. You will also take part in planning reviews, technical reviews, and bug reviews, providing your technical expertise to help ensure the smooth running of the existing projects and new product development.</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "C++",
+        "Algorithms",
+        "C Sharp (C#)",
+        "Microsoft .NET"
+      ],
+      "payment": {
+        "salary": "£35k – £40k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/asmar-khan",
+        "name": "Spectrum Logic",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "660796",
+        "angelListUrl": "https://angel.co/company/spectrum-logic/jobs/660796-"
+      }
+    }
+  ]
+}

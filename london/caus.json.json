@@ -1,0 +1,95 @@
+{
+  "name": "Caus",
+  "avatar": "https://photos.angel.co/startups/i/6172864-5ee5de507b98175abd41230dc96a8d6c-medium_jpg.jpg?buster=1534438623",
+  "slogan": "Product Design Studio",
+  "description": "Caus is a product design studio working exclusively with promising startups. We believe in doing no harm with products, and strive to work on solving real problems, for real people. \n\nFlexible, and adaptable, our team has played an integral role in the launch & scaling of well over 50 products to date. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.caus.studio"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://www.twitter.com/causstudio"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Product Design"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/bradleyg",
+      "name": "Bradley Gabr-Ryn",
+      "avatar": "https://photos.angel.co/users/1902954-medium_jpg?1533926719",
+      "bioHtml": "Founder &amp; Design Director at Caus. Solving real problems, for real people. "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6172864",
+    "angelListUrl": "https://angel.co/company/caus"
+  },
+  "jobs": [
+    {
+      "role": "Sales",
+      "title": "Sales / Business Development",
+      "description": "Sales and business development for a product design studio working with startups. 10% commission on all sales and referrals.",
+      "descriptionHtml": "<p>Sales and business development for a product design studio working with startups. 10% commission on all sales and referrals.</p>\n",
+      "position": "contract",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Information Technology",
+        "Customer Service",
+        "Networking",
+        "Sales"
+      ],
+      "payment": {
+        "salary": "£40k – £50k",
+        "equity": "0.0% – 2.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/bradleyg",
+        "name": "Bradley Gabr-Ryn",
+        "avatar": "https://photos.angel.co/users/1902954-medium_jpg?1533926719"
+      },
+      "refs": {
+        "angelListId": "419006",
+        "angelListUrl": "https://angel.co/company/caus/jobs/419006-"
+      }
+    }
+  ]
+}

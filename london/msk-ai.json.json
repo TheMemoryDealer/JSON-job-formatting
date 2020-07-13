@@ -1,0 +1,93 @@
+{
+  "name": "msk.ai",
+  "avatar": "https://photos.angel.co/startups/i/7393148-35fccecebd456bdf62917062108ff751-medium_jpg.jpg?buster=1578048742",
+  "slogan": "The intelligence advancing MSK care and discovery",
+  "description": "msk.ai develops technology to improve decision-making in orthopaedic surgery. We have an existing successful patient-monitoring platform, based around delivering data insights from smartphone and wearable sensors.\n\nWe are in stealth-mode developing new technologies using Computer Vision, Machine Learning, 2D/3D graphics and high-end laser/camera hardware.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://msk.ai"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Medical Technologies"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/tim-closs",
+      "name": "Tim Closs",
+      "avatar": "https://photos.angel.co/users/393703-medium_jpg?1463604292",
+      "bioHtml": "CTO with deep experience in software product strategy, software development, mobile apps and games • Studied at <a href=\"https://angel.co/university-of-cambridge\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Cambridge</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7393148",
+    "angelListUrl": "https://angel.co/company/msk-ai"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "C++/3D developer for medical R&D project integration phase",
+      "description": "msk.ai develops technology to improve decision-making in orthopaedic surgery. We have an existing successful patient-monitoring platform, based around delivering data insights from smartphone and wearable sensors.\r\n\r\nWe have made strong progress through a stealth-mode R&amp;D project using Computer Vision, Machine Learning, 2D/3D graphics and high-end laser/camera hardware. We now require a 3D/C++ developer to integrate existing working C++ components into an existing 2D/3D GUI application (using UnrealEngine).\r\n\r\nSkills required:\r\n- C++ / Visual Studio 2019 / Windows\r\n- Strong 3D and some 2D graphics\r\n- Ability to work within a very simple UnrealEngine project\r\n- Comfortable using a 3rd party hardware C++ SDK\r\n- Comfortable using OpenCV (at a simple level)\r\n- Comfortable using Google TensorFlow C++ SDK\r\n\r\nWe would like initially to work with a contractor for 1 week, and then ideally be able to extend, based upon good progress being made.\r\n\r\nThis is an opportunity to play a key role in delivering a ground-breaking R&amp;D project for an industry-leading client.\r\n\r\nPLEASE DO NOT CONTACT US IF YOU ARE A DEVELOPMENT OR RECRUITMENT AGENCY, AS WE WILL NOT RESPOND.",
+      "descriptionHtml": "<p>msk.ai develops technology to improve decision-making in orthopaedic surgery. We have an existing successful patient-monitoring platform, based around delivering data insights from smartphone and wearable sensors.</p>\n\n<p>We have made strong progress through a stealth-mode R&amp;D project using Computer Vision, Machine Learning, 2D/3D graphics and high-end laser/camera hardware. We now require a 3D/C++ developer to integrate existing working C++ components into an existing 2D/3D GUI application (using UnrealEngine).</p>\n\n<p>Skills required:</p>\n\n<ul>\n<li>C++ / Visual Studio 2019 / Windows</li>\n<li>Strong 3D and some 2D graphics</li>\n<li>Ability to work within a very simple UnrealEngine project</li>\n<li>Comfortable using a 3rd party hardware C++ SDK</li>\n<li>Comfortable using OpenCV (at a simple level)</li>\n<li>Comfortable using Google TensorFlow C++ SDK</li>\n</ul>\n\n<p>We would like initially to work with a contractor for 1 week, and then ideally be able to extend, based upon good progress being made.</p>\n\n<p>This is an opportunity to play a key role in delivering a ground-breaking R&amp;D project for an industry-leading client.</p>\n\n<p>PLEASE DO NOT CONTACT US IF YOU ARE A DEVELOPMENT OR RECRUITMENT AGENCY, AS WE WILL NOT RESPOND.</p>\n",
+      "position": "contract",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "C++",
+        "3D Graphics"
+      ],
+      "payment": {
+        "salary": "£80k – £100k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/tim-closs",
+        "name": "Tim Closs",
+        "avatar": "https://photos.angel.co/users/393703-medium_jpg?1463604292"
+      },
+      "refs": {
+        "angelListId": "690304",
+        "angelListUrl": "https://angel.co/company/msk-ai/jobs/690304-"
+      }
+    }
+  ]
+}

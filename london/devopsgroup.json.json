@@ -1,0 +1,123 @@
+{
+  "name": "DevOpsGroup",
+  "avatar": "https://photos.angel.co/startups/i/369489-dd6f318173f831261daae8a1a28ea424-medium_jpg.jpg?buster=1531417022",
+  "slogan": "Accelerating digital transformation, so you can lead not follow",
+  "description": "DevOpsGroup is a next-generation technology company. Our award-winning solutions unlock innovation for enterprise and scale-up organisations by making cloud, devops and agile adoption fast, secure and simple.\n\nWe empower both enterprise and scale-up organisations to achieve more in the digital economy by modernising IT. Our experts simplify complex theory into practical solutions, equipping your internal teams with modern technology, working-practices and knowledge – enabling IT to exceed business expectations.\n\nOur engineers, coaches and consultants help you build and run modern cloud platforms to accelerate digital transformations and upskill your teams to create confident digital practitioners within your organisation. Our extensive knowledge of cloud and devops accelerates speed-to-market and increases customer relevance for organisations of all shapes and sizes.\n\nSimply put; we ensure technology delivers for organisations.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.devopsgroup.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.devopsgroup.com/blog"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/devopsgroup"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/devopsgroup/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "Cardiff",
+    "London"
+  ],
+  "marketTags": [
+    "Financial Services",
+    "Insurance",
+    "Fin Tech"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/james-smith-14",
+      "name": "James Smith",
+      "avatar": "https://photos.angel.co/users/555591-medium_jpg?1463898794",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/stephen-thair",
+      "name": "Stephen Thair",
+      "avatar": "https://photos.angel.co/users/555576-medium_jpg?1473408737",
+      "bioHtml": "Founder DevOpsGuys Ltd"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/gareth-hubbard",
+      "name": "Gareth Hubbard",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/sophie-canning",
+      "name": "Sophie Canning",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "369489",
+    "angelListUrl": "https://angel.co/company/devopsgroup"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior AWS Engineer",
+      "description": "Founded in 2013, we deliver IT transformation at the speed of disruption, by building DevOps capabilities within our clients and therefore enabling them to meet the increasing demands of delivering great customer experiences. Our client portfolio includes companies such as Admiral Insurance, ASOS, BAE Systems, Skyscanner and Vodafone.\n\nWe are looking for more super talented individuals to add their mark. As the team continues to grow, we want to meet Engineers of all levels to discuss how your future could look with us at DevOpsGroup. \n\nYou’ll be working with a variety of technologies and tools such as AWS, Docker, Ansible, Team City, CloudFormation or Terraform (just to name a few!)",
+      "descriptionHtml": "<p>Founded in 2013, we deliver IT transformation at the speed of disruption, by building DevOps capabilities within our clients and therefore enabling them to meet the increasing demands of delivering great customer experiences. Our client portfolio includes companies such as Admiral Insurance, ASOS, BAE Systems, Skyscanner and Vodafone.</p>\n\n<p>We are looking for more super talented individuals to add their mark. As the team continues to grow, we want to meet Engineers of all levels to discuss how your future could look with us at DevOpsGroup. </p>\n\n<p>You’ll be working with a variety of technologies and tools such as AWS, Docker, Ansible, Team City, CloudFormation or Terraform (just to name a few!)</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Puppet",
+        "Chef",
+        "Ansible",
+        "AWS CloudFormation",
+        "AWS",
+        "Terraform"
+      ],
+      "payment": {
+        "salary": "£55k – £80k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/stephen-thair",
+        "name": "Stephen Thair",
+        "avatar": "https://photos.angel.co/users/555576-medium_jpg?1473408737"
+      },
+      "refs": {
+        "angelListId": "472316",
+        "angelListUrl": "https://angel.co/company/devopsgroup/jobs/472316-"
+      }
+    }
+  ]
+}

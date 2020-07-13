@@ -1,0 +1,90 @@
+{
+  "name": "Sudor",
+  "avatar": "https://photos.angel.co/startups/i/7673991-396416526350587ec23e5baf76efa464-medium_jpg.jpg?buster=1588667066",
+  "slogan": "Sudor is the platform for trainers to Create. Share. Earn",
+  "description": "In the same way Uber enables anyone to become a taxi driver, and Airbnb enables anyone to become a hotelier, Sudor enables anyone to become the next big fitness influencer. Subscribers can either subscribe to one specific trainer or all the trainers on the platform. The trainers have choreographed workouts in which they demonstrate each exercise as well as explain the exercise, just as a personal trainer would. The trainer will essentially be doing the workout with the client.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://sudor.fit/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile Application"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/emma-heap-1",
+      "name": "Emma Heap",
+      "avatar": "https://photos.angel.co/users/9575130-medium_jpg?1561371886",
+      "bioHtml": "Co-founder sudor • 5 years at <a href=\"https://angel.co/company/groupon\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Groupon</span></a> in the UK, Germany &amp; SA, scaled <a href=\"https://angel.co/company/foodpanda\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">foodpanda</span></a> SG from 25k orders/month-&gt; 250k orders/month"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7673991",
+    "angelListUrl": "https://angel.co/company/sudor-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior iOS Developer",
+      "description": "What you will do\r\n\r\n- Own the full lifecycle of our existing iOS infrastructure: Domain driven design, user friendly features, agile code development, app store handling, integration with Java backend \r\n- Play a key role in our transition from an MVP to a globally successful platform; through building new features, refactoring and extending existing ones\r\n- Mentor junior members of the team\r\n- Work directly with the deeply product experienced founders\r\n- Enable content creators across the globe to become entrepreneurs, directly impacting their lives in a positive manner \r\n\r\nWhat you should bring\r\n\r\n- 5+ years experience iOS app development in swift, objective-c, maybe a year of android or backend \r\n- A well trained brain, eager to learn new things\r\n- A demonstrated computer science background through a STEM degree or relevant experience\r\n- A passion for fitness\r\nLocation within the timezones UTC-3 to UTC+3\r\n\r\nWhat we offer\r\n\r\n- Be one of the first senior engineers to join this freshly created company\r\nEquity package\r\n- BYOD and remote working culture (we’re in three cities on two continents) \r\n- UX driven development experience with an extremely strong product vision\r\n- Experienced founders team from unicorn startups offers lots of opportunities to learn from",
+      "descriptionHtml": "<p>What you will do</p>\n\n<ul>\n<li>Own the full lifecycle of our existing iOS infrastructure: Domain driven design, user friendly features, agile code development, app store handling, integration with Java backend </li>\n<li>Play a key role in our transition from an MVP to a globally successful platform; through building new features, refactoring and extending existing ones</li>\n<li>Mentor junior members of the team</li>\n<li>Work directly with the deeply product experienced founders</li>\n<li>Enable content creators across the globe to become entrepreneurs, directly impacting their lives in a positive manner </li>\n</ul>\n\n<p>What you should bring</p>\n\n<ul>\n<li>5+ years experience iOS app development in swift, objective-c, maybe a year of android or backend </li>\n<li>A well trained brain, eager to learn new things</li>\n<li>A demonstrated computer science background through a STEM degree or relevant experience</li>\n<li>A passion for fitness\nLocation within the timezones UTC-3 to UTC+3</li>\n</ul>\n\n<p>What we offer</p>\n\n<ul>\n<li>Be one of the first senior engineers to join this freshly created company\nEquity package</li>\n<li>BYOD and remote working culture (we’re in three cities on two continents) </li>\n<li>UX driven development experience with an extremely strong product vision</li>\n<li>Experienced founders team from unicorn startups offers lots of opportunities to learn from</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£60k – £60k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/emma-heap-1",
+        "name": "Emma Heap",
+        "avatar": "https://photos.angel.co/users/9575130-medium_jpg?1561371886"
+      },
+      "refs": {
+        "angelListId": "810141",
+        "angelListUrl": "https://angel.co/company/sudor-1/jobs/810141-"
+      }
+    }
+  ]
+}

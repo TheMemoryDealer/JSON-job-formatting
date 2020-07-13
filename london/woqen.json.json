@@ -1,0 +1,108 @@
+{
+  "name": "WOQEN",
+  "avatar": "https://photos.angel.co/startups/i/7057364-d7477a45cc23d2245f005b03ddcaaa00-medium_jpg.jpg?buster=1562878268",
+  "slogan": "We're in stealth mode...",
+  "description": "It will help organisations globally manage a range of wellbeing and culture change issues.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.woqen.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "SaaS",
+    "E-Commerce",
+    "Machine Learning",
+    "Startups",
+    "Hr Tech"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/dan-gallagher-10",
+      "name": "Dan Gallagher",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at WOQEN, WOQEN"
+    },
+    {
+      "title": "Director",
+      "role": "Employee",
+      "url": "https://angel.co/u/dan-gallagher-10",
+      "name": "Dan Gallagher",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at WOQEN, WOQEN"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7057364",
+    "angelListUrl": "https://angel.co/company/woqen"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "CTO / Senior Developer",
+      "description": "Looking for a senior dev who can build and deliver a web based app that will eventually incorporate data visualisation, pricing engines, AI chatbots, matching algorithms and anything else that in your opinion adds value to the product.\n\nThe first part of the project is nearly complete and we now need to move from prototype to MVP / Product launch phase.\n\nThe ideal co-founder will come with an inclusive mindset along with a full stack background. We’ll keep V1 of the product will be light on features so getting to market asap is a priority. However, the build will certainly become a lot more complex as we scope out the rest of the platform.\n\nYou'll get to decide the tech stack for the platform.\n\nHaving a strong academic background is good but definitely not essential. The ability to code and build a product is more key to putting yourself in the frame to join the cofounding team.\n\nSo if you rate yourself and want to learn more get in touch.\n\nHappy to consider remote workers on this project.",
+      "descriptionHtml": "<p>Looking for a senior dev who can build and deliver a web based app that will eventually incorporate data visualisation, pricing engines, AI chatbots, matching algorithms and anything else that in your opinion adds value to the product.</p>\n\n<p>The first part of the project is nearly complete and we now need to move from prototype to MVP / Product launch phase.</p>\n\n<p>The ideal co-founder will come with an inclusive mindset along with a full stack background. We’ll keep V1 of the product will be light on features so getting to market asap is a priority. However, the build will certainly become a lot more complex as we scope out the rest of the platform.</p>\n\n<p>You&#39;ll get to decide the tech stack for the platform.</p>\n\n<p>Having a strong academic background is good but definitely not essential. The ability to code and build a product is more key to putting yourself in the frame to join the cofounding team.</p>\n\n<p>So if you rate yourself and want to learn more get in touch.</p>\n\n<p>Happy to consider remote workers on this project.</p>\n",
+      "position": "cofounder",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Europe",
+        "India",
+        "North America"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Data Visualization",
+        "Backend Development",
+        "Frontend Development"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "0.5% – 5.0%"
+      },
+      "recruiter": {
+        "title": "Director",
+        "role": "Employee",
+        "url": "https://angel.co/u/dan-gallagher-10",
+        "name": "Dan Gallagher",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "588212",
+        "angelListUrl": "https://angel.co/company/woqen/jobs/588212-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "name": "Transak",
+  "avatar": "https://photos.angel.co/startups/i/7361952-84dd1287dbee3d0e0b705b79855cff73-medium_jpg.jpg?buster=1588078856",
+  "slogan": "Transak is an integration for applications to globally onboard users from fiat to crypto and back",
+  "description": "Crypto and blockchain applications have the potential to change the world. Tokenisation, composability, democratisation and openness can make applications fairer and better. Crypto applications want to reach a global and mainstream audience who expect to deposit and withdraw with fiat using local payment methods. Transak solves that. By reducing the barriers that exist between the fiat and crypto worlds, we allow everyone to have seamless access to crypto applications.\n\nBy focusing on aggregating banking infrastructure, compliance, liquidity, payment processing and seamless user experience we abstract away the complexity of the fragmented fiat ↔ crypto ramps that exist today. \n\nSo that our partners can focus on building their applications and launch globally from the get go.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://transak.com/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/transak_finance"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/build-with-transak/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "Remote",
+    "London",
+    "Bengaluru"
+  ],
+  "marketTags": [
+    "Finance Technology",
+    "Cryptocurrency",
+    "Blockchain / Cryptocurrency"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Co-founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/yeshu-agarwal",
+      "name": "Yeshu Agarwal",
+      "avatar": "https://photos.angel.co/users/1248816-medium_jpg?1566294571",
+      "bioHtml": "Entrepreneur | Programmer | Fin-tech | Cryptocurrency | Blockchain. \nLaunched 5 ventures in the past, 4x failure &amp; 1x success. "
+    },
+    {
+      "title": "Co-founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/sami-start",
+      "name": "Sami Start",
+      "avatar": "https://photos.angel.co/users/3254421-medium_jpg?1471684591",
+      "bioHtml": "Transak is a single integration to allow decentralised applications to receive fiat payments form a global audience."
+    },
+    {
+      "title": "Product",
+      "role": "Employee",
+      "url": "https://angel.co/u/avie-kakkar",
+      "name": "Avie Kakkar",
+      "avatar": "https://photos.angel.co/users/2237907-medium_jpg?1536609153",
+      "bioHtml": "racing against time in the crypto space"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7361952",
+    "angelListUrl": "https://angel.co/company/transak"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Engineer (Blockchain & Crypto)",
+      "description": "### 🎪 What teeters your totter?\r\n\r\n---\r\nAs a well-rounded developer with a proven track record, you will build back-end services, third-party platform tools, front-end interfaces and smart contracts. Your responsibilities will include some or all of the following:\r\n\r\n- Owning a project from ideation to implementation, helping define the future of Transak's engineering organization\r\n- Build rapid prototypes and collaborate with different departments on fast paced projects\r\n- Create robust software logic that supports foolproof cryptocurrency transactions\r\n- Integration of 3rd party services, such as crypto exchanges, wallets, protocols etc\r\n- Debugging, root-cause analysis, bug fixing\r\n- Work with and establish partnerships with developer communities and other teams/projects in the industry\r\n- Trading, pricing and risk analysis for our trading operations\r\n\r\n**Your superpower-bag contains:**\r\n\r\n---\r\n\r\n- Good knowledge of JavaScript, NodeJS and React\r\n- Interest in crypto and blockchain and blockchain applications\r\n- Deep understanding of Node promises and event loop\r\n- Deep understanding of Git\r\n- Excellent knowledge of software engineering best practices (e.g., software development, test-driven development, unit testing, code reviews, design documentation)\r\n- Enough DevOps experience to setup, configure and maintain your dev/build environment\r\n\r\n**Even better if you:**\r\n\r\n---\r\n\r\n- Have knowledge of automated trading and exchange technology\r\n- Have played with Solidity and the EVM\r\n- Are familiar with crypto-economic protocol design, including governance and incentive structures\r\n- Prior experience with building infrastructure for financial or security systems\r\n\r\n### 🎩 To tickle your fancy, we offer:\r\n\r\n---\r\n\r\n- Opportunity to work in a *fast* growing startup  - challenge yourself and grow with the company\r\n- Opportunity to work remotely\r\n- Flexible work hours\r\n- Option to take pay in digital currencies\r\n- Competitive salary and holiday allowance\r\n- Equity options so you can share in the success of the company\r\n\r\n### 🛠 **Technologies that float our boat:**\r\n\r\n---\r\n\r\n- NodeJS, Express and Loopback\r\n- ReactJS\r\n- Solidity, Truffle and Remix\r\n- AWS\r\n- MaterialUI and Photoshop\r\n- Sentry\r\n- Retool\r\n\r\nTo apply, please fill out the form below:\r\nhttps://transak-finance.typeform.com/to/R8fDMq\r\n\r\nOh, and we're backed by Consensys.",
+      "descriptionHtml": "<h3>🎪 What teeters your totter?</h3>\n<hr>\n\n<p>As a well-rounded developer with a proven track record, you will build back-end services, third-party platform tools, front-end interfaces and smart contracts. Your responsibilities will include some or all of the following:</p>\n\n<ul>\n<li>Owning a project from ideation to implementation, helping define the future of Transak&#39;s engineering organization</li>\n<li>Build rapid prototypes and collaborate with different departments on fast paced projects</li>\n<li>Create robust software logic that supports foolproof cryptocurrency transactions</li>\n<li>Integration of 3rd party services, such as crypto exchanges, wallets, protocols etc</li>\n<li>Debugging, root-cause analysis, bug fixing</li>\n<li>Work with and establish partnerships with developer communities and other teams/projects in the industry</li>\n<li>Trading, pricing and risk analysis for our trading operations</li>\n</ul>\n\n<p><strong>Your superpower-bag contains:</strong></p>\n\n<hr>\n\n<ul>\n<li>Good knowledge of JavaScript, NodeJS and React</li>\n<li>Interest in crypto and blockchain and blockchain applications</li>\n<li>Deep understanding of Node promises and event loop</li>\n<li>Deep understanding of Git</li>\n<li>Excellent knowledge of software engineering best practices (e.g., software development, test-driven development, unit testing, code reviews, design documentation)</li>\n<li>Enough DevOps experience to setup, configure and maintain your dev/build environment</li>\n</ul>\n\n<p><strong>Even better if you:</strong></p>\n\n<hr>\n\n<ul>\n<li>Have knowledge of automated trading and exchange technology</li>\n<li>Have played with Solidity and the EVM</li>\n<li>Are familiar with crypto-economic protocol design, including governance and incentive structures</li>\n<li>Prior experience with building infrastructure for financial or security systems</li>\n</ul>\n<h3>🎩 To tickle your fancy, we offer:</h3>\n<hr>\n\n<ul>\n<li>Opportunity to work in a <em>fast</em> growing startup  - challenge yourself and grow with the company</li>\n<li>Opportunity to work remotely</li>\n<li>Flexible work hours</li>\n<li>Option to take pay in digital currencies</li>\n<li>Competitive salary and holiday allowance</li>\n<li>Equity options so you can share in the success of the company</li>\n</ul>\n<h3>🛠 <strong>Technologies that float our boat:</strong></h3>\n<hr>\n\n<ul>\n<li>NodeJS, Express and Loopback</li>\n<li>ReactJS</li>\n<li>Solidity, Truffle and Remix</li>\n<li>AWS</li>\n<li>MaterialUI and Photoshop</li>\n<li>Sentry</li>\n<li>Retool</li>\n</ul>\n\n<p>To apply, please fill out the form below:<br>\n<a href=\"https://transak-finance.typeform.com/to/R8fDMq\" target=\"_blank\" rel=\"nofollow\">https://transak-finance.typeform.com/to/R8fDMq</a></p>\n\n<p>Oh, and we&#39;re backed by Consensys.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Bengaluru"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Earth"
+      ],
+      "skills": [
+        "Javascript",
+        "Node.js",
+        "Express.js",
+        "React.js",
+        "Solidity",
+        "AWS",
+        "Loopback.js"
+      ],
+      "payment": {
+        "salary": "$0k – $80k",
+        "equity": "0.1% – 3.0%"
+      },
+      "recruiter": {
+        "title": "Co-founder",
+        "role": "Founder",
+        "url": "https://angel.co/u/sami-start",
+        "name": "Sami Start",
+        "avatar": "https://photos.angel.co/users/3254421-medium_jpg?1471684591"
+      },
+      "refs": {
+        "angelListId": "807470",
+        "angelListUrl": "https://angel.co/company/transak/jobs/807470-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "name": "Reset MSM",
+  "avatar": "https://photos.angel.co/startups/i/6744208-530bff633faf4650efc9536d5ceca846-medium_jpg.jpg?buster=1548024511",
+  "slogan": "Modern Stress Management",
+  "description": "Reset is a luxury platform that provides a range of customised mindfulness services to address Modern Stress Management (MSM).\n\nOur solutions are life-enhancing and enable self-optimization.\n\nThe journey of life is recognizing what is already within ourselves.  Reset is the master key for unlocking the door to that recognition.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.resetmsm.com/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mental Health",
+    "Health and Wellness",
+    "Corporate Wellness"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/joy-yaffe",
+      "name": "Joy Yaffe",
+      "avatar": "https://photos.angel.co/users/8834957-medium_jpg?1579779397",
+      "bioHtml": ""
+    },
+    {
+      "title": "Advisor",
+      "role": "Founder",
+      "url": "https://angel.co/u/skochy",
+      "name": "Samuel Koch",
+      "avatar": "https://photos.angel.co/users/1161902-medium_jpg?1488409209",
+      "bioHtml": "CEO <a href=\"https://angel.co/company/samdroid\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Samdroid</span></a> • Worked at <a href=\"https://angel.co/company/facebook\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Facebook</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/tengis-gantuul",
+      "name": "Tengis Gantuul",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6744208",
+    "angelListUrl": "https://angel.co/company/resetmsm"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "Chief Technology Officer",
+      "description": "Chief Technology Officer - Job Specification\nTHE POSITION  \n\nA salary in the range of £60,000 + will kick in once we have the necessary funding, for a full-time position.\n\nThere will be a contractual agreement including 1-2% Equity & based on 10+ hours per week, in the interim. \n\nDependent on the experience/ background & time commitment all the above is negotiable\n \nwww.resetmsm.com\n\nReset is a luxury platform that provides a range of customised mindfulness services to address Modern Stress Management (MSM). The demand for wellness industry services is ever increasing as more people take preventive measures to maintain good mind-body health, prevent diseases and to age well. \n\nReset’s solutions are life-enhancing and enable self-optimization. The journey of life is recognizing what is already within ourselves and Reset is the master key for unlocking the door to that recognition. \n\nWhilst working at Reset, you will be responsible for building and maintaining the Reset iOS app. It is currently at Beta stage with some features still to be fully implemented. There is an Android app that was used for just testing the Emotion Analytics and other API calls, but no production UI has been implemented.\n\nThe app allows users to\n-Browse Reset’s Gurus and their videos, searching by their skill sets\n-Speak to Reset’s Emotion Analytics to identify their current mood and see recommended Gurus & Videos best suited to that mood\n-Reach out to Reset using the Concierge email\n-See the Guru’s availabilities and book a 1-on-1 session with them\n-Sessions are done using Whereby and open in a user’s browser\n-Sessions for the Beta are free but simulate using Apple Pay\n-Browse the different Reset Membership packages (membership access levels have not been implemented in the app)\n-Gurus interact with Reset’s platform through our web console, built using Vanilla JavaScript and hosted with Firebase. Gurus can see their calendar of scheduled sessions to join, add notes or cancel those sessions, and add new available sessions for users to book.\n\nFuture development will involve:\n-Building the Membership access levels into the app\n-Integrating Apple Pay to allow users to pay for the memberships and Guru sessions\n-Integrating a video chat SDK into the app for a more seamless experience on calls with Gurus\n-Building a notification system to better notify users of upcoming sessions and -Reset events\n-Integrating a messaging and calling system for Reset Concierges\n-Any further UI and API updates",
+      "descriptionHtml": "<p>Chief Technology Officer - Job Specification<br>\nTHE POSITION  </p>\n\n<p>A salary in the range of £60,000 + will kick in once we have the necessary funding, for a full-time position.</p>\n\n<p>There will be a contractual agreement including 1-2% Equity &amp; based on 10+ hours per week, in the interim. </p>\n\n<p>Dependent on the experience/ background &amp; time commitment all the above is negotiable</p>\n\n<p><a href=\"http://www.resetmsm.com\" target=\"_blank\" rel=\"nofollow\">www.resetmsm.com</a></p>\n\n<p>Reset is a luxury platform that provides a range of customised mindfulness services to address Modern Stress Management (MSM). The demand for wellness industry services is ever increasing as more people take preventive measures to maintain good mind-body health, prevent diseases and to age well. </p>\n\n<p>Reset’s solutions are life-enhancing and enable self-optimization. The journey of life is recognizing what is already within ourselves and Reset is the master key for unlocking the door to that recognition. </p>\n\n<p>Whilst working at Reset, you will be responsible for building and maintaining the Reset iOS app. It is currently at Beta stage with some features still to be fully implemented. There is an Android app that was used for just testing the Emotion Analytics and other API calls, but no production UI has been implemented.</p>\n\n<p>The app allows users to<br>\n-Browse Reset’s Gurus and their videos, searching by their skill sets<br>\n-Speak to Reset’s Emotion Analytics to identify their current mood and see recommended Gurus &amp; Videos best suited to that mood<br>\n-Reach out to Reset using the Concierge email<br>\n-See the Guru’s availabilities and book a 1-on-1 session with them<br>\n-Sessions are done using Whereby and open in a user’s browser<br>\n-Sessions for the Beta are free but simulate using Apple Pay<br>\n-Browse the different Reset Membership packages (membership access levels have not been implemented in the app)<br>\n-Gurus interact with Reset’s platform through our web console, built using Vanilla JavaScript and hosted with Firebase. Gurus can see their calendar of scheduled sessions to join, add notes or cancel those sessions, and add new available sessions for users to book.</p>\n\n<p>Future development will involve:<br>\n-Building the Membership access levels into the app<br>\n-Integrating Apple Pay to allow users to pay for the memberships and Guru sessions<br>\n-Integrating a video chat SDK into the app for a more seamless experience on calls with Gurus<br>\n-Building a notification system to better notify users of upcoming sessions and -Reset events<br>\n-Integrating a messaging and calling system for Reset Concierges<br>\n-Any further UI and API updates</p>\n",
+      "position": "contract",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£60k – £80k",
+        "equity": "1.0% – 2.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/joy-yaffe",
+        "name": "Joy Yaffe",
+        "avatar": "https://photos.angel.co/users/8834957-medium_jpg?1579779397"
+      },
+      "refs": {
+        "angelListId": "703952",
+        "angelListUrl": "https://angel.co/company/resetmsm/jobs/703952-"
+      },
+      "postedAt": 1589658703952
+    }
+  ]
+}

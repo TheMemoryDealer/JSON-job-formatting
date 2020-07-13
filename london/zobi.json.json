@@ -1,0 +1,103 @@
+{
+  "name": "zobi",
+  "avatar": "https://photos.angel.co/startups/i/6857132-41230b081e19ff8fedd7fae7d0a3a29c-medium_jpg.jpg?buster=1577389175",
+  "slogan": "A new way to protect your home from cybercrime – every person, every device",
+  "description": "AI, IDS, IoT, Zigbee, Z-Wave… all this jargon stresses us out and we’re cybersecurity experts. We created Zobi Home Intelligence to make it easy for anyone to detect and prevent cybercrime in their home.\n\nZobi’s not just Artificial Intelligence, it’s Home Intelligence. Our smart, brand-agnostic solutions take a holistic view of homes - people, devices, networks, habits. They build an anonymous profile for each home, then use that intel to spot unusual behaviour and stop cybercriminals.\n\nLearn more at http://zobi.ai",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://zobi.ai"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/zobi_ai"
+    },
+    {
+      "type": "facebook",
+      "url": "https://facebook.com/getzobi"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/zobi-ai"
+    },
+    {
+      "type": "productHunt",
+      "url": "https://www.producthunt.com/posts/zobi"
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Cyber Security",
+    "Internet of Things",
+    "Smart Home"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 150000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1572566400,
+        "valuation": 800000
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/scott-lever-4",
+      "name": "Scott Lever",
+      "avatar": "https://photos.angel.co/users/9111467-medium_jpg?1553538649",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/zobi\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">zobi</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6857132",
+    "angelListUrl": "https://angel.co/company/zobi"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "Part time CTO",
+      "description": "We are an IoT Cyber Security startup, looking for a part-time CTO with the possibility of going full-time after 3 months.\n\nYou should be sufficient in:\n\nSaaS development\nAgile lifecycle\nInternet of Things\nZigbee and other WiFi technologies\n\nYour responsibilities will include:\n\nVetting, shortlisting and selecting a development partner for our IoT Intrusion Detection System.\n\nHigh-level architecture design of the solution.\n\nValidation of developer low-level designs.\n\nReporting to founder on development blockers and progress.",
+      "descriptionHtml": "<p>We are an IoT Cyber Security startup, looking for a part-time CTO with the possibility of going full-time after 3 months.</p>\n\n<p>You should be sufficient in:</p>\n\n<p>SaaS development<br>\nAgile lifecycle<br>\nInternet of Things<br>\nZigbee and other WiFi technologies</p>\n\n<p>Your responsibilities will include:</p>\n\n<p>Vetting, shortlisting and selecting a development partner for our IoT Intrusion Detection System.</p>\n\n<p>High-level architecture design of the solution.</p>\n\n<p>Validation of developer low-level designs.</p>\n\n<p>Reporting to founder on development blockers and progress.</p>\n",
+      "position": "contract",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Australia",
+        "Israel",
+        "North America",
+        "United Kingdom",
+        "Tel Aviv-Yafo"
+      ],
+      "skills": [],
+      "payment": {
+        "salary": "£35k – £40k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/scott-lever-4",
+        "name": "Scott Lever",
+        "avatar": "https://photos.angel.co/users/9111467-medium_jpg?1553538649"
+      },
+      "refs": {
+        "angelListId": "689065",
+        "angelListUrl": "https://angel.co/company/zobi/jobs/689065-"
+      }
+    }
+  ]
+}

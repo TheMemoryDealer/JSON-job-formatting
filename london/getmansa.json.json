@@ -1,0 +1,265 @@
+{
+  "name": "MANSA",
+  "avatar": "https://photos.angel.co/startups/i/7033597-f1709218e46376d40b17a1f2e85b09f4-medium_jpg.jpg?buster=1561811502",
+  "slogan": "Mansa reinvents the traditional bank’s scoring model",
+  "description": "A new era begins with the creation of the Borrowing as a Service (BaaS) by Mansa. We believe that it's time to set the record straight by allowing freelancers and gig workers borrow money with fair pricing and a genuine user experience.  \n\nMansa was founded by millennials who believe that the traditional economy is shifting towards the freelance and gig world.  By being extremely focused on product, coding and data, Mansa Team wants to build a strong tech culture and fix freelancers personal finance once for all.\n\nWe are choosing to build a quality team vs a large team. You will be a formative part of our company culture moving forward. To that point, we want someone that can take ownership of a project from beginning to end.\n\nWe have recently closed a £2M seed round with Founders Future (Investor in Pinterest, Lendix, YUKA) and several great angel investors who have built and sold industry leading companies.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://getmansa.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/getmansa"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/mansaltd/about/?viewAsMember=true"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Paris"
+  ],
+  "marketTags": [
+    "Consumer Internet",
+    "Enterprise Software",
+    "Financial Services",
+    "Artificial Intelligence",
+    "Small and Medium Businesses"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/tinco-remy",
+      "name": "TINCO Rémy",
+      "avatar": "https://photos.angel.co/users/9603485-medium_jpg?1561800482",
+      "bioHtml": "Founder Mansa &amp; CTO"
+    },
+    {
+      "title": "COO",
+      "role": "Employee",
+      "url": "https://angel.co/u/jbenjamin-cambier",
+      "name": "Benjamin Cambier",
+      "avatar": "https://photos.angel.co/users/9582369-medium_jpg?1561808537",
+      "bioHtml": "Co-Founder at Mansa\n(ex) White Star Capital"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/ali-rami",
+      "name": "Ali Rami",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7033597",
+    "angelListUrl": "https://angel.co/company/getmansa"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Back-End Engineer",
+      "description": "Your focus will be on our backend infrastructure, from scaling challenges to data processing ones. We have an intense roadmap ahead, which includes a plethora of new features and integrations.\n\nSome of our current interests are based on:\n\n🛠 Product: We are building one of the best lending App designed for freelancers. \n\n🔮 Machine learning: We have a huge amount of transaction, social and behavioral data, which we are using to score this new economy. Predicting when a user is going in overdraft, when a card payment is coming through or clustering a huge set of subscriptions are a few of the problems we are tackling. But also how much his professional network is developed.\n\n📈 Scaling: We need to keep Mansa up and running. This means an intense effort and quality in the work we do on new big data challenges.\n\n🏃‍♂️ Speed: In this industry what really matters is speed. How much iops can you process? BLITZSCALING! \n\n\n⚗️ Develop and support new applications\n\n- Collaborate in the specification and technical architecture phases\n- Contribute to application architecture reviews, selection of frameworks / library and implementation of design patterns (performance, maintainability, scalability, reuse, ...)\n- Perform integration of the solution / technical and functional settings\n- Design of test scenarios / Identification and formalization of errors and inconsistencies (environment management, unit test, test plan, code correction, ...)\n\n⭐️ Integration of existing IT solutions and participation in the acceptance testing\n\n- Perform code writing in accordance with the instructions established at the service level\n- Improve tools for production\n- Learn to use our internal tools (Slack, Airtable, Salesforce) and important development tools (OVH Cloud, Docker, Kubernetes, Jenkins)\n- Draft the technical documentation necessary for the durability of the maintenance by respecting the standards set up\n\n\n🔥 Skills required for the position\n\n- Good knowledge of Agile and Craftmanship development practices (TDD, continuous integration, code refactoring, etc.)\n- A good experience of RESTFul APIs and separation of concerns\n- Ability to document and democratize selected good practices and architectural principles, APIs\n- Ability to work in a team: Listening, communication, dynamism, responsibility and collective commitment\n- Strong interest in software architecture and development (technological watch)\n- Entrepreneurial spirit and desire to participate in the construction of a story, an adventure",
+      "descriptionHtml": "<p>Your focus will be on our backend infrastructure, from scaling challenges to data processing ones. We have an intense roadmap ahead, which includes a plethora of new features and integrations.</p>\n\n<p>Some of our current interests are based on:</p>\n\n<p>🛠 Product: We are building one of the best lending App designed for freelancers. </p>\n\n<p>🔮 Machine learning: We have a huge amount of transaction, social and behavioral data, which we are using to score this new economy. Predicting when a user is going in overdraft, when a card payment is coming through or clustering a huge set of subscriptions are a few of the problems we are tackling. But also how much his professional network is developed.</p>\n\n<p>📈 Scaling: We need to keep Mansa up and running. This means an intense effort and quality in the work we do on new big data challenges.</p>\n\n<p>🏃‍♂️ Speed: In this industry what really matters is speed. How much iops can you process? BLITZSCALING! </p>\n\n<p>⚗️ Develop and support new applications</p>\n\n<ul>\n<li>Collaborate in the specification and technical architecture phases</li>\n<li>Contribute to application architecture reviews, selection of frameworks / library and implementation of design patterns (performance, maintainability, scalability, reuse, ...)</li>\n<li>Perform integration of the solution / technical and functional settings</li>\n<li>Design of test scenarios / Identification and formalization of errors and inconsistencies (environment management, unit test, test plan, code correction, ...)</li>\n</ul>\n\n<p>⭐️ Integration of existing IT solutions and participation in the acceptance testing</p>\n\n<ul>\n<li>Perform code writing in accordance with the instructions established at the service level</li>\n<li>Improve tools for production</li>\n<li>Learn to use our internal tools (Slack, Airtable, Salesforce) and important development tools (OVH Cloud, Docker, Kubernetes, Jenkins)</li>\n<li>Draft the technical documentation necessary for the durability of the maintenance by respecting the standards set up</li>\n</ul>\n\n<p>🔥 Skills required for the position</p>\n\n<ul>\n<li>Good knowledge of Agile and Craftmanship development practices (TDD, continuous integration, code refactoring, etc.)</li>\n<li>A good experience of RESTFul APIs and separation of concerns</li>\n<li>Ability to document and democratize selected good practices and architectural principles, APIs</li>\n<li>Ability to work in a team: Listening, communication, dynamism, responsibility and collective commitment</li>\n<li>Strong interest in software architecture and development (technological watch)</li>\n<li>Entrepreneurial spirit and desire to participate in the construction of a story, an adventure</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Paris"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Node.js",
+        "PostgreSQL",
+        "Express.js",
+        "TypeScript",
+        "Nest.Js"
+      ],
+      "payment": {
+        "salary": "£40k – £60k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Founder",
+        "url": "https://angel.co/u/tinco-remy",
+        "name": "TINCO Rémy",
+        "avatar": "https://photos.angel.co/users/9603485-medium_jpg?1561800482"
+      },
+      "refs": {
+        "angelListId": "581845",
+        "angelListUrl": "https://angel.co/company/getmansa/jobs/581845-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Front-End Engineer",
+      "description": "Your focus will be on our Frontend infrastructure, from scaling challenges to data processing ones. We have an intense roadmap ahead, which includes a plethora of new features and integrations.\n\nSome of our current interests are based on:\n\n🛠 Product: We are building one of the best lending App designed for freelancers. \n\n🔮 Machine learning: We have a huge amount of transaction, social and behavioral data, which we are using to score this new economy. Predicting when a user is going in overdraft, when a card payment is coming through or clustering a huge set of subscriptions are a few of the problems we are tackling. But also how much his professional network is developed.\n\n📈 Scaling: We need to keep Mansa up and running. This means an intense effort and quality in the work we do on new big data challenges.\n\n🏃‍♂️ Speed: In this industry what really matters is speed. How much iops can you process? BLITZSCALING! \n\n\n⚗️ Develop and support new applications \n\n- Collaborate in the specification and technical architecture phases\n- Contribute to application architecture reviews, selection of frameworks / library and implementation of design patterns (performance, maintainability, scalability, reuse, ...)\n- Perform integration of the solution / technical and functional settings\n- Design of test scenarios / Identification and formalization of errors and inconsistencies (environment management, unit test, test plan, code correction, ...)\n\n\n⭐️ Integration of existing IT solutions and participation in the acceptance testing\n\n- Perform code writing in accordance with the instructions established at the service level\n- Improve tools for production\n- Learn to use our internal tools (Slack, Airtable, Salesforce) and important development tools (OVH Cloud, Docker, Kubernetes, Jenkins)\n- Draft the technical documentation necessary for the durability of the maintenance by respecting the standards set up\n\n🔥 Skills required for the position\n\n- Good knowledge of Agile and Craftmanship development practices (TDD, continuous integration, code refactoring, etc.)\n- A good experience of RESTFul APIs and separation of concerns\n- Ability to document and democratize selected good practices and architectural principles, API\n- Ability to work in a team: Listening, communication, dynamism, responsibility and collective commitment\n- Strong interest in software architecture and development (technological watch)\n- Entrepreneurial spirit and desire to participate in the construction of a story, an adventure",
+      "descriptionHtml": "<p>Your focus will be on our Frontend infrastructure, from scaling challenges to data processing ones. We have an intense roadmap ahead, which includes a plethora of new features and integrations.</p>\n\n<p>Some of our current interests are based on:</p>\n\n<p>🛠 Product: We are building one of the best lending App designed for freelancers. </p>\n\n<p>🔮 Machine learning: We have a huge amount of transaction, social and behavioral data, which we are using to score this new economy. Predicting when a user is going in overdraft, when a card payment is coming through or clustering a huge set of subscriptions are a few of the problems we are tackling. But also how much his professional network is developed.</p>\n\n<p>📈 Scaling: We need to keep Mansa up and running. This means an intense effort and quality in the work we do on new big data challenges.</p>\n\n<p>🏃‍♂️ Speed: In this industry what really matters is speed. How much iops can you process? BLITZSCALING! </p>\n\n<p>⚗️ Develop and support new applications </p>\n\n<ul>\n<li>Collaborate in the specification and technical architecture phases</li>\n<li>Contribute to application architecture reviews, selection of frameworks / library and implementation of design patterns (performance, maintainability, scalability, reuse, ...)</li>\n<li>Perform integration of the solution / technical and functional settings</li>\n<li>Design of test scenarios / Identification and formalization of errors and inconsistencies (environment management, unit test, test plan, code correction, ...)</li>\n</ul>\n\n<p>⭐️ Integration of existing IT solutions and participation in the acceptance testing</p>\n\n<ul>\n<li>Perform code writing in accordance with the instructions established at the service level</li>\n<li>Improve tools for production</li>\n<li>Learn to use our internal tools (Slack, Airtable, Salesforce) and important development tools (OVH Cloud, Docker, Kubernetes, Jenkins)</li>\n<li>Draft the technical documentation necessary for the durability of the maintenance by respecting the standards set up</li>\n</ul>\n\n<p>🔥 Skills required for the position</p>\n\n<ul>\n<li>Good knowledge of Agile and Craftmanship development practices (TDD, continuous integration, code refactoring, etc.)</li>\n<li>A good experience of RESTFul APIs and separation of concerns</li>\n<li>Ability to document and democratize selected good practices and architectural principles, API</li>\n<li>Ability to work in a team: Listening, communication, dynamism, responsibility and collective commitment</li>\n<li>Strong interest in software architecture and development (technological watch)</li>\n<li>Entrepreneurial spirit and desire to participate in the construction of a story, an adventure</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Paris"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "SCSS / SASS",
+        "TypeScript",
+        "React.js",
+        "BabelJS"
+      ],
+      "payment": {
+        "salary": "£40k – £50k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Founder",
+        "url": "https://angel.co/u/tinco-remy",
+        "name": "TINCO Rémy",
+        "avatar": "https://photos.angel.co/users/9603485-medium_jpg?1561800482"
+      },
+      "refs": {
+        "angelListId": "581855",
+        "angelListUrl": "https://angel.co/company/getmansa/jobs/581855-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "System Administrator",
+      "description": "You will participate in the design and implementation of the system and network infrastructure of the product to ensure the security, stability and scalability of our services\n\n👁️Some of our current interests are based on:\n\n- Management and improvement of the current network: analysis and design of our architecture, network administration, and VPN management;\n\n- Implementation of network/system monitoring tools\n\n- Linux system administration\n\n- Assisting in the implementation of various devOps projects (deployment, CI/CD, data analysis...)\n\n- You are responsible of the infrastructure (servers, network, databases, security), and the different SI environments (dev, demo, staging, prod)\n\n- You realize the technical infrastructure projects : Manage the cloud, generalization of Devops approaches, reduction of the technical debt\n\n- You deal with incidents, participate in the constraints and capitalize on our problems to optimize the quality of service (QoS)\n\n- You are in a logic of continuous improvement and thus participate in the optimization of our infrastructure (performance, monitoring, techno watch, technical debt reduction, documentation, process)\n\n\n🔥Skills required for the position\n\n- Good knowledge of Agile and Craftmanship development practices (TDD, continuous integration, code refactoring, etc.)\n\n- A good experience of RESTFul APIs and separation of concerns\n\n- Ability to document and democratize selected good practices and architectural principles, APIs\n\n- Ability to work in a team: Listening, communication, dynamism, responsibility and collective commitment\n\n- Entrepreneurial spirit and desire to participate in the construction of a story, an adventure\n\n\n⭐️Necessary conditions\n\nLinux : Performance diagnostics, Automation / scripting, Management and / or configuration of high activity / criticality environments\n\nKnowledge of a configuration management tool (Chef, Ansible, CFEngine or Puppet)\n\nUnderstanding the concepts of \"source control\", file server (SMB, NFS ...) and databases (SQL, NoSQL ...)\n\nGood understanding of IT infrastructure concepts (storage, virtualization, network, hardware)\n\nScripting skills (Bash and / or Python)\n\nYou are a solid SysAdmin engineer (between 3 and 7 years of experience)\n\nExcellent oral and written communication in English\n\nYou have a proven sense of initiative and a strong ability to work in a team",
+      "descriptionHtml": "<p>You will participate in the design and implementation of the system and network infrastructure of the product to ensure the security, stability and scalability of our services</p>\n\n<p>👁️Some of our current interests are based on:</p>\n\n<ul>\n<li><p>Management and improvement of the current network: analysis and design of our architecture, network administration, and VPN management;</p></li>\n<li><p>Implementation of network/system monitoring tools</p></li>\n<li><p>Linux system administration</p></li>\n<li><p>Assisting in the implementation of various devOps projects (deployment, CI/CD, data analysis...)</p></li>\n<li><p>You are responsible of the infrastructure (servers, network, databases, security), and the different SI environments (dev, demo, staging, prod)</p></li>\n<li><p>You realize the technical infrastructure projects : Manage the cloud, generalization of Devops approaches, reduction of the technical debt</p></li>\n<li><p>You deal with incidents, participate in the constraints and capitalize on our problems to optimize the quality of service (QoS)</p></li>\n<li><p>You are in a logic of continuous improvement and thus participate in the optimization of our infrastructure (performance, monitoring, techno watch, technical debt reduction, documentation, process)</p></li>\n</ul>\n\n<p>🔥Skills required for the position</p>\n\n<ul>\n<li><p>Good knowledge of Agile and Craftmanship development practices (TDD, continuous integration, code refactoring, etc.)</p></li>\n<li><p>A good experience of RESTFul APIs and separation of concerns</p></li>\n<li><p>Ability to document and democratize selected good practices and architectural principles, APIs</p></li>\n<li><p>Ability to work in a team: Listening, communication, dynamism, responsibility and collective commitment</p></li>\n<li><p>Entrepreneurial spirit and desire to participate in the construction of a story, an adventure</p></li>\n</ul>\n\n<p>⭐️Necessary conditions</p>\n\n<p>Linux : Performance diagnostics, Automation / scripting, Management and / or configuration of high activity / criticality environments</p>\n\n<p>Knowledge of a configuration management tool (Chef, Ansible, CFEngine or Puppet)</p>\n\n<p>Understanding the concepts of &quot;source control&quot;, file server (SMB, NFS ...) and databases (SQL, NoSQL ...)</p>\n\n<p>Good understanding of IT infrastructure concepts (storage, virtualization, network, hardware)</p>\n\n<p>Scripting skills (Bash and / or Python)</p>\n\n<p>You are a solid SysAdmin engineer (between 3 and 7 years of experience)</p>\n\n<p>Excellent oral and written communication in English</p>\n\n<p>You have a proven sense of initiative and a strong ability to work in a team</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Paris"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "PostgreSQL",
+        "Nginx",
+        "Jenkins",
+        "OpenStack",
+        "Docker",
+        "Ansible",
+        "Sonarqube",
+        "Kubernetes"
+      ],
+      "payment": {
+        "salary": "£40k – £50k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Founder",
+        "url": "https://angel.co/u/tinco-remy",
+        "name": "TINCO Rémy",
+        "avatar": "https://photos.angel.co/users/9603485-medium_jpg?1561800482"
+      },
+      "refs": {
+        "angelListId": "581860",
+        "angelListUrl": "https://angel.co/company/getmansa/jobs/581860-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Product Manager",
+      "description": "As a PM in the early day of Mansa, you have to know the product line, the market and the competition extremely well and operate from a strong basis of knowledge and confidence. A good Product Manager is the CEO of our product. Our product manager will take full responsibility and measure himself in terms of the success of the product. He is responsible for right product/right time and all that entails. He has to know the context going in (the company, our revenue funding, competition, etc.), and he has to take responsibility for devising and executing a winning plan (no excuses accepted). \n\n⚔️Your missions: \n\n- defining the target, the « what » and manage its delivery \n- you work with the tech and the designer team \n- you have to keep tracks of all KPIs\n- you have to produce white papers, FAQs, presentations \n- you have to anticipate the future problems and build real solutions \n- you have to take written position on important issues like our competitive silver bullets, tough product decisions, markets to attack or yield)\n- you have to be the key to the product evolution by specifying, imagining and describing the future functionalities\n- you have to make the mock-ups product \n- you have to work with Sales, Onboarding and Support teams to analyze user feedback\n- you have to send weekly status reports, every single week \n\n🤺Preferred experiences and profile: \n\n- you have an engineering background \n- a business degree is a plus \n- you have at least 3 years’ experience as a Product Manager in a startup, building and improving product (fintech industry is a plus) \n- you are super autonomous but you also know how to work in a team\n- you have an evidence of successful collaboration with engineering and design teams\n- you speak both french and english fluently and you want to work in an international and dynamic environment\n- you are not afraid to join a fresh and ambitious startup looking for blitzscaling",
+      "descriptionHtml": "<p>As a PM in the early day of Mansa, you have to know the product line, the market and the competition extremely well and operate from a strong basis of knowledge and confidence. A good Product Manager is the CEO of our product. Our product manager will take full responsibility and measure himself in terms of the success of the product. He is responsible for right product/right time and all that entails. He has to know the context going in (the company, our revenue funding, competition, etc.), and he has to take responsibility for devising and executing a winning plan (no excuses accepted). </p>\n\n<p>⚔️Your missions: </p>\n\n<ul>\n<li>defining the target, the « what » and manage its delivery </li>\n<li>you work with the tech and the designer team </li>\n<li>you have to keep tracks of all KPIs</li>\n<li>you have to produce white papers, FAQs, presentations </li>\n<li>you have to anticipate the future problems and build real solutions </li>\n<li>you have to take written position on important issues like our competitive silver bullets, tough product decisions, markets to attack or yield)</li>\n<li>you have to be the key to the product evolution by specifying, imagining and describing the future functionalities</li>\n<li>you have to make the mock-ups product </li>\n<li>you have to work with Sales, Onboarding and Support teams to analyze user feedback</li>\n<li>you have to send weekly status reports, every single week </li>\n</ul>\n\n<p>🤺Preferred experiences and profile: </p>\n\n<ul>\n<li>you have an engineering background </li>\n<li>a business degree is a plus </li>\n<li>you have at least 3 years’ experience as a Product Manager in a startup, building and improving product (fintech industry is a plus) </li>\n<li>you are super autonomous but you also know how to work in a team</li>\n<li>you have an evidence of successful collaboration with engineering and design teams</li>\n<li>you speak both french and english fluently and you want to work in an international and dynamic environment</li>\n<li>you are not afraid to join a fresh and ambitious startup looking for blitzscaling</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Paris"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Product Management",
+        "Product Development"
+      ],
+      "payment": {
+        "salary": "£45k – £60k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": "COO",
+        "role": "Employee",
+        "url": "https://angel.co/u/jbenjamin-cambier",
+        "name": "Benjamin Cambier",
+        "avatar": "https://photos.angel.co/users/9582369-medium_jpg?1561808537"
+      },
+      "refs": {
+        "angelListId": "581885",
+        "angelListUrl": "https://angel.co/company/getmansa/jobs/581885-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Sales - B2B Acquisition",
+      "description": "As a B2B sales you’ll be at the core of Mansa’s innovation and strategy. As acquisition cost are super high in the lending area Mansa decided to design a B2B2C strategy so as to hack the CAC stakes. Our B2B sales will take full responsability of the user growth strategy and will need to close deals in a very short time. \n\nMore and more companies are looking for a way to attract and retain the freelancers. Giving special and unique perks is a mean to increase the freelancers retention. Therefore companies that work closely with gig-workers see Mansa’s credit as a concrete solution to incentive more freelancers to work for them. \n\n⚔️Your missions:  \n\n- defining the potential companies Mansa can partnership with (Uber, Deliveroo, Toptal…) \n- defining why Mansa should partnership with these companies (number of freelancers, average revenue of these freelancers, countries where the company is developed, etc) \n- finding special and unique connexions with these companies, no cold email to sign these kind of deal\n- closing commercial deals very quickly\n- designing a presentation of Mansa’s offer to convince compagnies\n- attending meetings with the CEO and our business partners\n- structuring deals with our lawyers \n- following the performances of Mansa’s strategy and collecting feedback from companies\n- sending weekly status reports\n\n🤺Preferred experiences and profile: \n\n- you have a commercial background and a business degree \n- you have at least 3 years of experience as a Sales in a start up (fintech industry or gig workers companies are a plus)\n- you are super autonomous but you also know how to work in a team\n- you have a strong portofolio of B2B deals signed\n- you are 100% fluent in English, speaking French is a plus\n- you are not afraid to join an ambitious startup looking for blitzscaling",
+      "descriptionHtml": "<p>As a B2B sales you’ll be at the core of Mansa’s innovation and strategy. As acquisition cost are super high in the lending area Mansa decided to design a B2B2C strategy so as to hack the CAC stakes. Our B2B sales will take full responsability of the user growth strategy and will need to close deals in a very short time. </p>\n\n<p>More and more companies are looking for a way to attract and retain the freelancers. Giving special and unique perks is a mean to increase the freelancers retention. Therefore companies that work closely with gig-workers see Mansa’s credit as a concrete solution to incentive more freelancers to work for them. </p>\n\n<p>⚔️Your missions:  </p>\n\n<ul>\n<li>defining the potential companies Mansa can partnership with (Uber, Deliveroo, Toptal…) </li>\n<li>defining why Mansa should partnership with these companies (number of freelancers, average revenue of these freelancers, countries where the company is developed, etc) </li>\n<li>finding special and unique connexions with these companies, no cold email to sign these kind of deal</li>\n<li>closing commercial deals very quickly</li>\n<li>designing a presentation of Mansa’s offer to convince compagnies</li>\n<li>attending meetings with the CEO and our business partners</li>\n<li>structuring deals with our lawyers </li>\n<li>following the performances of Mansa’s strategy and collecting feedback from companies</li>\n<li>sending weekly status reports</li>\n</ul>\n\n<p>🤺Preferred experiences and profile: </p>\n\n<ul>\n<li>you have a commercial background and a business degree </li>\n<li>you have at least 3 years of experience as a Sales in a start up (fintech industry or gig workers companies are a plus)</li>\n<li>you are super autonomous but you also know how to work in a team</li>\n<li>you have a strong portofolio of B2B deals signed</li>\n<li>you are 100% fluent in English, speaking French is a plus</li>\n<li>you are not afraid to join an ambitious startup looking for blitzscaling</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Paris"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "B2B Sales",
+        "Acquisitions",
+        "B2B2C"
+      ],
+      "payment": {
+        "salary": "£45k – £60k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": "COO",
+        "role": "Employee",
+        "url": "https://angel.co/u/jbenjamin-cambier",
+        "name": "Benjamin Cambier",
+        "avatar": "https://photos.angel.co/users/9582369-medium_jpg?1561808537"
+      },
+      "refs": {
+        "angelListId": "591456",
+        "angelListUrl": "https://angel.co/company/getmansa/jobs/591456-"
+      }
+    }
+  ]
+}

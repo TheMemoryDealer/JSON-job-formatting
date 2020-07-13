@@ -1,0 +1,288 @@
+{
+  "name": "Cycloid - Your DevOps platform",
+  "avatar": "https://photos.angel.co/startups/i/973188-e56a2331c937c7d8511d223c63dd9e79-medium_jpg.jpg?buster=1520358868",
+  "slogan": "DevOps Platform with CI/CD pipeline & Services on Cloud infrastructures",
+  "description": "Our goal is to simplify the life of people who have some unbelievable challenges ahead.\n\nCycloid team works on connected activities: \n\n- we develop cycloid.io: a DevOps platform with a service catalogue, a continuous integration, continuous delivery pipeline for traditional, container and serverless applications, logs, events and centralized monitoring and tracking price. \n\n- we provide services on AWS as your DevOps team: Design / Audit / Build / Migrate / Managed Services\n\nOur purpose: we want you to focus on your code to develop new features and answer the fastest to market needs. \n\nWe have elected \"Best startup award 2017\" by Trophee du Cloud from Eurocloud.\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.cycloid.io"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/cycloid_io"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/cycloid?trk=nav_account_sub_nav_company_admin"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "Paris",
+    "London"
+  ],
+  "marketTags": [
+    "Cloud Computing",
+    "Docker",
+    "Enterprise Software",
+    "Cloud Infrastructure"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/benjamin-brial",
+      "name": "Benjamin Brial",
+      "avatar": "https://photos.angel.co/users/1859529-medium_jpg?1481374600",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/cycloid_io\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Cycloid - Your DevOps platform</span></a>"
+    },
+    {
+      "title": "",
+      "role": "Employee",
+      "url": "https://angel.co/u/sophie-girault",
+      "name": "Sophie Girault",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/hugo-rosnet",
+      "name": "Hugo Rosnet",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/adam-wardecki-1",
+      "name": "Adam Wardecki",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "973188",
+    "angelListUrl": "https://angel.co/company/cycloid_io"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software engineer Vue.js/Go for Cycloid: DevOps platform with CI/CD container pipeline working on-site in Paris or in remote in Europe",
+      "description": "You are a passionate, which is the most important, software engineer with several years of experience crafting software, and with:\n\n- at least one year of experience in web frontend development and with a good understanding of the architecture of the web applications, Javascript and DOM API. Our current development is with VueJS, but we believe that if you understand the web and you have experience developing web applications, you should be able familiar with it without any problem in a few weeks.\n\n- broad experience in back-end development and HTTP APIs. Preferably, you have some experience with Go or it doesn't look weird to you, knowledge in distributed systems and simplicity and familiar with the UNIX philosophy.\n\nWe are splitting the work 50% Frontend 50% Backend to break the monotony.\n\nBut what is really important is that we are looking for more than just a developer.\n\nWe are looking for a person who can build with us new features, can bring some new ideas to what could be a great DevOps dashboard/pipeline to simplify the life of developers. If you don't have any ideas, it won't fit because we don't have a product manager and we are trying to work without it due to our culture. We want to empower people.\n\nYou are of course a team player and know how to work in remote even if you can work at Cycloid office in Paris if you are in Paris. You can decide to work on remote if you are located in Europe, we don't accept relocation, but all the organisation are in an asynchronous manner. We don’t use emails, only slack, Trello and Hangout.\n\nYou have excellent written and oral communication skills in English, another language would be a plus.\n\nThe salary will depend on your skills and your localisation.\n\nCycloid is committed to having equality between women and men. In that way, we strongly encourage women's application. \n\nInterested in knowing more and the advantages we offer, please feel free contact us at jobs@cycloid.io",
+      "descriptionHtml": "<p>You are a passionate, which is the most important, software engineer with several years of experience crafting software, and with:</p>\n\n<ul>\n<li><p>at least one year of experience in web frontend development and with a good understanding of the architecture of the web applications, Javascript and DOM API. Our current development is with VueJS, but we believe that if you understand the web and you have experience developing web applications, you should be able familiar with it without any problem in a few weeks.</p></li>\n<li><p>broad experience in back-end development and HTTP APIs. Preferably, you have some experience with Go or it doesn&#39;t look weird to you, knowledge in distributed systems and simplicity and familiar with the UNIX philosophy.</p></li>\n</ul>\n\n<p>We are splitting the work 50% Frontend 50% Backend to break the monotony.</p>\n\n<p>But what is really important is that we are looking for more than just a developer.</p>\n\n<p>We are looking for a person who can build with us new features, can bring some new ideas to what could be a great DevOps dashboard/pipeline to simplify the life of developers. If you don&#39;t have any ideas, it won&#39;t fit because we don&#39;t have a product manager and we are trying to work without it due to our culture. We want to empower people.</p>\n\n<p>You are of course a team player and know how to work in remote even if you can work at Cycloid office in Paris if you are in Paris. You can decide to work on remote if you are located in Europe, we don&#39;t accept relocation, but all the organisation are in an asynchronous manner. We don’t use emails, only slack, Trello and Hangout.</p>\n\n<p>You have excellent written and oral communication skills in English, another language would be a plus.</p>\n\n<p>The salary will depend on your skills and your localisation.</p>\n\n<p>Cycloid is committed to having equality between women and men. In that way, we strongly encourage women&#39;s application. </p>\n\n<p>Interested in knowing more and the advantages we offer, please feel free contact us at <a href=\"mailto:jobs@cycloid.io\" target=\"_blank\" rel=\"nofollow\">jobs@cycloid.io</a></p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "Europe",
+        "Western Europe",
+        "Southern Europe"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "€40k – €70k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/benjamin-brial",
+        "name": "Benjamin Brial",
+        "avatar": "https://photos.angel.co/users/1859529-medium_jpg?1481374600"
+      },
+      "refs": {
+        "angelListId": "195380",
+        "angelListUrl": "https://angel.co/company/cycloid_io/jobs/195380-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Frontend Developer Vue.JS for Cycloid DevOps platform with CI/CD pipeline at Cycloid",
+      "description": "Who are we looking for?\n\nA passionate, knowledgeable and friendly front-end developer, within European time zones, with several years of experience crafting web applications.\n\nOur product uses Vue.js, ES7 and above, ESLint, Jest and soon we will be migrating to SCSS for styling. Typically you will have worked with and enjoy building in Vue. There are also some parts of our product that use SVG based libraries, such as Joint.js and D3.js, it could certainly be a plus point if you are also well versed with either of these.\n\nAs a skilled front-end developer, you know how to build a professional looking and user-friendly UI. You also have a good eye for design and are aware of what makes a positive, and negative, user experience.\n\nYou are more than just a code-junkie.\n\nYou want to help us build new features (green field) and also help us make our current codebase more robust and maintainable (brown field). You are keen in helping us achieve our goal; to provide a great DevOps platform/pipeline to simplify the life of developers and DevOps. \n\nOur dynamic is non-hierarchical and thus equal among colleagues and work tasks. We have no project coordinator at this time so we manage ourselves within the team. If you can support us in getting things shipped, that you code well first time and in a timely manner - all the while maintaining a good level of communication (with great gif game), you will be truly welcomed. We work to empower ourselves and our teammates, anyone can offer insights to any part of the company - you will be heard.\n\nYou are, of course, happy to work remotely. You can even work at the Cycloid office in Paris if you wish. However, we do not offer relocation. All members of our organisation work in an asynchronous manner, keeping a good team culture through Slack, Google Hangouts, Github and Trello.\n\nYou will need to have adequate written and spoken communication skills in English, as we work with people from all over Europe - we converse mainly in English.\n\nCycloid is committed to having equal opportunities between women and men, thus we encourage and welcome female developers to apply. \n \nWhat do we expect that you send us?\n\n- At least 1 of the following: Your CV, LinkedIn profile or portfolio to contact@cycloid.io\n- A link to your public repositories (show us your best work)\n\n\nIndispensable skills: \nVue.js, or other javascript frameworks (React, Angular, Ember etc)\nKeeping up to date with best practises and new technologies within FE\nStyle pre/post processors (PostCSS, SCSS, LESS, Stylus etc)\nStyle methodologies, e.g. BEM\nJest or other testing suites (Mocha, Chai, Jasmine etc)\nGood knowledge of git and Github (PR’s, issues, rebasing, cherry-picking etc)\nAbility to find the best GIFs and emoji for all situations\n\nNice to have:\nExperience with webpack\nE2E testing\nExperience with CI/CD tools",
+      "descriptionHtml": "<p>Who are we looking for?</p>\n\n<p>A passionate, knowledgeable and friendly front-end developer, within European time zones, with several years of experience crafting web applications.</p>\n\n<p>Our product uses Vue.js, ES7 and above, ESLint, Jest and soon we will be migrating to SCSS for styling. Typically you will have worked with and enjoy building in Vue. There are also some parts of our product that use SVG based libraries, such as Joint.js and D3.js, it could certainly be a plus point if you are also well versed with either of these.</p>\n\n<p>As a skilled front-end developer, you know how to build a professional looking and user-friendly UI. You also have a good eye for design and are aware of what makes a positive, and negative, user experience.</p>\n\n<p>You are more than just a code-junkie.</p>\n\n<p>You want to help us build new features (green field) and also help us make our current codebase more robust and maintainable (brown field). You are keen in helping us achieve our goal; to provide a great DevOps platform/pipeline to simplify the life of developers and DevOps. </p>\n\n<p>Our dynamic is non-hierarchical and thus equal among colleagues and work tasks. We have no project coordinator at this time so we manage ourselves within the team. If you can support us in getting things shipped, that you code well first time and in a timely manner - all the while maintaining a good level of communication (with great gif game), you will be truly welcomed. We work to empower ourselves and our teammates, anyone can offer insights to any part of the company - you will be heard.</p>\n\n<p>You are, of course, happy to work remotely. You can even work at the Cycloid office in Paris if you wish. However, we do not offer relocation. All members of our organisation work in an asynchronous manner, keeping a good team culture through Slack, Google Hangouts, Github and Trello.</p>\n\n<p>You will need to have adequate written and spoken communication skills in English, as we work with people from all over Europe - we converse mainly in English.</p>\n\n<p>Cycloid is committed to having equal opportunities between women and men, thus we encourage and welcome female developers to apply. </p>\n\n<p>What do we expect that you send us?</p>\n\n<ul>\n<li>At least 1 of the following: Your CV, LinkedIn profile or portfolio to <a href=\"mailto:contact@cycloid.io\" target=\"_blank\" rel=\"nofollow\">contact@cycloid.io</a></li>\n<li>A link to your public repositories (show us your best work)</li>\n</ul>\n\n<p>Indispensable skills: <br>\nVue.js, or other javascript frameworks (React, Angular, Ember etc)<br>\nKeeping up to date with best practises and new technologies within FE<br>\nStyle pre/post processors (PostCSS, SCSS, LESS, Stylus etc)<br>\nStyle methodologies, e.g. BEM<br>\nJest or other testing suites (Mocha, Chai, Jasmine etc)<br>\nGood knowledge of git and Github (PR’s, issues, rebasing, cherry-picking etc)<br>\nAbility to find the best GIFs and emoji for all situations</p>\n\n<p>Nice to have:<br>\nExperience with webpack<br>\nE2E testing<br>\nExperience with CI/CD tools</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Central Europe",
+        "Southern Europe",
+        "Northern Europe"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "€30k – €70k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/benjamin-brial",
+        "name": "Benjamin Brial",
+        "avatar": "https://photos.angel.co/users/1859529-medium_jpg?1481374600"
+      },
+      "refs": {
+        "angelListId": "251344",
+        "angelListUrl": "https://angel.co/company/cycloid_io/jobs/251344-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Go / Golang Backend developer for Cycloid - Your DevOps platform-  on remote",
+      "description": "You are a passionate its the most important! We are looking for a software engineer with several years of experience crafting software, it is better :), but if you feel that you have the potential, don't hesitate, and with:\n\n- broad experience in back-end development, HTTP and APIs\n\n- some professional experiences with Go, knowledge of distributed systems and simplicity, familiar with the UNIX philosophy, database such as MySQL,  swagger ...\n\n- A big + would be that you understand or you have worked as a DevOps as we build a DevOps platform. \n\nWhat is also important is that we are looking for more than just a developer. We are looking for a person who can build with us new features, can bring some new ideas to what could be a great DevOps platform to build a bridge between Dev & Ops & tools. \n\nWe work on empowering people so we don't have a full-time product manager due to our culture.\n\nYou are of course a team player and know how to work in remote even if you can work at Cycloid office in Paris if you live in IDF. You can decide to work on remote or co-working place if you are located in Europe, we only hire people located in Europe to avoid timezone issue and we don't accept relocation. All the organisation are in an asynchronous manner. We don’t use emails, only Github, Slack, Trello and Hangout.\n\nYou have excellent written and oral communication skills in English, another language would be a plus.\n\nThe salary will depend on your skills and your localisation. We are fully transparent internally on this topic. \n\nCycloid is committed to having equality between women and men. In that way, we strongly encourage women's application. \n\nInterested in knowing more and the advantages we offer, please feel free contact us at jobs@cycloid.io",
+      "descriptionHtml": "<p>You are a passionate its the most important! We are looking for a software engineer with several years of experience crafting software, it is better :), but if you feel that you have the potential, don&#39;t hesitate, and with:</p>\n\n<ul>\n<li><p>broad experience in back-end development, HTTP and APIs</p></li>\n<li><p>some professional experiences with Go, knowledge of distributed systems and simplicity, familiar with the UNIX philosophy, database such as MySQL,  swagger ...</p></li>\n<li><p>A big + would be that you understand or you have worked as a DevOps as we build a DevOps platform. </p></li>\n</ul>\n\n<p>What is also important is that we are looking for more than just a developer. We are looking for a person who can build with us new features, can bring some new ideas to what could be a great DevOps platform to build a bridge between Dev &amp; Ops &amp; tools. </p>\n\n<p>We work on empowering people so we don&#39;t have a full-time product manager due to our culture.</p>\n\n<p>You are of course a team player and know how to work in remote even if you can work at Cycloid office in Paris if you live in IDF. You can decide to work on remote or co-working place if you are located in Europe, we only hire people located in Europe to avoid timezone issue and we don&#39;t accept relocation. All the organisation are in an asynchronous manner. We don’t use emails, only Github, Slack, Trello and Hangout.</p>\n\n<p>You have excellent written and oral communication skills in English, another language would be a plus.</p>\n\n<p>The salary will depend on your skills and your localisation. We are fully transparent internally on this topic. </p>\n\n<p>Cycloid is committed to having equality between women and men. In that way, we strongly encourage women&#39;s application. </p>\n\n<p>Interested in knowing more and the advantages we offer, please feel free contact us at <a href=\"mailto:jobs@cycloid.io\" target=\"_blank\" rel=\"nofollow\">jobs@cycloid.io</a></p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "Europe",
+        "Western Europe",
+        "Southern Europe"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Software Engineering",
+        "DevOps",
+        "Go (Golang)",
+        "Go",
+        "Golang"
+      ],
+      "payment": {
+        "salary": "€30k – €60k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/benjamin-brial",
+        "name": "Benjamin Brial",
+        "avatar": "https://photos.angel.co/users/1859529-medium_jpg?1481374600"
+      },
+      "refs": {
+        "angelListId": "436129",
+        "angelListUrl": "https://angel.co/company/cycloid_io/jobs/436129-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Go / Golang backend developer for Cycloid - You DevOps platform - on-site in Paris or in remote",
+      "description": "You are a passionate its the most important! We are looking for a software engineer with several years of experience crafting software, it is better :), but if you feel that you have the potential, don't hesitate, and with:\n\n- broad experience in back-end development, HTTP and APIs\n\n- some professional experiences with Go, knowledge of distributed systems and simplicity, familiar with the UNIX philosophy, database such as MySQL, swagger ...\n\n- A big + would be that you understand or you have worked as a DevOps as we build a DevOps platform.\n\nWhat is also important is that we are looking for more than just a developer. We are looking for a person who can build with us new features, can bring some new ideas to what could be a great DevOps platform to build a bridge between Dev & Ops & tools.\n\nWe work on empowering people so we don't have a full-time product manager due to our culture.\n\nYou are of course a team player and know how to work in remote even if you can work at Cycloid office in Paris if you live in IDF. You can decide to work on remote or co-working place if you are located in Europe, we only hire people located in Europe to avoid timezone issue and we don't accept relocation. All the organisation are in an asynchronous manner. We don’t use emails, only Github, Slack, Trello and Hangout.\n\nYou have excellent written and oral communication skills in English, another language would be a plus.\n\nThe salary will depend on your skills and your localisation. We are fully transparent internally on this topic.\n\nCycloid is committed to having equality between women and men. In that way, we strongly encourage women's application.\n\nInterested in knowing more and the advantages we offer, please feel free contact us at jobs@cycloid.io",
+      "descriptionHtml": "<p>You are a passionate its the most important! We are looking for a software engineer with several years of experience crafting software, it is better :), but if you feel that you have the potential, don&#39;t hesitate, and with:</p>\n\n<ul>\n<li><p>broad experience in back-end development, HTTP and APIs</p></li>\n<li><p>some professional experiences with Go, knowledge of distributed systems and simplicity, familiar with the UNIX philosophy, database such as MySQL, swagger ...</p></li>\n<li><p>A big + would be that you understand or you have worked as a DevOps as we build a DevOps platform.</p></li>\n</ul>\n\n<p>What is also important is that we are looking for more than just a developer. We are looking for a person who can build with us new features, can bring some new ideas to what could be a great DevOps platform to build a bridge between Dev &amp; Ops &amp; tools.</p>\n\n<p>We work on empowering people so we don&#39;t have a full-time product manager due to our culture.</p>\n\n<p>You are of course a team player and know how to work in remote even if you can work at Cycloid office in Paris if you live in IDF. You can decide to work on remote or co-working place if you are located in Europe, we only hire people located in Europe to avoid timezone issue and we don&#39;t accept relocation. All the organisation are in an asynchronous manner. We don’t use emails, only Github, Slack, Trello and Hangout.</p>\n\n<p>You have excellent written and oral communication skills in English, another language would be a plus.</p>\n\n<p>The salary will depend on your skills and your localisation. We are fully transparent internally on this topic.</p>\n\n<p>Cycloid is committed to having equality between women and men. In that way, we strongly encourage women&#39;s application.</p>\n\n<p>Interested in knowing more and the advantages we offer, please feel free contact us at <a href=\"mailto:jobs@cycloid.io\" target=\"_blank\" rel=\"nofollow\">jobs@cycloid.io</a></p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "Spain",
+        "France",
+        "Italy"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Go (Golang)",
+        "Go",
+        "Golang"
+      ],
+      "payment": {
+        "salary": "€30k – €60k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/benjamin-brial",
+        "name": "Benjamin Brial",
+        "avatar": "https://photos.angel.co/users/1859529-medium_jpg?1481374600"
+      },
+      "refs": {
+        "angelListId": "436148",
+        "angelListUrl": "https://angel.co/company/cycloid_io/jobs/436148-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Go / Golang backend developer for Cycloid - Your DevOps platform- Remote",
+      "description": "You are a passionate, its the most important! We are looking for a software engineer with several years of experience crafting software, it is better :), but if you feel that you have the potential, don't hesitate, and with:\n\n- broad experience in back-end development, HTTP and APIs\n\n- some professional experiences with Go, knowledge of distributed systems and simplicity, familiar with the UNIX philosophy, database such as MySQL, swagger ...\n\n- A big + would be that you understand or you have worked as a DevOps as we build a DevOps platform.\n\nWhat is also important is that we are looking for more than just a developer. We are looking for a person who can build with us new features, can bring some new ideas to what could be a great DevOps platform to build a bridge between Dev & Ops & tools.\n\nWe work on empowering people so we don't have a full-time product manager due to our culture.\n\nYou are of course a team player and know how to work in remote even if you can work at Cycloid office in Paris if you live in IDF. You can decide to work on remote or co-working place if you are located in Europe, we only hire people located in Europe to avoid timezone issue and we don't accept relocation. All the organisation are in an asynchronous manner. We don’t use emails, only Github, Slack, Trello and Hangout.\n\nYou have excellent written and oral communication skills in English, another language would be a plus.\n\nThe salary will depend on your skills and your localisation. We are fully transparent internally on this topic.\n\nCycloid is committed to having equality between women and men. In that way, we strongly encourage women's application.\n\nInterested in knowing more and the advantages we offer, please feel free contact us at jobs@cycloid.io",
+      "descriptionHtml": "<p>You are a passionate, its the most important! We are looking for a software engineer with several years of experience crafting software, it is better :), but if you feel that you have the potential, don&#39;t hesitate, and with:</p>\n\n<ul>\n<li><p>broad experience in back-end development, HTTP and APIs</p></li>\n<li><p>some professional experiences with Go, knowledge of distributed systems and simplicity, familiar with the UNIX philosophy, database such as MySQL, swagger ...</p></li>\n<li><p>A big + would be that you understand or you have worked as a DevOps as we build a DevOps platform.</p></li>\n</ul>\n\n<p>What is also important is that we are looking for more than just a developer. We are looking for a person who can build with us new features, can bring some new ideas to what could be a great DevOps platform to build a bridge between Dev &amp; Ops &amp; tools.</p>\n\n<p>We work on empowering people so we don&#39;t have a full-time product manager due to our culture.</p>\n\n<p>You are of course a team player and know how to work in remote even if you can work at Cycloid office in Paris if you live in IDF. You can decide to work on remote or co-working place if you are located in Europe, we only hire people located in Europe to avoid timezone issue and we don&#39;t accept relocation. All the organisation are in an asynchronous manner. We don’t use emails, only Github, Slack, Trello and Hangout.</p>\n\n<p>You have excellent written and oral communication skills in English, another language would be a plus.</p>\n\n<p>The salary will depend on your skills and your localisation. We are fully transparent internally on this topic.</p>\n\n<p>Cycloid is committed to having equality between women and men. In that way, we strongly encourage women&#39;s application.</p>\n\n<p>Interested in knowing more and the advantages we offer, please feel free contact us at <a href=\"mailto:jobs@cycloid.io\" target=\"_blank\" rel=\"nofollow\">jobs@cycloid.io</a></p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "Germany",
+        "United Kingdom",
+        "Portugal"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Go (Golang)",
+        "Go",
+        "Golang"
+      ],
+      "payment": {
+        "salary": "€30k – €60k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/benjamin-brial",
+        "name": "Benjamin Brial",
+        "avatar": "https://photos.angel.co/users/1859529-medium_jpg?1481374600"
+      },
+      "refs": {
+        "angelListId": "436151",
+        "angelListUrl": "https://angel.co/company/cycloid_io/jobs/436151-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Vue.JS Frontend Developer for Cycloid Your DevOps platform - on-site in Paris or in Remote",
+      "description": "Who are we looking for?\n\nA passionate, knowledgeable and friendly front-end developer, within European time zones, with several years of experience crafting web applications.\n\nOur product uses Vue.js, ES7 and above, ESLint, Jest and soon we will be migrating to SCSS for styling. Typically you will have worked with and enjoy building in Vue. There are also some parts of our product that use SVG based libraries, such as Joint.js and D3.js, it could certainly be a plus point if you are also well versed with either of these.\n\nAs a skilled front-end developer, you know how to build a professional looking and user-friendly UI. You also have a good eye for design and are aware of what makes a positive, and negative, user experience.\n\nYou are more than just a code-junkie.\n\nYou want to help us build new features (green field) and also help us make our current codebase more robust and maintainable (brown field). You are keen in helping us achieve our goal; to provide a great DevOps platform/pipeline to simplify the life of developers and DevOps. \n\nOur dynamic is non-hierarchical and thus equal among colleagues and work tasks. We have no project coordinator at this time so we manage ourselves within the team. If you can support us in getting things shipped, that you code well first time and in a timely manner - all the while maintaining a good level of communication (with great gif game), you will be truly welcomed. We work to empower ourselves and our teammates, anyone can offer insights to any part of the company - you will be heard.\n\nYou are, of course, happy to work remotely. You can even work at the Cycloid office in Paris if you wish. However, we do not offer relocation. All members of our organisation work in an asynchronous manner, keeping a good team culture through Slack, Google Hangouts, Github and Trello.\n\nYou will need to have adequate written and spoken communication skills in English, as we work with people from all over Europe - we converse mainly in English.\n\nCycloid is committed to having equal opportunities between women and men, thus we encourage and welcome female developers to apply. \n \nWhat do we expect that you send us?\nAt least 1 of the following: Your CV, LinkedIn profile or portfolio to contact@cycloid.io\nA link to your public repositories (show us your best work)\n\n\nIndispensable skills: \nVue.js, or other javascript frameworks (React, Angular, Ember etc)\nKeeping up to date with best practises and new technologies within FE\nStyle pre/post processors (PostCSS, SCSS, LESS, Stylus etc)\nStyle methodologies, e.g. BEM\nJest or other testing suites (Mocha, Chai, Jasmine etc)\nGood knowledge of git and Github (PR’s, issues, rebasing, cherry-picking etc)\nAbility to find the best GIFs and emoji for all situations\n\nNice to have:\nExperience with webpack\nE2E testing\nExperience with CI/CD tools",
+      "descriptionHtml": "<p>Who are we looking for?</p>\n\n<p>A passionate, knowledgeable and friendly front-end developer, within European time zones, with several years of experience crafting web applications.</p>\n\n<p>Our product uses Vue.js, ES7 and above, ESLint, Jest and soon we will be migrating to SCSS for styling. Typically you will have worked with and enjoy building in Vue. There are also some parts of our product that use SVG based libraries, such as Joint.js and D3.js, it could certainly be a plus point if you are also well versed with either of these.</p>\n\n<p>As a skilled front-end developer, you know how to build a professional looking and user-friendly UI. You also have a good eye for design and are aware of what makes a positive, and negative, user experience.</p>\n\n<p>You are more than just a code-junkie.</p>\n\n<p>You want to help us build new features (green field) and also help us make our current codebase more robust and maintainable (brown field). You are keen in helping us achieve our goal; to provide a great DevOps platform/pipeline to simplify the life of developers and DevOps. </p>\n\n<p>Our dynamic is non-hierarchical and thus equal among colleagues and work tasks. We have no project coordinator at this time so we manage ourselves within the team. If you can support us in getting things shipped, that you code well first time and in a timely manner - all the while maintaining a good level of communication (with great gif game), you will be truly welcomed. We work to empower ourselves and our teammates, anyone can offer insights to any part of the company - you will be heard.</p>\n\n<p>You are, of course, happy to work remotely. You can even work at the Cycloid office in Paris if you wish. However, we do not offer relocation. All members of our organisation work in an asynchronous manner, keeping a good team culture through Slack, Google Hangouts, Github and Trello.</p>\n\n<p>You will need to have adequate written and spoken communication skills in English, as we work with people from all over Europe - we converse mainly in English.</p>\n\n<p>Cycloid is committed to having equal opportunities between women and men, thus we encourage and welcome female developers to apply. </p>\n\n<p>What do we expect that you send us?<br>\nAt least 1 of the following: Your CV, LinkedIn profile or portfolio to <a href=\"mailto:contact@cycloid.io\" target=\"_blank\" rel=\"nofollow\">contact@cycloid.io</a><br>\nA link to your public repositories (show us your best work)</p>\n\n<p>Indispensable skills: <br>\nVue.js, or other javascript frameworks (React, Angular, Ember etc)<br>\nKeeping up to date with best practises and new technologies within FE<br>\nStyle pre/post processors (PostCSS, SCSS, LESS, Stylus etc)<br>\nStyle methodologies, e.g. BEM<br>\nJest or other testing suites (Mocha, Chai, Jasmine etc)<br>\nGood knowledge of git and Github (PR’s, issues, rebasing, cherry-picking etc)<br>\nAbility to find the best GIFs and emoji for all situations</p>\n\n<p>Nice to have:<br>\nExperience with webpack<br>\nE2E testing<br>\nExperience with CI/CD tools</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Eastern Europe",
+        "Western Europe",
+        "Central Europe"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "€30k – €70k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/benjamin-brial",
+        "name": "Benjamin Brial",
+        "avatar": "https://photos.angel.co/users/1859529-medium_jpg?1481374600"
+      },
+      "refs": {
+        "angelListId": "488538",
+        "angelListUrl": "https://angel.co/company/cycloid_io/jobs/488538-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "name": "unrd",
+  "avatar": "https://photos.angel.co/startups/i/4826430-a0458f62a1d75502dcecea07de72489f-medium_jpg.jpg?buster=1512656927",
+  "slogan": "Immersive mobile stories that you read with friends",
+  "description": "We’re unrd (pronounced unread!). A VC backed startup re-imagining the future of entertainment.\n \nWe’ve created a new form of storytelling; real-time entertainment. Using a combination of text messages, social-style video and immersive world building, our stories are played and talked about by people all around the world. Our mission is to create the world's leading, mobile-first entertainment brand.\n\nApple have described it as the 'most ambitious narrative platform they've seen'.\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.unrd.co"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Publishing",
+    "Mobile Application",
+    "Digital Storytelling",
+    "Digital Media"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/shib",
+      "name": "Shib",
+      "avatar": "https://photos.angel.co/users/154289-medium_jpg?1405536449",
+      "bioHtml": "Co-founder <a href=\"https://angel.co/company/unrd\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">unrd</span></a> • Worked as a marketing strategist at <a href=\"https://angel.co/company/publicis-groupe\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Publicis Groupe</span></a>, <a href=\"https://angel.co/company/isobar\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Isobar</span></a> <a href=\"https://angel.co/company/bbh\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">BBH</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/andy-white-11",
+      "name": "Andy White",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Fifth developer hire at ASOS, experienced huge gowth.\n\nHigh scale at itv.com.\n\nFirst lead dev hire at Just Eat, Experienced IPO, founded R&amp;D team, product owner"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4826430",
+    "angelListUrl": "https://angel.co/company/unrd"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Engineer",
+      "description": "Where we’re at…\n\nWe’re unrd (pronounced unread!). A VC backed startup re-imagining the future of entertainment.\n \nWe’ve created a new form of storytelling; real-time entertainment. Using a combination of text messages, social-style video and immersive world building, our stories are played and talked about by people all around the world. Our mission is to create the world's leading, mobile-first entertainment brand.\n\nApple have described it as the 'most ambitious narrative platform they've seen'.\n \nWhat we expect from a Senior Engineer...\n\nAs a Senior Engineer you’re pragmatic, product focused and committed to building systems that will give our users an excellent experience at scale. You are highly efficient, organised but not at the expense of great craft. And of course, you have a love for storytelling and tech. \n\nYou’ll be working in a cross functional team of developers, story writers, designers, movie producers and, reporting into the CTO.\n\nKey responsibilities\n\nStrong AWS - we run primarily on aws you should have strong fundamentals of securing, deploying and running on AWS other cloud provider experience (particularly GCP) is also a bonus\nOOAD & SOLID Fundamentals \nFluent with Git, Gitlab is a bonus.\nC# and .Net Core (you should have a deep knowledge of C#, Node.js also of interest)\nHTTP & API’s - A deep understanding of HTTP and how to build secure and scalable api’s\nSeverless - You’ll be creating greenfield systems using AWS lambda so you should have a deep interest in using serverless\nCI/Automated tests - we believe in the benefits that CI brings, you should have experience in unit testing and integration testing (BDD, ATDD)\nJavascript frameworks - React, Angular\nStrong SQL (AWS RDS) and bonus points for NoSQL databases i.e DynamoDB, Firestore\nClear communicator - able to understand specs, document work\n\n\n\nCore qualities and attributes\n\nRelationship development - internal and external; positive and able to build trust\nTeamwork - create a collaborative and inclusive environment to help each team member to thrive\nCommercial awareness - understand the bigger picture for unrd while staying on top of tactical production of stories\nCommunication - able to engage with all members of the company across disciplines, as well as external contractors, suppliers, or partners\nProject management - comfortable managing projects through production to finished result; great at meeting deadlines\nProblem solving - excellent problem solving skills and an entrepreneurial and open minded approach to applying them\nPrioritisation and flexibility - comfortable with fast-paced environment; able to manage multiple tasks at any given point while adapting to changing priorities\n\n\nWhat we offer…\n\nThe opportunity to work on a new, award winning format\nA relaxed environment to work in - we’re in the middle of East London, Old Street\n25 days holidays, plus your birthday off.\n….And we finish at 4pm on Friday’s, unless something’s on fire!",
+      "descriptionHtml": "<p>Where we’re at…</p>\n\n<p>We’re unrd (pronounced unread!). A VC backed startup re-imagining the future of entertainment.</p>\n\n<p>We’ve created a new form of storytelling; real-time entertainment. Using a combination of text messages, social-style video and immersive world building, our stories are played and talked about by people all around the world. Our mission is to create the world&#39;s leading, mobile-first entertainment brand.</p>\n\n<p>Apple have described it as the &#39;most ambitious narrative platform they&#39;ve seen&#39;.</p>\n\n<p>What we expect from a Senior Engineer...</p>\n\n<p>As a Senior Engineer you’re pragmatic, product focused and committed to building systems that will give our users an excellent experience at scale. You are highly efficient, organised but not at the expense of great craft. And of course, you have a love for storytelling and tech. </p>\n\n<p>You’ll be working in a cross functional team of developers, story writers, designers, movie producers and, reporting into the CTO.</p>\n\n<p>Key responsibilities</p>\n\n<p>Strong AWS - we run primarily on aws you should have strong fundamentals of securing, deploying and running on AWS other cloud provider experience (particularly GCP) is also a bonus<br>\nOOAD &amp; SOLID Fundamentals <br>\nFluent with Git, Gitlab is a bonus.<br>\nC# and .Net Core (you should have a deep knowledge of C#, Node.js also of interest)<br>\nHTTP &amp; API’s - A deep understanding of HTTP and how to build secure and scalable api’s<br>\nSeverless - You’ll be creating greenfield systems using AWS lambda so you should have a deep interest in using serverless<br>\nCI/Automated tests - we believe in the benefits that CI brings, you should have experience in unit testing and integration testing (BDD, ATDD)<br>\nJavascript frameworks - React, Angular<br>\nStrong SQL (AWS RDS) and bonus points for NoSQL databases i.e DynamoDB, Firestore<br>\nClear communicator - able to understand specs, document work</p>\n\n<p>Core qualities and attributes</p>\n\n<p>Relationship development - internal and external; positive and able to build trust<br>\nTeamwork - create a collaborative and inclusive environment to help each team member to thrive<br>\nCommercial awareness - understand the bigger picture for unrd while staying on top of tactical production of stories<br>\nCommunication - able to engage with all members of the company across disciplines, as well as external contractors, suppliers, or partners<br>\nProject management - comfortable managing projects through production to finished result; great at meeting deadlines<br>\nProblem solving - excellent problem solving skills and an entrepreneurial and open minded approach to applying them<br>\nPrioritisation and flexibility - comfortable with fast-paced environment; able to manage multiple tasks at any given point while adapting to changing priorities</p>\n\n<p>What we offer…</p>\n\n<p>The opportunity to work on a new, award winning format<br>\nA relaxed environment to work in - we’re in the middle of East London, Old Street<br>\n25 days holidays, plus your birthday off.<br>\n….And we finish at 4pm on Friday’s, unless something’s on fire!</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "C Sharp (C#)",
+        "AWS",
+        "Serverless"
+      ],
+      "payment": {
+        "salary": "£60k – £75k",
+        "equity": "0.25% – 0.25%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/andy-white-11",
+        "name": "Andy White",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "685706",
+        "angelListUrl": "https://angel.co/company/unrd/jobs/685706-"
+      }
+    }
+  ]
+}

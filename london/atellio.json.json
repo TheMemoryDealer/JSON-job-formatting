@@ -1,0 +1,260 @@
+{
+  "name": "Atellio",
+  "avatar": "https://photos.angel.co/startups/i/7125191-50778e282f878d4f8c3686f12d7cca7d-medium_jpg.jpg?buster=1577958741",
+  "slogan": "Orchestrating Creativity - Photo and Video Production Management for Brands",
+  "description": "We build solutions to orchestrate the people behind creative work. We do this using a creative-focused approach, combining our backgrounds in the creative industry with our love of building digital products.\n\nThe creative landscape is changing. Brands are building in-house studios to take the wheel on their own productions, to self supply the increasing demand of creative assets and content. Alongside this shift, creatives are moving towards a more fluid way of working, rotating through industries to diversify their work and experience. \n\nWe are spearheading this shift by helping companies orchestrate their creative workforce to work together fluidly and create great work.\n\nAtellio is backed by leaders in the creative industry like ustwo and the ECD of Wieden & Kennedy. Having been in stealth mode for the last year, Atellio is already powering the photo and film studios of the leading brands in streetwear, fashion and retail. They’re all under NDA, so you know they’re good. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://atellio.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/atelliohq"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/29020689"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Los Angeles"
+  ],
+  "marketTags": [
+    "SaaS",
+    "Creative Industries"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/nicholas-gubbins",
+      "name": "Nicholas Gubbins",
+      "avatar": "https://photos.angel.co/users/649184-medium_jpg?1568218747",
+      "bioHtml": "Co-founder <a href=\"https://angel.co/company/atellio\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Atellio</span></a>  | previously lead backend developer <a href=\"https://angel.co/company/dojo-app\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Dojo App</span></a> | <a href=\"https://angel.co/duke-university\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Duke University</span></a>, <a href=\"https://angel.co/imperial-college-london-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Imperial College London</span></a>"
+    },
+    {
+      "title": "Head of Product",
+      "role": "Founder",
+      "url": "https://angel.co/u/scott-wooden-1",
+      "name": "Scott Wooden",
+      "avatar": "https://photos.angel.co/users/9844578-medium_jpg?1565709046",
+      "bioHtml": "Co-founder &amp; Head of Product <a href=\"https://angel.co/company/atellio\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Atellio</span></a> - Previously <a href=\"https://angel.co/company/easle\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Easle</span></a> , <a href=\"https://angel.co/company/dojo-app\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Dojo App</span></a> "
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/ethan-rosenblum-2",
+      "name": "Ethan Rosenblum",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "COO",
+      "role": "Employee",
+      "url": "https://angel.co/u/ethan-rosenblum",
+      "name": "Ethan Rosenblum",
+      "avatar": "https://photos.angel.co/users/1266198-medium_jpg?1432923594",
+      "bioHtml": "Internship experience in consulting and data analysis. Work experience at Cvent, Inc. in sales, sales strategy, operations, and development."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/julia-haigh",
+      "name": "Julia Haigh",
+      "avatar": "https://photos.angel.co/users/4094459-medium_jpg?1566127285",
+      "bioHtml": "Full-stack JavaScript engineer with 10 years’ professional experience in web development &amp; building web apps"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7125191",
+    "angelListUrl": "https://angel.co/company/atellio"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Back-End Node.js Engineer",
+      "description": "About Atellio\n\nAtellio is SaaS platform built for companies to bring the creative production in-house.\n\nAs brands move away from using agencies for the growing requirement of content, we’ve built the first tool dedicated to helping in-house producers and art directors manage everything from their freelancers and talent, through to calendars, budget reconciliation and call-sheets.\n\nAtellio is backed by leaders in the creative industry like ustwo and the ECD of Wieden & Kennedy. Having been in stealth mode for the last year, Atellio is already powering the photo and film studios of the leading brands in streetwear, fashion and retail. They’re all under NDA, so you know they’re good.\n\nWe are growing and now looking for a senior backend JavaScript engineer to take the responsibility off the CEO and to take full ownership and direction of the backend codebase.\n\n\nJob requirements\n\nHere's a summary of who we're looking for:\n\nYou’re on the Javascript bandwagon, having accumulated an expert knowledge of Node.js. You alone can whip up full API’s on command, equipped with a strong workflow to create and deploy scalable and testable code. You can comfortably navigate across AWS and spin up services depending on project requirements.\n\nYou've worked within enterprise class web applications and you're now ready to step up and take on more ownership. You're eager to direct and look after the backend infrastructure of a web app, making sure everything is clean, tested, usable, and otherwise shipshape. You're more than happy to crack on building new features, using your own initiative, and architecting your code in a way that will make life easier down the line. While your ideal is to prioritise doing things properly, you're also prepared to roll your sleeves up and get stuff done to a deadline when it's needed.\n\nIt's a great time to join Atellio: we've built the main bulk of our app, and we're now split between building out new features, and making what we've built even better. We love doing things properly, and we're pretty light on our feet - so you'll be able to have a big say in how we do things going forward. You'll have a great codebase to play with, and the opportunity to decide how to make it amazing. Come join us!\n\nKey requirements:\n\n- 4+ years Node.js experience\n- Strong experience with AWS / Elastic Beanstalk\n- Familiar with scaling and testing code\n- Good code habits\n- Excellent communication and interpersonal skills\n- Driven, self-motivated, enthusiastic and with a “can do” attitude\n\nBonus Requirements:\n\n- Experience in development operations\n- You've worked with WebSockets before, and have a good sense of what's good or bad practice\n- You're familiar with frontend development as well, and you're more than happy to just dip in and add a new button here and there when you need it\n- You have a keen eye for spotting obscure pop culture references in our documentation, and are a dab hand at sneaking in your own\n\n\nBenefits\n\n- Competitive salary & benefits\n- Choice of membership to a creative organisation (Tate, Barbican, Curzon etc)\n- Regular team events and socials\n- Opportunities to travel\n- An energetic and passionate startup working to power creativity in businesses, with a supportive team set out to do their best work.",
+      "descriptionHtml": "<p>About Atellio</p>\n\n<p>Atellio is SaaS platform built for companies to bring the creative production in-house.</p>\n\n<p>As brands move away from using agencies for the growing requirement of content, we’ve built the first tool dedicated to helping in-house producers and art directors manage everything from their freelancers and talent, through to calendars, budget reconciliation and call-sheets.</p>\n\n<p>Atellio is backed by leaders in the creative industry like ustwo and the ECD of Wieden &amp; Kennedy. Having been in stealth mode for the last year, Atellio is already powering the photo and film studios of the leading brands in streetwear, fashion and retail. They’re all under NDA, so you know they’re good.</p>\n\n<p>We are growing and now looking for a senior backend JavaScript engineer to take the responsibility off the CEO and to take full ownership and direction of the backend codebase.</p>\n\n<p>Job requirements</p>\n\n<p>Here&#39;s a summary of who we&#39;re looking for:</p>\n\n<p>You’re on the Javascript bandwagon, having accumulated an expert knowledge of Node.js. You alone can whip up full API’s on command, equipped with a strong workflow to create and deploy scalable and testable code. You can comfortably navigate across AWS and spin up services depending on project requirements.</p>\n\n<p>You&#39;ve worked within enterprise class web applications and you&#39;re now ready to step up and take on more ownership. You&#39;re eager to direct and look after the backend infrastructure of a web app, making sure everything is clean, tested, usable, and otherwise shipshape. You&#39;re more than happy to crack on building new features, using your own initiative, and architecting your code in a way that will make life easier down the line. While your ideal is to prioritise doing things properly, you&#39;re also prepared to roll your sleeves up and get stuff done to a deadline when it&#39;s needed.</p>\n\n<p>It&#39;s a great time to join Atellio: we&#39;ve built the main bulk of our app, and we&#39;re now split between building out new features, and making what we&#39;ve built even better. We love doing things properly, and we&#39;re pretty light on our feet - so you&#39;ll be able to have a big say in how we do things going forward. You&#39;ll have a great codebase to play with, and the opportunity to decide how to make it amazing. Come join us!</p>\n\n<p>Key requirements:</p>\n\n<ul>\n<li>4+ years Node.js experience</li>\n<li>Strong experience with AWS / Elastic Beanstalk</li>\n<li>Familiar with scaling and testing code</li>\n<li>Good code habits</li>\n<li>Excellent communication and interpersonal skills</li>\n<li>Driven, self-motivated, enthusiastic and with a “can do” attitude</li>\n</ul>\n\n<p>Bonus Requirements:</p>\n\n<ul>\n<li>Experience in development operations</li>\n<li>You&#39;ve worked with WebSockets before, and have a good sense of what&#39;s good or bad practice</li>\n<li>You&#39;re familiar with frontend development as well, and you&#39;re more than happy to just dip in and add a new button here and there when you need it</li>\n<li>You have a keen eye for spotting obscure pop culture references in our documentation, and are a dab hand at sneaking in your own</li>\n</ul>\n\n<p>Benefits</p>\n\n<ul>\n<li>Competitive salary &amp; benefits</li>\n<li>Choice of membership to a creative organisation (Tate, Barbican, Curzon etc)</li>\n<li>Regular team events and socials</li>\n<li>Opportunities to travel</li>\n<li>An energetic and passionate startup working to power creativity in businesses, with a supportive team set out to do their best work.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Node.js",
+        "ElasticSearch ",
+        "AWS",
+        "Terraform"
+      ],
+      "payment": {
+        "salary": "£50k – £90k",
+        "equity": "0.0% – 0.1%"
+      },
+      "recruiter": {
+        "title": "Head of Product",
+        "role": "Founder",
+        "url": "https://angel.co/u/scott-wooden-1",
+        "name": "Scott Wooden",
+        "avatar": "https://photos.angel.co/users/9844578-medium_jpg?1565709046"
+      },
+      "refs": {
+        "angelListId": "709005",
+        "angelListUrl": "https://angel.co/company/atellio/jobs/709005-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Business Development Manager",
+      "description": "Are you smart, driven, energetic, and willing to work hard? We are seeking highly motivated individuals with a desire to sell and a passion for creating lasting partnerships that shape a new industry. This is an opportunity with tremendous upside and potential for more responsibility based on performance. Come join the rocketship and help us build something great!\r\n\r\nAtellio is a SaaS platform built for companies to manage their end-to-end creative production function - think photography and video production, advertising campaigns, and digital marketing. We are backed by leaders in the creative industry like ustwo and the ECD of Wieden &amp; Kennedy. Largely operating in the Fashion &amp; Retail industries thus far, our current customers are all under NDA (so you know they're legit).\r\n\r\nWHAT YOU'LL DO:\r\n\r\n- Be a critical part of building Atellio's customer base from the ground up\r\n- Prospecting for new clients at high volume and velocity, via phone, email, and a variety of other channels to be experimented\r\n- Own the entire Sales pipeline from qualifying leads to conducting demos to converting into clients\r\n- Research and understand key industry trends and the competitive landscape\r\n- Lay the foundation of what our Sales organization will look like today and in the future\r\n- Collaborate with Marketing, Operations, and Product teams on the company's strategic direction\r\n- Hustle, network, get creative, and have fun\r\n\r\nWHO WE’RE LOOKING FOR:\r\n\r\n- 3+ years experience working in a sales environment, with a record of exceeding targets under pressure.\r\n- Experience in SaaS and/or Enterprise sales; bonus points for startup experience\r\n- A Bachelor's degree\r\n- Passion for the creative, bonus points for experience in Fashion &amp; Retail industries\r\n- Top-notch communication skills, both verbal and written, and superior attention to detail\r\n- Startup (all-hands-on-deck) \"I bust my ass because I love it\" approach\r\n- Ambitious and self-motivated, with a laser-focus on exceeding set goals\r\n- Ability to stay poised, agile, and solution-oriented in a fast-paced and sometimes ambiguous environment: from cold calling prospects to building go-to-market strategies\r\n- A people person — you love talking to people and getting them excited\r\n- Previous Salesforce experience is a plus\r\n\r\nWHAT YOU'LL GET: \r\n\r\n- Competitive salary and benefits (uncapped commission)\r\n- Equity — we want you to have skin in the game and feel that this company belongs to you\r\n- Regular team events, socials, and quarterly offsites\r\n- Opportunity to travel between London &amp; LA offices, in addition to prospect and client sites\r\n- A dynamic and passionate work environment — we're in it together and the sky is the limit\r\n- Empowerment to make decisions, act quickly, and be an owner",
+      "descriptionHtml": "<p>Are you smart, driven, energetic, and willing to work hard? We are seeking highly motivated individuals with a desire to sell and a passion for creating lasting partnerships that shape a new industry. This is an opportunity with tremendous upside and potential for more responsibility based on performance. Come join the rocketship and help us build something great!</p>\n\n<p>Atellio is a SaaS platform built for companies to manage their end-to-end creative production function - think photography and video production, advertising campaigns, and digital marketing. We are backed by leaders in the creative industry like ustwo and the ECD of Wieden &amp; Kennedy. Largely operating in the Fashion &amp; Retail industries thus far, our current customers are all under NDA (so you know they&#39;re legit).</p>\n\n<p>WHAT YOU&#39;LL DO:</p>\n\n<ul>\n<li>Be a critical part of building Atellio&#39;s customer base from the ground up</li>\n<li>Prospecting for new clients at high volume and velocity, via phone, email, and a variety of other channels to be experimented</li>\n<li>Own the entire Sales pipeline from qualifying leads to conducting demos to converting into clients</li>\n<li>Research and understand key industry trends and the competitive landscape</li>\n<li>Lay the foundation of what our Sales organization will look like today and in the future</li>\n<li>Collaborate with Marketing, Operations, and Product teams on the company&#39;s strategic direction</li>\n<li>Hustle, network, get creative, and have fun</li>\n</ul>\n\n<p>WHO WE’RE LOOKING FOR:</p>\n\n<ul>\n<li>3+ years experience working in a sales environment, with a record of exceeding targets under pressure.</li>\n<li>Experience in SaaS and/or Enterprise sales; bonus points for startup experience</li>\n<li>A Bachelor&#39;s degree</li>\n<li>Passion for the creative, bonus points for experience in Fashion &amp; Retail industries</li>\n<li>Top-notch communication skills, both verbal and written, and superior attention to detail</li>\n<li>Startup (all-hands-on-deck) &quot;I bust my ass because I love it&quot; approach</li>\n<li>Ambitious and self-motivated, with a laser-focus on exceeding set goals</li>\n<li>Ability to stay poised, agile, and solution-oriented in a fast-paced and sometimes ambiguous environment: from cold calling prospects to building go-to-market strategies</li>\n<li>A people person — you love talking to people and getting them excited</li>\n<li>Previous Salesforce experience is a plus</li>\n</ul>\n\n<p>WHAT YOU&#39;LL GET: </p>\n\n<ul>\n<li>Competitive salary and benefits (uncapped commission)</li>\n<li>Equity — we want you to have skin in the game and feel that this company belongs to you</li>\n<li>Regular team events, socials, and quarterly offsites</li>\n<li>Opportunity to travel between London &amp; LA offices, in addition to prospect and client sites</li>\n<li>A dynamic and passionate work environment — we&#39;re in it together and the sky is the limit</li>\n<li>Empowerment to make decisions, act quickly, and be an owner</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Los Angeles",
+        "Santa Monica",
+        "Venice"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$50k – $75k",
+        "equity": "0.0% – 0.1%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/ethan-rosenblum-2",
+        "name": "Ethan Rosenblum",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "809641",
+        "angelListUrl": "https://angel.co/company/atellio/jobs/809641-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "Digital Product Designer - Junior",
+      "description": "Atellio is SaaS platform built for companies to bring the creative production in-house.\n\nAs brands move away from using agencies for the growing requirement for content, we’ve built the first tool dedicated to helping in-house producers and art directors manage everything from their freelancers and talent, through to calendars, budget reconciliation and call-sheets.\n\nAtellio is backed by leaders in the creative industry like ustwo and the ECD of Wieden & Kennedy. Having been in stealth mode for the last year, Atellio is already powering the photo and film studios of the leading brands in streetwear, fashion and retail. They’re all under NDA, so you know they’re good.\n\nWe are now looking for a junior designer looking to grow and be part of an accelerating creative-focused start-up. You'll be working across product, sales and marketing to support the design needs of the business.\n\n\nJob Requirements\n\nHere's a summary of who we're looking for:\n\nYou've been in the digital product industry for 2+ years and your heart has been in design for as long you remember. You may have graduated with a degree around creativity or you were a self educator who built up their knowledge and made it into the industry with pure grit. You have studied the core principles of design which then branched into the discipline of UI / UX. You love creating delightful experiences for users by being empathetic and learning all you can about their problems.\n\nYou've moved through and kept up to date with the latest design software and can easily adapt to new workflows. You're a creative at heart, known for getting excited over little side projects that keep the juices flowing.\n\nAdditional requirements:\n\n- Strong communication and presentation skills\n- Driven, self-motivated, enthusiastic and with a “can do” attitude\n- Experience in a fast growing SaaS start-up, creative agencies, video / photo production a plus\n- Foundational knowledge in web development (html, css and basic javascript) a plus.\n\n\nBenefits\n\n- Competitive salary & benefits + OTE.\n- Choice of membership to a creative organisation (Tate, Barbican, Curzon etc)\n- Regular team events and socials\n- Opportunities to travel\n- An energetic and passionate startup working to power creativity in businesses, with a supportive team set out to do their best work.",
+      "descriptionHtml": "<p>Atellio is SaaS platform built for companies to bring the creative production in-house.</p>\n\n<p>As brands move away from using agencies for the growing requirement for content, we’ve built the first tool dedicated to helping in-house producers and art directors manage everything from their freelancers and talent, through to calendars, budget reconciliation and call-sheets.</p>\n\n<p>Atellio is backed by leaders in the creative industry like ustwo and the ECD of Wieden &amp; Kennedy. Having been in stealth mode for the last year, Atellio is already powering the photo and film studios of the leading brands in streetwear, fashion and retail. They’re all under NDA, so you know they’re good.</p>\n\n<p>We are now looking for a junior designer looking to grow and be part of an accelerating creative-focused start-up. You&#39;ll be working across product, sales and marketing to support the design needs of the business.</p>\n\n<p>Job Requirements</p>\n\n<p>Here&#39;s a summary of who we&#39;re looking for:</p>\n\n<p>You&#39;ve been in the digital product industry for 2+ years and your heart has been in design for as long you remember. You may have graduated with a degree around creativity or you were a self educator who built up their knowledge and made it into the industry with pure grit. You have studied the core principles of design which then branched into the discipline of UI / UX. You love creating delightful experiences for users by being empathetic and learning all you can about their problems.</p>\n\n<p>You&#39;ve moved through and kept up to date with the latest design software and can easily adapt to new workflows. You&#39;re a creative at heart, known for getting excited over little side projects that keep the juices flowing.</p>\n\n<p>Additional requirements:</p>\n\n<ul>\n<li>Strong communication and presentation skills</li>\n<li>Driven, self-motivated, enthusiastic and with a “can do” attitude</li>\n<li>Experience in a fast growing SaaS start-up, creative agencies, video / photo production a plus</li>\n<li>Foundational knowledge in web development (html, css and basic javascript) a plus.</li>\n</ul>\n\n<p>Benefits</p>\n\n<ul>\n<li>Competitive salary &amp; benefits + OTE.</li>\n<li>Choice of membership to a creative organisation (Tate, Barbican, Curzon etc)</li>\n<li>Regular team events and socials</li>\n<li>Opportunities to travel</li>\n<li>An energetic and passionate startup working to power creativity in businesses, with a supportive team set out to do their best work.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "UI/UX Design"
+      ],
+      "payment": {
+        "salary": "£30k – £45k"
+      },
+      "recruiter": {
+        "title": "Head of Product",
+        "role": "Founder",
+        "url": "https://angel.co/u/scott-wooden-1",
+        "name": "Scott Wooden",
+        "avatar": "https://photos.angel.co/users/9844578-medium_jpg?1565709046"
+      },
+      "refs": {
+        "angelListId": "691067",
+        "angelListUrl": "https://angel.co/company/atellio/jobs/691067-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Front-End React Engineer",
+      "description": "About Atellio\n\nAtellio is a SaaS platform built for companies to bring the creative production in-house.\n\nAs brands move away from using agencies for the growing requirement for content, we’ve built the first tool dedicated to helping in-house producers and art directors manage everything from their freelancers and talent, through to calendars, budget reconciliation and call-sheets.\n\nAtellio is backed by leaders in the creative industry like ustwo and the ECD of Wieden & Kennedy. Having been in stealth mode for the last year, Atellio is already powering the photo and film studios of the leading brands in streetwear, fashion and retail. They’re all under NDA, so you know they’re good.\n\nWe are now looking for a front-end React engineer to be a core part of the product team and help take the platform to the next level.\n\n\nJob requirements\n\nHere’s a brief profile of what we’re looking for in a frontend developer:\n\nYou're on the JavaScript bandwagon, and having worked on web apps for a few years you've accumulated a good knowledge of the fundamentals behind them. You know the ins and outs of React - or maybe something similar, like Angular or Vue - and you're more than comfortable with Redux-style state architecture.\n\nYou're now ready to step up and take on some ownership, looking after your own little corner of the app, and making sure everything is clean, tested, usable, and otherwise shipshape. You're more than happy to crack on building new features, using your own initiative, and architecting your components in a way that will make life easier down the line. While your ideal is to prioritise doing things properly, you're also prepared to roll your sleeves up and get stuff done to a deadline when it's needed.\n\nHand-in-hand with your love of well-designed code is your passion for beautiful, intuitive UX. You'll offer up suggestions if a design presented to you could be improved, or if there are use-cases that haven't been taken into account. You have an awareness of modern UX flows & patterns that users are familiar with, and you can explain your gut feeling when things don't feel right.\n\nIt's a great time to join Atellio: we've built the main bulk of our app, and we're now split between building out new features, and making what we've built even better. We love doing things properly, and we're pretty light on our feet - so you'll be able to have a big say in how we do things going forward. You'll have a great codebase to play with, and the opportunity to decide how to make it amazing. Come join us!\n\n\nKey Requirements:\n\n- Good knowledge of React, or strong experience with Angular, Vue, or similar (we use React!)\n- Understanding of Redux-style architecture, & state in general\n- Familiar with unit testing (we use Enzyme & Jest)\n- Good code habits 🧹\n- Strong UX awareness and a passion for creating seamless user experiences\n- Keen eye in sweating the small stuff and appreciating the little details that surprise and delight\n\nBonus Requirements:\n\n- You've got experience working from design tools (Sketch, Figma, Zeplin etc)\n- You love everything forms. Form UX, accessibility, valid markup, validation, form state; you name it, you have a very specific opinion on it.\n- You've got experience working with dates & timezones, and the idea of working on a calendar just thrills you\n- You've worked with WebSockets before, and have a good sense of what's good or bad practice\n- You're familiar with other types of testing, for example end-to-end testing using Cypress\n- You're familiar with Node.js as well, and you're more than happy to just dip in and add a new endpoint when you need it\n- You have a keen eye for spotting obscure pop culture references in our documentation, and are a dab hand at sneaking in your own\n\nBenefits\n\n- Competitive salary & benefits\n- Choice of membership to a creative organisation (Tate, Barbican, Curzon etc)\n- Regular team events and socials\n- Opportunities to travel\n- An energetic and passionate startup working to power creativity in businesses, with a supportive team set out to do their best work.",
+      "descriptionHtml": "<p>About Atellio</p>\n\n<p>Atellio is a SaaS platform built for companies to bring the creative production in-house.</p>\n\n<p>As brands move away from using agencies for the growing requirement for content, we’ve built the first tool dedicated to helping in-house producers and art directors manage everything from their freelancers and talent, through to calendars, budget reconciliation and call-sheets.</p>\n\n<p>Atellio is backed by leaders in the creative industry like ustwo and the ECD of Wieden &amp; Kennedy. Having been in stealth mode for the last year, Atellio is already powering the photo and film studios of the leading brands in streetwear, fashion and retail. They’re all under NDA, so you know they’re good.</p>\n\n<p>We are now looking for a front-end React engineer to be a core part of the product team and help take the platform to the next level.</p>\n\n<p>Job requirements</p>\n\n<p>Here’s a brief profile of what we’re looking for in a frontend developer:</p>\n\n<p>You&#39;re on the JavaScript bandwagon, and having worked on web apps for a few years you&#39;ve accumulated a good knowledge of the fundamentals behind them. You know the ins and outs of React - or maybe something similar, like Angular or Vue - and you&#39;re more than comfortable with Redux-style state architecture.</p>\n\n<p>You&#39;re now ready to step up and take on some ownership, looking after your own little corner of the app, and making sure everything is clean, tested, usable, and otherwise shipshape. You&#39;re more than happy to crack on building new features, using your own initiative, and architecting your components in a way that will make life easier down the line. While your ideal is to prioritise doing things properly, you&#39;re also prepared to roll your sleeves up and get stuff done to a deadline when it&#39;s needed.</p>\n\n<p>Hand-in-hand with your love of well-designed code is your passion for beautiful, intuitive UX. You&#39;ll offer up suggestions if a design presented to you could be improved, or if there are use-cases that haven&#39;t been taken into account. You have an awareness of modern UX flows &amp; patterns that users are familiar with, and you can explain your gut feeling when things don&#39;t feel right.</p>\n\n<p>It&#39;s a great time to join Atellio: we&#39;ve built the main bulk of our app, and we&#39;re now split between building out new features, and making what we&#39;ve built even better. We love doing things properly, and we&#39;re pretty light on our feet - so you&#39;ll be able to have a big say in how we do things going forward. You&#39;ll have a great codebase to play with, and the opportunity to decide how to make it amazing. Come join us!</p>\n\n<p>Key Requirements:</p>\n\n<ul>\n<li>Good knowledge of React, or strong experience with Angular, Vue, or similar (we use React!)</li>\n<li>Understanding of Redux-style architecture, &amp; state in general</li>\n<li>Familiar with unit testing (we use Enzyme &amp; Jest)</li>\n<li>Good code habits 🧹</li>\n<li>Strong UX awareness and a passion for creating seamless user experiences</li>\n<li>Keen eye in sweating the small stuff and appreciating the little details that surprise and delight</li>\n</ul>\n\n<p>Bonus Requirements:</p>\n\n<ul>\n<li>You&#39;ve got experience working from design tools (Sketch, Figma, Zeplin etc)</li>\n<li>You love everything forms. Form UX, accessibility, valid markup, validation, form state; you name it, you have a very specific opinion on it.</li>\n<li>You&#39;ve got experience working with dates &amp; timezones, and the idea of working on a calendar just thrills you</li>\n<li>You&#39;ve worked with WebSockets before, and have a good sense of what&#39;s good or bad practice</li>\n<li>You&#39;re familiar with other types of testing, for example end-to-end testing using Cypress</li>\n<li>You&#39;re familiar with Node.js as well, and you&#39;re more than happy to just dip in and add a new endpoint when you need it</li>\n<li>You have a keen eye for spotting obscure pop culture references in our documentation, and are a dab hand at sneaking in your own</li>\n</ul>\n\n<p>Benefits</p>\n\n<ul>\n<li>Competitive salary &amp; benefits</li>\n<li>Choice of membership to a creative organisation (Tate, Barbican, Curzon etc)</li>\n<li>Regular team events and socials</li>\n<li>Opportunities to travel</li>\n<li>An energetic and passionate startup working to power creativity in businesses, with a supportive team set out to do their best work.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "HTML",
+        "Frontend Development",
+        "React.js",
+        "Angular"
+      ],
+      "payment": {
+        "salary": "£40k – £70k",
+        "equity": "0.0% – 0.1%"
+      },
+      "recruiter": {
+        "title": "Head of Product",
+        "role": "Founder",
+        "url": "https://angel.co/u/scott-wooden-1",
+        "name": "Scott Wooden",
+        "avatar": "https://photos.angel.co/users/9844578-medium_jpg?1565709046"
+      },
+      "refs": {
+        "angelListId": "708997",
+        "angelListUrl": "https://angel.co/company/atellio/jobs/708997-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Sales Development Representative - Fashion Retail",
+      "description": "Atellio is SaaS platform built for companies to bring the creative production in-house.\n\nAs brands move away from using agencies for the growing requirement for content, we’ve built the first tool dedicated to helping in-house producers and art directors manage everything from their freelancers and talent, through to calendars, budget reconciliation and call-sheets.\n\nAtellio is backed by leaders in the creative industry like ustwo and the ECD of Wieden & Kennedy. Having been in stealth mode for the last year, Atellio is already powering the photo and film studios of the leading brands in streetwear, fashion and retail. They’re all under NDA, so you know they’re good.\n\nWe’re on the look-out for a Sales Development Representatives to source and qualify prospects and convert leads in our first core market of fashion and retail. We’re looking for a creative storyteller who can passionately and empathetically communicate our platform to producers, art directors and creatives alike.\n\nThis is a huge opportunity for someone who wants to learn the fundamentals of sales in a fun and fast-paced startup. In this role, you will be a driving force of growth and a vital component of our rapidly evolving team. As an SDR, you’ll be closely mentored by the Sales Director.\n\n\nResponsibilities\n\n- Prospecting for new clients at high volume and velocity, both via phone and email\n- Qualifying leads from both inbound inquiries and research\n- Conducting demos and converting leads to clients\n- Self-motivator who can own the sales pipeline, from initial outreach, demos, and closing new business sales, to post-sale on-boarding\n- Research and understand key trends and competition in the fashion \n- Work closely with the CEO and Sales Director to learn and develop market-leading sales techniques\n\n\nRequirements\n\n- A creative background, either professionally or behind the scenes\n- You must have top-notch communication skills, both verbal and written, and superior attention to detail\n- Experience working in a sales environment, with a record of exceeding targets under pressure. Startup experience a plus. SaaS experience an even bigger plus\n- A love of the fashion/beauty/retail sector\n- An optimistic attitude, target and data driven mindset, and a JFDI approach\n- Confidence in building relationships and speaking to partners at all professional levels\n- You must be a happy getting your hands dirty, in any area of the business. Someone who is excited about working in a fast-moving, rapidly evolving company\n- Happy to travel to the US\n\n\nBenefits\n\n- Competitive salary & benefits + OTE.\n- Choice of membership to a creative organisation (Tate, Barbican, Curzon etc)\n- Regular team events and socials\n- Opportunities to travel\n- An energetic and passionate startup working to power creativity in businesses, with a team set out to do their best work with each others support.",
+      "descriptionHtml": "<p>Atellio is SaaS platform built for companies to bring the creative production in-house.</p>\n\n<p>As brands move away from using agencies for the growing requirement for content, we’ve built the first tool dedicated to helping in-house producers and art directors manage everything from their freelancers and talent, through to calendars, budget reconciliation and call-sheets.</p>\n\n<p>Atellio is backed by leaders in the creative industry like ustwo and the ECD of Wieden &amp; Kennedy. Having been in stealth mode for the last year, Atellio is already powering the photo and film studios of the leading brands in streetwear, fashion and retail. They’re all under NDA, so you know they’re good.</p>\n\n<p>We’re on the look-out for a Sales Development Representatives to source and qualify prospects and convert leads in our first core market of fashion and retail. We’re looking for a creative storyteller who can passionately and empathetically communicate our platform to producers, art directors and creatives alike.</p>\n\n<p>This is a huge opportunity for someone who wants to learn the fundamentals of sales in a fun and fast-paced startup. In this role, you will be a driving force of growth and a vital component of our rapidly evolving team. As an SDR, you’ll be closely mentored by the Sales Director.</p>\n\n<p>Responsibilities</p>\n\n<ul>\n<li>Prospecting for new clients at high volume and velocity, both via phone and email</li>\n<li>Qualifying leads from both inbound inquiries and research</li>\n<li>Conducting demos and converting leads to clients</li>\n<li>Self-motivator who can own the sales pipeline, from initial outreach, demos, and closing new business sales, to post-sale on-boarding</li>\n<li>Research and understand key trends and competition in the fashion </li>\n<li>Work closely with the CEO and Sales Director to learn and develop market-leading sales techniques</li>\n</ul>\n\n<p>Requirements</p>\n\n<ul>\n<li>A creative background, either professionally or behind the scenes</li>\n<li>You must have top-notch communication skills, both verbal and written, and superior attention to detail</li>\n<li>Experience working in a sales environment, with a record of exceeding targets under pressure. Startup experience a plus. SaaS experience an even bigger plus</li>\n<li>A love of the fashion/beauty/retail sector</li>\n<li>An optimistic attitude, target and data driven mindset, and a JFDI approach</li>\n<li>Confidence in building relationships and speaking to partners at all professional levels</li>\n<li>You must be a happy getting your hands dirty, in any area of the business. Someone who is excited about working in a fast-moving, rapidly evolving company</li>\n<li>Happy to travel to the US</li>\n</ul>\n\n<p>Benefits</p>\n\n<ul>\n<li>Competitive salary &amp; benefits + OTE.</li>\n<li>Choice of membership to a creative organisation (Tate, Barbican, Curzon etc)</li>\n<li>Regular team events and socials</li>\n<li>Opportunities to travel</li>\n<li>An energetic and passionate startup working to power creativity in businesses, with a team set out to do their best work with each others support.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "Los Angeles",
+        "San Francisco",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£30k – £50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/nicholas-gubbins",
+        "name": "Nicholas Gubbins",
+        "avatar": "https://photos.angel.co/users/649184-medium_jpg?1568218747"
+      },
+      "refs": {
+        "angelListId": "626000",
+        "angelListUrl": "https://angel.co/company/atellio/jobs/626000-"
+      }
+    }
+  ]
+}

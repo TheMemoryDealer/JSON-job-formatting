@@ -1,0 +1,334 @@
+{
+  "name": "z1nc",
+  "avatar": "https://photos.angel.co/startups/i/7479628-3a83a81e132aa39adfafc341e28ebfff-medium_jpg.jpg?buster=1581280762",
+  "slogan": "Building better teams",
+  "description": "We work with technology companies at the heart of innovation and help them build better teams. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.z1nc.co"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Technology",
+    "Artificial Intelligence",
+    "Software",
+    "Internet of Things"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/mimihammad",
+      "name": "Mimi Hammad ",
+      "avatar": "https://photos.angel.co/users/7882262-medium_jpg?1586881570",
+      "bioHtml": "Part-time tech barbie and ex sugar junkie with a passion for writing about culture, people and tech."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7479628",
+    "angelListUrl": "https://angel.co/company/z1nc"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Back End Engineer (Python)",
+      "description": "We are looking for a python backend developer who has a passion for building great products with solid engineering practices using the latest technologies.\n\nYou would also be working on technical tasks to improve our backend application architecture for performance, scalability and robustness while making use of the latest technologies, reducing complexity and making development easier. You will be working alongside other developers on one of our products.\n\nA successful candidate will need to be organised, motivated and get things done. Want to work in a startup environment, doing a bit of everything and taking ownership of what he/she will be working on.\n\n \n\nResponsibilities:\n\nImplement RestFull API’s and business logic\nArchitecture redesign\nHelp lock down the technology stack from end to end\nWork within a fast paced environment\nUse REST to implement API integrations with other SaaS platforms\n Required:\n\nPython\nFlask\nOOP\nTDD\nExperience developing and using RESTFull API’s\nExperience with Git\nExperience working with Databases\nNice to have:\n\nExperience with datastore\nExperience developing Microservices \nExperience with Django\nWebsocket experience \nExperience with any of the following programming languages: Go, Java, PHP, javascript\nExperience using other backend frameworks\nExperience building software using Test driven development methodologies \nExperience working with database technologies (MySQL, Postgres, Mongo db)\nExperience with GCP (Google Cloud Platform) services",
+      "descriptionHtml": "<p>We are looking for a python backend developer who has a passion for building great products with solid engineering practices using the latest technologies.</p>\n\n<p>You would also be working on technical tasks to improve our backend application architecture for performance, scalability and robustness while making use of the latest technologies, reducing complexity and making development easier. You will be working alongside other developers on one of our products.</p>\n\n<p>A successful candidate will need to be organised, motivated and get things done. Want to work in a startup environment, doing a bit of everything and taking ownership of what he/she will be working on.</p>\n\n<p>Responsibilities:</p>\n\n<p>Implement RestFull API’s and business logic<br>\nArchitecture redesign<br>\nHelp lock down the technology stack from end to end<br>\nWork within a fast paced environment<br>\nUse REST to implement API integrations with other SaaS platforms<br>\n Required:</p>\n\n<p>Python<br>\nFlask<br>\nOOP<br>\nTDD<br>\nExperience developing and using RESTFull API’s<br>\nExperience with Git<br>\nExperience working with Databases<br>\nNice to have:</p>\n\n<p>Experience with datastore<br>\nExperience developing Microservices <br>\nExperience with Django<br>\nWebsocket experience <br>\nExperience with any of the following programming languages: Go, Java, PHP, javascript<br>\nExperience using other backend frameworks<br>\nExperience building software using Test driven development methodologies <br>\nExperience working with database technologies (MySQL, Postgres, Mongo db)<br>\nExperience with GCP (Google Cloud Platform) services</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Flask",
+        "Python Flask",
+        "Machine Learning Data Science Python R"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Founder",
+        "url": "https://angel.co/u/mimihammad",
+        "name": "Mimi Hammad ",
+        "avatar": "https://photos.angel.co/users/7882262-medium_jpg?1586881570"
+      },
+      "refs": {
+        "angelListId": "756035",
+        "angelListUrl": "https://angel.co/company/z1nc/jobs/756035-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Cloud Engineer",
+      "description": "We are looking for a Cloud Engineer to become an integral part of our team.\r\n\r\nYou will be helping the team setting up and maintaining the infrastructure for a platform that delivers a comprehensive solution that allows organisations to understand and maximise the real value of their data.\r\n\r\nA successful candidate will need to be organised, motivated and get things done. Want to work in a startup environment and take ownership of what he/she will be working on.\r\n\r\nResponsibilities:\r\n\r\n- System administration and network diagnostics\r\n- Implementation and management of methodologies for the continuous\r\ndelivery/integration\r\n- Setup and manage Virtual environments\r\n- Implementation, and automation of governance processes, security controls, and compliance validations\r\n- Defining and deploying metrics, monitoring, and logging systems\r\nRequired:\r\n- Familiar with cloud concepts\r\n-  Experience with at least one cloud provider (e.g AWS,GCP,Azure)\r\n- IAM management\r\n- Background in Linux/Unix server administration\r\n- Knowledge of at least one scripting language\r\n- Knowledge of SQL/MySQL &amp; NoSQL\r\n- Interest in security and malware detection, authentication and authorization\r\n- a good understanding of WAN, LAN, TCP/IP, HTTP, SSL, HTTPS, DNS, VPN\r\nNice to Have:\r\n\r\n- Any GCP certifications\r\n- Familiarity with the JVM ecosystem (Java8, Scala, Gradle, Artifactory etc.)\r\n- Experience designing, operating and troubleshooting large scale distributed systems\r\nin a 24x7 production environment\r\n- Experience with data visualisation tools\r\n- Experience in at least one programming language (eg. Python/C++)\r\n- Experience in any of: performance monitoring; security monitoring;\r\ndeployment/configuration; continuous integration/build servers and cloud resource creation script.",
+      "descriptionHtml": "<p>We are looking for a Cloud Engineer to become an integral part of our team.</p>\n\n<p>You will be helping the team setting up and maintaining the infrastructure for a platform that delivers a comprehensive solution that allows organisations to understand and maximise the real value of their data.</p>\n\n<p>A successful candidate will need to be organised, motivated and get things done. Want to work in a startup environment and take ownership of what he/she will be working on.</p>\n\n<p>Responsibilities:</p>\n\n<ul>\n<li>System administration and network diagnostics</li>\n<li>Implementation and management of methodologies for the continuous\ndelivery/integration</li>\n<li>Setup and manage Virtual environments</li>\n<li>Implementation, and automation of governance processes, security controls, and compliance validations</li>\n<li>Defining and deploying metrics, monitoring, and logging systems\nRequired:</li>\n<li>Familiar with cloud concepts</li>\n<li> Experience with at least one cloud provider (e.g AWS,GCP,Azure)</li>\n<li>IAM management</li>\n<li>Background in Linux/Unix server administration</li>\n<li>Knowledge of at least one scripting language</li>\n<li>Knowledge of SQL/MySQL &amp; NoSQL</li>\n<li>Interest in security and malware detection, authentication and authorization</li>\n<li><p>a good understanding of WAN, LAN, TCP/IP, HTTP, SSL, HTTPS, DNS, VPN<br>\nNice to Have:</p></li>\n<li><p>Any GCP certifications</p></li>\n<li><p>Familiarity with the JVM ecosystem (Java8, Scala, Gradle, Artifactory etc.)</p></li>\n<li><p>Experience designing, operating and troubleshooting large scale distributed systems<br>\nin a 24x7 production environment</p></li>\n<li><p>Experience with data visualisation tools</p></li>\n<li><p>Experience in at least one programming language (eg. Python/C++)</p></li>\n<li><p>Experience in any of: performance monitoring; security monitoring;<br>\ndeployment/configuration; continuous integration/build servers and cloud resource creation script.</p></li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Cloud Computing",
+        "Cloud Services",
+        "DevOps",
+        "Google Cloud Platform",
+        "DevOps Engineering",
+        "DevOps/Linux/Docker/Jenkins/Chef/Puppet/Git"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Founder",
+        "url": "https://angel.co/u/mimihammad",
+        "name": "Mimi Hammad ",
+        "avatar": "https://photos.angel.co/users/7882262-medium_jpg?1586881570"
+      },
+      "refs": {
+        "angelListId": "765610",
+        "angelListUrl": "https://angel.co/company/z1nc/jobs/765610-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Data Scientist",
+      "description": "We are looking for a passionate Data ScientistML Engineer to become an integral part of our team based in the London office. You will be working on a  platform that delivers a comprehensive solution that allows organisations to understand and maximise the real value of their data.  \n\nThe successful candidate will need to be organised, motivated and get things done. Want to work in a startup environment and taking ownership of what he/she will be working on.\n\n**Responsibilities:**\n- Ability to analyse big data sets coming from heterogenous producers both in real time and offline.\n- Apply complex algorithms producing readable reports using BI tools and online KPIs \n- Creating machine learning tools to generate predictions and insights\n- Apply deep learning techniques in a commercial setting. \n \n**Required:**\n- University degree in a scientific field (math, statistics, computer science, data science)\n- 2+ years of experience in the position\n- Proficient knowledge of Python\n- Knowledge of Pandas for python analytics\n- Proficient with common libraries such as Pandas, Matplotlib, Scikit-learn and Numpy\n- Experience using SQL\n**Knowledge of the following algorithms:**\n- Linear and logistic regression\n- LDA\n- SVM\n-  K-nearest neighbors \n- K-means clustering\n- classification and regression trees\n- naive Bayes\n\n**Nice to have:**\n- Knowledge of TensorFlow\n- Basic knowledge of deep learning techniques (e.g TensorFlow)\n- Knowledge of TensorFlow\n- Experience with cloud infrastructure (such as GCP or AWS)\n- Sound knowledge of statistics",
+      "descriptionHtml": "<p>We are looking for a passionate Data ScientistML Engineer to become an integral part of our team based in the London office. You will be working on a  platform that delivers a comprehensive solution that allows organisations to understand and maximise the real value of their data.  </p>\n\n<p>The successful candidate will need to be organised, motivated and get things done. Want to work in a startup environment and taking ownership of what he/she will be working on.</p>\n\n<p><strong>Responsibilities:</strong></p>\n\n<ul>\n<li>Ability to analyse big data sets coming from heterogenous producers both in real time and offline.</li>\n<li>Apply complex algorithms producing readable reports using BI tools and online KPIs </li>\n<li>Creating machine learning tools to generate predictions and insights</li>\n<li>Apply deep learning techniques in a commercial setting. </li>\n</ul>\n\n<p><strong>Required:</strong></p>\n\n<ul>\n<li>University degree in a scientific field (math, statistics, computer science, data science)</li>\n<li>2+ years of experience in the position</li>\n<li>Proficient knowledge of Python</li>\n<li>Knowledge of Pandas for python analytics</li>\n<li>Proficient with common libraries such as Pandas, Matplotlib, Scikit-learn and Numpy</li>\n<li>Experience using SQL\n<strong>Knowledge of the following algorithms:</strong></li>\n<li>Linear and logistic regression</li>\n<li>LDA</li>\n<li>SVM</li>\n<li> K-nearest neighbors </li>\n<li>K-means clustering</li>\n<li>classification and regression trees</li>\n<li>naive Bayes</li>\n</ul>\n\n<p><strong>Nice to have:</strong></p>\n\n<ul>\n<li>Knowledge of TensorFlow</li>\n<li>Basic knowledge of deep learning techniques (e.g TensorFlow)</li>\n<li>Knowledge of TensorFlow</li>\n<li>Experience with cloud infrastructure (such as GCP or AWS)</li>\n<li>Sound knowledge of statistics</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Data Science",
+        "Machine Learning, Data Science, Python, Perl, R",
+        "Machine Learning Data Science Python R"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Founder",
+        "url": "https://angel.co/u/mimihammad",
+        "name": "Mimi Hammad ",
+        "avatar": "https://photos.angel.co/users/7882262-medium_jpg?1586881570"
+      },
+      "refs": {
+        "angelListId": "737937",
+        "angelListUrl": "https://angel.co/company/z1nc/jobs/737937-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "DevOps Engineer",
+      "description": "We are looking for a DevOps Engineer to become an integral part of our team.\n\nYou will be helping the team setting up and maintaining the infrastructure for a platform that delivers a comprehensive solution that allows organisations to understand and maximise the real value of their data.\n\nA successful candidate will need to be organised, motivated and get things done. Want to work in a startup environment and take ownership of what he/she will be working on.\n\nResponsibilities:\n\n- System administration and network diagnostics\n- Implementation and management of methodologies for the continuous\ndelivery/integration\n- Setup and manage Virtual environments\n- Implementation, and automation of governance processes, security controls, and compliance validations\n- Defining and deploying metrics, monitoring, and logging systems\nRequired:\n- Familiar with cloud concepts\n-  Experience with at least one cloud provider (e.g AWS,GCP,Azure)\n- IAM management\n- Background in Linux/Unix server administration\n- Knowledge of at least one scripting language\n- Knowledge of SQL/MySQL & NoSQL\n- Interest in security and malware detection, authentication and authorization\n- a good understanding of WAN, LAN, TCP/IP, HTTP, SSL, HTTPS, DNS, VPN\nNice to Have:\n\n- Any GCP certifications\n- Familiarity with the JVM ecosystem (Java8, Scala, Gradle, Artifactory etc.)\n- Experience designing, operating and troubleshooting large scale distributed systems\nin a 24x7 production environment\n- Experience with data visualisation tools\n- Experience in at least one programming language (eg. Python/C++)\n- Experience in any of: performance monitoring; security monitoring;\ndeployment/configuration; continuous integration/build servers and cloud resource creation script",
+      "descriptionHtml": "<p>We are looking for a DevOps Engineer to become an integral part of our team.</p>\n\n<p>You will be helping the team setting up and maintaining the infrastructure for a platform that delivers a comprehensive solution that allows organisations to understand and maximise the real value of their data.</p>\n\n<p>A successful candidate will need to be organised, motivated and get things done. Want to work in a startup environment and take ownership of what he/she will be working on.</p>\n\n<p>Responsibilities:</p>\n\n<ul>\n<li>System administration and network diagnostics</li>\n<li>Implementation and management of methodologies for the continuous\ndelivery/integration</li>\n<li>Setup and manage Virtual environments</li>\n<li>Implementation, and automation of governance processes, security controls, and compliance validations</li>\n<li>Defining and deploying metrics, monitoring, and logging systems\nRequired:</li>\n<li>Familiar with cloud concepts</li>\n<li> Experience with at least one cloud provider (e.g AWS,GCP,Azure)</li>\n<li>IAM management</li>\n<li>Background in Linux/Unix server administration</li>\n<li>Knowledge of at least one scripting language</li>\n<li>Knowledge of SQL/MySQL &amp; NoSQL</li>\n<li>Interest in security and malware detection, authentication and authorization</li>\n<li><p>a good understanding of WAN, LAN, TCP/IP, HTTP, SSL, HTTPS, DNS, VPN<br>\nNice to Have:</p></li>\n<li><p>Any GCP certifications</p></li>\n<li><p>Familiarity with the JVM ecosystem (Java8, Scala, Gradle, Artifactory etc.)</p></li>\n<li><p>Experience designing, operating and troubleshooting large scale distributed systems<br>\nin a 24x7 production environment</p></li>\n<li><p>Experience with data visualisation tools</p></li>\n<li><p>Experience in at least one programming language (eg. Python/C++)</p></li>\n<li><p>Experience in any of: performance monitoring; security monitoring;<br>\ndeployment/configuration; continuous integration/build servers and cloud resource creation script</p></li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Software Development",
+        "DevOps",
+        "Software",
+        "AWS"
+      ],
+      "payment": {
+        "salary": "£35k – £50k"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Founder",
+        "url": "https://angel.co/u/mimihammad",
+        "name": "Mimi Hammad ",
+        "avatar": "https://photos.angel.co/users/7882262-medium_jpg?1586881570"
+      },
+      "refs": {
+        "angelListId": "730013",
+        "angelListUrl": "https://angel.co/company/z1nc/jobs/730013-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Front End Engineer (React)",
+      "description": "We are looking for a front end engineer who has a passion for building great products with solid engineering practices using the latest technologies.\r\n\r\nThe successful candidate will need to be organised, motivated and get things done. Want to work in a growing startup environment, doing a bit of everything and taking ownership of what he/she will be working on.\r\n\r\n**Responsibilities:\r\n**\r\n- Develop a single page application using React/REST\r\n- Prototype UI to ensure a good user experience and required functionality can be achieved\r\n- Help lock down the technology stack from end to end\r\n- Work within a fast paced environment\r\n- Use REST to implement API integrations with other SaaS platforms\r\n\r\n**Required*:*\r\n\r\n- Experience with React JS, Redux and UI components\r\n- OOP\r\n- TDD\r\n- Experience developing Applications using Micro-Services\r\n- Experience developing and using RESTFull API’s\r\n- Understanding of web markup, including Bootstrap, HTML5 and CSS3\r\n- Experience with Git \r\n\r\n**Nice to have:\r\n**\r\n\r\n- Experience with any of the following programming languages: Go, Java, python.\r\n- Experience using other front end frameworks.\r\n- Experience building software using Test driven development methodologies\r\n- Experience working with database technologies (MySQL,Postgres, Mongo db)\r\n- Experience with GCP (Google Cloud Platform) services",
+      "descriptionHtml": "<p>We are looking for a front end engineer who has a passion for building great products with solid engineering practices using the latest technologies.</p>\n\n<p>The successful candidate will need to be organised, motivated and get things done. Want to work in a growing startup environment, doing a bit of everything and taking ownership of what he/she will be working on.</p>\n\n<p>*<em>Responsibilities:<br>\n*</em></p>\n\n<ul>\n<li>Develop a single page application using React/REST</li>\n<li>Prototype UI to ensure a good user experience and required functionality can be achieved</li>\n<li>Help lock down the technology stack from end to end</li>\n<li>Work within a fast paced environment</li>\n<li>Use REST to implement API integrations with other SaaS platforms</li>\n</ul>\n\n<p>*<em>Required</em>:*</p>\n\n<ul>\n<li>Experience with React JS, Redux and UI components</li>\n<li>OOP</li>\n<li>TDD</li>\n<li>Experience developing Applications using Micro-Services</li>\n<li>Experience developing and using RESTFull API’s</li>\n<li>Understanding of web markup, including Bootstrap, HTML5 and CSS3</li>\n<li>Experience with Git </li>\n</ul>\n\n<p>*<em>Nice to have:<br>\n*</em></p>\n\n<ul>\n<li>Experience with any of the following programming languages: Go, Java, python.</li>\n<li>Experience using other front end frameworks.</li>\n<li>Experience building software using Test driven development methodologies</li>\n<li>Experience working with database technologies (MySQL,Postgres, Mongo db)</li>\n<li>Experience with GCP (Google Cloud Platform) services</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "React.js"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Founder",
+        "url": "https://angel.co/u/mimihammad",
+        "name": "Mimi Hammad ",
+        "avatar": "https://photos.angel.co/users/7882262-medium_jpg?1586881570"
+      },
+      "refs": {
+        "angelListId": "804543",
+        "angelListUrl": "https://angel.co/company/z1nc/jobs/804543-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Developer (Node.js, React)",
+      "description": "We are looking for a mid-level full stack developer who has a passion for building great products with solid engineering practices using the latest technologies.\n\nYou would also be working on technical tasks to improve our backend application architecture for performance, scalability and robustness while making use of the latest technologies, reducing complexity and making development easier. You will be working alongside other developers developing several micro services to complement our main machine learning solution.\n\nA successful candidate will need to be organised, motivated and get things done. Want to work in a startup environment, doing a bit of everything and taking ownership of what he/she will be working on.\n\nResponsibilities:\n\nDevelop a single page application using React/Node.js with websockets/REST \nPrototype UI to ensure a good user experience and required functionality can be achieved\nHelp lock down the technology stack from end to end\nWork within a fast paced environment\nUse REST to implement API integrations with other SaaS platforms\n Required:\n\nExperience with React JS, Redux and UI components\nNode.js and websockets\nOOP\nTDD\nExperience developing Appcations using Micro-Services\nExperience developing and using RESTFull API’s\nUnderstanding of web markup, including Bootstrap, HTML5 and CSS3\nExperience with Git\nNice to have:\n\nExperience with any of the following programming languages:\nGo, Java, python, PHP\nExperience using other front end frameworks.\nExperience building software using Test driven development methodologies \nExperience working with database technologies (MySQL, Postgres, Mongo db)\nExperience with GCP (Google Cloud Platform) services",
+      "descriptionHtml": "<p>We are looking for a mid-level full stack developer who has a passion for building great products with solid engineering practices using the latest technologies.</p>\n\n<p>You would also be working on technical tasks to improve our backend application architecture for performance, scalability and robustness while making use of the latest technologies, reducing complexity and making development easier. You will be working alongside other developers developing several micro services to complement our main machine learning solution.</p>\n\n<p>A successful candidate will need to be organised, motivated and get things done. Want to work in a startup environment, doing a bit of everything and taking ownership of what he/she will be working on.</p>\n\n<p>Responsibilities:</p>\n\n<p>Develop a single page application using React/Node.js with websockets/REST <br>\nPrototype UI to ensure a good user experience and required functionality can be achieved<br>\nHelp lock down the technology stack from end to end<br>\nWork within a fast paced environment<br>\nUse REST to implement API integrations with other SaaS platforms<br>\n Required:</p>\n\n<p>Experience with React JS, Redux and UI components<br>\nNode.js and websockets<br>\nOOP<br>\nTDD<br>\nExperience developing Appcations using Micro-Services<br>\nExperience developing and using RESTFull API’s<br>\nUnderstanding of web markup, including Bootstrap, HTML5 and CSS3<br>\nExperience with Git<br>\nNice to have:</p>\n\n<p>Experience with any of the following programming languages:<br>\nGo, Java, python, PHP<br>\nExperience using other front end frameworks.<br>\nExperience building software using Test driven development methodologies <br>\nExperience working with database technologies (MySQL, Postgres, Mongo db)<br>\nExperience with GCP (Google Cloud Platform) services</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Node.js",
+        "REST",
+        "React.js",
+        "NodeJS",
+        "ReactJS"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Founder",
+        "url": "https://angel.co/u/mimihammad",
+        "name": "Mimi Hammad ",
+        "avatar": "https://photos.angel.co/users/7882262-medium_jpg?1586881570"
+      },
+      "refs": {
+        "angelListId": "756024",
+        "angelListUrl": "https://angel.co/company/z1nc/jobs/756024-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Golang Engineer",
+      "description": "We are looking for a Golang Engineer who specialises in real time applications and has a passion for building great products with solid engineering practices using the latest technologies.\r\n\r\nYou would also be working on technical tasks to improve our backend application architecture for performance, scalability and robustness while making use of the latest technologies, reducing complexity and making development easier. Working mainly on Real time application with millions of transactions a day.\r\n\r\nA successful candidate will need to be organised, motivated and get things done. Want to work in a startup environment, doing a bit of everything and taking ownership of what he will be working on.\r\n\r\nRequired:\r\n\r\n- Experience with cloud architectures (GCP or AWS).\r\n- Experience in High availability, Scalable software architectures design and review; Comfortable both with\r\nSOAP and RestFul APIs integration architectures;\r\n- Good knowledge of Agile SCRUM processes and Test Driven Development\r\n- Deep knowledge of OOP paradigms and patterns with particular focus on SOLID development approach;\r\n- Experience with RDBMS ecosystems and NoSql databases\r\n\r\nNice to have:\r\n\r\nExperience using some of the following programming languages:\r\n\r\n- Scala, Python, Kotlin, C#, C++, Swift, Javascript/Typescript\r\n- Experience managing big data both off-line and in streaming using Apache Hadoop, Apache Spark, Apache Hive and also applied using also cloud technologies (GCP BigQuery, GCP DataFlow, GCP BigTable, etc);\r\nExperience with Python stack for Data Science (eg. Pandas, Matplotlib, Scikit-learn, Numpy, etc)",
+      "descriptionHtml": "<p>We are looking for a Golang Engineer who specialises in real time applications and has a passion for building great products with solid engineering practices using the latest technologies.</p>\n\n<p>You would also be working on technical tasks to improve our backend application architecture for performance, scalability and robustness while making use of the latest technologies, reducing complexity and making development easier. Working mainly on Real time application with millions of transactions a day.</p>\n\n<p>A successful candidate will need to be organised, motivated and get things done. Want to work in a startup environment, doing a bit of everything and taking ownership of what he will be working on.</p>\n\n<p>Required:</p>\n\n<ul>\n<li>Experience with cloud architectures (GCP or AWS).</li>\n<li>Experience in High availability, Scalable software architectures design and review; Comfortable both with\nSOAP and RestFul APIs integration architectures;</li>\n<li>Good knowledge of Agile SCRUM processes and Test Driven Development</li>\n<li>Deep knowledge of OOP paradigms and patterns with particular focus on SOLID development approach;</li>\n<li>Experience with RDBMS ecosystems and NoSql databases</li>\n</ul>\n\n<p>Nice to have:</p>\n\n<p>Experience using some of the following programming languages:</p>\n\n<ul>\n<li>Scala, Python, Kotlin, C#, C++, Swift, Javascript/Typescript</li>\n<li>Experience managing big data both off-line and in streaming using Apache Hadoop, Apache Spark, Apache Hive and also applied using also cloud technologies (GCP BigQuery, GCP DataFlow, GCP BigTable, etc);\nExperience with Python stack for Data Science (eg. Pandas, Matplotlib, Scikit-learn, Numpy, etc)</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Go (Golang)",
+        "Python/Golang"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Founder",
+        "url": "https://angel.co/u/mimihammad",
+        "name": "Mimi Hammad ",
+        "avatar": "https://photos.angel.co/users/7882262-medium_jpg?1586881570"
+      },
+      "refs": {
+        "angelListId": "775236",
+        "angelListUrl": "https://angel.co/company/z1nc/jobs/775236-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Java Engineer",
+      "description": "We are looking for a Senior Java Engineer who specialises in real time applications and has a passion for building great products with solid engineering practices using the latest technologies.\r\n\r\nYou would also be working on technical tasks to improve our backend application architecture for performance, scalability and robustness while making use of the latest technologies, reducing complexity and making development easier. Working mainly on Real time application with millions of transactions a day.\r\n\r\nA successful candidate will need to be organised, motivated and get things done. Want to work in a startup environment, doing a bit of everything and taking ownership of what he will be working on.\r\n\r\nRequired:\r\n\r\n- Experience with cloud architectures (GCP or AWS).\r\n- Experience in High availability, Scalable software architectures design and review;\r\n- Comfortable both with SOAP and RestFul APIs integration architectures;\r\n- Good knowledge of Agile SCRUM processes and Test Driven Development\r\n-  Deep knowledge of OOP paradigms and patterns with particular focus on SOLID development approach;\r\n- Experience with enterprise application servers (J2EE and J2SE)\r\n- Experience with Spring Framework\r\n- Experience with RDBMS ecosystems and NoSql databases\r\n\r\nNice to have:\r\n\r\nExperience using some of the following programming languages:\r\n\r\n- Scala, Python, Kotlin, C#, C++, Swift, Javascript/Typescript\r\n- Experience managing big data both off-line and in streaming using Apache Hadoop, Apache Spark, Apache Hive and also applied using also cloud technologies (GCP BigQuery, GCP DataFlow, GCP BigTable, etc);\r\n-  Experience with Python stack for Data Science (eg. Pandas, Matplotlib, Scikit-learn, Numpy, etc)",
+      "descriptionHtml": "<p>We are looking for a Senior Java Engineer who specialises in real time applications and has a passion for building great products with solid engineering practices using the latest technologies.</p>\n\n<p>You would also be working on technical tasks to improve our backend application architecture for performance, scalability and robustness while making use of the latest technologies, reducing complexity and making development easier. Working mainly on Real time application with millions of transactions a day.</p>\n\n<p>A successful candidate will need to be organised, motivated and get things done. Want to work in a startup environment, doing a bit of everything and taking ownership of what he will be working on.</p>\n\n<p>Required:</p>\n\n<ul>\n<li>Experience with cloud architectures (GCP or AWS).</li>\n<li>Experience in High availability, Scalable software architectures design and review;</li>\n<li>Comfortable both with SOAP and RestFul APIs integration architectures;</li>\n<li>Good knowledge of Agile SCRUM processes and Test Driven Development</li>\n<li> Deep knowledge of OOP paradigms and patterns with particular focus on SOLID development approach;</li>\n<li>Experience with enterprise application servers (J2EE and J2SE)</li>\n<li>Experience with Spring Framework</li>\n<li>Experience with RDBMS ecosystems and NoSql databases</li>\n</ul>\n\n<p>Nice to have:</p>\n\n<p>Experience using some of the following programming languages:</p>\n\n<ul>\n<li>Scala, Python, Kotlin, C#, C++, Swift, Javascript/Typescript</li>\n<li>Experience managing big data both off-line and in streaming using Apache Hadoop, Apache Spark, Apache Hive and also applied using also cloud technologies (GCP BigQuery, GCP DataFlow, GCP BigTable, etc);</li>\n<li> Experience with Python stack for Data Science (eg. Pandas, Matplotlib, Scikit-learn, Numpy, etc)</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "Cloud Computing",
+        "AWS"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Founder",
+        "url": "https://angel.co/u/mimihammad",
+        "name": "Mimi Hammad ",
+        "avatar": "https://photos.angel.co/users/7882262-medium_jpg?1586881570"
+      },
+      "refs": {
+        "angelListId": "775231",
+        "angelListUrl": "https://angel.co/company/z1nc/jobs/775231-"
+      }
+    }
+  ]
+}

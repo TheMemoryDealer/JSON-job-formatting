@@ -1,0 +1,99 @@
+{
+  "name": "Hourly",
+  "avatar": "https://photos.angel.co/startups/i/6549155-71ea9c8ad0e2282e46883101fa03ec67-medium_jpg.jpg?buster=1553170903",
+  "slogan": "",
+  "description": "Talk is cheap, wait and see.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.hourlyapp.co"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://www.twitter.com/hourly_app"
+    },
+    {
+      "type": "facebook",
+      "url": "http://www.facebook.com/hourly"
+    },
+    {
+      "type": "linkedIn",
+      "url": "http://www.linkedin.com/company/hourly/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Advertising",
+    "Digital Marketing"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/joshua-smith-40",
+      "name": "Joshua Smith",
+      "avatar": "https://photos.angel.co/users/3306351-medium_jpg?1564660624",
+      "bioHtml": "Founder of Hourly, SweatQuity and RMS (Exited)\n\nbusiness models, coding, PM, operations\n\nExperience within AdTech, FinTech, Gaming, FashionTech, Supply Chain."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6549155",
+    "angelListUrl": "https://angel.co/company/hourly-2"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Tech Lead - Co-Founder",
+      "description": "We're currently hiring as part of our seed funding round for a tech lead to join our team as a our sole in-house engineer. As a result we are looking for someone with experience across the entire development cycle from architecture and design to hands-on development and deployment to AWS. You will also be comfortable with AWS and basic security applications.\n\nYou will be confident with our tech stack (React, Node, limited Python, MongoDB, AWS, Docker, Jenkins and GraphQL.)\n\nWe built our product with a team of 5 Software engineers and one DevOps Engineer who have worked part time. Some of these engineers will be able to stay on and provide ad-hoc or full time support in the future but we are ideally looking for someone who can come in and command our entire tech stack, taking ownership over the product- enabling you to fix bugs, develop new features and improve the efficiency of our product.\n\nIn terms of the person we're looking for: \n\n- You could be a CompSci graduate from a top university.\n\n- You could be an experienced engineer who wants to join a startup at an early stage (But with less risk since we've built our first release/can pay a salary).\n\nAnd in all honesty, we don't mind if you have 20 years or 2 years experience. We care more about how much you're willing to put in to this as a Co-Founder and how much you're willing to learn. A growth mindset and passion for our business means more to us than having worked/interned at Google. \n\nIn return we will always conduct ethical business, building a great product that helps everyday people, businesses and the world around us. Our culture will put people first and listen to you always. \n\n- Remote 2-3 days a week\n- Flexible Hours\n- Pension\n- Kick ass people/product\n- Equity",
+      "descriptionHtml": "<p>We&#39;re currently hiring as part of our seed funding round for a tech lead to join our team as a our sole in-house engineer. As a result we are looking for someone with experience across the entire development cycle from architecture and design to hands-on development and deployment to AWS. You will also be comfortable with AWS and basic security applications.</p>\n\n<p>You will be confident with our tech stack (React, Node, limited Python, MongoDB, AWS, Docker, Jenkins and GraphQL.)</p>\n\n<p>We built our product with a team of 5 Software engineers and one DevOps Engineer who have worked part time. Some of these engineers will be able to stay on and provide ad-hoc or full time support in the future but we are ideally looking for someone who can come in and command our entire tech stack, taking ownership over the product- enabling you to fix bugs, develop new features and improve the efficiency of our product.</p>\n\n<p>In terms of the person we&#39;re looking for: </p>\n\n<ul>\n<li><p>You could be a CompSci graduate from a top university.</p></li>\n<li><p>You could be an experienced engineer who wants to join a startup at an early stage (But with less risk since we&#39;ve built our first release/can pay a salary).</p></li>\n</ul>\n\n<p>And in all honesty, we don&#39;t mind if you have 20 years or 2 years experience. We care more about how much you&#39;re willing to put in to this as a Co-Founder and how much you&#39;re willing to learn. A growth mindset and passion for our business means more to us than having worked/interned at Google. </p>\n\n<p>In return we will always conduct ethical business, building a great product that helps everyday people, businesses and the world around us. Our culture will put people first and listen to you always. </p>\n\n<ul>\n<li>Remote 2-3 days a week</li>\n<li>Flexible Hours</li>\n<li>Pension</li>\n<li>Kick ass people/product</li>\n<li>Equity</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Node.js",
+        "Docker",
+        "React.js",
+        "AWS"
+      ],
+      "payment": {
+        "salary": "£30k – £45k",
+        "equity": "1.0% – 3.5%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/joshua-smith-40",
+        "name": "Joshua Smith",
+        "avatar": "https://photos.angel.co/users/3306351-medium_jpg?1564660624"
+      },
+      "refs": {
+        "angelListId": "718356",
+        "angelListUrl": "https://angel.co/company/hourly-2/jobs/718356-"
+      },
+      "postedAt": 1589658718356
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Fortu",
+  "avatar": "https://photos.angel.co/startups/i/7010579-fea9c539346b70490311bfe254eb7a51-medium_jpg.jpg?buster=1560786102",
+  "slogan": "",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": ""
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Fin Tech",
+    "Wealth Management",
+    "Banking"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/azamatsultanov",
+      "name": "Azamat Sultanov",
+      "avatar": "https://photos.angel.co/users/2233092-medium_jpg?1462981985",
+      "bioHtml": "dynamic entrepreneur open for a new challenge"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7010579",
+    "angelListUrl": "https://angel.co/company/fortu"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Developer/CTO",
+      "description": "Fortu is a fintech project developed by asset managers with over 10 years of experience in private banking, with extensive knowledge and experience in compliance and risk mitigation, insight in issues of banking sector and regulatory trends and a strong UHNWI client base. Following years of work in banking industry a niche to serve EU companies with non EU based beneficiaries, has been identified. We created an idea of an e-wallet solution, in compliance with the regulatory requirements, assigning individual approach to each client and account to mitigate risk and allow clients to run day to day payments to run their business.\n\nWe are looking for CTO/Senior Developer to provide strong technical leadership in developing our idea into a sound product. You will communicate with all the stakeholders and partners to ensure our product is working for everyone’s benefit.\n\nWe are based in London's biggest Fintech Hub - Level39\n\nResponsibilities/Duties\n\nEstablish the project’s technical vision and leads all aspects of the project’s technological development\nDiscover and implement new technologies that yield competitive advantage\nSupervise system infrastructure to ensure functionality and efficiency\nBuild quality assurance and data protection processes\nUse stakeholders’ feedback to inform necessary improvements and adjustments to technology\nCommunicate technology strategy to partners and investors\nEnsure technical architecture of finance team is consistent with roadmap/principles\nWe are looking for\n\nCandidate with experience in FinTech\nHands on senior core developer/engineer to lead the Core Banking platform\nIdeal candidate will have system architecture experience in a financial services domain and will have worked in a start-up environment\nExperience building scalable systems\nKnowledge of Go and Python language\nCloud computing\nAbilities\n\nAbility to think and act strategically and proactively\nKnowledge of fintech trends to build strategy\nAbility to conduct technological analyses and research\nLeadership and organizational abilities\nStrategic thinking\nProblem-solving aptitude\nJob Type: Full-time\n\nJob Type: Full-time",
+      "descriptionHtml": "<p>Fortu is a fintech project developed by asset managers with over 10 years of experience in private banking, with extensive knowledge and experience in compliance and risk mitigation, insight in issues of banking sector and regulatory trends and a strong UHNWI client base. Following years of work in banking industry a niche to serve EU companies with non EU based beneficiaries, has been identified. We created an idea of an e-wallet solution, in compliance with the regulatory requirements, assigning individual approach to each client and account to mitigate risk and allow clients to run day to day payments to run their business.</p>\n\n<p>We are looking for CTO/Senior Developer to provide strong technical leadership in developing our idea into a sound product. You will communicate with all the stakeholders and partners to ensure our product is working for everyone’s benefit.</p>\n\n<p>We are based in London&#39;s biggest Fintech Hub - Level39</p>\n\n<p>Responsibilities/Duties</p>\n\n<p>Establish the project’s technical vision and leads all aspects of the project’s technological development<br>\nDiscover and implement new technologies that yield competitive advantage<br>\nSupervise system infrastructure to ensure functionality and efficiency<br>\nBuild quality assurance and data protection processes<br>\nUse stakeholders’ feedback to inform necessary improvements and adjustments to technology<br>\nCommunicate technology strategy to partners and investors<br>\nEnsure technical architecture of finance team is consistent with roadmap/principles<br>\nWe are looking for</p>\n\n<p>Candidate with experience in FinTech<br>\nHands on senior core developer/engineer to lead the Core Banking platform<br>\nIdeal candidate will have system architecture experience in a financial services domain and will have worked in a start-up environment<br>\nExperience building scalable systems<br>\nKnowledge of Go and Python language<br>\nCloud computing<br>\nAbilities</p>\n\n<p>Ability to think and act strategically and proactively<br>\nKnowledge of fintech trends to build strategy<br>\nAbility to conduct technological analyses and research<br>\nLeadership and organizational abilities<br>\nStrategic thinking<br>\nProblem-solving aptitude<br>\nJob Type: Full-time</p>\n\n<p>Job Type: Full-time</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "FinTech"
+      ],
+      "payment": {
+        "salary": "£40k – £55k",
+        "equity": "1.0% – 4.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/azamatsultanov",
+        "name": "Azamat Sultanov",
+        "avatar": "https://photos.angel.co/users/2233092-medium_jpg?1462981985"
+      },
+      "refs": {
+        "angelListId": "574370",
+        "angelListUrl": "https://angel.co/company/fortu/jobs/574370-"
+      }
+    }
+  ]
+}

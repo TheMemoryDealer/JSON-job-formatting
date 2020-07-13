@@ -1,0 +1,98 @@
+{
+  "name": "Captur",
+  "avatar": "https://photos.angel.co/startups/i/7004245-bdc7440d209ffee9d5a93ff6c5ec5688-medium_jpg.jpg?buster=1588321366",
+  "slogan": "We make filling out inspection reports as simple as taking a photo",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.capturphotos.com/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/28863374/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Software",
+    "Logistics",
+    "Mobility",
+    "Computer Vision"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/charlotte-bax",
+      "name": "Charlotte Bax",
+      "avatar": "https://photos.angel.co/users/1214977-medium_jpg?1560435736",
+      "bioHtml": "Founder and CEO of Captur // London Business School MBA "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7004245",
+    "angelListUrl": "https://angel.co/company/captur"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full-Stack Developer",
+      "description": "Imagine capturing all the information you need, by simply taking a photo.\r\n\r\nCaptur is a computer vision end-to-end platform that enables fast, high quality damage inspections. We will become the must-have solution for teams who take photo evidence, starting with vehicle inspections, by turning images into the ground truth. We have big plans to transform an outdated process with machine learning - and this is the perfect time, as the need to document work remotely has never been higher. \r\n\r\nThis spring we were accepted into the [Google for Startup UK Residency Program](https://twitter.com/GoogleStartupUK) as a rising early-stage, female-founded startup and are now growing our team. We are looking for an ambitious **Full-Stack Developer** to help us build the core features of the Captur platform. To be successful in this role you must be a quick learner, enjoy solving hard problems, and excel at writing highly maintainable code in a small, cross-functional team setting. We value a thoughtful approach to decision making; knowing when to move fast and when to do things right\r\n\r\n**What will you be doing?**\r\n\r\n* Design and architect the Captur platform, focusing not only on performance and scalability, but also on crafting a beautiful user experience.\r\n* Work at all levels of the stack, from GCP+Node.JS to React+HTML+CSS.\r\n* Work with founders to define product roadmap and iterate rapidly with users\r\n* Define internal engineering standards, tooling and processes\r\n\r\n**What skills and experience do you need?**\r\n* 2+ years experience as a full-stack software engineer\r\n* React, NodeJS, TypeScript\r\n* Firebase and GCP\r\n* Building and deploying progressive web apps\r\n* Designing and building APIs\r\n* Excited to work with computer vision technology and committed to building the best possible user experience\r\n\r\n**What can you expect?**\r\n* If successful in this role, we will convert the position to full-time with great equity upside!\r\n* Work directly with the founders, with the expectation that you will have a high impact on our core product\r\n* Learn how to build ML products and capture and cleanse data for ML models\r\n* Learning, development, and mentorship opportunities from our network of computer vision experts",
+      "descriptionHtml": "<p>Imagine capturing all the information you need, by simply taking a photo.</p>\n\n<p>Captur is a computer vision end-to-end platform that enables fast, high quality damage inspections. We will become the must-have solution for teams who take photo evidence, starting with vehicle inspections, by turning images into the ground truth. We have big plans to transform an outdated process with machine learning - and this is the perfect time, as the need to document work remotely has never been higher. </p>\n\n<p>This spring we were accepted into the <a href=\"https://twitter.com/GoogleStartupUK\" target=\"_blank\" rel=\"nofollow\">Google for Startup UK Residency Program</a> as a rising early-stage, female-founded startup and are now growing our team. We are looking for an ambitious <strong>Full-Stack Developer</strong> to help us build the core features of the Captur platform. To be successful in this role you must be a quick learner, enjoy solving hard problems, and excel at writing highly maintainable code in a small, cross-functional team setting. We value a thoughtful approach to decision making; knowing when to move fast and when to do things right</p>\n\n<p><strong>What will you be doing?</strong></p>\n\n<ul>\n<li>Design and architect the Captur platform, focusing not only on performance and scalability, but also on crafting a beautiful user experience.</li>\n<li>Work at all levels of the stack, from GCP+Node.JS to React+HTML+CSS.</li>\n<li>Work with founders to define product roadmap and iterate rapidly with users</li>\n<li>Define internal engineering standards, tooling and processes</li>\n</ul>\n\n<p><strong>What skills and experience do you need?</strong></p>\n\n<ul>\n<li>2+ years experience as a full-stack software engineer</li>\n<li>React, NodeJS, TypeScript</li>\n<li>Firebase and GCP</li>\n<li>Building and deploying progressive web apps</li>\n<li>Designing and building APIs</li>\n<li>Excited to work with computer vision technology and committed to building the best possible user experience</li>\n</ul>\n\n<p><strong>What can you expect?</strong></p>\n\n<ul>\n<li>If successful in this role, we will convert the position to full-time with great equity upside!</li>\n<li>Work directly with the founders, with the expectation that you will have a high impact on our core product</li>\n<li>Learn how to build ML products and capture and cleanse data for ML models</li>\n<li>Learning, development, and mentorship opportunities from our network of computer vision experts</li>\n</ul>\n",
+      "position": "contract",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "TypeScript",
+        "AWS",
+        "Full-Stack Web Development (Node/Redux/React)",
+        "Progressive Web Applications",
+        "GCP"
+      ],
+      "payment": {
+        "salary": "£35k – £50k"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/charlotte-bax",
+        "name": "Charlotte Bax",
+        "avatar": "https://photos.angel.co/users/1214977-medium_jpg?1560435736"
+      },
+      "refs": {
+        "angelListId": "808233",
+        "angelListUrl": "https://angel.co/company/captur/jobs/808233-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "name": "MarHub",
+  "avatar": "https://photos.angel.co/startups/i/4716210-824b85da564ace4598632dc4388f1a8b-medium_jpg.jpg?buster=1530014443",
+  "slogan": "A chatbot that helps refugees navigate resettlement and connect with legal aid",
+  "description": "Marhub is developing a migration management platform that seeks to change the way refugees access,and NGOs provide information and services in chronic and emerging humanitarian crises. Leveraging a chatbot on Facebook messenger and Telegram, Marhub enables refugees to navigate resources and seek help on their own terms--in their own languages, on their preferred platforms, and on their own time. As a proof of concept, Marhub has partnered with a legal aid NGO to connect refugees with tailored resettlement information and legal assistance, and to streamline the organization’s screening and triage processes. In addition to expanding access to legal aid for vulnerable refugees and establishing a mobile communication channel for NGO partners, Marhub builds capacity for high-performing, under-resourced organizations and helps improve resource allocation for humanitarian assistance.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://marhubinternational.org"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/marhub_co"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/marhub.co/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/marhubco/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "Berkeley",
+    "London",
+    "Hong Kong",
+    "Beirut",
+    "Oakland"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Chat",
+    "Information Services",
+    "Humanitarian"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/peter-wasserman-2",
+      "name": "Peter Wasserman",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/sarrah-nomanbhoy",
+      "name": "Sarrah Nomanbhoy",
+      "avatar": "https://photos.angel.co/users/6980315-medium_jpg?1530009155",
+      "bioHtml": ""
+    },
+    {
+      "title": "Data Analyst Intern",
+      "role": "Employee",
+      "url": "https://angel.co/u/xiaoxiang-ma",
+      "name": "Xiaoxiang Ma",
+      "avatar": "https://photos.angel.co/users/9081829-medium_jpg?1572551931",
+      "bioHtml": "Student at Cornell University pursuing a career around data science and has experience in dealing with large financial datasets and training predictive models."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/jose-antonio-moreno-2",
+      "name": "Jose Antonio Moreno",
+      "avatar": "https://photos.angel.co/users/7532739-medium_jpg?1519327448",
+      "bioHtml": "Worked at ING Bank, Citris (Uc Berkeley) Advanced experienced coding in Javascript. I have worked in the backend and like Scrum master as well."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/peter-80",
+      "name": "Peter ",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4716210",
+    "angelListUrl": "https://angel.co/company/marhub-1"
+  },
+  "jobs": []
+}

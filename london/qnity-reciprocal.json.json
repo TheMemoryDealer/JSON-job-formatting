@@ -1,0 +1,104 @@
+{
+  "name": "Qnity Reciprocal",
+  "avatar": "https://photos.angel.co/startups/i/6065183-e9e7f8f0a44ba4990964669c0dc544b4-medium_jpg.jpg?buster=1546826025",
+  "slogan": "Intelligent P2P insurance management platform used by local brokers",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://qnityre.com/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/qnityre"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/qnityre"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/diego-rios",
+      "name": "Diego Rios",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "COO at <a href=\"https://angel.co/company/the-influence\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">The Influence</span></a>. Strong business background (Dimagi, MFIC, Chamba)"
+    },
+    {
+      "title": "CPO",
+      "role": "Founder",
+      "url": "https://angel.co/u/gregor-fabjan",
+      "name": "Gregor Fabjan",
+      "avatar": "https://photos.angel.co/users/8121965-medium_jpg?1546822854",
+      "bioHtml": "Chief Product Officer at Qnity"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/drios",
+      "name": "Diego Rios",
+      "avatar": "https://photos.angel.co/users/7563667-medium_jpg?1519905280",
+      "bioHtml": "I love what I do for a living. I see risk management as the adviser that has intimate understanding of what makes a company tick, her systems, actors and..."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6065183",
+    "angelListUrl": "https://angel.co/company/qnity-reciprocal"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "CTO",
+      "description": "Stage:\nQnity is an early stage insurtech startup.\n\nWhat we do:\nWe aim to empower the end customer (policyholders) as well as intermediaries (brokers) to build insurance products that fit their needs that are organized in cliques (we call them Qliks) \nAt the same time we dynamically match Qliks with insurance and reinsurance companies to have achieve the best prices and conditions.\n\nWhat we are doing:\nWe are very excited about our concept, even more as we've recently have been selected to be part for Lloyd's of London first-ever innovation cohort.\nWithin the Lloyd’s program we aim to produce the following:\nA platform interface for insurance product design, and\nAn matching script that dynamically matches supply (reinsurance) and demand (Qlik)\nBoth outputs are meant to be an alpha-version to collect input from prototype testers to be agreed with Lloyd's\nThis is meant to be the beginning of a very ambitious development route which, with your help.\n\nWhat we plan to use:\nA mix of Java, Javascript, Python, R, PHP among others\nH20 & Tensorflow\nExisting open source code\n\nWho you are:\nA mix of programmer and architect; a plus if you have good UX skills.\n\nOpportunity and Compensation:\nWe have done some lifting already and have managed to be endorsed by the world’s biggest insurance market - Lloyd’s of London. \nWe are in the process of approaching angels and venture funds to complement the investment option that Lloyd’s has set of itself.\nCompensation is equity, based on experience and an annual salary to be discussed once we obtain the funding targets.\nYou also have the opportunity to influence shaping the company. \nYou will be the third employee and heavily weigh in the technological aspect of the business.\n\n\n\nWhat to Do & Time Frame:\nEmail your resume, any links to projects you've worked on and any relevant information at diego.rios@qnityre.com  \nWe are moving quickly on this and plan to assess competent candidates within the following weeks. \nIdeally you're a hungry entrepreneur at heart that will join us. However, we know that sometimes that is not necessarily possible, so be sure to let us know what your schedule is like and how much time can you feasible dedicate to our project.. \n\nOther:\nThe Lloyd's Lab program runs 8 weeks, from 8 Oct - 12 Dec. As part of the program, we will have access to desks at Lloyd's, mentorship by at least one Lloyd's member, access to the syndicates, and some goodies that Lloyd's Lab has negotiated (e.g. 10K in AWS credits).\nAlso, there is an option for Lloyd's to invest at the end of the program.",
+      "descriptionHtml": "<p>Stage:<br>\nQnity is an early stage insurtech startup.</p>\n\n<p>What we do:<br>\nWe aim to empower the end customer (policyholders) as well as intermediaries (brokers) to build insurance products that fit their needs that are organized in cliques (we call them Qliks) <br>\nAt the same time we dynamically match Qliks with insurance and reinsurance companies to have achieve the best prices and conditions.</p>\n\n<p>What we are doing:<br>\nWe are very excited about our concept, even more as we&#39;ve recently have been selected to be part for Lloyd&#39;s of London first-ever innovation cohort.<br>\nWithin the Lloyd’s program we aim to produce the following:<br>\nA platform interface for insurance product design, and<br>\nAn matching script that dynamically matches supply (reinsurance) and demand (Qlik)<br>\nBoth outputs are meant to be an alpha-version to collect input from prototype testers to be agreed with Lloyd&#39;s<br>\nThis is meant to be the beginning of a very ambitious development route which, with your help.</p>\n\n<p>What we plan to use:<br>\nA mix of Java, Javascript, Python, R, PHP among others<br>\nH20 &amp; Tensorflow<br>\nExisting open source code</p>\n\n<p>Who you are:<br>\nA mix of programmer and architect; a plus if you have good UX skills.</p>\n\n<p>Opportunity and Compensation:<br>\nWe have done some lifting already and have managed to be endorsed by the world’s biggest insurance market - Lloyd’s of London. <br>\nWe are in the process of approaching angels and venture funds to complement the investment option that Lloyd’s has set of itself.<br>\nCompensation is equity, based on experience and an annual salary to be discussed once we obtain the funding targets.<br>\nYou also have the opportunity to influence shaping the company. <br>\nYou will be the third employee and heavily weigh in the technological aspect of the business.</p>\n\n<p>What to Do &amp; Time Frame:<br>\nEmail your resume, any links to projects you&#39;ve worked on and any relevant information at <a href=\"mailto:diego.rios@qnityre.com\" target=\"_blank\" rel=\"nofollow\">diego.rios@qnityre.com</a><br><br>\nWe are moving quickly on this and plan to assess competent candidates within the following weeks. <br>\nIdeally you&#39;re a hungry entrepreneur at heart that will join us. However, we know that sometimes that is not necessarily possible, so be sure to let us know what your schedule is like and how much time can you feasible dedicate to our project.. </p>\n\n<p>Other:<br>\nThe Lloyd&#39;s Lab program runs 8 weeks, from 8 Oct - 12 Dec. As part of the program, we will have access to desks at Lloyd&#39;s, mentorship by at least one Lloyd&#39;s member, access to the syndicates, and some goodies that Lloyd&#39;s Lab has negotiated (e.g. 10K in AWS credits).<br>\nAlso, there is an option for Lloyd&#39;s to invest at the end of the program.</p>\n",
+      "position": "cofounder",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£1k – £2k",
+        "equity": "2.0% – 12.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/drios",
+        "name": "Diego Rios",
+        "avatar": "https://photos.angel.co/users/7563667-medium_jpg?1519905280"
+      },
+      "refs": {
+        "angelListId": "429840",
+        "angelListUrl": "https://angel.co/company/qnity-reciprocal/jobs/429840-"
+      }
+    }
+  ]
+}

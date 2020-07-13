@@ -1,0 +1,129 @@
+{
+  "name": "Seldon",
+  "avatar": "https://photos.angel.co/startups/i/98204-fc8c587554870b24039fd2a8630d8f48-medium_jpg.jpg?buster=1533683043",
+  "slogan": "Machine Learning Deployment Platform",
+  "description": "Organisations are looking towards machine learning to help them build a one-to-one relationship with customers and make better decisions. But data scientists are in short supply, and developing machine learning in-house is expensive and time-consuming.\n\nSeldon is the open-source machine learning platform for enterprise-grade recommendations and predictive analytics. Its end-to-end solution includes proven algorithms, industry models, and a pluggable microservices architecture. Seldon is platform-agnostic with no vendor lock-in. You keep full ownership and control of your data on-premise or in the cloud.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.seldon.io"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/seldon_io"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/seldonhq"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/rummble-labs"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Machine Learning",
+    "Open Source",
+    "Artificial Intelligence",
+    "Predictive Analytics"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/clive-cox",
+      "name": "Clive Cox",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/ahousley",
+      "name": "Alex Housley",
+      "avatar": "https://photos.angel.co/users/79230-medium_jpg?1520179201",
+      "bioHtml": "Founder &amp; CEO of Seldon - machine learning deployment platform. Helping people predict and shape the future. Barclays Techstars &#39;16."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/inga-veidmane",
+      "name": "Inga Veidmane ",
+      "avatar": "https://photos.angel.co/users/6839682-medium_jpg?1503670657",
+      "bioHtml": "Operations Manager at Seldon"
+    },
+    {
+      "title": "Commercial Lead",
+      "role": "Employee",
+      "url": "https://angel.co/u/lee-baker-2",
+      "name": "Lee Baker",
+      "avatar": "https://photos.angel.co/users/2239498-medium_jpg?1464478454",
+      "bioHtml": "Seldon Commercial Guy - Helping people solve problems through machine intelligence. Launched AOP Association of Online Publishers. Founded The First Space."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/gurminder-sunner",
+      "name": "Gurminder Sunner",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "98204",
+    "angelListUrl": "https://angel.co/company/seldon"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Technical Product Manager",
+      "description": "Seldon is looking for a Technical Product Manager to join us. We are focused on making it easy for machine learning models to be deployed and managed at scale in production. We provide Cloud Native products that run on top of Kubernetes and are open-core with several successful open source projects including Seldon Core and Alibi. We also contribute to open source projects under the Kubeflow umbrella including KFServing.\n \nYour role at Seldon would be:\nIteratively improving and updating the product strategy for our kubernetes machine learning Open Core and Open Source platforms and products\nWorking closely with the Engineering and Data Science functions to gather and prioritise technical and non-technical features\nWorking with the technical and commercial team to manage client projects and gather insights from the technical and non-technical users of our products\n\nRequired skills:\nExperience setting and iterating on the product strategy of highly technical and/or infrastructure related projects\n\n \nDesired skills:\nA degree or higher level academic background in a scientific or engineering subject.\nExperience managing projects in Kubernetes and the ecosystem of Cloud Native tools.\nExperience managing projects that use machine learning tools in production.\n\n\nBenefits:\nShare options to align you with the long-term success of the company.\nExciting phase of fast-paced start-up challenges with an ambitious team and unlimited potential for professional growth.\nAccess to discounted lunches, gyms, shopping and cinema tickets.\nHealthcare benefits.",
+      "descriptionHtml": "<p>Seldon is looking for a Technical Product Manager to join us. We are focused on making it easy for machine learning models to be deployed and managed at scale in production. We provide Cloud Native products that run on top of Kubernetes and are open-core with several successful open source projects including Seldon Core and Alibi. We also contribute to open source projects under the Kubeflow umbrella including KFServing.</p>\n\n<p>Your role at Seldon would be:<br>\nIteratively improving and updating the product strategy for our kubernetes machine learning Open Core and Open Source platforms and products<br>\nWorking closely with the Engineering and Data Science functions to gather and prioritise technical and non-technical features<br>\nWorking with the technical and commercial team to manage client projects and gather insights from the technical and non-technical users of our products</p>\n\n<p>Required skills:<br>\nExperience setting and iterating on the product strategy of highly technical and/or infrastructure related projects</p>\n\n<p>Desired skills:<br>\nA degree or higher level academic background in a scientific or engineering subject.<br>\nExperience managing projects in Kubernetes and the ecosystem of Cloud Native tools.<br>\nExperience managing projects that use machine learning tools in production.</p>\n\n<p>Benefits:<br>\nShare options to align you with the long-term success of the company.<br>\nExciting phase of fast-paced start-up challenges with an ambitious team and unlimited potential for professional growth.<br>\nAccess to discounted lunches, gyms, shopping and cinema tickets.<br>\nHealthcare benefits.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "United Kingdom"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Machine Learning",
+        "Product Management",
+        "Engineering"
+      ],
+      "payment": {
+        "salary": "£40k – £50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/inga-veidmane",
+        "name": "Inga Veidmane ",
+        "avatar": "https://photos.angel.co/users/6839682-medium_jpg?1503670657"
+      },
+      "refs": {
+        "angelListId": "712115",
+        "angelListUrl": "https://angel.co/company/seldon/jobs/712115-"
+      }
+    }
+  ]
+}

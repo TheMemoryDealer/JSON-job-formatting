@@ -1,0 +1,90 @@
+{
+  "name": "Strat Bannstein",
+  "avatar": "https://photos.angel.co/startups/i/6968013-986d1c8dcdfeccc967fb6842b3db5c2b-medium_jpg.jpg?buster=1558867035",
+  "slogan": "High class plagiarism check sofftware",
+  "description": "Plagiarism checker for premium users. European standard of data safety. Automatic deletion of uploaded and checked papers. No passwords needed. New attitude toward customers",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://plagiarismchecker.eu"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Universities",
+    "University Students"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/jeron-vinc",
+      "name": "Jeron Vinc",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6968013",
+    "angelListUrl": "https://angel.co/company/strat-bannstein"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Developer",
+      "description": "",
+      "descriptionHtml": "",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "€1k – €3k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/jeron-vinc",
+        "name": "Jeron Vinc",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "561965",
+        "angelListUrl": "https://angel.co/company/strat-bannstein/jobs/561965-"
+      }
+    }
+  ]
+}

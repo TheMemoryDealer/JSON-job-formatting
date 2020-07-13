@@ -1,0 +1,100 @@
+{
+  "name": "nummy",
+  "avatar": "https://photos.angel.co/startups/i/7335572-6db1e931525aad186aa89644e45d7a02-medium_jpg.jpg?buster=1574690079",
+  "slogan": "Bringing people together through food by table-sharing",
+  "description": "nummy is a social app aimed to disrupt London's social scene by bringing together foodies through table-sharing at London's best restaurants. nummy believes that food truly brings people together and is built to be an online tool to bring people offline to share a conversation with like-minded people whilst enjoying really good food. \n\nIt allows users to create a profile with a food focus, browse through available seats at our tables at foodie hot spots, view the others that will be sharing the table and book a seat!\n\nOur vision is to start a food revolution to be the number one platform for food-based events, starting with beginning friendships by table-sharing and then expanding to maintaining friendships by allowing users to host their own events with friends. London is just the beginning and we aim to expand to other metropolitan cities!",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.nummyapp.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile Application",
+    "Food and Beverages",
+    "Food Tech",
+    "Social"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/yiran-qin-1",
+      "name": "Yiran Qin",
+      "avatar": "https://photos.angel.co/users/10299278-medium_jpg?1574690266",
+      "bioHtml": "Foodie &amp; Founder and CEO <a href=\"https://angel.co/company/nummy\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">nummy</span></a> • University of London &amp; Swiss Hotel Management School Graduate"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7335572",
+    "angelListUrl": "https://angel.co/company/nummy"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "CTO & Co-Founder",
+      "description": "nummy app has officially launched and we are looking to grow our team. We are looking for a CTO or Tech Co-Founder to come on board to continue to work on our tech solution. \n\nWe are looking for a Full-Stack Developer and someone that believes our company ethos - building an online tool to bring people offline, has a passion for food and thrives in a fast-paced work environment.",
+      "descriptionHtml": "<p>nummy app has officially launched and we are looking to grow our team. We are looking for a CTO or Tech Co-Founder to come on board to continue to work on our tech solution. </p>\n\n<p>We are looking for a Full-Stack Developer and someone that believes our company ethos - building an online tool to bring people offline, has a passion for food and thrives in a fast-paced work environment.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Mobile Development",
+        "UI/UX Design",
+        "Food & Beverage Market",
+        "Vue.Js",
+        "React Native",
+        "Backend REST APIs"
+      ],
+      "payment": {
+        "salary": "£2k – £2k",
+        "equity": "2.0% – 8.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/yiran-qin-1",
+        "name": "Yiran Qin",
+        "avatar": "https://photos.angel.co/users/10299278-medium_jpg?1574690266"
+      },
+      "refs": {
+        "angelListId": "670080",
+        "angelListUrl": "https://angel.co/company/nummy/jobs/670080-"
+      }
+    }
+  ]
+}

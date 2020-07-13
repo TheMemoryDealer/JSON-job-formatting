@@ -1,0 +1,183 @@
+{
+  "name": "ObjectBox",
+  "avatar": "https://photos.angel.co/startups/i/4392510-5e446af146d47a7b1fbb3ceff6f4e8f4-medium_jpg.jpg?buster=1510321046",
+  "slogan": "Super fast Mobile Database ",
+  "description": "ObjectBox (Techstars '17) is the first high-performance NoSQL, ACID-compliant on-device database for mobile and IoT. ObjectBox is 10x faster than SQLite. It also takes only 1/10th of Lines of Code (LOC) to implement. \n\nThe database is free for maximum adoption. On top of the database, we are building a data synchronization solution. This will be paid as a SaaS.\n\nAs we have seen from transformations on the server space (NoSQL & cloud), connected devices will trigger the next transformation towards edge computing. Since ObjectBox allows any developer to handle more data on small devices, it will become the centrepiece of this.\n\nGitHub: https://github.com/greenrobot/ObjectBox\n\nWe are also the team behind the open-source projects greenDAO (https://github.com/greenrobot/greenDAO) and EventBus (https://github.com/greenrobot/eventbus), which are used by 30% of the top-500 apps on Google Play. To give some examples: Pinterest, Booking, Snapchat are all using our libraries in their apps. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://objectbox.io"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/objectbox_io"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/11357156/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "Munich",
+    "London"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Internet of Things",
+    "Databases",
+    "SaaS"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/markus-junginger",
+      "name": "Markus Junginger",
+      "avatar": "https://photos.angel.co/users/6941620-medium_jpg?1505833019",
+      "bioHtml": "His open source runs in over 30% of top apps on Google Play. Ranked top 0.1% of all Java&amp;Android developers on GitHub."
+    },
+    {
+      "title": "CEO & Co-Founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/vivien-dollinger",
+      "name": "Vivien Dollinger",
+      "avatar": "https://photos.angel.co/users/1420460-medium_jpg?1505829451",
+      "bioHtml": "Founder ObjectBox, CEO"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/neha-rajan",
+      "name": "Neha Rajan",
+      "avatar": "https://photos.angel.co/users/8334293-medium_jpg?1542893827",
+      "bioHtml": ""
+    },
+    {
+      "title": "COO",
+      "role": "Employee",
+      "url": "https://angel.co/u/alyssa-coke",
+      "name": "Alyssa Coke",
+      "avatar": "https://photos.angel.co/users/1050396-medium_jpg?1481661014",
+      "bioHtml": "I love helping things grow."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/dorian-lovera",
+      "name": "DORIAN LOVERA",
+      "avatar": "https://photos.angel.co/users/7524776-medium_jpg?1523013729",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4392510",
+    "angelListUrl": "https://angel.co/company/objectbox"
+  },
+  "jobs": [
+    {
+      "role": "Marketing",
+      "title": "Business Development Internship - looking for autonomy and impact?",
+      "description": "About us\n\nObjectBox (Techstars ’17) is a company that helps app / IoT developers develop faster apps faster by ensuring data is where it is needed when it is needed. ObjectBox is optimized for small connected devices. Our users / customers are app / IoT developers. If you are not that technical, think of it as a Dropbox for app / IoT developers. App / IoT Developers use it within the app to ensure the app end users always have the latest data when they need it where they need it. App end users do not need to care; they simply enjoy a smooth app experience. At the core of this solution lies our mobile database, which is 10x faster than the industry leader SQLite and which only takes 1/10th of the code (LOC) to implement.\n\nWe are also the team behind the open source projects greenDAO and EventBus, which are used by 30% of the top-500 apps on Google Play. To give some examples: Pinterest, Booking, Snapchat are all using our prior libraries in their apps.\n\n \nJob role\nThis is a unique opportunity to be part of a fast-growing funded technology startup and work on the business strategy and business development. We are looking for s.o. in the last year of a Master’s degree in business administration, Multimedia or a related field. The marketing intern will collaborate with the founders and advisers (mostly remotely, based all over Europe) on all aspects of mapping the market and developing a business strategy. There’s flexibility in defining the role and lots of room to advance within the company depending on skillset, enthusiasm, and dreams. We’re still very small, so everyone is expected to do a bit of everything to keep the business humming. We are looking for someone that comes with the entrepreneurial drive to take our company to the next level together with us. The ideal candidate has extensive research experience and is an Excel / Spreadsheet guru.\n\n \nMain responsibilities\n* Work alongside the CEO on the strategy and business development as well as investor relations\n* Gather market information systematically and structure and analyze\n* Research, analyze and prepare relevant market information\n\nRequirements\n* You have a hands-on mentality combined with strong analytical skills and strategic thinking\n* You enjoy taking over responsibility and appreciate working independently\n* You have already some relevant working experience\n* You have good command of Microsoft Office (Word, Excel, PowerPoint) and Google Docs\n* You have completed your bachelor in business administration or related fields, and are ideally currently doing your Master’s degree or have already finished it.\n* You have very strong English skills\n* You have an affinity for mobile technologies, IoT, open source, or the digital industry in general\n\nNice-to-haves\n* Experience with Confluence\n* Experience in working in a startup or a SaaS company\n* SEO, Wordpress experience\n* Master’s degree, ideally in business administration or related fields\n* Writing / editorial skills; experience in content production / PR\n\nWhat’s in it for you\n* The chance to work in one of Europe’s hottest startups (see our Slush pitch: https://www.youtube.com/watch?v=D63F9euA6hE&feature=youtu.be&t=7h15m1s)\n* An easy-going and super-friendly working environment in a start-up that is growing rapidly, where you will be shaping the company together with us\n* Exciting tasks with the option to learn and grow and take over much more responsibilities as fits your skillset and personal goals\n* Flexibility in every respect: No matter if you just finished your degree or already have a family: We are flexible and looking forward to design the job conditions and contract together with you to match your needs\n* A job in one of the most creative and exciting growing industries: Mobile and IoT\n\nThis position is based in Berlin.\n\nIf this appeals to you, we are looking forward to receiving your application including references, possible starting date and salary requirement at join [at] objectbox.io",
+      "descriptionHtml": "<p>About us</p>\n\n<p>ObjectBox (Techstars ’17) is a company that helps app / IoT developers develop faster apps faster by ensuring data is where it is needed when it is needed. ObjectBox is optimized for small connected devices. Our users / customers are app / IoT developers. If you are not that technical, think of it as a Dropbox for app / IoT developers. App / IoT Developers use it within the app to ensure the app end users always have the latest data when they need it where they need it. App end users do not need to care; they simply enjoy a smooth app experience. At the core of this solution lies our mobile database, which is 10x faster than the industry leader SQLite and which only takes 1/10th of the code (LOC) to implement.</p>\n\n<p>We are also the team behind the open source projects greenDAO and EventBus, which are used by 30% of the top-500 apps on Google Play. To give some examples: Pinterest, Booking, Snapchat are all using our prior libraries in their apps.</p>\n\n<p>Job role<br>\nThis is a unique opportunity to be part of a fast-growing funded technology startup and work on the business strategy and business development. We are looking for s.o. in the last year of a Master’s degree in business administration, Multimedia or a related field. The marketing intern will collaborate with the founders and advisers (mostly remotely, based all over Europe) on all aspects of mapping the market and developing a business strategy. There’s flexibility in defining the role and lots of room to advance within the company depending on skillset, enthusiasm, and dreams. We’re still very small, so everyone is expected to do a bit of everything to keep the business humming. We are looking for someone that comes with the entrepreneurial drive to take our company to the next level together with us. The ideal candidate has extensive research experience and is an Excel / Spreadsheet guru.</p>\n\n<p>Main responsibilities</p>\n\n<ul>\n<li>Work alongside the CEO on the strategy and business development as well as investor relations</li>\n<li>Gather market information systematically and structure and analyze</li>\n<li>Research, analyze and prepare relevant market information</li>\n</ul>\n\n<p>Requirements</p>\n\n<ul>\n<li>You have a hands-on mentality combined with strong analytical skills and strategic thinking</li>\n<li>You enjoy taking over responsibility and appreciate working independently</li>\n<li>You have already some relevant working experience</li>\n<li>You have good command of Microsoft Office (Word, Excel, PowerPoint) and Google Docs</li>\n<li>You have completed your bachelor in business administration or related fields, and are ideally currently doing your Master’s degree or have already finished it.</li>\n<li>You have very strong English skills</li>\n<li>You have an affinity for mobile technologies, IoT, open source, or the digital industry in general</li>\n</ul>\n\n<p>Nice-to-haves</p>\n\n<ul>\n<li>Experience with Confluence</li>\n<li>Experience in working in a startup or a SaaS company</li>\n<li>SEO, Wordpress experience</li>\n<li>Master’s degree, ideally in business administration or related fields</li>\n<li>Writing / editorial skills; experience in content production / PR</li>\n</ul>\n\n<p>What’s in it for you</p>\n\n<ul>\n<li>The chance to work in one of Europe’s hottest startups (see our Slush pitch: <a href=\"https://www.youtube.com/watch?v=D63F9euA6hE&feature=youtu.be&t=7h15m1s\" target=\"_blank\" rel=\"nofollow\">https://www.youtube.com/watch?v=D63F9euA6hE&amp;feature=youtu.be&amp;t=7h15m1s</a>)</li>\n<li>An easy-going and super-friendly working environment in a start-up that is growing rapidly, where you will be shaping the company together with us</li>\n<li>Exciting tasks with the option to learn and grow and take over much more responsibilities as fits your skillset and personal goals</li>\n<li>Flexibility in every respect: No matter if you just finished your degree or already have a family: We are flexible and looking forward to design the job conditions and contract together with you to match your needs</li>\n<li>A job in one of the most creative and exciting growing industries: Mobile and IoT</li>\n</ul>\n\n<p>This position is based in Berlin.</p>\n\n<p>If this appeals to you, we are looking forward to receiving your application including references, possible starting date and salary requirement at join [at] objectbox.io</p>\n",
+      "position": "internship",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "Berlin",
+        "Berlin"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Marketing",
+        "Business Development",
+        "Video",
+        "SEO",
+        "SEO/SEM",
+        "Business Strategy",
+        "Market Research",
+        "Lean Startups",
+        "User Research",
+        "Research and Development",
+        "Investor Relations",
+        "Startups",
+        "Digital Marketing",
+        "Business Analysis",
+        "Marketing Research",
+        "Research",
+        "Market Research and Analysis",
+        "Analytical skills"
+      ],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": "COO",
+        "role": "Employee",
+        "url": "https://angel.co/u/alyssa-coke",
+        "name": "Alyssa Coke",
+        "avatar": "https://photos.angel.co/users/1050396-medium_jpg?1481661014"
+      },
+      "refs": {
+        "angelListId": "364278",
+        "angelListUrl": "https://angel.co/company/objectbox/jobs/364278-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "Remote Digital Media Intern",
+      "description": "Do you love the challenge of developing your own marketing material, banners, videos, websites, … to reach set goals (e.g. website visitors, SEO rankings, clicks, conversions)? Do you love to learn how to grow a business with digital marketing? Perhaps you want to start your own company – or maybe you already have and you’re looking to learn more? The freshly funded and rapidly growing team at ObjectBox is seeking a digital marketing intern to join us remotely (due to Corona). We are looking for a dynamic, enthusiastic and innovative doer who wants to implement ideas and help grow ObjectBox in new and exciting directions. The opportunities are endless, here are some of the things you would be doing:\r\n\r\n– develop videos from storyboard to taking it live\r\n– create icons for presentations and marketing materials\r\n– create social media banners\r\n– create visualizations / graphics for the website(s), presentations and articles\r\n– develop own ideas to drive engagement on the website, social media channels, etc.\r\n– Depending on skillset: Do interviews, write articles, redesign / optimize the website, SEO\r\n– Learn to use new tools like Hubspot, Trello, GitBook, WordPress, Buffer, and many more\r\n\r\n**What You Bring**\r\n\r\nWe’re still very small, so everyone is expected to do a bit of everything to keep the business humming. We are looking for someone that comes with the entrepreneurial drive to take our company to the next level together with us. The ideal candidate has experience with blogging, SEO, website management, digital advertising, and / or managing social media accounts. Apply, if that’s you and you bring:\r\n\r\n– a high level of motivation and full of ideas\r\n– a hands-on mentality: you aren’t afraid to jump in and implement ideas yourself\r\n– Good knowledge of graphic and video tools, e.g. Photoshop, After Effects, … \r\n– Ideally good knowledge of Social Media and Website tools like WordPress, Buffer, …\r\n– Bachelor / Master student in a relevant field (Design, Multimedia, …) looking to complete the compulsory internship\r\n– Good English language skills\r\n– Track record for getting things done (just send over your portfolio or some links)\r\n\r\nLast not least, you should enjoy taking over responsibility and appreciate working independently\r\n\r\n**Nice to Haves**\r\n\r\n– Background in html / tech / code\r\n– Experience working in a startup environment\r\n– German language skills",
+      "descriptionHtml": "<p>Do you love the challenge of developing your own marketing material, banners, videos, websites, … to reach set goals (e.g. website visitors, SEO rankings, clicks, conversions)? Do you love to learn how to grow a business with digital marketing? Perhaps you want to start your own company – or maybe you already have and you’re looking to learn more? The freshly funded and rapidly growing team at ObjectBox is seeking a digital marketing intern to join us remotely (due to Corona). We are looking for a dynamic, enthusiastic and innovative doer who wants to implement ideas and help grow ObjectBox in new and exciting directions. The opportunities are endless, here are some of the things you would be doing:</p>\n\n<p>– develop videos from storyboard to taking it live<br>\n– create icons for presentations and marketing materials<br>\n– create social media banners<br>\n– create visualizations / graphics for the website(s), presentations and articles<br>\n– develop own ideas to drive engagement on the website, social media channels, etc.<br>\n– Depending on skillset: Do interviews, write articles, redesign / optimize the website, SEO<br>\n– Learn to use new tools like Hubspot, Trello, GitBook, WordPress, Buffer, and many more</p>\n\n<p><strong>What You Bring</strong></p>\n\n<p>We’re still very small, so everyone is expected to do a bit of everything to keep the business humming. We are looking for someone that comes with the entrepreneurial drive to take our company to the next level together with us. The ideal candidate has experience with blogging, SEO, website management, digital advertising, and / or managing social media accounts. Apply, if that’s you and you bring:</p>\n\n<p>– a high level of motivation and full of ideas<br>\n– a hands-on mentality: you aren’t afraid to jump in and implement ideas yourself<br>\n– Good knowledge of graphic and video tools, e.g. Photoshop, After Effects, … <br>\n– Ideally good knowledge of Social Media and Website tools like WordPress, Buffer, …<br>\n– Bachelor / Master student in a relevant field (Design, Multimedia, …) looking to complete the compulsory internship<br>\n– Good English language skills<br>\n– Track record for getting things done (just send over your portfolio or some links)</p>\n\n<p>Last not least, you should enjoy taking over responsibility and appreciate working independently</p>\n\n<p><strong>Nice to Haves</strong></p>\n\n<p>– Background in html / tech / code<br>\n– Experience working in a startup environment<br>\n– German language skills</p>\n",
+      "position": "internship",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "Europe"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe"
+      ],
+      "skills": [
+        "Web Design",
+        "Graphic Design",
+        "Video",
+        "Social Media Marketing",
+        "Web Technologies"
+      ],
+      "payment": {
+        "salary": "€0k – €12k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "COO",
+        "role": "Employee",
+        "url": "https://angel.co/u/alyssa-coke",
+        "name": "Alyssa Coke",
+        "avatar": "https://photos.angel.co/users/1050396-medium_jpg?1481661014"
+      },
+      "refs": {
+        "angelListId": "770154",
+        "angelListUrl": "https://angel.co/company/objectbox/jobs/770154-"
+      }
+    }
+  ]
+}

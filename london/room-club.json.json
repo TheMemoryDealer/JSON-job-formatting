@@ -1,0 +1,103 @@
+{
+  "name": "Room Club",
+  "avatar": "https://photos.angel.co/startups/i/6465770-d56e8eee67cdeee2287542a7f5a0858c-medium_jpg.jpg?buster=1539858646",
+  "slogan": "Easy and flexible solutions for everyone in the private rental sector",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://rooomclub.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Sales and Marketing",
+    "Rental Housing",
+    "Web Development"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/samuele-scodeggio",
+      "name": "Samuele Scodeggio",
+      "avatar": "https://photos.angel.co/users/8493054-medium_jpg?1543245220",
+      "bioHtml": "founder of Room Club, an innovative web platform that allows PBSA to achieve high occupancy and efficiency."
+    },
+    {
+      "title": "CEO & Founder",
+      "role": "Employee",
+      "url": "https://angel.co/u/samuele-scodeggio",
+      "name": "Samuele Scodeggio",
+      "avatar": "https://photos.angel.co/users/8493054-medium_jpg?1543245220",
+      "bioHtml": "founder of Room Club, an innovative web platform that allows PBSA to achieve high occupancy and efficiency."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6465770",
+    "angelListUrl": "https://angel.co/company/room-club"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Developer",
+      "description": "Working mainly on https://roomclub.com to improve both front end and back end of the website.\n\nThe full stack developer will be responsible for designing, building, and maintaining the system. \n\nThe role comes with flexible working hours and a relaxed working environment in the beautiful city of London. We offer 28 days paid holiday, paid lunch breaks and have sponsored previous employees to study professional qualifications and to attend conferences and training relevant to their work.\n\nThe ideal candidate should have:\nStructured approach to troubleshooting\nConfidence with PHP, MySQL, jQuery, HTML5, CSS3, etc\nFront end javascript development\nExperience with interfacing with search engines and web based data visualization libraries\nFull life cycle development, including design, implementation, and testing.",
+      "descriptionHtml": "<p>Working mainly on <a href=\"https://roomclub.com\" target=\"_blank\" rel=\"nofollow\">https://roomclub.com</a> to improve both front end and back end of the website.</p>\n\n<p>The full stack developer will be responsible for designing, building, and maintaining the system. </p>\n\n<p>The role comes with flexible working hours and a relaxed working environment in the beautiful city of London. We offer 28 days paid holiday, paid lunch breaks and have sponsored previous employees to study professional qualifications and to attend conferences and training relevant to their work.</p>\n\n<p>The ideal candidate should have:<br>\nStructured approach to troubleshooting<br>\nConfidence with PHP, MySQL, jQuery, HTML5, CSS3, etc<br>\nFront end javascript development<br>\nExperience with interfacing with search engines and web based data visualization libraries<br>\nFull life cycle development, including design, implementation, and testing.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Adobe Photoshop",
+        "HTML/CSS/PHP/MYSQL"
+      ],
+      "payment": {
+        "salary": "£18k – £20k",
+        "equity": "0.2% – 0.4%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/samuele-scodeggio",
+        "name": "Samuele Scodeggio",
+        "avatar": "https://photos.angel.co/users/8493054-medium_jpg?1543245220"
+      },
+      "refs": {
+        "angelListId": "444402",
+        "angelListUrl": "https://angel.co/company/room-club/jobs/444402-"
+      }
+    }
+  ]
+}

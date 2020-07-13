@@ -1,0 +1,127 @@
+{
+  "name": "Wefarm",
+  "avatar": "https://photos.angel.co/startups/i/654959-0502e28be97e79709101efbdadb0ef43-medium_jpg.jpg?buster=1505140121",
+  "slogan": "The world’s largest farmer-to-farmer digital network",
+  "description": "Wefarm, the world’s largest farmer-to-farmer digital network, enables farmers to connect with one another to solve problems, share ideas and spread innovation. Utilising the latest machine learning technology, Wefarm’s service works both online and over SMS. Knowledge shared on Wefarm can help farmers to produce higher quality product, increase yields, gain insight into market pricing, tackle the effects of climate change, diversify agricultural interests, and much more.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://wefarm.co"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/wefarm"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/wefarmglobal/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company-beta/9267887/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Kampala",
+    "Nairobi",
+    "Dar es Salaam"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Agriculture",
+    "Crowdsourcing",
+    "Developing World",
+    "Marketplaces",
+    "East Africa"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 18000000,
+    "rounds": [
+      {
+        "type": "Series A",
+        "closedAt": 1572307200,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1520985600,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/kenneth-ewan",
+      "name": "Kenneth Ewan",
+      "avatar": "https://photos.angel.co/users/1118199-medium_jpg?1499169824",
+      "bioHtml": "Founder &amp; CEO WeFarm • Worked as Regional Director for @ProWorld and <a href=\"https://angel.co/company/cafedirect-producers-foundation\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Cafedirect Producers&#39; Foundation</span></a> • Studied at <a href=\"https://angel.co/university-of-bath\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Bath</span></a>, <a href=\"https://angel.co/university-of-dundee\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University Of Dundee</span></a>"
+    },
+    {
+      "title": "Chief Operating Office (COO)",
+      "role": "Employee",
+      "url": "https://angel.co/u/alex-walker",
+      "name": "Alex Walker",
+      "avatar": "https://photos.angel.co/users/81551-medium_jpg?1538664676",
+      "bioHtml": "COO at Wefarm, ex-Amazon, MBA"
+    },
+    {
+      "title": "Software Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/irene-papakonstantinou",
+      "name": "Irene Papakonstantinou",
+      "avatar": "https://photos.angel.co/users/1509469-medium_jpg?1582048244",
+      "bioHtml": "I&#39;ve worked at big tech companies (Facebook), fast-paced startups (WeFarm, Habito) and consulatancies (LShift). Particular love for functional programming."
+    },
+    {
+      "title": "Director of People & Operations",
+      "role": "Employee",
+      "url": "https://angel.co/u/michaela-peicheva",
+      "name": "Michaela Peicheva",
+      "avatar": "https://photos.angel.co/users/1919353-medium_jpg?1503419143",
+      "bioHtml": "Worked at Wefarm"
+    }
+  ],
+  "perks": [
+    {
+      "category": "work_from_home",
+      "title": "Flexible Working"
+    },
+    {
+      "category": "equity",
+      "title": "Share Options"
+    },
+    {
+      "category": "company_events",
+      "title": "Monthly Socials"
+    },
+    {
+      "category": "professional_development",
+      "title": "Learning and Development"
+    },
+    {
+      "category": "miscellaneous",
+      "title": "Choose your own equipment"
+    },
+    {
+      "category": "company_meals",
+      "title": "Office Snacks and Drinks"
+    }
+  ],
+  "refs": {
+    "angelListId": "654959",
+    "angelListUrl": "https://angel.co/company/wefarm"
+  },
+  "jobs": []
+}

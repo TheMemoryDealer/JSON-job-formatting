@@ -1,0 +1,117 @@
+{
+  "name": "boclips",
+  "avatar": "https://photos.angel.co/startups/i/4059083-50f9598619d10ca9255d1c4443dca537-medium_jpg.jpg?buster=1510054796",
+  "slogan": "boclips makes it easy for education providers to find, license and use video",
+  "description": "Outside the classroom video informs, engages and entertains. Forecasted to account for 80% of all content on the internet by 2019, it must play the same role in the classroom moving forwards. The beautifully produced video content on television every night, that mirrors so well what is taught across lifelong learning, should be used to bring curricula to life – to captivate, contextualize and inspire debate. Yet, despite the education industry now spending over $170bn pa on e-learning projects, and real demand for more video in e-learning materials, adoption of video has been slow. With backgrounds in the worlds of TV and film, Knowledgemotion’s founders recognized, through extensive market research, that there were significant hurdles to overcome before video becomes a natural part of learning.\n\nboclips aggregates short-form video content from the world's best video brands onto one cloud-based platform, making it easy for education providers to find, license and use videos.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://boclips.com/"
+    },
+    {
+      "type": "blog",
+      "url": "http://blog.boclips.com/"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/boclips"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/knowledgemotion/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/5366133/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO and Founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/david-bainbridge-1",
+      "name": "David Bainbridge",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "David is a creative and commercial marketer who has worked both on the client and agency sides at senior levels and who has a strong sensitivity for what..."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/katy-pond",
+      "name": "Katy Pond",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/hannah-smith-21",
+      "name": "Hannah Smith",
+      "avatar": "https://photos.angel.co/users/6978728-medium_jpg?1506608656",
+      "bioHtml": "Marketing Executive at Knowledgemotion"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/tod-lockard",
+      "name": "Tod Lockard",
+      "avatar": "https://photos.angel.co/users/854679-medium_jpg?1415612378",
+      "bioHtml": "global technology leadership.  proven with 3 successful exits, plus quality years of blue-chip management/leadership success.  Dual UK and USA citizen."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4059083",
+    "angelListUrl": "https://angel.co/company/boclips-com"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "Boclips is the small but mighty educational technology start up that’s evolving the way video is used in classrooms across the US, Middle East and Asia. We have the world’s largest collection of educationally relevant short-form videos from partners including Ted Talks, Youtube, PBS, Minute Earth, The Smithsonian and The Wall St Journal. With video clips curated to academic standards, the boclips video platform allows teachers and publishers to easily find and use awesome video content that brings lessons to life - in a safe ad-free platform.\n\nTeam\n\nYou will be working in a small and fun team. Most of the time you will pair-program, solving problems together and learning from each other. This is why we value communication and interpersonal skills a lot. \nWe are very keen advocates of clean and well-tested code and we follow practices such as: TDD, CI/CD and all the other practices that make software engineering efficient and fun. \nAs a team, we are also super keen on learning new things and constantly improving our engineering processes. \nMost importantly, you will be a key part of shaping the engineering culture of Boclips.\n\nTech Stack\n\nYou don’t need to know our stack (Kotlin, Spring, React, Spark, R, Scala and Kubernetes). We care more about who you are and your potential than the skills you have today. This means we will ramp you up on anything needed to succeed. Prepare to learn fast, though.\n\nWhat about you?\n\nYou care about people and problems\nYou are open towards technologies and processes\nYou are kind towards others, even when you disagree\nYou are an excellent communicator and collaborator\nYou believe in tests, robust code and automation\nYou are a keen learner, interested in finding the best way to solve a problem\nYou are not afraid of making mistakes\nWhy join the Boclips Engineering team?\n\nYou will be joining an exciting start-up that is going through a growth phase.\nYou are joining a team where there is no ego and no rank. The best idea wins. \nAn amazing learning environment where you’ll be encouraged to make mistakes and learn quickly.\n\n\nWould you like to know a bit more about what it’s like to be part of the boclips engineering team? Take a look at our engineering blog. \n\nhttps://medium.com/boclips-engineering-blog",
+      "descriptionHtml": "<p>Boclips is the small but mighty educational technology start up that’s evolving the way video is used in classrooms across the US, Middle East and Asia. We have the world’s largest collection of educationally relevant short-form videos from partners including Ted Talks, Youtube, PBS, Minute Earth, The Smithsonian and The Wall St Journal. With video clips curated to academic standards, the boclips video platform allows teachers and publishers to easily find and use awesome video content that brings lessons to life - in a safe ad-free platform.</p>\n\n<p>Team</p>\n\n<p>You will be working in a small and fun team. Most of the time you will pair-program, solving problems together and learning from each other. This is why we value communication and interpersonal skills a lot. <br>\nWe are very keen advocates of clean and well-tested code and we follow practices such as: TDD, CI/CD and all the other practices that make software engineering efficient and fun. <br>\nAs a team, we are also super keen on learning new things and constantly improving our engineering processes. <br>\nMost importantly, you will be a key part of shaping the engineering culture of Boclips.</p>\n\n<p>Tech Stack</p>\n\n<p>You don’t need to know our stack (Kotlin, Spring, React, Spark, R, Scala and Kubernetes). We care more about who you are and your potential than the skills you have today. This means we will ramp you up on anything needed to succeed. Prepare to learn fast, though.</p>\n\n<p>What about you?</p>\n\n<p>You care about people and problems<br>\nYou are open towards technologies and processes<br>\nYou are kind towards others, even when you disagree<br>\nYou are an excellent communicator and collaborator<br>\nYou believe in tests, robust code and automation<br>\nYou are a keen learner, interested in finding the best way to solve a problem<br>\nYou are not afraid of making mistakes<br>\nWhy join the Boclips Engineering team?</p>\n\n<p>You will be joining an exciting start-up that is going through a growth phase.<br>\nYou are joining a team where there is no ego and no rank. The best idea wins. <br>\nAn amazing learning environment where you’ll be encouraged to make mistakes and learn quickly.</p>\n\n<p>Would you like to know a bit more about what it’s like to be part of the boclips engineering team? Take a look at our engineering blog. </p>\n\n<p><a href=\"https://medium.com/boclips-engineering-blog\" target=\"_blank\" rel=\"nofollow\">https://medium.com/boclips-engineering-blog</a></p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Collaboration",
+        "Empathy",
+        "Pair Programming",
+        "TDD"
+      ],
+      "payment": {
+        "salary": "£50k – £80k",
+        "equity": "0.1% – 0.3%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/katy-pond",
+        "name": "Katy Pond",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "574945",
+        "angelListUrl": "https://angel.co/company/boclips-com/jobs/574945-"
+      }
+    }
+  ]
+}

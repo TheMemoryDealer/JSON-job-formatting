@@ -1,0 +1,167 @@
+{
+  "name": "Kantan",
+  "avatar": "https://photos.angel.co/startups/i/6816416-aa30b9c2f83c9c135044dec7163d5a92-medium_jpg.jpg?buster=1572607053",
+  "slogan": "Helping trade professionals work smarter",
+  "description": "At Kantan we're changing the lives of tradespeople by giving them the tools to excel in a competitive marketplace. We have already completed a successful beta, and are now scaling our ambitions for 2020. We are funded by the OVO Group and have formed key industry partnerships that are helping us to realise our goal of revolutionising the £45 billion home services industry.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://kantan.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/kantantech"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/kantanapp"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/kantantech"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Home Improvement",
+    "Mobile",
+    "Marketplace"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Co-Founder and CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/fouzan-ali",
+      "name": "Fouzan Ali",
+      "avatar": "https://photos.angel.co/users/8991266-medium_jpg?1557308888",
+      "bioHtml": "Experienced General Manager and Wharton MBA with track record in building and scaling high-growth digital businesses."
+    },
+    {
+      "title": "Software Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/maxxwell",
+      "name": "Maxxwell Firth",
+      "avatar": "https://photos.angel.co/users/766701-medium_jpg?1571221994",
+      "bioHtml": "NEF Fast Track 2020 Fellow at Centre for Entrepreneurs, Software Engineer at Kantan"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/hentie-louw",
+      "name": "Hentie Louw",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Head of Design",
+      "role": "Employee",
+      "url": "https://angel.co/u/jack-bush-4",
+      "name": "Jack Bush",
+      "avatar": "https://photos.angel.co/users/9808440-medium_jpg?1565799284",
+      "bioHtml": "Sitting at the intersection of design, strategy, innovation and technology, I enjoy solving problems by crafting human-centred products."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6816416",
+    "angelListUrl": "https://angel.co/company/kantantech"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Back End Engineer",
+      "description": "At Kantan we're changing the lives of tradespeople by giving them the tools to excel in a competitive marketplace. We have already completed a successful beta, and are now scaling our ambitions for 2020. We are funded by the OVO Group and have formed key industry partnerships that are helping us to realise our goal of revolutionising the £45 billion home services industry.\n\nWe are looking for back end engineers to join the initial engineering team and help seed the technical strategy, architecture, culture and ways of working. The engineering team will be responsible for building the core platform that connects supply to demand, manages allocation and completion of work, and ensures that work is delivered reliably and to a high quality. We are looking for someone who loves to build elegantly simple products, while sharing in our healthy obsession for quality and attention to detail. If you are excited by the opportunity to bring creative use of technology to disrupt an industry, then we want to hear from you!\n\n\nYou’re the right person if\n- You are genuinely passionate about developing products that will positively impact millions of people. \n- You love working in teams and collaboratively building features that impact customers. \n- You are motivated by owning products, from inception to continuous improvement. \n- You believe strongly in test driven development and continuous delivery. \n- You love building scalable, resilient solutions. \n- You seek learning opportunities to deepen your expertise or broaden your knowledge\n\n\nWhat You’ll Do\n- As an early hire, you will be instrumental in \n- Designing and architecting the various systems. \n- Owning the products and their life cycles. \n- Defining the engineering culture across the organisation.\n\n\nWhat You’ll Need\n- Expertise in one or more of Nodejs and Python. \n- Experience and passion for working across the stack. \n- Experience with developing complex software systems at scale with production quality deployment, monitoring and reliability. \n- Experience with cloud based platforms and technologies. \n- Experience in SOA or microservice architecture design. \n- Driven and focused self-starter, great communicator, amazing follow-through—you have a great work ethic and love the responsibility of being individually empowered. \n- Bonus points if you have built a product from ideation to public release.\n\n\n",
+      "descriptionHtml": "<p>At Kantan we&#39;re changing the lives of tradespeople by giving them the tools to excel in a competitive marketplace. We have already completed a successful beta, and are now scaling our ambitions for 2020. We are funded by the OVO Group and have formed key industry partnerships that are helping us to realise our goal of revolutionising the £45 billion home services industry.</p>\n\n<p>We are looking for back end engineers to join the initial engineering team and help seed the technical strategy, architecture, culture and ways of working. The engineering team will be responsible for building the core platform that connects supply to demand, manages allocation and completion of work, and ensures that work is delivered reliably and to a high quality. We are looking for someone who loves to build elegantly simple products, while sharing in our healthy obsession for quality and attention to detail. If you are excited by the opportunity to bring creative use of technology to disrupt an industry, then we want to hear from you!</p>\n\n<p>You’re the right person if</p>\n\n<ul>\n<li>You are genuinely passionate about developing products that will positively impact millions of people. </li>\n<li>You love working in teams and collaboratively building features that impact customers. </li>\n<li>You are motivated by owning products, from inception to continuous improvement. </li>\n<li>You believe strongly in test driven development and continuous delivery. </li>\n<li>You love building scalable, resilient solutions. </li>\n<li>You seek learning opportunities to deepen your expertise or broaden your knowledge</li>\n</ul>\n\n<p>What You’ll Do</p>\n\n<ul>\n<li>As an early hire, you will be instrumental in </li>\n<li>Designing and architecting the various systems. </li>\n<li>Owning the products and their life cycles. </li>\n<li>Defining the engineering culture across the organisation.</li>\n</ul>\n\n<p>What You’ll Need</p>\n\n<ul>\n<li>Expertise in one or more of Nodejs and Python. </li>\n<li>Experience and passion for working across the stack. </li>\n<li>Experience with developing complex software systems at scale with production quality deployment, monitoring and reliability. </li>\n<li>Experience with cloud based platforms and technologies. </li>\n<li>Experience in SOA or microservice architecture design. </li>\n<li>Driven and focused self-starter, great communicator, amazing follow-through—you have a great work ethic and love the responsibility of being individually empowered. </li>\n<li>Bonus points if you have built a product from ideation to public release.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "669808",
+        "angelListUrl": "https://angel.co/company/kantantech/jobs/669808-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Front End Engineer",
+      "description": "At Kantan we're changing the lives of tradespeople by giving them the tools to excel in a competitive marketplace. We have already completed a successful beta, and are now scaling our ambitions for 2020. We are funded by the OVO Group and have formed key industry partnerships that are helping us to realise our goal of revolutionising the £45 billion home services industry.\n\nWe are looking for frontend/react developers to join the initial engineering team and help seed the technical strategy, architecture, culture and ways of working. The engineering team will be responsible for building the core platform that connects supply to demand, manages allocation and completion of work, and ensures that work is delivered reliably and to a high quality. We are looking for someone who loves to build elegantly simple products, while sharing in our healthy obsession for quality and attention to detail. If you are excited by the opportunity to bring creative use of technology to disrupt an industry, then we want to hear from you!\n\n\nYou’re the right person if\n- You are genuinely passionate about developing products that will positively impact millions of people.\n- You love working in teams and collaboratively building features that impact customers.\n- You are motivated by owning products, from inception to continuous improvement.\n- You believe strongly in test driven development and continuous delivery.\n- You love building scalable, resilient solutions.\n- You seek learning opportunities to deepen your expertise or broaden your knowledge\n\n\nWhat You’ll Do\n- Design and architect the various systems.\n- Own the products and their life cycles.\n- Shape the engineering culture across the organisation.\n\n\nWhat You’ll Need\n- Expertise in one or more of React Native, React and/or Nodejs.\n- Although you will primarily work on frontend, you should have experience with working across the stack.\n- Experience with developing complex software systems at scale with production quality deployment, monitoring and reliability.\n- Experience with cloud based platforms and technologies.\n- Driven and focused self-starter, great communicator, amazing follow-through—you have a great work ethic and love the responsibility of being individually empowered.\n\n\nBonus points:\n\n- If you have worked with Python or Django\n- If you have built a product from ideation to public release.\n- If you have experience in functional programming.\n",
+      "descriptionHtml": "<p>At Kantan we&#39;re changing the lives of tradespeople by giving them the tools to excel in a competitive marketplace. We have already completed a successful beta, and are now scaling our ambitions for 2020. We are funded by the OVO Group and have formed key industry partnerships that are helping us to realise our goal of revolutionising the £45 billion home services industry.</p>\n\n<p>We are looking for frontend/react developers to join the initial engineering team and help seed the technical strategy, architecture, culture and ways of working. The engineering team will be responsible for building the core platform that connects supply to demand, manages allocation and completion of work, and ensures that work is delivered reliably and to a high quality. We are looking for someone who loves to build elegantly simple products, while sharing in our healthy obsession for quality and attention to detail. If you are excited by the opportunity to bring creative use of technology to disrupt an industry, then we want to hear from you!</p>\n\n<p>You’re the right person if</p>\n\n<ul>\n<li>You are genuinely passionate about developing products that will positively impact millions of people.</li>\n<li>You love working in teams and collaboratively building features that impact customers.</li>\n<li>You are motivated by owning products, from inception to continuous improvement.</li>\n<li>You believe strongly in test driven development and continuous delivery.</li>\n<li>You love building scalable, resilient solutions.</li>\n<li>You seek learning opportunities to deepen your expertise or broaden your knowledge</li>\n</ul>\n\n<p>What You’ll Do</p>\n\n<ul>\n<li>Design and architect the various systems.</li>\n<li>Own the products and their life cycles.</li>\n<li>Shape the engineering culture across the organisation.</li>\n</ul>\n\n<p>What You’ll Need</p>\n\n<ul>\n<li>Expertise in one or more of React Native, React and/or Nodejs.</li>\n<li>Although you will primarily work on frontend, you should have experience with working across the stack.</li>\n<li>Experience with developing complex software systems at scale with production quality deployment, monitoring and reliability.</li>\n<li>Experience with cloud based platforms and technologies.</li>\n<li>Driven and focused self-starter, great communicator, amazing follow-through—you have a great work ethic and love the responsibility of being individually empowered.</li>\n</ul>\n\n<p>Bonus points:</p>\n\n<ul>\n<li>If you have worked with Python or Django</li>\n<li>If you have built a product from ideation to public release.</li>\n<li>If you have experience in functional programming.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "667782",
+        "angelListUrl": "https://angel.co/company/kantantech/jobs/667782-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Engineer",
+      "description": "At Kantan we're changing the lives of tradespeople by giving them the tools to excel in a competitive marketplace. We have already completed a successful beta, and are now scaling our ambitions for 2020. We are funded by the OVO Group and have formed key industry partnerships that are helping us to realise our goal of revolutionising the £45 billion home services industry.\n\nWe are looking for a full-stack developers to join the initial engineering team and help seed the technical strategy, architecture, culture and ways of working. The engineering team will be responsible for building the core platform that connects supply to demand, manages allocation and completion of work, and ensures that work is delivered reliably and to a high quality. We are looking for someone who loves to build elegantly simple products, while sharing in our healthy obsession for quality and attention to detail. If you are excited by the opportunity to bring creative use of technology to disrupt an industry, then we want to hear from you!\n\n\nYou’re the right person if\n- You are genuinely passionate about developing products that will positively impact millions of people. \n- You love working in teams and collaboratively building features that impact customers. \n- You are motivated by owning products, from inception to continuous improvement. \n- You believe strongly in test driven development and continuous delivery. \n- You love building scalable, resilient solutions. \n- You seek learning opportunities to deepen your expertise or broaden your knowledge\n\n\nWhat You’ll Do\n- As an early hire, you will be instrumental in \n- Designing and architecting the various systems. \n- Owning the products and their life cycles. \n- Defining the engineering culture across the organisation.\n\n\nWhat You’ll Need\n- Expertise in one or more of React Native, Nodejs and Python. \n- Experience and passion for working across the stack. \n- Experience with developing complex software systems at scale with production quality deployment, monitoring and reliability. \n- Experience with cloud based platforms and technologies. \n- Experience in SOA or microservice architecture design. \n- Driven and focused self-starter, great communicator, amazing follow-through—you have a great work ethic and love the responsibility of being individually empowered. \n- Bonus points if you have built a product from ideation to public release.\n\n\n",
+      "descriptionHtml": "<p>At Kantan we&#39;re changing the lives of tradespeople by giving them the tools to excel in a competitive marketplace. We have already completed a successful beta, and are now scaling our ambitions for 2020. We are funded by the OVO Group and have formed key industry partnerships that are helping us to realise our goal of revolutionising the £45 billion home services industry.</p>\n\n<p>We are looking for a full-stack developers to join the initial engineering team and help seed the technical strategy, architecture, culture and ways of working. The engineering team will be responsible for building the core platform that connects supply to demand, manages allocation and completion of work, and ensures that work is delivered reliably and to a high quality. We are looking for someone who loves to build elegantly simple products, while sharing in our healthy obsession for quality and attention to detail. If you are excited by the opportunity to bring creative use of technology to disrupt an industry, then we want to hear from you!</p>\n\n<p>You’re the right person if</p>\n\n<ul>\n<li>You are genuinely passionate about developing products that will positively impact millions of people. </li>\n<li>You love working in teams and collaboratively building features that impact customers. </li>\n<li>You are motivated by owning products, from inception to continuous improvement. </li>\n<li>You believe strongly in test driven development and continuous delivery. </li>\n<li>You love building scalable, resilient solutions. </li>\n<li>You seek learning opportunities to deepen your expertise or broaden your knowledge</li>\n</ul>\n\n<p>What You’ll Do</p>\n\n<ul>\n<li>As an early hire, you will be instrumental in </li>\n<li>Designing and architecting the various systems. </li>\n<li>Owning the products and their life cycles. </li>\n<li>Defining the engineering culture across the organisation.</li>\n</ul>\n\n<p>What You’ll Need</p>\n\n<ul>\n<li>Expertise in one or more of React Native, Nodejs and Python. </li>\n<li>Experience and passion for working across the stack. </li>\n<li>Experience with developing complex software systems at scale with production quality deployment, monitoring and reliability. </li>\n<li>Experience with cloud based platforms and technologies. </li>\n<li>Experience in SOA or microservice architecture design. </li>\n<li>Driven and focused self-starter, great communicator, amazing follow-through—you have a great work ethic and love the responsibility of being individually empowered. </li>\n<li>Bonus points if you have built a product from ideation to public release.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Node.js",
+        "Microservices",
+        "React Native"
+      ],
+      "payment": {
+        "salary": "£60k – £90k",
+        "equity": "0.1% – 0.15%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/pravin-paratey",
+        "name": "Pravin Paratey",
+        "avatar": "https://photos.angel.co/users/270354-medium_jpg?1477475651"
+      },
+      "refs": {
+        "angelListId": "568141",
+        "angelListUrl": "https://angel.co/company/kantantech/jobs/568141-"
+      }
+    }
+  ]
+}

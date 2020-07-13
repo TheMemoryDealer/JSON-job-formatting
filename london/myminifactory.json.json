@@ -1,0 +1,208 @@
+{
+  "name": "MyMiniFactory",
+  "avatar": "https://photos.angel.co/startups/i/525585-f6e55af82e635d17827f6b03687cafb2-medium_jpg.jpg?buster=1519091098",
+  "slogan": "The YouTube of 3D Printing",
+  "description": "MyMiniFactory is a world-leading 3D printable object-sharing platform, where thousands of 3D designers around the world upload and share files that can be 3D printed on affordable desktop 3D printers. We are a digital community and platform for objects, the same way that YouTube is a digital community and platform for videos. We're building out the content solution for a world where desktop 3D printers are ubiquitous.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.myminifactory.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/myminifactory"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/myminif"
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "3D Printing",
+    "Marketplaces",
+    "Social Media Platforms"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 1500000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1365033600,
+        "valuation": null
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/romain-kidd",
+      "name": "Romain Kidd",
+      "avatar": "https://photos.angel.co/users/75321-medium_jpg?1502014193",
+      "bioHtml": "CEO <a href=\"https://angel.co/company/myminifactory\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">MyMiniFactory</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/sylvain-imakr-vc",
+      "name": "Sylvain Preumont",
+      "avatar": "https://photos.angel.co/users/842858-medium_jpg?1517854033",
+      "bioHtml": "Founder MyMiniFactory • Owner,COO&amp;CIO at AIS • Founder and CEO Agefinance • Founder Diadeis • Worked at <a href=\"https://angel.co/company/arthur-andersen\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Arthur Andersen</span></a> • Studied at <a href=\"https://angel.co/ecole-polytechnique\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Ecole Polytechnique</span></a>"
+    },
+    {
+      "title": "CEO",
+      "role": "Employee",
+      "url": "https://angel.co/u/romain-kidd",
+      "name": "Romain Kidd",
+      "avatar": "https://photos.angel.co/users/75321-medium_jpg?1502014193",
+      "bioHtml": "CEO <a href=\"https://angel.co/company/myminifactory\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">MyMiniFactory</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "525585",
+    "angelListUrl": "https://angel.co/company/myminifactory"
+  },
+  "jobs": [
+    {
+      "role": "Other Engineering",
+      "title": "Mechanical Engineer intern",
+      "description": null,
+      "descriptionHtml": "",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Mechanical Engineering",
+        "3D Printing"
+      ],
+      "payment": {
+        "salary": "Up to $1k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/romain-kidd",
+        "name": "Romain Kidd",
+        "avatar": "https://photos.angel.co/users/75321-medium_jpg?1502014193"
+      },
+      "refs": {
+        "angelListId": "350339",
+        "angelListUrl": "https://angel.co/company/myminifactory/jobs/350339-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Wed developer",
+      "description": "MyMiniFactory is looking for a talented full stack web developer to work alongside our team to build new innovative and exciting features.\n\nWe expect you to have a real interest for creative communities and hardware innovation.\n\nOur stack is Symfony, Javascript (React), mysql.  \n\nWe expect you to have a genuine passion for coding, combined with a very strong background in web techno acquired at a world top university.",
+      "descriptionHtml": "<p>MyMiniFactory is looking for a talented full stack web developer to work alongside our team to build new innovative and exciting features.</p>\n\n<p>We expect you to have a real interest for creative communities and hardware innovation.</p>\n\n<p>Our stack is Symfony, Javascript (React), mysql.  </p>\n\n<p>We expect you to have a genuine passion for coding, combined with a very strong background in web techno acquired at a world top university.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Web Technologies"
+      ],
+      "payment": {
+        "salary": "$0k – $50k",
+        "equity": "0.0% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/romain-kidd",
+        "name": "Romain Kidd",
+        "avatar": "https://photos.angel.co/users/75321-medium_jpg?1502014193"
+      },
+      "refs": {
+        "angelListId": "406171",
+        "angelListUrl": "https://angel.co/company/myminifactory/jobs/406171-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "React Developer",
+      "description": "MyMiniFactory is the leading open platform for designers to share and sell 3d printable files with makers.\n\nWe are looking for a Front end React developer to join our strong team of developer to keep working on new exciting features for our large community of designers and makers.\n\nYou will be working closely with our UX/UI developer and our CTO.",
+      "descriptionHtml": "<p>MyMiniFactory is the leading open platform for designers to share and sell 3d printable files with makers.</p>\n\n<p>We are looking for a Front end React developer to join our strong team of developer to keep working on new exciting features for our large community of designers and makers.</p>\n\n<p>You will be working closely with our UX/UI developer and our CTO.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "React.js"
+      ],
+      "payment": {
+        "salary": "£0k – £28k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/romain-kidd",
+        "name": "Romain Kidd",
+        "avatar": "https://photos.angel.co/users/75321-medium_jpg?1502014193"
+      },
+      "refs": {
+        "angelListId": "512240",
+        "angelListUrl": "https://angel.co/company/myminifactory/jobs/512240-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Sales - Business developer",
+      "description": "we are looking for a talented sales / business developer with a real passion for 3d printing.\n\nCompensation is fixed + bonus on sales",
+      "descriptionHtml": "<p>we are looking for a talented sales / business developer with a real passion for 3d printing.</p>\n\n<p>Compensation is fixed + bonus on sales</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£0k – £30k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/romain-kidd",
+        "name": "Romain Kidd",
+        "avatar": "https://photos.angel.co/users/75321-medium_jpg?1502014193"
+      },
+      "refs": {
+        "angelListId": "545210",
+        "angelListUrl": "https://angel.co/company/myminifactory/jobs/545210-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "name": "MorePoints",
+  "avatar": "https://photos.angel.co/startups/i/7554546-899e600fd253021c402e78d670ccc568-medium_jpg.jpg?buster=1583965894",
+  "slogan": "Optimise your credit card usage and get more points",
+  "description": "The product is helping people to get the most from their credit cards in terms of getting more points and other benefits. Will share more with interested candidates",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.morepoints.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Fin Tech"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/john-stinger-1",
+      "name": "John Stinger",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7554546",
+    "angelListUrl": "https://angel.co/company/morepoints"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Backend Developer",
+      "description": "You will be employee #3\n\nI have a proven idea + funding, need a top team to execute on this. \n\n* Individual is expected to lead all the backend development of the mobile app. \n* **You need to have experience in payments processing business** and proven track record of high achievements",
+      "descriptionHtml": "<p>You will be employee #3</p>\n\n<p>I have a proven idea + funding, need a top team to execute on this. </p>\n\n<ul>\n<li>Individual is expected to lead all the backend development of the mobile app. </li>\n<li><strong>You need to have experience in payments processing business</strong> and proven track record of high achievements</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe",
+        "Russia",
+        "Belarus"
+      ],
+      "skills": [
+        "Mobile Development",
+        "Full Stack Development",
+        "Backend Development"
+      ],
+      "payment": {
+        "salary": "$30k – $40k",
+        "equity": "0.0% – 5.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/john-stinger-1",
+        "name": "John Stinger",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "753248",
+        "angelListUrl": "https://angel.co/company/morepoints/jobs/753248-"
+      }
+    },
+    {
+      "role": "Management",
+      "title": "CTO and Co-founder",
+      "description": "(Required)\nYou need to have strong background in payments business:\n* know ins and outs of card scheme providers, processors and acquirers\n* have an idea around required licenses for payments\n* manage team of 2-3 developers (front/back)\n\n(Preferred)\n* ex-fintech (Revolut, Monzo, Starling, etc)\n\nUnique opportunity to join a future unicorn start-up and build the top performing team.",
+      "descriptionHtml": "<p>(Required)<br>\nYou need to have strong background in payments business:</p>\n\n<ul>\n<li>know ins and outs of card scheme providers, processors and acquirers</li>\n<li>have an idea around required licenses for payments</li>\n<li>manage team of 2-3 developers (front/back)</li>\n</ul>\n\n<p>(Preferred)</p>\n\n<ul>\n<li>ex-fintech (Revolut, Monzo, Starling, etc)</li>\n</ul>\n\n<p>Unique opportunity to join a future unicorn start-up and build the top performing team.</p>\n",
+      "position": "cofounder",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Software Development",
+        "Databases",
+        "Database and Systems Design",
+        "Data Architecture"
+      ],
+      "payment": {
+        "salary": "$0k – $80k",
+        "equity": "% – 25.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/john-stinger-1",
+        "name": "John Stinger",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "753245",
+        "angelListUrl": "https://angel.co/company/morepoints/jobs/753245-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Frontend Developer",
+      "description": "You will be employee #3\n\nI have a proven idea + funding, need a top team to execute on this. \n\n* Individual is expected to lead all the frontend development of the mobile app. \n* **You need to have experience in payments processing business** and proven track record of high achievements",
+      "descriptionHtml": "<p>You will be employee #3</p>\n\n<p>I have a proven idea + funding, need a top team to execute on this. </p>\n\n<ul>\n<li>Individual is expected to lead all the frontend development of the mobile app. </li>\n<li><strong>You need to have experience in payments processing business</strong> and proven track record of high achievements</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe",
+        "Russia",
+        "Belarus"
+      ],
+      "skills": [
+        "Frontend Development"
+      ],
+      "payment": {
+        "salary": "£30k – £40k",
+        "equity": "0.0% – 5.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/john-stinger-1",
+        "name": "John Stinger",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "753247",
+        "angelListUrl": "https://angel.co/company/morepoints/jobs/753247-"
+      }
+    }
+  ]
+}

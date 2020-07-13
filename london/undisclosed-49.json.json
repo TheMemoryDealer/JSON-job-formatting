@@ -1,0 +1,93 @@
+{
+  "name": "Undisclosed",
+  "avatar": "https://photos.angel.co/startups/i/7278169-f1de2c0c93513c933de9b8b99a30d252-medium_jpg.jpg?buster=1572186748",
+  "slogan": "reshape the value of social media",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwiYlJ-U07zlAhVUiVwKHWu8BvYQPQgH"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Hospitality",
+    "Leisure"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/giuseppe-grande",
+      "name": "Giuseppe Grande",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7278169",
+    "angelListUrl": "https://angel.co/company/undisclosed-49"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "Software Engineer",
+      "description": "What do you hope to have achieved in the next 10 years?\nHey! We’re a start-up looking to redefine the playing field and reshape the value and role of social media apps!\nYou see, we believe that the social media platforms that have been created and on which we spend so much of our time on could be put to a much better use. \nAnd that’s were we come in. Currently a team of 3, in search for a CTO Co-Founder to join us on this ambitious project to bring individuals closer to the content and connections they trust. The MVP is already being tested on Android and iOS. \n\nMain Responsibilities of the role:\n• Build: Maintenance of MVP\n• Test: Ongoing testing\n• Deploy: App store and GooglePlay\n\nTechnologies being used: \n- HTML5 – Latest hypertext mark-up language supporting various type elements, local storage etc.\n- CSS3 – Latest cascade style sheets supporting advanced styling methodology like saas, caas, less etc\n- Angular 6 – The two-way biding front end framework supporting navigation, routing, binding etc\n- Ionic 3 – Front end framework supporting mobile device specific actions with the help of cordova and angular.\n- Web API - Source exposed as service. Asp.Net core Web API, hosted as service exposing URI endpoints which does the back-end logic communicating with data base.\n- C# - Programming language used for middle tier.\n- SQL Server – The RDBMS, to store and retrieve data.\n\nIn 10 years’ time we hope to have created a platform on which we can say your time is well spent on. \nJoin us on this journey if you the motivation and ambition to create change for the better.",
+      "descriptionHtml": "<p>What do you hope to have achieved in the next 10 years?<br>\nHey! We’re a start-up looking to redefine the playing field and reshape the value and role of social media apps!<br>\nYou see, we believe that the social media platforms that have been created and on which we spend so much of our time on could be put to a much better use. <br>\nAnd that’s were we come in. Currently a team of 3, in search for a CTO Co-Founder to join us on this ambitious project to bring individuals closer to the content and connections they trust. The MVP is already being tested on Android and iOS. </p>\n\n<p>Main Responsibilities of the role:<br>\n• Build: Maintenance of MVP<br>\n• Test: Ongoing testing<br>\n• Deploy: App store and GooglePlay</p>\n\n<p>Technologies being used: </p>\n\n<ul>\n<li>HTML5 – Latest hypertext mark-up language supporting various type elements, local storage etc.</li>\n<li>CSS3 – Latest cascade style sheets supporting advanced styling methodology like saas, caas, less etc</li>\n<li>Angular 6 – The two-way biding front end framework supporting navigation, routing, binding etc</li>\n<li>Ionic 3 – Front end framework supporting mobile device specific actions with the help of cordova and angular.</li>\n<li>Web API - Source exposed as service. Asp.Net core Web API, hosted as service exposing URI endpoints which does the back-end logic communicating with data base.</li>\n<li>C# - Programming language used for middle tier.</li>\n<li>SQL Server – The RDBMS, to store and retrieve data.</li>\n</ul>\n\n<p>In 10 years’ time we hope to have created a platform on which we can say your time is well spent on. <br>\nJoin us on this journey if you the motivation and ambition to create change for the better.</p>\n",
+      "position": "cofounder",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Microsoft .NET",
+        "Ionic 3"
+      ],
+      "payment": {
+        "salary": "£10k – £22k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/giuseppe-grande",
+        "name": "Giuseppe Grande",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "651552",
+        "angelListUrl": "https://angel.co/company/undisclosed-49/jobs/651552-"
+      }
+    }
+  ]
+}

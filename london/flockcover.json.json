@@ -1,0 +1,148 @@
+{
+  "name": "Flock Ltd. ",
+  "avatar": "https://photos.angel.co/startups/i/1035246-54f25733812b1543e3d471f52382241e-medium_jpg.jpg?buster=1502979262",
+  "slogan": "Big-Data driven risk intelligence for drones ",
+  "description": "Flock is a London-based, VC- and Government-backed insurtech startup, pioneering the use of Big Data to intelligently price insurance. Flock has formed a global partnership with Allianz, the world's largest aviation insurer, to launch their first product 'Flock Cover': a pay-as-you-fly insurance and safety app for drone pilots.\n\nFlock recently closed a £2.25M Seed round led by Anthemis, alongside Silicon Valley's Plug and Play, Seed and Speed, and London VC Downing Ventures (who are re-investing having led Flock's pre-seed round in 2016) and a syndicate of highly specialised angels. In addition, Flock has been awarded grants from Innovate UK, the Ordnance Survey, Slaughter and May and Norton Rose Fulbright.\n\nFlock is building partnerships with global insurers, expanding its London tech team, and gearing up to launch its drone insurance platform internationally. \n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://flockcover.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://blog.flockcover.com/"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/flockcover"
+    },
+    {
+      "type": "facebook",
+      "url": "http://www.facebook.com/flockcover"
+    },
+    {
+      "type": "linkedIn",
+      "url": "http://www.linkedin.com/company/flockcover"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Drones",
+    "Big Data",
+    "Artificial Intelligence",
+    "Insurtech"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 3507670,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1527552000,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1482278400,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/edleonklinger",
+      "name": "Ed Leon Klinger",
+      "avatar": "https://photos.angel.co/users/1392178-medium_jpg?1502979531",
+      "bioHtml": "CEO at Flock, M.Eng Uni of Oxford, M.Phil Uni of Cambridge. "
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/anttonp",
+      "name": "Antton Peña",
+      "avatar": "https://photos.angel.co/users/1423305-medium_jpg?1438193280",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/flock\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Flock</span></a>, ex-Product Lead &amp; co-Founder <a href=\"https://angel.co/company/farewill\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Farewill</span></a>, ex-Designer for Audi"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/heidi-megele-1",
+      "name": "Heidi Megele",
+      "avatar": "https://photos.angel.co/users/8207494-medium_jpg?1533828432",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/dara-cormican",
+      "name": "Dara Cormican",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Tech Lead",
+      "role": "Employee",
+      "url": "https://angel.co/u/abraham-polishchuk",
+      "name": "Abraham Polishchuk",
+      "avatar": "https://photos.angel.co/users/159146-medium_jpg?1463117544",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/none-yet-6\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">None Yet :)</span></a> • Worked at <a href=\"https://angel.co/company/lanetix\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Lanetix</span></a>, <span><span class=\"at_symbol\">@</span><span class=\"at_name\">goBalto</span></span>, <a href=\"https://angel.co/company/eloqua\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Eloqua</span></a>, <a href=\"https://angel.co/company/national-geographic\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">National Geographic</span></a>, <a href=\"https://angel.co/company/flock\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Flock</span></a> Ltd • Studied at University of Edinburgh, -"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "1035246",
+    "angelListUrl": "https://angel.co/company/flockcover"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Software Engineer",
+      "description": "The opportunity\n\nJump into an empowered role doing full stack feature development. You will report directly to the Tech Lead and hold a lot of responsibility and influence in our technological decision making process. Become familiar with all parts of our modern stack, and exercise judgement in key decisions, such as assessing trade-offs between design and feasibility. Choose when to hack, and when to invest time in architecture. You will engineer your features to be scalable and resilient in a multi-platform mobile application, sitting atop a micro-service platform.\n\nWorking for Flock, you’ll have the opportunity to work closely with product/UX and enhance your understanding of design theory. You will also learn how to construct complex SQL queries, and how to understand and navigate the tradeoffs inherent in running a service architecture based system, being continuously deployed several times a day with zero downtime.\n\n\nAbout you\n\nYou are a dedicated and resourceful engineer with an understanding of what it means to work with a production system, and an understanding of Agile processes, particularly Continuous Delivery. You have experience building Single Page Applications, Mobile Applications, or both. You have experience working with an interpreted server side language such as NodeJS, Ruby on Rails, or similar. You consider yourself a perfectionist, delivering pixel perfect implementations of complex design specs. You are a dedicated professional who holds and researches opinions on a wide variety of technologies and theories, such as the CAP triangle, authentication schemes, soundness vs completeness, or the multiple models of asynchronicity contained in Javascript. You are humble, know when to ask for help, and enjoy learning alongside your team. Most importantly, you are excited to become a great engineer, and thrive in a position of responsibility.\n\n\nKey Responsibilities\n\nWork with a production system, utilizing Agile processes such as: Code Review on Github, Pair Programming, Continuous Delivery to Heroku, Unit Testing and end-to-end testing.\nPlan and estimate work on a weekly basis\nBuild Single Page and Mobile Applications, Web Servers, and other relevant systems\nUse NodeJS, React Native, Redux, Flow, Babel/ES2017, Postgres, Kotlin and Swift.\nProactively research new technologies and bring them to the team to help maintain our edge\nHelp to maintain a stable production system by responding to live issues on a weekly PagerDuty rotation\nThe above statements describe the general nature and level of work. They are not a comprehensive list of all responsibilities, duties, or skills required.\n\n\nOur Stack\n\nNodeJS (with ExpressJS)\nPostgres (note, we do not use any ORM as we do some fairly complex lifting at this layer)\nReact Native + Redux\nBabel/ES2017\nFlowJS\nHeroku\nCircleCI\nGithub\nKotlin/Java\nSwift/ObjectiveC\n\n\nThe ‘wow’ factor\n\nIf you have any of these, you are a cut above the rest. If not, we look forward to teaching you!\n\nFamiliarity with both NodeJS and React\nFamiliarity with Mobile development, preferably by way of React Native + Redux\nFamiliarity with Kotlin/Java/Swift/ObjectiveC\nFamiliarity with type systems and type theory, particularly FlowJS\nFamiliarity with Agile best practices in general and Continuous Delivery in particular\nStrong Postgres knowledge\nOpen source contributions or other community engagement\nExperience working at a small startup\nA BSc in Computer Science/Mathematics or a related field\n\n\nOur process\n\nApply on this page (https://flockcover.workable.com/j/E0ACFDBBEE). \nPlease explain (briefly) why you’re interested in this position and why you believe you're the right person for the job.\n-We will schedule you in for an initial 20 minute phone conversation with Abe (Tech Lead).\n- We will give you a short take-home coding exercise\n- We will invite you for interview with Abe (Tech Lead) and the rest of the team. We will work through some architecture exercises and a whiteboard coding exercise. We may do a short pair programming exercise, and then give you the opportunity to ask us any questions you may have and to talk about the role in detail.\n- Meet the entire team in a very casual setting for a friendly chat!",
+      "descriptionHtml": "<p>The opportunity</p>\n\n<p>Jump into an empowered role doing full stack feature development. You will report directly to the Tech Lead and hold a lot of responsibility and influence in our technological decision making process. Become familiar with all parts of our modern stack, and exercise judgement in key decisions, such as assessing trade-offs between design and feasibility. Choose when to hack, and when to invest time in architecture. You will engineer your features to be scalable and resilient in a multi-platform mobile application, sitting atop a micro-service platform.</p>\n\n<p>Working for Flock, you’ll have the opportunity to work closely with product/UX and enhance your understanding of design theory. You will also learn how to construct complex SQL queries, and how to understand and navigate the tradeoffs inherent in running a service architecture based system, being continuously deployed several times a day with zero downtime.</p>\n\n<p>About you</p>\n\n<p>You are a dedicated and resourceful engineer with an understanding of what it means to work with a production system, and an understanding of Agile processes, particularly Continuous Delivery. You have experience building Single Page Applications, Mobile Applications, or both. You have experience working with an interpreted server side language such as NodeJS, Ruby on Rails, or similar. You consider yourself a perfectionist, delivering pixel perfect implementations of complex design specs. You are a dedicated professional who holds and researches opinions on a wide variety of technologies and theories, such as the CAP triangle, authentication schemes, soundness vs completeness, or the multiple models of asynchronicity contained in Javascript. You are humble, know when to ask for help, and enjoy learning alongside your team. Most importantly, you are excited to become a great engineer, and thrive in a position of responsibility.</p>\n\n<p>Key Responsibilities</p>\n\n<p>Work with a production system, utilizing Agile processes such as: Code Review on Github, Pair Programming, Continuous Delivery to Heroku, Unit Testing and end-to-end testing.<br>\nPlan and estimate work on a weekly basis<br>\nBuild Single Page and Mobile Applications, Web Servers, and other relevant systems<br>\nUse NodeJS, React Native, Redux, Flow, Babel/ES2017, Postgres, Kotlin and Swift.<br>\nProactively research new technologies and bring them to the team to help maintain our edge<br>\nHelp to maintain a stable production system by responding to live issues on a weekly PagerDuty rotation<br>\nThe above statements describe the general nature and level of work. They are not a comprehensive list of all responsibilities, duties, or skills required.</p>\n\n<p>Our Stack</p>\n\n<p>NodeJS (with ExpressJS)<br>\nPostgres (note, we do not use any ORM as we do some fairly complex lifting at this layer)<br>\nReact Native + Redux<br>\nBabel/ES2017<br>\nFlowJS<br>\nHeroku<br>\nCircleCI<br>\nGithub<br>\nKotlin/Java<br>\nSwift/ObjectiveC</p>\n\n<p>The ‘wow’ factor</p>\n\n<p>If you have any of these, you are a cut above the rest. If not, we look forward to teaching you!</p>\n\n<p>Familiarity with both NodeJS and React<br>\nFamiliarity with Mobile development, preferably by way of React Native + Redux<br>\nFamiliarity with Kotlin/Java/Swift/ObjectiveC<br>\nFamiliarity with type systems and type theory, particularly FlowJS<br>\nFamiliarity with Agile best practices in general and Continuous Delivery in particular<br>\nStrong Postgres knowledge<br>\nOpen source contributions or other community engagement<br>\nExperience working at a small startup<br>\nA BSc in Computer Science/Mathematics or a related field</p>\n\n<p>Our process</p>\n\n<p>Apply on this page (<a href=\"https://flockcover.workable.com/j/E0ACFDBBEE\" target=\"_blank\" rel=\"nofollow\">https://flockcover.workable.com/j/E0ACFDBBEE</a>). <br>\nPlease explain (briefly) why you’re interested in this position and why you believe you&#39;re the right person for the job.<br>\n-We will schedule you in for an initial 20 minute phone conversation with Abe (Tech Lead).</p>\n\n<ul>\n<li>We will give you a short take-home coding exercise</li>\n<li>We will invite you for interview with Abe (Tech Lead) and the rest of the team. We will work through some architecture exercises and a whiteboard coding exercise. We may do a short pair programming exercise, and then give you the opportunity to ask us any questions you may have and to talk about the role in detail.</li>\n<li>Meet the entire team in a very casual setting for a friendly chat!</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "Javascript",
+        "Node.js",
+        "PostgreSQL",
+        "React.js",
+        "Kotlin",
+        "Swift",
+        "React Native",
+        "Swift/Objective C/iOS/Xcode",
+        "Kotlin for Android",
+        "Flowjs"
+      ],
+      "payment": {
+        "salary": "£50k – £75k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": "Tech Lead",
+        "role": "Employee",
+        "url": "https://angel.co/u/abraham-polishchuk",
+        "name": "Abraham Polishchuk",
+        "avatar": "https://photos.angel.co/users/159146-medium_jpg?1463117544"
+      },
+      "refs": {
+        "angelListId": "368978",
+        "angelListUrl": "https://angel.co/company/flockcover/jobs/368978-"
+      }
+    }
+  ]
+}

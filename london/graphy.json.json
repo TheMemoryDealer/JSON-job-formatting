@@ -1,0 +1,165 @@
+{
+  "name": "Graphy",
+  "avatar": "https://photos.angel.co/startups/i/7019265-75043e449f6264c02ad88c69bfa1e687-medium_jpg.jpg?buster=1578743141",
+  "slogan": "The all-in-one data collaboration platform for modern teams",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://graphyapp.com/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/graphyhq"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/graphyhq/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/graphyhq/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Remote"
+  ],
+  "marketTags": [
+    "Analytics",
+    "SaaS",
+    "Productivity Software",
+    "Business Intelligence"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/roman-sirbu",
+      "name": "Roman Sîrbu",
+      "avatar": "https://photos.angel.co/users/9567568-medium_jpg?1562061250",
+      "bioHtml": "CTO at Graphy"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/vinitsky-andrey",
+      "name": "Andrey Vinitsky",
+      "avatar": "https://photos.angel.co/users/7505464-medium_jpg?1561100237",
+      "bioHtml": "CEO at Graphy"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/kelly-adam-2",
+      "name": "Kelly Adam",
+      "avatar": "https://photos.angel.co/users/10855372-medium_jpg?1583776224",
+      "bioHtml": "Operations at Graphy"
+    },
+    {
+      "title": "Senior Frontend Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/scott-warren-10",
+      "name": "Scott Warren",
+      "avatar": "https://photos.angel.co/users/5990123-medium_jpg?1539094705",
+      "bioHtml": "React/Redux focused Frontend Engineer (experienced in Node.js and PHP) DB Experience: MongoDB/MySQL/PostgreSQL. AU and EU citizen"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/mike-porter-7",
+      "name": "Mike Porter",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7019265",
+    "angelListUrl": "https://angel.co/company/graphy"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Software Engineer – React",
+      "description": "Our mission is to reimagine how teams work with data.\r\n\r\nGraphy is the all-in-one data collaboration platform where teams create beautiful and interactive dashboards. Loaded with data from apps teams already use and love.\r\n\r\nWe've just raised our seed round from top tier VCs and angels.\r\n\r\nAbout this role 😎\r\n\r\nWe're looking for an experienced Software Engineer for our London office (remote is ok too within the BST to BST+2 timezones!). You will partner with our CTO and work on the core product. We have an ambitious roadmap. You'll be among our first engineers on our exciting journey. You'll grow by taking on significant engineering challenges.\r\n\r\nBring your learning mindset and sense of humour – we're looking forward to meeting you!\r\n\r\nWhat you'll do 👩‍🏫\r\n\r\n- Develop new features and improve existing ones.\r\n- Design and develop components in isolation, and integrate them into the core product.\r\n- Specialize in one of these main areas: real-time collaboration features; UI design; data visualization.\r\n- Use and develop internal tools.\r\n- Help customers solve their issues and respond to their feedback.\r\n\r\nWhat you'll need 👀\r\n\r\n- Strong commercial background in JavaScript, its ecosystem and (preferably) React.\r\n- Obsession with quality, small details, best practices etc.\r\n- Experience in one of these main areas is welcomed but not required: real-time collaboration features; UI design; data visualization.\r\n- Previous experience in other startups is a big plus for us.\r\n- Strong communication and organisational skills.\r\n\r\nBenefits 🤩\r\n💸 Competitive salary\r\n🤑 Equity\r\n🔋 Personal growth fund (extra money for courses, events etc.)\r\n📅 Flexible working\r\n👩‍💻 Remote-first processes\r\n💻 All the tech you need to help you build your own workspace (fully specced MacBook Pro or equivalent, monitors, gadgets, software etc.)\r\n🏖️ Retreats every 6 months in some cool place in Europe\r\n🍿 Team activities (spin events, paintball, bowling etc.)\r\n📚 Kindle + ebooks\r\n\r\nTech stack 🕹\r\nhttps://stackshare.io/graphy/graphy\r\n\r\n*Apply now* 👉 https://airtable.com/shrsQFkUkAQFbipA0\r\n(No agencies or recruiters please!)\r\n\r\nGraphy careers: https://graphyapp.com/careers",
+      "descriptionHtml": "<p>Our mission is to reimagine how teams work with data.</p>\n\n<p>Graphy is the all-in-one data collaboration platform where teams create beautiful and interactive dashboards. Loaded with data from apps teams already use and love.</p>\n\n<p>We&#39;ve just raised our seed round from top tier VCs and angels.</p>\n\n<p>About this role 😎</p>\n\n<p>We&#39;re looking for an experienced Software Engineer for our London office (remote is ok too within the BST to BST+2 timezones!). You will partner with our CTO and work on the core product. We have an ambitious roadmap. You&#39;ll be among our first engineers on our exciting journey. You&#39;ll grow by taking on significant engineering challenges.</p>\n\n<p>Bring your learning mindset and sense of humour – we&#39;re looking forward to meeting you!</p>\n\n<p>What you&#39;ll do 👩‍🏫</p>\n\n<ul>\n<li>Develop new features and improve existing ones.</li>\n<li>Design and develop components in isolation, and integrate them into the core product.</li>\n<li>Specialize in one of these main areas: real-time collaboration features; UI design; data visualization.</li>\n<li>Use and develop internal tools.</li>\n<li>Help customers solve their issues and respond to their feedback.</li>\n</ul>\n\n<p>What you&#39;ll need 👀</p>\n\n<ul>\n<li>Strong commercial background in JavaScript, its ecosystem and (preferably) React.</li>\n<li>Obsession with quality, small details, best practices etc.</li>\n<li>Experience in one of these main areas is welcomed but not required: real-time collaboration features; UI design; data visualization.</li>\n<li>Previous experience in other startups is a big plus for us.</li>\n<li>Strong communication and organisational skills.</li>\n</ul>\n\n<p>Benefits 🤩<br>\n💸 Competitive salary<br>\n🤑 Equity<br>\n🔋 Personal growth fund (extra money for courses, events etc.)<br>\n📅 Flexible working<br>\n👩‍💻 Remote-first processes<br>\n💻 All the tech you need to help you build your own workspace (fully specced MacBook Pro or equivalent, monitors, gadgets, software etc.)<br>\n🏖️ Retreats every 6 months in some cool place in Europe<br>\n🍿 Team activities (spin events, paintball, bowling etc.)<br>\n📚 Kindle + ebooks</p>\n\n<p>Tech stack 🕹<br>\n<a href=\"https://stackshare.io/graphy/graphy\" target=\"_blank\" rel=\"nofollow\">https://stackshare.io/graphy/graphy</a></p>\n\n<p><em>Apply now</em> 👉 <a href=\"https://airtable.com/shrsQFkUkAQFbipA0\" target=\"_blank\" rel=\"nofollow\">https://airtable.com/shrsQFkUkAQFbipA0</a><br>\n(No agencies or recruiters please!)</p>\n\n<p>Graphy careers: <a href=\"https://graphyapp.com/careers\" target=\"_blank\" rel=\"nofollow\">https://graphyapp.com/careers</a></p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Frontend Development",
+        "React.js"
+      ],
+      "payment": {
+        "salary": "£60k – £80k",
+        "equity": "0.2% – 0.6%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Founder",
+        "url": "https://angel.co/u/roman-sirbu",
+        "name": "Roman Sîrbu",
+        "avatar": "https://photos.angel.co/users/9567568-medium_jpg?1562061250"
+      },
+      "refs": {
+        "angelListId": "582773",
+        "angelListUrl": "https://angel.co/company/graphy/jobs/582773-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Backend Engineer – Node",
+      "description": "Our mission is to reimagine how teams work with data.\r\n\r\nGraphy is the all-in-one data collaboration platform where teams create beautiful and interactive dashboards. Loaded with data from apps teams already use and love.\r\n\r\nWe've just raised our seed round from top tier VCs and angels.\r\n\r\nAbout this role 😎\r\n\r\nWe're looking for an experienced Backend Engineer for our London office (remote is ok too within the BST to BST+2 timezones!). You will partner with our CTO and work on the core product. We have an ambitious roadmap. You'll be among our first engineers on our exciting journey. You'll grow by taking on significant engineering challenges.\r\n\r\nBring your learning mindset and sense of humour – we're looking forward to meeting you!\r\n\r\nWhat you'll do 👩‍🏫\r\n- Develop new features and improve existing ones.\r\n- Design and develop services in isolation, and integrate them into the core product.\r\n- Specialize in one of these main areas: real-time collaboration features; internal APIs and services; third-party integrations; data formats and structures; or backend infrastructure.\r\n- Use and develop internal tools.\r\n- Help customers solve their issues and respond to their feedback.\r\n\r\nWhat you'll need 👀\r\n- Strong commercial background in JavaScript / Node / APIs.\r\n- Obsession with quality, small details, best practices etc.\r\n- Experience in one of these main areas is welcomed but not required: real-time collaboration features; internal APIs and services; third-party integrations; data formats and structures; backend infrastructure.\r\n- Experience in databases, scalable systems and backend performance optimization.\r\n- Previous experience in other startups is a big plus for us.\r\n- Strong communication and organisational skills.\r\n\r\nBenefits 🤩\r\n💸 Competitive salary\r\n🤑 Equity\r\n🔋 Personal growth fund (extra money for courses, events etc.)\r\n📅 Flexible working\r\n👩‍💻 Remote-first processes\r\n💻 All the tech you need to help you build your own workspace (fully specced MacBook Pro or equivalent, monitors, gadgets, software etc.)\r\n🏖️ Retreats every 6 months in some cool place in Europe\r\n🍿 Team activities (spin events, paintball, bowling etc.)\r\n📚 Kindle + ebooks\r\n\r\nTech stack 🕹\r\nhttps://stackshare.io/graphy/graphy\r\n\r\n*Apply now* 👉 https://airtable.com/shrsQFkUkAQFbipA0\r\n(No agencies or recruiters please!)\r\n\r\nGraphy careers: https://graphyapp.com/careers",
+      "descriptionHtml": "<p>Our mission is to reimagine how teams work with data.</p>\n\n<p>Graphy is the all-in-one data collaboration platform where teams create beautiful and interactive dashboards. Loaded with data from apps teams already use and love.</p>\n\n<p>We&#39;ve just raised our seed round from top tier VCs and angels.</p>\n\n<p>About this role 😎</p>\n\n<p>We&#39;re looking for an experienced Backend Engineer for our London office (remote is ok too within the BST to BST+2 timezones!). You will partner with our CTO and work on the core product. We have an ambitious roadmap. You&#39;ll be among our first engineers on our exciting journey. You&#39;ll grow by taking on significant engineering challenges.</p>\n\n<p>Bring your learning mindset and sense of humour – we&#39;re looking forward to meeting you!</p>\n\n<p>What you&#39;ll do 👩‍🏫</p>\n\n<ul>\n<li>Develop new features and improve existing ones.</li>\n<li>Design and develop services in isolation, and integrate them into the core product.</li>\n<li>Specialize in one of these main areas: real-time collaboration features; internal APIs and services; third-party integrations; data formats and structures; or backend infrastructure.</li>\n<li>Use and develop internal tools.</li>\n<li>Help customers solve their issues and respond to their feedback.</li>\n</ul>\n\n<p>What you&#39;ll need 👀</p>\n\n<ul>\n<li>Strong commercial background in JavaScript / Node / APIs.</li>\n<li>Obsession with quality, small details, best practices etc.</li>\n<li>Experience in one of these main areas is welcomed but not required: real-time collaboration features; internal APIs and services; third-party integrations; data formats and structures; backend infrastructure.</li>\n<li>Experience in databases, scalable systems and backend performance optimization.</li>\n<li>Previous experience in other startups is a big plus for us.</li>\n<li>Strong communication and organisational skills.</li>\n</ul>\n\n<p>Benefits 🤩<br>\n💸 Competitive salary<br>\n🤑 Equity<br>\n🔋 Personal growth fund (extra money for courses, events etc.)<br>\n📅 Flexible working<br>\n👩‍💻 Remote-first processes<br>\n💻 All the tech you need to help you build your own workspace (fully specced MacBook Pro or equivalent, monitors, gadgets, software etc.)<br>\n🏖️ Retreats every 6 months in some cool place in Europe<br>\n🍿 Team activities (spin events, paintball, bowling etc.)<br>\n📚 Kindle + ebooks</p>\n\n<p>Tech stack 🕹<br>\n<a href=\"https://stackshare.io/graphy/graphy\" target=\"_blank\" rel=\"nofollow\">https://stackshare.io/graphy/graphy</a></p>\n\n<p><em>Apply now</em> 👉 <a href=\"https://airtable.com/shrsQFkUkAQFbipA0\" target=\"_blank\" rel=\"nofollow\">https://airtable.com/shrsQFkUkAQFbipA0</a><br>\n(No agencies or recruiters please!)</p>\n\n<p>Graphy careers: <a href=\"https://graphyapp.com/careers\" target=\"_blank\" rel=\"nofollow\">https://graphyapp.com/careers</a></p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Node.js",
+        "Redis",
+        "Backend Development"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Founder",
+        "url": "https://angel.co/u/roman-sirbu",
+        "name": "Roman Sîrbu",
+        "avatar": "https://photos.angel.co/users/9567568-medium_jpg?1562061250"
+      },
+      "refs": {
+        "angelListId": "582777",
+        "angelListUrl": "https://angel.co/company/graphy/jobs/582777-"
+      }
+    }
+  ]
+}

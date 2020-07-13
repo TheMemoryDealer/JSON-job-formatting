@@ -1,0 +1,106 @@
+{
+  "name": "NYANSA",
+  "avatar": "https://photos.angel.co/startups/i/1024811-3fa879d53852160f79c54637970f0452-medium_jpg.jpg?buster=1456849613",
+  "slogan": "Educational Games",
+  "description": "Educational games which make learning fun and exciting! Games which fulfill the world's needs for interactive games.\n\nNYANSA’s educational games enhance judgement, analysis and strategic thinking, making it easy to learn about the things which matter most.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.nyansa.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/NyansaUK"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/Nyansa-Educational-Games-1681700608778667/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/nyansa"
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Educational Games",
+    "Mobile Games",
+    "Board Games",
+    "Gamification"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/shaun-scoon",
+      "name": "Shaun Scoon",
+      "avatar": "https://photos.angel.co/users/5778570-medium_jpg?1487265041",
+      "bioHtml": "Worked at MAMA Youth Project, Accenture"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/joseph-antwi-kusi",
+      "name": "JOSEPH ANTWI KUSI",
+      "avatar": "https://photos.angel.co/users/1979667-medium_jpg?1456448784",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/nyansa-2\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">NYANSA</span></a> • Worked at <a href=\"https://angel.co/company/accenture\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Accenture</span></a>, <a href=\"https://angel.co/company/royal-bank-of-scotland\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Royal Bank of Scotland</span></a> • Studied at <a href=\"https://angel.co/university-of-wales-institute-cardiff\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University Of Wales Institute, Cardiff</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "1024811",
+    "angelListUrl": "https://angel.co/company/nyansa-2"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Chief Technology Officer",
+      "description": "The team at Nyansa is looking to fill the CTO role. This role will involve overseeing all technical aspects and technological resources at Nyansa for the purpose of organisational growth. \n\nYou will establish a technological vision for the company and lead the technological development of our products including educational software and applications.",
+      "descriptionHtml": "<p>The team at Nyansa is looking to fill the CTO role. This role will involve overseeing all technical aspects and technological resources at Nyansa for the purpose of organisational growth. </p>\n\n<p>You will establish a technological vision for the company and lead the technological development of our products including educational software and applications.</p>\n",
+      "position": "cofounder",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Software Engineering",
+        "Software Development",
+        "Mobile Application Design",
+        "Software Architecture"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "5.0% – 8.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Investor",
+        "url": "https://angel.co/u/joseph-antwi-kusi",
+        "name": "JOSEPH ANTWI KUSI",
+        "avatar": "https://photos.angel.co/users/1979667-medium_jpg?1456448784"
+      },
+      "refs": {
+        "angelListId": "122431",
+        "angelListUrl": "https://angel.co/company/nyansa-2/jobs/122431-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "name": "We Are Polymer",
+  "avatar": "https://photos.angel.co/startups/i/7449758-c20a0d8c21a5bed50afb97151e5f5e2a-medium_jpg.jpg?buster=1580220667",
+  "slogan": "A human approach in a world of data, automation and AI",
+  "description": "Polymer provides online acquisition services covering paid search (PPC on Google, Bing, Amazon), organic search (SEO) and paid social (Facebook, Twitter, Instagram).\n\nPolymer is a new kind of digital performance agency. Founded by one of the leading authorities in the industry, Polymer is an expert at data. But we emphasise the human element too. We get to the bottom of ‘why’ customers are behaving the way they are, and create strategies that work for consumers as well as brands.\n\nData alone is no longer enough; personalisation is falling out of favour. Polymer thinks differently, having over £1bn of search ad spend experience to call upon to power direct response marketing campaigns.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.wearepolymer.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Advertising",
+    "Digital Marketing",
+    "Analytics / Data"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/garyreid",
+      "name": "Gary Reid",
+      "avatar": "https://photos.angel.co/users/60733-medium_jpg?1580219537",
+      "bioHtml": "Veteran direct marketing agency"
+    },
+    {
+      "title": "Head of Performance",
+      "role": "Employee",
+      "url": "https://angel.co/u/michael-wickham-2",
+      "name": "Michael Wickham",
+      "avatar": "https://photos.angel.co/users/10014171-medium_jpg?1568912478",
+      "bioHtml": "9+ years of marketing and operations experience across two leading agencies. Entrepreneurial with a passion for growth in small business."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7449758",
+    "angelListUrl": "https://angel.co/company/we-are-polymer"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Developer",
+      "description": "Ground floor opportunity for a budding superstar...\n\nCome and help us build the next generation of marketing technology data platform. Polymer is looking for a full stack developer to join us at the beginning of our journey to help build the platform that provides key answers for our clients. You’ll be working with professional third-party data import system ready to go into your newly built data warehouse where you will create automated SQL to deliver fundamental client governance.\n\nThis role gives you the scope and freedom to develop a system from scratch to your design. To help our analysts access data both automatically and on an ad-hoc basis. This new platform underpins our whole business and as such it’s important we find the right person to deliver it.\n\n\nWhat we are looking for:\n- 2+ years Ruby/Python experience\n- AWS platform experience\n- Restful/JSON API’s\n- Complex SQL/NoSQL skills\n- Integrate 3rd party API\n- Collaboration and version control (Git)\n- 2+ years in backend development\n- Excellent problem-solving skills\n- Based in the UK (although we are flexible with remote working we would like this person to be part of the UK team)\n\n\nWhy work for us?\nWe are a flexible employer so are open to remote working and flexible hours. As a small, friendly tight knit group you get to help shape the overall business and have an input into how we develop as a business. Polymer will also be offering an employee share scheme to after an initial qualifying period.",
+      "descriptionHtml": "<p>Ground floor opportunity for a budding superstar...</p>\n\n<p>Come and help us build the next generation of marketing technology data platform. Polymer is looking for a full stack developer to join us at the beginning of our journey to help build the platform that provides key answers for our clients. You’ll be working with professional third-party data import system ready to go into your newly built data warehouse where you will create automated SQL to deliver fundamental client governance.</p>\n\n<p>This role gives you the scope and freedom to develop a system from scratch to your design. To help our analysts access data both automatically and on an ad-hoc basis. This new platform underpins our whole business and as such it’s important we find the right person to deliver it.</p>\n\n<p>What we are looking for:</p>\n\n<ul>\n<li>2+ years Ruby/Python experience</li>\n<li>AWS platform experience</li>\n<li>Restful/JSON API’s</li>\n<li>Complex SQL/NoSQL skills</li>\n<li>Integrate 3rd party API</li>\n<li>Collaboration and version control (Git)</li>\n<li>2+ years in backend development</li>\n<li>Excellent problem-solving skills</li>\n<li>Based in the UK (although we are flexible with remote working we would like this person to be part of the UK team)</li>\n</ul>\n\n<p>Why work for us?<br>\nWe are a flexible employer so are open to remote working and flexible hours. As a small, friendly tight knit group you get to help shape the overall business and have an input into how we develop as a business. Polymer will also be offering an employee share scheme to after an initial qualifying period.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "SQL",
+        "Ruby",
+        "JSON",
+        "Phyton",
+        "AWS",
+        "RESTful API"
+      ],
+      "payment": {
+        "salary": "£30k – £40k",
+        "equity": "0.25% – 1.0%"
+      },
+      "recruiter": {
+        "title": "Head of Performance",
+        "role": "Employee",
+        "url": "https://angel.co/u/michael-wickham-2",
+        "name": "Michael Wickham",
+        "avatar": "https://photos.angel.co/users/10014171-medium_jpg?1568912478"
+      },
+      "refs": {
+        "angelListId": "707973",
+        "angelListUrl": "https://angel.co/company/we-are-polymer/jobs/707973-"
+      }
+    }
+  ]
+}

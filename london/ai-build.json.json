@@ -1,0 +1,166 @@
+{
+  "name": "Ai Build",
+  "avatar": "https://photos.angel.co/startups/i/1121473-ebbfd479c6c86023d5961b93437fc95a-medium_jpg.jpg?buster=1469227978",
+  "slogan": "Artificial Intelligence and Advanced Additive Manufacturing technologies",
+  "description": "Ai Build is a London based company developing Artificial Intelligence and Advanced Additive Manufacturing technologies for the built environment. Ai Build's large scale robotic 3D printing technology allows designers, architects and engineers to manufacture large, complex forms very quickly and cost effectively by reducing material waste and eliminating human labour.\n\nOur goal is to provide an end-to-end 3D printing solution to customers which includes both the hardware to realise the physical printing process and the software to control it. Something we continually strive for is complete automation of this process. To achieve this we invest significant efforts into state of the art computer vision and machine learning techniques which work in tandem with our highly generalised toolpath planning algorithms.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.ai-build.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/ai_build"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/aibuildlimited/"
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Robotics",
+    "3D Printing",
+    "Artificial Intelligence",
+    "Internet of Things"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/michail-desyllas",
+      "name": "Michail Desyllas",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/daghan-cam",
+      "name": "Daghan Cam",
+      "avatar": "https://photos.angel.co/users/2209446-medium_jpg?1469106909",
+      "bioHtml": "Co-founder and CEO @ Ai Build. Visiting Lecturer @ UCL"
+    },
+    {
+      "title": "Head of Applied Research and Computational Design",
+      "role": "Employee",
+      "url": "https://angel.co/u/leonidas-leonidou-1",
+      "name": "Leonidas Leonidou",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Head of Applied Research and Computational Design at Ai Build"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/ifigeneia-asimaki",
+      "name": "Ifigeneia Asimaki",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/alicia-hidalgo",
+      "name": "Alicia Hidalgo",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "1121473",
+    "angelListUrl": "https://angel.co/company/ai-build"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full-stack Software Engineer",
+      "description": "We are developing a 3D printing web platform for the factories of the future. At this stage, we are keen to grow our team beyond the core members and would like to find a talented full-stack developer to contribute to work on the web platform. You would be working mostly on the web platform, but there is also scope for you to contribute to the core 3D printing algorithms.\n\n\nTechnical skills:\n\n- Strong grasp of at least one JVM language (e.g. Java, Kotlin, Scala...)\n- Experience with React and, ideally, Redux. We may consider candidates who don't have experience with React or Redux if they have significant experience in other relevant areas (e.g. another Javascript UI framework)\n- Experience with modern software engineering practices. Source control, unit & integration testing and code review are  fundamental parts of the software development process at Ai Build\n- We utilise ThreeJS alongside React for the 3D aspects of our UI. Experience with this isn't required but some basic knowledge of geometry and/or 3D engines is desirable\n\nResponsibilities:\n- Work closely with the CEO and VP Software Engineering to aid development of the web platform\n- Contribute to the technical direction of the software team. Ultimately, we want someone who can show technical leadership skills e.g. by suggesting appropriate technologies or improving the existing codebase\n\nAi Build is an equal opportunity employer. We offer competitive salary and the opportunity to join a fast-paced, enthusiastic team.",
+      "descriptionHtml": "<p>We are developing a 3D printing web platform for the factories of the future. At this stage, we are keen to grow our team beyond the core members and would like to find a talented full-stack developer to contribute to work on the web platform. You would be working mostly on the web platform, but there is also scope for you to contribute to the core 3D printing algorithms.</p>\n\n<p>Technical skills:</p>\n\n<ul>\n<li>Strong grasp of at least one JVM language (e.g. Java, Kotlin, Scala...)</li>\n<li>Experience with React and, ideally, Redux. We may consider candidates who don&#39;t have experience with React or Redux if they have significant experience in other relevant areas (e.g. another Javascript UI framework)</li>\n<li>Experience with modern software engineering practices. Source control, unit &amp; integration testing and code review are  fundamental parts of the software development process at Ai Build</li>\n<li>We utilise ThreeJS alongside React for the 3D aspects of our UI. Experience with this isn&#39;t required but some basic knowledge of geometry and/or 3D engines is desirable</li>\n</ul>\n\n<p>Responsibilities:</p>\n\n<ul>\n<li>Work closely with the CEO and VP Software Engineering to aid development of the web platform</li>\n<li>Contribute to the technical direction of the software team. Ultimately, we want someone who can show technical leadership skills e.g. by suggesting appropriate technologies or improving the existing codebase</li>\n</ul>\n\n<p>Ai Build is an equal opportunity employer. We offer competitive salary and the opportunity to join a fast-paced, enthusiastic team.</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "React.js",
+        "Kotlin"
+      ],
+      "payment": {
+        "salary": "£50k – £60k",
+        "equity": "0.0% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/daghan-cam",
+        "name": "Daghan Cam",
+        "avatar": "https://photos.angel.co/users/2209446-medium_jpg?1469106909"
+      },
+      "refs": {
+        "angelListId": "354461",
+        "angelListUrl": "https://angel.co/company/ai-build/jobs/354461-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "Responsibilities:\n- Work closely with the CEO and lead the development of AiSync web application for large scale robotic 3D printing.\n- Take responsibility of managing the full stack in an agile environment using Ai Build’s back-end algorithms and manufacturing data.\n- Implement new features and data storage solutions for improving the performance of the product.\n\nAbsolutely necessary skills:\n- Java 8\n- ES6 JavaScript\n- Familiarity with a backend JVM framework (ideally Dropwizard, but Spring/Spring Boot or similar would also be OK)\n- React\n- Docker\n- SQL (PostgreSQL familiarity is great but not required)\n- Strong understanding of REST\n- Strong understanding of concurrency\n\nStrongly recommended skills:\n- Git\n- Familiarity with Unix systems\n- Familiarity with JVM testing frameworks such as JUnit, Mockito etc.\n- Terraform (or at the very least practical experience with cloud computing, e.g. AWS and some knowledge of modern DevOps practices)\n- CSS\n- Familiarity with basic networking protocols (TCP, DNS, HTTP)\n- Experience working with websockets\n- Experience with the Maven build system\n- Nginx\n- Redux\n\nNice to have skills:\n- Kotlin\n- GNU Make\n- Docker Compose\n- NPM\n- Liquibase\n- Experience using native libraries via JNI\n- Selenium\n- Bash\n- ThreeJS\n- SLF4J\n- Practical experience debugging memory related issues via e.g. VisualVM\n- VisJS\n- Webpack\n- NightmareJS",
+      "descriptionHtml": "<p>Responsibilities:</p>\n\n<ul>\n<li>Work closely with the CEO and lead the development of AiSync web application for large scale robotic 3D printing.</li>\n<li>Take responsibility of managing the full stack in an agile environment using Ai Build’s back-end algorithms and manufacturing data.</li>\n<li>Implement new features and data storage solutions for improving the performance of the product.</li>\n</ul>\n\n<p>Absolutely necessary skills:</p>\n\n<ul>\n<li>Java 8</li>\n<li>ES6 JavaScript</li>\n<li>Familiarity with a backend JVM framework (ideally Dropwizard, but Spring/Spring Boot or similar would also be OK)</li>\n<li>React</li>\n<li>Docker</li>\n<li>SQL (PostgreSQL familiarity is great but not required)</li>\n<li>Strong understanding of REST</li>\n<li>Strong understanding of concurrency</li>\n</ul>\n\n<p>Strongly recommended skills:</p>\n\n<ul>\n<li>Git</li>\n<li>Familiarity with Unix systems</li>\n<li>Familiarity with JVM testing frameworks such as JUnit, Mockito etc.</li>\n<li>Terraform (or at the very least practical experience with cloud computing, e.g. AWS and some knowledge of modern DevOps practices)</li>\n<li>CSS</li>\n<li>Familiarity with basic networking protocols (TCP, DNS, HTTP)</li>\n<li>Experience working with websockets</li>\n<li>Experience with the Maven build system</li>\n<li>Nginx</li>\n<li>Redux</li>\n</ul>\n\n<p>Nice to have skills:</p>\n\n<ul>\n<li>Kotlin</li>\n<li>GNU Make</li>\n<li>Docker Compose</li>\n<li>NPM</li>\n<li>Liquibase</li>\n<li>Experience using native libraries via JNI</li>\n<li>Selenium</li>\n<li>Bash</li>\n<li>ThreeJS</li>\n<li>SLF4J</li>\n<li>Practical experience debugging memory related issues via e.g. VisualVM</li>\n<li>VisJS</li>\n<li>Webpack</li>\n<li>NightmareJS</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "SQL",
+        "REST",
+        "Docker",
+        "React.js",
+        "Es6"
+      ],
+      "payment": {
+        "salary": "£30k – £60k",
+        "equity": "0.0% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/daghan-cam",
+        "name": "Daghan Cam",
+        "avatar": "https://photos.angel.co/users/2209446-medium_jpg?1469106909"
+      },
+      "refs": {
+        "angelListId": "520679",
+        "angelListUrl": "https://angel.co/company/ai-build/jobs/520679-"
+      }
+    }
+  ]
+}

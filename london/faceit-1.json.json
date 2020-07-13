@@ -1,0 +1,146 @@
+{
+  "name": "FACEIT",
+  "avatar": "https://photos.angel.co/startups/i/77587-616b1e45821a38ef2697ee700ab8bf98-medium_jpg.jpg?buster=1332301868",
+  "slogan": "The online playground for gamers",
+  "description": "Our vision at FACEIT is to revolutionize the way people live videogames.\n\nThanks to one of the most advanced gaming platform, on FACEIT you can play, follow and watch your favourite e-sports titles. We take care of all the hassle with automatic tracking of results, statistics and achievements, as well as matchmaking and pick-up games. \n\nThe most exciting gaming actions are streamed live and casted on FACEIT TV, the high quality production in gaming. \n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.faceit.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://blog.faceit.com"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@faceit"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Video Games",
+    "Online Gaming",
+    "Video Streaming"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 17000000,
+    "rounds": [
+      {
+        "type": "",
+        "closedAt": 1453852800,
+        "valuation": 0
+      },
+      {
+        "type": "",
+        "closedAt": 1434499200,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/alessandro-avallone",
+      "name": "Alessandro Avallone",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/attisanim-gmail-com",
+      "name": "Michele Attisani",
+      "avatar": "https://photos.angel.co/users/103009-medium_jpg?1571638335",
+      "bioHtml": "Gamer, Co-founder and Chief Business Officer <a href=\"https://angel.co/company/faceit-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">FACEIT</span></a> "
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/nmaisto",
+      "name": "Niccolo Maisto",
+      "avatar": "https://photos.angel.co/users/108350-medium_jpg?1405523198",
+      "bioHtml": ""
+    },
+    {
+      "title": "CEO",
+      "role": "Employee",
+      "url": "https://angel.co/u/nmaisto",
+      "name": "Niccolo Maisto",
+      "avatar": "https://photos.angel.co/users/108350-medium_jpg?1405523198",
+      "bioHtml": ""
+    },
+    {
+      "title": "CBO",
+      "role": "Employee",
+      "url": "https://angel.co/u/attisanim-gmail-com",
+      "name": "Michele Attisani",
+      "avatar": "https://photos.angel.co/users/103009-medium_jpg?1571638335",
+      "bioHtml": "Gamer, Co-founder and Chief Business Officer <a href=\"https://angel.co/company/faceit-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">FACEIT</span></a> "
+    },
+    {
+      "title": "Senior Recruiter",
+      "role": "Employee",
+      "url": "https://angel.co/u/jack-doyle-7",
+      "name": "Jack Doyle",
+      "avatar": "https://photos.angel.co/users/9575133-medium_jpg?1561467258",
+      "bioHtml": "10 years experience in talent roles, managed a global team for FTSE 100 business, built a team for Financial Times and currently scaling a gaming tech company!"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "77587",
+    "angelListUrl": "https://angel.co/company/faceit-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "React Developer",
+      "description": "For developers, FACEIT’s advanced software development kit (SDK) allows game creators to easily integrate user-friendly matchmaking and tournaments into their titles to allow gamers to take part in competitive online games at all skill levels. esports organisers, players and communities use FACEIT to create and manage online competitions. \n\nAs a senior developer, you will lead the development of new and exciting features and maintenance of our core web application and SDK widgets.\n\nWe have a common passion for online games and are a close group of people that share a “work hard, play hard” mentality. We had tons of fun building the company from scratch and never stopped.",
+      "descriptionHtml": "<p>For developers, FACEIT’s advanced software development kit (SDK) allows game creators to easily integrate user-friendly matchmaking and tournaments into their titles to allow gamers to take part in competitive online games at all skill levels. esports organisers, players and communities use FACEIT to create and manage online competitions. </p>\n\n<p>As a senior developer, you will lead the development of new and exciting features and maintenance of our core web application and SDK widgets.</p>\n\n<p>We have a common passion for online games and are a close group of people that share a “work hard, play hard” mentality. We had tons of fun building the company from scratch and never stopped.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "React.js",
+        "Redux"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Talent Acquisition Manager",
+        "role": "Employee",
+        "url": "https://angel.co/u/jencradd",
+        "name": "Jen Craddock",
+        "avatar": "https://photos.angel.co/users/2860305-medium_jpg?1469527440"
+      },
+      "refs": {
+        "angelListId": "536158",
+        "angelListUrl": "https://angel.co/company/faceit-1/jobs/536158-"
+      }
+    }
+  ]
+}

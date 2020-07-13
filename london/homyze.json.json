@@ -1,0 +1,104 @@
+{
+  "name": "Homyze",
+  "avatar": "https://photos.angel.co/startups/i/759804-ed1faf5f7b46d862e85439c7637fe5e8-medium_jpg.jpg?buster=1477404890",
+  "slogan": "On-demand home services",
+  "description": "Homeworks. On demand\n\nHomyze offers on demand service provision by skilled tradespersons. All suppliers are vetted for quality, knowledge and the ability to leave customers completely satisfied. \n\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.homyze.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@homyze"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/thehomyze"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/homyze"
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Home Renovation",
+    "Home Owners",
+    "Home Decor",
+    "Home & Garden"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/adam-edgell-bush",
+      "name": "Adam Edgell-Bush",
+      "avatar": "https://photos.angel.co/users/666312-medium_jpg?1437383008",
+      "bioHtml": "Business background as hedge fund analyst for consumer, tech and media. Former COO and Principal: $50m+ exit for consumer business, Founder of start up."
+    },
+    {
+      "title": "CTO & Co-Founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/sarunas",
+      "name": "Sarunas Savicianskas",
+      "avatar": "https://photos.angel.co/users/175810-medium_jpg?1588073222",
+      "bioHtml": "Technology enthusiast and an expert in High-Scale Product Development. Wide range of knowledge mainly on Product Development and Tech Scaling."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "759804",
+    "angelListUrl": "https://angel.co/company/homyze"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Full Stack Developer/Startup CTO",
+      "description": "Homyze are looking for a Full Stack developer to expand our technical team and help deliver our vision to become THE online platform for residential and commercial property maintenance. We are after passionate techies who aren’t afraid to try new technologies, who strive to deliver the best customer services possible through technology. Our technology operates globally and we need individuals who can think and implement globally as well.\n\nThe ideal candidate will also be looking to step up and take ownership of parts of our roadmap - comfortable with our frontend stack, while still keep their hands dirty with the backend.\n\n\nAbout Us:\nHomyze is London’s leading marketplace for property professionals such as letting agents, block and facilities managers to book trade professionals and get actionable insights into their spending. \n\nWe are looking to become the way in which all reactive and scheduled work is carried out, opening up the platform as a SaaS solution and using big data analytics to save time and money for our clients. \n\nOur business has been growing quickly and we are looking for talented individuals to help in continuing this growth, and to be a part of the bigger Homyze story.\n\n\nOur Tech:\nWe run a Node.js microservice stack, running REST APIs for external parties and to our frontend website and mobile apps. Internally most communication is event driven utilising AWS SQS extensively to de-couple our applications. We run our stack globally out of data centres in both Ireland and Australia, with more to come as we expand globally.\n\n\nRequirements:\n5+ years commercial frontend development experience with Javascript preference\n5+ years commercial backend development experience (preferably Node.js)\nComfortable with CI/CD\nExperience with MySQL databases\nExperience working with AWS \nExperience working with and designing RESTful APIs\nConfident using Git & Gitlab and working in an Agile (Kanban) workplace\nExcited about working with GraphQL and React/ReactNative, MaterialUI and potentially TensorFlow, Highcharts/D3",
+      "descriptionHtml": "<p>Homyze are looking for a Full Stack developer to expand our technical team and help deliver our vision to become THE online platform for residential and commercial property maintenance. We are after passionate techies who aren’t afraid to try new technologies, who strive to deliver the best customer services possible through technology. Our technology operates globally and we need individuals who can think and implement globally as well.</p>\n\n<p>The ideal candidate will also be looking to step up and take ownership of parts of our roadmap - comfortable with our frontend stack, while still keep their hands dirty with the backend.</p>\n\n<p>About Us:<br>\nHomyze is London’s leading marketplace for property professionals such as letting agents, block and facilities managers to book trade professionals and get actionable insights into their spending. </p>\n\n<p>We are looking to become the way in which all reactive and scheduled work is carried out, opening up the platform as a SaaS solution and using big data analytics to save time and money for our clients. </p>\n\n<p>Our business has been growing quickly and we are looking for talented individuals to help in continuing this growth, and to be a part of the bigger Homyze story.</p>\n\n<p>Our Tech:<br>\nWe run a Node.js microservice stack, running REST APIs for external parties and to our frontend website and mobile apps. Internally most communication is event driven utilising AWS SQS extensively to de-couple our applications. We run our stack globally out of data centres in both Ireland and Australia, with more to come as we expand globally.</p>\n\n<p>Requirements:<br>\n5+ years commercial frontend development experience with Javascript preference<br>\n5+ years commercial backend development experience (preferably Node.js)<br>\nComfortable with CI/CD<br>\nExperience with MySQL databases<br>\nExperience working with AWS <br>\nExperience working with and designing RESTful APIs<br>\nConfident using Git &amp; Gitlab and working in an Agile (Kanban) workplace<br>\nExcited about working with GraphQL and React/ReactNative, MaterialUI and potentially TensorFlow, Highcharts/D3</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Backend Development",
+        "Frontend Development"
+      ],
+      "payment": {
+        "salary": "£55k – £68k",
+        "equity": "0.0% – 5.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/adam-edgell-bush",
+        "name": "Adam Edgell-Bush",
+        "avatar": "https://photos.angel.co/users/666312-medium_jpg?1437383008"
+      },
+      "refs": {
+        "angelListId": "572606",
+        "angelListUrl": "https://angel.co/company/homyze/jobs/572606-"
+      }
+    }
+  ]
+}

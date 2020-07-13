@@ -1,0 +1,131 @@
+{
+  "name": "Tavan",
+  "avatar": "https://photos.angel.co/startups/i/7129341-d511b8fa2f30c5ec0d45c2d451adabe7-medium_jpg.jpg?buster=1565866701",
+  "slogan": "Data-driven route builder for runners & cyclists",
+  "description": "Tavan is for the 150M+ runners/cyclists in the world. We initially launched with a weather-based clothing recommendation engine. Then we decided to pivot into route-building. Our data-driven route builder uses aggregated and anonymized activity data from athletes to generate the best route alternatives for other athletes. We're revolutionizing how athletes discover their surroundings. We have a culture that is very supportive of endurance training and sports. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://tavan.app/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/tavanapp"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/tavanapp/about/?viewasmember=true"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "Istanbul",
+    "London"
+  ],
+  "marketTags": [
+    "Sports",
+    "Mobile Application",
+    "Machine Learning",
+    "Adtech"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 150000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1551398400,
+        "valuation": 1000000
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/mert-salur",
+      "name": "Mert Salur",
+      "avatar": "https://photos.angel.co/users/1865735-medium_jpg?1565942626",
+      "bioHtml": "Founder of Tavan. Co-Founder of Getir, the fastest mobile retail app in the world. Co-Founder of BiTaksi, Turkey&#39;s leading taxi-hailing app."
+    },
+    {
+      "title": "Software engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/kaan-dura",
+      "name": "Kaan Dura",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Went to Bogazici University"
+    }
+  ],
+  "perks": [
+    {
+      "category": "equity",
+      "title": "Equity benefits"
+    },
+    {
+      "category": "work_from_home",
+      "title": "Remote friendly"
+    },
+    {
+      "category": "wellness",
+      "title": "Wellness benefits"
+    }
+  ],
+  "refs": {
+    "angelListId": "7129341",
+    "angelListUrl": "https://angel.co/company/tavan-1"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "CTO & Co-Founder",
+      "description": "Develop technology and people.\n\n* Be full-stack. You don't have to be an expert in everything, as long as you have the confidence that you can learn and execute when necessary.\n* Recruit, retain, and develop awesome people. But in the early days, do as much as you can individually. Then recruit, delegate, manage, yet know the whole picture.\n* Be the Founder's liasion to the entire tech-development process. Explain like you'll explain to a five year old when necessary.\n* Do not limit yourself to simpliy technology. You'll be a Co-Founder and thus you'll have an important say.\n* Call the Founder out when you think they're wrong. Disagree and commit to the vision when needed.\n* Be decent and fun. Why go on a collective journey if it's not going to be enjoyable on a human-to-human level?\n\n(current) tech stack: Node.js, MongoDB, React Native, Python, RabbitMQ, AWS, Google Cloud.",
+      "descriptionHtml": "<p>Develop technology and people.</p>\n\n<ul>\n<li>Be full-stack. You don&#39;t have to be an expert in everything, as long as you have the confidence that you can learn and execute when necessary.</li>\n<li>Recruit, retain, and develop awesome people. But in the early days, do as much as you can individually. Then recruit, delegate, manage, yet know the whole picture.</li>\n<li>Be the Founder&#39;s liasion to the entire tech-development process. Explain like you&#39;ll explain to a five year old when necessary.</li>\n<li>Do not limit yourself to simpliy technology. You&#39;ll be a Co-Founder and thus you&#39;ll have an important say.</li>\n<li>Call the Founder out when you think they&#39;re wrong. Disagree and commit to the vision when needed.</li>\n<li>Be decent and fun. Why go on a collective journey if it&#39;s not going to be enjoyable on a human-to-human level?</li>\n</ul>\n\n<p>(current) tech stack: Node.js, MongoDB, React Native, Python, RabbitMQ, AWS, Google Cloud.</p>\n",
+      "position": "cofounder",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Istanbul"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Machine Learning",
+        "Entrepreneurship",
+        "Node.js",
+        "Product Development",
+        "Recruitment",
+        "Full Stack Development",
+        "Backend Development",
+        "React Native"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "5.0% – 10.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Investor",
+        "url": "https://angel.co/u/mert-salur",
+        "name": "Mert Salur",
+        "avatar": "https://photos.angel.co/users/1865735-medium_jpg?1565942626"
+      },
+      "refs": {
+        "angelListId": "631016",
+        "angelListUrl": "https://angel.co/company/tavan-1/jobs/631016-"
+      }
+    }
+  ]
+}

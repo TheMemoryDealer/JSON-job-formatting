@@ -1,0 +1,117 @@
+{
+  "name": "Errata",
+  "avatar": "https://photos.angel.co/startups/i/7036272-31822399055bf8c2702f00a7ef3a9836-medium_jpg.jpg?buster=1562095717",
+  "slogan": "Semantic algorithm",
+  "description": "A semantic search engine that visualises the search term spatially and ranks the relevant data sources according to similarities in the 'semantic structure' of the search results.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://errataltd.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/supralogic"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Hong Kong"
+  ],
+  "marketTags": [
+    "Early Stage IT",
+    "Algorithms"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/victoria-lebegue",
+      "name": "Victoria Lebegue",
+      "avatar": "https://photos.angel.co/users/6392259-medium_jpg?1504602235",
+      "bioHtml": "Finch Capital &amp; Errata"
+    },
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/sanni-saarijaervi-1",
+      "name": "Sanni Saarijaervi",
+      "avatar": "https://photos.angel.co/users/7550397-medium_jpg?1519669894",
+      "bioHtml": "Worked at Errata. University College London"
+    },
+    {
+      "title": "Head of Business Development",
+      "role": "Employee",
+      "url": "https://angel.co/u/louis-lebegue",
+      "name": "Louis Lebegue ",
+      "avatar": "https://photos.angel.co/users/7808082-medium_jpg?1567700932",
+      "bioHtml": "International Development Graduate with tech sales experience. Looking for new opportunities in the emerging Agrotech industry."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7036272",
+    "angelListUrl": "https://angel.co/company/errata-1"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Head of Research and Development (Co-Founder)",
+      "description": "We are looking for a mathematically minded co-founder to complement our core team. You would be the master mind behind product development, and in charge of the company’s core product, a semantic algorithm, was well as integrally involved in visioning and designing various applications of the algorithm - especially the mathematical and/or visual aspect thereof. We are looking for a motivated, curious, and a little bit adventurous individual to join our ranks on the semantic front. In return we offer you a challenging and creative medium to express yourself.\r\n\r\nJob involves:\r\n- Algorithmic design\r\n- Database design\r\n- Visual design\r\n- If competent, applying statistical and machine learning methods, and training our algorithms on the data produced for and collected by our software\r\n\r\nRequirements:\r\n- Mathematical/technical educational background\r\n- Logical mind, holistic outlook\r\n- Problem-solving mindset\r\n- Motivation and initiative\r\n- Some programming experience (any language) preferred\r\n- Experience with / willingness to learn statistics and machine learning preferred\r\n- Multilingual must, an interest in natural languages a plus\r\n\r\nThe company is currently incorporated in the UK and Hong Kong.",
+      "descriptionHtml": "<p>We are looking for a mathematically minded co-founder to complement our core team. You would be the master mind behind product development, and in charge of the company’s core product, a semantic algorithm, was well as integrally involved in visioning and designing various applications of the algorithm - especially the mathematical and/or visual aspect thereof. We are looking for a motivated, curious, and a little bit adventurous individual to join our ranks on the semantic front. In return we offer you a challenging and creative medium to express yourself.</p>\n\n<p>Job involves:</p>\n\n<ul>\n<li>Algorithmic design</li>\n<li>Database design</li>\n<li>Visual design</li>\n<li>If competent, applying statistical and machine learning methods, and training our algorithms on the data produced for and collected by our software</li>\n</ul>\n\n<p>Requirements:</p>\n\n<ul>\n<li>Mathematical/technical educational background</li>\n<li>Logical mind, holistic outlook</li>\n<li>Problem-solving mindset</li>\n<li>Motivation and initiative</li>\n<li>Some programming experience (any language) preferred</li>\n<li>Experience with / willingness to learn statistics and machine learning preferred</li>\n<li>Multilingual must, an interest in natural languages a plus</li>\n</ul>\n\n<p>The company is currently incorporated in the UK and Hong Kong.</p>\n",
+      "position": "cofounder",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "Hong Kong",
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Asia"
+      ],
+      "skills": [
+        "Machine Learning",
+        "Programming",
+        "Mathematics",
+        "Natural Language Processing",
+        "Deep Learning"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "15.0% – 20.0%"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Founder",
+        "url": "https://angel.co/u/sanni-saarijaervi-1",
+        "name": "Sanni Saarijaervi",
+        "avatar": "https://photos.angel.co/users/7550397-medium_jpg?1519669894"
+      },
+      "refs": {
+        "angelListId": "583193",
+        "angelListUrl": "https://angel.co/company/errata-1/jobs/583193-"
+      }
+    }
+  ]
+}

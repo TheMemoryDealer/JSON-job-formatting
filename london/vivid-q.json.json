@@ -1,0 +1,257 @@
+{
+  "name": "VividQ",
+  "avatar": "https://photos.angel.co/startups/i/4185101-46a74b22fb0e4814a7912237906e4957-medium_jpg.jpg?buster=1516032955",
+  "slogan": "Deep-tech UK company with a world-leading expertise in holographic display",
+  "description": "VividQ is a UK-based, deep technology software company, with world-leading expertise in 3D holography - the ultimate 3D display technology. VividQ developed the world’s first software framework for holography, powering 3D display in AR/VR headsets, smart glasses, and automotive HUDs. By offering a complete software and embedded solution, VividQ makes the sci-fi dream of immersive human-machine interaction a reality. In 5 years, VividQ aims to power display in most consumer electronics in the world.\n\nThe company was founded in February 2017 in Cambridge by a technical team of PhD graduates from Oxford, St Andrews, and Cambridge itself. Following the development of Core - VividQ’s proprietary software engine - the company has reinforced its market leading position in AR/VR and digital display industry. VividQ collaborates with chipmakers, display nad consumer electronics manufacturers around the world, making holography a viable commercial display solution for the first time.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.vivid-q.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@vividqltd"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/16224310"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Cambridge"
+  ],
+  "marketTags": [
+    "Displays",
+    "Software",
+    "Augmented Reality",
+    "Virtual Reality"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 4200000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1551398400,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1485907200,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/andrzej-kaczorowski",
+      "name": "Andrzej Kaczorowski",
+      "avatar": "https://photos.angel.co/users/9896475-medium_jpg?1566604927",
+      "bioHtml": "Co-founder and CTO @ VividQ  \nPhD Photonic Systems Development @ University of Cambridge \nBSc (Hons) Physics and Computer Science @ King&#39;s College London "
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/darran-milne-1",
+      "name": "Darran Milne",
+      "avatar": "https://photos.angel.co/users/6747689-medium_jpg?1507905923",
+      "bioHtml": "Current: Co-founder and CEO of VividQ\n2015-2017: CTO Tech startup\n2012-2015: Quant Analyst\n2008-2012: PhD Quantum Information Theory - Quantum computing/Optics\n"
+    },
+    {
+      "title": "Admin & Accounts Executive",
+      "role": "Employee",
+      "url": "https://angel.co/u/sonia-silva-2",
+      "name": "Sónia Silva",
+      "avatar": "https://photos.angel.co/users/9020451-medium_jpg?1585044628",
+      "bioHtml": "Strategic and analytical finance professional with 3 years of experience in Finance. A fast learner, diligent, fond of teamwork and responsible."
+    },
+    {
+      "title": "Head of Marketing",
+      "role": "Employee",
+      "url": "https://angel.co/u/anoushka-g",
+      "name": "Anoushka G",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "x"
+    },
+    {
+      "title": "Co-Founder and Chief Technology Officer",
+      "role": "Employee",
+      "url": "https://angel.co/u/andrzej-kaczorowski",
+      "name": "Andrzej Kaczorowski",
+      "avatar": "https://photos.angel.co/users/9896475-medium_jpg?1566604927",
+      "bioHtml": "Co-founder and CTO @ VividQ  \nPhD Photonic Systems Development @ University of Cambridge \nBSc (Hons) Physics and Computer Science @ King&#39;s College London "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4185101",
+    "angelListUrl": "https://angel.co/company/vivid-q"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Developer C/C++",
+      "description": "We are looking for a Software Developer to join our Development Team based in Cambridge.\n\nJob Overview\nThe successful candidate will be responsible for extending and maintaining the code base. The VividQ API is highly optimized to facilitate real-time 3D holography. The software developer is expected to be able to contribute to coding tasks across all aspects of the pipeline. \n\nYou will be involved in the full development cycle. This position requires good communication skills and drive to learn in order to benefit from the senior developers’ experience.\n\nWe are looking for a software developer with knowledge of C/C++ or a similar object-oriented programming language. The successful candidate should demonstrate a strong desire to learn/improve on their C/C++ skills as well as profiling, optimization and testing of code for industry standard quality. \n\nNice-to-have qualifications may include experience with one or more of the following: Multi-threaded programming, computer vision, signal processing, CUDA-C, OpenGL, DirectX, Vulkan, Python, C#, Unity, other game engines. Experience with git and Visual Studio is also desirable.\n\nBeing part of a rapidly growing start-up company means a fast-paced environment, and a diverse set of tasks, with every new day bringing fresh and exciting challenges. We work in an Agile environment. We offer competitive remuneration.\n\nResponsibilities\n* Contribution to the code base\n* Involvement in the full development cycle\n* Generate efficient code; profiling, optimizing, benchmarking, testing\n* Work closely with senior members of the team\n* Deliver promptly\n\nQualifications and Skills\nSkills we are looking for:\n* Knowledge of C/C++ (or equivalent OO language)\n* Strong problem-solving abilities and a drive to learn\n* Good communication skills\n\nIt would be great if you had some of the following:\n* Experience with API development in Windows\n* Experience with multi-threaded programming\n* Experience in computer vision or signal processing\n* Experience with any of the following: CUDA, OpenGL, DirectX, Vulkan, C#, Unity\n* Experience with version control (Git, svn,...)\n* Have an interest in the AR/VR field\n* Have an interest in high-performance parallel computing\n\nContact\nTo apply send over your CV to info@vivid-q.com and a couple of lines why you believe you would be a good fit for VividQ.\n\nCompany Overview\nVividQ is a deep tech software company with world-leading expertise in 3D holography: the next generation display technology. VividQ offers the world’s first complete software platform, powering full 3D holographic display on standard computing power.\n\nThe company was founded in February 2017 in Cambridge by a technical team of PhD graduates from Oxford, St Andrews, and Cambridge itself. Following the development of Core - VividQ’s proprietary software engine - the company has reinforced its market leading position in AR/VR and digital display industry. VividQ collaborates with chipmakers, display nad consumer electronics manufacturers around the world, making holography a viable commercial display solution for the first time.\n\nVividQ’s 28 team members are spread between offices in central Cambridge and London.",
+      "descriptionHtml": "<p>We are looking for a Software Developer to join our Development Team based in Cambridge.</p>\n\n<p>Job Overview<br>\nThe successful candidate will be responsible for extending and maintaining the code base. The VividQ API is highly optimized to facilitate real-time 3D holography. The software developer is expected to be able to contribute to coding tasks across all aspects of the pipeline. </p>\n\n<p>You will be involved in the full development cycle. This position requires good communication skills and drive to learn in order to benefit from the senior developers’ experience.</p>\n\n<p>We are looking for a software developer with knowledge of C/C++ or a similar object-oriented programming language. The successful candidate should demonstrate a strong desire to learn/improve on their C/C++ skills as well as profiling, optimization and testing of code for industry standard quality. </p>\n\n<p>Nice-to-have qualifications may include experience with one or more of the following: Multi-threaded programming, computer vision, signal processing, CUDA-C, OpenGL, DirectX, Vulkan, Python, C#, Unity, other game engines. Experience with git and Visual Studio is also desirable.</p>\n\n<p>Being part of a rapidly growing start-up company means a fast-paced environment, and a diverse set of tasks, with every new day bringing fresh and exciting challenges. We work in an Agile environment. We offer competitive remuneration.</p>\n\n<p>Responsibilities</p>\n\n<ul>\n<li>Contribution to the code base</li>\n<li>Involvement in the full development cycle</li>\n<li>Generate efficient code; profiling, optimizing, benchmarking, testing</li>\n<li>Work closely with senior members of the team</li>\n<li>Deliver promptly</li>\n</ul>\n\n<p>Qualifications and Skills<br>\nSkills we are looking for:</p>\n\n<ul>\n<li>Knowledge of C/C++ (or equivalent OO language)</li>\n<li>Strong problem-solving abilities and a drive to learn</li>\n<li>Good communication skills</li>\n</ul>\n\n<p>It would be great if you had some of the following:</p>\n\n<ul>\n<li>Experience with API development in Windows</li>\n<li>Experience with multi-threaded programming</li>\n<li>Experience in computer vision or signal processing</li>\n<li>Experience with any of the following: CUDA, OpenGL, DirectX, Vulkan, C#, Unity</li>\n<li>Experience with version control (Git, svn,...)</li>\n<li>Have an interest in the AR/VR field</li>\n<li>Have an interest in high-performance parallel computing</li>\n</ul>\n\n<p>Contact<br>\nTo apply send over your CV to <a href=\"mailto:info@vivid-q.com\" target=\"_blank\" rel=\"nofollow\">info@vivid-q.com</a> and a couple of lines why you believe you would be a good fit for VividQ.</p>\n\n<p>Company Overview<br>\nVividQ is a deep tech software company with world-leading expertise in 3D holography: the next generation display technology. VividQ offers the world’s first complete software platform, powering full 3D holographic display on standard computing power.</p>\n\n<p>The company was founded in February 2017 in Cambridge by a technical team of PhD graduates from Oxford, St Andrews, and Cambridge itself. Following the development of Core - VividQ’s proprietary software engine - the company has reinforced its market leading position in AR/VR and digital display industry. VividQ collaborates with chipmakers, display nad consumer electronics manufacturers around the world, making holography a viable commercial display solution for the first time.</p>\n\n<p>VividQ’s 28 team members are spread between offices in central Cambridge and London.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "Cambridge"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£40k – £55k",
+        "equity": "0.01% – 0.05%"
+      },
+      "recruiter": {
+        "title": "Co-Founder and COO",
+        "role": "Employee",
+        "url": "https://angel.co/u/aleksandra-pedraszewska",
+        "name": "Aleksandra Pedraszewska",
+        "avatar": "https://photos.angel.co/users/3929399-medium_jpg?1533236152"
+      },
+      "refs": {
+        "angelListId": "371997",
+        "angelListUrl": "https://angel.co/company/vivid-q/jobs/371997-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Account Management Executive",
+      "description": "Job overview \nVividQ has gone from strength to strength and we are now looking for an Account Management Executive who is ready to take the next step on their career path to strategic customer management. You should have 3-5 years of solid account management experience, with 2 years in a B2B environment, and understand enterprise relationships.\n\nTo be successful, you will apply your account and relationship management skills to VividQ’s rapidly growing customer base, including world-leading technology companies and OEMs. You will have a good understanding enterprise relationship matrix and how they map onto our business. You should ideally have basic technical knowledge in the digital display / augmented and virtual reality / consumer electronics sectors, to proactively manage the day to day activities within VividQ’s accounts. You will drive sales growth and contract negotiations, under the guidance of the Head of Sales & Licensing and Senior Management.\n\nUnderstanding the need for regular sales reporting and taking ownership for all account-related activities is crucial. You will be responsible for internal and external facing relationships and liaise with all internal departments as required to ensure correct information flow throughout the business.\nYou will engage with world-leading enterprise-level accounts to determine how to best deliver VividQ’s software products for particular applications, and provide feedback to the Sales, and Development Teams. You will also work closely with Channel Partner, and Marketing team.\n\nBeing part of a rapidly growing start-up company means a fast-paced environment, and a diverse set of tasks, with every new day bringing fresh and exciting challenges. We work in an Agile environment. The ability to multitask, and rapidly transition between focus areas is vital.\n\nThis is a full-time position, based in our London office and travel will be involved when required.\n\nResponsibilities\n* Proactively manage the day to day VividQ engagement strategy within nominated accounts, and build business with established and new customers\n* Leverage in-house, market intelligence and technical knowledge to qualify potential sales opportunities\n* Pitch VividQ’s software products to both existing and potential customers, prepare and present technical sales proposals, and work with the technical teams on demo systems installations on- and off-site for customer evaluation\n* Ensure in-house systems, in particular  HubSpot CRM, are up to date and proactively managed\n* Enhance awareness in the targeted business and developers community of VividQ brand and products where required\n* Collaborate with other members of the Commercial, and Technical teams to deliver the sales strategy\n* Be prepared to travel internationally when required\n* Actively participate in Customer/Partner and Trade events\n\nQualifications and Skills\n* 3-5 years of account management experience, with C-Level/Senior Management engagement, with experience in a B2B  environment\nExperience with complex contract management, ideally in licensing-based deals\n* Excellent communication skills (oral and written) as well as the ability to discuss complex issues and develop project deliverables\n* Proven ability to develop and maintain relationships with customers from initial contact through to contract signing and ongoing support.\n* Ability to communicate scientific concepts to customers both with and without a technical background\n* Ideally, experience and interest in Virtual and Augmented Reality technologies\n* Computer Skills: GSuite, MS Office applications, CRM workflows\n\nCompany Overview\nVividQ is a deep tech software company with world-leading expertise in 3D holography. The company was founded in 2017 by a team of expert engineers, mathematicians and computer scientists from the Universities of Cambridge, Oxford and St Andrews, who solved key technology barriers in the adoption of holographic display. VividQ’s software brings real-time Computer Generated Holography (CGH) to everyday applications. VividQ collaborates with leading technology companies to create the most realistic, immersive and sensational experiences. For more information, please visit: www.vivid-q.com",
+      "descriptionHtml": "<p>Job overview <br>\nVividQ has gone from strength to strength and we are now looking for an Account Management Executive who is ready to take the next step on their career path to strategic customer management. You should have 3-5 years of solid account management experience, with 2 years in a B2B environment, and understand enterprise relationships.</p>\n\n<p>To be successful, you will apply your account and relationship management skills to VividQ’s rapidly growing customer base, including world-leading technology companies and OEMs. You will have a good understanding enterprise relationship matrix and how they map onto our business. You should ideally have basic technical knowledge in the digital display / augmented and virtual reality / consumer electronics sectors, to proactively manage the day to day activities within VividQ’s accounts. You will drive sales growth and contract negotiations, under the guidance of the Head of Sales &amp; Licensing and Senior Management.</p>\n\n<p>Understanding the need for regular sales reporting and taking ownership for all account-related activities is crucial. You will be responsible for internal and external facing relationships and liaise with all internal departments as required to ensure correct information flow throughout the business.<br>\nYou will engage with world-leading enterprise-level accounts to determine how to best deliver VividQ’s software products for particular applications, and provide feedback to the Sales, and Development Teams. You will also work closely with Channel Partner, and Marketing team.</p>\n\n<p>Being part of a rapidly growing start-up company means a fast-paced environment, and a diverse set of tasks, with every new day bringing fresh and exciting challenges. We work in an Agile environment. The ability to multitask, and rapidly transition between focus areas is vital.</p>\n\n<p>This is a full-time position, based in our London office and travel will be involved when required.</p>\n\n<p>Responsibilities</p>\n\n<ul>\n<li>Proactively manage the day to day VividQ engagement strategy within nominated accounts, and build business with established and new customers</li>\n<li>Leverage in-house, market intelligence and technical knowledge to qualify potential sales opportunities</li>\n<li>Pitch VividQ’s software products to both existing and potential customers, prepare and present technical sales proposals, and work with the technical teams on demo systems installations on- and off-site for customer evaluation</li>\n<li>Ensure in-house systems, in particular  HubSpot CRM, are up to date and proactively managed</li>\n<li>Enhance awareness in the targeted business and developers community of VividQ brand and products where required</li>\n<li>Collaborate with other members of the Commercial, and Technical teams to deliver the sales strategy</li>\n<li>Be prepared to travel internationally when required</li>\n<li>Actively participate in Customer/Partner and Trade events</li>\n</ul>\n\n<p>Qualifications and Skills</p>\n\n<ul>\n<li>3-5 years of account management experience, with C-Level/Senior Management engagement, with experience in a B2B  environment\nExperience with complex contract management, ideally in licensing-based deals</li>\n<li>Excellent communication skills (oral and written) as well as the ability to discuss complex issues and develop project deliverables</li>\n<li>Proven ability to develop and maintain relationships with customers from initial contact through to contract signing and ongoing support.</li>\n<li>Ability to communicate scientific concepts to customers both with and without a technical background</li>\n<li>Ideally, experience and interest in Virtual and Augmented Reality technologies</li>\n<li>Computer Skills: GSuite, MS Office applications, CRM workflows</li>\n</ul>\n\n<p>Company Overview<br>\nVividQ is a deep tech software company with world-leading expertise in 3D holography. The company was founded in 2017 by a team of expert engineers, mathematicians and computer scientists from the Universities of Cambridge, Oxford and St Andrews, who solved key technology barriers in the adoption of holographic display. VividQ’s software brings real-time Computer Generated Holography (CGH) to everyday applications. VividQ collaborates with leading technology companies to create the most realistic, immersive and sensational experiences. For more information, please visit: <a href=\"http://www.vivid-q.com\" target=\"_blank\" rel=\"nofollow\">www.vivid-q.com</a></p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£35k – £45k",
+        "equity": "0.01% – 0.05%"
+      },
+      "recruiter": {
+        "title": "Co-Founder and COO",
+        "role": "Employee",
+        "url": "https://angel.co/u/aleksandra-pedraszewska",
+        "name": "Aleksandra Pedraszewska",
+        "avatar": "https://photos.angel.co/users/3929399-medium_jpg?1533236152"
+      },
+      "refs": {
+        "angelListId": "417823",
+        "angelListUrl": "https://angel.co/company/vivid-q/jobs/417823-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Office and People Executive",
+      "description": "As a quickly growing deep technology company, VividQ is looking for a smart, adaptable person with a desire to have input in a variety of administrative and operational functions. VividQ’s growth is contingent on the vibrant community of engineers based in our Cambridge office, who every day tackle new coding tasks, optical challenges and research problems. The future Office and People Executive will focus on supporting the team with a range of office and people management responsibilities, to become part of our world-changing technological adventure.\r\nThe successful candidate will work closely with the company’s Chief Development Officer in Cambridge, where the role is based, and report to the Chief Operating Officer based in London (at least one day a week in London is required).\r\n\r\nKey responsibilities will include:\r\n* Making sure that the Cambridge office runs smoothly at both front and back-end;\r\n* Acting as the liaison between technical teams’ employees and upper management;\r\n* Acting as the face of the Cambridge office when interacting with senior management, investors, partners, customers and/or job candidates;\r\n* Overlooking equipment purchase and distribution;\r\n* Interfacing with project managers and financial operations team to support the procurement process;\r\n* Managing the external and internal correspondence and documentation;\r\n* Assisting with the recruitment process of new additions to our world-class technical team from the application through interview to on-boarding;\r\n* Ensuring professional and transparent HR processes are observed while maintaining a relaxed and informal office atmosphere without undue bureaucracy;\r\n* Coming up with great new ideas to preserve and foster a workspace in which everyone can feel comfortable and work to the best of their ability; and\r\n* Anything else that a rapidly growing technology company might need from time to time! \r\n\r\nThis is an exciting opportunity to shape the development of genuinely revolutionary display technology, and to be part of an innovative and enthusiastic business poised for dramatic growth.\r\n\r\nQualifications and skills\r\nThe successful candidate will have most or all of the following:\r\n* A good degree in any subject;\r\n* Excellent organisational and time-management skills;\r\n* Strong initiative and ability to work both independently and in a team;\r\n* Ability to recognise complex problems and understand how they relate to different parts of the business;\r\n* Computer Skills: MS office applications, in particular, use of Excel for forecasting and problem solving, good powerpoint skills for presentations.\r\n* Excellent communication skills (spoken and written) as well as the ability to discuss complex issues with directors and managers;\r\n* Some experience of project management / administrative tasks / purchasing and/or recruitment processes.\r\n\r\nThere is no explicit requirement for experience of working in this area.\r\n\r\nApplications will be strongly preferred from candidates that can demonstrate:\r\n* Commercial experience of HR and office management, and procurement;\r\n* Deep curiosity and appetite for learning;\r\n* A strong interest in technology, and ideally in a relevant field such as VR/AR/MR; and\r\n* Experience of or interest in working in a start-up environment.\r\n\r\nWhat do we offer?\r\n* Become part of a fun, smart, ambitious team working towards changing the future of display technology\r\n* Competitive salary and employee share options\r\n* 25 days of paid holiday plus bank holidays and flexible working environment\r\n* Pension scheme\r\n\r\nLocation and how to apply\r\nThe candidate will be based in Cambridge, UK. To apply please send a CV and a couple of sentences explaining why you would be a good fit for this role to careers@vivid-q.com\r\n\r\nCompany overview\r\nVividQ is a VC-backed, deep tech software company with world-leading expertise in 3D holography: the next generation display technology. Our expert engineers, mathematicians and computer scientists out of the Universities of Cambridge, Oxford and St Andrews have solved key technology barriers in the adoption of holographic display for mass commercial application. VividQ powers devices developed by OEMs across the US, China and Japan, establishing a new standard of display. Learn more at www.vivid-q.com.",
+      "descriptionHtml": "<p>As a quickly growing deep technology company, VividQ is looking for a smart, adaptable person with a desire to have input in a variety of administrative and operational functions. VividQ’s growth is contingent on the vibrant community of engineers based in our Cambridge office, who every day tackle new coding tasks, optical challenges and research problems. The future Office and People Executive will focus on supporting the team with a range of office and people management responsibilities, to become part of our world-changing technological adventure.<br>\nThe successful candidate will work closely with the company’s Chief Development Officer in Cambridge, where the role is based, and report to the Chief Operating Officer based in London (at least one day a week in London is required).</p>\n\n<p>Key responsibilities will include:</p>\n\n<ul>\n<li>Making sure that the Cambridge office runs smoothly at both front and back-end;</li>\n<li>Acting as the liaison between technical teams’ employees and upper management;</li>\n<li>Acting as the face of the Cambridge office when interacting with senior management, investors, partners, customers and/or job candidates;</li>\n<li>Overlooking equipment purchase and distribution;</li>\n<li>Interfacing with project managers and financial operations team to support the procurement process;</li>\n<li>Managing the external and internal correspondence and documentation;</li>\n<li>Assisting with the recruitment process of new additions to our world-class technical team from the application through interview to on-boarding;</li>\n<li>Ensuring professional and transparent HR processes are observed while maintaining a relaxed and informal office atmosphere without undue bureaucracy;</li>\n<li>Coming up with great new ideas to preserve and foster a workspace in which everyone can feel comfortable and work to the best of their ability; and</li>\n<li>Anything else that a rapidly growing technology company might need from time to time! </li>\n</ul>\n\n<p>This is an exciting opportunity to shape the development of genuinely revolutionary display technology, and to be part of an innovative and enthusiastic business poised for dramatic growth.</p>\n\n<p>Qualifications and skills<br>\nThe successful candidate will have most or all of the following:</p>\n\n<ul>\n<li>A good degree in any subject;</li>\n<li>Excellent organisational and time-management skills;</li>\n<li>Strong initiative and ability to work both independently and in a team;</li>\n<li>Ability to recognise complex problems and understand how they relate to different parts of the business;</li>\n<li>Computer Skills: MS office applications, in particular, use of Excel for forecasting and problem solving, good powerpoint skills for presentations.</li>\n<li>Excellent communication skills (spoken and written) as well as the ability to discuss complex issues with directors and managers;</li>\n<li>Some experience of project management / administrative tasks / purchasing and/or recruitment processes.</li>\n</ul>\n\n<p>There is no explicit requirement for experience of working in this area.</p>\n\n<p>Applications will be strongly preferred from candidates that can demonstrate:</p>\n\n<ul>\n<li>Commercial experience of HR and office management, and procurement;</li>\n<li>Deep curiosity and appetite for learning;</li>\n<li>A strong interest in technology, and ideally in a relevant field such as VR/AR/MR; and</li>\n<li>Experience of or interest in working in a start-up environment.</li>\n</ul>\n\n<p>What do we offer?</p>\n\n<ul>\n<li>Become part of a fun, smart, ambitious team working towards changing the future of display technology</li>\n<li>Competitive salary and employee share options</li>\n<li>25 days of paid holiday plus bank holidays and flexible working environment</li>\n<li>Pension scheme</li>\n</ul>\n\n<p>Location and how to apply<br>\nThe candidate will be based in Cambridge, UK. To apply please send a CV and a couple of sentences explaining why you would be a good fit for this role to <a href=\"mailto:careers@vivid-q.com\" target=\"_blank\" rel=\"nofollow\">careers@vivid-q.com</a></p>\n\n<p>Company overview<br>\nVividQ is a VC-backed, deep tech software company with world-leading expertise in 3D holography: the next generation display technology. Our expert engineers, mathematicians and computer scientists out of the Universities of Cambridge, Oxford and St Andrews have solved key technology barriers in the adoption of holographic display for mass commercial application. VividQ powers devices developed by OEMs across the US, China and Japan, establishing a new standard of display. Learn more at <a href=\"http://www.vivid-q.com\" target=\"_blank\" rel=\"nofollow\">www.vivid-q.com</a>.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Cambridge"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£26k – £30k",
+        "equity": "0.0% – 0.05%"
+      },
+      "recruiter": {
+        "title": "Admin & Accounts Executive",
+        "role": "Employee",
+        "url": "https://angel.co/u/sonia-silva-2",
+        "name": "Sónia Silva",
+        "avatar": "https://photos.angel.co/users/9020451-medium_jpg?1585044628"
+      },
+      "refs": {
+        "angelListId": "758333",
+        "angelListUrl": "https://angel.co/company/vivid-q/jobs/758333-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Product Manager",
+      "description": "As a quickly growing deep technology company offering products that solve critical problems in the display and VR/AR industries, VividQ is looking for a Product Manager to oversee and maintain a well-defined and deliverable development roadmap in response to customer needs.\r\n\r\nThe future Product Manager will work closely with the Product Owners in the technical team and the sales team to capture and develop use cases to support feature definition and planning. They will provide clear product definitions and associated collateral to support business development and allow the company to confidently engage in profitable projects with world-leading technology companies.\r\n\r\nKey responsibilities will include:\r\n* Collaborating with Project Management, Product Owners, and the Chief - * Development Officer to assemble roadmaps and project plans;\r\n* Collaborating with the technical and commercial teams in creating base product marketing collateral across different market verticals;\r\n* Working with Product Owners and Project Managers to clearly and accurately report progress, issues and corrective actions to the exec, and to support clear communication within the business;\r\n* Working with customers and partners to understand the specific needs and opportunities of whole-product solutions and represent them to the development team;\r\n* Supporting the bug Triage process, providing policy decisions to guide decision-making by the Triage team, and advising on customer impact;\r\n* Supporting and enabling development of effective processes for project and product governance and design control. Working with Product Owners and Project Managers to drive the project Gate control process and to generate the required documentation; and\r\n* Working with Product Owners and the QA team to ensure sufficient definition of features, and delivery of development kits, and effective testing.\r\n\r\nThis is an exciting opportunity to shape the development of genuinely revolutionary display technology, and to be part of an innovative and enthusiastic business poised for dramatic growth.\r\n\r\nQualifications and skills\r\nThe successful candidate will have most or all of the following:\r\n* A good degree, most likely in an engineering or scientific discipline;\r\n* A good understanding of Agile development principles and practice;\r\n* Experience of product management covering the full product lifecycle;\r\n* Experience managing complex solutions combining hardware and software elements;\r\n* Prior experience of at least 3 years as a software developer or electrical engineer;\r\n* An intensely collaborative and participatory approach; and\r\n* Excellent spoken and written communication skills.\r\n\r\nApplications will be strongly preferred from candidates that can demonstrate:\r\n* Experience of software licensing;\r\n* Direct experience of working with clients and participating in sales;\r\n* Deep curiosity and appetite for learning;\r\n* Cultural sensitivity and experience of working globally; and\r\n* Prior experience in building Product Management systems and processes in a start-up environment.\r\n\r\nWhat do we offer?\r\n* Become part of a fun, smart, ambitious team working towards changing the future of display technology\r\n* Competitive salary and employee share options\r\n* 25 days of paid holiday plus bank holidays and flexible working environment\r\n* Pension scheme\r\n\r\nLocation and how to apply\r\nThis role is based in Cambridge, UK. It will involve weekly travel to the company’s commercial office based in London, and occasional travel to offices of customers and partners both locally and internationally. To apply please send a CV and a couple of sentences explaining why you would be a good fit for this role to careers@vivid-q.com\r\n\r\nCompany overview\r\nVividQ is a VC-backed, deep tech software company with world-leading expertise in 3D holography: the next generation display technology. Our expert engineers, mathematicians and computer scientists out of the Universities of Cambridge, Oxford and St Andrews have solved key technology barriers in the adoption of holographic display for mass commercial application. VividQ powers devices developed by OEMs across the US, China and Japan, establishing a new standard of display. Learn more at www.vivid-q.com.",
+      "descriptionHtml": "<p>As a quickly growing deep technology company offering products that solve critical problems in the display and VR/AR industries, VividQ is looking for a Product Manager to oversee and maintain a well-defined and deliverable development roadmap in response to customer needs.</p>\n\n<p>The future Product Manager will work closely with the Product Owners in the technical team and the sales team to capture and develop use cases to support feature definition and planning. They will provide clear product definitions and associated collateral to support business development and allow the company to confidently engage in profitable projects with world-leading technology companies.</p>\n\n<p>Key responsibilities will include:</p>\n\n<ul>\n<li>Collaborating with Project Management, Product Owners, and the Chief - * Development Officer to assemble roadmaps and project plans;</li>\n<li>Collaborating with the technical and commercial teams in creating base product marketing collateral across different market verticals;</li>\n<li>Working with Product Owners and Project Managers to clearly and accurately report progress, issues and corrective actions to the exec, and to support clear communication within the business;</li>\n<li>Working with customers and partners to understand the specific needs and opportunities of whole-product solutions and represent them to the development team;</li>\n<li>Supporting the bug Triage process, providing policy decisions to guide decision-making by the Triage team, and advising on customer impact;</li>\n<li>Supporting and enabling development of effective processes for project and product governance and design control. Working with Product Owners and Project Managers to drive the project Gate control process and to generate the required documentation; and</li>\n<li>Working with Product Owners and the QA team to ensure sufficient definition of features, and delivery of development kits, and effective testing.</li>\n</ul>\n\n<p>This is an exciting opportunity to shape the development of genuinely revolutionary display technology, and to be part of an innovative and enthusiastic business poised for dramatic growth.</p>\n\n<p>Qualifications and skills<br>\nThe successful candidate will have most or all of the following:</p>\n\n<ul>\n<li>A good degree, most likely in an engineering or scientific discipline;</li>\n<li>A good understanding of Agile development principles and practice;</li>\n<li>Experience of product management covering the full product lifecycle;</li>\n<li>Experience managing complex solutions combining hardware and software elements;</li>\n<li>Prior experience of at least 3 years as a software developer or electrical engineer;</li>\n<li>An intensely collaborative and participatory approach; and</li>\n<li>Excellent spoken and written communication skills.</li>\n</ul>\n\n<p>Applications will be strongly preferred from candidates that can demonstrate:</p>\n\n<ul>\n<li>Experience of software licensing;</li>\n<li>Direct experience of working with clients and participating in sales;</li>\n<li>Deep curiosity and appetite for learning;</li>\n<li>Cultural sensitivity and experience of working globally; and</li>\n<li>Prior experience in building Product Management systems and processes in a start-up environment.</li>\n</ul>\n\n<p>What do we offer?</p>\n\n<ul>\n<li>Become part of a fun, smart, ambitious team working towards changing the future of display technology</li>\n<li>Competitive salary and employee share options</li>\n<li>25 days of paid holiday plus bank holidays and flexible working environment</li>\n<li>Pension scheme</li>\n</ul>\n\n<p>Location and how to apply<br>\nThis role is based in Cambridge, UK. It will involve weekly travel to the company’s commercial office based in London, and occasional travel to offices of customers and partners both locally and internationally. To apply please send a CV and a couple of sentences explaining why you would be a good fit for this role to <a href=\"mailto:careers@vivid-q.com\" target=\"_blank\" rel=\"nofollow\">careers@vivid-q.com</a></p>\n\n<p>Company overview<br>\nVividQ is a VC-backed, deep tech software company with world-leading expertise in 3D holography: the next generation display technology. Our expert engineers, mathematicians and computer scientists out of the Universities of Cambridge, Oxford and St Andrews have solved key technology barriers in the adoption of holographic display for mass commercial application. VividQ powers devices developed by OEMs across the US, China and Japan, establishing a new standard of display. Learn more at <a href=\"http://www.vivid-q.com\" target=\"_blank\" rel=\"nofollow\">www.vivid-q.com</a>.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Cambridge"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£46k – £50k",
+        "equity": "0.0% – 0.05%"
+      },
+      "recruiter": {
+        "title": "Admin & Accounts Executive",
+        "role": "Employee",
+        "url": "https://angel.co/u/sonia-silva-2",
+        "name": "Sónia Silva",
+        "avatar": "https://photos.angel.co/users/9020451-medium_jpg?1585044628"
+      },
+      "refs": {
+        "angelListId": "758342",
+        "angelListUrl": "https://angel.co/company/vivid-q/jobs/758342-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Technical Project Manager",
+      "description": "As a quickly growing deep technology company with world-leading expertise in Computer-Generated Holography, VividQ is looking for an experienced Technical Project Manager to help us execute an exciting program of projects with Tier 1 organisations. This will entail delivering a range of solutions from proof-of-concept demonstrators to consumer-grade electronics.\r\n\r\nKey responsibilities will include:\r\n- Identifying and tracking project dependencies, and evaluating and escalating material risks to the projects;\r\n- Managing the Bill Of Materials for hardware projects, ensuring a timely delivery both internally and by the suppliers;\r\n- Managing logistics, tools, transport and working space as necessary for the success of projects;\r\n- Tracking costs against budget, and ensuring projected costs are always clearly communicated at all levels of the organisation;\r\n- Liaising with contractors as necessary to understand costs against budget and progress against plan;\r\n- Supporting the Senior Product Owner in preparing status reports for Exec review on progress against plan, issues, and corrective actions; building project plans; and mapping major software and hardware activities and milestones onto project timelines;\r\n- Supporting the Lead Product Owner and Gate Process for projects by preparing and rationalising plans and identifying risks and mitigations;\r\n- Working with the Product Owners, Backlog Owners, Technical Leads and Scrum Masters in identifying sprint goals for each Sprint. \r\n\r\nThis is an exciting opportunity to be at the forefront of introducing a genuinely revolutionary new technology into the market, and to be part of an innovative and enthusiastic business poised for dramatic growth.\r\n\r\nQualifications and skills\r\nTo meet the requirements of this role you must have:\r\n- A good degree within an engineering or scientific discipline;\r\n- A proven track record in the successful delivery of large and complex development projects;\r\n- Experience of managing risk, cost and schedule on development projects with considerable novel content;\r\n- An excellent understanding of product development processes;\r\n- Prior experience in managing procurement for product prototypes;\r\n- Basic awareness of Agile principles and practice.\r\n\r\nApplications will be strongly preferred from candidates that can demonstrate:\r\n- Experience of managing Engineering Change Requests and BOMs, especially with a focus on procurement and purchasing;\r\n- Experience of managing a contractors and suppliers;\r\n- Experience of managing multidisciplinary teams;\r\n- Experience in software project management using Agile methodologies.\r\n\r\nWhat do we offer?\r\n- Become part of a fun, smart, ambitious team working towards changing the future of display technology\r\n- Competitive salary and employee share options\r\n- 25 days of paid holiday plus bank holidays and flexible working environment\r\n- Pension scheme\r\n\r\nLocation and how to apply\r\nThis role is based in Cambridge, UK. It will involve weekly travel to the company’s commercial office based in London, and occasional travel to offices of customers and partners both locally and internationally. To apply please send a CV and a couple of sentences explaining why you would be a good fit for this role to careers@vivid-q.com\r\n\r\nCompany overview\r\nVividQ is a VC-backed, deep tech software company with world-leading expertise in 3D holography: the next generation display technology. Our expert engineers, mathematicians and computer scientists out of the Universities of Cambridge, Oxford and St Andrews have solved key technology barriers in the adoption of holographic display for mass commercial application. VividQ powers devices developed by OEMs across the US, China and Japan, establishing a new standard of display. Learn more at www.vivid-q.com.",
+      "descriptionHtml": "<p>As a quickly growing deep technology company with world-leading expertise in Computer-Generated Holography, VividQ is looking for an experienced Technical Project Manager to help us execute an exciting program of projects with Tier 1 organisations. This will entail delivering a range of solutions from proof-of-concept demonstrators to consumer-grade electronics.</p>\n\n<p>Key responsibilities will include:</p>\n\n<ul>\n<li>Identifying and tracking project dependencies, and evaluating and escalating material risks to the projects;</li>\n<li>Managing the Bill Of Materials for hardware projects, ensuring a timely delivery both internally and by the suppliers;</li>\n<li>Managing logistics, tools, transport and working space as necessary for the success of projects;</li>\n<li>Tracking costs against budget, and ensuring projected costs are always clearly communicated at all levels of the organisation;</li>\n<li>Liaising with contractors as necessary to understand costs against budget and progress against plan;</li>\n<li>Supporting the Senior Product Owner in preparing status reports for Exec review on progress against plan, issues, and corrective actions; building project plans; and mapping major software and hardware activities and milestones onto project timelines;</li>\n<li>Supporting the Lead Product Owner and Gate Process for projects by preparing and rationalising plans and identifying risks and mitigations;</li>\n<li>Working with the Product Owners, Backlog Owners, Technical Leads and Scrum Masters in identifying sprint goals for each Sprint. </li>\n</ul>\n\n<p>This is an exciting opportunity to be at the forefront of introducing a genuinely revolutionary new technology into the market, and to be part of an innovative and enthusiastic business poised for dramatic growth.</p>\n\n<p>Qualifications and skills<br>\nTo meet the requirements of this role you must have:</p>\n\n<ul>\n<li>A good degree within an engineering or scientific discipline;</li>\n<li>A proven track record in the successful delivery of large and complex development projects;</li>\n<li>Experience of managing risk, cost and schedule on development projects with considerable novel content;</li>\n<li>An excellent understanding of product development processes;</li>\n<li>Prior experience in managing procurement for product prototypes;</li>\n<li>Basic awareness of Agile principles and practice.</li>\n</ul>\n\n<p>Applications will be strongly preferred from candidates that can demonstrate:</p>\n\n<ul>\n<li>Experience of managing Engineering Change Requests and BOMs, especially with a focus on procurement and purchasing;</li>\n<li>Experience of managing a contractors and suppliers;</li>\n<li>Experience of managing multidisciplinary teams;</li>\n<li>Experience in software project management using Agile methodologies.</li>\n</ul>\n\n<p>What do we offer?</p>\n\n<ul>\n<li>Become part of a fun, smart, ambitious team working towards changing the future of display technology</li>\n<li>Competitive salary and employee share options</li>\n<li>25 days of paid holiday plus bank holidays and flexible working environment</li>\n<li>Pension scheme</li>\n</ul>\n\n<p>Location and how to apply<br>\nThis role is based in Cambridge, UK. It will involve weekly travel to the company’s commercial office based in London, and occasional travel to offices of customers and partners both locally and internationally. To apply please send a CV and a couple of sentences explaining why you would be a good fit for this role to <a href=\"mailto:careers@vivid-q.com\" target=\"_blank\" rel=\"nofollow\">careers@vivid-q.com</a></p>\n\n<p>Company overview<br>\nVividQ is a VC-backed, deep tech software company with world-leading expertise in 3D holography: the next generation display technology. Our expert engineers, mathematicians and computer scientists out of the Universities of Cambridge, Oxford and St Andrews have solved key technology barriers in the adoption of holographic display for mass commercial application. VividQ powers devices developed by OEMs across the US, China and Japan, establishing a new standard of display. Learn more at <a href=\"http://www.vivid-q.com\" target=\"_blank\" rel=\"nofollow\">www.vivid-q.com</a>.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Cambridge"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£46k – £50k",
+        "equity": "0.0% – 0.05%"
+      },
+      "recruiter": {
+        "title": "Admin & Accounts Executive",
+        "role": "Employee",
+        "url": "https://angel.co/u/sonia-silva-2",
+        "name": "Sónia Silva",
+        "avatar": "https://photos.angel.co/users/9020451-medium_jpg?1585044628"
+      },
+      "refs": {
+        "angelListId": "758346",
+        "angelListUrl": "https://angel.co/company/vivid-q/jobs/758346-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "name": "Reel",
+  "avatar": "https://photos.angel.co/startups/i/5886797-c1d886ad5bc32fdc86ade3d504824d09-medium_jpg.jpg?buster=1529571655",
+  "slogan": "Disruptive Video Platform For Creators",
+  "description": "Reel will allow content creators and everyday users alike to create amazing and inspiring videos every day. With a specialised content limitation of 3 minutes or less we target the users attention.\n\nCreators will be able to collaborate with anyone around the world on Reel with our unique collaboration platform based right within the app. \n\nUsers with many followers will be able to use that opportunity to monetise and earn from the videos and content they produce through a very unique way of advertising that will be in no way intrusive. \n\nAnother way to monetise for users is using our own influencer-brand connection platform that allows brands and users alike to connect. \n\nAll of this coupled with the every day vlogging feature \"Mini-Reels\" that are stored forever grouped into days and weeks to enable anyone to look back at their friends/families or favourite Reeler's days. \n\nOur unique algorithm is designed to constantly promote waves of new, innovative Reelers & Videos\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.reelapp.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Social Media Platforms",
+    "Mobile Video",
+    "Content Creators"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/alex-little-3",
+      "name": "Alex Little",
+      "avatar": "https://photos.angel.co/users/6461262-medium_jpg?1529571866",
+      "bioHtml": "Founded and became CEO of Reel at 19. Fell in love with development at 12. Aspiring entrepreneur since I can remember."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5886797",
+    "angelListUrl": "https://angel.co/company/reel-5"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Developer - CTO",
+      "description": "As a full stack developer at Reel App Limited, you will work on Bloope, a brand new revolutionary video sharing platform. We are paving the way for a better social networking experience for everyone. \n\nKey responsibilities;\n\n - Node.js\n - Firebase\n - AWS\n - GCP\n - NoSQL",
+      "descriptionHtml": "<p>As a full stack developer at Reel App Limited, you will work on Bloope, a brand new revolutionary video sharing platform. We are paving the way for a better social networking experience for everyone. </p>\n\n<p>Key responsibilities;</p>\n\n<ul>\n<li>Node.js</li>\n<li>Firebase</li>\n<li>AWS</li>\n<li>GCP</li>\n<li>NoSQL</li>\n</ul>\n",
+      "position": "cofounder",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "noSQL",
+        "Node.js",
+        "Video Streaming",
+        "Firebase",
+        "Google Cloud Platform",
+        "AWS"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "25.0% – 40.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/alex-little-3",
+        "name": "Alex Little",
+        "avatar": "https://photos.angel.co/users/6461262-medium_jpg?1529571866"
+      },
+      "refs": {
+        "angelListId": "457690",
+        "angelListUrl": "https://angel.co/company/reel-5/jobs/457690-"
+      }
+    }
+  ]
+}

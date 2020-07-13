@@ -1,0 +1,183 @@
+{
+  "name": "ALF",
+  "avatar": "https://photos.angel.co/startups/i/2317324-7fbd24b2b27e6ad2a6d129abd484f5f2-medium_jpg.jpg?buster=1569926524",
+  "slogan": "Automate your paperwork",
+  "description": "ALF’s vision is to build a business that relieves businesses from the burdensome, time consuming legal and administrative overhead typically associated with incorporating and managing a  company. Our SAAS simplifies, automates and renders effortless business governance in France. ALF is 100% online, mobile-oriented and paperless with the use of e-signatures, instant ID checks, electronic storage etc.\n\nWe endeavour to be the default tool for lawyers, accountants and big corporations managing paperwork. By systemising and simplifying the administrative processes, ALF is set to revolutionize business administration by consigning paperwork to history.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://madeinlaw.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://blog.madeinlaw.com/en/"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/@madein_law"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/madeinlaw.co"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://fr.linkedin.com/company/made-in-law"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "Paris",
+    "London"
+  ],
+  "marketTags": [
+    "Legal Tech",
+    "Legal",
+    "Startups",
+    "Fin Tech"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/sabine-zylberbogen",
+      "name": "Sabine Zylberbogen ",
+      "avatar": "https://photos.angel.co/users/3830341-medium_jpg?1474043216",
+      "bioHtml": "Founder @made-in-law-1, <a href=\"https://angel.co/company/tandm-avocats\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">TandM Avocats</span></a> • Worked at <a href=\"https://angel.co/company/amazon-com-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Amazon.com</span></a>, @pricewaterhousecoopers-3"
+    },
+    {
+      "title": "Legal counsel",
+      "role": "Employee",
+      "url": "https://angel.co/u/caroline-radu",
+      "name": "Caroline Radu",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "CTO",
+      "role": "Employee",
+      "url": "https://angel.co/u/g_maugard",
+      "name": "Guillaume Maugard",
+      "avatar": "https://photos.angel.co/users/1386881-medium_jpg?1536266989",
+      "bioHtml": "Student in Computer Science at Ecole 42, Founder &amp; President of 42 Artificial Intelligence. I&#39;m fullstack dev and practice deep learning."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "2317324",
+    "angelListUrl": "https://angel.co/company/alf-robot-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full stack Web developer - Legaltech - Paris, France",
+      "description": "YOUR MISSION :\n\nTo support our approach, we are looking for an experienced backend developer to join the team and work on our innovative platform. The quality, design and usability of the website is critical to the success of our business. It is therefore essential that we bring the best people on board. \n \nYou will work on the product’s backend, as well as new API and third-party integrations and testing and code reviews.\n\nYour mission is to stabilize and improve our platform. While this role is back-end focused, everything you do will be with the user experience and usability of the product front of mind.\n \nThis is a great opportunity to join a high potential start up intent on building a platform for nomade entrepreneurs.\n \nThis position requires at least 5 years of experience in web development.\n \nWe would consider it a bonus if: you’ve worked in a startup environment before; you’ve worked for companies with a legal, regulatory or legaltech focus; you are full-stack; you have an eye for design.\n\n\nTHE TEAM :\n\nYou will be joining a team of 1 CTO (full-stack dev) and 2 juniors Dev. full stack in a cool environment with lots of knowledge sharing and clients focused problems to solve. You will always be learning and have project ownership and responsibility. You will be responsible for the deployment of your own releases.\n\nWe work in sprints to improve performance and support our growth, we expect you to play a key role mentoring, leading and reviewing the code of your co-workers and new joiners, to share your experience and inputs, be a problem solver and propose efficient and pragmatic solutions.\n \nWe are located in Paris. \nWe are experienced, passionate, motivated and hard workers, with varied but complementary backgrounds and previous experiences in the legal, ecommerce and web industry.\n\n\nSKILLS :\n\n- You master nodejs, graphql and mongodb.\n- You have worked with a variety of API (REST, SOAP, etc.) and SaaS services in the past, so you can easily handle and integrate any new third-party tool into our system.\n- You know how to use GIT, Github, Gitlab. Versioning is your friend.\n- You are a typescript and javascript developer.\n- You can setup and work in a cloud environment and you know how to use PaaS platforms such as Heroku and AWS.\n\n\nMINDSET :\n\n- You set very high standards for others and especially for yourself, you are always learning and not afraid to try new things. Mistakes are lessons to remember and feedbacks are gifts.  \n- You are familiar with Agile development processes.\n- You are self-motivated and able to achieve development goals with a minimal supervision.\n- We intend to grow fast, that means building products and solutions for appropriate scalability, sometimes with short term ‘hacks’ if needed but with the ability to call out real issues and create elegant, scalable solutions in the long term. \n- You’re passionate about coding and delivering exceptional features to enhance the product.\n- You’re creative, innovative, collaborative, and comfortable with constant change. We are a startup, nothing is written in stone, we change our mind often ;)\n- When something is broken, you should feel empowered to fix it. You’re interested in the multidisciplinary aspect of the role as well as the long-term vision of the product. Most importantly, you’re not afraid to take ownership of projects and initiatives.\n- Your code is awesome!\n- You speak FLUENT English or French and be eligible to work in FR.\n\n\nOUR STACK :\n\n- nodejs, graphql, mongodb\n- typescript/JavaScript, Webpack\n- HTML 5   / CSS 3, Twitter Bootstrap\n- Cloud infrastructure, Heroku and AWS\n- RabbitMQ, Redis, Cloudflare\n- Segment, Autopilot, Mixpanel, Mailtrap, Hotjar, etc...\n- Github, Jira, Slack\n\nBENEFITS :\n\n- Salary + shares\n- Access to an unparalleled network of mentors from The Family\n- Be surrounded by smart people\n- Work on a stack with the latest tools and softwares\n- Autonomy and freedom in your work\n- Be part of the revolution of the legaltech\n\nJoin us!",
+      "descriptionHtml": "<p>YOUR MISSION :</p>\n\n<p>To support our approach, we are looking for an experienced backend developer to join the team and work on our innovative platform. The quality, design and usability of the website is critical to the success of our business. It is therefore essential that we bring the best people on board. </p>\n\n<p>You will work on the product’s backend, as well as new API and third-party integrations and testing and code reviews.</p>\n\n<p>Your mission is to stabilize and improve our platform. While this role is back-end focused, everything you do will be with the user experience and usability of the product front of mind.</p>\n\n<p>This is a great opportunity to join a high potential start up intent on building a platform for nomade entrepreneurs.</p>\n\n<p>This position requires at least 5 years of experience in web development.</p>\n\n<p>We would consider it a bonus if: you’ve worked in a startup environment before; you’ve worked for companies with a legal, regulatory or legaltech focus; you are full-stack; you have an eye for design.</p>\n\n<p>THE TEAM :</p>\n\n<p>You will be joining a team of 1 CTO (full-stack dev) and 2 juniors Dev. full stack in a cool environment with lots of knowledge sharing and clients focused problems to solve. You will always be learning and have project ownership and responsibility. You will be responsible for the deployment of your own releases.</p>\n\n<p>We work in sprints to improve performance and support our growth, we expect you to play a key role mentoring, leading and reviewing the code of your co-workers and new joiners, to share your experience and inputs, be a problem solver and propose efficient and pragmatic solutions.</p>\n\n<p>We are located in Paris. <br>\nWe are experienced, passionate, motivated and hard workers, with varied but complementary backgrounds and previous experiences in the legal, ecommerce and web industry.</p>\n\n<p>SKILLS :</p>\n\n<ul>\n<li>You master nodejs, graphql and mongodb.</li>\n<li>You have worked with a variety of API (REST, SOAP, etc.) and SaaS services in the past, so you can easily handle and integrate any new third-party tool into our system.</li>\n<li>You know how to use GIT, Github, Gitlab. Versioning is your friend.</li>\n<li>You are a typescript and javascript developer.</li>\n<li>You can setup and work in a cloud environment and you know how to use PaaS platforms such as Heroku and AWS.</li>\n</ul>\n\n<p>MINDSET :</p>\n\n<ul>\n<li>You set very high standards for others and especially for yourself, you are always learning and not afraid to try new things. Mistakes are lessons to remember and feedbacks are gifts.<br></li>\n<li>You are familiar with Agile development processes.</li>\n<li>You are self-motivated and able to achieve development goals with a minimal supervision.</li>\n<li>We intend to grow fast, that means building products and solutions for appropriate scalability, sometimes with short term ‘hacks’ if needed but with the ability to call out real issues and create elegant, scalable solutions in the long term. </li>\n<li>You’re passionate about coding and delivering exceptional features to enhance the product.</li>\n<li>You’re creative, innovative, collaborative, and comfortable with constant change. We are a startup, nothing is written in stone, we change our mind often ;)</li>\n<li>When something is broken, you should feel empowered to fix it. You’re interested in the multidisciplinary aspect of the role as well as the long-term vision of the product. Most importantly, you’re not afraid to take ownership of projects and initiatives.</li>\n<li>Your code is awesome!</li>\n<li>You speak FLUENT English or French and be eligible to work in FR.</li>\n</ul>\n\n<p>OUR STACK :</p>\n\n<ul>\n<li>nodejs, graphql, mongodb</li>\n<li>typescript/JavaScript, Webpack</li>\n<li>HTML 5   / CSS 3, Twitter Bootstrap</li>\n<li>Cloud infrastructure, Heroku and AWS</li>\n<li>RabbitMQ, Redis, Cloudflare</li>\n<li>Segment, Autopilot, Mixpanel, Mailtrap, Hotjar, etc...</li>\n<li>Github, Jira, Slack</li>\n</ul>\n\n<p>BENEFITS :</p>\n\n<ul>\n<li>Salary + shares</li>\n<li>Access to an unparalleled network of mentors from The Family</li>\n<li>Be surrounded by smart people</li>\n<li>Work on a stack with the latest tools and softwares</li>\n<li>Autonomy and freedom in your work</li>\n<li>Be part of the revolution of the legaltech</li>\n</ul>\n\n<p>Join us!</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "MongoDB",
+        "Node.js",
+        "Vue.Js",
+        "NodeJS",
+        "GraphQL/Apollo"
+      ],
+      "payment": {
+        "salary": "€50k – €80k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/sabine-zylberbogen",
+        "name": "Sabine Zylberbogen ",
+        "avatar": "https://photos.angel.co/users/3830341-medium_jpg?1474043216"
+      },
+      "refs": {
+        "angelListId": "320338",
+        "angelListUrl": "https://angel.co/company/alf-robot-1/jobs/320338-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Account Executive - Legaltech - Paris, France",
+      "description": "Support our clients queries, answer phone or online chat questions and case follow-up.\nWe are a SAAS working for and with big corporations, lawfirms and accounting firms.",
+      "descriptionHtml": "<p>Support our clients queries, answer phone or online chat questions and case follow-up.<br>\nWe are a SAAS working for and with big corporations, lawfirms and accounting firms.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "Paris"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "€25k – €30k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/sabine-zylberbogen",
+        "name": "Sabine Zylberbogen ",
+        "avatar": "https://photos.angel.co/users/3830341-medium_jpg?1474043216"
+      },
+      "refs": {
+        "angelListId": "352488",
+        "angelListUrl": "https://angel.co/company/alf-robot-1/jobs/352488-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Business development and Marketing - Legaltech - Paris, France",
+      "description": "Develop our business in EU, find partners and close big deals. Collaborate with the team to address the needs of our clients, present and future.",
+      "descriptionHtml": "<p>Develop our business in EU, find partners and close big deals. Collaborate with the team to address the needs of our clients, present and future.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Business Development",
+        "Marketing Management"
+      ],
+      "payment": {
+        "salary": "€60k – €70k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/sabine-zylberbogen",
+        "name": "Sabine Zylberbogen ",
+        "avatar": "https://photos.angel.co/users/3830341-medium_jpg?1474043216"
+      },
+      "refs": {
+        "angelListId": "636022",
+        "angelListUrl": "https://angel.co/company/alf-robot-1/jobs/636022-"
+      }
+    }
+  ]
+}

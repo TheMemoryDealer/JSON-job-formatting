@@ -1,0 +1,317 @@
+{
+  "name": "LendInvest",
+  "avatar": "https://photos.angel.co/startups/i/160296-13947740338c1459644415d8ecf044c6-medium_jpg.jpg?buster=1441787441",
+  "slogan": "Leading marketplace platform for property finance",
+  "description": "LendInvest is a fast-growing and FinTech business that’s shaping the future of property finance. Since launching in 2008 (as Montello, we rebranded in 2013), our investors have invested in over £1 billion of loans to buy, build or renovate almost 4,000 properties around the UK. We’ve built a highly scalable business model and have secured £39 million equity investment to date from the likes of Atomico, the European venture capital fund led by Skype founder, Niklas Zennström.\n\nLendInvest is the world’s largest online marketplace for property lending and investing, as well as one of the UK’s most exciting FinTech companies. In the last few months we’ve been named in the Sunday Times’ Disrupt 10, a list of the ten most disruptive businesses in the UK, and we debuted at #37 in the 2017 Sunday Times Tech Track 100.\n\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.lendinvest.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.lendinvest.com/blog"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@lendinvest"
+    },
+    {
+      "type": "facebook",
+      "url": "http://www.facebook.com/lendinvest"
+    },
+    {
+      "type": "linkedIn",
+      "url": "http://www.linkedin.com/company/lendinvest"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Luxembourg"
+  ],
+  "marketTags": [
+    "Financial Services",
+    "Finance",
+    "Finance Technology",
+    "Marketplace Lender",
+    "Fin Tech"
+  ],
+  "employees": "SIZE_201_500",
+  "funding": {
+    "totalRaised": 99000000,
+    "rounds": [
+      {
+        "type": "Series C",
+        "closedAt": 1535760000,
+        "valuation": 0
+      },
+      {
+        "type": "Series B",
+        "closedAt": 1457913600,
+        "valuation": 0
+      },
+      {
+        "type": "Series A",
+        "closedAt": 1433894400,
+        "valuation": 170000000
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/p/christian-lendinvest-com",
+      "name": "Christian Faes",
+      "avatar": "https://photos.angel.co/users/141430-medium_jpg?1570206846",
+      "bioHtml": "Co-Founder/Exec Chair <a href=\"https://angel.co/company/lendinvest\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">LendInvest</span></a>; ex-lawyer"
+    },
+    {
+      "title": "CTO",
+      "role": "Employee",
+      "url": "https://angel.co/u/guy-evans-4",
+      "name": "Guy Evans",
+      "avatar": "https://photos.angel.co/users/8672572-medium_jpg?1544021098",
+      "bioHtml": "Experienced fintech CTO"
+    },
+    {
+      "title": "Operations and Change Director",
+      "role": "Employee",
+      "url": "https://angel.co/u/michael-evans-55",
+      "name": "Michael Evans",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/lorenzo-iannone",
+      "name": "Lorenzo Iannone",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "160296",
+    "angelListUrl": "https://angel.co/company/lendinvest"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Backend PHP Developer (Symfony2)",
+      "description": "DESCRIPTION\r\n\r\nWe are currently building several products for LendInvest - the world's largest peer-to-peer (P2P) marketplace real estate mortgages. We are a loan originating beast as well as the lender. We're removing the middleman by enabling technology to help create a direct borrower to lender experience.\r\n\r\nWe are extending our current investor portal in Symfony2, creating products for a \"Secondary Market\" (people buying and selling loan investments), adding new products as well as working on APIs for third parties and many other projects in the pipeline. The work is predominately greenfield projects\r\n\r\nCandidates must have strong recent hands-on Symfony2 experience as well as excellent knowledge of software engineering best practices, design patterns, etc. An interest in Devops is a plus, although we do have Devops/systems support available.\r\n\r\nOur servers are on AWS, database is MySQL/Amazon RDS, we have CI with Jenkins and Travis, and we use Behat and PHPSpec. We operate in an Agile environment using Scrum methodology.\r\n\r\nYou must be eligible to work in the UK without visa/sponsorship.\r\n\r\nREQUIREMENTS\r\n\r\n4+ years PHP 5 Object Oriented experience including strong experience with an MVC PHP framework\r\n2+ years using Symfony / Symfony2 (recent Symfony2 experience required)\r\nDoctrine 2\r\nMySQL\r\nRESTful services\r\nVersion control using Git\r\nAgile Scrum methodology experience\r\nPHPSpec/TDD Behat/BDD\r\nSelf-reliant, creative problem solver, outcome orientated\r\nAdaptive learner, someone who’s motivated by the challenge of getting things done, team player\r\nStrong communication skills",
+      "descriptionHtml": "<p>DESCRIPTION</p>\n\n<p>We are currently building several products for LendInvest - the world&#39;s largest peer-to-peer (P2P) marketplace real estate mortgages. We are a loan originating beast as well as the lender. We&#39;re removing the middleman by enabling technology to help create a direct borrower to lender experience.</p>\n\n<p>We are extending our current investor portal in Symfony2, creating products for a &quot;Secondary Market&quot; (people buying and selling loan investments), adding new products as well as working on APIs for third parties and many other projects in the pipeline. The work is predominately greenfield projects</p>\n\n<p>Candidates must have strong recent hands-on Symfony2 experience as well as excellent knowledge of software engineering best practices, design patterns, etc. An interest in Devops is a plus, although we do have Devops/systems support available.</p>\n\n<p>Our servers are on AWS, database is MySQL/Amazon RDS, we have CI with Jenkins and Travis, and we use Behat and PHPSpec. We operate in an Agile environment using Scrum methodology.</p>\n\n<p>You must be eligible to work in the UK without visa/sponsorship.</p>\n\n<p>REQUIREMENTS</p>\n\n<p>4+ years PHP 5 Object Oriented experience including strong experience with an MVC PHP framework<br>\n2+ years using Symfony / Symfony2 (recent Symfony2 experience required)<br>\nDoctrine 2<br>\nMySQL<br>\nRESTful services<br>\nVersion control using Git<br>\nAgile Scrum methodology experience<br>\nPHPSpec/TDD Behat/BDD<br>\nSelf-reliant, creative problem solver, outcome orientated<br>\nAdaptive learner, someone who’s motivated by the challenge of getting things done, team player<br>\nStrong communication skills</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "PHP",
+        "Continuous Integration",
+        "Symfony2",
+        "Continous Delivery",
+        "Tdd / Bdd / Ddd"
+      ],
+      "payment": {
+        "salary": "£40k – £65k"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "99726",
+        "angelListUrl": "https://angel.co/company/lendinvest/jobs/99726-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Front End Developer - CSS3 / HTML5",
+      "description": "DESCRIPTION\n\nLendInvest is one of the top FinTech companies in the UK, and the world's largest peer-to-peer (P2P) marketplace for real estate mortgages. We are a loan originating beast as well as the lender.\n\nWe are looking for a new member of our front-end development team. We use the de facto industry standard tools like Grunt, Gulp, Sass, jQuery, AngularJS to build our apps, and design and user experience are critical.\n\nYou should have 3 or or more years commercial experience as a front-end web developer. We believe that attitude is as important as experience. The ideal candidate shows energy and the will to learn and to improve themselves.\n\nIf you think you've already learned everything then please stop reading now.\n\nWe're looking for a coder, not a designer, but we would love to hire someone with ideas and opinions about UI/UX who will help us continually improve our products.\n\nREQUIREMENTS\n\nRequired\n\nA very good understand of HTML and HTML5;\nA very good understanding of CSS and CSS3;\nGood understanding of POJS (plain old javascript);\nWorking experience with jQuery, Underscore, lodash;\nUnderstanding and experience of cross-browser issues;\nWorking experience designing an UX schema, starting from business requirements. Also with pen and paper;\nGood taste in visual design (colors coupling, typography, spaces);\nThink mobile first responsiveness; and\n\nNice to Have\n\nFamiliarity with Twig or a similar templating system (we use Twig)\nExperience integrating with Symfony2 or other PHP applications\nJavaScript Unit Testing (TDD/BDD - Jasmine, Karma, Mocha)\nExperience with at least one major JavaScript framework (Angular.js, Backbone.js)\nWorking experience with Git, knowledge of bash or another shell\nSome interest in NodeJs and the modern front-end workflow\nUnderstanding of HTTP protocol\nExperience in an Agile environment using SCRUM\nExperience in Adobe Photoshop or Gimp\nExperience in Adobe Illustrator\nLove for technology\nLove for design",
+      "descriptionHtml": "<p>DESCRIPTION</p>\n\n<p>LendInvest is one of the top FinTech companies in the UK, and the world&#39;s largest peer-to-peer (P2P) marketplace for real estate mortgages. We are a loan originating beast as well as the lender.</p>\n\n<p>We are looking for a new member of our front-end development team. We use the de facto industry standard tools like Grunt, Gulp, Sass, jQuery, AngularJS to build our apps, and design and user experience are critical.</p>\n\n<p>You should have 3 or or more years commercial experience as a front-end web developer. We believe that attitude is as important as experience. The ideal candidate shows energy and the will to learn and to improve themselves.</p>\n\n<p>If you think you&#39;ve already learned everything then please stop reading now.</p>\n\n<p>We&#39;re looking for a coder, not a designer, but we would love to hire someone with ideas and opinions about UI/UX who will help us continually improve our products.</p>\n\n<p>REQUIREMENTS</p>\n\n<p>Required</p>\n\n<p>A very good understand of HTML and HTML5;<br>\nA very good understanding of CSS and CSS3;<br>\nGood understanding of POJS (plain old javascript);<br>\nWorking experience with jQuery, Underscore, lodash;<br>\nUnderstanding and experience of cross-browser issues;<br>\nWorking experience designing an UX schema, starting from business requirements. Also with pen and paper;<br>\nGood taste in visual design (colors coupling, typography, spaces);<br>\nThink mobile first responsiveness; and</p>\n\n<p>Nice to Have</p>\n\n<p>Familiarity with Twig or a similar templating system (we use Twig)<br>\nExperience integrating with Symfony2 or other PHP applications<br>\nJavaScript Unit Testing (TDD/BDD - Jasmine, Karma, Mocha)<br>\nExperience with at least one major JavaScript framework (Angular.js, Backbone.js)<br>\nWorking experience with Git, knowledge of bash or another shell<br>\nSome interest in NodeJs and the modern front-end workflow<br>\nUnderstanding of HTTP protocol<br>\nExperience in an Agile environment using SCRUM<br>\nExperience in Adobe Photoshop or Gimp<br>\nExperience in Adobe Illustrator<br>\nLove for technology<br>\nLove for design</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "PHP",
+        "Javascript",
+        "CSS",
+        "TDD",
+        "HTML5",
+        "BDD",
+        "DDD"
+      ],
+      "payment": {
+        "salary": "£40k – £65k"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "99904",
+        "angelListUrl": "https://angel.co/company/lendinvest/jobs/99904-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Backend Engineer - Multiple roles at various levels",
+      "description": "What are we about?\n\nLendInvest is a fast-growing and FinTech business that’s shaping the future of property finance. Since launching in 2008 (as Montello, we rebranded in 2013), our investors have invested in over £1 billion of loans to buy, build or renovate almost 4,000 properties around the UK. We’ve built a highly scalable business model and have secured £39 million equity investment to date from the likes of Atomico, the European venture capital fund led by Skype founder, Niklas Zennström.\n\nLendInvest is the world’s largest online marketplace for property lending and investing, as well as one of the UK’s most exciting FinTech companies. In the last few months we’ve been named in the Sunday Times’ Disrupt 10, a list of the ten most disruptive businesses in the UK, and we debuted at #37 in the 2017 Sunday Times Tech Track 100.\n\nWhat’s the team like?\n\nWe are using technology and innovation to make the process of owning and investing in property simple and straightforward. To date - we have loaned £1 billion, but we have set the bar much higher.\n\nWe hire people who are passionate about solving real-world problems in an exciting, dynamic, collaborative and fun environment.\n\nOur engineering teams, split into cross functional teams that look after the investor and borrower platforms, provide the technology and innovation that allows us to grow and evolve as a business. Without them, we could not achieve the goals we set as a company. From building a brand new microservice architecture to introducing 3rd party services to enable efficiencies or expansion, the challenges are never ending.\n\nWe are always evolving and right now that evolution is happening in our cutting edge technology team. We want to hire engineers who are not only passionate about a particular technology but technology as a whole and how it fits into the overall picture of a highly scalable product.\n\nWe rely heavily on PHP7, Symfony3, MySQL and Node.JS, AWS, Docker and Kubernetes\n\nWhat’s my day to day going to be like?\n\nTake part in daily stand ups\nGo through project boards to evaluate the work to be done\nWrite well designed, testable, efficient code by using best software development practices\nWrite unit and functional tests\nStay plugged into emerging technologies/industry trends and apply them into operations and activities\nWhat we’d like you to have:\n\nPHP7, Symfony3, MySQL, Node.JS (but don’t be put off if these aren’t your primary languages)\nGood knowledge of Design Patterns\nGood knowledge of REST\nMySQL, AWS, Docker, Kubernetes would be a bonus\nTest Driven (TDD). You will never say it’s ready until it’s been tested, documented and explained\nYou are collaborative and prefer to work as a team rather than as an individual\n\n\nIt would be great if you:\n\nHave experience using DDD\nHave an active interest in finance or property and industry disruption\n\n\nWhat you’ll get in return:\n\nAlways be learning. We won’t ever expect you to do the same thing over and over. We want to give you new opportunities to become the best engineer you can be.\nMake a measurable difference. We’re here to change the way the world deals with property by making it accessible for all.\nA relaxed open-plan working environment\nMatched pension contributions up to 4%\nDiscretionary share-option scheme\n25 days holiday\nEnhance maternity/paternity pay\nSubsidised gym membership via PerkBox\nVarious other discounts/benefits via PerkBox\nOpen bar from 5.30pm (4pm on Fridays)\nCooked lunch on Friday's from a local restaurant\nA selection of breakfast cereals and fresh fruits and snacks are available each day\nA MacBook or similar and everything else you need to do your job and a great team all working towards a common goal.",
+      "descriptionHtml": "<p>What are we about?</p>\n\n<p>LendInvest is a fast-growing and FinTech business that’s shaping the future of property finance. Since launching in 2008 (as Montello, we rebranded in 2013), our investors have invested in over £1 billion of loans to buy, build or renovate almost 4,000 properties around the UK. We’ve built a highly scalable business model and have secured £39 million equity investment to date from the likes of Atomico, the European venture capital fund led by Skype founder, Niklas Zennström.</p>\n\n<p>LendInvest is the world’s largest online marketplace for property lending and investing, as well as one of the UK’s most exciting FinTech companies. In the last few months we’ve been named in the Sunday Times’ Disrupt 10, a list of the ten most disruptive businesses in the UK, and we debuted at #37 in the 2017 Sunday Times Tech Track 100.</p>\n\n<p>What’s the team like?</p>\n\n<p>We are using technology and innovation to make the process of owning and investing in property simple and straightforward. To date - we have loaned £1 billion, but we have set the bar much higher.</p>\n\n<p>We hire people who are passionate about solving real-world problems in an exciting, dynamic, collaborative and fun environment.</p>\n\n<p>Our engineering teams, split into cross functional teams that look after the investor and borrower platforms, provide the technology and innovation that allows us to grow and evolve as a business. Without them, we could not achieve the goals we set as a company. From building a brand new microservice architecture to introducing 3rd party services to enable efficiencies or expansion, the challenges are never ending.</p>\n\n<p>We are always evolving and right now that evolution is happening in our cutting edge technology team. We want to hire engineers who are not only passionate about a particular technology but technology as a whole and how it fits into the overall picture of a highly scalable product.</p>\n\n<p>We rely heavily on PHP7, Symfony3, MySQL and Node.JS, AWS, Docker and Kubernetes</p>\n\n<p>What’s my day to day going to be like?</p>\n\n<p>Take part in daily stand ups<br>\nGo through project boards to evaluate the work to be done<br>\nWrite well designed, testable, efficient code by using best software development practices<br>\nWrite unit and functional tests<br>\nStay plugged into emerging technologies/industry trends and apply them into operations and activities<br>\nWhat we’d like you to have:</p>\n\n<p>PHP7, Symfony3, MySQL, Node.JS (but don’t be put off if these aren’t your primary languages)<br>\nGood knowledge of Design Patterns<br>\nGood knowledge of REST<br>\nMySQL, AWS, Docker, Kubernetes would be a bonus<br>\nTest Driven (TDD). You will never say it’s ready until it’s been tested, documented and explained<br>\nYou are collaborative and prefer to work as a team rather than as an individual</p>\n\n<p>It would be great if you:</p>\n\n<p>Have experience using DDD<br>\nHave an active interest in finance or property and industry disruption</p>\n\n<p>What you’ll get in return:</p>\n\n<p>Always be learning. We won’t ever expect you to do the same thing over and over. We want to give you new opportunities to become the best engineer you can be.<br>\nMake a measurable difference. We’re here to change the way the world deals with property by making it accessible for all.<br>\nA relaxed open-plan working environment<br>\nMatched pension contributions up to 4%<br>\nDiscretionary share-option scheme<br>\n25 days holiday<br>\nEnhance maternity/paternity pay<br>\nSubsidised gym membership via PerkBox<br>\nVarious other discounts/benefits via PerkBox<br>\nOpen bar from 5.30pm (4pm on Fridays)<br>\nCooked lunch on Friday&#39;s from a local restaurant<br>\nA selection of breakfast cereals and fresh fruits and snacks are available each day<br>\nA MacBook or similar and everything else you need to do your job and a great team all working towards a common goal.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "PHP",
+        "MySQL",
+        "Node.js",
+        "Symfony",
+        "Symfony2",
+        "Symfony3"
+      ],
+      "payment": {
+        "salary": "£30k – £65k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/sufyaan-jogee",
+        "name": "Sufyaan Jogee",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "299782",
+        "angelListUrl": "https://angel.co/company/lendinvest/jobs/299782-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Backend Engineer (PHP)",
+      "description": "Backend Engineer - Multiple roles at various levels\n\nWhat are we about?\n\nLendInvest is a fast-growth Financial Technology business that is shaping the future of property finance. Since launching in 2008, we’ve funded over £1 billion of loans to buy, build or renovate almost 4,000 properties around the UK. We raised almost £50 million of equity backing to date from top tier investors such as Atomico, the European venture capital fund led by Skype founder, Niklas Zennström. In total we’ve raised and manage over $1 billion of funds for investors.\n\nLendInvest is the world’s largest online marketplace for property lending and investing, and is one of the UK’s fastest growing FinTech companies.\n\n\nWhat’s the team like?\n\nWe are using technology and innovation to make the process of owning and investing in property simple and straightforward. To date - we have loaned £1 billion, but we have set the bar much higher.\n\nWe hire people who are passionate about solving real-world problems in an exciting, dynamic, collaborative and fun environment.\n\nOur engineering teams, split into cross functional teams that look after the investor and borrower platforms, provide the technology and innovation that allows us to grow and evolve as a business. Without them, we could not achieve the goals we set as a company. From building a brand new microservice architecture to introducing 3rd party services to enable efficiencies or expansion, the challenges are never ending.\n\nWe are always evolving and right now that evolution is happening in our cutting edge technology team. We want to hire engineers who are not only passionate about a particular technology but technology as a whole and how it fits into the overall picture of a highly scalable product.\n\nWe rely heavily on PHP7, Symfony3, MySQL and Node.JS, AWS, Docker and Kubernetes\n\n\nWhat you'll be doing\n\n* Take part in daily stand ups\n* Go through project boards to evaluate the work to be done\n* Write well designed, testable, efficient code by using best software development practices\n* Write unit and functional tests\n* Stay plugged into emerging technologies/industry trends and apply them into operations and activities\n\nWhat we’d need you to have\n\n* As a mid-weight developer you will have a good knowledge across most (but not necessarily) all of the above technical areas.\n\n* PHP7, Symfony3, MySQL, Node.JS (but don’t be put off if these aren’t your primary languages)\n* Good knowledge of Design Patterns\n* Good knowledge of REST\n* MySQL, AWS, Docker, Kubernetes would be a bonus\n* Test Driven (TDD). You will never say it’s ready until it’s been tested, documented and explained\n* You are collaborative and prefer to work as a team rather than as an individual\n\nWhat we'd like you to have\n\n* Have experience using DDD\n* Have an active interest in finance or property and industry disruption\n\nBenefits\n\nLendInvest benefits include:\n\n* A relaxed open-plan working environment\n* Private medical cover (Vitality)\n* Matched pension contributions\n* Discretionary share-options scheme\n* 25 days holiday\n* Enhance maternity/paternity pay\n* Subsidised gym membership\n* Various other discounts/benefits\n* Open bar from 5.30pm (4pm on Fridays)\n* Cooked lunch on Friday's from a local restaurant\n* A selection of breakfast cereals and fresh fruits and snacks available each day\n* A MacBook or similar and everything else you need to do your job.",
+      "descriptionHtml": "<p>Backend Engineer - Multiple roles at various levels</p>\n\n<p>What are we about?</p>\n\n<p>LendInvest is a fast-growth Financial Technology business that is shaping the future of property finance. Since launching in 2008, we’ve funded over £1 billion of loans to buy, build or renovate almost 4,000 properties around the UK. We raised almost £50 million of equity backing to date from top tier investors such as Atomico, the European venture capital fund led by Skype founder, Niklas Zennström. In total we’ve raised and manage over $1 billion of funds for investors.</p>\n\n<p>LendInvest is the world’s largest online marketplace for property lending and investing, and is one of the UK’s fastest growing FinTech companies.</p>\n\n<p>What’s the team like?</p>\n\n<p>We are using technology and innovation to make the process of owning and investing in property simple and straightforward. To date - we have loaned £1 billion, but we have set the bar much higher.</p>\n\n<p>We hire people who are passionate about solving real-world problems in an exciting, dynamic, collaborative and fun environment.</p>\n\n<p>Our engineering teams, split into cross functional teams that look after the investor and borrower platforms, provide the technology and innovation that allows us to grow and evolve as a business. Without them, we could not achieve the goals we set as a company. From building a brand new microservice architecture to introducing 3rd party services to enable efficiencies or expansion, the challenges are never ending.</p>\n\n<p>We are always evolving and right now that evolution is happening in our cutting edge technology team. We want to hire engineers who are not only passionate about a particular technology but technology as a whole and how it fits into the overall picture of a highly scalable product.</p>\n\n<p>We rely heavily on PHP7, Symfony3, MySQL and Node.JS, AWS, Docker and Kubernetes</p>\n\n<p>What you&#39;ll be doing</p>\n\n<ul>\n<li>Take part in daily stand ups</li>\n<li>Go through project boards to evaluate the work to be done</li>\n<li>Write well designed, testable, efficient code by using best software development practices</li>\n<li>Write unit and functional tests</li>\n<li>Stay plugged into emerging technologies/industry trends and apply them into operations and activities</li>\n</ul>\n\n<p>What we’d need you to have</p>\n\n<ul>\n<li><p>As a mid-weight developer you will have a good knowledge across most (but not necessarily) all of the above technical areas.</p></li>\n<li><p>PHP7, Symfony3, MySQL, Node.JS (but don’t be put off if these aren’t your primary languages)</p></li>\n<li><p>Good knowledge of Design Patterns</p></li>\n<li><p>Good knowledge of REST</p></li>\n<li><p>MySQL, AWS, Docker, Kubernetes would be a bonus</p></li>\n<li><p>Test Driven (TDD). You will never say it’s ready until it’s been tested, documented and explained</p></li>\n<li><p>You are collaborative and prefer to work as a team rather than as an individual</p></li>\n</ul>\n\n<p>What we&#39;d like you to have</p>\n\n<ul>\n<li>Have experience using DDD</li>\n<li>Have an active interest in finance or property and industry disruption</li>\n</ul>\n\n<p>Benefits</p>\n\n<p>LendInvest benefits include:</p>\n\n<ul>\n<li>A relaxed open-plan working environment</li>\n<li>Private medical cover (Vitality)</li>\n<li>Matched pension contributions</li>\n<li>Discretionary share-options scheme</li>\n<li>25 days holiday</li>\n<li>Enhance maternity/paternity pay</li>\n<li>Subsidised gym membership</li>\n<li>Various other discounts/benefits</li>\n<li>Open bar from 5.30pm (4pm on Fridays)</li>\n<li>Cooked lunch on Friday&#39;s from a local restaurant</li>\n<li>A selection of breakfast cereals and fresh fruits and snacks available each day</li>\n<li>A MacBook or similar and everything else you need to do your job.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/sufyaan-jogee",
+        "name": "Sufyaan Jogee",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "472413",
+        "angelListUrl": "https://angel.co/company/lendinvest/jobs/472413-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Frontend Engineer",
+      "description": "Frontend Engineer - Various levels\n\nWhat are we about\n\nLendInvest is a fast-growth Financial Technology business that is shaping the future of property finance. Since launching in 2008, we’ve funded over £1 billion of loans to buy, build or renovate almost 4,000 properties around the UK. We raised almost £50 million of equity backing to date from top tier investors such as Atomico, the European venture capital fund led by Skype founder, Niklas Zennström. In total we’ve raised and manage over $1 billion of funds for investors.\n\nLendInvest is the world’s largest online marketplace for property lending and investing, and is one of the UK’s fastest growing FinTech companies.\n\n\nWhat’s the team like?\n\nWe are using technology and innovation to make the process of owning and investing in property simple and straightforward. To date - we have loaned £1 billion, but we have set the bar much higher.\n\nWe hire people who are passionate about solving real-world problems in an exciting, dynamic, collaborative and fun environment.\n\nOur engineering teams, split into cross functional teams that look after the investor and borrower platforms, provide the technology and innovation that allows us to grow and evolve as a business. Without them, we could not achieve the goals we set as a company. From building a brand new microservice architecture to introducing 3rd party services to enable efficiencies or expansion, the challenges are never ending.\n\nWe are always evolving and right now that evolution is happening in our cutting edge technology team. We want to hire engineers who are not only passionate about a particular technology but technology as a whole and how it fits into the overall picture of a highly scalable product.\n\nWe rely heavily on React and Redux consuming RESTful APIs and on the backend, PHP7, Symfony3, Node.JS and MySQL. We use AWS, Docker and Kubernetes for infrastructure.\n\n\nWhat’s my day to day going to be like?\n\n* Create responsive website layout/user interface\n* Gather and refine specifications and requirements based on technical needs\n* Create and maintain software documentation\n* Stay plugged into emerging technologies/industry trends and apply them into operations and activities\n* Cooperate with web designers to match visual design intent\n\n\nWhat we need you to have?\n\n* ES6 Javascript\n* CSS\n* Responsive design\n* Confident in working with RESTIsh API\n* You’re passionate about Interactive Design and you came across Atomic Design principles\n* You are collaborative and prefer to work as a team rather than as an individual\n* You have experience with one or more of the modern javascript frameworks (React, amber, angular, backbone)\n\n\nIt would be great if you've got the following:\n\n* Worked on some highly scalable microservices,\n* Experience of Test Driven Development (TDD)\n* Any knowledge of Node.JS\n* Knowledge of AWS, Docker, Kubernetes\n* An interest in learning React and Redux\n* Keen interest in finance or property and industry disruption\n\n\nWhat you’ll get in return\n\n* We work in cross functional teams and use Domain Driven Design (DDD) to understand our stakeholders and business to produce better outcomes. We use short iterations to provide value incrementally.\n\n* Chance to always be learning. We won’t ever expect you to do the same thing over and over. We want to give you new opportunities to become the best engineer you can be.\n* Private Healthcare (Vitality)\n* Season Ticket Loan\n\n* Make a measurable difference. We’re here to change the way the world deals with property finance by making it accessible for all.\n* A relaxed open-plan working environment\n* Matched pension contributions up to 4%\n* Discretionary share-option scheme\n* 25 days’ holiday\n* Enhance maternity/paternity pay\n* Subsidised gym membership via PerkBox\n* Various other discounts/benefits via PerkBox\n* Open bar from 5.30pm (4pm on Fridays)\n* Cooked lunch on Fridays from a local restaurant\n* A selection of breakfast cereals and fresh fruits and snacks are available each day\n* A MacBook or similar and everything else you need to do your job\n* Great team all working towards a common goal.",
+      "descriptionHtml": "<p>Frontend Engineer - Various levels</p>\n\n<p>What are we about</p>\n\n<p>LendInvest is a fast-growth Financial Technology business that is shaping the future of property finance. Since launching in 2008, we’ve funded over £1 billion of loans to buy, build or renovate almost 4,000 properties around the UK. We raised almost £50 million of equity backing to date from top tier investors such as Atomico, the European venture capital fund led by Skype founder, Niklas Zennström. In total we’ve raised and manage over $1 billion of funds for investors.</p>\n\n<p>LendInvest is the world’s largest online marketplace for property lending and investing, and is one of the UK’s fastest growing FinTech companies.</p>\n\n<p>What’s the team like?</p>\n\n<p>We are using technology and innovation to make the process of owning and investing in property simple and straightforward. To date - we have loaned £1 billion, but we have set the bar much higher.</p>\n\n<p>We hire people who are passionate about solving real-world problems in an exciting, dynamic, collaborative and fun environment.</p>\n\n<p>Our engineering teams, split into cross functional teams that look after the investor and borrower platforms, provide the technology and innovation that allows us to grow and evolve as a business. Without them, we could not achieve the goals we set as a company. From building a brand new microservice architecture to introducing 3rd party services to enable efficiencies or expansion, the challenges are never ending.</p>\n\n<p>We are always evolving and right now that evolution is happening in our cutting edge technology team. We want to hire engineers who are not only passionate about a particular technology but technology as a whole and how it fits into the overall picture of a highly scalable product.</p>\n\n<p>We rely heavily on React and Redux consuming RESTful APIs and on the backend, PHP7, Symfony3, Node.JS and MySQL. We use AWS, Docker and Kubernetes for infrastructure.</p>\n\n<p>What’s my day to day going to be like?</p>\n\n<ul>\n<li>Create responsive website layout/user interface</li>\n<li>Gather and refine specifications and requirements based on technical needs</li>\n<li>Create and maintain software documentation</li>\n<li>Stay plugged into emerging technologies/industry trends and apply them into operations and activities</li>\n<li>Cooperate with web designers to match visual design intent</li>\n</ul>\n\n<p>What we need you to have?</p>\n\n<ul>\n<li>ES6 Javascript</li>\n<li>CSS</li>\n<li>Responsive design</li>\n<li>Confident in working with RESTIsh API</li>\n<li>You’re passionate about Interactive Design and you came across Atomic Design principles</li>\n<li>You are collaborative and prefer to work as a team rather than as an individual</li>\n<li>You have experience with one or more of the modern javascript frameworks (React, amber, angular, backbone)</li>\n</ul>\n\n<p>It would be great if you&#39;ve got the following:</p>\n\n<ul>\n<li>Worked on some highly scalable microservices,</li>\n<li>Experience of Test Driven Development (TDD)</li>\n<li>Any knowledge of Node.JS</li>\n<li>Knowledge of AWS, Docker, Kubernetes</li>\n<li>An interest in learning React and Redux</li>\n<li>Keen interest in finance or property and industry disruption</li>\n</ul>\n\n<p>What you’ll get in return</p>\n\n<ul>\n<li><p>We work in cross functional teams and use Domain Driven Design (DDD) to understand our stakeholders and business to produce better outcomes. We use short iterations to provide value incrementally.</p></li>\n<li><p>Chance to always be learning. We won’t ever expect you to do the same thing over and over. We want to give you new opportunities to become the best engineer you can be.</p></li>\n<li><p>Private Healthcare (Vitality)</p></li>\n<li><p>Season Ticket Loan</p></li>\n<li><p>Make a measurable difference. We’re here to change the way the world deals with property finance by making it accessible for all.</p></li>\n<li><p>A relaxed open-plan working environment</p></li>\n<li><p>Matched pension contributions up to 4%</p></li>\n<li><p>Discretionary share-option scheme</p></li>\n<li><p>25 days’ holiday</p></li>\n<li><p>Enhance maternity/paternity pay</p></li>\n<li><p>Subsidised gym membership via PerkBox</p></li>\n<li><p>Various other discounts/benefits via PerkBox</p></li>\n<li><p>Open bar from 5.30pm (4pm on Fridays)</p></li>\n<li><p>Cooked lunch on Fridays from a local restaurant</p></li>\n<li><p>A selection of breakfast cereals and fresh fruits and snacks are available each day</p></li>\n<li><p>A MacBook or similar and everything else you need to do your job</p></li>\n<li><p>Great team all working towards a common goal.</p></li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/sufyaan-jogee",
+        "name": "Sufyaan Jogee",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "472416",
+        "angelListUrl": "https://angel.co/company/lendinvest/jobs/472416-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "QA Automation Engineer",
+      "description": "What are we about?\n\nLendInvest is a fast-growth Financial Technology business that is shaping the future of property finance. Since launching in 2008, we’ve funded over £1 billion of loans to buy, build or renovate almost 4,000 properties around the UK. We raised almost £50 million of equity backing to date from top tier investors such as Atomico, the European venture capital fund led by Skype founder, Niklas Zennström. In total we’ve raised and manage over $1 billion of funds for investors.\n\n\nLendInvest is the world’s largest online marketplace for property lending and investing, and is one of the UK’s fastest growing FinTech companies.\n\n\nWhat’s the team like?\n\nWe are using technology and innovation to make the process of owning and investing in property simple and straightforward. To date - we have loaned £1 billion, but we have set the bar much higher.\n\nAs we continue to grow we are a looking for a QA Automation Engineer to join our growing engineering team. We hire people who are passionate about solving real-world problems in an exciting, dynamic, collaborative and fun environment.\n\nThis role sits across our delivery teams ensuring we release quality features and changes for our clients. The ideal candidate will have experience in QA/Testing and be skilled in automated testing design and implementation. You must be able to work successfully across Test, Development, Deployment, and Support. The successful candidate will be responsible for managing and updating automated suites, and will be expected to contribute to the overall test strategy, execution, and QA procedures.\n\nWe hire people who are passionate about solving real-world problems in an exciting, dynamic, collaborative and fun environment.\n\n\nCheck out our awesome engineering careers page to find out what it's really like at LendInvest: https://www.lendinvest.com/careers/meet-the-teams/engineering/ (https://workable.com/nr?l=https%3A%2F%2Fwww.lendinvest.com%2Fcareers%2Fmeet-the-teams%2Fengineering%2F)\n\n\nWhat’s my day to day going to be like?\n\n* Take part in daily stand ups\n* Go through project boards to evaluate the work to be done\n* Pick up tickets for test execution\n* Analyse requirements/features to test\n* Execute testing on multiple projects/products\n* Discuss test requirements with product, UX and development teams\n* Manage test environment and test data\n* Execute automated test suite\n* Evaluate where and how to increase/improve automation suite coverage\n* Develop/Program automated test suites\n* Assist product teams with Acceptance tasks\n* Take part in features design/requirements discussions\n* Help product and development teams define and structure features’ scope and its tasks\n* Discuss and improve QA procedures/strategies with all parts\n\n\nWhat we need you to have?\n\n* Deep experience designing and executing automated, end-to-end integration tests in API-driven applications;\n* Cucumber/Gherkin/Selenium;\n* Programming/scripting test automation suites (preferably using OOP languages like Java);\n* Experience writing comprehensive software test plans;\n* Ability to learn and understand new features, and work with business analysts and product folks to understand new requirements;\n* Possess a high degree of self-motivation, integrity, and commitment;\n* Strong communication skills (written and verbal)\n* Experience within an agile environment;\n* Comfortable switching between multiple project contexts;\n\n\nIt would be great if you have:\n\n* Experience with performance testing is welcomed\n\nWhat you’ll get in return\n\n* Always be learning. We won’t ever expect you to do the same thing over and over. We want to give you new opportunities to become the best engineer you can be.\n\n* Make a measurable difference. We’re here to change the way the world deals with property by making it accessible for all.\n* A relaxed open-plan working environment\n* Private Healthcare (Vitality)\n* Season Ticket Loan\n* Matched pension contributions up to 4%\n* Discretionary share-option scheme\n* 25 days holiday\n* Enhance maternity/paternity pay\n* Subsidised gym membership via PerkBox\n* Various other discounts/benefits via PerkBox\n* Open bar from 5.30pm (4pm on Fridays)\n* Cooked lunch on Friday's from a local restaurant\n* A selection of breakfast cereals and fresh fruits and snacks are available each day\n* A MacBook or similar and everything else you need to do your job and a great team all working towards a common goal.",
+      "descriptionHtml": "<p>What are we about?</p>\n\n<p>LendInvest is a fast-growth Financial Technology business that is shaping the future of property finance. Since launching in 2008, we’ve funded over £1 billion of loans to buy, build or renovate almost 4,000 properties around the UK. We raised almost £50 million of equity backing to date from top tier investors such as Atomico, the European venture capital fund led by Skype founder, Niklas Zennström. In total we’ve raised and manage over $1 billion of funds for investors.</p>\n\n<p>LendInvest is the world’s largest online marketplace for property lending and investing, and is one of the UK’s fastest growing FinTech companies.</p>\n\n<p>What’s the team like?</p>\n\n<p>We are using technology and innovation to make the process of owning and investing in property simple and straightforward. To date - we have loaned £1 billion, but we have set the bar much higher.</p>\n\n<p>As we continue to grow we are a looking for a QA Automation Engineer to join our growing engineering team. We hire people who are passionate about solving real-world problems in an exciting, dynamic, collaborative and fun environment.</p>\n\n<p>This role sits across our delivery teams ensuring we release quality features and changes for our clients. The ideal candidate will have experience in QA/Testing and be skilled in automated testing design and implementation. You must be able to work successfully across Test, Development, Deployment, and Support. The successful candidate will be responsible for managing and updating automated suites, and will be expected to contribute to the overall test strategy, execution, and QA procedures.</p>\n\n<p>We hire people who are passionate about solving real-world problems in an exciting, dynamic, collaborative and fun environment.</p>\n\n<p>Check out our awesome engineering careers page to find out what it&#39;s really like at LendInvest: <a href=\"https://www.lendinvest.com/careers/meet-the-teams/engineering/\" target=\"_blank\" rel=\"nofollow\">https://www.lendinvest.com/careers/meet-the-teams/engineering/</a> (<a href=\"https://workable.com/nr?l=https%3A%2F%2Fwww.lendinvest.com%2Fcareers%2Fmeet-the-teams%2Fengineering%2F\" target=\"_blank\" rel=\"nofollow\">https://workable.com/nr?l=https%3A%2F%2Fwww.lendinvest.com%2Fcareers%2Fmeet-the-teams%2Fengineering%2F</a>)</p>\n\n<p>What’s my day to day going to be like?</p>\n\n<ul>\n<li>Take part in daily stand ups</li>\n<li>Go through project boards to evaluate the work to be done</li>\n<li>Pick up tickets for test execution</li>\n<li>Analyse requirements/features to test</li>\n<li>Execute testing on multiple projects/products</li>\n<li>Discuss test requirements with product, UX and development teams</li>\n<li>Manage test environment and test data</li>\n<li>Execute automated test suite</li>\n<li>Evaluate where and how to increase/improve automation suite coverage</li>\n<li>Develop/Program automated test suites</li>\n<li>Assist product teams with Acceptance tasks</li>\n<li>Take part in features design/requirements discussions</li>\n<li>Help product and development teams define and structure features’ scope and its tasks</li>\n<li>Discuss and improve QA procedures/strategies with all parts</li>\n</ul>\n\n<p>What we need you to have?</p>\n\n<ul>\n<li>Deep experience designing and executing automated, end-to-end integration tests in API-driven applications;</li>\n<li>Cucumber/Gherkin/Selenium;</li>\n<li>Programming/scripting test automation suites (preferably using OOP languages like Java);</li>\n<li>Experience writing comprehensive software test plans;</li>\n<li>Ability to learn and understand new features, and work with business analysts and product folks to understand new requirements;</li>\n<li>Possess a high degree of self-motivation, integrity, and commitment;</li>\n<li>Strong communication skills (written and verbal)</li>\n<li>Experience within an agile environment;</li>\n<li>Comfortable switching between multiple project contexts;</li>\n</ul>\n\n<p>It would be great if you have:</p>\n\n<ul>\n<li>Experience with performance testing is welcomed</li>\n</ul>\n\n<p>What you’ll get in return</p>\n\n<ul>\n<li><p>Always be learning. We won’t ever expect you to do the same thing over and over. We want to give you new opportunities to become the best engineer you can be.</p></li>\n<li><p>Make a measurable difference. We’re here to change the way the world deals with property by making it accessible for all.</p></li>\n<li><p>A relaxed open-plan working environment</p></li>\n<li><p>Private Healthcare (Vitality)</p></li>\n<li><p>Season Ticket Loan</p></li>\n<li><p>Matched pension contributions up to 4%</p></li>\n<li><p>Discretionary share-option scheme</p></li>\n<li><p>25 days holiday</p></li>\n<li><p>Enhance maternity/paternity pay</p></li>\n<li><p>Subsidised gym membership via PerkBox</p></li>\n<li><p>Various other discounts/benefits via PerkBox</p></li>\n<li><p>Open bar from 5.30pm (4pm on Fridays)</p></li>\n<li><p>Cooked lunch on Friday&#39;s from a local restaurant</p></li>\n<li><p>A selection of breakfast cereals and fresh fruits and snacks are available each day</p></li>\n<li><p>A MacBook or similar and everything else you need to do your job and a great team all working towards a common goal.</p></li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/sufyaan-jogee",
+        "name": "Sufyaan Jogee",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "472418",
+        "angelListUrl": "https://angel.co/company/lendinvest/jobs/472418-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Frontend Engineer",
+      "description": "Senior Front-end Engineer\n\nWhat are we about?\n\nLendInvest is a fast-growth Financial Technology business that is shaping the future of property finance. Since launching in 2008, we’ve funded over £1 billion of loans to buy, build or renovate almost 4,000 properties around the UK. We raised almost £50 million of equity backing to date from top tier investors such as Atomico, the European venture capital fund led by Skype founder, Niklas Zennström. In total we’ve raised and manage over $1 billion of funds for investors.\n\n\nLendInvest is the world’s largest online marketplace for property lending and investing, and is one of the UK’s fastest growing FinTech companies.\n\n\nWhat’s the team like?\n\nWe are using technology and innovation to make the process of owning and investing in property simple and straightforward. To date - we have loaned £1 billion, but we have set the bar much higher.\n\nWe hire people who are passionate about solving real-world problems in an exciting, dynamic, collaborative and fun environment.\n\nOur engineering teams, split into cross functional teams that look after the investor, loan engine and borrower platforms, providing the technology and innovation that allows us to grow and evolve as a business. Without them, we could not achieve the goals we set as a company. From building a brand new microservices architecture to introducing 3rd party services to enable efficiencies or expansion, the challenges are never ending.\n\nWe rely heavily on React and Redux consuming RESTful APIs built using PHP7, Symfony3, Node.JS and MySQL. We use AWS, Docker and Kubernetes for infrastructure.\n\nRequirements\n\nWhat you'll be doing\n\n* Build frameworks and processes to accomplish technical excellency across all Front-end projects\n* Mentoring more junior members of the team with a variety of techniques including explaining advanced technical techniques and pair programming.\n* Take complex requirements and confidently design and implement solutions\n\n* Create responsive website layout/user interface\n* Gather and refine specifications and requirements based on technical needs\n* Create and maintain software documentation\n* Stay plugged into emerging technologies/industry trends and apply them into operations and activities\n* Cooperate with web designers to match visual design intent\n\nWhat we need you to have?\n\n* ES8 JavaScript\n* CSS & Sass or other preprocessing engine\n* Confidence in working with RESTIsh APIs\n* Experience with modelling the Front-end architecture\n* You’re passionate about building products offering effective User Experience You are collaborative and prefer to work as a team rather than as an individual\n* You have experience with ReactJS, Redux stack\n\nIt would be great if you've got the following:\n\n* As a senior developer you will have strong and deep technical knowledge across most (but not necessarily) all of the above technical areas.\n* Worked on some highly scalable microservices,\n* Understanding of Test Driven Development (TDD)\n* Knowledge of Node.JS\n* Knowledge of AWS, Docker, Kubernetes\n* Keen interest in finance or property and industry disruption\n* You came across Atomic Design principles\n* Knowledge of any functional language or experience with functional patterns\n\nBenefits\n\nWhat you’ll get in return\n\n* Ability to change ways of working, lots of appreciation from colleagues, exposure to the business\n* We work in cross functional teams and use Domain Driven Design (DDD) to understand our stakeholders and business to produce better outcomes. We use short iterations to provide value incrementally.\n\n* Chance to always be learning. We won’t ever expect you to do the same thing over and over. We want to give you new opportunities to become the best engineer you can be.\n\n* Make a measurable difference. We’re here to change the way the world deals with property finance by making it accessible for all.\n* A relaxed open-plan working environment\n* Private Healthcare (Vitality)\n* Season Ticket Loan\n* Matched pension contributions up to 4%\n* Discretionary share-option scheme\n* 25 days’ holiday\n* Enhance maternity/paternity pay\n* Various discounts/benefits via PerkBox (Including Gym, food and cinema)\n* Open bar from 5.30pm (4pm on Fridays)\n* Cooked lunch on Fridays from a local restaurant\n* A selection of breakfast cereals and fresh fruits and snacks are available each day\n* A MacBook or similar and everything else you need to do your job\n* Great team all working towards a common goal.",
+      "descriptionHtml": "<p>Senior Front-end Engineer</p>\n\n<p>What are we about?</p>\n\n<p>LendInvest is a fast-growth Financial Technology business that is shaping the future of property finance. Since launching in 2008, we’ve funded over £1 billion of loans to buy, build or renovate almost 4,000 properties around the UK. We raised almost £50 million of equity backing to date from top tier investors such as Atomico, the European venture capital fund led by Skype founder, Niklas Zennström. In total we’ve raised and manage over $1 billion of funds for investors.</p>\n\n<p>LendInvest is the world’s largest online marketplace for property lending and investing, and is one of the UK’s fastest growing FinTech companies.</p>\n\n<p>What’s the team like?</p>\n\n<p>We are using technology and innovation to make the process of owning and investing in property simple and straightforward. To date - we have loaned £1 billion, but we have set the bar much higher.</p>\n\n<p>We hire people who are passionate about solving real-world problems in an exciting, dynamic, collaborative and fun environment.</p>\n\n<p>Our engineering teams, split into cross functional teams that look after the investor, loan engine and borrower platforms, providing the technology and innovation that allows us to grow and evolve as a business. Without them, we could not achieve the goals we set as a company. From building a brand new microservices architecture to introducing 3rd party services to enable efficiencies or expansion, the challenges are never ending.</p>\n\n<p>We rely heavily on React and Redux consuming RESTful APIs built using PHP7, Symfony3, Node.JS and MySQL. We use AWS, Docker and Kubernetes for infrastructure.</p>\n\n<p>Requirements</p>\n\n<p>What you&#39;ll be doing</p>\n\n<ul>\n<li>Build frameworks and processes to accomplish technical excellency across all Front-end projects</li>\n<li>Mentoring more junior members of the team with a variety of techniques including explaining advanced technical techniques and pair programming.</li>\n<li><p>Take complex requirements and confidently design and implement solutions</p></li>\n<li><p>Create responsive website layout/user interface</p></li>\n<li><p>Gather and refine specifications and requirements based on technical needs</p></li>\n<li><p>Create and maintain software documentation</p></li>\n<li><p>Stay plugged into emerging technologies/industry trends and apply them into operations and activities</p></li>\n<li><p>Cooperate with web designers to match visual design intent</p></li>\n</ul>\n\n<p>What we need you to have?</p>\n\n<ul>\n<li>ES8 JavaScript</li>\n<li>CSS &amp; Sass or other preprocessing engine</li>\n<li>Confidence in working with RESTIsh APIs</li>\n<li>Experience with modelling the Front-end architecture</li>\n<li>You’re passionate about building products offering effective User Experience You are collaborative and prefer to work as a team rather than as an individual</li>\n<li>You have experience with ReactJS, Redux stack</li>\n</ul>\n\n<p>It would be great if you&#39;ve got the following:</p>\n\n<ul>\n<li>As a senior developer you will have strong and deep technical knowledge across most (but not necessarily) all of the above technical areas.</li>\n<li>Worked on some highly scalable microservices,</li>\n<li>Understanding of Test Driven Development (TDD)</li>\n<li>Knowledge of Node.JS</li>\n<li>Knowledge of AWS, Docker, Kubernetes</li>\n<li>Keen interest in finance or property and industry disruption</li>\n<li>You came across Atomic Design principles</li>\n<li>Knowledge of any functional language or experience with functional patterns</li>\n</ul>\n\n<p>Benefits</p>\n\n<p>What you’ll get in return</p>\n\n<ul>\n<li>Ability to change ways of working, lots of appreciation from colleagues, exposure to the business</li>\n<li><p>We work in cross functional teams and use Domain Driven Design (DDD) to understand our stakeholders and business to produce better outcomes. We use short iterations to provide value incrementally.</p></li>\n<li><p>Chance to always be learning. We won’t ever expect you to do the same thing over and over. We want to give you new opportunities to become the best engineer you can be.</p></li>\n<li><p>Make a measurable difference. We’re here to change the way the world deals with property finance by making it accessible for all.</p></li>\n<li><p>A relaxed open-plan working environment</p></li>\n<li><p>Private Healthcare (Vitality)</p></li>\n<li><p>Season Ticket Loan</p></li>\n<li><p>Matched pension contributions up to 4%</p></li>\n<li><p>Discretionary share-option scheme</p></li>\n<li><p>25 days’ holiday</p></li>\n<li><p>Enhance maternity/paternity pay</p></li>\n<li><p>Various discounts/benefits via PerkBox (Including Gym, food and cinema)</p></li>\n<li><p>Open bar from 5.30pm (4pm on Fridays)</p></li>\n<li><p>Cooked lunch on Fridays from a local restaurant</p></li>\n<li><p>A selection of breakfast cereals and fresh fruits and snacks are available each day</p></li>\n<li><p>A MacBook or similar and everything else you need to do your job</p></li>\n<li><p>Great team all working towards a common goal.</p></li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/sufyaan-jogee",
+        "name": "Sufyaan Jogee",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "472420",
+        "angelListUrl": "https://angel.co/company/lendinvest/jobs/472420-"
+      }
+    }
+  ]
+}

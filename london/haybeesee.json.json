@@ -1,0 +1,156 @@
+{
+  "name": "HayBeeSee",
+  "avatar": "https://photos.angel.co/startups/i/5422705-f811d98f65e9f0b705f0218e8fb633b1-medium_jpg.jpg?buster=1567759409",
+  "slogan": "Aerial Robotics in Agriculture: The revolution!",
+  "description": "We are developing an affordable, always-on aerial robot which works in farms doing a variety of hitherto unautomated tasks.\n\nOur product is perfectly suited for the range of situations encountered in agricultural operations, as well as the terrain it will be working in.\n\nWe have mitigated regulatory risks and have the support from experts in this area such as Dr Mirko Kovac of the Aerial Robotics Laboratory in Imperial College London as well as the National Institute of Agricultural Botany (NIAB) in Cambridge.\n\nPlease contact for more information.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.linkedin.com/company/haybeesee/about/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/haybeesee/about/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Clean Technology",
+    "Agriculture",
+    "Aerial Robotics "
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 900000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1516924800,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/dr-mirko-kovac",
+      "name": "Dr Mirko Kovac",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/fred-miller-7",
+      "name": "Fred Miller",
+      "avatar": "https://photos.angel.co/users/7591952-medium_jpg?1520504685",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/haybeesee\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">HayBeeSee</span></a> • Worked at <a href=\"https://angel.co/company/amadeus-sas\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Amadeus SAS</span></a> Studied at <a href=\"https://angel.co/imperial-college-london-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Imperial College London</span></a> and <a href=\"https://angel.co/california-institute-of-technology\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">California Institute of Technology</span></a> "
+    },
+    {
+      "title": "Chief agronomy officer",
+      "role": "Employee",
+      "url": "https://angel.co/u/lawrence-couzens",
+      "name": "Lawrence Couzens",
+      "avatar": "https://photos.angel.co/users/6144023-medium_jpg?1491500222",
+      "bioHtml": "Founder Farming Hub • Worked at <a href=\"https://angel.co/company/procam\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Procam</span></a>, <a href=\"https://angel.co/company/agrovista\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Agrovista</span></a>,  <a href=\"https://angel.co/company/haybeesee\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">HayBeeSee</span></a> <a href=\"https://angel.co/company/farminghub\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Farminghub</span></a>"
+    },
+    {
+      "title": "Robotics Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/finlay-hudson",
+      "name": "Finlay Hudson",
+      "avatar": "https://photos.angel.co/users/9953353-medium_jpg?1567852719",
+      "bioHtml": "Robotics Engineer at HayBeeSee Ltd., MSc Intelligent Robotics with Distinction. Previously a Robotics Research Software Engineer at the University of York."
+    },
+    {
+      "title": "CTO",
+      "role": "Employee",
+      "url": "https://angel.co/u/tomasz-wierzchowski",
+      "name": "Tomasz F. Wierzchowski",
+      "avatar": "https://photos.angel.co/users/3160706-medium_jpg?1556712275",
+      "bioHtml": "CTO at HayBeeSee. Robotics &amp; Tech Strategy Leader. Core roles <a href=\"https://angel.co/company/dyson\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Dyson</span></a>, <a href=\"https://angel.co/company/emotech\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Emotech</span></a> , <a href=\"https://angel.co/company/aerialtronics\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Aerialtronics</span></a>. Delivered robotics systems for real-world environments at scale"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5422705",
+    "angelListUrl": "https://angel.co/company/haybeesee"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Flight Control Systems Engineer - Aerial Robotics",
+      "description": "We closed a pre-seed round in August 2017 with a grant from the European Space Agency, and then awarded an Innovate UK grant in January, to kick of the revolution in agriculture:\r\n\r\nWe are producing drones which work at very close proximity to the ground to sense early weeds and other problems. This means a platform that can find and kill early weeds with dramatically less herbicide, as well as still being affordable to the average farmer!\r\n\r\nThe company includes leading experts in UAVs, working in the Aerial Robotics Laboratory at Imperial College London. We are also collaborating with the National Institute of Agricultral Botany for field trials in the UK.\r\n\r\nWe are looking for Flight Control Systems Engineer to help us choose, design and implement our core flight control and navigation algorithms as well as establish other flight control and autonomy capabilities, then to scale and productise them while helping to shape the future of our research &amp; engineering team.\r\n\r\nYou will be working with world-class robotics, control systems and drone experts. This includes our CTO with 10+yrs industrial experience in novel mobile robotics products including the likes of Dyson autonomous vacuums and Aerialtronics Altura Zenith commercial drones, our Avionics Lead who brings 25+yrs industrial expertise in advanced control systems, avionics and electronics design including likes of Intel and Technicolor / Thomson Labs. Finally you will have a chance of collaboration with our co-founder Dr Mirko Kovac (director of Imperial College London Aerial Robotics Lab) who is expert in novel bio-inspired robots and his recent work includes \"Tensile Web Construction and Perching with Nano Aerial Vehicles\" and \"Water Jet Powered Drone\" Flying Fish projects featured globally:\r\n\r\n• https://spectrum.ieee.org/automaton/robotics/drones/water-jet-powered-drone-takes-off-with-explosions  \r\n\r\n• https://www.imperial.ac.uk/aerial-robotics/research/construction/ \r\n\r\nWe need someone to work in a rapid build-test cycle environment with a passion for novel hardware design! This is a chance to help drive forward our revolution in agriculture!\r\n\r\nThe Job...\r\n\r\n- Designing and implementing a robust stack of control algorithms for novel aerial robotics platform (flight control and autonomous navigation)\r\n- Evaluating and choosing options for hardware and sensing to aid in the control, navigation and perception problem\r\n- Creating ways of ensuring safety and longevity in the product by utilising object detection and scene understanding\r\n\r\nThe ideal candidate will have experience in:\r\n- Advanced control systems design and stability analysis using Matlab / Simulink \r\n- Flight control systems design incl. 6DoF attitude control and velocity control for MIMO system using classic, robust or adaptive control strategies (bonus)\r\n- Advanced state estimation (preferred specific for 6DoF attitude using primarily onboard inertial / visual odometry sensors; algorithms incl. EKF/UKF)\r\n- Embedded real-time software development in C / C++ (2+ years exp.) \r\n- Developing mature open-source / proprietary flight stack e.g. PX4, Ardupilot, Paparazzi\r\n- Wide range of sensors typically used in autonomous vehicles / robotics applications incl. IMU, Vision, Visual Odometry, GNSS / GPS (incl. RTK), ToF, Radar. Expertise incl. driver API interfacing, configuration, DSP filtering, calibration.\r\n\r\nBonus points if you have experience in:\r\n- Real-time 3D trajectory planning and control algorithms\r\n- Autonomous navigation algorithms incl. path planning (energy, efficiency, safety)\r\n- Field deploying advanced mobile robotics and / or drone multirotor projects\r\n- Embedded Linux\r\n- Python\r\n\r\nEducation and Industry:\r\n- BSc / MEng degree in Robotics, Control Engineering or similar relevant\r\n- PhD in Robotics or Control Engineering (bonus)\r\n- Past industry experience required (3+ yr. preferred, optionally relevant world-class PhD / Post-Doc research experience)\r\n\r\nLocation:\r\n- Primarily in our core R&amp;D and flight test facilities office in Katowice, Poland\r\n- For right candidate part remote work with regular flight lab facilities test campaigns visits possible\r\n\r\nResources:\r\n- Dedicated advanced systems lab incl. mechatronics and electronics hardware test and measurement equipment\r\n- In-house flight lab facilities incl. MOCAP motion capture system and wind simulation\r\n- Access to state-of-the-art mechatronics, materials and sensing technologies as well as in-house cross-domain experts\r\n\r\nWhy should you apply?\r\n- Competitive salary (negotiable)\r\n- Central role in shaping this early company\r\n- Remote working if not needed in lab\r\n- Help solving a really big and meaningful problem in the industry\r\n\r\nIf interested contact below, or email Tomasz@HayBeeSee.com",
+      "descriptionHtml": "<p>We closed a pre-seed round in August 2017 with a grant from the European Space Agency, and then awarded an Innovate UK grant in January, to kick of the revolution in agriculture:</p>\n\n<p>We are producing drones which work at very close proximity to the ground to sense early weeds and other problems. This means a platform that can find and kill early weeds with dramatically less herbicide, as well as still being affordable to the average farmer!</p>\n\n<p>The company includes leading experts in UAVs, working in the Aerial Robotics Laboratory at Imperial College London. We are also collaborating with the National Institute of Agricultral Botany for field trials in the UK.</p>\n\n<p>We are looking for Flight Control Systems Engineer to help us choose, design and implement our core flight control and navigation algorithms as well as establish other flight control and autonomy capabilities, then to scale and productise them while helping to shape the future of our research &amp; engineering team.</p>\n\n<p>You will be working with world-class robotics, control systems and drone experts. This includes our CTO with 10+yrs industrial experience in novel mobile robotics products including the likes of Dyson autonomous vacuums and Aerialtronics Altura Zenith commercial drones, our Avionics Lead who brings 25+yrs industrial expertise in advanced control systems, avionics and electronics design including likes of Intel and Technicolor / Thomson Labs. Finally you will have a chance of collaboration with our co-founder Dr Mirko Kovac (director of Imperial College London Aerial Robotics Lab) who is expert in novel bio-inspired robots and his recent work includes &quot;Tensile Web Construction and Perching with Nano Aerial Vehicles&quot; and &quot;Water Jet Powered Drone&quot; Flying Fish projects featured globally:</p>\n\n<p>• <a href=\"https://spectrum.ieee.org/automaton/robotics/drones/water-jet-powered-drone-takes-off-with-explosions\" target=\"_blank\" rel=\"nofollow\">https://spectrum.ieee.org/automaton/robotics/drones/water-jet-powered-drone-takes-off-with-explosions</a>  </p>\n\n<p>• <a href=\"https://www.imperial.ac.uk/aerial-robotics/research/construction/\" target=\"_blank\" rel=\"nofollow\">https://www.imperial.ac.uk/aerial-robotics/research/construction/</a> </p>\n\n<p>We need someone to work in a rapid build-test cycle environment with a passion for novel hardware design! This is a chance to help drive forward our revolution in agriculture!</p>\n\n<p>The Job...</p>\n\n<ul>\n<li>Designing and implementing a robust stack of control algorithms for novel aerial robotics platform (flight control and autonomous navigation)</li>\n<li>Evaluating and choosing options for hardware and sensing to aid in the control, navigation and perception problem</li>\n<li>Creating ways of ensuring safety and longevity in the product by utilising object detection and scene understanding</li>\n</ul>\n\n<p>The ideal candidate will have experience in:</p>\n\n<ul>\n<li>Advanced control systems design and stability analysis using Matlab / Simulink </li>\n<li>Flight control systems design incl. 6DoF attitude control and velocity control for MIMO system using classic, robust or adaptive control strategies (bonus)</li>\n<li>Advanced state estimation (preferred specific for 6DoF attitude using primarily onboard inertial / visual odometry sensors; algorithms incl. EKF/UKF)</li>\n<li>Embedded real-time software development in C / C++ (2+ years exp.) </li>\n<li>Developing mature open-source / proprietary flight stack e.g. PX4, Ardupilot, Paparazzi</li>\n<li>Wide range of sensors typically used in autonomous vehicles / robotics applications incl. IMU, Vision, Visual Odometry, GNSS / GPS (incl. RTK), ToF, Radar. Expertise incl. driver API interfacing, configuration, DSP filtering, calibration.</li>\n</ul>\n\n<p>Bonus points if you have experience in:</p>\n\n<ul>\n<li>Real-time 3D trajectory planning and control algorithms</li>\n<li>Autonomous navigation algorithms incl. path planning (energy, efficiency, safety)</li>\n<li>Field deploying advanced mobile robotics and / or drone multirotor projects</li>\n<li>Embedded Linux</li>\n<li>Python</li>\n</ul>\n\n<p>Education and Industry:</p>\n\n<ul>\n<li>BSc / MEng degree in Robotics, Control Engineering or similar relevant</li>\n<li>PhD in Robotics or Control Engineering (bonus)</li>\n<li>Past industry experience required (3+ yr. preferred, optionally relevant world-class PhD / Post-Doc research experience)</li>\n</ul>\n\n<p>Location:</p>\n\n<ul>\n<li>Primarily in our core R&amp;D and flight test facilities office in Katowice, Poland</li>\n<li>For right candidate part remote work with regular flight lab facilities test campaigns visits possible</li>\n</ul>\n\n<p>Resources:</p>\n\n<ul>\n<li>Dedicated advanced systems lab incl. mechatronics and electronics hardware test and measurement equipment</li>\n<li>In-house flight lab facilities incl. MOCAP motion capture system and wind simulation</li>\n<li>Access to state-of-the-art mechatronics, materials and sensing technologies as well as in-house cross-domain experts</li>\n</ul>\n\n<p>Why should you apply?</p>\n\n<ul>\n<li>Competitive salary (negotiable)</li>\n<li>Central role in shaping this early company</li>\n<li>Remote working if not needed in lab</li>\n<li>Help solving a really big and meaningful problem in the industry</li>\n</ul>\n\n<p>If interested contact below, or email <a href=\"mailto:Tomasz@HayBeeSee.com\" target=\"_blank\" rel=\"nofollow\">Tomasz@HayBeeSee.com</a></p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": true,
+      "locations": [
+        "Poland",
+        "Kraków",
+        "Katowice"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe",
+        "United States",
+        "Switzerland",
+        "United Kingdom",
+        "San Francisco Bay Area"
+      ],
+      "skills": [
+        "Robotics",
+        "Drones",
+        "Inertial Sensors",
+        "PX4 Firmware",
+        "Autonomous Navigation",
+        "Flight Control Systems",
+        "Matlab/Simulink",
+        "Mobile Robotics",
+        "Quadcopters",
+        "Control Systems Design",
+        "UAV/UAS/Drones",
+        "Robust and adaptive control",
+        "Embedded real-time in C and C++",
+        "px4",
+        "Kalman filters KF/EKF/UKF",
+        "Trajectory Planning",
+        "Stability Analysis of Closed-Loop Control Systems"
+      ],
+      "payment": {
+        "salary": "£40k – £70k",
+        "equity": "0.0% – 0.5%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/tomasz-wierzchowski",
+        "name": "Tomasz F. Wierzchowski",
+        "avatar": "https://photos.angel.co/users/3160706-medium_jpg?1556712275"
+      },
+      "refs": {
+        "angelListId": "410738",
+        "angelListUrl": "https://angel.co/company/haybeesee/jobs/410738-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "name": "Metaview",
+  "avatar": "https://photos.angel.co/startups/i/6167218-39705fdb25c325bb94461afaab7264e2-medium_jpg.jpg?buster=1548947569",
+  "slogan": "Conversation analytics for job interviews",
+  "description": "We're solving what we consider to be the most impactful problem in the world; enabling companies to hire more of the right people. If every person ends up doing the best work of their life at any given point, humanity's progress will exponentiate.\n\nWe have a strong founding team (ex-Palantir and ex-Uber) who has spend a lot of time building products and a lot of time hiring and creating teams. This on its own doesn't mean anything but we have a proven track record to rapidly verify/falsify hypotheses.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.metaview.ai"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/metaviewai"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/metaview-analytics/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Recruiting",
+    "Analytics",
+    "Natural Language Processing"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/s16h",
+      "name": "Shahriar Tajbakhsh",
+      "avatar": "https://photos.angel.co/users/8836863-medium_jpg?1548946709",
+      "bioHtml": "Co-founder &amp; CTO of Metaview. Previously, Palantir, Osper and Morgan Stanley. Opinions not really mine; they’re heavily influenced by my surroundings."
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/siadhal",
+      "name": "Siadhal Magos",
+      "avatar": "https://photos.angel.co/users/481473-medium_jpg?1548782562",
+      "bioHtml": "Helping companies hire better with Metaview. Ex- <a href=\"https://angel.co/company/uber\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Uber</span></a>, <a href=\"https://angel.co/company/osper\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Osper</span></a>, <a href=\"https://angel.co/company/betfair\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Betfair</span></a>."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/reuben-robyns-3",
+      "name": "Reuben Robyns",
+      "avatar": "https://photos.angel.co/users/11074197-medium_jpg?1588173651",
+      "bioHtml": "Talent Acquisition Partner @ Metaview,\n\nFormely <a href=\"https://angel.co/utility\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Utility</span></a> Warehouse and The Hut Group"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6167218",
+    "angelListUrl": "https://angel.co/company/metaview-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Product Engineer",
+      "description": "About our purpose\n\nMetaview is dedicated to enabling world-class organizations to identify, attract, and grow the right people with unerring reliability.\n\nWe’re a Talent Science startup. We capture and surface the data that is most telling of ‘organization-talent fit’. Often, this means using state of the art technology to access and expose sources of insight that have never been considered accessible before.\n\nWe believe hiring decisions are the most important decisions that companies make. In the future, any company that takes hiring seriously will be using Metaview so that they identify, attract, and grow the right people.\n\n\nAbout the job\n\nAs one of the first Software Engineers at Metaview, you’ll lead the design, development, and operations of our products. We’re a small and autonomous team, so, you’ll end up wearing many hats and having meaningful impact. As a Software Engineer, you’ll comfortably go up and down the stack; from writing backend and frontend code, to running AWS infrastructure, to implementing whatever necessary tool or process we don’t yet have.\n\nIt doesn’t matter what languages and tools you know when you join us, but it does matter that you can write clean, effective code and be excited by learning new languages and tools. Our software is constantly evolving, so we need engineers who can do the same. Our current stack consists of tools and technologies such as:\n\n- Python to write our backend application code. We’ll likely shift to Go soon.\n- Typescript and React to write our frontend application code.\n- Serverless Framework for creating and managing our application infrastructure.\n- AWS for most of our infrastructure. We use many AWS offerings, but currently the most used ones are API Gateway, Lambda, RDS, and DynamoDB.\n- Terraform for managing the foundation of our AWS stacks.\n- Snyk for finding & fixing vulnerabilities in our dependencies.\n\nYou’ll also be a significant part of what gets added to and removed from this list in the next version of this job description.\n\n\nAbout you\n\n- You care deeply about customer needs, the problems they face, and therefore the products we’re building to solve them.\n- You are able to, or want to be able to, work at every level of the stack. We believe this to be the strongest indicator of extraordinary engineers.\n- You’re excited by the ambiguity of being one of the first employees in an early-stage company.\n- You care deeply about your growth and the rate at which you grow. The success of our company is a function of the people in our team. Your growth rate will be directly causal to Metaview’s growth rate. We spend a lot of time thinking about each other’s success paths.\n- You get excited about learning new things, writing blog posts and going to conferences to talk about all things product and engineering.\n\n\nAbout us\n\nMetaview was founded by Siadhal and Shahriar - two product and engineering team-builders that have operated at some of the most innovative, high-growth, and high-bar companies in the world.\n\nBefore Metaview, Shahriar worked at Palantir as Enterprise Tech Lead. He spent the majority of his time in product and business development whilst heavily contributing to the evolvement of Palantir’s engineering hiring process. Siadhal worked on product at Uber where he built and led teams in a period when the company grew from 7,000 to 17,000 people in under two years.",
+      "descriptionHtml": "<p>About our purpose</p>\n\n<p>Metaview is dedicated to enabling world-class organizations to identify, attract, and grow the right people with unerring reliability.</p>\n\n<p>We’re a Talent Science startup. We capture and surface the data that is most telling of ‘organization-talent fit’. Often, this means using state of the art technology to access and expose sources of insight that have never been considered accessible before.</p>\n\n<p>We believe hiring decisions are the most important decisions that companies make. In the future, any company that takes hiring seriously will be using Metaview so that they identify, attract, and grow the right people.</p>\n\n<p>About the job</p>\n\n<p>As one of the first Software Engineers at Metaview, you’ll lead the design, development, and operations of our products. We’re a small and autonomous team, so, you’ll end up wearing many hats and having meaningful impact. As a Software Engineer, you’ll comfortably go up and down the stack; from writing backend and frontend code, to running AWS infrastructure, to implementing whatever necessary tool or process we don’t yet have.</p>\n\n<p>It doesn’t matter what languages and tools you know when you join us, but it does matter that you can write clean, effective code and be excited by learning new languages and tools. Our software is constantly evolving, so we need engineers who can do the same. Our current stack consists of tools and technologies such as:</p>\n\n<ul>\n<li>Python to write our backend application code. We’ll likely shift to Go soon.</li>\n<li>Typescript and React to write our frontend application code.</li>\n<li>Serverless Framework for creating and managing our application infrastructure.</li>\n<li>AWS for most of our infrastructure. We use many AWS offerings, but currently the most used ones are API Gateway, Lambda, RDS, and DynamoDB.</li>\n<li>Terraform for managing the foundation of our AWS stacks.</li>\n<li>Snyk for finding &amp; fixing vulnerabilities in our dependencies.</li>\n</ul>\n\n<p>You’ll also be a significant part of what gets added to and removed from this list in the next version of this job description.</p>\n\n<p>About you</p>\n\n<ul>\n<li>You care deeply about customer needs, the problems they face, and therefore the products we’re building to solve them.</li>\n<li>You are able to, or want to be able to, work at every level of the stack. We believe this to be the strongest indicator of extraordinary engineers.</li>\n<li>You’re excited by the ambiguity of being one of the first employees in an early-stage company.</li>\n<li>You care deeply about your growth and the rate at which you grow. The success of our company is a function of the people in our team. Your growth rate will be directly causal to Metaview’s growth rate. We spend a lot of time thinking about each other’s success paths.</li>\n<li>You get excited about learning new things, writing blog posts and going to conferences to talk about all things product and engineering.</li>\n</ul>\n\n<p>About us</p>\n\n<p>Metaview was founded by Siadhal and Shahriar - two product and engineering team-builders that have operated at some of the most innovative, high-growth, and high-bar companies in the world.</p>\n\n<p>Before Metaview, Shahriar worked at Palantir as Enterprise Tech Lead. He spent the majority of his time in product and business development whilst heavily contributing to the evolvement of Palantir’s engineering hiring process. Siadhal worked on product at Uber where he built and led teams in a period when the company grew from 7,000 to 17,000 people in under two years.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£60k – £120k",
+        "equity": "0.25% – 0.75%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Founder",
+        "url": "https://angel.co/u/s16h",
+        "name": "Shahriar Tajbakhsh",
+        "avatar": "https://photos.angel.co/users/8836863-medium_jpg?1548946709"
+      },
+      "refs": {
+        "angelListId": "498807",
+        "angelListUrl": "https://angel.co/company/metaview-1/jobs/498807-"
+      }
+    }
+  ]
+}

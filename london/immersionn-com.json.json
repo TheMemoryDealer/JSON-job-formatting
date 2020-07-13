@@ -1,0 +1,95 @@
+{
+  "name": "Immersionn",
+  "avatar": "https://photos.angel.co/startups/i/7026282-76027980fdc3f0121be1704f4bcc76bf-medium_jpg.jpg?buster=1561485622",
+  "slogan": "1st Virtual Reality Discovery Browser",
+  "description": "We allow people become virtual travellers and discover new VR & 360 content they have never seen before.\nThere is a lot of 360 and VR content out there but it cannot be seen. \nThat's because the VR platforms act as the content gatekeepers.\n\nWith our WebVR Discovery platform, we power the decentralisation of content recommendation and help creators monetise. Our solution is device agnostic leveraging the web for universal access.\n\nThis September 2019 we are launching the first element of our application 'Immersive News and Documentaries' in collaboration with 2 European news medias partners. Our goal, for this part of the application, is to become a central point for immersive news discovery across a panel of diverse worldwide medias.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://Immersionn.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Social Media Platforms",
+    "Video Streaming",
+    "Gaming Software",
+    "Virtual Reality"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/alexandra-hussenot",
+      "name": "Alexandra Hussenot",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7026282",
+    "angelListUrl": "https://angel.co/company/immersionn-com"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Part time Technical co-founder",
+      "description": "Minimum 1,5 workday / week \n\nYou will help us research, design, develop the next iterations of our product.\n \nAs a technical cofounder you will be responsible to translate our product vision into technology roadmap, hands-on, with a full stack background, a passion for distributed and scalable architecture, you will put best practices for development, dev ops and cloud automation.\n\nYou will act as a team lead in charge to recruit, build and form our first agile team.\n\nYou will be the interface with our product team and 3rd party R&D partners (a government entity and a top London university) regarding our early adopter release.\n\nYou will have expertise in Angular, Graph and others noSQL databases, scalable search techniques, VR technologies, dev ops and containers\n\nTo prepare for our launch requires to combine skills in WebVR, regular web dev for payments, server/backend and video streaming.",
+      "descriptionHtml": "<p>Minimum 1,5 workday / week </p>\n\n<p>You will help us research, design, develop the next iterations of our product.</p>\n\n<p>As a technical cofounder you will be responsible to translate our product vision into technology roadmap, hands-on, with a full stack background, a passion for distributed and scalable architecture, you will put best practices for development, dev ops and cloud automation.</p>\n\n<p>You will act as a team lead in charge to recruit, build and form our first agile team.</p>\n\n<p>You will be the interface with our product team and 3rd party R&amp;D partners (a government entity and a top London university) regarding our early adopter release.</p>\n\n<p>You will have expertise in Angular, Graph and others noSQL databases, scalable search techniques, VR technologies, dev ops and containers</p>\n\n<p>To prepare for our launch requires to combine skills in WebVR, regular web dev for payments, server/backend and video streaming.</p>\n",
+      "position": "cofounder",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Manchester",
+        "Surrey"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£5k – £65k",
+        "equity": "1.0% – 15.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/alexandra-hussenot",
+        "name": "Alexandra Hussenot",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "579382",
+        "angelListUrl": "https://angel.co/company/immersionn-com/jobs/579382-"
+      }
+    }
+  ]
+}

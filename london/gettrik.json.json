@@ -1,0 +1,253 @@
+{
+  "name": "GetTrik",
+  "avatar": "https://photos.angel.co/startups/i/1052821-0715b817c275bb5a98ed753b51c8f54a-medium_jpg.jpg?buster=1475510112",
+  "slogan": "Digital mapping system for large structures inspection",
+  "description": " Drones can assist in inspecting large structures, reducing time, costs and the risk of operating at heights. However, current data collection still highly depends on an operator’s skills, and collected images are still very hard to use. These have been the major problems that prevent the use of drones as a service. We propose to create a simple structure mapping system. It uses the drone to scan the structure and provide you with a digital map of that surface in real time.\n\nThis system enables operators to see the quality of data and areas that have not been captured while still at the inspection site and enables inspectors to easily navigate through large files, linking each footage with its location on the overview map.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.gettrik.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@Gettrik_"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/gettrik"
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London",
+    "London"
+  ],
+  "marketTags": [
+    "Drones",
+    "Smart Building",
+    "Aerial Photography",
+    "Image Recognition"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 504500,
+    "rounds": [
+      {
+        "type": "",
+        "closedAt": 1514764800,
+        "valuation": 0
+      },
+      {
+        "type": "",
+        "closedAt": 1479168000,
+        "valuation": 0
+      },
+      {
+        "type": "",
+        "closedAt": 1450137600,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/nutthadol-chaiparinya",
+      "name": "Nutthadol Chaiparinya",
+      "avatar": "https://photos.angel.co/users/2705303-medium_jpg?1475015075",
+      "bioHtml": "BE, Computer Engineering from Chulalongkorn University, THA. \n4-year experience as a iOS backend engineer\nStudying MSc Management, University of Edinburgh, UK."
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/paenatwilai",
+      "name": "Pae Natwilai Utoomprurkporn",
+      "avatar": "https://photos.angel.co/users/1293111-medium_jpg?1479995857",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/gettrik\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">GetTrik</span></a>"
+    },
+    {
+      "title": "Front end developer",
+      "role": "Employee",
+      "url": "https://angel.co/u/andrey-roth-ehrenberg",
+      "name": "Andrey Roth Ehrenberg",
+      "avatar": "https://photos.angel.co/users/1162586-medium_jpg?1480711827",
+      "bioHtml": "Front end Developer with a passion for well designed products, that fit user&#39;s needs and a strong background in UX Design"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/alex-mulford",
+      "name": "Alex Mulford",
+      "avatar": "https://photos.angel.co/users/335688-medium_jpg?1463593779",
+      "bioHtml": "Software Engineer, Full Stack, Preference on Back-end, C#, F#, PHP, Scala, Databases (SQL and NoSQL), Cloud Services (Azure &amp; AWS), Entrepreneurial leaning."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/sarah-stevens-5",
+      "name": "sarah stevens",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "1052821",
+    "angelListUrl": "https://angel.co/company/gettrik"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full stack web developer | Javascript (node + react) - Drone 3D mapping startup",
+      "description": "We are looking for a mid-level jack-of-all-trade web developer who is flexible to work in any position in the web/app development. Anything from back end, front end to a bit of UX/UI.\n\nIf you love to learn new technologies and intrigued in solving a complex 3D data problem, we want to hear from you.\n\nWHAT DO WE DO?\nLarge structures are hard to build, but even harder to monitor, inspect and maintain. At TRIK, we believe that drones are the future of structural inspection. We want to enable everyone to be able to utilise drones in the easiest way possible.\n \nTRIK is a drone software start-up that has been established for 3 years and we are now entering a growth stage. We turn drone photos into digital 3D models and enable customers to make comments in 3D. You can use the 3D models as a file directory to store data, compare changes or add measurements. We’ve won several awards for our innovative business solutions and are funded by top-tier investors like the UK government and the Founder of Zoopla. We’re ambitious to do more and to add to our product pipeline as well as the solutions we offer our clients.\n \n\nWHAT ARE WE LOOKING FOR?\nWe’re looking for a mid-level (>4 years exp.) web developer who have a good general knowledge in multiple area and love to learn about new technology. Someone with a high problem solving skill. You should be able to prototype quickly, adapt swiftly to code challenges, be able to work as part of a team, have strong communication skills and be creative and pragmatic in your approach. This is the stack that we are working with. You should have experience in working with most of the list below or willing to learn the rest as part of the job.\n\nEssential\n• Node.js\n• Git\n• REST API’s (development and integration)\n• Databases: NoSQL & SQL experience, and/or MongoDB\n• React.js (or similar front end library & willingness to learn React)\n• Responsive HTML/CSS\n• Command Line Interfaces / Linux\n\nNice to have\n• Cloud Deployment (Azure/AWS/Google)\n• 3D web (webGL, three.js, cesium.js)\n• React Native \n\nA huge bonus if you have an experience in map (any GIS degree, work experience), drones (either as a drone operators or worked for a drone software), computer vision (C++, parallel computing, sfm), app development, unity.\n\nWHAT YOU WILL BE DOING?\nYou will be working with our product lead, designer, full stack developer, and drone/computer vision team. Your work will vary depend on the current challenge, from building and maintaining back end to working on UX/UI and front end development of new features.  \n\nYou don’t need to be able to do a detailed UI, most of our work will be using existing template / UI kits or working with a designer. \n\nWHY US?\nWe’re a small team so you will be an integral part of the development team, creating and iterating our code base. We’ll be looking to you to help us continue to innovate and grow our products, which in future will include automated real-time 3D mapping and software for controlling drones.\n\nThis is a great opportunity to join a rapidly growing start-up business, you’ll make a difference from the day you start with us. We offer the standard benefits you’d expect, including a pension scheme, 25 days holiday and the opportunity to purchase share options as well as a creative and flexible work environment where you can do your best work.\n\nYou can choose to either grow with us as a developer or step up to manage the team. We have a structure to support both career paths.\n\nIf you’re interested in joining the TRIK team take a look at our website www.gettrik.com and what we do https://m.youtube.com/watch?v=9o90MZZCDYk#",
+      "descriptionHtml": "<p>We are looking for a mid-level jack-of-all-trade web developer who is flexible to work in any position in the web/app development. Anything from back end, front end to a bit of UX/UI.</p>\n\n<p>If you love to learn new technologies and intrigued in solving a complex 3D data problem, we want to hear from you.</p>\n\n<p>WHAT DO WE DO?<br>\nLarge structures are hard to build, but even harder to monitor, inspect and maintain. At TRIK, we believe that drones are the future of structural inspection. We want to enable everyone to be able to utilise drones in the easiest way possible.</p>\n\n<p>TRIK is a drone software start-up that has been established for 3 years and we are now entering a growth stage. We turn drone photos into digital 3D models and enable customers to make comments in 3D. You can use the 3D models as a file directory to store data, compare changes or add measurements. We’ve won several awards for our innovative business solutions and are funded by top-tier investors like the UK government and the Founder of Zoopla. We’re ambitious to do more and to add to our product pipeline as well as the solutions we offer our clients.</p>\n\n<p>WHAT ARE WE LOOKING FOR?<br>\nWe’re looking for a mid-level (&gt;4 years exp.) web developer who have a good general knowledge in multiple area and love to learn about new technology. Someone with a high problem solving skill. You should be able to prototype quickly, adapt swiftly to code challenges, be able to work as part of a team, have strong communication skills and be creative and pragmatic in your approach. This is the stack that we are working with. You should have experience in working with most of the list below or willing to learn the rest as part of the job.</p>\n\n<p>Essential<br>\n• Node.js<br>\n• Git<br>\n• REST API’s (development and integration)<br>\n• Databases: NoSQL &amp; SQL experience, and/or MongoDB<br>\n• React.js (or similar front end library &amp; willingness to learn React)<br>\n• Responsive HTML/CSS<br>\n• Command Line Interfaces / Linux</p>\n\n<p>Nice to have<br>\n• Cloud Deployment (Azure/AWS/Google)<br>\n• 3D web (webGL, three.js, cesium.js)<br>\n• React Native </p>\n\n<p>A huge bonus if you have an experience in map (any GIS degree, work experience), drones (either as a drone operators or worked for a drone software), computer vision (C++, parallel computing, sfm), app development, unity.</p>\n\n<p>WHAT YOU WILL BE DOING?<br>\nYou will be working with our product lead, designer, full stack developer, and drone/computer vision team. Your work will vary depend on the current challenge, from building and maintaining back end to working on UX/UI and front end development of new features.  </p>\n\n<p>You don’t need to be able to do a detailed UI, most of our work will be using existing template / UI kits or working with a designer. </p>\n\n<p>WHY US?<br>\nWe’re a small team so you will be an integral part of the development team, creating and iterating our code base. We’ll be looking to you to help us continue to innovate and grow our products, which in future will include automated real-time 3D mapping and software for controlling drones.</p>\n\n<p>This is a great opportunity to join a rapidly growing start-up business, you’ll make a difference from the day you start with us. We offer the standard benefits you’d expect, including a pension scheme, 25 days holiday and the opportunity to purchase share options as well as a creative and flexible work environment where you can do your best work.</p>\n\n<p>You can choose to either grow with us as a developer or step up to manage the team. We have a structure to support both career paths.</p>\n\n<p>If you’re interested in joining the TRIK team take a look at our website <a href=\"http://www.gettrik.com\" target=\"_blank\" rel=\"nofollow\">www.gettrik.com</a> and what we do <a href=\"https://m.youtube.com/watch?v=9o90MZZCDYk#\" target=\"_blank\" rel=\"nofollow\">https://m.youtube.com/watch?v=9o90MZZCDYk#</a></p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Greater London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "noSQL",
+        "SQL",
+        "MongoDB",
+        "Node.js",
+        "Git",
+        "HTML5 & CSS3",
+        "REST APIs",
+        "CLI",
+        "Ractive.js"
+      ],
+      "payment": {
+        "salary": "£40k – £70k",
+        "equity": "0.0% – 0.5%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/paenatwilai",
+        "name": "Pae Natwilai Utoomprurkporn",
+        "avatar": "https://photos.angel.co/users/1293111-medium_jpg?1479995857"
+      },
+      "refs": {
+        "angelListId": "374141",
+        "angelListUrl": "https://angel.co/company/gettrik/jobs/374141-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "React / Front end developer",
+      "description": "Quick summary: We are looking for a Front end developer who has experience with REST APIs, React, Redux.\nIt would be a huge bonus if you are experienced with 3D data, map, GIS or drones, but this is not required.\n\n_____________________________________________________________\n\nWHAT DO WE DO?\nAt TRIK, we believe that drones are the future of structural inspection. We want to enable everyone to be able to utilise drones in the easiest way possible.\n \nTRIK is a drone software start-up that has been established for 3 years and we are now entering a growth stage. We turn drone photos into digital 3D models and enable customers to make comments in 3D. You can use the 3D models as a file directory to store data, compare changes or add measurements. We’ve won several awards for our innovative business solutions and are funded by top-tier investors like the UK government and the Founder of Zoopla. We’re ambitious to do more and to add to our product pipeline as well as the solutions we offer our clients.\n\nTake a look at our website www.gettrik.com and what we do https://m.youtube.com/watch?v=9o90MZZCDYk#\n \n\nWHAT ARE WE LOOKING FOR?\nWe’re looking for a front end developer who prioritises functionality over aesthetics. Someone who enjoys the challenge of creating an intuitive interface for the end customer and would like to work with 3D data. You should be able to prototype quickly, adapt swiftly to code challenges, be able to work as part of a team, have strong communication skills and be pragmatic in your approach. \n\n\nWe are looking for someone who is familiar with Git, has a solid skill in one of below and willing to learn the others as part of the job. \n• React web : >1.5 years experience\n• Integrating with Node REST APIs\n• Experience working with 3D web technology (eg. webGL, Three.js, Cesium.js)\n\n\nWHAT WILL YOU BE DOING?\nYou will be working with our Product owner, UX/UI designer, marketing, and Full-stack developers. Most of your work will be front end web development, turning design mockups into a working web app by using existing template / UI kits. \n\nWe are not looking for someone who can do a detailed UI development but if you are interested in working on UX/UI design as well, please do let us know. \n\n\nWHY US?\nWe are a very R&D based company, but our core value is to create a user-focused product that everyone can use. We believe everyone in the team have the right to shape the direction of the company. You will be an integral part of our small team and you will make a real difference from day one.\n\n\nPERKS\nWe offer a competitive salary, including a pension scheme and 25 days paid holiday to get you fully rested. You also have an option to take additional 30 days unpaid holiday - subject to prior approval from the company.\n\nWe also have a laptop program (optional). The company provides a budget of £1,000 for you to buy any laptop you want. You have the right to own the computer after 4 years of working in us or pay off the rest if you decide to leave early.\n\nWe have a creative and flexible work environment where you can do your best work. You have an option to to arrive anytime before 10am as long as you complete your work. \n\nWe prefer a full time employee working on site. However, we may consider a part-time candidate or a full-time candidate who want to have a mixture of working onsite & working from home on a case by case basis. Write us a cover letter explaining why we should make an exception for you. :)\n\n\n# All remote applicants and applicants from recruiter will be rejected.\n\nSalary depend on your experience.",
+      "descriptionHtml": "<p>Quick summary: We are looking for a Front end developer who has experience with REST APIs, React, Redux.<br>\nIt would be a huge bonus if you are experienced with 3D data, map, GIS or drones, but this is not required.</p>\n\n<hr>\n\n<p>WHAT DO WE DO?<br>\nAt TRIK, we believe that drones are the future of structural inspection. We want to enable everyone to be able to utilise drones in the easiest way possible.</p>\n\n<p>TRIK is a drone software start-up that has been established for 3 years and we are now entering a growth stage. We turn drone photos into digital 3D models and enable customers to make comments in 3D. You can use the 3D models as a file directory to store data, compare changes or add measurements. We’ve won several awards for our innovative business solutions and are funded by top-tier investors like the UK government and the Founder of Zoopla. We’re ambitious to do more and to add to our product pipeline as well as the solutions we offer our clients.</p>\n\n<p>Take a look at our website <a href=\"http://www.gettrik.com\" target=\"_blank\" rel=\"nofollow\">www.gettrik.com</a> and what we do <a href=\"https://m.youtube.com/watch?v=9o90MZZCDYk#\" target=\"_blank\" rel=\"nofollow\">https://m.youtube.com/watch?v=9o90MZZCDYk#</a></p>\n\n<p>WHAT ARE WE LOOKING FOR?<br>\nWe’re looking for a front end developer who prioritises functionality over aesthetics. Someone who enjoys the challenge of creating an intuitive interface for the end customer and would like to work with 3D data. You should be able to prototype quickly, adapt swiftly to code challenges, be able to work as part of a team, have strong communication skills and be pragmatic in your approach. </p>\n\n<p>We are looking for someone who is familiar with Git, has a solid skill in one of below and willing to learn the others as part of the job. <br>\n• React web : &gt;1.5 years experience<br>\n• Integrating with Node REST APIs<br>\n• Experience working with 3D web technology (eg. webGL, Three.js, Cesium.js)</p>\n\n<p>WHAT WILL YOU BE DOING?<br>\nYou will be working with our Product owner, UX/UI designer, marketing, and Full-stack developers. Most of your work will be front end web development, turning design mockups into a working web app by using existing template / UI kits. </p>\n\n<p>We are not looking for someone who can do a detailed UI development but if you are interested in working on UX/UI design as well, please do let us know. </p>\n\n<p>WHY US?<br>\nWe are a very R&amp;D based company, but our core value is to create a user-focused product that everyone can use. We believe everyone in the team have the right to shape the direction of the company. You will be an integral part of our small team and you will make a real difference from day one.</p>\n\n<p>PERKS<br>\nWe offer a competitive salary, including a pension scheme and 25 days paid holiday to get you fully rested. You also have an option to take additional 30 days unpaid holiday - subject to prior approval from the company.</p>\n\n<p>We also have a laptop program (optional). The company provides a budget of £1,000 for you to buy any laptop you want. You have the right to own the computer after 4 years of working in us or pay off the rest if you decide to leave early.</p>\n\n<p>We have a creative and flexible work environment where you can do your best work. You have an option to to arrive anytime before 10am as long as you complete your work. </p>\n\n<p>We prefer a full time employee working on site. However, we may consider a part-time candidate or a full-time candidate who want to have a mixture of working onsite &amp; working from home on a case by case basis. Write us a cover letter explaining why we should make an exception for you. :)</p>\n<h3>All remote applicants and applicants from recruiter will be rejected.</h3>\n<p>Salary depend on your experience.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Greater London",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Frontend Development",
+        "React.js",
+        "Redux"
+      ],
+      "payment": {
+        "salary": "£30k – £65k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/get-trik",
+        "name": "Get trik",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "521468",
+        "angelListUrl": "https://angel.co/company/gettrik/jobs/521468-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Front End Developer (React.js)",
+      "description": "We are looking for a ReactJS developer who has experience integrating with REST APIs. It would be a huge bonus if you are experienced with 3D data, map, GIS or drones.\n\nWHAT DO WE DO?\nLarge structures are hard to build, but even harder to monitor, inspect and maintain. At TRIK, we believe that drones are the future of structural inspection. We want to enable everyone to utilise drones and data in the easiest way possible.\n \nTRIK is a drone software start-up that has been established for 3 years and we are now looking to grow the team. TRIK automatically converts drone photos into digital 3D models and enables users to annotate, create inspection report, and collaborate on findings with others. You can use the 3D models as a file directory to store data, compare changes or add measurements. \n\nWe’ve won several awards for our innovative business solutions and are funded by top-tier investors like the UK government and the Founder of Zoopla. We’re ambitious to do more and add to our product pipeline as well as the solutions we offer our clients.\n\nTake a look at our website www.gettrik.com and what we do https://m.youtube.com/watch?v=9o90MZZCDYk#\n \nWHAT ARE WE LOOKING FOR?\nWe’re looking for a front end developer who enjoys the challenge of creating an intuitive interface for the end customer and would like to work with 3D data. You should be able to prototype quickly, adapt swiftly to code challenges, be able to work as part of a team, have strong communication skills and be pragmatic in your approach. \n\nWe are looking for someone who is familiar with Git, has a solid skill in one of below and willing to learn the other as part of the job. \n\nReact web : ~2-3 years experience \nintegrating with Node REST APIs\n\nIt would be great if you already know or are keen to learn about 3D technology in a browser (eg. webGL, Three.js, Cesium.js)\n\nA huge bonus if you have experience working with 3D maps or drones either as a drone operator or having worked for a drone software company.\n\nWHAT WILL YOU BE DOING?\nYou will be working with our Product owner, two senior Full-stack developers, and a part-time Designer. Most of your work will be front end web development, turning design mockups into a working web app by using existing template / UI kits. \n\nNote: If you can (and want to) do UX/UI design as well, please do let us know in the email.\n\n\nWHY US?\nWe are working with cutting edge technologies, spanning machine learning, 3D modeling and data, using an innovative approach to create a user-focused product that everyone can use. We believe everyone in the team has the right to shape the direction of the company. You will be an integral part of our small team and you will make a real difference from day one. \n\n\nBENEFITS\n\nWe offer a competitive salary, including a pension scheme and 25 days paid holiday to get you fully rested. You also have an option to take additional 10 days unpaid holiday - subject to prior approval from the company.\n\nWe also have an optional laptop purchase program, where you can choose your preferred equipment.\n\nWe have a creative and flexible work environment where you can do your best work.  We are happy to consider some remote work for the right candidate.\n\n# All remote applicants and applicants from recruiter will be rejected.\n# You need to have the right to work in the UK. If you are not from UK or EU, please specify your visa status in your cover letter or else your application will be rejected.",
+      "descriptionHtml": "<p>We are looking for a ReactJS developer who has experience integrating with REST APIs. It would be a huge bonus if you are experienced with 3D data, map, GIS or drones.</p>\n\n<p>WHAT DO WE DO?<br>\nLarge structures are hard to build, but even harder to monitor, inspect and maintain. At TRIK, we believe that drones are the future of structural inspection. We want to enable everyone to utilise drones and data in the easiest way possible.</p>\n\n<p>TRIK is a drone software start-up that has been established for 3 years and we are now looking to grow the team. TRIK automatically converts drone photos into digital 3D models and enables users to annotate, create inspection report, and collaborate on findings with others. You can use the 3D models as a file directory to store data, compare changes or add measurements. </p>\n\n<p>We’ve won several awards for our innovative business solutions and are funded by top-tier investors like the UK government and the Founder of Zoopla. We’re ambitious to do more and add to our product pipeline as well as the solutions we offer our clients.</p>\n\n<p>Take a look at our website <a href=\"http://www.gettrik.com\" target=\"_blank\" rel=\"nofollow\">www.gettrik.com</a> and what we do <a href=\"https://m.youtube.com/watch?v=9o90MZZCDYk#\" target=\"_blank\" rel=\"nofollow\">https://m.youtube.com/watch?v=9o90MZZCDYk#</a></p>\n\n<p>WHAT ARE WE LOOKING FOR?<br>\nWe’re looking for a front end developer who enjoys the challenge of creating an intuitive interface for the end customer and would like to work with 3D data. You should be able to prototype quickly, adapt swiftly to code challenges, be able to work as part of a team, have strong communication skills and be pragmatic in your approach. </p>\n\n<p>We are looking for someone who is familiar with Git, has a solid skill in one of below and willing to learn the other as part of the job. </p>\n\n<p>React web : ~2-3 years experience <br>\nintegrating with Node REST APIs</p>\n\n<p>It would be great if you already know or are keen to learn about 3D technology in a browser (eg. webGL, Three.js, Cesium.js)</p>\n\n<p>A huge bonus if you have experience working with 3D maps or drones either as a drone operator or having worked for a drone software company.</p>\n\n<p>WHAT WILL YOU BE DOING?<br>\nYou will be working with our Product owner, two senior Full-stack developers, and a part-time Designer. Most of your work will be front end web development, turning design mockups into a working web app by using existing template / UI kits. </p>\n\n<p>Note: If you can (and want to) do UX/UI design as well, please do let us know in the email.</p>\n\n<p>WHY US?<br>\nWe are working with cutting edge technologies, spanning machine learning, 3D modeling and data, using an innovative approach to create a user-focused product that everyone can use. We believe everyone in the team has the right to shape the direction of the company. You will be an integral part of our small team and you will make a real difference from day one. </p>\n\n<p>BENEFITS</p>\n\n<p>We offer a competitive salary, including a pension scheme and 25 days paid holiday to get you fully rested. You also have an option to take additional 10 days unpaid holiday - subject to prior approval from the company.</p>\n\n<p>We also have an optional laptop purchase program, where you can choose your preferred equipment.</p>\n\n<p>We have a creative and flexible work environment where you can do your best work.  We are happy to consider some remote work for the right candidate.</p>\n<h3>All remote applicants and applicants from recruiter will be rejected.</h3><h3>You need to have the right to work in the UK. If you are not from UK or EU, please specify your visa status in your cover letter or else your application will be rejected.</h3>",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "React.js",
+        "Full-Stack Web Development (Node/Redux/React)",
+        "Node.Js, AngularJS, HTML, CSS, Javascript, REST, APIs, SQL, PostgreSQL, Unity3D"
+      ],
+      "payment": {
+        "salary": "£30k – £50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/get-trik",
+        "name": "Get trik",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "565443",
+        "angelListUrl": "https://angel.co/company/gettrik/jobs/565443-"
+      }
+    },
+    {
+      "role": "Management",
+      "title": "Tech lead / CTO who still likes to be hands on (Node.js + React.js)",
+      "description": "We offer competitive salary (pro rata) and equity for the right candidate. \nWe are also looking for a (non management) web developer as well. \n\n---------------\nWHAT DO WE DO?\nAt TRIK, we believe that drones are the future of structural inspection. We want to enable everyone to be able to utilise drones in the easiest way possible.\n\nTRIK is a drone software start-up that has been established for 3.5 years and we are now entering a growth stage. We turn drone photos into digital 3D models and enable customers to make comments in 3D. You can use the 3D models as a file directory to store data, compare changes or add measurements. We’ve won several awards for our innovative business solutions and are funded by top-tier investors like the UK government and the Founder of Zoopla. We’re ambitious to do more and to add to our product pipeline as well as the solutions we offer our clients.\n\nTake a look at our website www.gettrik.com and what we do https://m.youtube.com/watch?v=9o90MZZCDYk#\n\n\n---------------\nWHO ARE WE LOOKING FOR?\nWe’re looking for a web developer who have strong interest in business / user's need, have experiece in managing a team but also like to still be hands on. Someone with a high problem solving skill. You should be able to prototype quickly, adapt swiftly to code challenges, be able to work as part of a team, have strong communication skills and be creative and pragmatic in your approach. This is the stack that we are working with. You should have experience in working with most of the list below or willing to learn the rest as part of the job.\n\nEssential\n\n• Node.js\n• Git\n• REST API’s (development and integration)\n• Databases: NoSQL & SQL experience, and/or MongoDB\n• Responsive HTML/CSS\n• Command Line Interfaces / Linux\n• React.js (or similar front end library & willingness to learn React)\n\nNice to have & willing to learn\n\n• Cloud Deployment (Azure/AWS/Google)\n• 3D web (webGL, three.js, cesium.js)\n• System architect\n\nA huge bonus if you have an experience in mapping (any GIS degree, work experience), drones (either as a drone operators or worked for a drone software), computer vision (C++, parallel computing, sfm), app development (react native, swift), Unity3D.\n\n---------------\nWHY US?\nThough we are a highly innovative company focusing on R&D, our core value is to create a user-focused product that everyone can use. We believe everyone in the team have the right to shape the direction of the company. You will be an integral part of our small team and you will make a real difference from day one\n\nWe believe in bringing out the best in all of our employee and give them a space to grow. Either you are a specialist who wants to work on one specific thing, a generalist who love to prototype with all the latest technology, a software developer who wants to step up to become a manager, or a UX/UI designer who want to learn how to code, we have a structure to support any of your career paths.\n\nWe prefer a full time employee working on site, but we may make an exception for an outstanding applicant.\n\nWe may consider a part-time candidate or a full-time candidate who want to have a mixture of working onsite & working from home on a case by case basis. Write us a short email explaining why. :)",
+      "descriptionHtml": "<p>We offer competitive salary (pro rata) and equity for the right candidate. <br>\nWe are also looking for a (non management) web developer as well. </p>\n\n<hr>\n\n<p>WHAT DO WE DO?<br>\nAt TRIK, we believe that drones are the future of structural inspection. We want to enable everyone to be able to utilise drones in the easiest way possible.</p>\n\n<p>TRIK is a drone software start-up that has been established for 3.5 years and we are now entering a growth stage. We turn drone photos into digital 3D models and enable customers to make comments in 3D. You can use the 3D models as a file directory to store data, compare changes or add measurements. We’ve won several awards for our innovative business solutions and are funded by top-tier investors like the UK government and the Founder of Zoopla. We’re ambitious to do more and to add to our product pipeline as well as the solutions we offer our clients.</p>\n\n<p>Take a look at our website <a href=\"http://www.gettrik.com\" target=\"_blank\" rel=\"nofollow\">www.gettrik.com</a> and what we do <a href=\"https://m.youtube.com/watch?v=9o90MZZCDYk#\" target=\"_blank\" rel=\"nofollow\">https://m.youtube.com/watch?v=9o90MZZCDYk#</a></p>\n\n<hr>\n\n<p>WHO ARE WE LOOKING FOR?<br>\nWe’re looking for a web developer who have strong interest in business / user&#39;s need, have experiece in managing a team but also like to still be hands on. Someone with a high problem solving skill. You should be able to prototype quickly, adapt swiftly to code challenges, be able to work as part of a team, have strong communication skills and be creative and pragmatic in your approach. This is the stack that we are working with. You should have experience in working with most of the list below or willing to learn the rest as part of the job.</p>\n\n<p>Essential</p>\n\n<p>• Node.js<br>\n• Git<br>\n• REST API’s (development and integration)<br>\n• Databases: NoSQL &amp; SQL experience, and/or MongoDB<br>\n• Responsive HTML/CSS<br>\n• Command Line Interfaces / Linux<br>\n• React.js (or similar front end library &amp; willingness to learn React)</p>\n\n<p>Nice to have &amp; willing to learn</p>\n\n<p>• Cloud Deployment (Azure/AWS/Google)<br>\n• 3D web (webGL, three.js, cesium.js)<br>\n• System architect</p>\n\n<p>A huge bonus if you have an experience in mapping (any GIS degree, work experience), drones (either as a drone operators or worked for a drone software), computer vision (C++, parallel computing, sfm), app development (react native, swift), Unity3D.</p>\n\n<hr>\n\n<p>WHY US?<br>\nThough we are a highly innovative company focusing on R&amp;D, our core value is to create a user-focused product that everyone can use. We believe everyone in the team have the right to shape the direction of the company. You will be an integral part of our small team and you will make a real difference from day one</p>\n\n<p>We believe in bringing out the best in all of our employee and give them a space to grow. Either you are a specialist who wants to work on one specific thing, a generalist who love to prototype with all the latest technology, a software developer who wants to step up to become a manager, or a UX/UI designer who want to learn how to code, we have a structure to support any of your career paths.</p>\n\n<p>We prefer a full time employee working on site, but we may make an exception for an outstanding applicant.</p>\n\n<p>We may consider a part-time candidate or a full-time candidate who want to have a mixture of working onsite &amp; working from home on a case by case basis. Write us a short email explaining why. :)</p>\n",
+      "position": "cofounder",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Greater London",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£30k – £70k",
+        "equity": "0.1% – 3.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/paenatwilai",
+        "name": "Pae Natwilai Utoomprurkporn",
+        "avatar": "https://photos.angel.co/users/1293111-medium_jpg?1479995857"
+      },
+      "refs": {
+        "angelListId": "615592",
+        "angelListUrl": "https://angel.co/company/gettrik/jobs/615592-"
+      }
+    }
+  ]
+}

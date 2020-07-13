@@ -1,0 +1,152 @@
+{
+  "name": "Lendable",
+  "avatar": "https://photos.angel.co/startups/i/4067217-6bc163cd8f7fedcf11964b5ef3173913-medium_jpg.jpg?buster=1587457102",
+  "slogan": "Building a 21st century financial institution from scratch",
+  "description": "Finance is one of the last great stale service industries, and customers are suffering for it. Lendable is building a modern financial institution from scratch using technology, data science and attitude! \n\nWith our first product we have built the world's fastest consumer lending platform, powered by real-time, automated credit decisions and continuous risk pricing. How fast? Our relentless drive to automate and improve processes allows customers to apply for and receive their loan in well under 10 minutes on average (instead of days or weeks). Our second product will launch this year and we’re planning on much more!\n\nWe are well-funded, profitable, and one of the fastest growing businesses in the UK as recognised by Tech Track 100 and the Fast 50. We are a focused team of 70 individuals with founders previously at Goldman Sachs, Rocket Internet and BCG, with 2 featured in Forbes’ 30 under 30 list.\n\nWhat are you waiting for?! Come and find out more.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://lendable.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@lendableuk"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Financial Services",
+    "Credit",
+    "Finance Technology",
+    "Fin Tech"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Head of Talent",
+      "role": "Employee",
+      "url": "https://angel.co/u/amandeep-shergill-2",
+      "name": "Amandeep Shergill",
+      "avatar": "https://photos.angel.co/users/9871868-medium_jpg?1566211015",
+      "bioHtml": "Scaled talent at international startups. Currently Lendable, previously Cleo, Consensys, Apttus, Cloudreach, Intuit"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/george-61",
+      "name": "George ",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/carla-arevalo",
+      "name": "Carla Arevalo",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4067217",
+    "angelListUrl": "https://angel.co/company/lendable-3"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "PHP Symfony Engineer",
+      "description": "Finance is one of the last great stale service industries, and customers are suffering for it. Lendable is building a modern financial institution from scratch using technology, data science and attitude! \n\nOur first product is offering personal loans. We have built the world's fastest consumer lending platform, powered by real-time, automated credit decisions and continuous risk pricing. How fast? Our relentless drive to automate and improve processes allows customers to apply for and receive their loan in well under 10 minutes on average (instead of days or weeks). Our second product will launch this year and we’re planning on much more!\n\nWe are well-funded, profitable, and one of the fastest growing businesses in the UK as recognised by Tech Track 100 and the Fast 50. We are a focused team of 60 individuals with founders previously at Goldman Sachs, Rocket Internet and BCG, with 2 featured in Forbes’ 30 under 30 list. We are backed by several leading investors who have also been involved in Monzo and GoCardless.\n\nWe have a unique, enthusiastic culture: we give talented and curious individuals the opportunity to stretch themselves and work in an environment that encourages personal development.\n\n﻿The role:\n\nWe’re looking for a PHP engineer to join our engineering team. This is the team that put the Tech in FinTech, our current team of 10 backend engineers, 2 frontend developers and 1 devops engineer have helped transform finance by building a next generation lending platform and they’re at it again with a brand new product launching this year. \n\nThere’s a lot to do, from building and integrating new API’s to further improve the customer journey and optimising the lending platform through to deep architectural discussions and new product development. \n\nWhat you’ll be working on:\n\nBuilding API’s for new partnerships \nHelping launch a new product platform for launch in 2020\n\nOur Tech Stack\nBackend:\n\nPHP 7.3\nSymfony 4.2\nNode.js\nAWS\nMySQL\nRabbitMQ\nDocker\nKubernetes\n\nFrontend:\nReact & React Native, TypeScript, MobX, Redux, Stylus and SASS\n\nOther:\nJenkins and CircleCI - we deploy to production as soon as we finish a feature \nBehat, PHPUnit, Jest, Selenium and Detox for automated testing\n\nWhat we’re looking for:\nStrong PHP development experience, ideally with PHP 7\nA good understanding of a modern PHP framework like Symfony, Zend or Laravel\nStrong understanding of abstraction and scalability \nA keen desire to want to learn and input into a highly collaborative team \nIf you’ve worked in a Kanban environment, it would be a plus but not needed\n\nWhat’s Next:\n\nWe’re not a corporate so we try our best to get things moving as quickly as possible. For this role we’d expect:\n\nA quick phone call with one of the team\nA short exercise to complete in your own time  \nOnsite Interview \nDiscuss the exercise you completed\nMeet the team  \n\n\nWhat you’ll get:\n\nThe opportunity to build a new and improved financial institution from scratch!\nA best in class compensation package including stock options \nCycle to Work scheme\nLunch cooked by onsite chefs 3 times a week\nAn open and honest culture with flat hierarchy\nPersonal development and learning time\nA fun and inspiring work environment; featuring monthly socials, weekly team lunches, onsite Yoga every week, an annual one-week work event abroad for everyone (our last one was in Tuscany!) and more\nA multi-cultural team made up of dozens of different nationalities and backgrounds\nA unique office - one of the largest lofts in Shoreditch - with a fully stocked fridge and kitchen\nWe're an equal opportunity employer and are looking to make Lendable one of the most inclusive and open workspaces in London",
+      "descriptionHtml": "<p>Finance is one of the last great stale service industries, and customers are suffering for it. Lendable is building a modern financial institution from scratch using technology, data science and attitude! </p>\n\n<p>Our first product is offering personal loans. We have built the world&#39;s fastest consumer lending platform, powered by real-time, automated credit decisions and continuous risk pricing. How fast? Our relentless drive to automate and improve processes allows customers to apply for and receive their loan in well under 10 minutes on average (instead of days or weeks). Our second product will launch this year and we’re planning on much more!</p>\n\n<p>We are well-funded, profitable, and one of the fastest growing businesses in the UK as recognised by Tech Track 100 and the Fast 50. We are a focused team of 60 individuals with founders previously at Goldman Sachs, Rocket Internet and BCG, with 2 featured in Forbes’ 30 under 30 list. We are backed by several leading investors who have also been involved in Monzo and GoCardless.</p>\n\n<p>We have a unique, enthusiastic culture: we give talented and curious individuals the opportunity to stretch themselves and work in an environment that encourages personal development.</p>\n\n<p>﻿The role:</p>\n\n<p>We’re looking for a PHP engineer to join our engineering team. This is the team that put the Tech in FinTech, our current team of 10 backend engineers, 2 frontend developers and 1 devops engineer have helped transform finance by building a next generation lending platform and they’re at it again with a brand new product launching this year. </p>\n\n<p>There’s a lot to do, from building and integrating new API’s to further improve the customer journey and optimising the lending platform through to deep architectural discussions and new product development. </p>\n\n<p>What you’ll be working on:</p>\n\n<p>Building API’s for new partnerships <br>\nHelping launch a new product platform for launch in 2020</p>\n\n<p>Our Tech Stack<br>\nBackend:</p>\n\n<p>PHP 7.3<br>\nSymfony 4.2<br>\nNode.js<br>\nAWS<br>\nMySQL<br>\nRabbitMQ<br>\nDocker<br>\nKubernetes</p>\n\n<p>Frontend:<br>\nReact &amp; React Native, TypeScript, MobX, Redux, Stylus and SASS</p>\n\n<p>Other:<br>\nJenkins and CircleCI - we deploy to production as soon as we finish a feature <br>\nBehat, PHPUnit, Jest, Selenium and Detox for automated testing</p>\n\n<p>What we’re looking for:<br>\nStrong PHP development experience, ideally with PHP 7<br>\nA good understanding of a modern PHP framework like Symfony, Zend or Laravel<br>\nStrong understanding of abstraction and scalability <br>\nA keen desire to want to learn and input into a highly collaborative team <br>\nIf you’ve worked in a Kanban environment, it would be a plus but not needed</p>\n\n<p>What’s Next:</p>\n\n<p>We’re not a corporate so we try our best to get things moving as quickly as possible. For this role we’d expect:</p>\n\n<p>A quick phone call with one of the team<br>\nA short exercise to complete in your own time<br><br>\nOnsite Interview <br>\nDiscuss the exercise you completed<br>\nMeet the team  </p>\n\n<p>What you’ll get:</p>\n\n<p>The opportunity to build a new and improved financial institution from scratch!<br>\nA best in class compensation package including stock options <br>\nCycle to Work scheme<br>\nLunch cooked by onsite chefs 3 times a week<br>\nAn open and honest culture with flat hierarchy<br>\nPersonal development and learning time<br>\nA fun and inspiring work environment; featuring monthly socials, weekly team lunches, onsite Yoga every week, an annual one-week work event abroad for everyone (our last one was in Tuscany!) and more<br>\nA multi-cultural team made up of dozens of different nationalities and backgrounds<br>\nA unique office - one of the largest lofts in Shoreditch - with a fully stocked fridge and kitchen<br>\nWe&#39;re an equal opportunity employer and are looking to make Lendable one of the most inclusive and open workspaces in London</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "PHP",
+        "Symfony",
+        "Amazon Web Services",
+        "Zend Framework",
+        "Laravel",
+        "AWS"
+      ],
+      "payment": {
+        "salary": "£60k – £90k"
+      },
+      "recruiter": {
+        "title": "Head of Talent",
+        "role": "Employee",
+        "url": "https://angel.co/u/amandeep-shergill-2",
+        "name": "Amandeep Shergill",
+        "avatar": "https://photos.angel.co/users/9871868-medium_jpg?1566211015"
+      },
+      "refs": {
+        "angelListId": "616822",
+        "angelListUrl": "https://angel.co/company/lendable-3/jobs/616822-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "DevOps Engineer",
+      "description": "Finance is one of the last great stale service industries, and customers are suffering for it. Lendable is building a modern financial institution from scratch using technology, data science and attitude! \n\nOur first product is offering personal loans. We have built the world's fastest consumer lending platform, powered by real-time, automated credit decisions and continuous risk pricing. How fast? Our relentless drive to automate and improve processes allows customers to apply for and receive their loan in well under 10 minutes on average (instead of days or weeks). Our second product will launch this year and we’re planning on much more!\n\nWe are well-funded, profitable, and one of the fastest growing businesses in the UK as recognised by Tech Track 100 and the Fast 50. We are a focused team of 60 individuals with founders previously at Goldman Sachs, Rocket Internet and BCG, with 2 featured in Forbes’ 30 under 30 list. We are backed by several leading investors who have also been involved in Monzo and GoCardless.\n\nWe have a unique, enthusiastic culture: we give talented and curious individuals the opportunity to stretch themselves and work in an environment that encourages personal development.\n\nThe role:\nWe’re looking for a DevOps Engineer to help shape our development environments using terraform and ansible but just as comfortable managing deployment pipelines in a kubernetes environment whilst helping developers grow. An amazing role for someone that wants to truly impact a complex and growing developer environment! \n\nOur Tech Stack\nPHP 7.2, Symfony v3.4 (moving to v4), Node.js, Python\nAWS, Docker, Kubernetes, Helm\nMySQL / Aurora\nRabbitMQ\nELK / EFK\nReact & React Native, TypeScript, MobX, Redux, Stylus and SASS\nJenkins and CircleCI \nBehat, PHPUnit, Jest, Selenium and Detox \n\nWhat you’ll get involved with:\nProactively audit the security of our systems \nPlan for the maintainability of the infrastructure and foresee weaknesses in the setup \nDesign and build the infrastructure to support our existing and upcoming financial products\nAdminister and support our 24/7 AWS based Docker infrastructure, ensuring it is secure, resilient and performant\nWork with our engineers to build and maintain effective CI pipelines and deployment processes\nIdentify new technologies where appropriate to improve the automation \nDocument infrastructure setup making it replicable\n\nWhat we’re looking for:\nReal world experience with Docker and Kubernetes\nExposure to multiple cloud platforms - AWS, Google Cloud, Azure\nBelief that anything and everything can be automated with code\nExperience administering a 24/7, high profile infrastructure \nComfortable writing automation code in multiple scripting languages\nStrong experience with setting up logging and monitoring\nComfortable reading developer code when need to dig deep\nRecent hands on experience creating containerized deployments \nDemonstrable experience with networks, security, load balancers, DNS, etc \nHigh level of attention to detail \nExcellent verbal and written communication\nAdditional information\n\nWhat’s Next:\nWe’re not a corporate so we try our best to get things moving as quickly as possible. For this role we’d expect:\nA quick phone call with one of the team\nA short exercise to complete in your own time  \nOnsite Interview \nDiscuss the exercise you completed\nMeet the team  \n\nWhat you’ll get:\nThe opportunity to build a new and improved financial institution from scratch!\nA best in class compensation package including stock options \nAn open and honest culture with flat hierarchy\nPersonal development and learning time\nA fun and inspiring work environment; featuring monthly socials, weekly team lunches, onsite Yoga every week, an annual one-week work event abroad for everyone (our last one was in Tuscany!) and more\nA multi-cultural team made up of dozens of different nationalities and backgrounds\nA unique office - one of the largest lofts in Shoreditch - with a fully stocked fridge and kitchen\nWe're an equal opportunity employer and are looking to make Lendable one of the most inclusive and open workspaces in London",
+      "descriptionHtml": "<p>Finance is one of the last great stale service industries, and customers are suffering for it. Lendable is building a modern financial institution from scratch using technology, data science and attitude! </p>\n\n<p>Our first product is offering personal loans. We have built the world&#39;s fastest consumer lending platform, powered by real-time, automated credit decisions and continuous risk pricing. How fast? Our relentless drive to automate and improve processes allows customers to apply for and receive their loan in well under 10 minutes on average (instead of days or weeks). Our second product will launch this year and we’re planning on much more!</p>\n\n<p>We are well-funded, profitable, and one of the fastest growing businesses in the UK as recognised by Tech Track 100 and the Fast 50. We are a focused team of 60 individuals with founders previously at Goldman Sachs, Rocket Internet and BCG, with 2 featured in Forbes’ 30 under 30 list. We are backed by several leading investors who have also been involved in Monzo and GoCardless.</p>\n\n<p>We have a unique, enthusiastic culture: we give talented and curious individuals the opportunity to stretch themselves and work in an environment that encourages personal development.</p>\n\n<p>The role:<br>\nWe’re looking for a DevOps Engineer to help shape our development environments using terraform and ansible but just as comfortable managing deployment pipelines in a kubernetes environment whilst helping developers grow. An amazing role for someone that wants to truly impact a complex and growing developer environment! </p>\n\n<p>Our Tech Stack<br>\nPHP 7.2, Symfony v3.4 (moving to v4), Node.js, Python<br>\nAWS, Docker, Kubernetes, Helm<br>\nMySQL / Aurora<br>\nRabbitMQ<br>\nELK / EFK<br>\nReact &amp; React Native, TypeScript, MobX, Redux, Stylus and SASS<br>\nJenkins and CircleCI <br>\nBehat, PHPUnit, Jest, Selenium and Detox </p>\n\n<p>What you’ll get involved with:<br>\nProactively audit the security of our systems <br>\nPlan for the maintainability of the infrastructure and foresee weaknesses in the setup <br>\nDesign and build the infrastructure to support our existing and upcoming financial products<br>\nAdminister and support our 24/7 AWS based Docker infrastructure, ensuring it is secure, resilient and performant<br>\nWork with our engineers to build and maintain effective CI pipelines and deployment processes<br>\nIdentify new technologies where appropriate to improve the automation <br>\nDocument infrastructure setup making it replicable</p>\n\n<p>What we’re looking for:<br>\nReal world experience with Docker and Kubernetes<br>\nExposure to multiple cloud platforms - AWS, Google Cloud, Azure<br>\nBelief that anything and everything can be automated with code<br>\nExperience administering a 24/7, high profile infrastructure <br>\nComfortable writing automation code in multiple scripting languages<br>\nStrong experience with setting up logging and monitoring<br>\nComfortable reading developer code when need to dig deep<br>\nRecent hands on experience creating containerized deployments <br>\nDemonstrable experience with networks, security, load balancers, DNS, etc <br>\nHigh level of attention to detail <br>\nExcellent verbal and written communication<br>\nAdditional information</p>\n\n<p>What’s Next:<br>\nWe’re not a corporate so we try our best to get things moving as quickly as possible. For this role we’d expect:<br>\nA quick phone call with one of the team<br>\nA short exercise to complete in your own time<br><br>\nOnsite Interview <br>\nDiscuss the exercise you completed<br>\nMeet the team  </p>\n\n<p>What you’ll get:<br>\nThe opportunity to build a new and improved financial institution from scratch!<br>\nA best in class compensation package including stock options <br>\nAn open and honest culture with flat hierarchy<br>\nPersonal development and learning time<br>\nA fun and inspiring work environment; featuring monthly socials, weekly team lunches, onsite Yoga every week, an annual one-week work event abroad for everyone (our last one was in Tuscany!) and more<br>\nA multi-cultural team made up of dozens of different nationalities and backgrounds<br>\nA unique office - one of the largest lofts in Shoreditch - with a fully stocked fridge and kitchen<br>\nWe&#39;re an equal opportunity employer and are looking to make Lendable one of the most inclusive and open workspaces in London</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Jenkins",
+        "Docker",
+        "Ansible",
+        "AWS",
+        "Kubernetes",
+        "Terraform",
+        "Kubernetes Helm"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Head of Talent",
+        "role": "Employee",
+        "url": "https://angel.co/u/amandeep-shergill-2",
+        "name": "Amandeep Shergill",
+        "avatar": "https://photos.angel.co/users/9871868-medium_jpg?1566211015"
+      },
+      "refs": {
+        "angelListId": "629690",
+        "angelListUrl": "https://angel.co/company/lendable-3/jobs/629690-"
+      }
+    }
+  ]
+}

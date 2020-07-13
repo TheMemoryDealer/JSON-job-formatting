@@ -1,0 +1,89 @@
+{
+  "name": "Elan.London",
+  "avatar": "https://photos.angel.co/startups/i/7316302-fa5a54a2885bc27922503e58f299970e-medium_jpg.jpg?buster=1573758463",
+  "slogan": "A traditional offline matchmaking agency",
+  "description": "Professional matchmaking services for busy, successful professionals",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://elanlondon.co.uk/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Dating"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/tina-bradley-1",
+      "name": "Tina Bradley",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7316302",
+    "angelListUrl": "https://angel.co/company/elan-london"
+  },
+  "jobs": [
+    {
+      "role": "Sales",
+      "title": "Business Partner",
+      "description": "We are looking for an investor/business partner to drive the business forward.",
+      "descriptionHtml": "<p>We are looking for an investor/business partner to drive the business forward.</p>\n",
+      "position": "cofounder",
+      "experience": 0,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/tina-bradley-1",
+        "name": "Tina Bradley",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "663721",
+        "angelListUrl": "https://angel.co/company/elan-london/jobs/663721-"
+      }
+    }
+  ]
+}

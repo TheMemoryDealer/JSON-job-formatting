@@ -1,0 +1,96 @@
+{
+  "name": "MotivateMe",
+  "avatar": "https://photos.angel.co/startups/i/6143461-f1e7073e29857cf9e00fbf516b785c98-medium_jpg.jpg?buster=1534153669",
+  "slogan": "Allowing users to hold their future selves accountable",
+  "description": "The product is the service. Revenues will stem from sponsored partnerships, advertising and a paid advanced service.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://beta.companieshouse.gov.uk/company/11478630"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile Application",
+    "Self Help"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/patrick-reim-1",
+      "name": "Patrick Reim",
+      "avatar": "https://photos.angel.co/users/8220172-medium_jpg?1586422506",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6143461",
+    "angelListUrl": "https://angel.co/company/motivateme"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Partner / CTO",
+      "description": "Looking for a partner in this endeavour who will take the lead in the development, and maintenance, of the platform.",
+      "descriptionHtml": "<p>Looking for a partner in this endeavour who will take the lead in the development, and maintenance, of the platform.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Mobile Application Design",
+        "Mobile Application Development",
+        "Discipline and Dedication",
+        "Mobile Application Testing"
+      ],
+      "payment": {
+        "salary": "£27k – £32k",
+        "equity": "5.0% – 15.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/patrick-reim-1",
+        "name": "Patrick Reim",
+        "avatar": "https://photos.angel.co/users/8220172-medium_jpg?1586422506"
+      },
+      "refs": {
+        "angelListId": "410766",
+        "angelListUrl": "https://angel.co/company/motivateme/jobs/410766-"
+      }
+    }
+  ]
+}

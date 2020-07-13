@@ -1,0 +1,259 @@
+{
+  "name": "Sailchecker",
+  "avatar": "https://photos.angel.co/startups/i/641825-208b0c6aa8337435073c460ecd91e484-medium_jpg.jpg?buster=1498750650",
+  "slogan": "Search | Book | Sail | Repeat",
+  "description": "Finally!  A simple way of comparing the entire Global Sailing Market in one place.\n\nWe use a combination of the very latest search technology, combined with consultants who really understand the market, to bring you the very best choice, availability and value for money.\n\nYou will find us dealing with all your favourite charter and holiday companies, plus the very best of the rest.  We offer 'Bareboat', 'Crewed' and 'Cabin’ charters, plus different style flotillas in all on one site.\n\nIt’s simple and easy to use and we promise we are always cheaper than going direct with lots of extra value bundled in.\n\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.sailchecker.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://sailchecker.com/all-things-sailing-blog/"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/sailchecker"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/SailChecker1"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/sailchecker"
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London",
+    "Thessaloniki"
+  ],
+  "marketTags": [
+    "Online Travel",
+    "Adventure Travel"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/chris-lait",
+      "name": "Chris Lait",
+      "avatar": "https://photos.angel.co/users/882661-medium_jpg?1417013994",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/sailchecker\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Sailchecker</span></a> • Worked at <a href=\"https://angel.co/company/british-army\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">British Army</span></a> • Studied at <a href=\"https://angel.co/university-of-northampton\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University Of Northampton </span></a>"
+    },
+    {
+      "title": "Content Creator ",
+      "role": "Employee",
+      "url": "https://angel.co/u/anny-wooldridge",
+      "name": "Anny Wooldridge",
+      "avatar": "https://photos.angel.co/users/4100581-medium_jpg?1497717643",
+      "bioHtml": "My writing has appeared in World Nomads, Matador Network and Culture Trip. My work can be found on Anny&#39;s Adventures (http://annysadventures.com). "
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/elpida-barbaresou",
+      "name": "Elpida Barbaresou ",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/katerina-ioannidou",
+      "name": "Katerina Ioannidou",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "641825",
+    "angelListUrl": "https://angel.co/company/sailchecker"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "CTO - Founder",
+      "description": "SailChecker.com is aiming to become the Yacht Charter Search Engine of yachts. We are offering a mix of pay and up to 5% equity for the right person.\n\nWe are looking for a founder to join the business at this key stage, we are due to go into our first funding round early next year. The perfect candidate would already have experience in a tech start-up or a driving ambition to be part of one.\n\nThe ideal canditdate would have experience with Git and Docker and the following stack:\n\nTooling\nDocker, Webpack\n\nDocker https://www.docker.com/\nWebpack https://webpack.js.org/\n\nServer Side\nNode.JS, AdonisJS, MySQL\n\nhttps://nodejs.org/en/\nhttps://adonisjs.com/\n\nClient Side\nVueJS, Material Design, Vuetify, NuxtJS\n\nhttps://vuetifyjs.com/components/\nhttps://nuxtjs.org/\nhttps://material.io/guidelines/\nhttps://vuejs.org/\n\nCreating a global search engine for yacht charter with an intuitive interface is the challenge.  We need to be the portal of choice for all yacht charter.  Starting first by making the most useful tool on the market, before engineering new and inventive strategies to storm this dormant market.",
+      "descriptionHtml": "<p>SailChecker.com is aiming to become the Yacht Charter Search Engine of yachts. We are offering a mix of pay and up to 5% equity for the right person.</p>\n\n<p>We are looking for a founder to join the business at this key stage, we are due to go into our first funding round early next year. The perfect candidate would already have experience in a tech start-up or a driving ambition to be part of one.</p>\n\n<p>The ideal canditdate would have experience with Git and Docker and the following stack:</p>\n\n<p>Tooling<br>\nDocker, Webpack</p>\n\n<p>Docker <a href=\"https://www.docker.com/\" target=\"_blank\" rel=\"nofollow\">https://www.docker.com/</a><br>\nWebpack <a href=\"https://webpack.js.org/\" target=\"_blank\" rel=\"nofollow\">https://webpack.js.org/</a></p>\n\n<p>Server Side<br>\nNode.JS, AdonisJS, MySQL</p>\n\n<p><a href=\"https://nodejs.org/en/\" target=\"_blank\" rel=\"nofollow\">https://nodejs.org/en/</a><br>\n<a href=\"https://adonisjs.com/\" target=\"_blank\" rel=\"nofollow\">https://adonisjs.com/</a></p>\n\n<p>Client Side<br>\nVueJS, Material Design, Vuetify, NuxtJS</p>\n\n<p><a href=\"https://vuetifyjs.com/components/\" target=\"_blank\" rel=\"nofollow\">https://vuetifyjs.com/components/</a><br>\n<a href=\"https://nuxtjs.org/\" target=\"_blank\" rel=\"nofollow\">https://nuxtjs.org/</a><br>\n<a href=\"https://material.io/guidelines/\" target=\"_blank\" rel=\"nofollow\">https://material.io/guidelines/</a><br>\n<a href=\"https://vuejs.org/\" target=\"_blank\" rel=\"nofollow\">https://vuejs.org/</a></p>\n\n<p>Creating a global search engine for yacht charter with an intuitive interface is the challenge.  We need to be the portal of choice for all yacht charter.  Starting first by making the most useful tool on the market, before engineering new and inventive strategies to storm this dormant market.</p>\n",
+      "position": "cofounder",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$12k – $20k",
+        "equity": "2.0% – 5.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/chris-lait",
+        "name": "Chris Lait",
+        "avatar": "https://photos.angel.co/users/882661-medium_jpg?1417013994"
+      },
+      "refs": {
+        "angelListId": "57565",
+        "angelListUrl": "https://angel.co/company/sailchecker/jobs/57565-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Remote Sailing Content Writer - SMM, SEM Content Marketing - Internship",
+      "description": "We're not looking for skills (although some evidence of your greatness is always appreciated. We are looking for aptitude. Do you have the drive and determination to learn a wide variety of skills?\n\nWe work in an exciting distributed team, you would have the autonomy to drive your role and the companies content strategy through a variety of channels. Compensation would be commission and the possibility of equity for right person. There is no salary available for this position at the start, but we do pay for each piece of content and some commission.\n\nWe offer an excellent internship programme.",
+      "descriptionHtml": "<p>We&#39;re not looking for skills (although some evidence of your greatness is always appreciated. We are looking for aptitude. Do you have the drive and determination to learn a wide variety of skills?</p>\n\n<p>We work in an exciting distributed team, you would have the autonomy to drive your role and the companies content strategy through a variety of channels. Compensation would be commission and the possibility of equity for right person. There is no salary available for this position at the start, but we do pay for each piece of content and some commission.</p>\n\n<p>We offer an excellent internship programme.</p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": true,
+      "locations": [
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "SEO/SEM",
+        "Copywriting",
+        "Search Engine Marketing (SEM)",
+        "Online Marketing and Copywriting",
+        "Copy Writing and Editing"
+      ],
+      "payment": {
+        "salary": "$0k – $20k",
+        "equity": "0.0% – 3.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/chris-lait",
+        "name": "Chris Lait",
+        "avatar": "https://photos.angel.co/users/882661-medium_jpg?1417013994"
+      },
+      "refs": {
+        "angelListId": "110640",
+        "angelListUrl": "https://angel.co/company/sailchecker/jobs/110640-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "Senior UI Designer",
+      "description": "We are looking for a co-founder to join this project on a sweat equity basis.  We will consider part-time applications.",
+      "descriptionHtml": "<p>We are looking for a co-founder to join this project on a sweat equity basis.  We will consider part-time applications.</p>\n",
+      "position": "cofounder",
+      "experience": 4,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "User Experience Design",
+        "User Interface Design",
+        "UI/UX Design"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "2.0% – 5.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/chris-lait",
+        "name": "Chris Lait",
+        "avatar": "https://photos.angel.co/users/882661-medium_jpg?1417013994"
+      },
+      "refs": {
+        "angelListId": "71680",
+        "angelListUrl": "https://angel.co/company/sailchecker/jobs/71680-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Travel Tech Startup - Yacht Charter Sales Manager | SailChecker.com",
+      "description": "Want to be part of a growing dynamic ambitious travel tech startup?\n\nWe are currently seeking travel consultants to select and advise our clients on their choice of location and their yacht. You will guide customers through their journey looking after all aspects of their sailing holiday.\n\nWe are particularly interested in what languages you speak and any sailing experience. we are particularly interested in applicants with the following native language skills:\n\n• German\n• French\n• Russian\n• American English (native)\n\nWe offer full training and guidance, a good internet connection, good IT, and IT skills are essential.\n\nThe post comes with travel and sailing opportunities.\n\nPay ranges depending on your experience. Those without any experience of sales or sailing would be required to follow an internship. Those with travel sales or sailing experience may have to do a short commission only induction. \n\nAnyone with industry experience can start on the salary range indicated below.\n\nThere are significant opportunities for the right person to rise through the ranks at SailChecker and become a manager, director or co-founder status. We are running a share option scheme so that your efforts could result in a very large compensation should the company be sold.",
+      "descriptionHtml": "<p>Want to be part of a growing dynamic ambitious travel tech startup?</p>\n\n<p>We are currently seeking travel consultants to select and advise our clients on their choice of location and their yacht. You will guide customers through their journey looking after all aspects of their sailing holiday.</p>\n\n<p>We are particularly interested in what languages you speak and any sailing experience. we are particularly interested in applicants with the following native language skills:</p>\n\n<p>• German<br>\n• French<br>\n• Russian<br>\n• American English (native)</p>\n\n<p>We offer full training and guidance, a good internet connection, good IT, and IT skills are essential.</p>\n\n<p>The post comes with travel and sailing opportunities.</p>\n\n<p>Pay ranges depending on your experience. Those without any experience of sales or sailing would be required to follow an internship. Those with travel sales or sailing experience may have to do a short commission only induction. </p>\n\n<p>Anyone with industry experience can start on the salary range indicated below.</p>\n\n<p>There are significant opportunities for the right person to rise through the ranks at SailChecker and become a manager, director or co-founder status. We are running a share option scheme so that your efforts could result in a very large compensation should the company be sold.</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Sales",
+        "Social Media Marketing",
+        "Sales and Marketing",
+        "IT Management",
+        "German Language"
+      ],
+      "payment": {
+        "salary": "€15k – €25k",
+        "equity": "1.0% – 4.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/chris-lait",
+        "name": "Chris Lait",
+        "avatar": "https://photos.angel.co/users/882661-medium_jpg?1417013994"
+      },
+      "refs": {
+        "angelListId": "253838",
+        "angelListUrl": "https://angel.co/company/sailchecker/jobs/253838-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "VLogger - Content Creator",
+      "description": "Are You Ready To Be The Internet's Next Most Successful Vlogger?!\n\nSailChecker is currently social media's most successful sailing company, and we are looking for a up and coming Vlogger to join our team.\n\nAt SailChecker we are looking for a content creator to film, edit and upload video content across our social media outlets.\n\nWe have created a simple way of comparing the entire Global Sailing Market in one place.\n\nWe use a combination of the very latest search technology, combined with consultants who really understand the market, to bring you the very best choice, availability and value for money. We offer 'Bareboat', 'Crewed' and 'Cabin’ charters, plus different style flotillas in all on one site.\n\nWe are looking for someone with photography and graphics experience to join our team, someone who wants to grow with us and develop along with our brand. The ideal candidate would have sailing experience, an interest in sailing or willing to learn how to sail.\n\nPerks of the job would be embarking on all expenses paid yacht charters and Vlogging the charter to create and edit video content in a high standard for social media use. Travel would be necessary and 'living out of a bag' would be part of the job, filming and creating videos as they go.\n\nThere is also an opportunity to work in other areas of the core team, to help run our tech start up.\n\nAll applications should be submitted in video format with a short introduction and why you would be the perfect applicant for this job role, show us what you can do! If you are in any doubt apply anyway.\n\nCompany: SailChecker\n\nLocation: Remote and Willing to Travel\n\nSalary: Dependent on Experience\n\nJob Type: Full-time",
+      "descriptionHtml": "<p>Are You Ready To Be The Internet&#39;s Next Most Successful Vlogger?!</p>\n\n<p>SailChecker is currently social media&#39;s most successful sailing company, and we are looking for a up and coming Vlogger to join our team.</p>\n\n<p>At SailChecker we are looking for a content creator to film, edit and upload video content across our social media outlets.</p>\n\n<p>We have created a simple way of comparing the entire Global Sailing Market in one place.</p>\n\n<p>We use a combination of the very latest search technology, combined with consultants who really understand the market, to bring you the very best choice, availability and value for money. We offer &#39;Bareboat&#39;, &#39;Crewed&#39; and &#39;Cabin’ charters, plus different style flotillas in all on one site.</p>\n\n<p>We are looking for someone with photography and graphics experience to join our team, someone who wants to grow with us and develop along with our brand. The ideal candidate would have sailing experience, an interest in sailing or willing to learn how to sail.</p>\n\n<p>Perks of the job would be embarking on all expenses paid yacht charters and Vlogging the charter to create and edit video content in a high standard for social media use. Travel would be necessary and &#39;living out of a bag&#39; would be part of the job, filming and creating videos as they go.</p>\n\n<p>There is also an opportunity to work in other areas of the core team, to help run our tech start up.</p>\n\n<p>All applications should be submitted in video format with a short introduction and why you would be the perfect applicant for this job role, show us what you can do! If you are in any doubt apply anyway.</p>\n\n<p>Company: SailChecker</p>\n\n<p>Location: Remote and Willing to Travel</p>\n\n<p>Salary: Dependent on Experience</p>\n\n<p>Job Type: Full-time</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Video Editing",
+        "Content Marketing",
+        "Video Production",
+        "Content Creation",
+        "Videography",
+        "Vlogging",
+        "Blogging/Vlogging"
+      ],
+      "payment": {
+        "salary": "$0k – $20k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/chris-lait",
+        "name": "Chris Lait",
+        "avatar": "https://photos.angel.co/users/882661-medium_jpg?1417013994"
+      },
+      "refs": {
+        "angelListId": "544765",
+        "angelListUrl": "https://angel.co/company/sailchecker/jobs/544765-"
+      }
+    }
+  ]
+}

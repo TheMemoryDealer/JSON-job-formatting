@@ -1,0 +1,126 @@
+{
+  "name": "Opvia",
+  "avatar": "https://photos.angel.co/startups/i/7108386-ee94edd72dbec822f8286bcc4e0f0cde-medium_jpg.jpg?buster=1565040250",
+  "slogan": "Enable the next wave of life changing technology",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://opvia.bio"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/23739321/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Biotechnology",
+    "Pharmaceuticals",
+    "Bio-Pharm"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/william-moss",
+      "name": "William Moss",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Founder of Opvia - we are hiring!"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7108386",
+    "angelListUrl": "https://angel.co/company/opvia"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Machine Learning Engineer",
+      "description": "**Want to do something worthwhile?**\n\nOur goal is to enable a 10X reduction in the cost of producing biologics, making these advanced medicines available for all. \n\n**Want to do something cool?**\n\nWe're combing the potential of cutting-edge optical techniques with machine learning to enable real-time non-invasive measurement of these complex fluid systems.\n\n**What would your impact be?**\n\nYou'll be working directly with Jon (Our CTO) on the engine of our first product! - designing and creating robust and interpretable machine learning models which take in complex spectra and output useful parameters.",
+      "descriptionHtml": "<p><strong>Want to do something worthwhile?</strong></p>\n\n<p>Our goal is to enable a 10X reduction in the cost of producing biologics, making these advanced medicines available for all. </p>\n\n<p><strong>Want to do something cool?</strong></p>\n\n<p>We&#39;re combing the potential of cutting-edge optical techniques with machine learning to enable real-time non-invasive measurement of these complex fluid systems.</p>\n\n<p><strong>What would your impact be?</strong></p>\n\n<p>You&#39;ll be working directly with Jon (Our CTO) on the engine of our first product! - designing and creating robust and interpretable machine learning models which take in complex spectra and output useful parameters.</p>\n",
+      "position": "contract",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Communication Skills"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/william-moss",
+        "name": "William Moss",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "602310",
+        "angelListUrl": "https://angel.co/company/opvia/jobs/602310-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Operations Intern | Reducing the cost of producing medicines",
+      "description": "**Want to do something worthwhile?**\n\nOur goal is to enable a 10X reduction in the cost of producing biologics, making these advanced medicines available for all. \n\n**Want to do something cool?**\n\nWe're combing the potential of cutting-edge optical techniques with machine learning to enable real-time non-invasive measurement of complex fluid systems.\n\n**What would your impact be?**\n\n- You'll be working directly with our CEO (Will Moss) to devise and execute a strategy to provide our technology to pharmaceutical companies.\n\n**You would be a great fit if:**\n\n- you are excited to do new things\n\n- you're happy to raise your ideas\n\n- you don’t want to be a small cog in a big machine",
+      "descriptionHtml": "<p><strong>Want to do something worthwhile?</strong></p>\n\n<p>Our goal is to enable a 10X reduction in the cost of producing biologics, making these advanced medicines available for all. </p>\n\n<p><strong>Want to do something cool?</strong></p>\n\n<p>We&#39;re combing the potential of cutting-edge optical techniques with machine learning to enable real-time non-invasive measurement of complex fluid systems.</p>\n\n<p><strong>What would your impact be?</strong></p>\n\n<ul>\n<li>You&#39;ll be working directly with our CEO (Will Moss) to devise and execute a strategy to provide our technology to pharmaceutical companies.</li>\n</ul>\n\n<p><strong>You would be a great fit if:</strong></p>\n\n<ul>\n<li><p>you are excited to do new things</p></li>\n<li><p>you&#39;re happy to raise your ideas</p></li>\n<li><p>you don’t want to be a small cog in a big machine</p></li>\n</ul>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Communication Skills"
+      ],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/william-moss",
+        "name": "William Moss",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "602312",
+        "angelListUrl": "https://angel.co/company/opvia/jobs/602312-"
+      }
+    }
+  ]
+}

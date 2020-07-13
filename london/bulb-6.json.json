@@ -1,0 +1,202 @@
+{
+  "name": "Bulb",
+  "avatar": "https://photos.angel.co/startups/i/5049333-2dfdb6017a4828f46bc540dd2979f3c1-medium_jpg.jpg?buster=1513200768",
+  "slogan": "Making energy simpler, cheaper, greener",
+  "description": "Bulb is making energy simpler, cheaper, greener. We’re changing the way the energy industry treats customers and saving the planet. \nBulb is different; we recognise that delivering amazing support and a simple digital experience makes for loyal members who recommend us to their friends and family.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://bulb.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Clean Energy",
+    "Utilities",
+    "Renewable Energies"
+  ],
+  "employees": "SIZE_201_500",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/michael-laws-4",
+      "name": "Michael Laws",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/caroline-cansaran-1",
+      "name": "Caroline Cansaran",
+      "avatar": "https://photos.angel.co/users/7262251-medium_jpg?1513200897",
+      "bioHtml": "Talent at <a href=\"https://angel.co/company/bulb-6\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Bulb</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5049333",
+    "angelListUrl": "https://angel.co/company/bulb-6"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full-Stack Software Engineer",
+      "description": "About the team\n\nBulb is here to help our members cut their energy bills and reduce their carbon emissions. Our product teams make that happen. We’re developing products that will deliver the future of energy - from using AI to read energy meters, to making carbon offsetting fun and simple, from finding out how to get the most from Smart Meter data to helping people get paid for their solar energy. We also power the sign-up journey that helped us become the fastest growing company in the UK last year and the internal tools that let us deliver a Trust Pilot score of 9 out of 10.\n\nWe work in project-based sprints in integrated teams and encourage an open and transparent working environment.\n\nThe following pods are currently looking for Full-Stack Engineers:\n\n\nMember\n\nHelp us create applications and services that allow our members to manage their accounts via desktop, mobile, SMS and email. You’d be working in a multi disciplinary team with developers, testers, designers, product managers and subject matter experts, developing across the full stack. We’ve got ambitious targets for customer self service and we’re always looking for innovative and exciting new ideas.\n\n\nEnergy Specialist Technology\n\nWe enable the Energy Specialist team to provide the best member service in the energy industry. You'll be using technology in interesting ways to automate tasks, simplify workflows, and build improvements to members experiences across products to reduce the need for them to get in touch with us. We're always on the lookout for making things better as we grow.\n\n\nGrowth\n\nThe number of people that have their energy supplied by Bulb has grown 1,000% per year and we're on a trend to do the same this year. Join the pod that's working on driving this growth as part of a multidisciplinary team working across the full stack, and help tackle exciting challenges, ambitious opportunities, and powerful products - such as the journey customers use to switch their energy, the most visited Bulb product Bulb.co.uk and more!\n\n\nBulb App\n\nThis team is responsible for building all the fun features that will go into our App, such as live energy usage for our smart meter members.\n\n\nRequirements\n\nAt Bulb we want to hire people with the experiences necessary to get going quickly, but who are also interested in learning new things and are comfortable working in a changing environment.\n\n* You take pleasure from clear code, see writing tests as an integral part of the development process and understand the benefit of writing code and tests in small increments.\n\n* You are keen to learn new technologies and have ideas about how we do things better\n\n* You like solving both real world and technical problems\n\n* You are an enthusiastic team player who enjoys collaborating across teams and departments\n\n* You are passionate about learning and your own professional development\n\n\nThe Stack\n\nAt Bulb we use a wide variety of technologies. While we have core technologies that we work with, we're always trying to pick the best tool for the job, and are always looking at what's on the horizon.\nOur stack currently includes:\n\nNode, Typescript, Koa, Redux, React, React Native, Webpack, Babel, Flow\nCircle CI, Kubernetes, Docker and Google Cloud Platform\nWe use Git for source control, write tests and run continuous integration, and review each other’s code through pull requests.\n\nIdeally, you would be familiar with these technologies or similar patterns; notably, Typescript/Javascript coupled with React is a core technology for us. But we’re more interested in your broad experience of software development than of specific tools or libraries. You should be comfortable getting up-to-speed quickly in new tools and platforms. You should be pragmatic and experienced enough to know when a different choice of technology would be more suitable, and comfortable leading explorations into new technologies.\n\n\nTeam Structure\n\nTeams at Bulb are cross-functional, self-organized and autonomous pods. The key features of this structure are:\n\n- You’ll be working within a growing cross functional team composed of specialists with backgrounds in DevOps, Engineering and Security.\n- We practice Scrum/Kanban and work lean.\n- Work is not siloed, you’re able to commit across the stack, and you have a view of all the features the team are working on.\n- We’re use data to drive continuous improvement in our development process and we review this data in our fortnightly retrospectives.\n- We reflect the Bulby working culture.",
+      "descriptionHtml": "<p>About the team</p>\n\n<p>Bulb is here to help our members cut their energy bills and reduce their carbon emissions. Our product teams make that happen. We’re developing products that will deliver the future of energy - from using AI to read energy meters, to making carbon offsetting fun and simple, from finding out how to get the most from Smart Meter data to helping people get paid for their solar energy. We also power the sign-up journey that helped us become the fastest growing company in the UK last year and the internal tools that let us deliver a Trust Pilot score of 9 out of 10.</p>\n\n<p>We work in project-based sprints in integrated teams and encourage an open and transparent working environment.</p>\n\n<p>The following pods are currently looking for Full-Stack Engineers:</p>\n\n<p>Member</p>\n\n<p>Help us create applications and services that allow our members to manage their accounts via desktop, mobile, SMS and email. You’d be working in a multi disciplinary team with developers, testers, designers, product managers and subject matter experts, developing across the full stack. We’ve got ambitious targets for customer self service and we’re always looking for innovative and exciting new ideas.</p>\n\n<p>Energy Specialist Technology</p>\n\n<p>We enable the Energy Specialist team to provide the best member service in the energy industry. You&#39;ll be using technology in interesting ways to automate tasks, simplify workflows, and build improvements to members experiences across products to reduce the need for them to get in touch with us. We&#39;re always on the lookout for making things better as we grow.</p>\n\n<p>Growth</p>\n\n<p>The number of people that have their energy supplied by Bulb has grown 1,000% per year and we&#39;re on a trend to do the same this year. Join the pod that&#39;s working on driving this growth as part of a multidisciplinary team working across the full stack, and help tackle exciting challenges, ambitious opportunities, and powerful products - such as the journey customers use to switch their energy, the most visited Bulb product Bulb.co.uk and more!</p>\n\n<p>Bulb App</p>\n\n<p>This team is responsible for building all the fun features that will go into our App, such as live energy usage for our smart meter members.</p>\n\n<p>Requirements</p>\n\n<p>At Bulb we want to hire people with the experiences necessary to get going quickly, but who are also interested in learning new things and are comfortable working in a changing environment.</p>\n\n<ul>\n<li><p>You take pleasure from clear code, see writing tests as an integral part of the development process and understand the benefit of writing code and tests in small increments.</p></li>\n<li><p>You are keen to learn new technologies and have ideas about how we do things better</p></li>\n<li><p>You like solving both real world and technical problems</p></li>\n<li><p>You are an enthusiastic team player who enjoys collaborating across teams and departments</p></li>\n<li><p>You are passionate about learning and your own professional development</p></li>\n</ul>\n\n<p>The Stack</p>\n\n<p>At Bulb we use a wide variety of technologies. While we have core technologies that we work with, we&#39;re always trying to pick the best tool for the job, and are always looking at what&#39;s on the horizon.<br>\nOur stack currently includes:</p>\n\n<p>Node, Typescript, Koa, Redux, React, React Native, Webpack, Babel, Flow<br>\nCircle CI, Kubernetes, Docker and Google Cloud Platform<br>\nWe use Git for source control, write tests and run continuous integration, and review each other’s code through pull requests.</p>\n\n<p>Ideally, you would be familiar with these technologies or similar patterns; notably, Typescript/Javascript coupled with React is a core technology for us. But we’re more interested in your broad experience of software development than of specific tools or libraries. You should be comfortable getting up-to-speed quickly in new tools and platforms. You should be pragmatic and experienced enough to know when a different choice of technology would be more suitable, and comfortable leading explorations into new technologies.</p>\n\n<p>Team Structure</p>\n\n<p>Teams at Bulb are cross-functional, self-organized and autonomous pods. The key features of this structure are:</p>\n\n<ul>\n<li>You’ll be working within a growing cross functional team composed of specialists with backgrounds in DevOps, Engineering and Security.</li>\n<li>We practice Scrum/Kanban and work lean.</li>\n<li>Work is not siloed, you’re able to commit across the stack, and you have a view of all the features the team are working on.</li>\n<li>We’re use data to drive continuous improvement in our development process and we review this data in our fortnightly retrospectives.</li>\n<li>We reflect the Bulby working culture.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Greater London",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Node.js",
+        "Full Stack Development",
+        "Full-Stack Web Development (Node/Redux/React)"
+      ],
+      "payment": {
+        "salary": "£40k – £65k",
+        "equity": "0.0% – 10.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/caroline-cansaran-1",
+        "name": "Caroline Cansaran",
+        "avatar": "https://photos.angel.co/users/7262251-medium_jpg?1513200897"
+      },
+      "refs": {
+        "angelListId": "309321",
+        "angelListUrl": "https://angel.co/company/bulb-6/jobs/309321-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Senior Data Scientist",
+      "description": "Bulb is a technology-led renewable energy company. Bulb is making energy simpler, cheaper, greener for its members.\n\nOur Data Science group is responsible for the full lifetime of our data products; from sourcing data, analysis and reporting, training and deploying Machine Learning models; there are huge opportunities to apply Data Science right across Bulb.\n\nBulb cares deeply about helping the technology industry become a more inclusive and diverse place and we work hard to lead by example.\n\nResponsibilities:\n\n• Analyse data and report results to help inform decision making\n\n• Use data insights to design and build Machine Learning algorithms\n\n• Design and perform experiments to test the effectiveness of products we build and actions we take\n\n• Mentor junior data scientists and collaborate and advise on projects\n\n\nRequirements\n\nAt Bulb we want to hire people with the experience necessary to get going quickly, but who are also interested in learning new things and are comfortable working in a changing environment.\n\nWe’re looking for candidates who have the following:\n\n• Masters/PhD or equivalent experience in a quantitative field such as Statistics, Computer Science, Applied Sciences or Operational Research\n\n• 5+ years experience applying Machine Learning to real-world problems\n\n• Comfortable coding in Python and SQL\n\n• Comfortable with challenging prescribed thinking\n\n• Exceptional communication skills, able to communicate complex ideas in a simple fashion\n\nExperience with cloud infrastructure (GCP, AWS, Azure) would be considered beneficial.",
+      "descriptionHtml": "<p>Bulb is a technology-led renewable energy company. Bulb is making energy simpler, cheaper, greener for its members.</p>\n\n<p>Our Data Science group is responsible for the full lifetime of our data products; from sourcing data, analysis and reporting, training and deploying Machine Learning models; there are huge opportunities to apply Data Science right across Bulb.</p>\n\n<p>Bulb cares deeply about helping the technology industry become a more inclusive and diverse place and we work hard to lead by example.</p>\n\n<p>Responsibilities:</p>\n\n<p>• Analyse data and report results to help inform decision making</p>\n\n<p>• Use data insights to design and build Machine Learning algorithms</p>\n\n<p>• Design and perform experiments to test the effectiveness of products we build and actions we take</p>\n\n<p>• Mentor junior data scientists and collaborate and advise on projects</p>\n\n<p>Requirements</p>\n\n<p>At Bulb we want to hire people with the experience necessary to get going quickly, but who are also interested in learning new things and are comfortable working in a changing environment.</p>\n\n<p>We’re looking for candidates who have the following:</p>\n\n<p>• Masters/PhD or equivalent experience in a quantitative field such as Statistics, Computer Science, Applied Sciences or Operational Research</p>\n\n<p>• 5+ years experience applying Machine Learning to real-world problems</p>\n\n<p>• Comfortable coding in Python and SQL</p>\n\n<p>• Comfortable with challenging prescribed thinking</p>\n\n<p>• Exceptional communication skills, able to communicate complex ideas in a simple fashion</p>\n\n<p>Experience with cloud infrastructure (GCP, AWS, Azure) would be considered beneficial.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": true,
+      "locations": [
+        "London",
+        "Greater London",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Machine Learning"
+      ],
+      "payment": {
+        "salary": "£60k – £90k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/caroline-cansaran-1",
+        "name": "Caroline Cansaran",
+        "avatar": "https://photos.angel.co/users/7262251-medium_jpg?1513200897"
+      },
+      "refs": {
+        "angelListId": "606382",
+        "angelListUrl": "https://angel.co/company/bulb-6/jobs/606382-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Principal Software Engineer",
+      "description": "About the team\n\nBulb is here to help our members cut their energy bills and reduce their carbon emissions. Our product teams make that happen. We’re developing products that will deliver the future of energy - from using AI to read energy meters, to making carbon offsetting fun and simple, from finding out how to get the most from Smart Meter data to helping people get paid for their solar energy. We also power the sign-up journey that helped us become the fastest growing company in the UK last year and the internal tools that let us deliver a Trust Pilot score of 9 out of 10.\n\n\nRequirements\n\nAt Bulb we want to hire people with the experiences necessary to get going quickly, but who are also interested in learning new things and are comfortable working in a changing environment.\n\nExpert level knowledge in multiple technologies\nWork with CTO to define long term technical strategy, guidelines and principles, and align multiple teams spanning 20+ engineers across multiple pods\nTake ownership for large projects stretching beyond quarterly planning ensuring successful delivery, but don’t shy away from harder tactical improvements\nIdentifies and plans strategic improvements across operation of multiple pods / organisation\nHelp us hire and onboard senior and specialist roles and support the growth of engineers across multiple pods.\nBootstraps new pods ensuring technical alignment at an early stage.\n\n\nTech Stack\n\nAt Bulb we use a wide variety of technologies. While we have core technologies that we work with, we're always trying to pick the best tool for the job, and are always looking at what's on the horizon.\n\nOur stack currently includes, but is not limited to:\n\nNode, Typescript, Koa, Redux, React, React Native, Webpack, Babel, Flow, GraphQL\nCircle CI, Kubernetes, Docker and Google Cloud Platform\nIdeally, you would be familiar with these technologies or similar patterns; notably, Typescript/Javascript coupled with React is a core technology for us. But we’re more interested in your broad experience of software development than of specific tools or libraries. You should be comfortable getting up-to-speed quickly in new tools and platforms. You should be pragmatic and experienced enough to know when a different choice of technology would be more suitable, and comfortable leading explorations into new technologies.\n\n\nTeam Structure\n\nTeams at Bulb are cross-functional, self-organized and autonomous pods. The key features of this structure are:\n\nYou’ll be working within a growing cross functional team composed of specialists with backgrounds in DevOps, Engineering and Security.\nWe practice Scrum/Kanban and work lean.\nWork is not siloed, you’re able to commit across the stack, and you have a view of all the features the team are working on.\nWe use data to drive continuous improvement in our development process and we review this data in our fortnightly retrospectives.\nWe reflect the Bulby working culture.",
+      "descriptionHtml": "<p>About the team</p>\n\n<p>Bulb is here to help our members cut their energy bills and reduce their carbon emissions. Our product teams make that happen. We’re developing products that will deliver the future of energy - from using AI to read energy meters, to making carbon offsetting fun and simple, from finding out how to get the most from Smart Meter data to helping people get paid for their solar energy. We also power the sign-up journey that helped us become the fastest growing company in the UK last year and the internal tools that let us deliver a Trust Pilot score of 9 out of 10.</p>\n\n<p>Requirements</p>\n\n<p>At Bulb we want to hire people with the experiences necessary to get going quickly, but who are also interested in learning new things and are comfortable working in a changing environment.</p>\n\n<p>Expert level knowledge in multiple technologies<br>\nWork with CTO to define long term technical strategy, guidelines and principles, and align multiple teams spanning 20+ engineers across multiple pods<br>\nTake ownership for large projects stretching beyond quarterly planning ensuring successful delivery, but don’t shy away from harder tactical improvements<br>\nIdentifies and plans strategic improvements across operation of multiple pods / organisation<br>\nHelp us hire and onboard senior and specialist roles and support the growth of engineers across multiple pods.<br>\nBootstraps new pods ensuring technical alignment at an early stage.</p>\n\n<p>Tech Stack</p>\n\n<p>At Bulb we use a wide variety of technologies. While we have core technologies that we work with, we&#39;re always trying to pick the best tool for the job, and are always looking at what&#39;s on the horizon.</p>\n\n<p>Our stack currently includes, but is not limited to:</p>\n\n<p>Node, Typescript, Koa, Redux, React, React Native, Webpack, Babel, Flow, GraphQL<br>\nCircle CI, Kubernetes, Docker and Google Cloud Platform<br>\nIdeally, you would be familiar with these technologies or similar patterns; notably, Typescript/Javascript coupled with React is a core technology for us. But we’re more interested in your broad experience of software development than of specific tools or libraries. You should be comfortable getting up-to-speed quickly in new tools and platforms. You should be pragmatic and experienced enough to know when a different choice of technology would be more suitable, and comfortable leading explorations into new technologies.</p>\n\n<p>Team Structure</p>\n\n<p>Teams at Bulb are cross-functional, self-organized and autonomous pods. The key features of this structure are:</p>\n\n<p>You’ll be working within a growing cross functional team composed of specialists with backgrounds in DevOps, Engineering and Security.<br>\nWe practice Scrum/Kanban and work lean.<br>\nWork is not siloed, you’re able to commit across the stack, and you have a view of all the features the team are working on.<br>\nWe use data to drive continuous improvement in our development process and we review this data in our fortnightly retrospectives.<br>\nWe reflect the Bulby working culture.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": true,
+      "locations": [
+        "London",
+        "Greater London",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£60k – £90k",
+        "equity": "10.0% – 25.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/caroline-cansaran-1",
+        "name": "Caroline Cansaran",
+        "avatar": "https://photos.angel.co/users/7262251-medium_jpg?1513200897"
+      },
+      "refs": {
+        "angelListId": "606387",
+        "angelListUrl": "https://angel.co/company/bulb-6/jobs/606387-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Head of Growth - France",
+      "description": "Bulb launched 4 years ago in the UK and we are the fastest growing private company in the country. We are expanding internationally and are looking for the starting team who will help change the energy industry.\n\nBulb is launching in France in 2020. We believe there is a huge opportunity to make energy simpler, cheaper and greener to millions of members across the country. We are looking for someone to lead our growth team and be responsible for replicating the success we’ve seen in the UK. This will involve driving performance of existing channels, launching new channels and creatively thinking about how we can grow quickly and effectively.\n\nAt Bulb, we’re on a mission to make renewable energy available and affordable with great service to as many as possible and to help them use it wisely. We are a technology-driven company making energy simpler, cheaper, and greener.\n\n**What you’ll do**\n\n* Lead member acquisition and retention in France, reporting to the Country Manager\n* Monitor and analyse marketing performance\n* Design marketing campaigns with the central team to drive growth and brand awareness\n* Design and evaluate marketing campaign tests\n* Identify and negotiate key partnerships to drive growth.\n* Work with central teams to improve the local product and increase conversion\n* Communicate with other markets to ensure the transfer of knowledge and learnings\n\n**Requirements**\n\nAt Bulb, we want to hire self-starters who are interested in learning new things and are comfortable working in a changing environment.\n\nHere are some of the things we think will be valuable, but we're also open-minded. If you recognize yourself in any of these traits, we’d love to receive your application\n\n* You’re a self-starter with a record of exciting achievements\n* Significant track record in B2C marketing at a hyper-growth company\n* You can think creatively about non-traditional channels\n* You love to use data to inform your decision making\n* You’re passionate about both the energy community and the people in it\n* You have excellent communication and writing skills\n* You can work independently and enjoy responsibility\n* Minimum of 5 years experience, preferably in a high growth environment\n\n**Benefits**\n\n* Be part of a fast growing technology startup and help shape the future of energy in France\n* Competitive salary, share options, benefits, and other perks\n* Collaborative, flexible and friendly environment",
+      "descriptionHtml": "<p>Bulb launched 4 years ago in the UK and we are the fastest growing private company in the country. We are expanding internationally and are looking for the starting team who will help change the energy industry.</p>\n\n<p>Bulb is launching in France in 2020. We believe there is a huge opportunity to make energy simpler, cheaper and greener to millions of members across the country. We are looking for someone to lead our growth team and be responsible for replicating the success we’ve seen in the UK. This will involve driving performance of existing channels, launching new channels and creatively thinking about how we can grow quickly and effectively.</p>\n\n<p>At Bulb, we’re on a mission to make renewable energy available and affordable with great service to as many as possible and to help them use it wisely. We are a technology-driven company making energy simpler, cheaper, and greener.</p>\n\n<p><strong>What you’ll do</strong></p>\n\n<ul>\n<li>Lead member acquisition and retention in France, reporting to the Country Manager</li>\n<li>Monitor and analyse marketing performance</li>\n<li>Design marketing campaigns with the central team to drive growth and brand awareness</li>\n<li>Design and evaluate marketing campaign tests</li>\n<li>Identify and negotiate key partnerships to drive growth.</li>\n<li>Work with central teams to improve the local product and increase conversion</li>\n<li>Communicate with other markets to ensure the transfer of knowledge and learnings</li>\n</ul>\n\n<p><strong>Requirements</strong></p>\n\n<p>At Bulb, we want to hire self-starters who are interested in learning new things and are comfortable working in a changing environment.</p>\n\n<p>Here are some of the things we think will be valuable, but we&#39;re also open-minded. If you recognize yourself in any of these traits, we’d love to receive your application</p>\n\n<ul>\n<li>You’re a self-starter with a record of exciting achievements</li>\n<li>Significant track record in B2C marketing at a hyper-growth company</li>\n<li>You can think creatively about non-traditional channels</li>\n<li>You love to use data to inform your decision making</li>\n<li>You’re passionate about both the energy community and the people in it</li>\n<li>You have excellent communication and writing skills</li>\n<li>You can work independently and enjoy responsibility</li>\n<li>Minimum of 5 years experience, preferably in a high growth environment</li>\n</ul>\n\n<p><strong>Benefits</strong></p>\n\n<ul>\n<li>Be part of a fast growing technology startup and help shape the future of energy in France</li>\n<li>Competitive salary, share options, benefits, and other perks</li>\n<li>Collaborative, flexible and friendly environment</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/caroline-cansaran-1",
+        "name": "Caroline Cansaran",
+        "avatar": "https://photos.angel.co/users/7262251-medium_jpg?1513200897"
+      },
+      "refs": {
+        "angelListId": "746289",
+        "angelListUrl": "https://angel.co/company/bulb-6/jobs/746289-"
+      }
+    }
+  ]
+}

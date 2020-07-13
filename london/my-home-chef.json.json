@@ -1,0 +1,90 @@
+{
+  "name": "My Home Chef",
+  "avatar": "https://photos.angel.co/startups/i/7192144-4700788d96a35c1ed61e61481e97010a-medium_jpg.jpg?buster=1568543423",
+  "slogan": "My Home Chef is the easiest way to hire a private chef",
+  "description": "My Home Chef works with experienced chefs from around the world. This way we can provide a global food experience with chefs specialised in their cuisines.\n\nWe think that good food must be affordable for everyone, that’s why we made it. With our chefs we created some very attractive menus. If you want to impress your friends, we also have high end menus.\n\nWe made a website that is easy to use for the costumer and for the chef. We designed it with the idea that booking a chef must be as easy as ordering a pizza.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.myhomechef.uk"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.myhomechef.uk/mkt/blog/"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/MyHomeChef_uk"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/myhomechef.uk/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/11286252"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Food Tech"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO and Founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/gabriele-giuliani",
+      "name": "Gabriele Giuliani",
+      "avatar": "https://photos.angel.co/users/9992181-medium_jpg?1568541420",
+      "bioHtml": "Project engineer working for Engie (Solar Industry). Founder of My Home Chef a web portal for private chefs that aims to revolutionise the hospitality world."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7192144",
+    "angelListUrl": "https://angel.co/company/my-home-chef"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "If you are an experienced full stack developer and you want to be involved in a new ambitious project, My Home Chef is the right place to start!\n\nMy Home Chef can really become the \"uber\" of chefs! Our aim is to make this service affordable and accessible worldwide.\n\nWe are looking for a CTO that wants to join the company as co-founder looking after the website improvements and app development.\n\nWe are not requiring a full time commitment, ideally 25-30 hours per week.\n\nWe are building a solid founders team to apply for incubators and to seek new investments.\n\nVisit our website: www.myhomechef.uk",
+      "descriptionHtml": "<p>If you are an experienced full stack developer and you want to be involved in a new ambitious project, My Home Chef is the right place to start!</p>\n\n<p>My Home Chef can really become the &quot;uber&quot; of chefs! Our aim is to make this service affordable and accessible worldwide.</p>\n\n<p>We are looking for a CTO that wants to join the company as co-founder looking after the website improvements and app development.</p>\n\n<p>We are not requiring a full time commitment, ideally 25-30 hours per week.</p>\n\n<p>We are building a solid founders team to apply for incubators and to seek new investments.</p>\n\n<p>Visit our website: <a href=\"http://www.myhomechef.uk\" target=\"_blank\" rel=\"nofollow\">www.myhomechef.uk</a></p>\n",
+      "position": "cofounder",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary",
+        "equity": "5.0% – 15.0%"
+      },
+      "recruiter": {
+        "title": "CEO and Founder",
+        "role": "Founder",
+        "url": "https://angel.co/u/gabriele-giuliani",
+        "name": "Gabriele Giuliani",
+        "avatar": "https://photos.angel.co/users/9992181-medium_jpg?1568541420"
+      },
+      "refs": {
+        "angelListId": "626550",
+        "angelListUrl": "https://angel.co/company/my-home-chef/jobs/626550-"
+      }
+    }
+  ]
+}

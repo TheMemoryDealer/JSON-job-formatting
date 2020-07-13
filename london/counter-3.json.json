@@ -1,0 +1,91 @@
+{
+  "name": "Counter",
+  "avatar": "https://photos.angel.co/startups/i/6224270-dcbfeceb82b118f4b83daeed2f82733e-medium_jpg.jpg?buster=1535457801",
+  "slogan": "Bringing the instore and online shopping experience as close as they can get",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.thecounter.io"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "E-Commerce",
+    "Retail Technology"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/mohamed-seddik-chaouche",
+      "name": "Seddik Chaouche",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Co-Founder at Counter"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6224270",
+    "angelListUrl": "https://angel.co/company/counter-3"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "CTO",
+      "description": "",
+      "descriptionHtml": "",
+      "position": "cofounder",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary",
+        "equity": "25.0% – 35.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/mohamed-seddik-chaouche",
+        "name": "Seddik Chaouche",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "418802",
+        "angelListUrl": "https://angel.co/company/counter-3/jobs/418802-"
+      }
+    }
+  ]
+}

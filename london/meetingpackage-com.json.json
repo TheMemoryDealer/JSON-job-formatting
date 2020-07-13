@@ -1,0 +1,167 @@
+{
+  "name": "MeetingPackage.com",
+  "avatar": "https://photos.angel.co/startups/i/780150-b7298fe123a0b1f73c16c6eb05b2736e-medium_jpg.jpg?buster=1462260913",
+  "slogan": "Book off-site meetings in a snap!",
+  "description": "MeetingPackage.com is a venue management software-as-a-service that enables hotels and other venues to sell meeting & event spaces with online availability and dynamic pricing from their own website and in thousands of other channels globally. It's about time to bring meeting and event sales to this millennium.\n\nMeetingPackage.com - making meeting booking as easy as booking hotel rooms online.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://meetingpackage.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/meetingpackage"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/meetingpackagecom"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/meetingpackage-com"
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "Helsinki",
+    "London"
+  ],
+  "marketTags": [
+    "Hospitality",
+    "Events",
+    "Meeting Software",
+    "Marketplaces"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 3200000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1514764800,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/joonas-ahola-1",
+      "name": "Joonas Ahola",
+      "avatar": "https://photos.angel.co/users/1521115-medium_jpg?1538152832",
+      "bioHtml": "Started as an entrepreneur at the age of 14 and have founded 3 companies since. Have been working in hospitality and events for the past 8 years."
+    },
+    {
+      "title": "CFO",
+      "role": "Employee",
+      "url": "https://angel.co/u/matti-toivonen",
+      "name": "Matti Toivonen",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/susanna-koivisto",
+      "name": "Susanna Koivisto",
+      "avatar": "https://photos.angel.co/users/8416558-medium_jpg?1538200498",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/brian-garvan",
+      "name": "Brian Garvan",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "780150",
+    "angelListUrl": "https://angel.co/company/meetingpackage-com"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Backend Developer",
+      "description": "MeetingPackage is a tech company, charged with the mission to help hoteliers selling their meeting rooms with the same ease as they can sell their bedrooms. With offices in Helsinki, London, Milan, and Prague, we’re backed by Hospitality and IT industry specialists. We work with unique venues to hotel chains, independent hotels and travel agencies.\n\n\nWe are looking for a backend developer with 1 - 4 years of experience in building web application / services. We are a great place to work and our company spirit is one of a true start-up. We believe in giving a lot of responsibility and freedom to our employees. We provide flexible working hours and remote work.\n\n\n\n Your main responsibilities will be to: \n\nDesign, develop new services and improve our existing services\n\nEnsure service scalability and reliability through effective code and database design\n\nWorking with different stakeholders to understand the requirements\n\nMaintain and implementing new features for different projects\n\n Requirements: \n\nGood communication skills in English\n\nExperience of working in modern PHP\n\nExperience of working with both relational and non-relational database\n\nGood to have some experience with cloud platforms\n\nExperience of building RESTful API\n\nGood to have some experience with at least one JavaScript framework",
+      "descriptionHtml": "<p>MeetingPackage is a tech company, charged with the mission to help hoteliers selling their meeting rooms with the same ease as they can sell their bedrooms. With offices in Helsinki, London, Milan, and Prague, we’re backed by Hospitality and IT industry specialists. We work with unique venues to hotel chains, independent hotels and travel agencies.</p>\n\n<p>We are looking for a backend developer with 1 - 4 years of experience in building web application / services. We are a great place to work and our company spirit is one of a true start-up. We believe in giving a lot of responsibility and freedom to our employees. We provide flexible working hours and remote work.</p>\n\n<p>Your main responsibilities will be to: </p>\n\n<p>Design, develop new services and improve our existing services</p>\n\n<p>Ensure service scalability and reliability through effective code and database design</p>\n\n<p>Working with different stakeholders to understand the requirements</p>\n\n<p>Maintain and implementing new features for different projects</p>\n\n<p>Requirements: </p>\n\n<p>Good communication skills in English</p>\n\n<p>Experience of working in modern PHP</p>\n\n<p>Experience of working with both relational and non-relational database</p>\n\n<p>Good to have some experience with cloud platforms</p>\n\n<p>Experience of building RESTful API</p>\n\n<p>Good to have some experience with at least one JavaScript framework</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "Helsinki"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "MongoDB",
+        "RESTful Services",
+        "HTML/CSS/PHP/MYSQL",
+        "AWS/EC2/ELB/S3/DynamoDB",
+        "JSON / XML / HTML / Javascript / JQuery",
+        "Payment Gateway"
+      ],
+      "payment": {
+        "salary": "€2k – €5k"
+      },
+      "recruiter": {
+        "title": "Head of R&D",
+        "role": "Employee",
+        "url": "https://angel.co/u/himanshumittal78",
+        "name": "Himanshu Mittal",
+        "avatar": "https://photos.angel.co/users/5684758-medium_jpg?1487317705"
+      },
+      "refs": {
+        "angelListId": "462875",
+        "angelListUrl": "https://angel.co/company/meetingpackage-com/jobs/462875-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Frontend Developer(Intern)",
+      "description": "MeetingPackage is a tech company, charged with the mission to help hoteliers selling their meeting rooms with the same ease as they can sell their bedrooms. With offices in Helsinki, London, Milan, and Prague, we’re backed by Hospitality and IT industry specialists. We work with unique venues to hotel chains, independent hotels and travel agencies.\r\nWe are looking for a frontend developer who is motivated and passionate about building responsive websites using have interest in modern frameworks. We are a great place to work and our company spirit is one of a true start-up. We believe in giving a lot of responsibility and freedom to our employees. \r\n\r\n Your main responsibilities will be to: \r\n\r\nImplement the UI\r\n\r\nUse the best practices to guarantee the best quality and availability of the web applications\r\n\r\nMaintain the company UI components between different projects \r\n\r\nMaintain and implementing new features for different projects\r\n\r\n Requirements: \r\n\r\nGood communication skills in English\r\n\r\nBasic knowledge of at least one modern JavaScript framework(React, Vue or Angular)\r\n\r\nBasic knowledge of version control system",
+      "descriptionHtml": "<p>MeetingPackage is a tech company, charged with the mission to help hoteliers selling their meeting rooms with the same ease as they can sell their bedrooms. With offices in Helsinki, London, Milan, and Prague, we’re backed by Hospitality and IT industry specialists. We work with unique venues to hotel chains, independent hotels and travel agencies.<br>\nWe are looking for a frontend developer who is motivated and passionate about building responsive websites using have interest in modern frameworks. We are a great place to work and our company spirit is one of a true start-up. We believe in giving a lot of responsibility and freedom to our employees. </p>\n\n<p>Your main responsibilities will be to: </p>\n\n<p>Implement the UI</p>\n\n<p>Use the best practices to guarantee the best quality and availability of the web applications</p>\n\n<p>Maintain the company UI components between different projects </p>\n\n<p>Maintain and implementing new features for different projects</p>\n\n<p>Requirements: </p>\n\n<p>Good communication skills in English</p>\n\n<p>Basic knowledge of at least one modern JavaScript framework(React, Vue or Angular)</p>\n\n<p>Basic knowledge of version control system</p>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Helsinki"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "HTML/CSS/PHP/MYSQL",
+        "JSON / XML / HTML / Javascript / JQuery",
+        "React.js",
+        "SOAP/REST (Web Services)",
+        "Vue.Js"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "Head of R&D",
+        "role": "Employee",
+        "url": "https://angel.co/u/himanshumittal78",
+        "name": "Himanshu Mittal",
+        "avatar": "https://photos.angel.co/users/5684758-medium_jpg?1487317705"
+      },
+      "refs": {
+        "angelListId": "579055",
+        "angelListUrl": "https://angel.co/company/meetingpackage-com/jobs/579055-"
+      }
+    }
+  ]
+}

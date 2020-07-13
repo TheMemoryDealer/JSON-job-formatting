@@ -1,0 +1,99 @@
+{
+  "name": "Queue.",
+  "avatar": "https://photos.angel.co/startups/i/6320489-35418439810b9c062a9355094dc190c1-medium_jpg.jpg?buster=1537214342",
+  "slogan": "Crowdfunding for reservation system",
+  "description": "I am developing a software for businesses which works online and differently from others in the way of how the system processes.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://Not yet"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Online Reservations"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/qasem-abu-salha",
+      "name": "Qasem Abu Salha",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6320489",
+    "angelListUrl": "https://angel.co/company/queue-14"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full stack developer \"software engineer\"",
+      "description": "Take the full responsibility of the technical side of the startup project",
+      "descriptionHtml": "<p>Take the full responsibility of the technical side of the startup project</p>\n",
+      "position": "cofounder",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "iOS Development",
+        "Website Development/Design",
+        "UI/UX Design",
+        "Backend Development",
+        "Frontend Development",
+        "AWS",
+        "Android Application Development"
+      ],
+      "payment": {
+        "salary": "$50k – $100k",
+        "equity": "10.0% – 20.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/qasem-abu-salha",
+        "name": "Qasem Abu Salha",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "429546",
+        "angelListUrl": "https://angel.co/company/queue-14/jobs/429546-"
+      },
+      "postedAt": 1589658429546
+    }
+  ]
+}

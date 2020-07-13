@@ -1,0 +1,107 @@
+{
+  "name": "Waya Africa",
+  "avatar": "https://photos.angel.co/startups/i/6550410-b349b725d309a7388f89b7158edd9981-medium_jpg.jpg?buster=1541619913",
+  "slogan": "Digital Bank Focused on Europe and Africa",
+  "description": "Digital banking app",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.wayaafrica.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Enterprise Software",
+    "E-Commerce",
+    "Finance Technology"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Founder & CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/delali-anku-adiamah",
+      "name": "Delali Anku-Adiamah",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at Waya Africa, Waya Africa. Went to University of Manchester, University of Birmingham"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/delali-anku-adiamah",
+      "name": "Delali Anku-Adiamah",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at Waya Africa, Waya Africa. Went to University of Manchester, University of Birmingham"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6550410",
+    "angelListUrl": "https://angel.co/company/waya-africa"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer (Full stack)",
+      "description": "We have a front-end (iOS MVP), and looking for someone to help build the backend using an existing opensource platform. \n\nWe are an early stage startup, getting the product ready for the release by Q1 2019. You will own the development of the platform and app. \n\nStrong technical skills.",
+      "descriptionHtml": "<p>We have a front-end (iOS MVP), and looking for someone to help build the backend using an existing opensource platform. </p>\n\n<p>We are an early stage startup, getting the product ready for the release by Q1 2019. You will own the development of the platform and app. </p>\n\n<p>Strong technical skills.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "Software Development",
+        "Programming",
+        "Solutions Architecture",
+        "FinTech"
+      ],
+      "payment": {
+        "salary": "$1k – $12k",
+        "equity": "0.0% – 5.0%"
+      },
+      "recruiter": {
+        "title": "Founder & CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/delali-anku-adiamah",
+        "name": "Delali Anku-Adiamah",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "454583",
+        "angelListUrl": "https://angel.co/company/waya-africa/jobs/454583-"
+      }
+    }
+  ]
+}

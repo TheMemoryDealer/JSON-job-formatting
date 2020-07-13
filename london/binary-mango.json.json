@@ -1,0 +1,140 @@
+{
+  "name": "Binary Mango",
+  "avatar": "https://photos.angel.co/startups/i/4447968-82ac625b1c5feb9fcb609b2a04c211fe-medium_jpg.jpg?buster=1540201992",
+  "slogan": "",
+  "description": "We create apps for the world's most amazing innovators.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.binarymango.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/jacobokoenig"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Miami"
+  ],
+  "marketTags": [],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/tornike-asatiani",
+      "name": "Tornike Asatiani",
+      "avatar": "https://photos.angel.co/users/9427412-medium_jpg?1558808672",
+      "bioHtml": "London Business School MBA"
+    },
+    {
+      "title": "Director",
+      "role": "Employee",
+      "url": "https://angel.co/u/jacobo-binarymango-com",
+      "name": "Jacobo Koenig",
+      "avatar": "https://photos.angel.co/users/8135930-medium_jpg?1559071062",
+      "bioHtml": "For 5+ years, I have helped startups develop their teams and MVPs, and achieve funding and profitability. I work with people that want to make an impact."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4447968",
+    "angelListUrl": "https://angel.co/company/binary-mango"
+  },
+  "jobs": [
+    {
+      "role": "Sales",
+      "title": "Business Development Leader",
+      "description": "We are terrible at sales, but we can do some mean programming! Thus we're looking for somebody that can take Binary Mango's raw potential and knowledge and use it to prospect, work, and close new projects.\n\nThat's it! (As I said, we're terrible at sales)",
+      "descriptionHtml": "<p>We are terrible at sales, but we can do some mean programming! Thus we&#39;re looking for somebody that can take Binary Mango&#39;s raw potential and knowledge and use it to prospect, work, and close new projects.</p>\n\n<p>That&#39;s it! (As I said, we&#39;re terrible at sales)</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Sales",
+        "Sales and Marketing"
+      ],
+      "payment": {
+        "salary": "$40k – $60k"
+      },
+      "recruiter": {
+        "title": "Director",
+        "role": "Employee",
+        "url": "https://angel.co/u/jacobo-binarymango-com",
+        "name": "Jacobo Koenig",
+        "avatar": "https://photos.angel.co/users/8135930-medium_jpg?1559071062"
+      },
+      "refs": {
+        "angelListId": "647992",
+        "angelListUrl": "https://angel.co/company/binary-mango/jobs/647992-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Project Manager",
+      "description": "Hello, World..! We're looking for a self-driven, ambitious Project Manager for a series of projects that are sure to shine within your portfolio.\n\nWe're looking for someone that understands SCRUM and is really (really!) good with either Jira or Trello. Experience managing mobile developers is a huge plus!\n\nLooking forward to hearing from you, and don't forget to send over relevant experience.",
+      "descriptionHtml": "<p>Hello, World..! We&#39;re looking for a self-driven, ambitious Project Manager for a series of projects that are sure to shine within your portfolio.</p>\n\n<p>We&#39;re looking for someone that understands SCRUM and is really (really!) good with either Jira or Trello. Experience managing mobile developers is a huge plus!</p>\n\n<p>Looking forward to hearing from you, and don&#39;t forget to send over relevant experience.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "South America",
+        "United Kingdom",
+        "Central America"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "South America",
+        "United Kingdom",
+        "Central America"
+      ],
+      "skills": [
+        "Project Management",
+        "Agile",
+        "Agile methodology",
+        "Project Manager"
+      ],
+      "payment": {
+        "salary": "$10k – $15k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "Director",
+        "role": "Employee",
+        "url": "https://angel.co/u/jacobo-binarymango-com",
+        "name": "Jacobo Koenig",
+        "avatar": "https://photos.angel.co/users/8135930-medium_jpg?1559071062"
+      },
+      "refs": {
+        "angelListId": "745551",
+        "angelListUrl": "https://angel.co/company/binary-mango/jobs/745551-"
+      }
+    }
+  ]
+}

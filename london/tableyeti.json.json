@@ -1,0 +1,121 @@
+{
+  "name": "TableYeti",
+  "avatar": "https://photos.angel.co/startups/i/6915749-89b830e085448510f73863aa70ee42bb-medium_jpg.jpg?buster=1556642162",
+  "slogan": "Making restaurant payments better",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://tableyeti.com"
+    },
+    {
+      "type": "blog",
+      "url": "http://tableyeti.com/blog"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/tableyeti_com/status/1102567038080466945"
+    },
+    {
+      "type": "facebook",
+      "url": "http://facebook.com/tableyeti"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/18889638"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Europe"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/tom-allin",
+      "name": "Tom Allin",
+      "avatar": "https://photos.angel.co/users/2339337-medium_jpg?1583239890",
+      "bioHtml": "Co-Founder, TableYeti.\n\nPreviously part of the team that built Skimlinks - running the publisher commercial team from New York. "
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/oliver-pugh-87",
+      "name": "Oliver Pugh",
+      "avatar": "https://photos.angel.co/users/1386094-medium_jpg?1556641494",
+      "bioHtml": "Getting Shit Done | Entrepreneur | Mentor \n\n🚀 <a href=\"https://angel.co/company/tableyeti\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">TableYeti</span></a> \n🤓 <a href=\"https://angel.co/company/swiss-entrepreneurship-program-je-austin-associates\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Swiss Entrepreneurship Program @ JE Austin Associates</span></a>  \n😵 EarlyBird Snacks\n"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/dimitar-stojcev",
+      "name": "Dimitar Stojcev",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/martin-nedelkoski",
+      "name": "Martin Nedelkoski",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Working at <a href=\"https://angel.co/company/gsix\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">GSIX</span></a>, Faculty of Computer Science and Engineering final year student."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/teddy-pejoski",
+      "name": "Teddy Pejoski",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6915749",
+    "angelListUrl": "https://angel.co/company/tableyeti"
+  },
+  "jobs": [
+    {
+      "role": "Other Engineering",
+      "title": "Restaurant Systems and Hardware Operations",
+      "description": "**TableYeti\n\nTableYeti is changing the way we all pay in restaurants. We make the payment experience 10x better for guests, for waiters, for managers and for the planet. We’ve achieved this by turning the paper bill into a digital one, presented to the guest at the end of their meal on a refurbished iPhone 6 connected to a bluetooth card reader in a beautiful case.\n\nIt is incredible what you can do when you turn something that was once a piece of paper into something digital: think real-time feedback; simple splitting of the bill at an itemised level; payment privacy that leads to increased tips; marketing data collection and so much more.\n\nTableYeti launched in our first restaurant on March 6th 2019 and has grown significantly since. \n\nWe’re also excited by feedback we receive from our diners: of 3,500 people surveyed (immediately after they pay with TableYeti) 84% tell us that they love what we do and that paying in TableYeti restaurants is better than paying elsewhere.  \n\nIf you’re keen to join a dynamic, fast growing company with experienced founders and some incredible investors then TableYeti might just be for you. \n\n**The Role\n\nThe TableYeti Restaurant Operations team will be responsible for installing TableYeti in all new restaurant sites as well as maintaining our product installs at our existing clients. \n\nThis will involve all ordering and stock management for TableYeti devices, pre-install device prep, on site install and then ongoing system support. \n\nTravel in London and around the UK will be required. \n\nWe’re looking for somebody organised, who loves getting involved with the nuts and bolts of technology. \n\nThis role will involve you working with WiFi networks, EPOS systems, Raspberry Pi’s, printers and also some very important people: our clients and colleagues in the restaurants themselves. \n\nThe ideal candidate will have spent time unplugging, unscrewing and dismantling technology products before; they will be comfortable troubleshooting software with drivers, print servers, static IP addresses, config files and more.\n\nExperience of working with Mac OS, Windows and Linux is a must. As is working with spreadsheets for inventory management.\n\nOn top of the technical skills we also require that you are upbeat, friendly, polite and positive at all times. We love our clients and they will need to look forward to you visiting their restaurants.  \n\n**Job Offer\n\nTableYeti is a young company with big ambitions. By joining our team at this stage you have the opportunity to shape and grow the company in your image. \n\nWe have fantastic relationships with our restaurant clients and love nothing more than exploring the restaurant scene and helping exciting restaurateurs achieve their goals. \n\nIf you, like us, are passionate about restaurants, food, hospitality and sustainability and want to help change the industry for the better then TableYeti is your company.\n\n**We offer:\n\n* Competitive salary\n* Stock options - as an early employee you have the opportunity to be a significant stakeholder in the business.\n* Flexible working\n* Flexible holidays\n* Small London office, gorgeous Primrose Hill location\n* Access to some incredible restaurants\n* Autonomy to deliver results\n* Pension\n* Working directly with the founders\n\nIf you think this role is for you then please contact oliver@tableyeti.com or tom@tableyeti.com with a covering letter & CV outlining your previous experience.\n\nWe look forward to connecting with you.\n\nOliver, Tom and Team Yeti.",
+      "descriptionHtml": "<p>**TableYeti</p>\n\n<p>TableYeti is changing the way we all pay in restaurants. We make the payment experience 10x better for guests, for waiters, for managers and for the planet. We’ve achieved this by turning the paper bill into a digital one, presented to the guest at the end of their meal on a refurbished iPhone 6 connected to a bluetooth card reader in a beautiful case.</p>\n\n<p>It is incredible what you can do when you turn something that was once a piece of paper into something digital: think real-time feedback; simple splitting of the bill at an itemised level; payment privacy that leads to increased tips; marketing data collection and so much more.</p>\n\n<p>TableYeti launched in our first restaurant on March 6th 2019 and has grown significantly since. </p>\n\n<p>We’re also excited by feedback we receive from our diners: of 3,500 people surveyed (immediately after they pay with TableYeti) 84% tell us that they love what we do and that paying in TableYeti restaurants is better than paying elsewhere.  </p>\n\n<p>If you’re keen to join a dynamic, fast growing company with experienced founders and some incredible investors then TableYeti might just be for you. </p>\n\n<p>**The Role</p>\n\n<p>The TableYeti Restaurant Operations team will be responsible for installing TableYeti in all new restaurant sites as well as maintaining our product installs at our existing clients. </p>\n\n<p>This will involve all ordering and stock management for TableYeti devices, pre-install device prep, on site install and then ongoing system support. </p>\n\n<p>Travel in London and around the UK will be required. </p>\n\n<p>We’re looking for somebody organised, who loves getting involved with the nuts and bolts of technology. </p>\n\n<p>This role will involve you working with WiFi networks, EPOS systems, Raspberry Pi’s, printers and also some very important people: our clients and colleagues in the restaurants themselves. </p>\n\n<p>The ideal candidate will have spent time unplugging, unscrewing and dismantling technology products before; they will be comfortable troubleshooting software with drivers, print servers, static IP addresses, config files and more.</p>\n\n<p>Experience of working with Mac OS, Windows and Linux is a must. As is working with spreadsheets for inventory management.</p>\n\n<p>On top of the technical skills we also require that you are upbeat, friendly, polite and positive at all times. We love our clients and they will need to look forward to you visiting their restaurants.  </p>\n\n<p>**Job Offer</p>\n\n<p>TableYeti is a young company with big ambitions. By joining our team at this stage you have the opportunity to shape and grow the company in your image. </p>\n\n<p>We have fantastic relationships with our restaurant clients and love nothing more than exploring the restaurant scene and helping exciting restaurateurs achieve their goals. </p>\n\n<p>If you, like us, are passionate about restaurants, food, hospitality and sustainability and want to help change the industry for the better then TableYeti is your company.</p>\n\n<p>**We offer:</p>\n\n<ul>\n<li>Competitive salary</li>\n<li>Stock options - as an early employee you have the opportunity to be a significant stakeholder in the business.</li>\n<li>Flexible working</li>\n<li>Flexible holidays</li>\n<li>Small London office, gorgeous Primrose Hill location</li>\n<li>Access to some incredible restaurants</li>\n<li>Autonomy to deliver results</li>\n<li>Pension</li>\n<li>Working directly with the founders</li>\n</ul>\n\n<p>If you think this role is for you then please contact <a href=\"mailto:oliver@tableyeti.com\" target=\"_blank\" rel=\"nofollow\">oliver@tableyeti.com</a> or <a href=\"mailto:tom@tableyeti.com\" target=\"_blank\" rel=\"nofollow\">tom@tableyeti.com</a> with a covering letter &amp; CV outlining your previous experience.</p>\n\n<p>We look forward to connecting with you.</p>\n\n<p>Oliver, Tom and Team Yeti.</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$25k – $40k"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Founder",
+        "url": "https://angel.co/u/tom-allin",
+        "name": "Tom Allin",
+        "avatar": "https://photos.angel.co/users/2339337-medium_jpg?1583239890"
+      },
+      "refs": {
+        "angelListId": "745381",
+        "angelListUrl": "https://angel.co/company/tableyeti/jobs/745381-"
+      }
+    }
+  ]
+}

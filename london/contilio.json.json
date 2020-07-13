@@ -1,0 +1,126 @@
+{
+  "name": "Contilio",
+  "avatar": "https://photos.angel.co/startups/i/6725172-5ed7607fe02c0352cbbf32f124bcc0ca-medium_jpg.jpg?buster=1547111902",
+  "slogan": "Intelligent insights, on-track projects, real-time payments",
+  "description": "Contilio is an award-winning and venture-backed deeptech startup based out of London, UK. We use 3D AI and big data analytics to build the intelligent control room for the $12Trn construction industry and enable real-time payments. Our AI-based analytics platform turns site data into real-time insights on construction progress, performance KPIs & risks. Our predictive intelligence empowers stakeholders to eliminate problems & risks before turning into costly issues, wasting trillions in dollars. We are building the global category leader to shape the future of 3D semantic understanding for applications in construction, manufacturing, auto, etc. \n\nOur exceptional team has a unique mix of industry, startup/commercial and (deep)tech experience and is backed by a globally renowned advisory board and investors.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.contilio.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/contiliohq"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/contilio/about/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Computer Vision",
+    "Construction",
+    "B2B · SaaS · Mobile · Artificial Intelligence / Machine Learning",
+    "Big Data Analytics",
+    "Fin Tech"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/zara-riahi-1",
+      "name": "Zara Riahi",
+      "avatar": "https://photos.angel.co/users/6964848-medium_jpg?1547111009",
+      "bioHtml": "Founder+CEO@Contilio; 11ys management, entrepreneurial &amp; eng experience; MBA LBS; MSc UBC/Stanford. Board member; Engineer/PM/investor $Bn construction projects"
+    },
+    {
+      "title": "Founder and CEO",
+      "role": "Employee",
+      "url": "https://angel.co/u/zara-riahi-1",
+      "name": "Zara Riahi",
+      "avatar": "https://photos.angel.co/users/6964848-medium_jpg?1547111009",
+      "bioHtml": "Founder+CEO@Contilio; 11ys management, entrepreneurial &amp; eng experience; MBA LBS; MSc UBC/Stanford. Board member; Engineer/PM/investor $Bn construction projects"
+    },
+    {
+      "title": "Computer Vision Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/chenhsi-sung",
+      "name": "Chenhsi Sung",
+      "avatar": "https://photos.angel.co/users/8813491-medium_jpg?1548110131",
+      "bioHtml": "@software-engineer , <a href=\"https://angel.co/university-of-edinburgh\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Edinburgh</span></a> "
+    },
+    {
+      "title": "CTO",
+      "role": "Employee",
+      "url": "https://angel.co/u/andreas-glatz",
+      "name": "Andreas Glatz",
+      "avatar": "https://photos.angel.co/users/8813309-medium_jpg?1548142894",
+      "bioHtml": "Worked +12y as a software engineer (Ruggedcom, GE Power, NCTech, ArtemisIP). MSc in Biomedical Engineering and Bioinformatics, PhD in Applied Computer Vision. "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6725172",
+    "angelListUrl": "https://angel.co/company/contilio"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Head of 3D Computer Vision",
+      "description": "Contilio is a cutting-edge and fast growing deeptech startup based out of London, UK. We use 3D computer vision, deep learning and big data analytics to build the intelligent control room for the $12Trn construction industry and to enable real-time payments. Our AI-based analytics platform turns site data into real-time insights on construction progress, performance KPIs &amp; risks. Our predictive intelligence empowers stakeholders to eliminate problems and risks before turning into costly issues, wasting trillions in dollars. We are building the global category leader to shape the future of 3D semantic understanding for applications in construction, manufacturing, auto, etc.\r\n\r\nOur exceptional team has a unique mix of industry, startup/commercial and (deep)tech experience and is backed by a globally renowned advisory board and investors.\r\n\r\nWe are now looking to add a driven and growth-minded 3D Computer Vision Head to our London-based team. You will lead all computer vision and deep learning activities to architect and advance the Contilio platform, pushing the boundaries of 3D vision and delighting our Tier 1 customers. In addition, you will supervise projects with our world-class research partners and translate latest research insights into new features and products.\r\n\r\nWe are ambitious and fast growing and there is ample opportunity for growth within a high performing team, solving cutting-edge technical problems in computer vision and analytics. We are looking for driven team players who show initiative and take ownership as we are shaping the future of one of the biggest industries in the world.\r\n\r\nCompetitive salary and attractive stock options are part of the package, and we are looking for applicants who are strongly motivated by the latter and want to be a core part of our amazing journey.\r\n\r\nExperience and skills we’d love to see:\r\n-You have 5+ years’ experience in designing and implementing scalable 3D computer vision / deep-learning systems and a strong track record leading teams and projects\r\n-MSc/ PhD in 3D computer vision, machine vision, deep learning, robotics or related topics from leading universities\r\n-High proficiency in Python and generating scalable, high-quality codes and algorithms.\r\n-Familiarity with relevant computer vision libraries such as OpenCV, PCL and deep learning frameworks such as Pytorch and Tensorflow\r\n-Experience with 3D data processing (point clouds) and sensors (e.g. LiDAR, Cameras, Drones)\r\n\r\nPersonal traits we’d like to see:\r\n-You are passionate about applying your expertise to solving a massive industry problem and shaping the future of a category-leading company\r\n-You put the customers first when:\r\n--Setting ambitious goals and delivering them with highest quality\r\n--Continuously contributing ideas and solutions\r\n--Problem-solving ideas and issues together with other team members\r\n--Challenging the team to delivering best results\r\n-You have a direct communication style, good presentation skills and are a great team player who doesn’t take herself/himself too seriously\r\n\r\nAny of the following is a plus:\r\n-Previous startup experience, preferably in an Enterprise software/SaaS setting\r\n-High proficiency with other programming languages such as C/C++, Go, Ruby, javascript.\r\n-Experience with Postgres, MongoDB or other SQL/NoSQL databases\r\n-Experience deploying on AWS or Microsoft Azure using Docker, Kubernetes etc.",
+      "descriptionHtml": "<p>Contilio is a cutting-edge and fast growing deeptech startup based out of London, UK. We use 3D computer vision, deep learning and big data analytics to build the intelligent control room for the $12Trn construction industry and to enable real-time payments. Our AI-based analytics platform turns site data into real-time insights on construction progress, performance KPIs &amp; risks. Our predictive intelligence empowers stakeholders to eliminate problems and risks before turning into costly issues, wasting trillions in dollars. We are building the global category leader to shape the future of 3D semantic understanding for applications in construction, manufacturing, auto, etc.</p>\n\n<p>Our exceptional team has a unique mix of industry, startup/commercial and (deep)tech experience and is backed by a globally renowned advisory board and investors.</p>\n\n<p>We are now looking to add a driven and growth-minded 3D Computer Vision Head to our London-based team. You will lead all computer vision and deep learning activities to architect and advance the Contilio platform, pushing the boundaries of 3D vision and delighting our Tier 1 customers. In addition, you will supervise projects with our world-class research partners and translate latest research insights into new features and products.</p>\n\n<p>We are ambitious and fast growing and there is ample opportunity for growth within a high performing team, solving cutting-edge technical problems in computer vision and analytics. We are looking for driven team players who show initiative and take ownership as we are shaping the future of one of the biggest industries in the world.</p>\n\n<p>Competitive salary and attractive stock options are part of the package, and we are looking for applicants who are strongly motivated by the latter and want to be a core part of our amazing journey.</p>\n\n<p>Experience and skills we’d love to see:<br>\n-You have 5+ years’ experience in designing and implementing scalable 3D computer vision / deep-learning systems and a strong track record leading teams and projects<br>\n-MSc/ PhD in 3D computer vision, machine vision, deep learning, robotics or related topics from leading universities<br>\n-High proficiency in Python and generating scalable, high-quality codes and algorithms.<br>\n-Familiarity with relevant computer vision libraries such as OpenCV, PCL and deep learning frameworks such as Pytorch and Tensorflow<br>\n-Experience with 3D data processing (point clouds) and sensors (e.g. LiDAR, Cameras, Drones)</p>\n\n<p>Personal traits we’d like to see:<br>\n-You are passionate about applying your expertise to solving a massive industry problem and shaping the future of a category-leading company<br>\n-You put the customers first when:<br>\n--Setting ambitious goals and delivering them with highest quality<br>\n--Continuously contributing ideas and solutions<br>\n--Problem-solving ideas and issues together with other team members<br>\n--Challenging the team to delivering best results<br>\n-You have a direct communication style, good presentation skills and are a great team player who doesn’t take herself/himself too seriously</p>\n\n<p>Any of the following is a plus:<br>\n-Previous startup experience, preferably in an Enterprise software/SaaS setting<br>\n-High proficiency with other programming languages such as C/C++, Go, Ruby, javascript.<br>\n-Experience with Postgres, MongoDB or other SQL/NoSQL databases<br>\n-Experience deploying on AWS or Microsoft Azure using Docker, Kubernetes etc.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Computer Vision",
+        "Team Management",
+        "Computer Vision (3D Vision)",
+        "PCL (Point Cloud Lib)",
+        "Computer Vision (OpenCV)",
+        "Computer Vision, Deep Learning, Tensorflow, Keras, OpenCV"
+      ],
+      "payment": {
+        "salary": "£55k – £67k",
+        "equity": "1.0% – 4.0%"
+      },
+      "recruiter": {
+        "title": "Founder and CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/zara-riahi-1",
+        "name": "Zara Riahi",
+        "avatar": "https://photos.angel.co/users/6964848-medium_jpg?1547111009"
+      },
+      "refs": {
+        "angelListId": "704919",
+        "angelListUrl": "https://angel.co/company/contilio/jobs/704919-"
+      }
+    }
+  ]
+}

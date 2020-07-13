@@ -1,0 +1,123 @@
+{
+  "name": "Toucan",
+  "avatar": "https://photos.angel.co/startups/i/6771911-8d61b55df752dce0c79e4167eefb6838-medium_jpg.jpg?buster=1559745221",
+  "slogan": "We help people manage money better together with someone they trust, typically a carer",
+  "description": "Over six million people in the UK live with some kind of cognitive impairment, such as dementia or a mental health problem. Toucan helps these people share timely spending alerts or selected financial information securely with someone they trust, helping them delegate financial admin and keeping them safe.\n\nSince the team came together in March 2019, Toucan has designed, built and tested their app with members of the public, working with leading research charity The Money and Mental Health Policy Institute through Nationwide’s Open Banking for Good programme.\n\nToucan’s team are veterans of financial services and technology, having worked at Monzo, Zopa, Funding Options and more. They are now on a mission to help all banks support customers in vulnerable circumstances with safe, flexible third party access tools.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://usetoucan.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://medium.com/toucanapp"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/toucantalks"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/18973936/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Financial Services",
+    "Mental Health",
+    "Fin Tech",
+    "Personal Finance"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/evelinav",
+      "name": "Evelina Vrabie",
+      "avatar": "https://photos.angel.co/users/9553820-medium_jpg?1575658500",
+      "bioHtml": "CTO and co-founder at <a href=\"https://angel.co/company/toucan-4\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Toucan</span></a>, on a mission to build products that make peoples&#39; lives better. Previously <a href=\"https://angel.co/company/deliveroo\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Deliveroo</span></a>, <a href=\"https://angel.co/company/monitise\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Monitise</span></a> , <a href=\"https://angel.co/company/telefonica\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Telefonica</span></a>"
+    },
+    {
+      "title": "COO",
+      "role": "Founder",
+      "url": "https://angel.co/u/emily-trant",
+      "name": "Emily Trant",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/bailey-kursar",
+      "name": "Bailey Kursar",
+      "avatar": "https://photos.angel.co/users/485430-medium_jpg?1484172678",
+      "bioHtml": "Co-founder &amp; CEO, Toucan. \n\nBackground working in Product and Marketing roles in early stage FinTechs including MarketInvoice, Monzo, Zopa and Funding Options."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6771911",
+    "angelListUrl": "https://angel.co/company/toucan-4"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Backend Engineer",
+      "description": "Full details at https://usetoucan.com/careers/backend\n\nWe're Toucan. We’re on a mission to unlock everyone’s money confidence by connecting people to timely support when they need it.\n\nAt Toucan, we help banks and other regulated firms communicate with and help customers that struggle with money stress, including those who might be battling poor mental health.\n\nUsing Open Banking, we map transactions to data points which may flag distress and then act by giving the customer personalised support. This support can be sending a timely message to a friend asking them to check-in, a problem-solving chatbot, a direct line to a charity, or advice on how to speak to their bank.\n\nWe’re a team of designers and developers that put empathy first, with 40+ combined years of experience building products in companies like Monzo, Funding Options, Zopa, and Deliveroo. We draw inspiration from the stories surfaced in our customer research as well as our own personal hardships to drive our mission.\n\nIn just a few months, we have designed, built and launched an MVP app, in partnership with Open Banking for Good, academia and a leading research charity. We have proven that it has benefited people living with mental health conditions and their carers. We have exciting plans for 2020 and onwards, to make Toucan even better and available to everyone in need.\n\nWhat you'd be doing:\n\nWork and learn with us, in a friendly, open-minded, and dedicated team. Your responsibilities will include:\n\nSystem architecture design\n- Architect efficient, reliable, scalable and maintainable backend systems with clean, simple code.\n- Establish and maintain good software practices like continuous delivery, code reviews, automatic testing, quality assurance and feedback loops.\n\nHands-on development\n- Get involved in all stages of the development process: designing, implementing, testing, deploying and maintaining our codebase.\n- Be willing to solve problems as they occur and take ownership outside your immediate role when needed.\n\nCulture and mentorship\n- Propose tools and practices that increase productivity, increase software resilience and tolerance to human error.\n- Help us increase the overall team wellbeing.\n\nWhy join us:\n\n- We're still an early-stage company, so this is the best opportunity to join us and have the biggest impact in your career, building tech-for-good.\n- You’ll have full ownership of delivering the best results in your area, but will also be able to pick things up across the board and experiment.\n- As an early hire, we hope you’re looking forward to growing with us and progressing your role in shaping the future team and company culture.\n\nWho we're looking for:\n\nWe're looking for a full-time, on-site backend engineer with hands-on experience in cloud-native infrastructure with AWS or GCP, Docker, Node, Typescript. Terraform knowledge is nice to have. Knowledge of Python, Dart, Go is welcomed. \n\nYou would have previously worked with scalable architectures (e.g. microservices). Experience working in a Fintech and/or with cybersecurity and risk assessment frameworks is a plus.\n\nWhat we’d love to see from you is that:\n\n- You are empathic, skilled and driven by the desire to build something that literally changes lives for the better\n- You are able to get started from the get-go\n- You are a great collaborator and are open to and keen to offer feedback\n- You are excited about helping us create a Data Pipeline and deploy Machine Learning models in production\n\nWhat we're offering:\n\n- We are offering a very competitive salary (plus equity), in the range of £60,000 - £80,000 per year, depending on experience.\n- We also care about easing the London commute, so you can work remotely one day per week.\n\nHow to apply:\n\nIf you have any questions about this role or you’d like to apply, email your CV to tech@usetoucan.com. Please include some details about why you’d like to work with us. \n\nThe selection process is fairly flexible, a phone call, a small homework project doable in a few hours, and a follow-up on-site interview, where you get to meet our team. We are currently based in Central London (Covent Garden).\n\nUse your skills to do good! We're looking forward to hearing from you.",
+      "descriptionHtml": "<p>Full details at <a href=\"https://usetoucan.com/careers/backend\" target=\"_blank\" rel=\"nofollow\">https://usetoucan.com/careers/backend</a></p>\n\n<p>We&#39;re Toucan. We’re on a mission to unlock everyone’s money confidence by connecting people to timely support when they need it.</p>\n\n<p>At Toucan, we help banks and other regulated firms communicate with and help customers that struggle with money stress, including those who might be battling poor mental health.</p>\n\n<p>Using Open Banking, we map transactions to data points which may flag distress and then act by giving the customer personalised support. This support can be sending a timely message to a friend asking them to check-in, a problem-solving chatbot, a direct line to a charity, or advice on how to speak to their bank.</p>\n\n<p>We’re a team of designers and developers that put empathy first, with 40+ combined years of experience building products in companies like Monzo, Funding Options, Zopa, and Deliveroo. We draw inspiration from the stories surfaced in our customer research as well as our own personal hardships to drive our mission.</p>\n\n<p>In just a few months, we have designed, built and launched an MVP app, in partnership with Open Banking for Good, academia and a leading research charity. We have proven that it has benefited people living with mental health conditions and their carers. We have exciting plans for 2020 and onwards, to make Toucan even better and available to everyone in need.</p>\n\n<p>What you&#39;d be doing:</p>\n\n<p>Work and learn with us, in a friendly, open-minded, and dedicated team. Your responsibilities will include:</p>\n\n<p>System architecture design</p>\n\n<ul>\n<li>Architect efficient, reliable, scalable and maintainable backend systems with clean, simple code.</li>\n<li>Establish and maintain good software practices like continuous delivery, code reviews, automatic testing, quality assurance and feedback loops.</li>\n</ul>\n\n<p>Hands-on development</p>\n\n<ul>\n<li>Get involved in all stages of the development process: designing, implementing, testing, deploying and maintaining our codebase.</li>\n<li>Be willing to solve problems as they occur and take ownership outside your immediate role when needed.</li>\n</ul>\n\n<p>Culture and mentorship</p>\n\n<ul>\n<li>Propose tools and practices that increase productivity, increase software resilience and tolerance to human error.</li>\n<li>Help us increase the overall team wellbeing.</li>\n</ul>\n\n<p>Why join us:</p>\n\n<ul>\n<li>We&#39;re still an early-stage company, so this is the best opportunity to join us and have the biggest impact in your career, building tech-for-good.</li>\n<li>You’ll have full ownership of delivering the best results in your area, but will also be able to pick things up across the board and experiment.</li>\n<li>As an early hire, we hope you’re looking forward to growing with us and progressing your role in shaping the future team and company culture.</li>\n</ul>\n\n<p>Who we&#39;re looking for:</p>\n\n<p>We&#39;re looking for a full-time, on-site backend engineer with hands-on experience in cloud-native infrastructure with AWS or GCP, Docker, Node, Typescript. Terraform knowledge is nice to have. Knowledge of Python, Dart, Go is welcomed. </p>\n\n<p>You would have previously worked with scalable architectures (e.g. microservices). Experience working in a Fintech and/or with cybersecurity and risk assessment frameworks is a plus.</p>\n\n<p>What we’d love to see from you is that:</p>\n\n<ul>\n<li>You are empathic, skilled and driven by the desire to build something that literally changes lives for the better</li>\n<li>You are able to get started from the get-go</li>\n<li>You are a great collaborator and are open to and keen to offer feedback</li>\n<li>You are excited about helping us create a Data Pipeline and deploy Machine Learning models in production</li>\n</ul>\n\n<p>What we&#39;re offering:</p>\n\n<ul>\n<li>We are offering a very competitive salary (plus equity), in the range of £60,000 - £80,000 per year, depending on experience.</li>\n<li>We also care about easing the London commute, so you can work remotely one day per week.</li>\n</ul>\n\n<p>How to apply:</p>\n\n<p>If you have any questions about this role or you’d like to apply, email your CV to <a href=\"mailto:tech@usetoucan.com\" target=\"_blank\" rel=\"nofollow\">tech@usetoucan.com</a>. Please include some details about why you’d like to work with us. </p>\n\n<p>The selection process is fairly flexible, a phone call, a small homework project doable in a few hours, and a follow-up on-site interview, where you get to meet our team. We are currently based in Central London (Covent Garden).</p>\n\n<p>Use your skills to do good! We&#39;re looking forward to hearing from you.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Javascript",
+        "Node.js",
+        "Software Architecture",
+        "Google App Engine",
+        "Backend Development",
+        "Dart",
+        "TypeScript",
+        "Docker",
+        "Google Cloud Platform",
+        "Microservices",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "payment": {
+        "salary": "£60k – £80k",
+        "equity": "0.5% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Founder",
+        "url": "https://angel.co/u/evelinav",
+        "name": "Evelina Vrabie",
+        "avatar": "https://photos.angel.co/users/9553820-medium_jpg?1575658500"
+      },
+      "refs": {
+        "angelListId": "574365",
+        "angelListUrl": "https://angel.co/company/toucan-4/jobs/574365-"
+      }
+    }
+  ]
+}

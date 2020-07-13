@@ -1,0 +1,106 @@
+{
+  "name": "DIADEM",
+  "avatar": "https://photos.angel.co/startups/i/5379017-0da533fe234b9ffe34f2a9ce745500ca-medium_jpg.jpg?buster=1564497461",
+  "slogan": "Mobile Telecom Billing and Payment on the Blockchain",
+  "description": "Diadem provides a billing, payment, and subscriber contracting system for Mobile Network Operators (MNO) using de-centralised smart contracts on a blockchain platform. Abstracting the contract and billing mechanism from the operator’s traditional business support systems and moving it to a blockchain platform provides huge benefits for MNOs such as contract flexibility and transparency, additional security, cost reduction, and scalability.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://diadem.one"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/DiademGlobal"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/pg/diadem.one"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/diadem-one/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Lausanne"
+  ],
+  "marketTags": [
+    "Mobile Enterprise",
+    "Blockchains",
+    "Blockchain / Cryptocurrency"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Founder. CFO. CCO.",
+      "role": "Founder",
+      "url": "https://angel.co/u/aubreed",
+      "name": "Amaury Aubrée-Dauchez",
+      "avatar": "https://photos.angel.co/users/14156-medium_jpg?1536131214",
+      "bioHtml": "My credo: help to outperform. Global leader with a 26 year proven career track record in delivering business-centric solutions that achieve strategic objectives"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/matthew-armishaw",
+      "name": "Matthew Armishaw",
+      "avatar": "https://photos.angel.co/users/6910272-medium_jpg?1543486928",
+      "bioHtml": "Worked at Virgin Media. Experience with Agile, Design, Engineering. Went to De Montfort University"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5379017",
+    "angelListUrl": "https://angel.co/company/diadem-one"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "The DIADEM project will use blockchain technology to solve real problems in the mobile telecoms billing and contract space. It’s an ambitious project with huge potential to both transform the mobile telecoms sector, and to generate substantial revenue. The project is in the startup phase and we need to expand the core team to help transform the vision into a robust project.\n\nWe are seeking blockchain developers with the following skills\n\n- Experience developing blockchain software and smart contracts\n- Knowledge of HyperLedger and Ethereum development\n- Experience with developing software more broadly\n\nThe project is not funded at this time so initially you will need to be prepared to devote time to the project in return for an eventual share of token equity. Once the project is funded a salary will be provided.\n\nThis is a great opportunity to get in at the start with a project with real-world tangible application and massive scope for development, so please get in touch if you like to come on-board.",
+      "descriptionHtml": "<p>The DIADEM project will use blockchain technology to solve real problems in the mobile telecoms billing and contract space. It’s an ambitious project with huge potential to both transform the mobile telecoms sector, and to generate substantial revenue. The project is in the startup phase and we need to expand the core team to help transform the vision into a robust project.</p>\n\n<p>We are seeking blockchain developers with the following skills</p>\n\n<ul>\n<li>Experience developing blockchain software and smart contracts</li>\n<li>Knowledge of HyperLedger and Ethereum development</li>\n<li>Experience with developing software more broadly</li>\n</ul>\n\n<p>The project is not funded at this time so initially you will need to be prepared to devote time to the project in return for an eventual share of token equity. Once the project is funded a salary will be provided.</p>\n\n<p>This is a great opportunity to get in at the start with a project with real-world tangible application and massive scope for development, so please get in touch if you like to come on-board.</p>\n",
+      "position": "cofounder",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Telecommunications",
+        "Blockchain",
+        "HyperLedger",
+        "Hyperledger Fabric"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "0.5% – 3.0%"
+      },
+      "recruiter": {
+        "title": "Founder. CFO. CCO.",
+        "role": "Founder",
+        "url": "https://angel.co/u/aubreed",
+        "name": "Amaury Aubrée-Dauchez",
+        "avatar": "https://photos.angel.co/users/14156-medium_jpg?1536131214"
+      },
+      "refs": {
+        "angelListId": "552774",
+        "angelListUrl": "https://angel.co/company/diadem-one/jobs/552774-"
+      }
+    }
+  ]
+}

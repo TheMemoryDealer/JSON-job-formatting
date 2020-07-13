@@ -1,0 +1,99 @@
+{
+  "name": "Neritic",
+  "avatar": "https://photos.angel.co/startups/i/6717947-febb58eca1ea29aab23f1520e97bd859-medium_jpg.jpg?buster=1577559686",
+  "slogan": "A scientific approach to your technology",
+  "description": "We are building a platform for companies to sell their financial research as well as their market data to the wider public",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.neritic.io"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Big Data",
+    "Fin Tech"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/bachir-djelmami-hani-1",
+      "name": "Bachir Djelmami-hani",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "CEO",
+      "role": "Employee",
+      "url": "https://angel.co/u/bachir-djelmami-hani-1",
+      "name": "Bachir Djelmami-hani",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6717947",
+    "angelListUrl": "https://angel.co/company/neritic"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Remote Full stack developer",
+      "description": "A Young and inspiring startup is looking for a  remote Python Full stack developer.\n\nOur exciting company is dealing in the procurement and social enterprise space and is looking forward to develop its core technology.\nAs we're still in our early stages joining us will give you the opportunity to truly have an immense influence and impact on the company.\nIn terms of values we deeply appreciate creativity, technical abilities but also great communication skills\n\nThe project is completely greenfield as will be based around the below technologies and will therefore be a hard requirement for the role:\n\nGithub\nPostgres SQL\nDjango (2.0+)\nReact\nTypescript\nAWS\nIn terms of programming languages:\n\nPython\nJavascript\nSQL",
+      "descriptionHtml": "<p>A Young and inspiring startup is looking for a  remote Python Full stack developer.</p>\n\n<p>Our exciting company is dealing in the procurement and social enterprise space and is looking forward to develop its core technology.<br>\nAs we&#39;re still in our early stages joining us will give you the opportunity to truly have an immense influence and impact on the company.<br>\nIn terms of values we deeply appreciate creativity, technical abilities but also great communication skills</p>\n\n<p>The project is completely greenfield as will be based around the below technologies and will therefore be a hard requirement for the role:</p>\n\n<p>Github<br>\nPostgres SQL<br>\nDjango (2.0+)<br>\nReact<br>\nTypescript<br>\nAWS<br>\nIn terms of programming languages:</p>\n\n<p>Python<br>\nJavascript<br>\nSQL</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$5k – $9k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/bachir-djelmami-hani-1",
+        "name": "Bachir Djelmami-hani",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "743150",
+        "angelListUrl": "https://angel.co/company/neritic/jobs/743150-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "name": "fieldmargin",
+  "avatar": "https://photos.angel.co/startups/i/837893-d2decbd9f3233719d38ac2206dcd579c-medium_jpg.jpg?buster=1509111789",
+  "slogan": "",
+  "description": "fieldmargin is a mobile-first, design-led and cloud-based mapping and note recording system, specifically developed in response to industry-wide frustrations with the antiquated and expensive solutions already on offer.\n\nIn the UK, 71% of land is farmland, farming employs almost 500,000 people and yet most software for farmers is delivered on compact disc and data is held locally on desktop machines. Globally, 1.4bn people are directly employed in the agriculture industry.\n\nWe will allow farmers to integrate their drone photography, satellite imagery, historical paper maps, IoT sensors and machinery, to fully understand what’s happening on their farms.\n\nIn the next 40 years the world will have to produce more food than it has done in the previous 8000. We are doing something in an enormous industry, we are doing something hard, and if we get it right the world will benefit.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.fieldmargin.com"
+    },
+    {
+      "type": "blog",
+      "url": "http://blog.fieldmargin.com"
+    },
+    {
+      "type": "twitter",
+      "url": "http://www.twitter.com/fieldmargin"
+    },
+    {
+      "type": "facebook",
+      "url": "http://www.facebook.com/fieldmargin"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/fieldmargin"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Agriculture",
+    "Farming",
+    "Mobile Application",
+    "Software"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/mark-faure-walker",
+      "name": "mark faure walker",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "CEO Co-founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/racarter",
+      "name": "Rob Carter",
+      "avatar": "https://photos.angel.co/users/87883-medium_jpg?1442319773",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/fieldmargin\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">fieldmargin</span></a>, <a href=\"https://angel.co/company/atheist-shoes\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Atheist Shoes</span></a> • Worked at <a href=\"https://angel.co/company/bookingbug\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">JRNI, formerly BookingBug</span></a>, <a href=\"https://angel.co/company/pact-coffee\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Pact Coffee</span></a> "
+    },
+    {
+      "title": "UX Designer",
+      "role": "Employee",
+      "url": "https://angel.co/u/claudia-fialho",
+      "name": "Claudia Fialho",
+      "avatar": "https://photos.angel.co/users/990282-medium_jpg?1422629811",
+      "bioHtml": "More than 6 years working as an UI/UX designer with skills to explore the responsive design and mobile app."
+    },
+    {
+      "title": "Head of Product/Marketing",
+      "role": "Employee",
+      "url": "https://angel.co/u/camilla-hayselden-ashby",
+      "name": "Camilla Hayselden-Ashby",
+      "avatar": "https://photos.angel.co/users/2081126-medium_jpg?1458855336",
+      "bioHtml": "Product Management at fieldmargin, Agriculture expert, ex-Marketing Strategist"
+    },
+    {
+      "title": "iOS Lead Developer",
+      "role": "Employee",
+      "url": "https://angel.co/u/lluis-gerard-lopez",
+      "name": "Lluis Gerard Lopez",
+      "avatar": "https://photos.angel.co/users/284819-medium_jpg?1405572682",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [
+    {
+      "category": "work_from_home",
+      "title": "Work from home policy"
+    },
+    {
+      "category": "retirement",
+      "title": "Retirement benefits"
+    },
+    {
+      "category": "wellness",
+      "title": "Wellness benefits"
+    },
+    {
+      "category": "equity",
+      "title": "Equity benefits"
+    }
+  ],
+  "refs": {
+    "angelListId": "837893",
+    "angelListUrl": "https://angel.co/company/fieldmargin"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Web & APIs developer (React, TypeScript, Java)",
+      "description": "fieldmargin is helping farmers make better and quicker decisions by getting them the information they need when they need it.\n\nOur web product allows a farmer to see an overview of everything happening on the farm, including the positioning of their vehicles, the temperature of their grain store and the performance of their crops.\n\nWe’re building public APIs that will allow other products and services in the agriculture industry to connect to fieldmargin, in order to share maps, field boundaries, sensor readings and much more.\n\nWe're looking for a mid-level developer to join our Web & APIs team, who will be tasked with:\n\n- building the React web application that forms the core of our product, written in TypeScript with the latest technologies\n- creating integrations to pull data in from our partners\n- designing and building the public APIs that make it easy for third parties to connect to us\n- working full stack with the most appropriate tools for the job\n\nWe have React powered web applications, native iOS and Android applications and a Java/Spring backend. We use Python for small services and for prototyping. Everything is hosted in Google Cloud / AWS with a Kubernetes powered micro-services architecture.\n\n\nABOUT YOU\n\nCandidates should be familiar with creating production-ready React web applications and have a good understanding of the web. TypeScript can be learnt on the job. Knowledge of Java and Spring is a bonus.\n\nAs a start-up we work in a dynamic environment where new projects and functionality can pop up at any moment. We’re looking for candidates that enjoy working with new technologies in order to solve interesting user experience and data problems.\n\nThere is also an opportunity to take on the responsibility of a whole project, liaising directly with our partners, designing our tools, and releasing to production.\n\n\nABOUT FIELDMARGIN\n\nThe product has generated considerable early interest and has been used by farmers worldwide. The two co-founders have grown several successful multi-million pound businesses between them. Our team of 10 is based in lovely offices in Clerkenwell, with excellent local amenities.\n\nWe are a very friendly team, we eat together and often play board games. We work reasonable hours and also offer equity, private healthcare and pension.\n\nNo remote workers and absolutely no agencies or recruiters.",
+      "descriptionHtml": "<p>fieldmargin is helping farmers make better and quicker decisions by getting them the information they need when they need it.</p>\n\n<p>Our web product allows a farmer to see an overview of everything happening on the farm, including the positioning of their vehicles, the temperature of their grain store and the performance of their crops.</p>\n\n<p>We’re building public APIs that will allow other products and services in the agriculture industry to connect to fieldmargin, in order to share maps, field boundaries, sensor readings and much more.</p>\n\n<p>We&#39;re looking for a mid-level developer to join our Web &amp; APIs team, who will be tasked with:</p>\n\n<ul>\n<li>building the React web application that forms the core of our product, written in TypeScript with the latest technologies</li>\n<li>creating integrations to pull data in from our partners</li>\n<li>designing and building the public APIs that make it easy for third parties to connect to us</li>\n<li>working full stack with the most appropriate tools for the job</li>\n</ul>\n\n<p>We have React powered web applications, native iOS and Android applications and a Java/Spring backend. We use Python for small services and for prototyping. Everything is hosted in Google Cloud / AWS with a Kubernetes powered micro-services architecture.</p>\n\n<p>ABOUT YOU</p>\n\n<p>Candidates should be familiar with creating production-ready React web applications and have a good understanding of the web. TypeScript can be learnt on the job. Knowledge of Java and Spring is a bonus.</p>\n\n<p>As a start-up we work in a dynamic environment where new projects and functionality can pop up at any moment. We’re looking for candidates that enjoy working with new technologies in order to solve interesting user experience and data problems.</p>\n\n<p>There is also an opportunity to take on the responsibility of a whole project, liaising directly with our partners, designing our tools, and releasing to production.</p>\n\n<p>ABOUT FIELDMARGIN</p>\n\n<p>The product has generated considerable early interest and has been used by farmers worldwide. The two co-founders have grown several successful multi-million pound businesses between them. Our team of 10 is based in lovely offices in Clerkenwell, with excellent local amenities.</p>\n\n<p>We are a very friendly team, we eat together and often play board games. We work reasonable hours and also offer equity, private healthcare and pension.</p>\n\n<p>No remote workers and absolutely no agencies or recruiters.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Java",
+        "Javascript",
+        "Web Development",
+        "React.js"
+      ],
+      "payment": {
+        "salary": "£40k – £60k",
+        "equity": "0.0% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/tomhughenice",
+        "name": "Tom Hughes",
+        "avatar": "https://photos.angel.co/users/2056512-medium_jpg?1486126865"
+      },
+      "refs": {
+        "angelListId": "286042",
+        "angelListUrl": "https://angel.co/company/fieldmargin/jobs/286042-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "iOS Developer",
+      "description": "fieldmargin is helping farmers make better and quicker decisions by getting them the information they need when they need it.\n\nOur native Android and iOS apps allow farmers to interact with their farm while out in the field; taking notes, communicating with their teams and tracking what needs to be done.\n\nYou’ll be part of our mobile team, working alongside another iOS developer and an Android developer. You’ll work with product, design, and backend engineers to implement new functionality and refine the existing experience.\n\nThe app works offline, using a Realm database to store farm information locally. We make heavy use of Google Maps for visualising the farm and use Firebase for real-time communication.\n\nWe have React powered web applications, native iOS and Android applications and a Java/Spring backend. We use Python for small services and for prototyping. Everything is hosted in Google Cloud with a Kubernetes powered micro-services architecture.\n\n\nABOUT YOU\n\nCandidates should be familiar with creating production-ready iOS applications and have a good understanding of the web. \n\nExperience of the following are important:\n\n- Swift 5\n- RxSwift\n- Database driven apps Realm/CoreData\n- MVVM patterns\n- Maps SDKs\n\nThe following experience would desirable:\n\n- Realm\n- Autolayout and coding UI without Interface Builder\n- RxMoya\n- Google Maps SDK\n- Fastlane\n- Alamofire\n\n\nAs a start-up we work in a dynamic environment where new projects and functionality can pop up at any moment. We’re looking for candidates that enjoy working on a product with a big vision and worldwide user base.\n\n\nABOUT FIELDMARGIN\n\nThe product has generated considerable early interest and has been used by farmers worldwide. The two co-founders have grown several successful multi-million pound businesses between them. Our team of 10 is based in lovely offices in Clerkenwell, with excellent local amenities.\n\nWe are a very friendly team, we eat together and often play board games. We work reasonable hours and also offer equity, private healthcare and pension.\n\nNo remote workers and absolutely no agencies or recruiters.\n\nCandidates should already be based in the UK and able to work full-time in London.",
+      "descriptionHtml": "<p>fieldmargin is helping farmers make better and quicker decisions by getting them the information they need when they need it.</p>\n\n<p>Our native Android and iOS apps allow farmers to interact with their farm while out in the field; taking notes, communicating with their teams and tracking what needs to be done.</p>\n\n<p>You’ll be part of our mobile team, working alongside another iOS developer and an Android developer. You’ll work with product, design, and backend engineers to implement new functionality and refine the existing experience.</p>\n\n<p>The app works offline, using a Realm database to store farm information locally. We make heavy use of Google Maps for visualising the farm and use Firebase for real-time communication.</p>\n\n<p>We have React powered web applications, native iOS and Android applications and a Java/Spring backend. We use Python for small services and for prototyping. Everything is hosted in Google Cloud with a Kubernetes powered micro-services architecture.</p>\n\n<p>ABOUT YOU</p>\n\n<p>Candidates should be familiar with creating production-ready iOS applications and have a good understanding of the web. </p>\n\n<p>Experience of the following are important:</p>\n\n<ul>\n<li>Swift 5</li>\n<li>RxSwift</li>\n<li>Database driven apps Realm/CoreData</li>\n<li>MVVM patterns</li>\n<li>Maps SDKs</li>\n</ul>\n\n<p>The following experience would desirable:</p>\n\n<ul>\n<li>Realm</li>\n<li>Autolayout and coding UI without Interface Builder</li>\n<li>RxMoya</li>\n<li>Google Maps SDK</li>\n<li>Fastlane</li>\n<li>Alamofire</li>\n</ul>\n\n<p>As a start-up we work in a dynamic environment where new projects and functionality can pop up at any moment. We’re looking for candidates that enjoy working on a product with a big vision and worldwide user base.</p>\n\n<p>ABOUT FIELDMARGIN</p>\n\n<p>The product has generated considerable early interest and has been used by farmers worldwide. The two co-founders have grown several successful multi-million pound businesses between them. Our team of 10 is based in lovely offices in Clerkenwell, with excellent local amenities.</p>\n\n<p>We are a very friendly team, we eat together and often play board games. We work reasonable hours and also offer equity, private healthcare and pension.</p>\n\n<p>No remote workers and absolutely no agencies or recruiters.</p>\n\n<p>Candidates should already be based in the UK and able to work full-time in London.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Google Maps Sdk",
+        "RxSwift",
+        "Swift 5.0"
+      ],
+      "payment": {
+        "salary": "£40k – £60k",
+        "equity": "0.0% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/tomhughenice",
+        "name": "Tom Hughes",
+        "avatar": "https://photos.angel.co/users/2056512-medium_jpg?1486126865"
+      },
+      "refs": {
+        "angelListId": "244499",
+        "angelListUrl": "https://angel.co/company/fieldmargin/jobs/244499-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "name": "Blackchain International",
+  "avatar": "https://photos.angel.co/startups/i/7437703-2880e49ce13dfaf26ce052ba8d350d5f-medium_jpg.jpg?buster=1579773835",
+  "slogan": "Enabling the mass adoption of Blockchain, A.I., and Crypto",
+  "description": "Blackchain helps your idea take shape and become top of the market in your niche. Best quality advisory services. Fast growth hacking results and 360° assistance. Blackchain is the team you'd want to have by your side!",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.blackchain.guru"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": "https://m.facebook.com/blackchainguru/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/mwlite/company/blackchainguru"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Consulting",
+    "Innovation Management",
+    "Disruptive Models"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 10000000,
+    "rounds": [
+      {
+        "type": "Series B",
+        "closedAt": 1572566400,
+        "valuation": 0
+      },
+      {
+        "type": "Series A",
+        "closedAt": 1559347200,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/giacomo-arcaro",
+      "name": "Giacomo Arcaro",
+      "avatar": "https://photos.angel.co/users/352778-medium_jpg?1537269916",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/giovanni-casagrande-1",
+      "name": "Giovanni Casagrande",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/eloisa-marchesoni",
+      "name": "Eloisa Marchesoni",
+      "avatar": "https://photos.angel.co/users/10532236-medium_jpg?1579773327",
+      "bioHtml": "Co-Founder of Blackchain. Studied <a href=\"https://angel.co/bocconi-university\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Bocconi University</span></a> of Milan, Italy."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7437703",
+    "angelListUrl": "https://angel.co/company/blackchain-international"
+  },
+  "jobs": [
+    {
+      "role": "Operations",
+      "title": "Private  Chef & Nutritionist",
+      "description": "We’re looking for passionate chefs who share in our vision in living a healthy lifestyle. As a personal chef at Blackchain, you’ll be responsible for creating menus for us and our clients based on our food preferences and dietary needs, grocery shopping, in-home food preparation, packaging and kitchen cleanup around the World with us.",
+      "descriptionHtml": "<p>We’re looking for passionate chefs who share in our vision in living a healthy lifestyle. As a personal chef at Blackchain, you’ll be responsible for creating menus for us and our clients based on our food preferences and dietary needs, grocery shopping, in-home food preparation, packaging and kitchen cleanup around the World with us.</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": true,
+      "locations": [
+        "Rome",
+        "Milan"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Chef",
+        "Nutrition Coaching",
+        "Sports Nutrition and Fitness"
+      ],
+      "payment": {
+        "salary": "$70k – $100k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/giacomo-arcaro",
+        "name": "Giacomo Arcaro",
+        "avatar": "https://photos.angel.co/users/352778-medium_jpg?1537269916"
+      },
+      "refs": {
+        "angelListId": "711498",
+        "angelListUrl": "https://angel.co/company/blackchain-international/jobs/711498-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "name": "Third Way Legal",
+  "avatar": "https://photos.angel.co/startups/i/5733286-cddc3e2cbb543f925f6159d24629f8b2-medium_jpg.jpg?buster=1526298310",
+  "slogan": "Marketplace networking & recruiting platform for the legal industry",
+  "description": "Third Way is a unique, online network, where top lawyers can confidentially see which firms are looking for candidates with their experience.\n\nOnly lawyers with suitable experience are give access to the platform, in the form of a user account.  Once they have signed in, they can view jobs at firms matched to them by various criteria.  These jobs will either be posted by the Third Way team, or directly by employers who are looking to avoid agency fees.  All of them are branded and we have signed up most of the top law firms and a great selection of financial institutions and major corporations.\n\nOur mission is to use technology to create a smarter way for lawyers to engage with the jobs market, taking on the traditional recruitment agencies, who currently rely on anonymous job board / social media postings or  teams of inexperienced juniors to cold call big lists of potential candidates.\n\nWe use C# programming language for the back end and ASP.NET for the front end.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.thirdway.pro"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Marketplaces",
+    "Recruiting",
+    "Legal",
+    "Professional Networking"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/tom-balmer-1",
+      "name": "Tom Balmer",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/third-way-legal-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Third Way Legal</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5733286",
+    "angelListUrl": "https://angel.co/company/third-way-legal-1"
+  },
+  "jobs": [
+    {
+      "role": "Marketing",
+      "title": "Marketing Executive",
+      "description": "We are looking for an experienced marketing professional with experience in designing and managing digital marketing campaigns, as well working with offline, traditional marketing channels. The role requires someone to work effectively at a day to-day level whilst also provide planning and direction in terms of growing the marketing function within the business.\n\nPrinciple duties, responsibilities and accountabilities\n• Manage our core digital marketing channels, specifically;\n   LinkedIn,Facebook\n• Design and report on effectiveness of marketing channels, via; \n   GoogleAnalytics & Supermetrics\n• Manage the cold & warm email marketing campaigns via;\n   Mailchimp, Customer.io, Salesforce, GMass\n• Create content for ad campaigns / Commission content from third parties\n   Including using Adobe Creative Suite, Canva, Indesign or similar\n• Measuring & reporting ROI from traditional job boards\n• Input into the development of the Third Way brand (and that of sister business Montresor Legal)\n• Design marketing initiatives for the launch of new site features and business lines.\n• Identifying areas for improvement and implementing ideas effectively and on-budget\n• Event planning and management",
+      "descriptionHtml": "<p>We are looking for an experienced marketing professional with experience in designing and managing digital marketing campaigns, as well working with offline, traditional marketing channels. The role requires someone to work effectively at a day to-day level whilst also provide planning and direction in terms of growing the marketing function within the business.</p>\n\n<p>Principle duties, responsibilities and accountabilities<br>\n• Manage our core digital marketing channels, specifically;<br>\n   LinkedIn,Facebook<br>\n• Design and report on effectiveness of marketing channels, via; <br>\n   GoogleAnalytics &amp; Supermetrics<br>\n• Manage the cold &amp; warm email marketing campaigns via;<br>\n   Mailchimp, Customer.io, Salesforce, GMass<br>\n• Create content for ad campaigns / Commission content from third parties<br>\n   Including using Adobe Creative Suite, Canva, Indesign or similar<br>\n• Measuring &amp; reporting ROI from traditional job boards<br>\n• Input into the development of the Third Way brand (and that of sister business Montresor Legal)<br>\n• Design marketing initiatives for the launch of new site features and business lines.<br>\n• Identifying areas for improvement and implementing ideas effectively and on-budget<br>\n• Event planning and management</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Facebook Advertising",
+        "Email Marketing",
+        "Social Media Marketing",
+        "Adobe Creative Suite",
+        "Digital Marketing",
+        "Google Analytics",
+        "Salesforce",
+        "Linkedin Marketing",
+        "Traditional Marketing",
+        "Mailchimp"
+      ],
+      "payment": {
+        "salary": "£30k – £40k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/tom-balmer-1",
+        "name": "Tom Balmer",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "483888",
+        "angelListUrl": "https://angel.co/company/third-way-legal-1/jobs/483888-"
+      }
+    }
+  ]
+}

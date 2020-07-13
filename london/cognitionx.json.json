@@ -1,0 +1,440 @@
+{
+  "name": "CognitionX",
+  "avatar": "https://photos.angel.co/startups/i/1027255-d7f4ac7b6ad5d8ab148e60ec6fb6f904-medium_jpg.jpg?buster=1572880816",
+  "slogan": "Your Knowledge Network",
+  "description": "CognitionX is a global leader in AI and emerging technology. Its mission is to bring clarity to, and accelerate adoption of AI across all organisations from global enterprises to startups, and help ensure a safe and responsible transition to an AI-driven society. The Knowledge Network provides a completely new way of accessing expert advice on AI - that is simple, fast and affordable.\n\nWith AI changing everything and every organisation, companies of all sizes need to form an AI strategy and get on with deployment. But the current options of consultants are expensive and slow, and searching the web for answers immediately becomes a project.\nThe free, public version of the Knowledge Network empowers users to immediately access a global network of AI experts, on-demand, while the Enterprise edition also enables large firms to capitalise on internal expertise.\n\nThe company is headquartered in a vibrant startup accelerator, right in the heart of Soho.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://cognitionx.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@cognition_x"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/cognitionx1"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://uk.linkedin.com/company/cognitionx"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Big Data Analytics",
+    "Cloud Data Services",
+    "Technology",
+    "Marketplace"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/p/charlie-muirhead",
+      "name": "Charlie Muirhead",
+      "avatar": "https://photos.angel.co/users/2722291-medium_jpg?1468821164",
+      "bioHtml": "Founder &amp; CEO CognitionX AI Advice Platform &amp; CogX the Festival of AI, Blockchain and Emerging Tech. Founded Orchestream, Nexagent &amp; Rightster. Imperial College"
+    },
+    {
+      "title": "Co Founder",
+      "role": "Founder",
+      "url": "https://angel.co/p/tabitha-goldstaub",
+      "name": "Tabitha Goldstaub",
+      "avatar": "https://photos.angel.co/users/211432-medium_jpg?1437116466",
+      "bioHtml": "Product Person - Data, B2B, marketplaces, media, startups, tech - CoFounder ProjectPlaced and CognitionX. Previously Co Founder Rightster"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/luis-glaeser-2",
+      "name": "Luis Glaeser",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/bel-merid",
+      "name": "Bel Merid",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/laura-chavez-9",
+      "name": "Laura Chavez",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "1027255",
+    "angelListUrl": "https://angel.co/company/cognitionx"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Front End Developer - React/Redux/JavaScript (Mid-Senior)",
+      "description": "CognitionX is looking to hire an ambitious, passionate and brilliant Senior Front End Developer to join our growing Front End team and help deliver the web interface for our Directory of All Things AI.  \n\nWe are moving towards a fully API driven Back End with a Front End that is currently built using React and Redux. Specifically we are looking for someone to build new features to support the Data Science capability we are developing, to be the go to person for all things React and Front End in the engineering team as well as improve the current web interface alongside the rest of the engineering team. \n\nCognitionX is a Market Intelligence Platform and Community for all things Artificial Intelligence (AI), which means we are at the cutting edge of AI and Machine Learning knowledge. We provide clarity to the world of AI by enabling users to find the right resources to solve their challenges in one place. Our community brings together leading data experts, software developers, hardware providers, researchers and businesses looking to apply data-driven techniques to their organisation.\n\nAs with all great startups, this is a critical, hands on role. It will provide the opportunity to work directly with the CEO and founding team, and will have visibility and input across the whole business as it grows.\n\nCurrently the business is based in London but it expects to expand to all key global markets within the next 2 years. The London office is in the impressive 20 Air Street facility that amongst others houses Twitter and Telefonica. It’s located in the heart of Soho with all the theatres, cafes, restaurants, bars, clubs and gyms within a 5 minute walk.\n\nResponsibilities:\n- Defining the new front end features alongside the product team\n- Identifying appropriate opportunities for refactoring/reworking code as appropriate and adding to the backlog\n- Liaising with the Back End team to manage work flows and syncing up work during sprints\n- Working with Back End and UX designers to develop and deliver new front end features\n- Developing front end JavaScript and HTML code specifically React and Redux\n- Creating and enhancing our test infrastructure for our front end solution\n- Integrating with our Back End API running on Heroku and developed in Python/Django and PostgreSQL database\n- Integrating with third party analytics tools and other third party APIs\n- Integrating with CI/CD tools such as Codeship, Github and others\n- Defining architecture and choosing tools with other team members for our solution\n- Working as an effective member within our agile/scrum based environment\n- Being part of the support process for the startup\n\nExpected Technical Skills: \n- JavaScript, React + Redux, webpack\n- Git, Github, Codeship\n\nDesired Technical Skills: \n- Heroku and Heroku pipelines\n- Python/Django\n- AWS \n- SQL (PostgreSQL)\n\nIf you’re the person who loves AI, Machine learning & Data science and how this is changing the world, we would love to hear from you.",
+      "descriptionHtml": "<p>CognitionX is looking to hire an ambitious, passionate and brilliant Senior Front End Developer to join our growing Front End team and help deliver the web interface for our Directory of All Things AI.  </p>\n\n<p>We are moving towards a fully API driven Back End with a Front End that is currently built using React and Redux. Specifically we are looking for someone to build new features to support the Data Science capability we are developing, to be the go to person for all things React and Front End in the engineering team as well as improve the current web interface alongside the rest of the engineering team. </p>\n\n<p>CognitionX is a Market Intelligence Platform and Community for all things Artificial Intelligence (AI), which means we are at the cutting edge of AI and Machine Learning knowledge. We provide clarity to the world of AI by enabling users to find the right resources to solve their challenges in one place. Our community brings together leading data experts, software developers, hardware providers, researchers and businesses looking to apply data-driven techniques to their organisation.</p>\n\n<p>As with all great startups, this is a critical, hands on role. It will provide the opportunity to work directly with the CEO and founding team, and will have visibility and input across the whole business as it grows.</p>\n\n<p>Currently the business is based in London but it expects to expand to all key global markets within the next 2 years. The London office is in the impressive 20 Air Street facility that amongst others houses Twitter and Telefonica. It’s located in the heart of Soho with all the theatres, cafes, restaurants, bars, clubs and gyms within a 5 minute walk.</p>\n\n<p>Responsibilities:</p>\n\n<ul>\n<li>Defining the new front end features alongside the product team</li>\n<li>Identifying appropriate opportunities for refactoring/reworking code as appropriate and adding to the backlog</li>\n<li>Liaising with the Back End team to manage work flows and syncing up work during sprints</li>\n<li>Working with Back End and UX designers to develop and deliver new front end features</li>\n<li>Developing front end JavaScript and HTML code specifically React and Redux</li>\n<li>Creating and enhancing our test infrastructure for our front end solution</li>\n<li>Integrating with our Back End API running on Heroku and developed in Python/Django and PostgreSQL database</li>\n<li>Integrating with third party analytics tools and other third party APIs</li>\n<li>Integrating with CI/CD tools such as Codeship, Github and others</li>\n<li>Defining architecture and choosing tools with other team members for our solution</li>\n<li>Working as an effective member within our agile/scrum based environment</li>\n<li>Being part of the support process for the startup</li>\n</ul>\n\n<p>Expected Technical Skills: </p>\n\n<ul>\n<li>JavaScript, React + Redux, webpack</li>\n<li>Git, Github, Codeship</li>\n</ul>\n\n<p>Desired Technical Skills: </p>\n\n<ul>\n<li>Heroku and Heroku pipelines</li>\n<li>Python/Django</li>\n<li>AWS </li>\n<li>SQL (PostgreSQL)</li>\n</ul>\n\n<p>If you’re the person who loves AI, Machine learning &amp; Data science and how this is changing the world, we would love to hear from you.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Javascript",
+        "SQL",
+        "Django",
+        "Git",
+        "PostgreSQL",
+        "Github",
+        "REST",
+        "React.js",
+        "AWS",
+        "CodeShip",
+        "Redux",
+        "RESTful API",
+        "postgres"
+      ],
+      "payment": {
+        "salary": "£60k – £80k",
+        "equity": "0.0% – 0.5%"
+      },
+      "recruiter": {
+        "title": "Head of Engineering ",
+        "role": "Employee",
+        "url": "https://angel.co/u/tonysolon",
+        "name": "Dr Tony Solon ",
+        "avatar": "https://photos.angel.co/users/6585412-medium_jpg?1509712558"
+      },
+      "refs": {
+        "angelListId": "283226",
+        "angelListUrl": "https://angel.co/company/cognitionx/jobs/283226-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Backend Engineers (Junior-Senior)",
+      "description": "About the Company\n\nCognitionX is on a mission to democratise access to knowledge to empower everybody from start-ups to governments, and from individuals to enterprises.\n\nWe achieve this in two ways:\n\n1.) CognitionX.com, our cloud-based knowledge-management platform, is unlocking hidden and untapped sources of knowledge in enterprises and communities around the world. By connecting people to the knowledge within their organisation they didn’t know existed, we aim to enable faster and better decisions, reduce costs, and maximise innovative potential.\n\n2) CogX is our festival of technology, AI and business that takes place in London every June. With 20,000 visitors in 2019, CogX brings together industry, government and academia to meet and discuss the impact AI and emerging technology is having on business, the economy and society. We are committed to galvanising the tech community to address the UN Development Goals and move the conversation forward about ethical and responsible adoption of these news tools.\n\nAbout the Role\n\n- We are looking for backend engineers with strong experience building modern web apps using Python and Django.\n- We use GitHub, code reviews, Heroku, and Amazon RDS so that we can rapidly iterate and stay focussed on what matters. We’ve worked hard to keep our processes and management structure as lightweight as possible.\n- We are open to applicants ranging from junior with a lot of potential, to Seniors who are looking to apply their existing expertise to complex problems, and all levels in between. The package will be based on a combination of your experience, expertise and potential.\n\nExperience and Qualifications\n\nEssential knowledge & skills:\n- Strong knowledge of Python and its ecosystem\n- Track record of delivering Django web apps\n- Experience designing and building RESTful APIs\n- A good knowledge of git/github\n- Continuous deployment/integration (e.g. CodeShip)\n\nIt would be really great if you also had an understanding of:\n- Search technologies (e.g. Algolia, Elasticsearch)\n- Operations/DevOps experience\n- AWS (e.g. EC2, S3, Lambda)\n- AI/ML techniques\n- Frontend development, including Javascript, React, Redux\n\nAnd if you've published or contributed to any open-source software, then tell us about it!",
+      "descriptionHtml": "<p>About the Company</p>\n\n<p>CognitionX is on a mission to democratise access to knowledge to empower everybody from start-ups to governments, and from individuals to enterprises.</p>\n\n<p>We achieve this in two ways:</p>\n\n<p>1.) CognitionX.com, our cloud-based knowledge-management platform, is unlocking hidden and untapped sources of knowledge in enterprises and communities around the world. By connecting people to the knowledge within their organisation they didn’t know existed, we aim to enable faster and better decisions, reduce costs, and maximise innovative potential.</p>\n\n<p>2) CogX is our festival of technology, AI and business that takes place in London every June. With 20,000 visitors in 2019, CogX brings together industry, government and academia to meet and discuss the impact AI and emerging technology is having on business, the economy and society. We are committed to galvanising the tech community to address the UN Development Goals and move the conversation forward about ethical and responsible adoption of these news tools.</p>\n\n<p>About the Role</p>\n\n<ul>\n<li>We are looking for backend engineers with strong experience building modern web apps using Python and Django.</li>\n<li>We use GitHub, code reviews, Heroku, and Amazon RDS so that we can rapidly iterate and stay focussed on what matters. We’ve worked hard to keep our processes and management structure as lightweight as possible.</li>\n<li>We are open to applicants ranging from junior with a lot of potential, to Seniors who are looking to apply their existing expertise to complex problems, and all levels in between. The package will be based on a combination of your experience, expertise and potential.</li>\n</ul>\n\n<p>Experience and Qualifications</p>\n\n<p>Essential knowledge &amp; skills:</p>\n\n<ul>\n<li>Strong knowledge of Python and its ecosystem</li>\n<li>Track record of delivering Django web apps</li>\n<li>Experience designing and building RESTful APIs</li>\n<li>A good knowledge of git/github</li>\n<li>Continuous deployment/integration (e.g. CodeShip)</li>\n</ul>\n\n<p>It would be really great if you also had an understanding of:</p>\n\n<ul>\n<li>Search technologies (e.g. Algolia, Elasticsearch)</li>\n<li>Operations/DevOps experience</li>\n<li>AWS (e.g. EC2, S3, Lambda)</li>\n<li>AI/ML techniques</li>\n<li>Frontend development, including Javascript, React, Redux</li>\n</ul>\n\n<p>And if you&#39;ve published or contributed to any open-source software, then tell us about it!</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Javascript",
+        "Django",
+        "Git",
+        "PostgreSQL",
+        "Web Applications",
+        "Heroku",
+        "Relational Databases",
+        "Github",
+        "REST",
+        "React.js",
+        "AWS",
+        "Algolia",
+        "Redux",
+        "RESTful API"
+      ],
+      "payment": {
+        "salary": "£50k – £100k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": "Head of Engineering ",
+        "role": "Employee",
+        "url": "https://angel.co/u/tonysolon",
+        "name": "Dr Tony Solon ",
+        "avatar": "https://photos.angel.co/users/6585412-medium_jpg?1509712558"
+      },
+      "refs": {
+        "angelListId": "327763",
+        "angelListUrl": "https://angel.co/company/cognitionx/jobs/327763-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Executive Assistant to CEO",
+      "description": "CognitionX is a global leader in AI and emerging technology. Our mission is to democratise and radically improve access to expert advice resulting in accelerated adoption of transformational technology, safe and responsible deployment and benefits that flow to the many, not the few. We achieve this through “Knowledge Networking” both in person at our award-winning action-oriented, inclusive CogX Festival, and through our unique online Knowledge Platform. The CogX Festival has become the largest AI festival in Europe, with over 20,000 attendees and 600+ speakers.\n\nWe are now looking for an enthusiastic and driven Executive Assistant to support the Founder & CEO, at a time when the company is growing rapidly. This is a unique opportunity to work alongside the CEO, a highly respected serial entrepreneur in the startup world. \n\nThe EA role will see you become a strategic partner & confidant to our CEO. The two of you will work together, maximising his productivity & efficiency. You'll work on a broad range of tasks & projects; combining elements of admin, team management, and internal & external communications.\n\nYou will need to be comfortable working autonomously and under pressure, as well as adaptable to change and confident to manage a significant workload. \n\nKey Responsibilities:\n\nPrioritise the CEO’s agenda, ensuring that the CEO is able to fulfill commitments to the internal team as well as to external stakeholders\nAssisting the CEO with complex diary management including international travel, internal and external meetings, and personal admin\nEnsure teams are prepared for weekly meetings, keeping to time and adapting should they overrun\nProxy for meetings on behalf of the CEO and make informed decisions in his absence\nBe proactive and respond to fast-changing demands on the CEO’s time\nAssist with preparation of internal and external meetings, capture action items and follow up with internal and external stakeholders\nSet up large team events, and organise team off-site meetings\nEnsure smooth running of office environment, acting as the CEO's eyes and ears within the office\nBuild and promote our culture and values in all aspects of the role\n\n\n\nRequirements:\n\n- At least 3+ years of administrative experience with executive members\n- Proactive and able to think, plan and execute quickly and resourcefully, both \nautonomously and as part of a broader team\n- Flexible and able to thrive in a fast-paced and changing environment\n- Committed to improving the status quo, someone who is able to consult and support the CEO and others with questions and advice\n- Incredibly organised and detail-oriented with ability to prioritise across multiple assignments\n- Trustworthy as you will be privy and required to handle confidential information\n- Strong understanding of Google Suite, Slack, etc.\n\nNice to haves:\n\nExperience working in a hyper-growth startup environment\nAI and emerging technology knowledge\nAssist in events internally and externally\n\nBenefits:\n\n- Competitive salary and equity in the company 💸\n- 25 days annual leave  🏖️\n- Amazing Soho office  🏢\n- Flexible holiday policy ✈️\n- Regular socials 💃🏽",
+      "descriptionHtml": "<p>CognitionX is a global leader in AI and emerging technology. Our mission is to democratise and radically improve access to expert advice resulting in accelerated adoption of transformational technology, safe and responsible deployment and benefits that flow to the many, not the few. We achieve this through “Knowledge Networking” both in person at our award-winning action-oriented, inclusive CogX Festival, and through our unique online Knowledge Platform. The CogX Festival has become the largest AI festival in Europe, with over 20,000 attendees and 600+ speakers.</p>\n\n<p>We are now looking for an enthusiastic and driven Executive Assistant to support the Founder &amp; CEO, at a time when the company is growing rapidly. This is a unique opportunity to work alongside the CEO, a highly respected serial entrepreneur in the startup world. </p>\n\n<p>The EA role will see you become a strategic partner &amp; confidant to our CEO. The two of you will work together, maximising his productivity &amp; efficiency. You&#39;ll work on a broad range of tasks &amp; projects; combining elements of admin, team management, and internal &amp; external communications.</p>\n\n<p>You will need to be comfortable working autonomously and under pressure, as well as adaptable to change and confident to manage a significant workload. </p>\n\n<p>Key Responsibilities:</p>\n\n<p>Prioritise the CEO’s agenda, ensuring that the CEO is able to fulfill commitments to the internal team as well as to external stakeholders<br>\nAssisting the CEO with complex diary management including international travel, internal and external meetings, and personal admin<br>\nEnsure teams are prepared for weekly meetings, keeping to time and adapting should they overrun<br>\nProxy for meetings on behalf of the CEO and make informed decisions in his absence<br>\nBe proactive and respond to fast-changing demands on the CEO’s time<br>\nAssist with preparation of internal and external meetings, capture action items and follow up with internal and external stakeholders<br>\nSet up large team events, and organise team off-site meetings<br>\nEnsure smooth running of office environment, acting as the CEO&#39;s eyes and ears within the office<br>\nBuild and promote our culture and values in all aspects of the role</p>\n\n<p>Requirements:</p>\n\n<ul>\n<li>At least 3+ years of administrative experience with executive members</li>\n<li>Proactive and able to think, plan and execute quickly and resourcefully, both \nautonomously and as part of a broader team</li>\n<li>Flexible and able to thrive in a fast-paced and changing environment</li>\n<li>Committed to improving the status quo, someone who is able to consult and support the CEO and others with questions and advice</li>\n<li>Incredibly organised and detail-oriented with ability to prioritise across multiple assignments</li>\n<li>Trustworthy as you will be privy and required to handle confidential information</li>\n<li>Strong understanding of Google Suite, Slack, etc.</li>\n</ul>\n\n<p>Nice to haves:</p>\n\n<p>Experience working in a hyper-growth startup environment<br>\nAI and emerging technology knowledge<br>\nAssist in events internally and externally</p>\n\n<p>Benefits:</p>\n\n<ul>\n<li>Competitive salary and equity in the company 💸</li>\n<li>25 days annual leave  🏖️</li>\n<li>Amazing Soho office  🏢</li>\n<li>Flexible holiday policy ✈️</li>\n<li>Regular socials 💃🏽</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£25k – £35k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/laura-chavez-9",
+        "name": "Laura Chavez",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "599488",
+        "angelListUrl": "https://angel.co/company/cognitionx/jobs/599488-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Senior Data Scientist",
+      "description": "About the Company\r\nCognitionX is on a mission to democratise access to knowledge to empower everybody from start-ups to governments, and from individuals to enterprises.\r\n\r\nWe achieve this in two ways:\r\n\r\n1) CogX is our festival of technology, AI and business that takes place from June 8 -10 in the heart of Kings Cross. With 20,000 visitors in 2019, CogX brings together industry, government and academia to meet and discuss the impact AI and emerging technology is having on business, the economy and society. We are committed to galvanising the tech community to address the UN Development Goals and move the conversation forward about ethical and responsible adoption of these news tools.\r\n\r\n2) CognitionX.com, our cloud-based knowledge-management platform, is unlocking hidden and untapped sources of knowledge in enterprises and communities around the world. By connecting people to the knowledge within their organisation they didn’t know existed, we aim to enable faster and better decisions, reduce costs, and maximise innovative potential.\r\n\r\nAbout the Role\r\nAs a Data Scientist at CognitionX, you will have the opportunity to develop ideas, experiments and software prototypes on an exciting and ground-breaking product that uses cutting edge AI technology. You will work to improve data-intensive processes and create new features and functions to elevate CognitionX's advice platform to the next level. We are open to applicants ranges from junior with alot of potential, to Seniors who are looking to apply their existing expertise to complex problems, and all levels in between. The package will be based on a combination of your experience, expertise and potential.\r\n\r\nAbout You\r\n- As an ideal candidate, you will be an expert in Natural Language Processing through academic or industry experience (preferably both).\r\n- You will have experience working with existing NLP and deep learning frameworks such as word embeddings, spaCy, NLTK, PyTorch, TensorFlow and Keras.\r\n- You will be familiar with the many recent exciting advances in NLP such as pre-trained language models (BERT, XLNet etc), contextualised word embeddings, attention and novel neural network architectures.\r\n- You will have experience applying machine learning and deep learning methods to a range of NLP-related tasks, such as Named Entity Recognition, Sentiment Analysis, summarisation, Knowledge Graphs and Topic Extraction.\r\n\r\nExperience and Qualifications\r\n- MSc or PhD in Computer Science, Mathematics or related technical discipline\r\n- Experience of research or innovative product development using natural language processing\r\n- Programming skills in commonly used ML languages (e.g. Python &amp; R)\r\nexcellent depth and breadth of knowledge in machine learning\r\n- Excellent communication skills and the ability to work in a team\r\n- Familiarity with modern software development practices.\r\n- Previous experience of SaaS software development (e.g. RESTful Web Services).\r\n- Track record of publications and research projects.",
+      "descriptionHtml": "<p>About the Company<br>\nCognitionX is on a mission to democratise access to knowledge to empower everybody from start-ups to governments, and from individuals to enterprises.</p>\n\n<p>We achieve this in two ways:</p>\n\n<p>1) CogX is our festival of technology, AI and business that takes place from June 8 -10 in the heart of Kings Cross. With 20,000 visitors in 2019, CogX brings together industry, government and academia to meet and discuss the impact AI and emerging technology is having on business, the economy and society. We are committed to galvanising the tech community to address the UN Development Goals and move the conversation forward about ethical and responsible adoption of these news tools.</p>\n\n<p>2) CognitionX.com, our cloud-based knowledge-management platform, is unlocking hidden and untapped sources of knowledge in enterprises and communities around the world. By connecting people to the knowledge within their organisation they didn’t know existed, we aim to enable faster and better decisions, reduce costs, and maximise innovative potential.</p>\n\n<p>About the Role<br>\nAs a Data Scientist at CognitionX, you will have the opportunity to develop ideas, experiments and software prototypes on an exciting and ground-breaking product that uses cutting edge AI technology. You will work to improve data-intensive processes and create new features and functions to elevate CognitionX&#39;s advice platform to the next level. We are open to applicants ranges from junior with alot of potential, to Seniors who are looking to apply their existing expertise to complex problems, and all levels in between. The package will be based on a combination of your experience, expertise and potential.</p>\n\n<p>About You</p>\n\n<ul>\n<li>As an ideal candidate, you will be an expert in Natural Language Processing through academic or industry experience (preferably both).</li>\n<li>You will have experience working with existing NLP and deep learning frameworks such as word embeddings, spaCy, NLTK, PyTorch, TensorFlow and Keras.</li>\n<li>You will be familiar with the many recent exciting advances in NLP such as pre-trained language models (BERT, XLNet etc), contextualised word embeddings, attention and novel neural network architectures.</li>\n<li>You will have experience applying machine learning and deep learning methods to a range of NLP-related tasks, such as Named Entity Recognition, Sentiment Analysis, summarisation, Knowledge Graphs and Topic Extraction.</li>\n</ul>\n\n<p>Experience and Qualifications</p>\n\n<ul>\n<li>MSc or PhD in Computer Science, Mathematics or related technical discipline</li>\n<li>Experience of research or innovative product development using natural language processing</li>\n<li>Programming skills in commonly used ML languages (e.g. Python &amp; R)\nexcellent depth and breadth of knowledge in machine learning</li>\n<li>Excellent communication skills and the ability to work in a team</li>\n<li>Familiarity with modern software development practices.</li>\n<li>Previous experience of SaaS software development (e.g. RESTful Web Services).</li>\n<li>Track record of publications and research projects.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Deep Learning",
+        "word embedding"
+      ],
+      "payment": {
+        "salary": "£60k – £100k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": "Senior Data Scientist",
+        "role": "Employee",
+        "url": "https://angel.co/u/gelareh-taghizadeh",
+        "name": "gelareh taghizadeh",
+        "avatar": "https://photos.angel.co/users/975146-medium_jpg?1571243028"
+      },
+      "refs": {
+        "angelListId": "645558",
+        "angelListUrl": "https://angel.co/company/cognitionx/jobs/645558-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Sales Development Executive",
+      "description": "CognitionX is a global leader in AI and emerging technology. Its mission is to bring clarity to, and accelerate adoption of AI across all organisations from global enterprises to startups, and help ensure a safe and responsible transition to an AI-driven society.\n\nThe free, public version of our Knowledge Network empowers users to immediately access a global network of experts in Emerging Tech, AI and more, while the Enterprise edition enables large firms to capitalise on their internal expertise.\n\nCogX is our annual Festival of All things AI, and has become the largest AI festival in Europe, with over 20,000 attendees and 600+ speakers.\n\nWe are now looking for a passionate, creative and successful Sales Associate to join our team and help to build the leading AI event globally, CogX. \n\nThe Event: \n\n- CogX is Europe's largest AI Event, see https://cogx.co/\n- 20,000+ Attendees\n- 600+ Speakers\n- Over 12 stages covering AI and Emerging Tech on Government, Industry, and Society\n- Agenda aligned with the UN Sustainable Development Goals\n\nThe Role: \n\n- Drive new business, as well as close existing leads across enterprise, SMEs, public sector and tech vendors to help create CogX, the leading AI event in Europe\n- Work closely with the sales team to pitch a variety of sponsorship and exhibition stand packages and converting prospects into leads\n- Consistently meet targets and revenue goals, keeping an organised pipeline and forecast\n- Respond to all inbound enquiries, as well inbound leads into CogX to distribute to appropriate members of the team\n- Drive a culture of data-driven decision making, working with insights and knowledge from our platform to create the best solutions for our clients\n- Collaborate with Marketing to ensure cohesion across messaging and the event\n- Schedule up meetings/calls for the sales team\n- Identifying key sectors to sell into and new outreach channels\n- Handling inbound communications (email, live chat. telephone journey)\n\nYou: \n\n- You have proven success in a sales role, preferably within the events industry\n- You have proven success working with enterprise clients, SMEs, startups on both buy-side and sell-side\n- You are passionate about technology, excited about the future of artificial intelligence and able to engage in detailed conversations on the topic\n- You have the confidence and emotional intelligence to be able to speak to multiple different stakeholders of varying seniority\n- You are detail-oriented and able to create persuasive and engaging sales materials\n- You have excellent prioritisation skills and ability to manage multiple projects at once\n- You are energetic, passionate and a strong communicator\n- You may have startup experience and thrive on the fast-paced environment of a growing company \n- A fast learner with a great entrepreneurial spirit for new ideas\n- Self-starter and will-do attitude to get things done \n\nStrictly no recruiters, please.",
+      "descriptionHtml": "<p>CognitionX is a global leader in AI and emerging technology. Its mission is to bring clarity to, and accelerate adoption of AI across all organisations from global enterprises to startups, and help ensure a safe and responsible transition to an AI-driven society.</p>\n\n<p>The free, public version of our Knowledge Network empowers users to immediately access a global network of experts in Emerging Tech, AI and more, while the Enterprise edition enables large firms to capitalise on their internal expertise.</p>\n\n<p>CogX is our annual Festival of All things AI, and has become the largest AI festival in Europe, with over 20,000 attendees and 600+ speakers.</p>\n\n<p>We are now looking for a passionate, creative and successful Sales Associate to join our team and help to build the leading AI event globally, CogX. </p>\n\n<p>The Event: </p>\n\n<ul>\n<li>CogX is Europe&#39;s largest AI Event, see <a href=\"https://cogx.co/\" target=\"_blank\" rel=\"nofollow\">https://cogx.co/</a></li>\n<li>20,000+ Attendees</li>\n<li>600+ Speakers</li>\n<li>Over 12 stages covering AI and Emerging Tech on Government, Industry, and Society</li>\n<li>Agenda aligned with the UN Sustainable Development Goals</li>\n</ul>\n\n<p>The Role: </p>\n\n<ul>\n<li>Drive new business, as well as close existing leads across enterprise, SMEs, public sector and tech vendors to help create CogX, the leading AI event in Europe</li>\n<li>Work closely with the sales team to pitch a variety of sponsorship and exhibition stand packages and converting prospects into leads</li>\n<li>Consistently meet targets and revenue goals, keeping an organised pipeline and forecast</li>\n<li>Respond to all inbound enquiries, as well inbound leads into CogX to distribute to appropriate members of the team</li>\n<li>Drive a culture of data-driven decision making, working with insights and knowledge from our platform to create the best solutions for our clients</li>\n<li>Collaborate with Marketing to ensure cohesion across messaging and the event</li>\n<li>Schedule up meetings/calls for the sales team</li>\n<li>Identifying key sectors to sell into and new outreach channels</li>\n<li>Handling inbound communications (email, live chat. telephone journey)</li>\n</ul>\n\n<p>You: </p>\n\n<ul>\n<li>You have proven success in a sales role, preferably within the events industry</li>\n<li>You have proven success working with enterprise clients, SMEs, startups on both buy-side and sell-side</li>\n<li>You are passionate about technology, excited about the future of artificial intelligence and able to engage in detailed conversations on the topic</li>\n<li>You have the confidence and emotional intelligence to be able to speak to multiple different stakeholders of varying seniority</li>\n<li>You are detail-oriented and able to create persuasive and engaging sales materials</li>\n<li>You have excellent prioritisation skills and ability to manage multiple projects at once</li>\n<li>You are energetic, passionate and a strong communicator</li>\n<li>You may have startup experience and thrive on the fast-paced environment of a growing company </li>\n<li>A fast learner with a great entrepreneurial spirit for new ideas</li>\n<li>Self-starter and will-do attitude to get things done </li>\n</ul>\n\n<p>Strictly no recruiters, please.</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£24k – £24k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": "Director Product Management",
+        "role": "Employee",
+        "url": "https://angel.co/u/tom-scrace",
+        "name": "Tom Scrace",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "662652",
+        "angelListUrl": "https://angel.co/company/cognitionx/jobs/662652-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Director of Content Partnerships, CogX",
+      "description": "Emerging Technology is changing everything and every organisation. Companies of all sizes need to form an emerging technology strategy and get on with deployment. But the current options of consultants are expensive and slow, and searching the web for answers immediately becomes a major project. CognitionX has already become a global leader in Knowledge Management. Its mission is to democratise access to expert advice and accelerate adoption of technology, while ensuring safe and responsible deployment. Its Knowledge Network provides a completely new way of accessing expert advice on technology - that is simple, fast and affordable.\n https://cognitionx.com/directory/news/\n\nCogX: \nOnce a year, CognitionX hosts the global CogX festival in London. CogX is one of the largest technology festivals in Europe, with over 20,000 visitors, 680 speakers and 69 hectares of space in King’s Cross in 2019. The festival explores the impact of emerging technology on Industry, Government and Society, truly moving the conversation forward. \n\nIn 2020 CogX will return to King’s Cross from Monday 8th - Wednesday the 10th June 2020.\n\n* About CogX 2020:\n* CogX is Europe's most vibrant celebration of breakthrough technology and transformative opportunities, see https://cogx.co/ \n* 20,000+ Attendees \n* 55+ AI and Emerging Tech award winners \n* 600+ Speakers \n* 12 stages covering AI and Emerging Tech on Government, Industry and Society\n* 100+ Partner organisations \n* Agenda aligned with the UN Sustainable Development Goals\n\nJob Purpose:\t\nThe role is to lead Partnerships with direct responsibility for outcomes\n\nScope:\nStrategic leadership, direction and development of the CogX brand. Working collaboratively with the Marketing Director, Operations Director, Sales and wider team to develop an integrated approach to Partners world-wide\t\n\nKey responsibilities:\n* Initiate, develop and nurture meaningful relationships with new key stakeholder groups at CXO, Board and Partner level whilst maintaining circa 100 existing groups including Project Everyone, Alan Turing Institute, Crick Institute, NHS, Wellcome Trust, London & Partners, DIT, Central Gov, One Young World, BBC, DLD, Gates Foundation, Digital Catapult, Founders Forum, Google, Tech Nation, Royal Society and many more .\n* Drive the Partnerships strategy through identification, development, proposal delivery, curation and execution. \n* Through Ambassadorial networking establish contra and commercial partnerships with appropriate charities and companies; co-hosting events and content to drive brand awareness and client acquisition.\n* Act as custodian of the CogX brand ensuring all events and content are aligned with quality assured.\n* Work collaboratively across all functions, adopt flexible matrix managerial behaviours to ensure quality outcomes for all stakeholders. \n\n\nCandidate Profile:\n* Senior level commercial Partnership experience in the technology event ecosystem\n* Strong intellect, curious nature, proven CXO networking ability with a passion for quality execution of objectives \n* Experience of leading Partnerships in a matrix structure \n* International mind set with an appreciation of cultural differences\n* Ability to think strategically or laterally to deliver excellent results operationally with an eye for detail\n* Strong interest in AI/Emerging Technology and both its business and social impact\n* Ability to thrive in a fast-paced entrepreneurial environment\n* Strong budget management and business management skills\n* Collaborative, with the ability to work in a matrix management environment\n* Pragmatic approach with the ability to form relationships easily and use influence to get things done\n* Robust ability and flexibility to travel when needed\n\nRemuneration:\n* Basic salary, profit related bonus plus equity\n* Contributory group pension scheme\n* 25 days holiday \n\nBehavioural Competences for Head of Partnerships Role\n\nCommunication\n* Recognises and represents political, business and social perspectives with confidence and insight. Takes responsibility for representing a multi-faceted senior executive level view.\n* Willing and able to proactively challenge and initiate change to optimise business success; creates and enables a culture of high achievement\n* Creates and sustains a knowledge and information sharing environment across the business. Ensures consistent alignment and engagement\n* Clearly owns the vision, strategy, objectives and key messages for Partnerships and alignment to the wider organisational strategy\n\nPerformance \n* Creates a winning, fair culture devoid of blame; creates strategies for the mutual benefit of multiple stakeholders\n* Creates a climate of cross business collaboration to achieve goals; raises the bar on performance across the business; measures and holds others accountable for setting and delivering challenging goals; ensures alignment to business area and wider organisational strategy\n* Creates a positive climate and holds self and others accountable for learning and continuous\n* personal and professional development\n* Builds a climate of trust and openness enabling all to express their views and offer feedback and ideas knowing they will be welcomed and heard\n* Creates a climate of high performance; challenges and supports to enhance capability, release potential, develop, inspire and retain talent; is recognised for creating time to coach and mentor others\n\nBusiness \n* Builds strong networks internally and externally; proactively seeks multiple perspectives and offers in depth insights; understands and knows how to meet needs in complex, strategic situations \n* Defines the functional strategy taking a long-term view, 3-5 years aligned to the whole business strategy; applies broad business and industry knowledge, insight and experience to create a strategic plan that engages and delivers.\n* Gathers appropriate information from diverse sources, seeks multiple perspectives, uses sound judgment and a range of decision-making strategies to make clear, timely decisions\n* Creates and leads a clear process for strategic and operational planning ensuring highly effective systems and measures are in place\n\nSelf\n* Demonstrates consistent personal commitment to learning and development\n* Recognises and values their responsibility for creating and sustaining the culture, values and behaviors of the business\n* Builds and sustains diverse relationships internally and externally, consistently role modelling the standards, culture and values of the business\n* Sets the standard for effective and respectful use of time internally and externally",
+      "descriptionHtml": "<p>Emerging Technology is changing everything and every organisation. Companies of all sizes need to form an emerging technology strategy and get on with deployment. But the current options of consultants are expensive and slow, and searching the web for answers immediately becomes a major project. CognitionX has already become a global leader in Knowledge Management. Its mission is to democratise access to expert advice and accelerate adoption of technology, while ensuring safe and responsible deployment. Its Knowledge Network provides a completely new way of accessing expert advice on technology - that is simple, fast and affordable.<br>\n <a href=\"https://cognitionx.com/directory/news/\" target=\"_blank\" rel=\"nofollow\">https://cognitionx.com/directory/news/</a></p>\n\n<p>CogX: <br>\nOnce a year, CognitionX hosts the global CogX festival in London. CogX is one of the largest technology festivals in Europe, with over 20,000 visitors, 680 speakers and 69 hectares of space in King’s Cross in 2019. The festival explores the impact of emerging technology on Industry, Government and Society, truly moving the conversation forward. </p>\n\n<p>In 2020 CogX will return to King’s Cross from Monday 8th - Wednesday the 10th June 2020.</p>\n\n<ul>\n<li>About CogX 2020:</li>\n<li>CogX is Europe&#39;s most vibrant celebration of breakthrough technology and transformative opportunities, see <a href=\"https://cogx.co/\" target=\"_blank\" rel=\"nofollow\">https://cogx.co/</a> </li>\n<li>20,000+ Attendees </li>\n<li>55+ AI and Emerging Tech award winners </li>\n<li>600+ Speakers </li>\n<li>12 stages covering AI and Emerging Tech on Government, Industry and Society</li>\n<li>100+ Partner organisations </li>\n<li>Agenda aligned with the UN Sustainable Development Goals</li>\n</ul>\n\n<p>Job Purpose:<br><br>\nThe role is to lead Partnerships with direct responsibility for outcomes</p>\n\n<p>Scope:<br>\nStrategic leadership, direction and development of the CogX brand. Working collaboratively with the Marketing Director, Operations Director, Sales and wider team to develop an integrated approach to Partners world-wide  </p>\n\n<p>Key responsibilities:</p>\n\n<ul>\n<li>Initiate, develop and nurture meaningful relationships with new key stakeholder groups at CXO, Board and Partner level whilst maintaining circa 100 existing groups including Project Everyone, Alan Turing Institute, Crick Institute, NHS, Wellcome Trust, London &amp; Partners, DIT, Central Gov, One Young World, BBC, DLD, Gates Foundation, Digital Catapult, Founders Forum, Google, Tech Nation, Royal Society and many more .</li>\n<li>Drive the Partnerships strategy through identification, development, proposal delivery, curation and execution. </li>\n<li>Through Ambassadorial networking establish contra and commercial partnerships with appropriate charities and companies; co-hosting events and content to drive brand awareness and client acquisition.</li>\n<li>Act as custodian of the CogX brand ensuring all events and content are aligned with quality assured.</li>\n<li>Work collaboratively across all functions, adopt flexible matrix managerial behaviours to ensure quality outcomes for all stakeholders. </li>\n</ul>\n\n<p>Candidate Profile:</p>\n\n<ul>\n<li>Senior level commercial Partnership experience in the technology event ecosystem</li>\n<li>Strong intellect, curious nature, proven CXO networking ability with a passion for quality execution of objectives </li>\n<li>Experience of leading Partnerships in a matrix structure </li>\n<li>International mind set with an appreciation of cultural differences</li>\n<li>Ability to think strategically or laterally to deliver excellent results operationally with an eye for detail</li>\n<li>Strong interest in AI/Emerging Technology and both its business and social impact</li>\n<li>Ability to thrive in a fast-paced entrepreneurial environment</li>\n<li>Strong budget management and business management skills</li>\n<li>Collaborative, with the ability to work in a matrix management environment</li>\n<li>Pragmatic approach with the ability to form relationships easily and use influence to get things done</li>\n<li>Robust ability and flexibility to travel when needed</li>\n</ul>\n\n<p>Remuneration:</p>\n\n<ul>\n<li>Basic salary, profit related bonus plus equity</li>\n<li>Contributory group pension scheme</li>\n<li>25 days holiday </li>\n</ul>\n\n<p>Behavioural Competences for Head of Partnerships Role</p>\n\n<p>Communication</p>\n\n<ul>\n<li>Recognises and represents political, business and social perspectives with confidence and insight. Takes responsibility for representing a multi-faceted senior executive level view.</li>\n<li>Willing and able to proactively challenge and initiate change to optimise business success; creates and enables a culture of high achievement</li>\n<li>Creates and sustains a knowledge and information sharing environment across the business. Ensures consistent alignment and engagement</li>\n<li>Clearly owns the vision, strategy, objectives and key messages for Partnerships and alignment to the wider organisational strategy</li>\n</ul>\n\n<p>Performance </p>\n\n<ul>\n<li>Creates a winning, fair culture devoid of blame; creates strategies for the mutual benefit of multiple stakeholders</li>\n<li>Creates a climate of cross business collaboration to achieve goals; raises the bar on performance across the business; measures and holds others accountable for setting and delivering challenging goals; ensures alignment to business area and wider organisational strategy</li>\n<li>Creates a positive climate and holds self and others accountable for learning and continuous</li>\n<li>personal and professional development</li>\n<li>Builds a climate of trust and openness enabling all to express their views and offer feedback and ideas knowing they will be welcomed and heard</li>\n<li>Creates a climate of high performance; challenges and supports to enhance capability, release potential, develop, inspire and retain talent; is recognised for creating time to coach and mentor others</li>\n</ul>\n\n<p>Business </p>\n\n<ul>\n<li>Builds strong networks internally and externally; proactively seeks multiple perspectives and offers in depth insights; understands and knows how to meet needs in complex, strategic situations </li>\n<li>Defines the functional strategy taking a long-term view, 3-5 years aligned to the whole business strategy; applies broad business and industry knowledge, insight and experience to create a strategic plan that engages and delivers.</li>\n<li>Gathers appropriate information from diverse sources, seeks multiple perspectives, uses sound judgment and a range of decision-making strategies to make clear, timely decisions</li>\n<li>Creates and leads a clear process for strategic and operational planning ensuring highly effective systems and measures are in place</li>\n</ul>\n\n<p>Self</p>\n\n<ul>\n<li>Demonstrates consistent personal commitment to learning and development</li>\n<li>Recognises and values their responsibility for creating and sustaining the culture, values and behaviors of the business</li>\n<li>Builds and sustains diverse relationships internally and externally, consistently role modelling the standards, culture and values of the business</li>\n<li>Sets the standard for effective and respectful use of time internally and externally</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Director Product Management",
+        "role": "Employee",
+        "url": "https://angel.co/u/tom-scrace",
+        "name": "Tom Scrace",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "692992",
+        "angelListUrl": "https://angel.co/company/cognitionx/jobs/692992-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "CogX Operations Assistant",
+      "description": "Looking for an Operations Assistant to work pre-show\n\nKey Responsibilities\n* Support the Operations Director, Operations Manager and wider events team including marketing and commercial on the event.\n* Main contact for exhibitor and sponsor communication\n* Stocktake and packing for up-coming events\n* Maintain and update our database e.g. with new client details\n* Maintain the sponsor manuals and packs \n* Any other pre-event logistics tasks\n* Create, update and maintain key supplier requirements for example furniture schedules\n* Full training will be given",
+      "descriptionHtml": "<p>Looking for an Operations Assistant to work pre-show</p>\n\n<p>Key Responsibilities</p>\n\n<ul>\n<li>Support the Operations Director, Operations Manager and wider events team including marketing and commercial on the event.</li>\n<li>Main contact for exhibitor and sponsor communication</li>\n<li>Stocktake and packing for up-coming events</li>\n<li>Maintain and update our database e.g. with new client details</li>\n<li>Maintain the sponsor manuals and packs </li>\n<li>Any other pre-event logistics tasks</li>\n<li>Create, update and maintain key supplier requirements for example furniture schedules</li>\n<li>Full training will be given</li>\n</ul>\n",
+      "position": "internship",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Attention to Detail",
+        "Time Management",
+        "Events Planning and Management",
+        "Highly Organised",
+        "Following Instructions"
+      ],
+      "payment": {
+        "salary": "$16k – $19k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/amy-tsang-4",
+        "name": "Amy Tsang",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "744534",
+        "angelListUrl": "https://angel.co/company/cognitionx/jobs/744534-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Marketing Assistant",
+      "description": "We’re looking for a Marketing Assistant to sit within our marketing team and build our CogX presence globally. A bright and enthusiastic team member will be assisting with content marketing, design and website management\n\nRole responsibilities include (you will work closely with the Marketing Manager)\n\n* Daily Social media management with a creative or content twist across LinkedIn, Twitter, Instagram and Facebook\n* Assisting in the planning and execution of campaigns\n* Assisting in planning and execution of PPC campaigns\n* Manage incoming enquiries and ensure the right person has followed up\n* Assist with data management including building new data, verify existing data and keep data tidy and updated\n* Daily and weekly reporting of social media, emails and partnerships performance and post-campaign analysis\n* Assist with a data-driven methodology to improve effectiveness in all social media channels\n* Assist with media partnerships, ensuring both parties have executed their part of agreement\n* Assist with reviewing campaign performance using tools such as google analytics\n* Researching partners to collaborate with us\n\nWhat’s in it for you?\n\n* Exposure to a data-driven methodology to improve effectiveness in all social media channels\n* Driving traffic to the website, identifying which channels are most effective\n* You’ll be gaining industry experience in an ever-expanding role of content marketing and digital communications\n* Opportunity to be creative across your work and have a say in improving our working processes\n* You will be invited to meetings in order to gain an insight into real world marketing procedures\n* Opportunity to learn first hand and work with leading marketing tools and event technology",
+      "descriptionHtml": "<p>We’re looking for a Marketing Assistant to sit within our marketing team and build our CogX presence globally. A bright and enthusiastic team member will be assisting with content marketing, design and website management</p>\n\n<p>Role responsibilities include (you will work closely with the Marketing Manager)</p>\n\n<ul>\n<li>Daily Social media management with a creative or content twist across LinkedIn, Twitter, Instagram and Facebook</li>\n<li>Assisting in the planning and execution of campaigns</li>\n<li>Assisting in planning and execution of PPC campaigns</li>\n<li>Manage incoming enquiries and ensure the right person has followed up</li>\n<li>Assist with data management including building new data, verify existing data and keep data tidy and updated</li>\n<li>Daily and weekly reporting of social media, emails and partnerships performance and post-campaign analysis</li>\n<li>Assist with a data-driven methodology to improve effectiveness in all social media channels</li>\n<li>Assist with media partnerships, ensuring both parties have executed their part of agreement</li>\n<li>Assist with reviewing campaign performance using tools such as google analytics</li>\n<li>Researching partners to collaborate with us</li>\n</ul>\n\n<p>What’s in it for you?</p>\n\n<ul>\n<li>Exposure to a data-driven methodology to improve effectiveness in all social media channels</li>\n<li>Driving traffic to the website, identifying which channels are most effective</li>\n<li>You’ll be gaining industry experience in an ever-expanding role of content marketing and digital communications</li>\n<li>Opportunity to be creative across your work and have a say in improving our working processes</li>\n<li>You will be invited to meetings in order to gain an insight into real world marketing procedures</li>\n<li>Opportunity to learn first hand and work with leading marketing tools and event technology</li>\n</ul>\n",
+      "position": "internship",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Initiative and Forward Thinking",
+        "Flexible Problem-Solving",
+        "Resilient",
+        "Content and Creative Writing",
+        "dynamic"
+      ],
+      "payment": {
+        "salary": "$16k – $19k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/amy-tsang-4",
+        "name": "Amy Tsang",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "744538",
+        "angelListUrl": "https://angel.co/company/cognitionx/jobs/744538-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Sponsorship Account Manager",
+      "description": "CognitionX is a global leader in AI and emerging technology. Its mission is to bring clarity to, and accelerate the adoption of AI across all organisations from global enterprises to startups, and help ensure a safe and responsible transition to an AI-driven society.\nThe free, public version of our Knowledge Network empowers users to immediately access a global network of experts in Emerging Tech, AI and more, while the Enterprise edition enables large firms to capitalise on their internal expertise.\n\nCogX is our annual Festival of All things AI and has become the largest AI festival in Europe, with over 20,000 attendees and 600+ speakers.\nWe are now looking for a passionate, creative and successful Sponsorship Account Manager to join our team and help to build the leading AI event globally, CogX.\n\nThe Event:\n- CogX is Europe's largest AI and Emerging Technology Festival, see cogx.co\n- 30,000+ Attendees\n- 800+ Speakers\n- Over 16 stages covering AI and Emerging Tech on Government, Industry, and Society\n- Agenda aligned with the UN Sustainable Development Goals\n\n\n\nThe Role: \n\nWe are looking for a dynamic, organised and passionate Account Manager who is able to think on their feet and fearlessly solve problems. This role will be instrumental in providing a world-class experience and excellent client servicing ensuring partners continue their relationship with CogX for future years.\n\nCogX Partnerships range from the world’s largest technology companies to global enterprises to governmental organisations. Last year’s core partners include; HSBC ( Headline partner), QuantumBlack, IBM & Google.\n\nIn addition, CogX will be supporting 2030Vision who aims to transform the use of technology through collaborative Partnerships and innovative Projects, to support the delivery of the United Nations Sustainable Development Goals.\n\n \nRole responsibilities include:\n\n*Day to day client servicing across the CogX Partnership portfolio\n*Build relationships across partner account leads \n*Weekly reporting documents\n*Project tracking and account development\n*Weekly calls and face to face meetings\n*Assist on event site visits \n*Working onsite during the build-up and during the event dates\n\nAbout You:\n\n*Experience in event account management \n*A proven ability to work under pressure in a fast-paced environment\n*Experience in working live events \n*Event production knowledge preferred\n*Great organisational skills\n*IT literate (Excel and Google docs are key)\n*Confident, energetic and friendly\n*Client facing, approachable with a can-do attitude  \n*Interest in AI and emerging technology",
+      "descriptionHtml": "<p>CognitionX is a global leader in AI and emerging technology. Its mission is to bring clarity to, and accelerate the adoption of AI across all organisations from global enterprises to startups, and help ensure a safe and responsible transition to an AI-driven society.<br>\nThe free, public version of our Knowledge Network empowers users to immediately access a global network of experts in Emerging Tech, AI and more, while the Enterprise edition enables large firms to capitalise on their internal expertise.</p>\n\n<p>CogX is our annual Festival of All things AI and has become the largest AI festival in Europe, with over 20,000 attendees and 600+ speakers.<br>\nWe are now looking for a passionate, creative and successful Sponsorship Account Manager to join our team and help to build the leading AI event globally, CogX.</p>\n\n<p>The Event:</p>\n\n<ul>\n<li>CogX is Europe&#39;s largest AI and Emerging Technology Festival, see cogx.co</li>\n<li>30,000+ Attendees</li>\n<li>800+ Speakers</li>\n<li>Over 16 stages covering AI and Emerging Tech on Government, Industry, and Society</li>\n<li>Agenda aligned with the UN Sustainable Development Goals</li>\n</ul>\n\n<p>The Role: </p>\n\n<p>We are looking for a dynamic, organised and passionate Account Manager who is able to think on their feet and fearlessly solve problems. This role will be instrumental in providing a world-class experience and excellent client servicing ensuring partners continue their relationship with CogX for future years.</p>\n\n<p>CogX Partnerships range from the world’s largest technology companies to global enterprises to governmental organisations. Last year’s core partners include; HSBC ( Headline partner), QuantumBlack, IBM &amp; Google.</p>\n\n<p>In addition, CogX will be supporting 2030Vision who aims to transform the use of technology through collaborative Partnerships and innovative Projects, to support the delivery of the United Nations Sustainable Development Goals.</p>\n\n<p>Role responsibilities include:</p>\n\n<p>*Day to day client servicing across the CogX Partnership portfolio<br>\n*Build relationships across partner account leads <br>\n*Weekly reporting documents<br>\n*Project tracking and account development<br>\n*Weekly calls and face to face meetings<br>\n*Assist on event site visits <br>\n*Working onsite during the build-up and during the event dates</p>\n\n<p>About You:</p>\n\n<p>*Experience in event account management <br>\n*A proven ability to work under pressure in a fast-paced environment<br>\n*Experience in working live events <br>\n*Event production knowledge preferred<br>\n*Great organisational skills<br>\n*IT literate (Excel and Google docs are key)<br>\n*Confident, energetic and friendly<br>\n*Client facing, approachable with a can-do attitude<br><br>\n*Interest in AI and emerging technology</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Director Product Management",
+        "role": "Employee",
+        "url": "https://angel.co/u/tom-scrace",
+        "name": "Tom Scrace",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "697782",
+        "angelListUrl": "https://angel.co/company/cognitionx/jobs/697782-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Sponsorship Account Manager",
+      "description": "We are looking for a dynamic, organised and passionate Account Manager who is able to think on their feet and fearlessly solve problems. This role will be instrumental in providing a world-class experience and excellent client servicing ensuring  partners continue their relationship with CogX for future years.\n\nCogX Partnerships range from the world’s largest technology companies, to global enterprises to governmental organisations. Last year’s core partners include; HSBC ( Headline partner), QuantumBlack, IBM & Google.",
+      "descriptionHtml": "<p>We are looking for a dynamic, organised and passionate Account Manager who is able to think on their feet and fearlessly solve problems. This role will be instrumental in providing a world-class experience and excellent client servicing ensuring  partners continue their relationship with CogX for future years.</p>\n\n<p>CogX Partnerships range from the world’s largest technology companies, to global enterprises to governmental organisations. Last year’s core partners include; HSBC ( Headline partner), QuantumBlack, IBM &amp; Google.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Director Product Management",
+        "role": "Employee",
+        "url": "https://angel.co/u/tom-scrace",
+        "name": "Tom Scrace",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "696765",
+        "angelListUrl": "https://angel.co/company/cognitionx/jobs/696765-"
+      }
+    }
+  ]
+}

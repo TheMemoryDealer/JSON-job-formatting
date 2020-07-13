@@ -1,0 +1,137 @@
+{
+  "name": "Proportunity",
+  "avatar": "https://photos.angel.co/startups/i/3253188-47a363f67d5ed29edff75cba3f969419-medium_jpg.jpg?buster=1504110710",
+  "slogan": "The first lender built by first time buyers for first time buyers",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.proportunity.co"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/proportunity_uk"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/proportunity.co/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/proportunity"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Residential Real Estate",
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Financial Services",
+    "Finance Technology"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 1700000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1501545600,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/vadim-toader",
+      "name": "Vadim Toader",
+      "avatar": "https://photos.angel.co/users/5246611-medium_jpg?1489761115",
+      "bioHtml": "CEO &amp; Co-founder at Proportunity"
+    },
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/stefan-boronea",
+      "name": "Stefan Adrian Boronea",
+      "avatar": "https://photos.angel.co/users/184438-medium_jpg?1565278385",
+      "bioHtml": "Co-founder &amp; CTO <a href=\"https://angel.co/company/proportunity\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Proportunity</span></a> - first lender built by first time buyers for first time buyers\nWorked at <a href=\"https://angel.co/company/ibm\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">IBM</span></a>, <span><span class=\"at_symbol\">@</span><span class=\"at_name\">Booking.com</span></span>"
+    },
+    {
+      "title": "Senior Growth Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/andrei-ioan-stan",
+      "name": "Andrei Ioan Stan",
+      "avatar": "https://photos.angel.co/users/4491650-medium_jpg?1550507525",
+      "bioHtml": "Senior Growth Manager <a href=\"https://angel.co/company/proportunity\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Proportunity</span></a> "
+    },
+    {
+      "title": "Customer Success Lead",
+      "role": "Employee",
+      "url": "https://angel.co/u/becky-jay",
+      "name": "Becky Jay",
+      "avatar": "https://photos.angel.co/users/9308341-medium_jpg?1556826369",
+      "bioHtml": "Previously managed multiple client accounts for a specialist B2B travel agency, moving into startup world via Chalk Up Travel and Pesky Fish"
+    },
+    {
+      "title": "Consultant",
+      "role": "Employee",
+      "url": "https://angel.co/u/david-botting",
+      "name": "David Botting",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "3253188",
+    "angelListUrl": "https://angel.co/company/proportunity"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack/Backend Engineer",
+      "description": "Our mission at Proportunity is simple: use technology to help turn generation rent into generation own. We’re well funded by some of the world's best investors and are backed the leading real estate advisory in the UK. If you have big dreams, so do we!\n\nIf you’re an ambitious MEAN stack developer, you're focused, have a pragmatic mindset and are looking for a challenge, come join us! We're looking for someone brilliant to join our team, and develop our customer platform.\n\nOur extremely technical team turns data into quantifiable insights that help real estate investors and buyers make safer, more informed decisions. We analyse large amounts of data from various sources in multiple formats to understand how the real estate market evolves over time, and take a peek into future growth.\n\nThe mindset we share at Proportunity is that we don’t expect anyone to know all the answers, but we should have a plan how to get closer to them. We like to learn, adapt and share knowledge with the team.\n\n\nBenefits\nFull-time with flexible hours\n 5 weeks vacation \nCompetitive salary \nEmployee stock options \nComputer/workstation provided\n Fast-growing startup culture\n Fun team mates\n Encouragement of personal projects and creativity\n\n\nMust-have\nnode.js (w/ Express) experience\nYou've worked with a database storage system (ideally MongoDB or postgresql)\nYou have experience handling large datasets\n You're familiar with git\nYou know your way very well around a Linux terminal\nYou’re passionate about technology and programming\nYou're a team player and are dedicated to helping others\nYou are proactive and have a can-do mindset\n You have good communication skills\n\n\nNice-to-have\nYou have at least 3 years hands-on experience building large-scale software projects\n You're familiar with or have been using AWS and/or Google Cloud Platform\nYou're a great fan of automation\nYou’re an open source contributor\nPassionate about real estate",
+      "descriptionHtml": "<p>Our mission at Proportunity is simple: use technology to help turn generation rent into generation own. We’re well funded by some of the world&#39;s best investors and are backed the leading real estate advisory in the UK. If you have big dreams, so do we!</p>\n\n<p>If you’re an ambitious MEAN stack developer, you&#39;re focused, have a pragmatic mindset and are looking for a challenge, come join us! We&#39;re looking for someone brilliant to join our team, and develop our customer platform.</p>\n\n<p>Our extremely technical team turns data into quantifiable insights that help real estate investors and buyers make safer, more informed decisions. We analyse large amounts of data from various sources in multiple formats to understand how the real estate market evolves over time, and take a peek into future growth.</p>\n\n<p>The mindset we share at Proportunity is that we don’t expect anyone to know all the answers, but we should have a plan how to get closer to them. We like to learn, adapt and share knowledge with the team.</p>\n\n<p>Benefits<br>\nFull-time with flexible hours<br>\n 5 weeks vacation <br>\nCompetitive salary <br>\nEmployee stock options <br>\nComputer/workstation provided<br>\n Fast-growing startup culture<br>\n Fun team mates<br>\n Encouragement of personal projects and creativity</p>\n\n<p>Must-have<br>\nnode.js (w/ Express) experience<br>\nYou&#39;ve worked with a database storage system (ideally MongoDB or postgresql)<br>\nYou have experience handling large datasets<br>\n You&#39;re familiar with git<br>\nYou know your way very well around a Linux terminal<br>\nYou’re passionate about technology and programming<br>\nYou&#39;re a team player and are dedicated to helping others<br>\nYou are proactive and have a can-do mindset<br>\n You have good communication skills</p>\n\n<p>Nice-to-have<br>\nYou have at least 3 years hands-on experience building large-scale software projects<br>\n You&#39;re familiar with or have been using AWS and/or Google Cloud Platform<br>\nYou&#39;re a great fan of automation<br>\nYou’re an open source contributor<br>\nPassionate about real estate</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "MongoDB",
+        "Node.js",
+        "AngularJS",
+        "Express.js"
+      ],
+      "payment": {
+        "salary": "£40k – £80k",
+        "equity": "0.0% – 0.1%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Founder",
+        "url": "https://angel.co/u/stefan-boronea",
+        "name": "Stefan Adrian Boronea",
+        "avatar": "https://photos.angel.co/users/184438-medium_jpg?1565278385"
+      },
+      "refs": {
+        "angelListId": "396960",
+        "angelListUrl": "https://angel.co/company/proportunity/jobs/396960-"
+      }
+    }
+  ]
+}

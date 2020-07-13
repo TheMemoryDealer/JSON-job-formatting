@@ -1,0 +1,99 @@
+{
+  "name": "o.vision",
+  "avatar": "https://photos.angel.co/startups/i/7260082-dc0cb741c744c7872ae9c83807425f99-medium_jpg.jpg?buster=1571330857",
+  "slogan": "The premium facial recognition-based access control solution",
+  "description": "This will in the future provide commercial and sports venues with a way to cut down on queues, increase customer satisfaction and eliminate the unofficial ticket reselling market. For offices, we prevent the possibility of employees switching cards, and employers from footing the bill for absent workers. \n\nWhile being the most convenient way to enter any facility it is also the most secure method, that gives facility managers the potential to partially or fully automate their check-in and entry system. Our device was designed by a previous red dot award winner, to create the right first impression for client-facing businesses that wish to leverage the most cutting edge technologies available in their workplace. \n\nOur system easily integrates into your existing security ecosystem, requiring minimal time for installation. We also put data privacy and protection at the core of our values and are fully GDPR compliant.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://o.vision"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/o.vision"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "B2B",
+    "Machine Learning",
+    "Electronics"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 250000,
+    "rounds": [
+      {
+        "type": "Pre-Seed",
+        "closedAt": 1541030400,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "Founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/daniel-sozonov-1",
+      "name": "Daniel Sozonov",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7260082",
+    "angelListUrl": "https://angel.co/company/o-vision"
+  },
+  "jobs": [
+    {
+      "role": "Other Engineering",
+      "title": "Electronics Engineer (Part-time)",
+      "description": "Part-time role (20 hr/wk), that can convert to full time\n\nSalary at 12,000 - 16,000 GBP, as well as learning benefits.\n\nAbility to develop skills at a high-growth startup and understanding of computer vision/machine learning, working alongside talented engineers and data scientists.\n\nRequired -\n\nFoundational knowledge and strong interest in electronic engineering and programming Linux administration at a very basic level.\n\nExperience or understanding of systems administrator work preferred\n\nJob role consists primarily of assembling our systems, installation, and maintenance to begin with, but room for long term career growth to role as an embedded systems engineer.\n\nA high level of attention to detail and a good level of oral and written communication\n\nPresentable and professional in your demeanour with first-class interpersonal skills\n\nAbility to demonstrate initiative and a proactive approach to daily tasks\n\nPreferred -\n\nLinux Developer Skills\n\nWork experience in networked systems as a systems administrator",
+      "descriptionHtml": "<p>Part-time role (20 hr/wk), that can convert to full time</p>\n\n<p>Salary at 12,000 - 16,000 GBP, as well as learning benefits.</p>\n\n<p>Ability to develop skills at a high-growth startup and understanding of computer vision/machine learning, working alongside talented engineers and data scientists.</p>\n\n<p>Required -</p>\n\n<p>Foundational knowledge and strong interest in electronic engineering and programming Linux administration at a very basic level.</p>\n\n<p>Experience or understanding of systems administrator work preferred</p>\n\n<p>Job role consists primarily of assembling our systems, installation, and maintenance to begin with, but room for long term career growth to role as an embedded systems engineer.</p>\n\n<p>A high level of attention to detail and a good level of oral and written communication</p>\n\n<p>Presentable and professional in your demeanour with first-class interpersonal skills</p>\n\n<p>Ability to demonstrate initiative and a proactive approach to daily tasks</p>\n\n<p>Preferred -</p>\n\n<p>Linux Developer Skills</p>\n\n<p>Work experience in networked systems as a systems administrator</p>\n",
+      "position": "cofounder",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Linux"
+      ],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": "Founder",
+        "role": "Founder",
+        "url": "https://angel.co/u/daniel-sozonov-1",
+        "name": "Daniel Sozonov",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "646266",
+        "angelListUrl": "https://angel.co/company/o-vision/jobs/646266-"
+      }
+    }
+  ]
+}

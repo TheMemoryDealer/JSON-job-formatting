@@ -1,0 +1,261 @@
+{
+  "name": "Agile Charging",
+  "avatar": "https://photos.angel.co/startups/i/7548043-22b18f7066eb98d6e7fe7c9d792f14d4-medium_jpg.jpg?buster=1583772981",
+  "slogan": "Fast EV charging, anywhere",
+  "description": "By connecting our chargepoint to standard 16A Commando sockets and trickle charging 20kWh of lithium-ion batteries overnight, the chargepoint can provide 2x 7kW fast charges via 2x Type 2 connectors on sites that could not otherwise provide this.\n\nThe chargepoint removes the need for costly installation work and the lengthy-time delays required by upgrading your site's power supply.\n\nThe device is web-enabled and OCPP 2.0 compliant, meaning we can integrate with your preferred 3rd party EV software. The chargepoint is also smart charging-enabled and can be integrated with your site's existing demand response fleet if required.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.agilecharging.com/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/agilecharging"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Energy Storage",
+    "Electric Vehicles",
+    "Mobility"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 120000,
+    "rounds": [
+      {
+        "type": "Pre-Seed",
+        "closedAt": 1566259200,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/david-john-kaye",
+      "name": "David John Kaye",
+      "avatar": "https://photos.angel.co/users/2046540-medium_jpg?1457883113",
+      "bioHtml": "Commercial Director <a href=\"https://angel.co/company/agile-charging\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Agile Charging</span></a>, ex-BD@highview-power-storage "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7548043",
+    "angelListUrl": "https://angel.co/company/agile-charging"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Firmware Engineer",
+      "description": "**Description**\n\nAgile Charging is the newest spin-out venture from Sustainable Ventures, a builder of sustainability businesses based in central London. \n\nAgile is currently seeking a highly motivated engineer to lead the software development of a new electric vehicle charging technology. The role requires a talented software/firmware engineer, with an interest in and experience of early stage product development, concept iteration and prototyping. \n\n**Requirements**\n\nCandidate Profile:\nPotential candidates will come from a highly technical background with strong knowledge of software/firmware development, but will also be expected to exhibit the following common characteristics:\n\n•\tA graduate degree in Computing, Software Engineering or equivalent. \n•\tExperience of technical development from concept to operation \n•\tStrong interpersonal skills, with the ability to build and maintain productive relationships within a multi-disciplinary team\n•\tEnthusiastic approach to problem-solving – someone who enjoys a technical challenge from a blank sheet of paper\n•\tAbility to work independently, taking initiative and ‘ownership’ \n•\tStrong written and verbal communication skills \n•\tHighly motivated and prepared to operate in a dynamic environment through the growth stages of a new venture\n•\tComfortable working as part of a cross-functional team, actively contributing to the venture development cycle\n•\tWorking knowledge of power electronics, storage and systems integration\n•\tWorking knowledge of low carbon technology, battery technologies and electric vehicle charging infrastructure would be an advantage\n\n**Responsibilities**\n\nThe fast-paced and evolving nature of early stage product development means the successful candidate will be a self-starter involved in a range of activities: \n\n•\tConcept design and iterative development, including specification and design of management software and platform \n•\tWorking with other members of the team in further developing the software to control and monitor charge points remotely\n•\tDevelopment of the infrastructure, currently using AWS, MQTT and Django\n•\tDevelopment of control software on the device, currently written in Python\n•\tIntegration with other system components via serial, TCP, relays etc\n•\tSpecifying, sourcing and costing of hardware components as appropriate\n•\tWith the team, initial construction of a commercial prototype\n•\tSystem integration, testing and evaluation of control system algorithms as part of wider systems tests\n•\tEvaluation of regulatory, safety and health and safety requirements",
+      "descriptionHtml": "<p><strong>Description</strong></p>\n\n<p>Agile Charging is the newest spin-out venture from Sustainable Ventures, a builder of sustainability businesses based in central London. </p>\n\n<p>Agile is currently seeking a highly motivated engineer to lead the software development of a new electric vehicle charging technology. The role requires a talented software/firmware engineer, with an interest in and experience of early stage product development, concept iteration and prototyping. </p>\n\n<p><strong>Requirements</strong></p>\n\n<p>Candidate Profile:<br>\nPotential candidates will come from a highly technical background with strong knowledge of software/firmware development, but will also be expected to exhibit the following common characteristics:</p>\n\n<p>• A graduate degree in Computing, Software Engineering or equivalent. <br>\n• Experience of technical development from concept to operation <br>\n• Strong interpersonal skills, with the ability to build and maintain productive relationships within a multi-disciplinary team<br>\n• Enthusiastic approach to problem-solving – someone who enjoys a technical challenge from a blank sheet of paper<br>\n• Ability to work independently, taking initiative and ‘ownership’ <br>\n• Strong written and verbal communication skills <br>\n• Highly motivated and prepared to operate in a dynamic environment through the growth stages of a new venture<br>\n• Comfortable working as part of a cross-functional team, actively contributing to the venture development cycle<br>\n• Working knowledge of power electronics, storage and systems integration<br>\n• Working knowledge of low carbon technology, battery technologies and electric vehicle charging infrastructure would be an advantage</p>\n\n<p><strong>Responsibilities</strong></p>\n\n<p>The fast-paced and evolving nature of early stage product development means the successful candidate will be a self-starter involved in a range of activities: </p>\n\n<p>• Concept design and iterative development, including specification and design of management software and platform <br>\n• Working with other members of the team in further developing the software to control and monitor charge points remotely<br>\n• Development of the infrastructure, currently using AWS, MQTT and Django<br>\n• Development of control software on the device, currently written in Python<br>\n• Integration with other system components via serial, TCP, relays etc<br>\n• Specifying, sourcing and costing of hardware components as appropriate<br>\n• With the team, initial construction of a commercial prototype<br>\n• System integration, testing and evaluation of control system algorithms as part of wider systems tests<br>\n• Evaluation of regulatory, safety and health and safety requirements</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Django",
+        "MQTT"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/david-john-kaye",
+        "name": "David John Kaye",
+        "avatar": "https://photos.angel.co/users/2046540-medium_jpg?1457883113"
+      },
+      "refs": {
+        "angelListId": "751326",
+        "angelListUrl": "https://angel.co/company/agile-charging/jobs/751326-"
+      }
+    },
+    {
+      "role": "Management",
+      "title": "Technical & Manufacturing Lead",
+      "description": "**Description**\n\nAgile Charging is the newest spin-out venture from Sustainable Ventures, a builder of sustainability-focussed businesses based in Southwark, Central London. \n\nAgile is currently seeking a highly motivated and experienced Technical & Manufacturing Lead to drive the development and commercial launch of a new EV charging technology. \n\nThe role requires a talented engineer with experience of early-stage product development, concept iteration and scaling from batch volumes to commercial production levels. The role will encompass technical strategy formulation, engineering design, system specification, and manufacturing process leadership.\n\n**Requirements**\n\nCandidate Profile:\nPotential candidates will come from a highly technical background with strong knowledge of electrical and/or electronic product development, but will also be expected to exhibit the following common characteristics:\n\n●\tA graduate degree in Engineering or equivalent experience. \n●\tPassionate about EVs, the energy transition and climate change mitigation\n●\tSignificant experience of leading technical development processes from concept to launch and scale up in a commercially competitive market\n●\tStrong interpersonal skills, with the ability to build and maintain productive relationships within a multi-disciplinary team\n●\tEnthusiastic approach to problem-solving – someone who enjoys a technical challenge from a blank sheet of paper\n●\tAbility to work independently, taking initiative and ‘ownership’ of strategy\n●\tComfortable working as part of a cross-functional team, actively steering to the venture development cycle\n●\tDemonstrated leadership as part of a start-up management team \n●\tStrong written and verbal communication skills \n●\tExperience of electronics enclosures ideally to IP66 \n●\tStrong experience of mains AC and low voltage DC systems and circuit design with knowledge of control using IoT and embedded engineering\n●\tThe ideal candidate will have significant knowledge of battery technologies and electric vehicle charging infrastructure \n\n**Responsibilities**\n\nThe fast-paced and evolving nature of early stage product development means the successful candidate will be a self-starter that leads in a range of activities: \n\n●\tEvaluation of regulatory, safety and health and safety requirements\n●\tSupervising concept design and iterative development across mechanical, electrical/electronic and software systems\t\n●\tCollaborating with Commercial team to find product-market fit \n●\tDelivery of publicly funded innovation and development projects \n●\tLeading the supply chain analysis and management \n●\tOwnership of manufacturing strategy and partner/ supplier relationships\n●\tDevelopment of QA/QC plan and ownership of results\n●\tLeading the team to complete and refine the commercial product \n●\tDelivering the technical aspects of a multi-disciplinary project within the various constraints of the project timescales, budget and team\n●\tWork with management team and board to prepare for Series A and exit",
+      "descriptionHtml": "<p><strong>Description</strong></p>\n\n<p>Agile Charging is the newest spin-out venture from Sustainable Ventures, a builder of sustainability-focussed businesses based in Southwark, Central London. </p>\n\n<p>Agile is currently seeking a highly motivated and experienced Technical &amp; Manufacturing Lead to drive the development and commercial launch of a new EV charging technology. </p>\n\n<p>The role requires a talented engineer with experience of early-stage product development, concept iteration and scaling from batch volumes to commercial production levels. The role will encompass technical strategy formulation, engineering design, system specification, and manufacturing process leadership.</p>\n\n<p><strong>Requirements</strong></p>\n\n<p>Candidate Profile:<br>\nPotential candidates will come from a highly technical background with strong knowledge of electrical and/or electronic product development, but will also be expected to exhibit the following common characteristics:</p>\n\n<p>● A graduate degree in Engineering or equivalent experience. <br>\n● Passionate about EVs, the energy transition and climate change mitigation<br>\n● Significant experience of leading technical development processes from concept to launch and scale up in a commercially competitive market<br>\n● Strong interpersonal skills, with the ability to build and maintain productive relationships within a multi-disciplinary team<br>\n● Enthusiastic approach to problem-solving – someone who enjoys a technical challenge from a blank sheet of paper<br>\n● Ability to work independently, taking initiative and ‘ownership’ of strategy<br>\n● Comfortable working as part of a cross-functional team, actively steering to the venture development cycle<br>\n● Demonstrated leadership as part of a start-up management team <br>\n● Strong written and verbal communication skills <br>\n● Experience of electronics enclosures ideally to IP66 <br>\n● Strong experience of mains AC and low voltage DC systems and circuit design with knowledge of control using IoT and embedded engineering<br>\n● The ideal candidate will have significant knowledge of battery technologies and electric vehicle charging infrastructure </p>\n\n<p><strong>Responsibilities</strong></p>\n\n<p>The fast-paced and evolving nature of early stage product development means the successful candidate will be a self-starter that leads in a range of activities: </p>\n\n<p>● Evaluation of regulatory, safety and health and safety requirements<br>\n● Supervising concept design and iterative development across mechanical, electrical/electronic and software systems<br><br>\n● Collaborating with Commercial team to find product-market fit <br>\n● Delivery of publicly funded innovation and development projects <br>\n● Leading the supply chain analysis and management <br>\n● Ownership of manufacturing strategy and partner/ supplier relationships<br>\n● Development of QA/QC plan and ownership of results<br>\n● Leading the team to complete and refine the commercial product <br>\n● Delivering the technical aspects of a multi-disciplinary project within the various constraints of the project timescales, budget and team<br>\n● Work with management team and board to prepare for Series A and exit</p>\n",
+      "position": "full-time",
+      "experience": 10,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Management",
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Manufacturing"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/david-john-kaye",
+        "name": "David John Kaye",
+        "avatar": "https://photos.angel.co/users/2046540-medium_jpg?1457883113"
+      },
+      "refs": {
+        "angelListId": "751331",
+        "angelListUrl": "https://angel.co/company/agile-charging/jobs/751331-"
+      }
+    },
+    {
+      "role": "Management",
+      "title": "Commercial Lead",
+      "description": "**Description**\n\nAgile Charging is the newest spin-out venture from Sustainable Ventures, a builder of sustainability-focussed businesses based in Southwark, Central London. \n\nAgile is currently seeking a highly motivated Commercial Lead to build the outward-facing presence and sales pipeline of a new electric vehicle charging technology company. The role requires a talented professional with experience of technical product strategy, sales and marketing.\n\nThe successful candidate will be a business development professional with experience of supporting growth of early-stage products through development and scaling to full production levels. The role will encompass commercial strategy formulation and execution, system specification, and leadership of a lean commercial team.\n\n**Requirements**\n\nCandidate Profile:\nPotential candidates will come from a commercial background and will be expected to exhibit the following characteristics:\n\n•\tA degree in Marketing, Business or equivalent experience\n•\tPassionate about EVs, the energy transition and climate change mitigation\n•\tSignificant experience of leading commercial development from concept to launch and scale up in a commercially competitive market\n•\tStrong interpersonal skills, with the ability to build and maintain productive relationships within a multi-disciplinary team\n•\tEnthusiastic approach to problem-solving – someone who enjoys a challenge from a blank sheet of paper\n•\tAbility to work independently, taking initiative and ‘ownership’ of strategy\n•\tStrong written and verbal communication skills \n•\tComfortable working as part of a cross-functional team, actively steering to the venture development cycle\n•\tDemonstrated leadership as part of a start-up management team \n•\tDriven by the creation and growth of a new venture\n•\tExperience of low carbon tech, e-mobility or energy storage is advantageous \n•\tThe ideal candidate will have knowledge of the commercials behind battery technologies and/or electric vehicle charging infrastructure \n•\tPrevious commercial relationships with automotive OEMs, vehicle fleet owners and industrial partners will be a key advantage\n\n**Responsibilities**\n\nThe fast-paced and evolving nature of early stage product development means the successful candidate will be a self-starter involved in a range of activities: \n\n•\tMarket assessment, segmentation and competitor analysis\n•\tLead the collection of feedback from customers about their experience of our products, including gaining insights from ongoing field trials\n•\tLead marketing and PR plans for product launch then campaigns to scale \n•\tLeading and co-ordinating content creation by the team \n•\tLeading the development of the commercial proposition\n•\tLaunch and growth of our brand in the booming EV chargepoint industry\n•\tWorking with partners/suppliers to implement plans and build community\n•\tMeasurement and reporting of marketing effectiveness using analytics\n•\tCollaborating with Technical team to find product-market fit \n•\tDelivery of publicly funded innovation and development projects \n•\tOwnership and development of channel partner strategy and relationships\n•\tProviding input to the technical team as they complete and refine the commercial product \n•\tDelivering the commercial aspects of a multi-disciplinary project within the various constraints of the project timescales, budget and team\n•\tWork with management team and board to prepare for Series A and exit \n•\tSupport the Managing Director with business development activities",
+      "descriptionHtml": "<p><strong>Description</strong></p>\n\n<p>Agile Charging is the newest spin-out venture from Sustainable Ventures, a builder of sustainability-focussed businesses based in Southwark, Central London. </p>\n\n<p>Agile is currently seeking a highly motivated Commercial Lead to build the outward-facing presence and sales pipeline of a new electric vehicle charging technology company. The role requires a talented professional with experience of technical product strategy, sales and marketing.</p>\n\n<p>The successful candidate will be a business development professional with experience of supporting growth of early-stage products through development and scaling to full production levels. The role will encompass commercial strategy formulation and execution, system specification, and leadership of a lean commercial team.</p>\n\n<p><strong>Requirements</strong></p>\n\n<p>Candidate Profile:<br>\nPotential candidates will come from a commercial background and will be expected to exhibit the following characteristics:</p>\n\n<p>• A degree in Marketing, Business or equivalent experience<br>\n• Passionate about EVs, the energy transition and climate change mitigation<br>\n• Significant experience of leading commercial development from concept to launch and scale up in a commercially competitive market<br>\n• Strong interpersonal skills, with the ability to build and maintain productive relationships within a multi-disciplinary team<br>\n• Enthusiastic approach to problem-solving – someone who enjoys a challenge from a blank sheet of paper<br>\n• Ability to work independently, taking initiative and ‘ownership’ of strategy<br>\n• Strong written and verbal communication skills <br>\n• Comfortable working as part of a cross-functional team, actively steering to the venture development cycle<br>\n• Demonstrated leadership as part of a start-up management team <br>\n• Driven by the creation and growth of a new venture<br>\n• Experience of low carbon tech, e-mobility or energy storage is advantageous <br>\n• The ideal candidate will have knowledge of the commercials behind battery technologies and/or electric vehicle charging infrastructure <br>\n• Previous commercial relationships with automotive OEMs, vehicle fleet owners and industrial partners will be a key advantage</p>\n\n<p><strong>Responsibilities</strong></p>\n\n<p>The fast-paced and evolving nature of early stage product development means the successful candidate will be a self-starter involved in a range of activities: </p>\n\n<p>• Market assessment, segmentation and competitor analysis<br>\n• Lead the collection of feedback from customers about their experience of our products, including gaining insights from ongoing field trials<br>\n• Lead marketing and PR plans for product launch then campaigns to scale <br>\n• Leading and co-ordinating content creation by the team <br>\n• Leading the development of the commercial proposition<br>\n• Launch and growth of our brand in the booming EV chargepoint industry<br>\n• Working with partners/suppliers to implement plans and build community<br>\n• Measurement and reporting of marketing effectiveness using analytics<br>\n• Collaborating with Technical team to find product-market fit <br>\n• Delivery of publicly funded innovation and development projects <br>\n• Ownership and development of channel partner strategy and relationships<br>\n• Providing input to the technical team as they complete and refine the commercial product <br>\n• Delivering the commercial aspects of a multi-disciplinary project within the various constraints of the project timescales, budget and team<br>\n• Work with management team and board to prepare for Series A and exit <br>\n• Support the Managing Director with business development activities</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Sales",
+        "Sales and Marketing",
+        "Strategic Partnerships"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/david-john-kaye",
+        "name": "David John Kaye",
+        "avatar": "https://photos.angel.co/users/2046540-medium_jpg?1457883113"
+      },
+      "refs": {
+        "angelListId": "751335",
+        "angelListUrl": "https://angel.co/company/agile-charging/jobs/751335-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Marketing & Sales Manager",
+      "description": "**Description**\n\nAgile Charging is the newest spin-out venture from Sustainable Ventures, a builder of sustainability-focussed businesses based in Southwark, Central London. \n\nAgile is currently seeking a highly motivated marketer to build the outward-facing presence of a new electric vehicle charging technology company. The role requires a talented professional with experience of technical product marketing and sales.\n\nThe role will encompass market assessment and segmentation, competitor analysis, PR and communications planning, content creation, event management and direct sales.\n\n**Requirements**\n\nCandidate Profile:\nPotential candidates will come from a marketing and commercial background and will be expected to exhibit the following characteristics:\n\n•\tA degree in Marketing, Business or equivalent experience\n•\tComfortable in a direct sales environment\n•\tStrong interpersonal skills, with the ability to build and maintain productive relationships within a multi-disciplinary team\n•\tEnthusiastic approach to problem-solving – someone who enjoys a challenge from a blank sheet of paper\n•\tAbility to work independently, taking initiative and ‘ownership’ \n•\tStrong written and verbal communication skills \n•\tAbility to build, test and manage lead generation and market engagement\n•\tExperience of CMS, CRM and marketing automation systems\n•\tDemonstrated project management experience\n•\tDriven by the creation and growth of the new venture\n•\tComfortable working as part of a cross-functional team, actively contributing to the venture development cycle\n•\tExperience of low carbon tech, e-mobility or energy storage is advantageous \n\n**Responsibilities**\n\nThe fast-paced and evolving nature of early stage product development means the successful candidate will be a self-starter involved in a range of activities: \n\n•\tMarket assessment and segmentation, including competitor analysis\n•\tContinuously gather feedback from customers about their experience of our products, including gaining insights from ongoing field trials\n•\tBuild marketing and PR plans for product launch then campaigns to scale \n•\tLeading and co-ordinating content creation by the team \n•\tWith the team, initial development of the commercial proposition\n•\tLaunch and growth of our brand in the booming EV chargepoint industry\n•\tWorking with partners/suppliers to implement plans and build community\n•\tDelivering the marketing aspects of a multi-disciplinary project within the various constraints of the overall project timescales, budget and team\n•\tMeasurement and reporting of marketing effectiveness using analytics\n•\tSupport the Commercial Director with business development activities",
+      "descriptionHtml": "<p><strong>Description</strong></p>\n\n<p>Agile Charging is the newest spin-out venture from Sustainable Ventures, a builder of sustainability-focussed businesses based in Southwark, Central London. </p>\n\n<p>Agile is currently seeking a highly motivated marketer to build the outward-facing presence of a new electric vehicle charging technology company. The role requires a talented professional with experience of technical product marketing and sales.</p>\n\n<p>The role will encompass market assessment and segmentation, competitor analysis, PR and communications planning, content creation, event management and direct sales.</p>\n\n<p><strong>Requirements</strong></p>\n\n<p>Candidate Profile:<br>\nPotential candidates will come from a marketing and commercial background and will be expected to exhibit the following characteristics:</p>\n\n<p>• A degree in Marketing, Business or equivalent experience<br>\n• Comfortable in a direct sales environment<br>\n• Strong interpersonal skills, with the ability to build and maintain productive relationships within a multi-disciplinary team<br>\n• Enthusiastic approach to problem-solving – someone who enjoys a challenge from a blank sheet of paper<br>\n• Ability to work independently, taking initiative and ‘ownership’ <br>\n• Strong written and verbal communication skills <br>\n• Ability to build, test and manage lead generation and market engagement<br>\n• Experience of CMS, CRM and marketing automation systems<br>\n• Demonstrated project management experience<br>\n• Driven by the creation and growth of the new venture<br>\n• Comfortable working as part of a cross-functional team, actively contributing to the venture development cycle<br>\n• Experience of low carbon tech, e-mobility or energy storage is advantageous </p>\n\n<p><strong>Responsibilities</strong></p>\n\n<p>The fast-paced and evolving nature of early stage product development means the successful candidate will be a self-starter involved in a range of activities: </p>\n\n<p>• Market assessment and segmentation, including competitor analysis<br>\n• Continuously gather feedback from customers about their experience of our products, including gaining insights from ongoing field trials<br>\n• Build marketing and PR plans for product launch then campaigns to scale <br>\n• Leading and co-ordinating content creation by the team <br>\n• With the team, initial development of the commercial proposition<br>\n• Launch and growth of our brand in the booming EV chargepoint industry<br>\n• Working with partners/suppliers to implement plans and build community<br>\n• Delivering the marketing aspects of a multi-disciplinary project within the various constraints of the overall project timescales, budget and team<br>\n• Measurement and reporting of marketing effectiveness using analytics<br>\n• Support the Commercial Director with business development activities</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£40k – £45k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/david-john-kaye",
+        "name": "David John Kaye",
+        "avatar": "https://photos.angel.co/users/2046540-medium_jpg?1457883113"
+      },
+      "refs": {
+        "angelListId": "751336",
+        "angelListUrl": "https://angel.co/company/agile-charging/jobs/751336-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Operations Manager",
+      "description": "**Description**\n\nAgile Charging is the newest spin-out venture from Sustainable Ventures, a builder of sustainability-focussed businesses based in Southwark, Central London. \n\nAgile is currently seeking a highly motivated Operations Manager to support the company's team as they design, build and sell a new electric vehicle charging technology. The role requires a well-organised, proactive and detail-oriented professional with experience of start-ups and/or engineering project management.\n\n**Requirements**\n\nCandidate Profile:\n\nPotential candidates will have strong knowledge of project delivery, but will also be expected to exhibit the following common characteristics:\n•\tBachelor's degree in an appropriate field, or equivalent experience. \n•\tStrong interpersonal skills, with the ability to build and maintain productive relationships within a multi-disciplinary team.\n•\tEnthusiastic approach to problem-solving – someone who enjoys a challenge from a blank sheet of paper\n•\tAbility to work independently, taking initiative and ‘ownership’ \n•\tProactive mindset and solid multi-tasking: constantly assessing possible risks/opportunities and actioning ways to resolve them\n•\tStrong written and verbal communication skills \n•\tExperience of project management methodologies and systems such as Scrum/Agile, PMP, or PRINCE2\n•\tDirect experience of working on and supporting complex projects\n•\tExperience of project reporting, monitoring financials and constraints\n•\tStrong knowledge of Microsoft Office and familiarity with G Suite\n•\tComfortable working as part of a cross-functional team, actively contributing to the venture development cycle\n•\tExperience of delivering government-funded innovation projects, especially for clean energy, e-mobility or electro-mechanical tech, is an advantage\n\n**Responsibilities**\n\nThe fast-paced and evolving nature of early stage product development means the successful candidate will be a self-starter involved in a range of activities: \n\n•\tManagement of project communication with grant-funding bodies such as Innovate UK, Department for Transport and BEIS\n•\tEnsuring the delivery of the various aspects of a multi-disciplinary project within the constraints of project timescales, budget and team\n•\tCo-ordinating the development process of the commercial and technical propositions\n•\tWorking with partners/suppliers to ensure successful project delivery\n•\tSupporting the manufacturing process and securing supply chain\n•\tSupporting the management team and board as they prepare for a Series A round in 2021 and subsequent exit",
+      "descriptionHtml": "<p><strong>Description</strong></p>\n\n<p>Agile Charging is the newest spin-out venture from Sustainable Ventures, a builder of sustainability-focussed businesses based in Southwark, Central London. </p>\n\n<p>Agile is currently seeking a highly motivated Operations Manager to support the company&#39;s team as they design, build and sell a new electric vehicle charging technology. The role requires a well-organised, proactive and detail-oriented professional with experience of start-ups and/or engineering project management.</p>\n\n<p><strong>Requirements</strong></p>\n\n<p>Candidate Profile:</p>\n\n<p>Potential candidates will have strong knowledge of project delivery, but will also be expected to exhibit the following common characteristics:<br>\n• Bachelor&#39;s degree in an appropriate field, or equivalent experience. <br>\n• Strong interpersonal skills, with the ability to build and maintain productive relationships within a multi-disciplinary team.<br>\n• Enthusiastic approach to problem-solving – someone who enjoys a challenge from a blank sheet of paper<br>\n• Ability to work independently, taking initiative and ‘ownership’ <br>\n• Proactive mindset and solid multi-tasking: constantly assessing possible risks/opportunities and actioning ways to resolve them<br>\n• Strong written and verbal communication skills <br>\n• Experience of project management methodologies and systems such as Scrum/Agile, PMP, or PRINCE2<br>\n• Direct experience of working on and supporting complex projects<br>\n• Experience of project reporting, monitoring financials and constraints<br>\n• Strong knowledge of Microsoft Office and familiarity with G Suite<br>\n• Comfortable working as part of a cross-functional team, actively contributing to the venture development cycle<br>\n• Experience of delivering government-funded innovation projects, especially for clean energy, e-mobility or electro-mechanical tech, is an advantage</p>\n\n<p><strong>Responsibilities</strong></p>\n\n<p>The fast-paced and evolving nature of early stage product development means the successful candidate will be a self-starter involved in a range of activities: </p>\n\n<p>• Management of project communication with grant-funding bodies such as Innovate UK, Department for Transport and BEIS<br>\n• Ensuring the delivery of the various aspects of a multi-disciplinary project within the constraints of project timescales, budget and team<br>\n• Co-ordinating the development process of the commercial and technical propositions<br>\n• Working with partners/suppliers to ensure successful project delivery<br>\n• Supporting the manufacturing process and securing supply chain<br>\n• Supporting the management team and board as they prepare for a Series A round in 2021 and subsequent exit</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Business Operations",
+        "Project Management"
+      ],
+      "payment": {
+        "salary": "£33k – £36k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/david-john-kaye",
+        "name": "David John Kaye",
+        "avatar": "https://photos.angel.co/users/2046540-medium_jpg?1457883113"
+      },
+      "refs": {
+        "angelListId": "751339",
+        "angelListUrl": "https://angel.co/company/agile-charging/jobs/751339-"
+      }
+    },
+    {
+      "role": "Other Engineering",
+      "title": "Electrical Engineer",
+      "description": "**Description**\n\nAgile Charging is the newest spin-out venture from Sustainable Ventures, a builder of sustainability-focussed businesses based in Southwark, Central London. \n\nAgile is currently seeking a highly motivated engineer to lead the electrical development of a new electric vehicle charging technology. The role requires a talented electrical engineer, with an interest in and experience of early stage product development, concept iteration and prototyping. \n\nIn addition to successful delivery of the first commercial prototype, there is potential to support other ventures within the Sustainable Ventures ecosystem and wider portfolio of low carbon technology start-ups.\n\n**Requirements**\n\nCandidate Profile:\nPotential candidates will come from a highly technical background with strong knowledge of electrical product development, but will also be expected to exhibit the following common characteristics:\n\n•\tA graduate degree in Electrical Engineering or equivalent\n•\tExperience of technical development from concept to execution\n•\tStrong interpersonal skills, with the ability to build and maintain productive relationships within a multi-disciplinary team.\n•\tEnthusiastic approach to problem-solving – someone who enjoys a technical challenge from a blank sheet of paper\n•\tAbility to work independently, taking initiative and ‘ownership’ \n•\tStrong written and verbal communication skills \n•\tWorking knowledge of power electronics, storage and systems integration\n•\tExperience of mains AC and low voltage DC systems and circuit design with knowledge of control using IoT and embedded engineering\n•\tComfortable working as part of a cross-functional team, actively contributing to the venture development cycle\n•\tDriven by the creation and growth of the new venture  \n•\tA working knowledge of battery technologies and electric vehicle charging infrastructure would be an advantage\n•\tExperience of low carbon technology development, e-mobility or energy storage is welcome, but not critical\n\n**Responsibilities**\n\nThe fast-paced and evolving nature of early stage product development means the successful candidate will be a self-starter involved in a range of activities: \n\n•\tConcept design and iterative development, including mains and/or low voltage DC circuits and electrical / electronic systems\n•\tSpecifying, sourcing and costing of components and electrical architecture\n•\tData analysis to support the development of the technology\n•\tWith the team, initial construction of a commercial prototype\n•\tWorking with partners/suppliers to prepare for delivery and scale\n•\tSystem integration, testing and evaluation of electrical sub-systems\n•\tDelivering the electrical / electronic aspects of a multi-disciplinary project within the various constraints of overall timescales, budget and team\n•\tEvaluation of regulatory, safety and health and safety requirements",
+      "descriptionHtml": "<p><strong>Description</strong></p>\n\n<p>Agile Charging is the newest spin-out venture from Sustainable Ventures, a builder of sustainability-focussed businesses based in Southwark, Central London. </p>\n\n<p>Agile is currently seeking a highly motivated engineer to lead the electrical development of a new electric vehicle charging technology. The role requires a talented electrical engineer, with an interest in and experience of early stage product development, concept iteration and prototyping. </p>\n\n<p>In addition to successful delivery of the first commercial prototype, there is potential to support other ventures within the Sustainable Ventures ecosystem and wider portfolio of low carbon technology start-ups.</p>\n\n<p><strong>Requirements</strong></p>\n\n<p>Candidate Profile:<br>\nPotential candidates will come from a highly technical background with strong knowledge of electrical product development, but will also be expected to exhibit the following common characteristics:</p>\n\n<p>• A graduate degree in Electrical Engineering or equivalent<br>\n• Experience of technical development from concept to execution<br>\n• Strong interpersonal skills, with the ability to build and maintain productive relationships within a multi-disciplinary team.<br>\n• Enthusiastic approach to problem-solving – someone who enjoys a technical challenge from a blank sheet of paper<br>\n• Ability to work independently, taking initiative and ‘ownership’ <br>\n• Strong written and verbal communication skills <br>\n• Working knowledge of power electronics, storage and systems integration<br>\n• Experience of mains AC and low voltage DC systems and circuit design with knowledge of control using IoT and embedded engineering<br>\n• Comfortable working as part of a cross-functional team, actively contributing to the venture development cycle<br>\n• Driven by the creation and growth of the new venture<br><br>\n• A working knowledge of battery technologies and electric vehicle charging infrastructure would be an advantage<br>\n• Experience of low carbon technology development, e-mobility or energy storage is welcome, but not critical</p>\n\n<p><strong>Responsibilities</strong></p>\n\n<p>The fast-paced and evolving nature of early stage product development means the successful candidate will be a self-starter involved in a range of activities: </p>\n\n<p>• Concept design and iterative development, including mains and/or low voltage DC circuits and electrical / electronic systems<br>\n• Specifying, sourcing and costing of components and electrical architecture<br>\n• Data analysis to support the development of the technology<br>\n• With the team, initial construction of a commercial prototype<br>\n• Working with partners/suppliers to prepare for delivery and scale<br>\n• System integration, testing and evaluation of electrical sub-systems<br>\n• Delivering the electrical / electronic aspects of a multi-disciplinary project within the various constraints of overall timescales, budget and team<br>\n• Evaluation of regulatory, safety and health and safety requirements</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Electrical Engineering",
+        "Electronics Engineering"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/david-john-kaye",
+        "name": "David John Kaye",
+        "avatar": "https://photos.angel.co/users/2046540-medium_jpg?1457883113"
+      },
+      "refs": {
+        "angelListId": "751340",
+        "angelListUrl": "https://angel.co/company/agile-charging/jobs/751340-"
+      }
+    }
+  ]
+}

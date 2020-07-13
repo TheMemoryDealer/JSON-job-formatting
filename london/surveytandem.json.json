@@ -1,0 +1,107 @@
+{
+  "name": "SurveyTandem",
+  "avatar": "https://photos.angel.co/startups/i/6724680-1efeee07223b7c3b65f566490eca2c01-medium_jpg.jpg?buster=1547080953",
+  "slogan": "Online platform that helps researchers access respondents/participants",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.surveytandem.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Education",
+    "Market Research"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/jakub-zimola-1",
+      "name": "Jakub Zimola",
+      "avatar": "https://photos.angel.co/users/7040975-medium_jpg?1525280490",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/benoit-mangin",
+      "name": "Benoit Mangin",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6724680",
+    "angelListUrl": "https://angel.co/company/surveytandem"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full stack developer",
+      "description": "To strengthen our team we are looking for a full stack web developer with an entrepreneurial spirit. Knowledge in the following areas is of advantage: \n\nJavaScript\nAngularJS\nBootstrap\nPHP\nLaravel\nSQL\nMySQL\nYou would be responsible for scaling and improving this website. You can be located anywhere in the world as long as you have a good internet connection.",
+      "descriptionHtml": "<p>To strengthen our team we are looking for a full stack web developer with an entrepreneurial spirit. Knowledge in the following areas is of advantage: </p>\n\n<p>JavaScript<br>\nAngularJS<br>\nBootstrap<br>\nPHP<br>\nLaravel<br>\nSQL<br>\nMySQL<br>\nYou would be responsible for scaling and improving this website. You can be located anywhere in the world as long as you have a good internet connection.</p>\n",
+      "position": "cofounder",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "PHP",
+        "Javascript",
+        "SQL",
+        "MySQL",
+        "Bootstrap",
+        "AngularJS",
+        "Laravel"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "15.0% – 30.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/jakub-zimola-1",
+        "name": "Jakub Zimola",
+        "avatar": "https://photos.angel.co/users/7040975-medium_jpg?1525280490"
+      },
+      "refs": {
+        "angelListId": "484264",
+        "angelListUrl": "https://angel.co/company/surveytandem/jobs/484264-"
+      }
+    }
+  ]
+}

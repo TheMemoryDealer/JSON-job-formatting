@@ -1,0 +1,118 @@
+{
+  "name": "AI-Adam",
+  "avatar": "https://photos.angel.co/startups/i/4702535-a6c3b64ccaa237bf64b43ada4938e945-medium_jpg.jpg?buster=1506437796",
+  "slogan": "AI-Adam provides technical recruiting and talent acquisition in Artificial Intelligence",
+  "description": "AI-Adam chat bot coming soon - Artificial Intelligence, Robotics, Data Science, Big Data, Analytics, Machine Learning & Deep Learning \n\nAt AI-Adam we focus on Intelligent and efficient sourcing by using Predictive Analytics to Improve Sourcing. During the sourcing process at AI-Adam, predictive analytics models can identify stronger candidates more quickly and accurately than traditional methods.\n\nAI sourcing that uses predictive models can provide our team with a solid slate of candidates as soon as a requisition is opened, giving our clients a strong head start to secure the best talent.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.ai-adam.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.ai-adam.com/ai-news"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/AIAdamUK"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/AIAdamUK"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/ai-adam"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Artificial Intelligence",
+    "Technology",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Co-founder & Director - Technical Recruiter",
+      "role": "Founder",
+      "url": "https://angel.co/u/siobhan-joyce",
+      "name": "Siobhan Joyce",
+      "avatar": "https://photos.angel.co/users/7386942-medium_jpg?1516270836",
+      "bioHtml": "Director - Technical Recruiter at AI-Adam"
+    },
+    {
+      "title": "Co-founder & Business Advisor",
+      "role": "Founder",
+      "url": "https://angel.co/u/adamrabinovitch",
+      "name": "Adam Rabinovitch",
+      "avatar": "https://photos.angel.co/users/337273-medium_jpg?1538988923",
+      "bioHtml": "Senior Technical Recruiter EMEA <a href=\"https://angel.co/company/databricks-2\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Databricks</span></a> "
+    },
+    {
+      "title": "Technical Recruiter",
+      "role": "Employee",
+      "url": "https://angel.co/u/sinead-simmons",
+      "name": "Sinead Simmons",
+      "avatar": "https://photos.angel.co/users/8230472-medium_jpg?1534346697",
+      "bioHtml": "Technical Recruiter in the procurement of rare talent to the world’s most challenging industry sectors in Artificial Intelligence, Engineering, Machine Learning"
+    },
+    {
+      "title": "Technical advisor",
+      "role": "Employee",
+      "url": "https://angel.co/u/paul-harrison-7",
+      "name": "Paul Harrison",
+      "avatar": "https://photos.angel.co/users/2138389-medium_jpg?1543304050",
+      "bioHtml": "Data scientist, software developer, and AI enthusiast."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4702535",
+    "angelListUrl": "https://angel.co/company/ai-adam"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Machine Learning Engineer",
+      "description": "We are hiring for a Machine Learning Solutions Engineer in London for one of our leading AI startups. You will work on the core tooling for customers, design and build scalable ML solutions on top of open source and enterprise products. As the Machine Learning Solutions Engineer you will deliver end-to-end technical expertise throughout the lifecycle of enterprise client-facing projects\n\nQualifications\n- Strong computer science and system architecture foundations.\n- Familiarity with linux based development.\n- Experience architecting/applying technology to solve real world challenges.\n- Experience delivering production-level client-facing projects.",
+      "descriptionHtml": "<p>We are hiring for a Machine Learning Solutions Engineer in London for one of our leading AI startups. You will work on the core tooling for customers, design and build scalable ML solutions on top of open source and enterprise products. As the Machine Learning Solutions Engineer you will deliver end-to-end technical expertise throughout the lifecycle of enterprise client-facing projects</p>\n\n<p>Qualifications</p>\n\n<ul>\n<li>Strong computer science and system architecture foundations.</li>\n<li>Familiarity with linux based development.</li>\n<li>Experience architecting/applying technology to solve real world challenges.</li>\n<li>Experience delivering production-level client-facing projects.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Machine Learning"
+      ],
+      "payment": {
+        "salary": "£45k – £65k"
+      },
+      "recruiter": {
+        "title": "Co-founder & Director - Technical Recruiter",
+        "role": "Founder",
+        "url": "https://angel.co/u/siobhan-joyce",
+        "name": "Siobhan Joyce",
+        "avatar": "https://photos.angel.co/users/7386942-medium_jpg?1516270836"
+      },
+      "refs": {
+        "angelListId": "601891",
+        "angelListUrl": "https://angel.co/company/ai-adam/jobs/601891-"
+      }
+    }
+  ]
+}

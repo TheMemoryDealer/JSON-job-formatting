@@ -1,0 +1,110 @@
+{
+  "name": "EQL",
+  "avatar": "https://photos.angel.co/startups/i/7100537-7469d67247af17e618b6e50a81d7dc89-medium_jpg.jpg?buster=1564676268",
+  "slogan": "A digital physiotherapist",
+  "description": "Phio is a stand alone digital physiotherapy service comprising of two parts:\n\nPhio Triage enables instant access to one of 3 care pathways. 1) urgent care for those presenting with serious “red flag” symptoms. 2) digital injury management (i.e. home exercise and rehabilitation) for those presenting with appropriate injuries (these tend to be  low grade soft tissue injuries). 3) face to face care for those not suited for self managed care. Within the NHS these escalation points may differ from area to area however the agile nature of the Phio Triage system means we can bespoke these pathways as needed, including PREMs and PROMs as required.\n\nPhio Digital Injury Management provides bespoke home exercise plans and self treatment techniques to those appropriate for self management. Tracking every interaction with the patient and collecting data regarding the progress of their rehab journey. Using engagement tools and AI to learn from those engagements Phio to ultimately improve outcomes.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.eql.ai"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Digital Health"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/jason-ward-15",
+      "name": "Jason Ward",
+      "avatar": "https://photos.angel.co/users/9786455-medium_jpg?1588582736",
+      "bioHtml": "Worked at EQL"
+    },
+    {
+      "title": "Operations Support",
+      "role": "Employee",
+      "url": "https://angel.co/u/sean-milne-1",
+      "name": "Sean Milne",
+      "avatar": "https://photos.angel.co/users/2720901-medium_jpg?1584359585",
+      "bioHtml": "a dive in and get it done kinda guy, for data driven, customer focussed, operational improvements ."
+    },
+    {
+      "title": "CEO",
+      "role": "Employee",
+      "url": "https://angel.co/u/jason-ward-15",
+      "name": "Jason Ward",
+      "avatar": "https://photos.angel.co/users/9786455-medium_jpg?1588582736",
+      "bioHtml": "Worked at EQL"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7100537",
+    "angelListUrl": "https://angel.co/company/eql"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "Over 5 years commercial experience building single page web applications and server side side applications that run on \n\nAt least an undergraduate degree (STEM).\n\nPrior experience working in a start-up environment.\n\nProficient in javascript and at least one other language (DART) is beneficial.\n\nReact Experience \n\nExperience building both open and closed APIs",
+      "descriptionHtml": "<p>Over 5 years commercial experience building single page web applications and server side side applications that run on </p>\n\n<p>At least an undergraduate degree (STEM).</p>\n\n<p>Prior experience working in a start-up environment.</p>\n\n<p>Proficient in javascript and at least one other language (DART) is beneficial.</p>\n\n<p>React Experience </p>\n\n<p>Experience building both open and closed APIs</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "API",
+        "Dart",
+        "React.js"
+      ],
+      "payment": {
+        "salary": "£50k – £70k"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/jason-ward-15",
+        "name": "Jason Ward",
+        "avatar": "https://photos.angel.co/users/9786455-medium_jpg?1588582736"
+      },
+      "refs": {
+        "angelListId": "609747",
+        "angelListUrl": "https://angel.co/company/eql/jobs/609747-"
+      }
+    }
+  ]
+}

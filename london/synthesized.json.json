@@ -1,0 +1,131 @@
+{
+  "name": "Synthesized",
+  "avatar": "https://photos.angel.co/startups/i/5251162-77384bb338dcd8f46b17c93d6d91c2f1-medium_jpg.jpg?buster=1541620559",
+  "slogan": "Unlock the full potential of commercial data whilst protecting people's privacy",
+  "description": "Data is precious, yet siloed, due to technological hurdles and privacy constraints. Synthesized's software uses AI to learn the structure of original data and simulate practically useful new data points, thus unleashing data's full potential whilst protecting people's privacy.\n\nThe company is funded by leading technology investors in the UK and Europe and is supported by Facebook through the LDN_LAB programme and Google through the Residency programme.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://synthesized.io/"
+    },
+    {
+      "type": "blog",
+      "url": "https://blog.synthesized.io/"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/Synthesizedio"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/10008046/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Artificial Intelligence",
+    "Enterprise Software",
+    "Machine Learning",
+    "Data Security"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Machine Learning Lead",
+      "role": "Founder",
+      "url": "https://angel.co/u/alexander-kuhnle",
+      "name": "Alexander Kuhnle",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Chief Technology Officer",
+      "role": "Founder",
+      "url": "https://angel.co/u/denis-borovikov",
+      "name": "Denis Borovikov",
+      "avatar": "https://photos.angel.co/users/1262254-medium_jpg?1503610873",
+      "bioHtml": "MS from Moscow State Technical University, Java/Scala/Web/Highload/Distributed Systems, Worked at hh.ru (biggest Russian job site) and Deutsche Bank"
+    },
+    {
+      "title": "Chief Executive Officer",
+      "role": "Founder",
+      "url": "https://angel.co/u/nbaldin",
+      "name": "Nicolai Baldin",
+      "avatar": "https://photos.angel.co/users/7197462-medium_jpg?1511741120",
+      "bioHtml": "CEO @ Synthesized.io * Machine Learning PhD from <a href=\"https://angel.co/university\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University</span></a> of Cambridge  "
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/alexander-kuhnle",
+      "name": "Alexander Kuhnle",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/denis-borovikov",
+      "name": "Denis Borovikov",
+      "avatar": "https://photos.angel.co/users/1262254-medium_jpg?1503610873",
+      "bioHtml": "MS from Moscow State Technical University, Java/Scala/Web/Highload/Distributed Systems, Worked at hh.ru (biggest Russian job site) and Deutsche Bank"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5251162",
+    "angelListUrl": "https://angel.co/company/synthesized"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Machine Learning Engineer (First Employee)",
+      "description": "As a Machine Learning Engineer at Synthesized, you'll work alongside (thoughtful and nice) machine learning and statistics PhDs from the University of Cambridge and world class software engineers. You'll be tasked with developing machine learning techniques and applying them at scale to our projects. You'll interact with customers on a regular basis.\n\nYou should be motivated by a desire to solve the most important problems and obtain unprecedented results, rather than producing “yet another paper”. You should be eager to push your architectures to their maximal performance, rather than being satisfied with toy tasks and proofs of concept.\n\nDay-to-day responsibilities include\n\nDevelop new and improved methods for generative modelling, unsupervised learning and metalearning.\n\nRun machine learning tests and experiments.\n\nPerform statistical analysis and fine-tuning using test results.\n\nExtend existing ML libraries and frameworks.",
+      "descriptionHtml": "<p>As a Machine Learning Engineer at Synthesized, you&#39;ll work alongside (thoughtful and nice) machine learning and statistics PhDs from the University of Cambridge and world class software engineers. You&#39;ll be tasked with developing machine learning techniques and applying them at scale to our projects. You&#39;ll interact with customers on a regular basis.</p>\n\n<p>You should be motivated by a desire to solve the most important problems and obtain unprecedented results, rather than producing “yet another paper”. You should be eager to push your architectures to their maximal performance, rather than being satisfied with toy tasks and proofs of concept.</p>\n\n<p>Day-to-day responsibilities include</p>\n\n<p>Develop new and improved methods for generative modelling, unsupervised learning and metalearning.</p>\n\n<p>Run machine learning tests and experiments.</p>\n\n<p>Perform statistical analysis and fine-tuning using test results.</p>\n\n<p>Extend existing ML libraries and frameworks.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Statistics",
+        "Deep Learning",
+        "TensorFlow"
+      ],
+      "payment": {
+        "salary": "£60k – £85k",
+        "equity": "0.5% – 2.0%"
+      },
+      "recruiter": {
+        "title": "Chief Executive Officer",
+        "role": "Founder",
+        "url": "https://angel.co/u/nbaldin",
+        "name": "Nicolai Baldin",
+        "avatar": "https://photos.angel.co/users/7197462-medium_jpg?1511741120"
+      },
+      "refs": {
+        "angelListId": "513500",
+        "angelListUrl": "https://angel.co/company/synthesized/jobs/513500-"
+      }
+    }
+  ]
+}

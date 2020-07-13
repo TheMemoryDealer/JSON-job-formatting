@@ -1,0 +1,108 @@
+{
+  "name": "W Cubed",
+  "avatar": "https://photos.angel.co/startups/i/6172244-f3aad0b6f8d39a552700dd9e57f8f0a0-medium_jpg.jpg?buster=1534431470",
+  "slogan": "Simple Collaboritive Modelling for Businesses",
+  "description": "We're an early-stage, pre-seed London/Bangkok-based startup building elegant tools to help companies plan and model their businesses.\n\nOur flagship product, Co-Modeller, links modellers, planners and management each with their own view of the same in-cloud data and model logic.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.w3tech.co"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Bangkok"
+  ],
+  "marketTags": [
+    "Enterprise Software",
+    "SaaS"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Biz Dev",
+      "role": "Founder",
+      "url": "https://angel.co/u/joe-white-21",
+      "name": "Joe White",
+      "avatar": "https://photos.angel.co/users/8235692-medium_jpg?1534835336",
+      "bioHtml": "Ex TM1 Consultant\nCo-Founder of W Cubed - Co-Modeller.com"
+    },
+    {
+      "title": "Tech Lead",
+      "role": "Founder",
+      "url": "https://angel.co/u/peter-white-28",
+      "name": "Peter White",
+      "avatar": "https://photos.angel.co/users/8127099-medium_jpg?1534503450",
+      "bioHtml": "Co-founder of W Cubed; Previously tech lead on the Energy desk at D. E. Shaw, New York."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6172244",
+    "angelListUrl": "https://angel.co/company/w-cubed"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Software Developer",
+      "description": "Early stage London/Bangkok-based start-up seeks talented, opinionated developers to work on our cloud-based modelling platform.\n\nWe’ve recently gone live with our first commercial clients and are now looking to expand the development efforts beyond the co-founders. As an early hire, this will be a perfect opportunity to have an impact on the early technical direction of the product and growing team.\n\nCandidates should have demonstrable experience of using computer science principles to solve complex real world problems. Challenges range from language design, transaction processing, performance engineering and scaling, through to UI design and implementation, data analysis and customer support. Experience with TypeScript, Node.JS, Angular 2+, and Amazon Web Services would be ideal, but we place a greater emphasis on a broad technical skill set than specific technology exposure.\n\nFlexible working arrangements and meaningful equity stake. Development roles are based out of Old Street, London, but relocation to Thailand is an option. Remote working considered for truly exceptional candidates.",
+      "descriptionHtml": "<p>Early stage London/Bangkok-based start-up seeks talented, opinionated developers to work on our cloud-based modelling platform.</p>\n\n<p>We’ve recently gone live with our first commercial clients and are now looking to expand the development efforts beyond the co-founders. As an early hire, this will be a perfect opportunity to have an impact on the early technical direction of the product and growing team.</p>\n\n<p>Candidates should have demonstrable experience of using computer science principles to solve complex real world problems. Challenges range from language design, transaction processing, performance engineering and scaling, through to UI design and implementation, data analysis and customer support. Experience with TypeScript, Node.JS, Angular 2+, and Amazon Web Services would be ideal, but we place a greater emphasis on a broad technical skill set than specific technology exposure.</p>\n\n<p>Flexible working arrangements and meaningful equity stake. Development roles are based out of Old Street, London, but relocation to Thailand is an option. Remote working considered for truly exceptional candidates.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Bangkok"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Node.js",
+        "Computer Science",
+        "Amazon Web Services",
+        "TypeScript",
+        "Angular"
+      ],
+      "payment": {
+        "salary": "£40k – £60k",
+        "equity": "1.0% – 5.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Investor",
+        "url": "https://angel.co/u/peter-white-28",
+        "name": "Peter White",
+        "avatar": "https://photos.angel.co/users/8127099-medium_jpg?1534503450"
+      },
+      "refs": {
+        "angelListId": "417373",
+        "angelListUrl": "https://angel.co/company/w-cubed/jobs/417373-"
+      },
+      "postedAt": 1589658417373
+    }
+  ]
+}

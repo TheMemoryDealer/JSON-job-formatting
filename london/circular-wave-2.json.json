@@ -1,0 +1,99 @@
+{
+  "name": "Circular Wave",
+  "avatar": "https://photos.angel.co/startups/i/6111223-7ed5833b7132563e814e6f6ec50f7b09-medium_jpg.jpg?buster=1533557534",
+  "slogan": "A healthcare staffing tool that can save the NHS from its inefficiency",
+  "description": "We’ve recently completed our first deployment. The results are exceptional: Circular Wave is bringing flexibility, transparency and auditability to temporary staffing at a large NHS Trust, whilst simultaneously saving money by reducing dependency on agencies.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://circularwave.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Healthcare"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/ashley-rudland",
+      "name": "Ashley Rudland",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/james-foxlee",
+      "name": "James Foxlee",
+      "avatar": "https://photos.angel.co/users/7031276-medium_jpg?1581012186",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6111223",
+    "angelListUrl": "https://angel.co/company/circular-wave-2"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Technical Lead",
+      "description": "Circular Wave is a small but perfectly formed team. We are building a healthcare worker marketplace that is saving the NHS and private healthcare organisations from their own horrifying inefficiency. At scale our product can save a cool £1.2 billion for our crumbling national treasure.\n\nWe currently have two highly active deployments, one in the NHS and one for a private healthcare provider. The results are exceptional: Circular Wave is bringing flexibility, transparency and auditability to temporary staffing at a large NHS Trust, whilst simultaneously saving money by reducing dependency on agencies.\n\nAs a startup business, we’ve relied until this point upon our company co-founder and CTO to provide the technical leadership and experience that we have needed to grow the company to its current levels of success. However we are now looking to free him up to be able to work on more business-related problems, and as such we are looking for a fantastic Technical Lead with at least 5 years of high-intensity commercial experience to fill his shoes. We care less about which specific technologies you have experience in, and more about your ability to solve difficult problems, whilst leading the company’s technology strategy with speed and precision.\n\nYou will be responsible for overseeing all of the technology that we use at Circular Wave, and that means everything from our front-end applications (React & React Native) to our broad microservice architecture.\n\nThe kinds of day-to-day challenges you will be facing in the short-term will include scaling our current tech stack to meet the customer’s needs, whilst increasing reliability & availability. Future challenges will include re-architecting our backend, investigating and moving us onto new cloud providers, all whilst keeping our service running and our customers happy.\n\nOur development team is largely staffed by a group of passionate Junior Developers, who are already developing their skills at a rapid pace thanks to the often complex and fast-paced nature of the tasks which they are required to work on here at Circular Wave. The day-to-day operations of the development team are overseen by our Development Team Lead, who initially joined the company as a Junior Developer before transitioning into a more leadership-focused role. You will be working closely alongside the Development Team Lead as well as the Product Owners, to provide the benefit of your years of technical experience, to shape and implement the product (and the technology behind it). We are a team where ownership is everything, and we are actively looking forward to your input at every level. As the company’s Technical Lead you will also be expected to provide support to the rest of the development team when needed, to help ensure that the whole team thrives and grows together.\n\nEssential\n\n * You have at least 5 years of high-intensity commercial experience as a software engineer\n\n * You thrive in a busy and constantly changing environment\n\n * You have experience of automated QA and CI/CD at-scale\n\n * You have deep experience with multiple database systems\n\n * You have experience scaling high-performance infrastructure in the cloud\n\n * You enjoy working with Junior Developers in a supportive, non-dictatorial manner\n\n * You have a deep passion for delivering customer value\n\nDesirable\n\n You have knowledge of JavaScript including ES6/7 and ideally experience with:\n\n * React and React Native\n\n * Redux\n\n * Node.js\n\nAlso:\n\n * Experience working in a startup business\n\n * Experience with microservice architecture",
+      "descriptionHtml": "<p>Circular Wave is a small but perfectly formed team. We are building a healthcare worker marketplace that is saving the NHS and private healthcare organisations from their own horrifying inefficiency. At scale our product can save a cool £1.2 billion for our crumbling national treasure.</p>\n\n<p>We currently have two highly active deployments, one in the NHS and one for a private healthcare provider. The results are exceptional: Circular Wave is bringing flexibility, transparency and auditability to temporary staffing at a large NHS Trust, whilst simultaneously saving money by reducing dependency on agencies.</p>\n\n<p>As a startup business, we’ve relied until this point upon our company co-founder and CTO to provide the technical leadership and experience that we have needed to grow the company to its current levels of success. However we are now looking to free him up to be able to work on more business-related problems, and as such we are looking for a fantastic Technical Lead with at least 5 years of high-intensity commercial experience to fill his shoes. We care less about which specific technologies you have experience in, and more about your ability to solve difficult problems, whilst leading the company’s technology strategy with speed and precision.</p>\n\n<p>You will be responsible for overseeing all of the technology that we use at Circular Wave, and that means everything from our front-end applications (React &amp; React Native) to our broad microservice architecture.</p>\n\n<p>The kinds of day-to-day challenges you will be facing in the short-term will include scaling our current tech stack to meet the customer’s needs, whilst increasing reliability &amp; availability. Future challenges will include re-architecting our backend, investigating and moving us onto new cloud providers, all whilst keeping our service running and our customers happy.</p>\n\n<p>Our development team is largely staffed by a group of passionate Junior Developers, who are already developing their skills at a rapid pace thanks to the often complex and fast-paced nature of the tasks which they are required to work on here at Circular Wave. The day-to-day operations of the development team are overseen by our Development Team Lead, who initially joined the company as a Junior Developer before transitioning into a more leadership-focused role. You will be working closely alongside the Development Team Lead as well as the Product Owners, to provide the benefit of your years of technical experience, to shape and implement the product (and the technology behind it). We are a team where ownership is everything, and we are actively looking forward to your input at every level. As the company’s Technical Lead you will also be expected to provide support to the rest of the development team when needed, to help ensure that the whole team thrives and grows together.</p>\n\n<p>Essential</p>\n\n<ul>\n<li><p>You have at least 5 years of high-intensity commercial experience as a software engineer</p></li>\n<li><p>You thrive in a busy and constantly changing environment</p></li>\n<li><p>You have experience of automated QA and CI/CD at-scale</p></li>\n<li><p>You have deep experience with multiple database systems</p></li>\n<li><p>You have experience scaling high-performance infrastructure in the cloud</p></li>\n<li><p>You enjoy working with Junior Developers in a supportive, non-dictatorial manner</p></li>\n<li><p>You have a deep passion for delivering customer value</p></li>\n</ul>\n\n<p>Desirable</p>\n\n<p>You have knowledge of JavaScript including ES6/7 and ideally experience with:</p>\n\n<ul>\n<li><p>React and React Native</p></li>\n<li><p>Redux</p></li>\n<li><p>Node.js</p></li>\n</ul>\n\n<p>Also:</p>\n\n<ul>\n<li><p>Experience working in a startup business</p></li>\n<li><p>Experience with microservice architecture</p></li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Engineering Leadership"
+      ],
+      "payment": {
+        "salary": "£60k – £80k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/ashley-rudland",
+        "name": "Ashley Rudland",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "491678",
+        "angelListUrl": "https://angel.co/company/circular-wave-2/jobs/491678-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "name": "HFNE",
+  "avatar": "https://photos.angel.co/startups/i/6872519-b8ab5c7bb115e5b971016a0c036c847c-medium_jpg.jpg?buster=1554653157",
+  "slogan": "mental health charity",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.halffullnotempty.co.uk/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mental Health"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/hfne-hfne",
+      "name": "HFNE HFNE",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6872519",
+    "angelListUrl": "https://angel.co/company/hfne"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "About Us\nHFNE (Half Hull Not Empty ) is a mental health charity operating \n\nThe Role\nThis is an exciting opportunity for a Junior Software Engineer to join a charity  working on the future of mental wellbeing.\n\nHelp us create simple, beautiful and technically excellent solutions to deliver the very best user experience.\nIn collaboration with the team, design, develop and test product features, and where they go wrong, help in fixing them.\nIdentify and evangelise new and improved ways of working.\nAssist with builds, CI, deployments and infrastructure.\nCreate a culture of learning, helping, innovation and autonomy.\n\n\n\nRequirements\nWe're looking for an engineer with some experience (~1 year), ideally someone who's learnt the basics of working in an engineering team on commercial projects.\n\n\nThe Stack\nWe're looking for someone with basic experience with most of our stack so they can have an impact from day one.\nTypeScript/JavaScript\nElectron, Node, Web\nMongoDB, Postgres\nReact, Redux, Styled Components\nWebpack\nJest, CircleCI\nServerless, AWS, Docker\n\nYou can see more about our brand here : https://www.halffullnotempty.co.uk/",
+      "descriptionHtml": "<p>About Us<br>\nHFNE (Half Hull Not Empty ) is a mental health charity operating </p>\n\n<p>The Role<br>\nThis is an exciting opportunity for a Junior Software Engineer to join a charity  working on the future of mental wellbeing.</p>\n\n<p>Help us create simple, beautiful and technically excellent solutions to deliver the very best user experience.<br>\nIn collaboration with the team, design, develop and test product features, and where they go wrong, help in fixing them.<br>\nIdentify and evangelise new and improved ways of working.<br>\nAssist with builds, CI, deployments and infrastructure.<br>\nCreate a culture of learning, helping, innovation and autonomy.</p>\n\n<p>Requirements<br>\nWe&#39;re looking for an engineer with some experience (~1 year), ideally someone who&#39;s learnt the basics of working in an engineering team on commercial projects.</p>\n\n<p>The Stack<br>\nWe&#39;re looking for someone with basic experience with most of our stack so they can have an impact from day one.<br>\nTypeScript/JavaScript<br>\nElectron, Node, Web<br>\nMongoDB, Postgres<br>\nReact, Redux, Styled Components<br>\nWebpack<br>\nJest, CircleCI<br>\nServerless, AWS, Docker</p>\n\n<p>You can see more about our brand here : <a href=\"https://www.halffullnotempty.co.uk/\" target=\"_blank\" rel=\"nofollow\">https://www.halffullnotempty.co.uk/</a></p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$34k – $34k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/hfne-hfne",
+        "name": "HFNE HFNE",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "534158",
+        "angelListUrl": "https://angel.co/company/hfne/jobs/534158-"
+      }
+    }
+  ]
+}

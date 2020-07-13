@@ -1,0 +1,127 @@
+{
+  "name": "Codurance",
+  "avatar": "https://photos.angel.co/startups/i/793135-a4af572a89789a30be58afd234c257a9-medium_jpg.jpg?buster=1569925086",
+  "slogan": "Delivering value by crafting exceptional software",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://codurance.com/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/codurance"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/codurance/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Manchester",
+    "Barcelona"
+  ],
+  "marketTags": [
+    "Software Engineering"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/sandro-mancuso",
+      "name": "Sandro Mancuso",
+      "avatar": "https://photos.angel.co/users/9696694-medium_jpg?1563393885",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/mashooq-badar",
+      "name": "Mashooq Badar",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/sid-sivanandam-2",
+      "name": "Sid Sivanandam ",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Head of UK Recruitment",
+      "role": "Employee",
+      "url": "https://angel.co/u/anne-marie-mendonca-1",
+      "name": "Anne-Marie Mendonca",
+      "avatar": "https://photos.angel.co/users/8826335-medium_jpg?1563271130",
+      "bioHtml": "Head of UK Recruitment for Codurance"
+    },
+    {
+      "title": "Software Craftsman",
+      "role": "Employee",
+      "url": "https://angel.co/u/francesco-gigli",
+      "name": "Francesco Gigli",
+      "avatar": "https://photos.angel.co/users/8728860-medium_jpg?1545469686",
+      "bioHtml": "I’m looking for a happy team that is proud of the work they are doing and that embraces continuous improvement. I&#39;m good at writing software and leading a team."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "793135",
+    "angelListUrl": "https://angel.co/company/codurance"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Craftsperson",
+      "description": "We are looking for people who have a real thirst for teaching and learning and a desire to create quality software. You can be at any point in your professional journey and fit within our diverse community of craftspeople. You may aspire to become an effective advisor, an inspirational mentor, a skilled coder, an exceptional architect, a renowned technologist, a cloud solutions expert, an emphatic facilitator, or a visionary leader - we will provide you with the help, training, and support to take leaps in your professional journey. If you're not sure, apply anyway and we'll help you decide.\n\nTest Driven Development is second nature to us, our people are at different levels on the journey towards competence. For some, it is a case of small steps towards an emerging design, others feel comfortable in taking larger leaps during their TDD lifecycle. We all keep good design principles, such as SOLID, in mind while we develop software, however as our experience grows, we look wider and go to first principles such as simplicity, coupling and cohesion to a point where we have an intuitive understanding. We love to pair program and see it as an opportunity to learn from each other. We are proficient with at least one language and pride ourselves in our fluency with our chosen development environment. As our seniority grows we delve deeper into software design and take an active interest in subjects like Domain Driven Design, Architectural Patterns, Security and other more holistic characteristics of the software product.\n\nWhilst the majority of our people are software developers, we understand that an effective software development team is much more than that. We believe that everyone should have a \"T\" shape where they have an awareness of a wide breath of skills and expertise in a narrower set. Our UX designers, Business Analysts and Agile Product Managers specialise in product development. They may start more specific such as UX designer, Business Analyst but over time gain expertise in other complimentary skills relating to product development. They are good facilitators and see the value of bringing the whole team together on the journey. Our more senior craftspeople often act as a product owners for our clients, understanding the needs of stakeholders, combined with a deep understanding of Agile Processes. We value concepts such as Design Thinking and Co-creation. We are constantly learning and regularly attend training courses, conferences, and meet-ups to gain a deeper understanding this field.\n\nWe are automators.  Although our craftspeople range in their automation skills, we all aspire to become skilled in crafting effective continuous delivery pipelines and systems that are easy to operate in production. We aspire to a DevOps culture. Most of us are skilled, to a good level, on the coding side and consider infrastructure as code as an important skillset. We enjoy working with cloud offerings such as Amazon Web Services, Microsoft Azure, and Google Cloud Platform. We find technologies such as Docker, Kubernetes, Terraform, Puppet, etc. to be extremely valuable to achieving effective delivery pipelines and reliable platforms. Whilst we refrain from over engineering, we also aspire to use modern technologies to increase the efficiency, productivity and reliability of our software development process and software product.",
+      "descriptionHtml": "<p>We are looking for people who have a real thirst for teaching and learning and a desire to create quality software. You can be at any point in your professional journey and fit within our diverse community of craftspeople. You may aspire to become an effective advisor, an inspirational mentor, a skilled coder, an exceptional architect, a renowned technologist, a cloud solutions expert, an emphatic facilitator, or a visionary leader - we will provide you with the help, training, and support to take leaps in your professional journey. If you&#39;re not sure, apply anyway and we&#39;ll help you decide.</p>\n\n<p>Test Driven Development is second nature to us, our people are at different levels on the journey towards competence. For some, it is a case of small steps towards an emerging design, others feel comfortable in taking larger leaps during their TDD lifecycle. We all keep good design principles, such as SOLID, in mind while we develop software, however as our experience grows, we look wider and go to first principles such as simplicity, coupling and cohesion to a point where we have an intuitive understanding. We love to pair program and see it as an opportunity to learn from each other. We are proficient with at least one language and pride ourselves in our fluency with our chosen development environment. As our seniority grows we delve deeper into software design and take an active interest in subjects like Domain Driven Design, Architectural Patterns, Security and other more holistic characteristics of the software product.</p>\n\n<p>Whilst the majority of our people are software developers, we understand that an effective software development team is much more than that. We believe that everyone should have a &quot;T&quot; shape where they have an awareness of a wide breath of skills and expertise in a narrower set. Our UX designers, Business Analysts and Agile Product Managers specialise in product development. They may start more specific such as UX designer, Business Analyst but over time gain expertise in other complimentary skills relating to product development. They are good facilitators and see the value of bringing the whole team together on the journey. Our more senior craftspeople often act as a product owners for our clients, understanding the needs of stakeholders, combined with a deep understanding of Agile Processes. We value concepts such as Design Thinking and Co-creation. We are constantly learning and regularly attend training courses, conferences, and meet-ups to gain a deeper understanding this field.</p>\n\n<p>We are automators.  Although our craftspeople range in their automation skills, we all aspire to become skilled in crafting effective continuous delivery pipelines and systems that are easy to operate in production. We aspire to a DevOps culture. Most of us are skilled, to a good level, on the coding side and consider infrastructure as code as an important skillset. We enjoy working with cloud offerings such as Amazon Web Services, Microsoft Azure, and Google Cloud Platform. We find technologies such as Docker, Kubernetes, Terraform, Puppet, etc. to be extremely valuable to achieving effective delivery pipelines and reliable platforms. Whilst we refrain from over engineering, we also aspire to use modern technologies to increase the efficiency, productivity and reliability of our software development process and software product.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "Clojure",
+        "Scala"
+      ],
+      "payment": {
+        "salary": "£45k – £85k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/sid-sivanandam-2",
+        "name": "Sid Sivanandam ",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "636239",
+        "angelListUrl": "https://angel.co/company/codurance/jobs/636239-"
+      }
+    }
+  ]
+}

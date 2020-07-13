@@ -1,0 +1,127 @@
+{
+  "name": "Micro",
+  "avatar": "https://photos.angel.co/startups/i/5326555-7eecce6fbfaf74b76a357d06c85a5b5e-medium_jpg.jpg?buster=1518708138",
+  "slogan": "Simplifying cloud native development",
+  "description": "Technology is rapidly evolving. Cloud computing now gives us almost unlimited scale, however leveraging that scale with existing tools is still difficult. Micro is solving this problem with a developer first focus.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://micro.mu"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Cloud Computing",
+    "Application Platforms",
+    "Open Source",
+    "Enterprise Software"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/chuhnk",
+      "name": "Asim Aslam",
+      "avatar": "https://photos.angel.co/users/7506013-medium_jpg?1534185730",
+      "bioHtml": "Working on @MicroHQ"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5326555",
+    "angelListUrl": "https://angel.co/company/micro-5"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Fullstack Engineer",
+      "description": "We're building Micro as a service. You should have experience in or want to work with react, vue.js, typescript, graphql, microservices, golang, etc.\n\nReach out to learn more.",
+      "descriptionHtml": "<p>We&#39;re building Micro as a service. You should have experience in or want to work with react, vue.js, typescript, graphql, microservices, golang, etc.</p>\n\n<p>Reach out to learn more.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£65k – £80k",
+        "equity": "0.5% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/chuhnk",
+        "name": "Asim Aslam",
+        "avatar": "https://photos.angel.co/users/7506013-medium_jpg?1534185730"
+      },
+      "refs": {
+        "angelListId": "555312",
+        "angelListUrl": "https://angel.co/company/micro-5/jobs/555312-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Software Engineer",
+      "description": "Work on building Micro as a service. Should have experience with or want to work with microservices, golang, distributed systems, etc. Multi-language and cloud skills are a plus.\n\nReach out to learn more.",
+      "descriptionHtml": "<p>Work on building Micro as a service. Should have experience with or want to work with microservices, golang, distributed systems, etc. Multi-language and cloud skills are a plus.</p>\n\n<p>Reach out to learn more.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Distributed Systems",
+        "Go (Golang)",
+        "Microservices"
+      ],
+      "payment": {
+        "salary": "£65k – £80k",
+        "equity": "0.5% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/chuhnk",
+        "name": "Asim Aslam",
+        "avatar": "https://photos.angel.co/users/7506013-medium_jpg?1534185730"
+      },
+      "refs": {
+        "angelListId": "555311",
+        "angelListUrl": "https://angel.co/company/micro-5/jobs/555311-"
+      }
+    }
+  ]
+}

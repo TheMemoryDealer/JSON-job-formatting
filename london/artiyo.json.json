@@ -1,0 +1,98 @@
+{
+  "name": "ARTIYO",
+  "avatar": "https://photos.angel.co/startups/i/6791013-e5d977684410259a4aea61ee7ab1af44-medium_jpg.jpg?buster=1550063649",
+  "slogan": "LinkedIn for Creative People",
+  "description": "Artiyo is a platform where all creative people and creative companies can share, inspire and collaborate their work",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://artiyo.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Consumer",
+    "Social Network",
+    "Portals"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/uday-singh-33",
+      "name": "uday singh",
+      "avatar": "https://photos.angel.co/users/8933072-medium_jpg?1550063179",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/artiyo\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">ARTIYO</span></a> • Worked at <a href=\"https://angel.co/company/cisco\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Cisco</span></a>, <a href=\"https://angel.co/company/starbucks-coffee-company\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Starbucks Coffee Company</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6791013",
+    "angelListUrl": "https://angel.co/company/artiyo"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Technical Co-founder (CTO)",
+      "description": "What we are looking for\n\nYou must be crazy and passionate towards art and technology\nYou must have past experience showcasing entrepreneurial drive\nOrganizational and analytical skills\nExperience building technical architecture for web/mobile applications from zero\nExperience with agile systems development methodologies\nExperience with programming languages such as Java, PHP, Python, or C++\n\nCompensation : Equity only | No Salary (Well, We are bootstrapped!)",
+      "descriptionHtml": "<p>What we are looking for</p>\n\n<p>You must be crazy and passionate towards art and technology<br>\nYou must have past experience showcasing entrepreneurial drive<br>\nOrganizational and analytical skills<br>\nExperience building technical architecture for web/mobile applications from zero<br>\nExperience with agile systems development methodologies<br>\nExperience with programming languages such as Java, PHP, Python, or C++</p>\n\n<p>Compensation : Equity only | No Salary (Well, We are bootstrapped!)</p>\n",
+      "position": "cofounder",
+      "experience": 7,
+      "visaSponsorship": false,
+      "locations": [
+        "Warsaw"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Software Testing",
+        "Software Architecture and Design",
+        "HTML/CSS/PHP/MYSQL",
+        "Web and Mobile Apps",
+        "Cloud Based Infrastructure"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "5.0% – 15.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/uday-singh-33",
+        "name": "uday singh",
+        "avatar": "https://photos.angel.co/users/8933072-medium_jpg?1550063179"
+      },
+      "refs": {
+        "angelListId": "504430",
+        "angelListUrl": "https://angel.co/company/artiyo/jobs/504430-"
+      }
+    }
+  ]
+}

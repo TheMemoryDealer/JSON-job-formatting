@@ -1,0 +1,67 @@
+{
+  "name": "Causal",
+  "avatar": "https://photos.angel.co/startups/i/7290631-ec03a69bdbf261424cd4e8398b328793-medium_jpg.jpg?buster=1572736939",
+  "slogan": "A browser-based modelling tool",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://causal.app"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/causalhq"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Analytics"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/lukas-koebis",
+      "name": "Lukas Koebis",
+      "avatar": "https://photos.angel.co/users/10630762-medium_jpg?1581458044",
+      "bioHtml": "founder causal.app\nbefore: WhatsApp, University of Oxford "
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/taimurabdaal",
+      "name": "Taimur Abdaal",
+      "avatar": "https://photos.angel.co/users/293942-medium_jpg?1505986315",
+      "bioHtml": "founder <a href=\"https://angel.co/company/causal-3\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Causal</span></a> "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7290631",
+    "angelListUrl": "https://angel.co/company/causal-3"
+  },
+  "jobs": []
+}

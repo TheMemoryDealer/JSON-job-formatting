@@ -1,0 +1,224 @@
+{
+  "name": "Lucid",
+  "avatar": "https://photos.angel.co/startups/i/6699174-9a4d0872db68e4071bc8a549564dd87d-medium_jpg.jpg?buster=1589575683",
+  "slogan": "Programmatic Research Platform",
+  "description": "Lucid is building a platform for carrying out programmatic research on the internet.\n\nThe current business primarily focusses on the Market Research industry, however, we are rapidly diversifying across all forms of research, from academic research to political polling, to AI training.\n\n Our core business is providing a programmatic marketplace platform for enterprise market research.  We are in the process of expanding the capabilities of that core platform to allow access to market research to anyone.  In addition, are access to the world’s largest repository of questions asked and answered gives us an opportunity to expand into adjacent businesses as well.\n\nCurrently, we answer over a million questions per day, and in 2019 we will multiply this, transforming our business and the industry in both speed and scale.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://luc.id/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/lucid_hq"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/federatedsample"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/lucidhq/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "New Orleans",
+    "New York",
+    "Sydney",
+    "Hamburg",
+    "Prague",
+    "Gurugram",
+    "Singapore",
+    "Plano"
+  ],
+  "marketTags": [
+    "Market Research",
+    "Developer APIs",
+    "SaaS",
+    "Technology",
+    "Analytics",
+    "Enterprise Software",
+    "Marketplace"
+  ],
+  "employees": "SIZE_201_500",
+  "funding": {
+    "totalRaised": 64574451,
+    "rounds": [
+      {
+        "type": "Series B",
+        "closedAt": 1491782400,
+        "valuation": null
+      },
+      {
+        "type": null,
+        "closedAt": 1429056000,
+        "valuation": null
+      },
+      {
+        "type": null,
+        "closedAt": 1424304000,
+        "valuation": null
+      },
+      {
+        "type": "Series A",
+        "closedAt": 1320710400,
+        "valuation": null
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1278979200,
+        "valuation": null
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/safa-mohamoud",
+      "name": "Safa Mohamoud",
+      "avatar": "https://photos.angel.co/users/525981-medium_jpg?1564404631",
+      "bioHtml": "Talent Partner"
+    },
+    {
+      "title": "Engineering Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/jonocole",
+      "name": "Jono Cole",
+      "avatar": "https://photos.angel.co/users/1160300-medium_jpg?1545324341",
+      "bioHtml": "-"
+    },
+    {
+      "title": "Chief Architect",
+      "role": "Employee",
+      "url": "https://angel.co/u/jonty",
+      "name": "Jonty Wareing",
+      "avatar": "https://photos.angel.co/users/8723989-medium_jpg?1545322999",
+      "bioHtml": "Hello."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6699174",
+    "angelListUrl": "https://angel.co/company/lucid-london-engineering"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "DevOps Engineer",
+      "description": "Who we are: \n\nLucid is a market research platform that provides access to authentic, first-party data in over 90 countries. Our products and services enable anyone, in any industry, to ask questions of targeted audiences and find the answers they need – fast. These answers can be used to uncover consumer motivations, increase revenue, and measure the impact of digital advertising. Founded in 2010, Lucid is headquartered in New Orleans, LA with offices in Dallas, New York, London, Sydney, Gurgaon, Prague, Singapore and Brazil (Sao Paulo and Rio de Janeiro).\n\n\nHere we value collaborative, fearless and ambitious individuals who want to make an impact. We also understand that our employees quality of life is just as important as our goals so we offer remote working, flexible working hours and many more benefits to ensure everyone can function in their best way!\n\nOur vision for the role:\n\nWe are looking for a Senior Engineer with an unquenchable thirst for automation. You'll be working hands-on with a distributed team of other DevOps Engineers to lead, coach and help them to operate and optimize our rapidly expanding cloud infrastructure.\n\nYour Impact:\n\nProvide guidance for capacity planning and architecture of new servicesManage and prioritise day to day workloads and support requestsDesign and continuously improve our CI/CD process for engineering teamsArchitect and design logging, metrics and alerting tool chainsParticipate in an on-call rotation\n\nWho you are:\n\nNatural leader/coach (you're not a manager)Inclusive approach to working closely with engineering teamsEnjoys programming, after all - we code solutions to our system problemsCommitment to testing at all levels of the stackStrong background in cloud native techniques\n\nThe string to your bow:\n\nYou will love and have proven experience in DevOps like roles. (Devops, SysAdmin, etc.)Good knowledge of Docker, AWS and TerraformGood knowledge of PaaS or container orchestration (ideally K8s, EKS, Rancher etc.)Experience with continuous integration tools (Jenkins, TravisCI, etc.) and how to automate themExperience with automation/configuration management (Ansible, Chef, etc.)Working knowledge of the network stackWorking knowledge of at least one programming or scripting language\nAt Lucid we foster a collaborative and inspiring workplace.  We pride ourselves in doing this by recruiting, hiring and retaining diverse, passionate, and forward-thinking talent. Lucid is committed to and encourages an inclusive environment and we are dedicated to providing equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. If you have a disability or special need that requires accommodation, please let us know.\n\nAt Lucid we foster a collaborative and inspiring workplace.  We pride ourselves in doing this by recruiting, hiring and retaining diverse, passionate, and forward-thinking talent. Lucid is committed to and encourages an inclusive environment and we are dedicated to providing equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. If you have a disability or special need that requires accommodation, please let us know.",
+      "descriptionHtml": "<p>Who we are: </p>\n\n<p>Lucid is a market research platform that provides access to authentic, first-party data in over 90 countries. Our products and services enable anyone, in any industry, to ask questions of targeted audiences and find the answers they need – fast. These answers can be used to uncover consumer motivations, increase revenue, and measure the impact of digital advertising. Founded in 2010, Lucid is headquartered in New Orleans, LA with offices in Dallas, New York, London, Sydney, Gurgaon, Prague, Singapore and Brazil (Sao Paulo and Rio de Janeiro).</p>\n\n<p>Here we value collaborative, fearless and ambitious individuals who want to make an impact. We also understand that our employees quality of life is just as important as our goals so we offer remote working, flexible working hours and many more benefits to ensure everyone can function in their best way!</p>\n\n<p>Our vision for the role:</p>\n\n<p>We are looking for a Senior Engineer with an unquenchable thirst for automation. You&#39;ll be working hands-on with a distributed team of other DevOps Engineers to lead, coach and help them to operate and optimize our rapidly expanding cloud infrastructure.</p>\n\n<p>Your Impact:</p>\n\n<p>Provide guidance for capacity planning and architecture of new servicesManage and prioritise day to day workloads and support requestsDesign and continuously improve our CI/CD process for engineering teamsArchitect and design logging, metrics and alerting tool chainsParticipate in an on-call rotation</p>\n\n<p>Who you are:</p>\n\n<p>Natural leader/coach (you&#39;re not a manager)Inclusive approach to working closely with engineering teamsEnjoys programming, after all - we code solutions to our system problemsCommitment to testing at all levels of the stackStrong background in cloud native techniques</p>\n\n<p>The string to your bow:</p>\n\n<p>You will love and have proven experience in DevOps like roles. (Devops, SysAdmin, etc.)Good knowledge of Docker, AWS and TerraformGood knowledge of PaaS or container orchestration (ideally K8s, EKS, Rancher etc.)Experience with continuous integration tools (Jenkins, TravisCI, etc.) and how to automate themExperience with automation/configuration management (Ansible, Chef, etc.)Working knowledge of the network stackWorking knowledge of at least one programming or scripting language<br>\nAt Lucid we foster a collaborative and inspiring workplace.  We pride ourselves in doing this by recruiting, hiring and retaining diverse, passionate, and forward-thinking talent. Lucid is committed to and encourages an inclusive environment and we are dedicated to providing equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. If you have a disability or special need that requires accommodation, please let us know.</p>\n\n<p>At Lucid we foster a collaborative and inspiring workplace.  We pride ourselves in doing this by recruiting, hiring and retaining diverse, passionate, and forward-thinking talent. Lucid is committed to and encourages an inclusive environment and we are dedicated to providing equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. If you have a disability or special need that requires accommodation, please let us know.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "London",
+        "Prague"
+      ],
+      "skills": [
+        "DevOps",
+        "Docker",
+        "DevOps Engineering",
+        "AWS",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "payment": {
+        "salary": "£50k – £90k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/safa-mohamoud",
+        "name": "Safa Mohamoud",
+        "avatar": "https://photos.angel.co/users/525981-medium_jpg?1564404631"
+      },
+      "refs": {
+        "angelListId": "600739",
+        "angelListUrl": "https://angel.co/company/lucid-london-engineering/jobs/600739-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Accountant",
+      "description": "[Lucid](https://luc.id/) is a market research platform that provides access to authentic, first-party data in over 90 countries. Our products and services enable anyone, in any industry, to ask questions of targeted audiences and find the answers they need – fast. These answers can be used to uncover consumer motivations, increase revenue, and measure the impact of digital advertising. Founded in 2010, Lucid is headquartered in New Orleans, LA with offices in Dallas, New York, London, Sydney, Singapore, Gurgaon, Prague, and Hamburg.  \n  \n**The Opportunity**   \nLucid seeks an organized, detail-oriented Accountant with a positive, can-do attitude to join our team.  We are looking for a self-starter who will learn our systems and processes, look to make improvements, and quickly become an integral part of our team.  Furthermore, an ability to prioritize, work independently, and maintain a professional/friendly demeanor is essential in our fast-paced, collaborative and dynamic environment. ",
+      "descriptionHtml": "<p><a href=\"https://luc.id/\" target=\"_blank\" rel=\"nofollow\">Lucid</a> is a market research platform that provides access to authentic, first-party data in over 90 countries. Our products and services enable anyone, in any industry, to ask questions of targeted audiences and find the answers they need – fast. These answers can be used to uncover consumer motivations, increase revenue, and measure the impact of digital advertising. Founded in 2010, Lucid is headquartered in New Orleans, LA with offices in Dallas, New York, London, Sydney, Singapore, Gurgaon, Prague, and Hamburg.  </p>\n\n<p><strong>The Opportunity</strong><br><br>\nLucid seeks an organized, detail-oriented Accountant with a positive, can-do attitude to join our team.  We are looking for a self-starter who will learn our systems and processes, look to make improvements, and quickly become an integral part of our team.  Furthermore, an ability to prioritize, work independently, and maintain a professional/friendly demeanor is essential in our fast-paced, collaborative and dynamic environment. </p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "New Orleans"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$65k – $90k"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "818698",
+        "angelListUrl": "https://angel.co/company/lucid-london-engineering/jobs/818698-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Customer Success Manager",
+      "description": "[Lucid](https://luc.id/) is a market research platform that provides access to authentic, first-party data in over 90 countries. Our products and services enable anyone, in any industry, to ask questions of targeted audiences and find the answers they need – fast. These answers can be used to uncover consumer motivations, increase revenue, and measure the impact of digital advertising. Founded in 2010, Lucid is headquartered in New Orleans, LA with offices in Dallas, New York, London, Sydney, Singapore, Gurgaon, Prague, and Hamburg.  \n  \n  \n**The Opportunity**  \nThe Customer Success Manager works with Lucid’s customers or partners by establishing strategic relationships with new and existing users, setting critical performance goals, and then acting as a consultative resource to help clients achieve their goals. The CSM is also responsible for training and onboarding new users, ensuring client satisfaction through renewals, evaluating client growth strategies, generating usage reports, and maximizing upsell opportunities by engaging with Sales, Solutions, Product Development, Product Management, Support, and Training as necessary.  The ideal candidate is experienced in managing Enterprise SaaS or subscription clients and is able to educate customers on the Marketplace, Lucid’s SaaS platform. A Customer Success Manager is expected to set client expectations and drive client behavior at multiple levels within an organization. The CSM is also expected to visit major key accounts on a regular basis in order to grow business within new and existing accounts. The role may support clients in multiple time zones and industries, which will require flexibility, along with travel.",
+      "descriptionHtml": "<p><a href=\"https://luc.id/\" target=\"_blank\" rel=\"nofollow\">Lucid</a> is a market research platform that provides access to authentic, first-party data in over 90 countries. Our products and services enable anyone, in any industry, to ask questions of targeted audiences and find the answers they need – fast. These answers can be used to uncover consumer motivations, increase revenue, and measure the impact of digital advertising. Founded in 2010, Lucid is headquartered in New Orleans, LA with offices in Dallas, New York, London, Sydney, Singapore, Gurgaon, Prague, and Hamburg.  </p>\n\n<p><strong>The Opportunity</strong><br><br>\nThe Customer Success Manager works with Lucid’s customers or partners by establishing strategic relationships with new and existing users, setting critical performance goals, and then acting as a consultative resource to help clients achieve their goals. The CSM is also responsible for training and onboarding new users, ensuring client satisfaction through renewals, evaluating client growth strategies, generating usage reports, and maximizing upsell opportunities by engaging with Sales, Solutions, Product Development, Product Management, Support, and Training as necessary.  The ideal candidate is experienced in managing Enterprise SaaS or subscription clients and is able to educate customers on the Marketplace, Lucid’s SaaS platform. A Customer Success Manager is expected to set client expectations and drive client behavior at multiple levels within an organization. The CSM is also expected to visit major key accounts on a regular basis in order to grow business within new and existing accounts. The role may support clients in multiple time zones and industries, which will require flexibility, along with travel.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Sydney"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "819184",
+        "angelListUrl": "https://angel.co/company/lucid-london-engineering/jobs/819184-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Senior Product Manager",
+      "description": "[Lucid](https://luc.id/) is a market research platform that provides access to authentic, first-party data in over 90 countries. Our products and services enable anyone, in any industry, to ask questions of targeted audiences and find the answers they need – fast. These answers can be used to uncover consumer motivations, increase revenue, and measure the impact of digital advertising. Founded in 2010, Lucid is headquartered in New Orleans, LA with offices in Dallas, New York, London, Sydney, Singapore, Gurgaon, Prague, and Hamburg.  \n  \nAs Senior Product Manager, Marketplace you will work closely with customers, business and technology partners to define and execute the product roadmap for Lucid’s programmatic Marketplace. You will be responsible for product roadmap planning, coordinating design and delivery with UX and engineering,  consistent delivery of incremental value,  and developing messaging for product adoption.   ",
+      "descriptionHtml": "<p><a href=\"https://luc.id/\" target=\"_blank\" rel=\"nofollow\">Lucid</a> is a market research platform that provides access to authentic, first-party data in over 90 countries. Our products and services enable anyone, in any industry, to ask questions of targeted audiences and find the answers they need – fast. These answers can be used to uncover consumer motivations, increase revenue, and measure the impact of digital advertising. Founded in 2010, Lucid is headquartered in New Orleans, LA with offices in Dallas, New York, London, Sydney, Singapore, Gurgaon, Prague, and Hamburg.  </p>\n\n<p>As Senior Product Manager, Marketplace you will work closely with customers, business and technology partners to define and execute the product roadmap for Lucid’s programmatic Marketplace. You will be responsible for product roadmap planning, coordinating design and delivery with UX and engineering,  consistent delivery of incremental value,  and developing messaging for product adoption.   </p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "New Orleans"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$95k – $125k"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "819185",
+        "angelListUrl": "https://angel.co/company/lucid-london-engineering/jobs/819185-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Altitude ",
+  "avatar": "https://photos.angel.co/startups/i/7471176-edd7de8aaa07ced0a1bad2d05ee7fff7-medium_jpg.jpg?buster=1580939737",
+  "slogan": "The next big thing for online travel payments in Europe",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.altitude.co.uk/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Online Travel",
+    "Payments"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/zak-el",
+      "name": "Zak EL. ",
+      "avatar": "https://photos.angel.co/users/10599151-medium_jpg?1580940239",
+      "bioHtml": "Trader@Investment Bank "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7471176",
+    "angelListUrl": "https://angel.co/company/altitude-9"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "CTO",
+      "description": "We're a team of two brothers working on building the next big thing for online travel payments. We've got a great idea supported by a solid business plan and some monies to invest. We both have backgrounds in finance and we have the stamina and drive to make our project succeed. What we're looking for is an amazing CTO who will be our co-founder and partner to build IT. Background in payments and/or travel is a + but we're looking for is an Agile mind with a solid technical background that will embrace our vision and take it to the next step. Money is not a problem we'll take sweat equity works and as it stands, we don't even need you to quit your daytime job if you have one.",
+      "descriptionHtml": "<p>We&#39;re a team of two brothers working on building the next big thing for online travel payments. We&#39;ve got a great idea supported by a solid business plan and some monies to invest. We both have backgrounds in finance and we have the stamina and drive to make our project succeed. What we&#39;re looking for is an amazing CTO who will be our co-founder and partner to build IT. Background in payments and/or travel is a + but we&#39;re looking for is an Agile mind with a solid technical background that will embrace our vision and take it to the next step. Money is not a problem we&#39;ll take sweat equity works and as it stands, we don&#39;t even need you to quit your daytime job if you have one.</p>\n",
+      "position": "cofounder",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Full Stack Development",
+        "API",
+        "Agile"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "1.0% – 10.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/zak-el",
+        "name": "Zak EL. ",
+        "avatar": "https://photos.angel.co/users/10599151-medium_jpg?1580940239"
+      },
+      "refs": {
+        "angelListId": "714980",
+        "angelListUrl": "https://angel.co/company/altitude-9/jobs/714980-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "name": "Sentiment Search",
+  "avatar": "https://photos.angel.co/startups/i/441605-8bc76f7866c5b0b16ccf9cd580364085-medium_jpg.jpg?buster=1405779663",
+  "slogan": "Social media insights specialised for hospitality",
+  "description": "Sentiment Search tracks every social and review platform across the Internet for thousands of restaurants and hotels.\n\nUsing Artificial Intelligence, we analyse every comment written online and generate a plethora of insights on a location-level, brand-level and industry-level.\n\nThese insights can be used to understand how customers perceive every aspect of a business relative to the competition and improve online ratings.\n\nWe work with a number of premium restaurants, hotels and PR agencies, including three Michelin-star restaurants.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.sentimentsearch.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/sentimentsearch"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://linkedin.com/company/sentiment-search"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Reviews and Recommendations",
+    "Analytics",
+    "Restaurants",
+    "Hospitality"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Founder & CEO",
+      "role": "Employee",
+      "url": "https://angel.co/u/prithvi_dhanda",
+      "name": "Prithvi Dhanda",
+      "avatar": "https://photos.angel.co/users/679156-medium_jpg?1552251811",
+      "bioHtml": "Founder - Sentiment Search\nBI Consultant - Hopster\nData Eng - Innogy\nData Eng - Ravn Systems\nLead Test Eng - Symantec\nMSc in Soft Eng - University of Oxford"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "441605",
+    "angelListUrl": "https://angel.co/company/sentiment-search"
+  },
+  "jobs": [
+    {
+      "role": "Marketing",
+      "title": "Marketing and Lead Generation Intern (Commission Based)",
+      "description": "- Aggregate email addresses of marketing directors and operation directors of restaurants in the UK and US.\n- Send personalised emails to potential customers and arrange demos.\n- Content creation; Instagram and blogs.\n\nInitial 2/3 month project. Potentially longer based on performance.\nCommission per demo arranged.",
+      "descriptionHtml": "<ul>\n<li>Aggregate email addresses of marketing directors and operation directors of restaurants in the UK and US.</li>\n<li>Send personalised emails to potential customers and arrange demos.</li>\n<li>Content creation; Instagram and blogs.</li>\n</ul>\n\n<p>Initial 2/3 month project. Potentially longer based on performance.<br>\nCommission per demo arranged.</p>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "United Kingdom"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "United Kingdom"
+      ],
+      "skills": [
+        "Lead Generation",
+        "Social Media Marketing",
+        "Content Creation"
+      ],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": "Founder & CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/prithvi_dhanda",
+        "name": "Prithvi Dhanda",
+        "avatar": "https://photos.angel.co/users/679156-medium_jpg?1552251811"
+      },
+      "refs": {
+        "angelListId": "673296",
+        "angelListUrl": "https://angel.co/company/sentiment-search/jobs/673296-"
+      }
+    }
+  ]
+}

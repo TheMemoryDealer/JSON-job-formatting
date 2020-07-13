@@ -1,0 +1,186 @@
+{
+  "name": "NoviCap",
+  "avatar": "https://photos.angel.co/startups/i/481015-96737a88e6e2dddc58c6ee67abe5fc6d-medium_jpg.jpg?buster=1557928062",
+  "slogan": "The OS for invoice finance",
+  "description": "NoviCap is a tech-driven, customer-centric invoice finance platform. We stand for speedy customer onboarding, real-time risk assessment and pricing, and a generally superior user experience.\n\nJoin us on a worthwhile adventure to build a permanent category leader in fintech!",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.novicap.com"
+    },
+    {
+      "type": "blog",
+      "url": "http://novicap.com/blog/"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/novicap"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/novicapfinance"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/novicap"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "Barcelona",
+    "Amsterdam",
+    "Madrid",
+    "London"
+  ],
+  "marketTags": [
+    "Finance",
+    "Loans",
+    "Peer-to-Peer",
+    "Fin Tech"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 3100000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1442275200,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1439596800,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/federico-travella",
+      "name": "Federico Travella",
+      "avatar": "https://photos.angel.co/users/779467-medium_jpg?1553079309",
+      "bioHtml": "Founder &amp; CEO NoviCap"
+    },
+    {
+      "title": "COO",
+      "role": "Founder",
+      "url": "https://angel.co/u/marc-antoni-macia",
+      "name": "Marc Antoni Macia",
+      "avatar": "https://photos.angel.co/users/779471-medium_jpg?1411820432",
+      "bioHtml": "Access the capital locked in your long-dated invoices."
+    },
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/nicolas-overloop",
+      "name": "Nicolas Overloop",
+      "avatar": "https://photos.angel.co/users/7615-medium_jpg?1580732519",
+      "bioHtml": "Founder &amp; CTO NoviCap"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/michael-parry-6",
+      "name": "Michael Parry",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/francisco-espino",
+      "name": "Francisco Espino",
+      "avatar": "https://photos.angel.co/users/10076215-medium_jpg?1570540962",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "481015",
+    "angelListUrl": "https://angel.co/company/novicap"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Software Engineer",
+      "description": "# What you'll do\n\nAs a software engineer at NoviCap’s office in Barcelona, you'll be responsible for building and maintaining our core platform, from ideation to deployment and beyond. You will be surrounded by peers which are passionate about technology and are always happy to share this passion with the rest of the team.\n\n# Our stack\n\nAt the moment NoviCap is powered by a Ruby on Rails monolith and a few services written in Python and Javascript hosted in AWS. The services talk to each other using REST, data is stored in PostgreSQL, and the frontend uses React. We are a data-intensive business, so there are a lot of integrations with third-party services and financial institutions. We have a relentless drive for clean, secure and well-tested code, which shows during code reviews, and whenever a change is approved it gets deployed automatically through our zero-downtime CI/CD pipeline.\n\n# What you'll bring\n\n- Production experience and a strong command of at least one language.\n- The ability to get things done. You actively consider the fine balance between shipping speed and perfection.\n- Impact-driven mentality. You have a product mindset and understand how your work impacts customers and coworkers.\n- Problem solving skills. Our work often requires implementing unconventional solutions and sometimes you should be able to find non-engineering ways around a problem.\n- Communication. You have a good English and are capable of giving feedback and gathering information from other departments and peers with different backgrounds.\n\n# What we offer\n\n- A full-time position in Barcelona.\n- A great international environment with a flat hierarchy.\n- A competitive salary as well as equity options.\n- As part of your relocation package we'll cover your international travel costs, and sponsor your visa and work permit.\n- A career development budget and bonuses based on each engineer’s personal goals.\n- Free English or Spanish classes.\n- Subsidized gym membership at more than 30 premium locations.\n- A flexible vacation policy.\n- Healthy snacks, fruit, and good coffee.\n- The opportunity to become one of the core developers of a fast-growing fintech company which has found product-market fit and is already profitable.",
+      "descriptionHtml": "<h3>What you&#39;ll do</h3>\n<p>As a software engineer at NoviCap’s office in Barcelona, you&#39;ll be responsible for building and maintaining our core platform, from ideation to deployment and beyond. You will be surrounded by peers which are passionate about technology and are always happy to share this passion with the rest of the team.</p>\n<h3>Our stack</h3>\n<p>At the moment NoviCap is powered by a Ruby on Rails monolith and a few services written in Python and Javascript hosted in AWS. The services talk to each other using REST, data is stored in PostgreSQL, and the frontend uses React. We are a data-intensive business, so there are a lot of integrations with third-party services and financial institutions. We have a relentless drive for clean, secure and well-tested code, which shows during code reviews, and whenever a change is approved it gets deployed automatically through our zero-downtime CI/CD pipeline.</p>\n<h3>What you&#39;ll bring</h3>\n<ul>\n<li>Production experience and a strong command of at least one language.</li>\n<li>The ability to get things done. You actively consider the fine balance between shipping speed and perfection.</li>\n<li>Impact-driven mentality. You have a product mindset and understand how your work impacts customers and coworkers.</li>\n<li>Problem solving skills. Our work often requires implementing unconventional solutions and sometimes you should be able to find non-engineering ways around a problem.</li>\n<li>Communication. You have a good English and are capable of giving feedback and gathering information from other departments and peers with different backgrounds.</li>\n</ul>\n<h3>What we offer</h3>\n<ul>\n<li>A full-time position in Barcelona.</li>\n<li>A great international environment with a flat hierarchy.</li>\n<li>A competitive salary as well as equity options.</li>\n<li>As part of your relocation package we&#39;ll cover your international travel costs, and sponsor your visa and work permit.</li>\n<li>A career development budget and bonuses based on each engineer’s personal goals.</li>\n<li>Free English or Spanish classes.</li>\n<li>Subsidized gym membership at more than 30 premium locations.</li>\n<li>A flexible vacation policy.</li>\n<li>Healthy snacks, fruit, and good coffee.</li>\n<li>The opportunity to become one of the core developers of a fast-growing fintech company which has found product-market fit and is already profitable.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": true,
+      "locations": [
+        "Barcelona"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Programming",
+        "PostgreSQL",
+        "Full Stack Development",
+        "Backend Development",
+        "Ruby on Rails",
+        "FinTech"
+      ],
+      "payment": {
+        "salary": "€40k – €55k",
+        "equity": "0.1% – 0.3%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/francisco-espino",
+        "name": "Francisco Espino",
+        "avatar": "https://photos.angel.co/users/10076215-medium_jpg?1570540962"
+      },
+      "refs": {
+        "angelListId": "176601",
+        "angelListUrl": "https://angel.co/company/novicap/jobs/176601-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Commercial Director",
+      "description": "We are looking for a Commercial Director who is passionate about winning DEALS and wants to play a key role in the growth of NoviCap Netherlands. \n\nYou will be part of an experienced team of entrepreneurs with a successful track record and all the resources to support you. NoviCap has an existing network of leading partnerships such as credit insurance advisors, financial advisors and financial institutions including a tier-1 bank. \n\nYour mission is to acquire new business and further expand the NoviCap partner network to generate qualified leads. \n\nResponsibilities:\n- Acquire new trusted network partners\n- Develop and manage a commercial team\n- Analyse and structure transactions\n- Negotiate terms & conditions with customers\n- Collaborate with the risk department to assess and onboard customers\n- Build and maintain a strong, long-lasting partner network\n- Execute your own market strategy\n\nRequired Skills:\n- Native Dutch speaker\n- 10 years experience in commercial finance at a tier-1 bank complemented by an experience in alternative finance, especially in factoring, supply chain finance or other credit products\n- Proven network of existing partners and customers\n- Track record of building and managing high-performing commercial teams from A to Z\n- Expert in structuring and negotiating finance products\n\nWe offer:\n- Full-time position in Amsterdam, flexwork possible\n- Remuneration package (base + variable) based on performance\n- Equity stake dependent on seniority and performance\n- International environment with a flat hierarchy\n- Opportunity to join a worthwhile adventure",
+      "descriptionHtml": "<p>We are looking for a Commercial Director who is passionate about winning DEALS and wants to play a key role in the growth of NoviCap Netherlands. </p>\n\n<p>You will be part of an experienced team of entrepreneurs with a successful track record and all the resources to support you. NoviCap has an existing network of leading partnerships such as credit insurance advisors, financial advisors and financial institutions including a tier-1 bank. </p>\n\n<p>Your mission is to acquire new business and further expand the NoviCap partner network to generate qualified leads. </p>\n\n<p>Responsibilities:</p>\n\n<ul>\n<li>Acquire new trusted network partners</li>\n<li>Develop and manage a commercial team</li>\n<li>Analyse and structure transactions</li>\n<li>Negotiate terms &amp; conditions with customers</li>\n<li>Collaborate with the risk department to assess and onboard customers</li>\n<li>Build and maintain a strong, long-lasting partner network</li>\n<li>Execute your own market strategy</li>\n</ul>\n\n<p>Required Skills:</p>\n\n<ul>\n<li>Native Dutch speaker</li>\n<li>10 years experience in commercial finance at a tier-1 bank complemented by an experience in alternative finance, especially in factoring, supply chain finance or other credit products</li>\n<li>Proven network of existing partners and customers</li>\n<li>Track record of building and managing high-performing commercial teams from A to Z</li>\n<li>Expert in structuring and negotiating finance products</li>\n</ul>\n\n<p>We offer:</p>\n\n<ul>\n<li>Full-time position in Amsterdam, flexwork possible</li>\n<li>Remuneration package (base + variable) based on performance</li>\n<li>Equity stake dependent on seniority and performance</li>\n<li>International environment with a flat hierarchy</li>\n<li>Opportunity to join a worthwhile adventure</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 10,
+      "visaSponsorship": false,
+      "locations": [
+        "Amsterdam"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Business Development",
+        "New Business Development",
+        "Strategic Partnerships",
+        "Commercial Lending",
+        "Account Receivable Factoring",
+        "FinTech",
+        "Invoice Finance",
+        "Alternative Finance",
+        "Supply Chain Finance"
+      ],
+      "payment": {
+        "salary": "€75k – €100k",
+        "equity": "0.1% – 0.4%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/federico-travella",
+        "name": "Federico Travella",
+        "avatar": "https://photos.angel.co/users/779467-medium_jpg?1553079309"
+      },
+      "refs": {
+        "angelListId": "556000",
+        "angelListUrl": "https://angel.co/company/novicap/jobs/556000-"
+      }
+    }
+  ]
+}

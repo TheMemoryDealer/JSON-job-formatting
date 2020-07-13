@@ -1,0 +1,136 @@
+{
+  "name": "Alternative Derivatives Exchange",
+  "avatar": "https://photos.angel.co/startups/i/7614727-29d3020e54d53b42a21f0cb0d0e48e4a-medium_jpg.jpg?buster=1586366690",
+  "slogan": "Regulated venue for trading alternative derivatives; backed by proprietary technology",
+  "description": "ADE helps clients hedge real world risks by offering a low cost high throughput resilient trading venue facilitated by high performance matching technology and a blockchain based clearing and settlement system.\nThe aforementioned technology stack is currently marketed on a SaaS basis to various venues. \nThe products ADE intents to list include: Digital Asset Futures, Hashing Futures, Weather Futures, Freight Futures and deliverable Gold Futures. Our technology is complete and currently marketed, the funding support we are now looking for will go towards Operational Expenditure and regulatory costs. \nADE will be fully regulated by the FCA prior to launch, once regulated ADE will offer its products to Clearing Members who in turn will onboard exiting clients making the client acquisition process extremely efficient and associated costs very low.  \nThe targeted client base is comprised of financial institutions, hedge funds, banks, prop shops, arcades, individuals trading their own account as well as businesses looking to hedge their respective business risks. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.alternativederivatives.com/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/altderivatives"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/alternative-derivatives-exchange"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Fin Tech",
+    "SaaS",
+    "Financial Exchanges"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 60630,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1584921600,
+        "valuation": 6063000
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/emir-kamber",
+      "name": "Emir Kamber",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/djordje-radic",
+      "name": "Djordje Radic",
+      "avatar": "https://photos.angel.co/users/10977935-medium_jpg?1586418047",
+      "bioHtml": "CEO of Alternative Derivatives Exchange • Worked in HFT in derivatives; returned 1200% in 5 yrs and started several tech. businesses."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/nikola-bozic-3",
+      "name": "Nikola Bozic",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/djordje-konstantinovic",
+      "name": "Djordje Konstantinovic",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/milos-kovac",
+      "name": "Milos Kovac",
+      "avatar": "https://photos.angel.co/users/10978473-medium_jpg?1586425555",
+      "bioHtml": "Head of QA department in ADE • Former security specialist in many IT Companies"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7614727",
+    "angelListUrl": "https://angel.co/company/alternative-derivatives-exchange"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Junior C++ Developer",
+      "description": "ADE is currently looking to add a C++ junior or intern to its development team. The candidate will work directly with the CTO and will report directly to the CTO, Mr Emir Kamber. \r\nEmir is an expert C++ developer and a founder of ADE. With over 20 year of experience in finance building High Frequency Trading and Exchange infrastructure, Emir is an expert C++ developer. \r\nThe candidate will be a \"go-getter\", hard working , inquisitive, self starter with a genuine passion and thirst for knowledge. This is a high viability position with a steep learning curve that will afford the right candidate with the opportunity for very fast career advancement. \r\nThe initial work will be on non-critical components with additional responsibilities added depending on performance. \r\n\r\nThis is a paid or unpaid position depending on candidate qualifications. The candidate may be from Belgrade, Serbia or London, UK.",
+      "descriptionHtml": "<p>ADE is currently looking to add a C++ junior or intern to its development team. The candidate will work directly with the CTO and will report directly to the CTO, Mr Emir Kamber. <br>\nEmir is an expert C++ developer and a founder of ADE. With over 20 year of experience in finance building High Frequency Trading and Exchange infrastructure, Emir is an expert C++ developer. <br>\nThe candidate will be a &quot;go-getter&quot;, hard working , inquisitive, self starter with a genuine passion and thirst for knowledge. This is a high viability position with a steep learning curve that will afford the right candidate with the opportunity for very fast career advancement. <br>\nThe initial work will be on non-critical components with additional responsibilities added depending on performance. </p>\n\n<p>This is a paid or unpaid position depending on candidate qualifications. The candidate may be from Belgrade, Serbia or London, UK.</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe"
+      ],
+      "skills": [
+        "C++",
+        "API",
+        "Low-Latency"
+      ],
+      "payment": {
+        "salary": "$0k – $36k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/djordje-radic",
+        "name": "Djordje Radic",
+        "avatar": "https://photos.angel.co/users/10977935-medium_jpg?1586418047"
+      },
+      "refs": {
+        "angelListId": "786485",
+        "angelListUrl": "https://angel.co/company/alternative-derivatives-exchange/jobs/786485-"
+      }
+    }
+  ]
+}

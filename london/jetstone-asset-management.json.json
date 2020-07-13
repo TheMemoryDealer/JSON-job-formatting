@@ -1,0 +1,140 @@
+{
+  "name": "Jetstone Asset Management",
+  "avatar": "https://photos.angel.co/startups/i/1077878-1dd20f6fd92b5a534c3b49f2fb265f99-medium_jpg.jpg?buster=1548669972",
+  "slogan": "",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.jetstoneam.com/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/jetstone-asset-management-uk-llp/about/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/ahmad-m-butt-7",
+      "name": "Ahmad Butt",
+      "avatar": "https://photos.angel.co/users/227975-medium_jpg?1405556049",
+      "bioHtml": "Systematic HF — VC/Angel — polymath — Dad. Future of Education, Work, Cities and accelerating chrysalis. <a href=\"https://angel.co/university-of-oxford-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Oxford</span></a>, <a href=\"https://angel.co/carnegie-mellon-university\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Carnegie Mellon University</span></a> "
+    },
+    {
+      "title": "Chief Scientist",
+      "role": "Employee",
+      "url": "https://angel.co/u/andreasfragner",
+      "name": "Andreas Fragner",
+      "avatar": "https://photos.angel.co/users/99454-medium_jpg?1405524836",
+      "bioHtml": "Chief Scientist @Jetstone Asset Management • Co-Founder <a href=\"https://angel.co/company/high-contrast-investments\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">High Contrast Investments</span></a>  • Worked at <a href=\"https://angel.co/company/goldman-sachs\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Goldman Sachs</span></a>, <a href=\"https://angel.co/yale-university\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Yale University</span></a>, PhD Yale &#39;13"
+    },
+    {
+      "title": "Senior  Portfolio Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/gaurav-bamania-cfa",
+      "name": "Gaurav Bamania, CFA",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Global Investor"
+    },
+    {
+      "title": "Head of Engineering",
+      "role": "Employee",
+      "url": "https://angel.co/u/james-seymour-2",
+      "name": "James Seymour",
+      "avatar": "https://photos.angel.co/users/8854240-medium_jpg?1548585497",
+      "bioHtml": "Building a world-class systematic hedge fund at Jetstone Asset Management"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "1077878",
+    "angelListUrl": "https://angel.co/company/jetstone-asset-management"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "At Jetstone, our edge depends on hiring exceptional engineering talent to help us build a cutting-edge research & trading platform.\n\nYou’ll be passionate about technology - software engineering is more than just a job to you. You may be involved with open source projects, actively blog about technology or research areas that interest you, give talks at conferences or meet-ups, or just constantly think about innovative solutions to real-world problems.\n\nYou’ll have a breadth of curiosity that spans machine-learning, agent-based modelling, and statistical analysis. You’ll want to build on the latest technology, and learn continuously.\n\nYou’ll be keen to work closely with all parts of the business - including traders, researchers, risk analysts and operations personnel. You’ll be a great communicator with a natural ability to engage, understand and empathise with people.\n\nYou’ll be delivery-focussed, using agile development to iterate quickly and seek regular feedback.\n\nFinally, you’ll be joining us at an incredibly early stage of our journey: you’ll be instrumental in shaping our culture, and helping us recruit world-class talent.\n\nRequirements\n- 2+ years of enterprise experience\n- Knowledge of C# / Java, with a strong grasp of data structures and algorithms\n- Experience of large-scale data storage / retrieval / analysis (SQL / NoSQL etc.)\n- Degree in Computer Science or related field\n\nNice to have\n- Experience of research platforms / tooling e.g. Spark / R / Matlab / Python\n- Experience in CI / CD pipelines\n- Web application development & data visualisation",
+      "descriptionHtml": "<p>At Jetstone, our edge depends on hiring exceptional engineering talent to help us build a cutting-edge research &amp; trading platform.</p>\n\n<p>You’ll be passionate about technology - software engineering is more than just a job to you. You may be involved with open source projects, actively blog about technology or research areas that interest you, give talks at conferences or meet-ups, or just constantly think about innovative solutions to real-world problems.</p>\n\n<p>You’ll have a breadth of curiosity that spans machine-learning, agent-based modelling, and statistical analysis. You’ll want to build on the latest technology, and learn continuously.</p>\n\n<p>You’ll be keen to work closely with all parts of the business - including traders, researchers, risk analysts and operations personnel. You’ll be a great communicator with a natural ability to engage, understand and empathise with people.</p>\n\n<p>You’ll be delivery-focussed, using agile development to iterate quickly and seek regular feedback.</p>\n\n<p>Finally, you’ll be joining us at an incredibly early stage of our journey: you’ll be instrumental in shaping our culture, and helping us recruit world-class talent.</p>\n\n<p>Requirements</p>\n\n<ul>\n<li>2+ years of enterprise experience</li>\n<li>Knowledge of C# / Java, with a strong grasp of data structures and algorithms</li>\n<li>Experience of large-scale data storage / retrieval / analysis (SQL / NoSQL etc.)</li>\n<li>Degree in Computer Science or related field</li>\n</ul>\n\n<p>Nice to have</p>\n\n<ul>\n<li>Experience of research platforms / tooling e.g. Spark / R / Matlab / Python</li>\n<li>Experience in CI / CD pipelines</li>\n<li>Web application development &amp; data visualisation</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "C#",
+        "Financial Services",
+        "Object Oriented Programming"
+      ],
+      "payment": {
+        "salary": "£60k – £80k"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "339406",
+        "angelListUrl": "https://angel.co/company/jetstone-asset-management/jobs/339406-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Data Engineer",
+      "description": "Role\n\nAt Jetstone, our edge depends on hiring exceptional talent to help us build a cutting-edge research & trading platform. This platform leverages public cloud services to support massive-scale distributed computing, and we need you to help us design and build the right data storage & provisioning\narchitecture.\n\nData is critical to our research – and this currently spans machine-learning, agent-based modelling, and statistical analysis. As such, we need to exploit hugely diverse pools of data from multiple sources – both structured and unstructured. Critically, our data storage must be resilient, provide strong\nguarantees of integrity, and support massive-scale concurrent queries.\n\nWe’re small enough that no-one is pigeon-holed. We iterate quickly – using Agile to help meet the ever-changing needs of the business, and we guarantee that you’ll face a different range of problems every day – from simple user queries to complex performance tuning. Everyone will be pushed out of their comfort zone, so we need people who are unafraid to roll up their sleeves and pitch in to help us succeed.\n\nCollaboration is key at Jetstone, and you’ll be working closely with all parts of the business - including traders, researchers, risk analysts and operations personnel. You’ll need to be a great communicator with a natural ability to engage, understand and empathise with people. You’ll also need to be a be a\nnatural problem solver with a pragmatic outlook.\n\nAnd finally: you’ll be joining us at an incredibly early stage of our journey. You’ll be instrumental in shaping our culture, helping us recruit world-class talent, and building an innovative platform that will give us the greatest chance to succeed in one of the most competitive environments in the world.\n\nRequirements\n● Degree in Computer Science, Engineering, Mathematics, or related field\n● Solid knowledge of C# / Java with a strong grasp of data structures and algorithms\n● 5+ years of enterprise data management - building market data feeds, persisting diverse\ndatasets, and designing resilient large-scale storage platforms.\n\nNice to have\n● Experience of research platforms / tooling e.g. Spark / R / Matlab / Python\n● Experience of NoSQL databases\n● Cloud-based deployment experience - with expertise in at least one of AWS / Azure / GCE",
+      "descriptionHtml": "<p>Role</p>\n\n<p>At Jetstone, our edge depends on hiring exceptional talent to help us build a cutting-edge research &amp; trading platform. This platform leverages public cloud services to support massive-scale distributed computing, and we need you to help us design and build the right data storage &amp; provisioning<br>\narchitecture.</p>\n\n<p>Data is critical to our research – and this currently spans machine-learning, agent-based modelling, and statistical analysis. As such, we need to exploit hugely diverse pools of data from multiple sources – both structured and unstructured. Critically, our data storage must be resilient, provide strong<br>\nguarantees of integrity, and support massive-scale concurrent queries.</p>\n\n<p>We’re small enough that no-one is pigeon-holed. We iterate quickly – using Agile to help meet the ever-changing needs of the business, and we guarantee that you’ll face a different range of problems every day – from simple user queries to complex performance tuning. Everyone will be pushed out of their comfort zone, so we need people who are unafraid to roll up their sleeves and pitch in to help us succeed.</p>\n\n<p>Collaboration is key at Jetstone, and you’ll be working closely with all parts of the business - including traders, researchers, risk analysts and operations personnel. You’ll need to be a great communicator with a natural ability to engage, understand and empathise with people. You’ll also need to be a be a<br>\nnatural problem solver with a pragmatic outlook.</p>\n\n<p>And finally: you’ll be joining us at an incredibly early stage of our journey. You’ll be instrumental in shaping our culture, helping us recruit world-class talent, and building an innovative platform that will give us the greatest chance to succeed in one of the most competitive environments in the world.</p>\n\n<p>Requirements<br>\n● Degree in Computer Science, Engineering, Mathematics, or related field<br>\n● Solid knowledge of C# / Java with a strong grasp of data structures and algorithms<br>\n● 5+ years of enterprise data management - building market data feeds, persisting diverse<br>\ndatasets, and designing resilient large-scale storage platforms.</p>\n\n<p>Nice to have<br>\n● Experience of research platforms / tooling e.g. Spark / R / Matlab / Python<br>\n● Experience of NoSQL databases<br>\n● Cloud-based deployment experience - with expertise in at least one of AWS / Azure / GCE</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Java",
+        "noSQL",
+        "C#",
+        "Spark",
+        "Market Data"
+      ],
+      "payment": {
+        "salary": "£100k – £150k"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "380924",
+        "angelListUrl": "https://angel.co/company/jetstone-asset-management/jobs/380924-"
+      }
+    }
+  ]
+}

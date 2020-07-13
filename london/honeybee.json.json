@@ -1,0 +1,98 @@
+{
+  "name": "HoneyBee",
+  "avatar": "https://photos.angel.co/startups/i/6945598-093fa4fb4dd2d20b21a635f1832d9cd8-medium_jpg.jpg?buster=1557867796",
+  "slogan": "Supply chain simplification and aggregation",
+  "description": "An aggregator between retail hospitality businesses and their supply chain counterparts. An ordering platform if you will to create economies of scale for all our customers and streamline the delivery process for suppliers.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www."
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Hospitality",
+    "Restaurants",
+    "Supply Chain Management"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/ashley-brown-28",
+      "name": "Ashley Brown",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6945598",
+    "angelListUrl": "https://angel.co/company/honeybee"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "App developer/CTO",
+      "description": "I need a a technical developer to create the tech element of this business. Ideally i'm looking for someone who wants to be part of a leadership team in a CTO capacity. Someone with the technical skills to satisfy the development side of the role but also someone with commercial acumen and a desire to be part of the senior leadership team.",
+      "descriptionHtml": "<p>I need a a technical developer to create the tech element of this business. Ideally i&#39;m looking for someone who wants to be part of a leadership team in a CTO capacity. Someone with the technical skills to satisfy the development side of the role but also someone with commercial acumen and a desire to be part of the senior leadership team.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Web Applications",
+        "Application Development",
+        "Android Application Development",
+        "iOS Application Development"
+      ],
+      "payment": {
+        "salary": "£25k – £50k",
+        "equity": "1.0% – 10.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/ashley-brown-28",
+        "name": "Ashley Brown",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "555548",
+        "angelListUrl": "https://angel.co/company/honeybee/jobs/555548-"
+      },
+      "postedAt": 1589658555548
+    }
+  ]
+}

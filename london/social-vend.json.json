@@ -1,0 +1,152 @@
+{
+  "name": "Social Vend",
+  "avatar": "https://photos.angel.co/startups/i/4092269-177cd7a3637274eda121d8c69e1c2868-medium_jpg.jpg?buster=1493828238",
+  "slogan": "Welcome to the future of brand engagement",
+  "description": "We build smart socially activated vending machines for the advertising and experiential markets. By encouraging consumers to interact with your brand in return for a free gift, you will create a fun and memorable experience for everyone involved. Social vending raises brand awareness and creates social amplification of your brand message across the users entire network of followers and friends.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.socialvend.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@socialvend"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/socialvend/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/10955386/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Advertising",
+    "Brand Marketing",
+    "Social Media Marketing",
+    "Internet of Things",
+    "Operating Systems",
+    "User Experience Design",
+    "User Experience Research"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/andrew-theodore",
+      "name": "Andrew Theodore",
+      "avatar": "https://photos.angel.co/users/6493196-medium_jpg?1511856629",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/ollie-lynch",
+      "name": "Ollie Lynch",
+      "avatar": "https://photos.angel.co/users/5806276-medium_jpg?1496143934",
+      "bioHtml": "Founder Social Vend "
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/geoffrey-neal-1",
+      "name": "Geoffrey Neal",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4092269",
+    "angelListUrl": "https://angel.co/company/social-vend"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Mid-level Frontend Engineer",
+      "description": "About Social Vend\n\nWe have been creating interactive and rewarding social experiences through smart vending machines and interactive kiosks for the past 4 years. Our custom built machines are mostly used for short term events and long term installs to help advertisers and retailers better understand their audience. We have worked with some of the worlds largest brands including McDonalds, RedBull and Pepsi to name a few.\n\nWe are also releasing an operating system (vendOS - vendos.io) that allows easy configuration of the machine via a touchscreen, an sdk to build interactive storefronts using web technologies and finally a cloud platform to deploy the built code and monitor the machines health. \n\n\nThe Role\n\nYour main roles will be pushing the UI that lives on the machine forwards and collaborating on the cloud platform (we have some big plans for this side of things).\n\nOur Stack:\n\nReact\n\nRedux\n\nNode Js\n\nPostgres\n\nRedis\n\nTypescript\n\nDocker\n\nAWS\n\n\nWe offer successful candidates:\n\nCompetitive salary\nStock options\nFlexible working from home when needed\nFriday night drinks\nGym membership\nTop spec machine \nRelaxed starting time\n\n\nTo apply:\n\nPlease send over a short email with any examples of your previous work or side projects and a CV to -  ollie@socialvend.com\n\nInterview Process:\n\nCV + work review\nShort technical screening call\nin-person meet the team (not a formal interview, just a meet the gang)\n\nWe are looking to fill this role quickly, so no lengthily interview process!",
+      "descriptionHtml": "<p>About Social Vend</p>\n\n<p>We have been creating interactive and rewarding social experiences through smart vending machines and interactive kiosks for the past 4 years. Our custom built machines are mostly used for short term events and long term installs to help advertisers and retailers better understand their audience. We have worked with some of the worlds largest brands including McDonalds, RedBull and Pepsi to name a few.</p>\n\n<p>We are also releasing an operating system (vendOS - vendos.io) that allows easy configuration of the machine via a touchscreen, an sdk to build interactive storefronts using web technologies and finally a cloud platform to deploy the built code and monitor the machines health. </p>\n\n<p>The Role</p>\n\n<p>Your main roles will be pushing the UI that lives on the machine forwards and collaborating on the cloud platform (we have some big plans for this side of things).</p>\n\n<p>Our Stack:</p>\n\n<p>React</p>\n\n<p>Redux</p>\n\n<p>Node Js</p>\n\n<p>Postgres</p>\n\n<p>Redis</p>\n\n<p>Typescript</p>\n\n<p>Docker</p>\n\n<p>AWS</p>\n\n<p>We offer successful candidates:</p>\n\n<p>Competitive salary<br>\nStock options<br>\nFlexible working from home when needed<br>\nFriday night drinks<br>\nGym membership<br>\nTop spec machine <br>\nRelaxed starting time</p>\n\n<p>To apply:</p>\n\n<p>Please send over a short email with any examples of your previous work or side projects and a CV to -  <a href=\"mailto:ollie@socialvend.com\" target=\"_blank\" rel=\"nofollow\">ollie@socialvend.com</a></p>\n\n<p>Interview Process:</p>\n\n<p>CV + work review<br>\nShort technical screening call<br>\nin-person meet the team (not a formal interview, just a meet the gang)</p>\n\n<p>We are looking to fill this role quickly, so no lengthily interview process!</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "HTML5 & CSS3",
+        "React.js",
+        "Redux"
+      ],
+      "payment": {
+        "salary": "£40k – £50k",
+        "equity": "0.25% – 0.75%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/ollie-lynch",
+        "name": "Ollie Lynch",
+        "avatar": "https://photos.angel.co/users/5806276-medium_jpg?1496143934"
+      },
+      "refs": {
+        "angelListId": "664094",
+        "angelListUrl": "https://angel.co/company/social-vend/jobs/664094-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Frontend Engineer",
+      "description": "About Social Vend\n\nWe have been creating interactive and rewarding social experiences through smart vending machines and interactive kiosks for the past 4 years. Our custom built machines are mostly used for short term events and long term installs to help advertisers and retailers better understand their audience. We have worked with some of the worlds largest brands including McDonalds, RedBull and Pepsi to name a few.\n\nWe are also releasing an operating system (vendOS - vendos.io) that allows easy configuration of the machine via a touchscreen, an sdk to build interactive storefronts using web technologies and finally a cloud platform to deploy the built code and monitor the machines health. \n\n\nThe Role\n\nWe are currently hiring a senior front-end engineer who can lead the growing team. Your main roles will be pushing the UI that lives on the machine forwards and collaborating on the cloud platform (we have some big plans for this side of things).\n\nOur Stack:\n\nReact\n\nRedux\n\nNode Js\n\nPostgres\n\nRedis\n\nTypescript\n\nDocker\n\nAWS\n\n\nWe offer successful candidates:\n\nCompetitive salary\nStock options\nFlexible working from home when needed\nFriday night drinks\nGym membership\nTop spec machine \nRelaxed starting time\n\n\nTo apply:\n\nPlease send over a short email with any examples of your previous work or side projects and a CV to -  ollie@socialvend.com\n\nInterview Process:\n\nCV + work review\nShort technical screening call\nin-person meet the team (not a formal interview, just a meet the gang)\n\nWe are looking to fill this role quickly, so no lengthily interview process!",
+      "descriptionHtml": "<p>About Social Vend</p>\n\n<p>We have been creating interactive and rewarding social experiences through smart vending machines and interactive kiosks for the past 4 years. Our custom built machines are mostly used for short term events and long term installs to help advertisers and retailers better understand their audience. We have worked with some of the worlds largest brands including McDonalds, RedBull and Pepsi to name a few.</p>\n\n<p>We are also releasing an operating system (vendOS - vendos.io) that allows easy configuration of the machine via a touchscreen, an sdk to build interactive storefronts using web technologies and finally a cloud platform to deploy the built code and monitor the machines health. </p>\n\n<p>The Role</p>\n\n<p>We are currently hiring a senior front-end engineer who can lead the growing team. Your main roles will be pushing the UI that lives on the machine forwards and collaborating on the cloud platform (we have some big plans for this side of things).</p>\n\n<p>Our Stack:</p>\n\n<p>React</p>\n\n<p>Redux</p>\n\n<p>Node Js</p>\n\n<p>Postgres</p>\n\n<p>Redis</p>\n\n<p>Typescript</p>\n\n<p>Docker</p>\n\n<p>AWS</p>\n\n<p>We offer successful candidates:</p>\n\n<p>Competitive salary<br>\nStock options<br>\nFlexible working from home when needed<br>\nFriday night drinks<br>\nGym membership<br>\nTop spec machine <br>\nRelaxed starting time</p>\n\n<p>To apply:</p>\n\n<p>Please send over a short email with any examples of your previous work or side projects and a CV to -  <a href=\"mailto:ollie@socialvend.com\" target=\"_blank\" rel=\"nofollow\">ollie@socialvend.com</a></p>\n\n<p>Interview Process:</p>\n\n<p>CV + work review<br>\nShort technical screening call<br>\nin-person meet the team (not a formal interview, just a meet the gang)</p>\n\n<p>We are looking to fill this role quickly, so no lengthily interview process!</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "HTML5 & CSS3",
+        "React.js",
+        "Redux"
+      ],
+      "payment": {
+        "salary": "£60k – £80k",
+        "equity": "0.5% – 1.5%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/ollie-lynch",
+        "name": "Ollie Lynch",
+        "avatar": "https://photos.angel.co/users/5806276-medium_jpg?1496143934"
+      },
+      "refs": {
+        "angelListId": "664092",
+        "angelListUrl": "https://angel.co/company/social-vend/jobs/664092-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "name": "DICE",
+  "avatar": "https://photos.angel.co/startups/i/319009-b9672d18ceebc13e505e9d6a7cb92d18-medium_jpg.jpg?buster=1391511386",
+  "slogan": "We’re building the world’s most-loved platform to discover and attend live events",
+  "description": "DICE is the world's best platform to discover and buy tickets to live events. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.dice.fm"
+    },
+    {
+      "type": "blog",
+      "url": "http://blog.dice.fm"
+    },
+    {
+      "type": "twitter",
+      "url": "http://www.twitter.com/dicefm"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/dice-fm/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Los Angeles"
+  ],
+  "marketTags": [
+    "Music",
+    "Big Data",
+    "Ticketing",
+    "Mobile Payments"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 9800000,
+    "rounds": [
+      {
+        "type": "Series A",
+        "closedAt": 1472169600,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1440374400,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1406851200,
+        "valuation": null
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/phutch22",
+      "name": "Phil Hutcheon",
+      "avatar": "https://photos.angel.co/users/331534-medium_jpg?1454247890",
+      "bioHtml": "Founder of DICE."
+    },
+    {
+      "title": "Head of Product",
+      "role": "Founder",
+      "url": "https://angel.co/u/john-sinclair-1",
+      "name": "John Sinclair",
+      "avatar": "https://photos.angel.co/users/297696-medium_jpg?1405566709",
+      "bioHtml": "Co-Founded ustwo studio in late 2004"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/mimi-smith-3",
+      "name": "Mimi Smith",
+      "avatar": "https://photos.angel.co/users/10537817-medium_jpg?1579862711",
+      "bioHtml": "I&#39;m a tech enthusiast and Recruiter working in the tech startup space in London, say Hi :) "
+    },
+    {
+      "title": "Tech Talent Partner via Talentful",
+      "role": "Employee",
+      "url": "https://angel.co/u/alex-lown",
+      "name": "Alex Lown",
+      "avatar": "https://photos.angel.co/users/8117205-medium_jpg?1539683499",
+      "bioHtml": "Tech fanatic &amp; talent partner. Helping to scale tech businesses of all sizes.\n\nCurrently working at DICE and we are currently scaling our tech teams!"
+    },
+    {
+      "title": "Global Head of Comms",
+      "role": "Employee",
+      "url": "https://angel.co/u/tom-winterton-1",
+      "name": "Tom Winterton",
+      "avatar": "https://photos.angel.co/users/8994839-medium_jpg?1551179809",
+      "bioHtml": "Global Head of Comms at DICE"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "319009",
+    "angelListUrl": "https://angel.co/company/dice-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Penetration Tester",
+      "description": "We built DICE for fans. We’ve gone from being a tiny six-person company in London to a 90+ person (and growing) company that is now launching around the world.\n\nDICE is obsessed with design and technology and on a mission to be the world’s best platform to discover and buy tickets to amazing live experiences. The best artists all work closely with us to make sure their tickets go to their fans, not scalpers or touts.\n\nYou might know DICE if you have gone to gigs or browsed for a night out in town using iOS, Android or Web app but we have much more complex systems working in the background that needs to be as flawless as our apps are. We aim to continue iterating rapidly and taking feedback from our fans and partners to release even better apps.\n\nWe're looking for a **Penetration Tester** , someone who is not only familiar with Network/Infrastructural layer of security but someone who can improve our security from the application side. Our code base right now includes Go, Elixir, Node and Python. If you feel savvy with the above languages, know what Burp Suite is and how to use it and you can explain how would you perform SQL injection, or ARP poisoning attack then apply within!\n\n\n**RESPONSIBILITIES**\n\n- Upgrade insecure libraries across our applications\n- Help developers to avoid security mistakes in their code\n- Perform our applications white/black box security audits\n- Proactively look for possible security improvements to our infrastructure and code\n- Work with developers to define security standards and recommend optimal solutions to meet security requirements in the design of the application\n- Perform Internal Penetration Tests\n\n\n**REQUIREMENTS**\n\n- You will have experience in and Be able to improve the security of apps written in Go/Elixir/Node/Python.\n- Understand the network layer and be able to see security implications\n- Experience with penetration testing software (Nmap, Metasploit, burp suite, lynics, BeEF, SET, etc)\n- Understand how exploits work, what are the common ways of hardening applications/systems\n\nBENEFITS\n\n- Competitive salary\n- Unlimited paid holiday!\n- Monthly DICE credit to spend on your favourite gigs!\n- Private healthcare, provided by Vitality\n- Mental health and wellbeing programme with free coaching and CBT\n- Free breakfast every day\n- Childcare scheme, provided by TEDSgroup\n- Regular socials, Summer Fridays and company teams and clubs",
+      "descriptionHtml": "<p>We built DICE for fans. We’ve gone from being a tiny six-person company in London to a 90+ person (and growing) company that is now launching around the world.</p>\n\n<p>DICE is obsessed with design and technology and on a mission to be the world’s best platform to discover and buy tickets to amazing live experiences. The best artists all work closely with us to make sure their tickets go to their fans, not scalpers or touts.</p>\n\n<p>You might know DICE if you have gone to gigs or browsed for a night out in town using iOS, Android or Web app but we have much more complex systems working in the background that needs to be as flawless as our apps are. We aim to continue iterating rapidly and taking feedback from our fans and partners to release even better apps.</p>\n\n<p>We&#39;re looking for a <strong>Penetration Tester</strong> , someone who is not only familiar with Network/Infrastructural layer of security but someone who can improve our security from the application side. Our code base right now includes Go, Elixir, Node and Python. If you feel savvy with the above languages, know what Burp Suite is and how to use it and you can explain how would you perform SQL injection, or ARP poisoning attack then apply within!</p>\n\n<p><strong>RESPONSIBILITIES</strong></p>\n\n<ul>\n<li>Upgrade insecure libraries across our applications</li>\n<li>Help developers to avoid security mistakes in their code</li>\n<li>Perform our applications white/black box security audits</li>\n<li>Proactively look for possible security improvements to our infrastructure and code</li>\n<li>Work with developers to define security standards and recommend optimal solutions to meet security requirements in the design of the application</li>\n<li>Perform Internal Penetration Tests</li>\n</ul>\n\n<p><strong>REQUIREMENTS</strong></p>\n\n<ul>\n<li>You will have experience in and Be able to improve the security of apps written in Go/Elixir/Node/Python.</li>\n<li>Understand the network layer and be able to see security implications</li>\n<li>Experience with penetration testing software (Nmap, Metasploit, burp suite, lynics, BeEF, SET, etc)</li>\n<li>Understand how exploits work, what are the common ways of hardening applications/systems</li>\n</ul>\n\n<p>BENEFITS</p>\n\n<ul>\n<li>Competitive salary</li>\n<li>Unlimited paid holiday!</li>\n<li>Monthly DICE credit to spend on your favourite gigs!</li>\n<li>Private healthcare, provided by Vitality</li>\n<li>Mental health and wellbeing programme with free coaching and CBT</li>\n<li>Free breakfast every day</li>\n<li>Childcare scheme, provided by TEDSgroup</li>\n<li>Regular socials, Summer Fridays and company teams and clubs</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/mimi-smith-3",
+        "name": "Mimi Smith",
+        "avatar": "https://photos.angel.co/users/10537817-medium_jpg?1579862711"
+      },
+      "refs": {
+        "angelListId": "704696",
+        "angelListUrl": "https://angel.co/company/dice-1/jobs/704696-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Backend Developer (Elixir)",
+      "description": "DICE was built for fans, and we’re on a mission to get people out more. We’ve grown from a six-person start-up in London to become one of the fastest growing consumer businesses to originate from Europe.\n\nWe are obsessed with design and technology and on a mission to be the world’s best platform to discover and buy tickets to amazing live experiences. The best artists all work closely with us to make sure their tickets go to their fans, not scalpers or touts.\n\nWHAT WE'RE LOOKING FOR\n\nWe’re looking for Backend Engineers with strong technical skills and potential. You’re a team player who can collaborate with people in various roles and levels of technical ability, and understand the delicate balance between moving fast & iteration against building tested, resilient code.\n\nYou may not have much experience with Elixir, but you are excited by learning new technology and have a desire to grow in this area, then this the opportunity you've been waiting for!\n\nOUR TECHNOLOGY\n\nOur backend apps are written mostly in Elixir and Go. They feed various information to our award-winning apps with GraphQL and REST API and handle millions of transactions for our ticket sales in a reliable manner.\n\nOur code is hosted in GitHub which we use for creating pull requests and carrying out code reviews. Our pipelines are managed by Travis CI and each commit will build a Docker container. We spin up short term Kubernetes clusters with the new feature branch of the app you are working on and all the other various services so that our QA team can test your new feature in the entire stack. Once passed code gets merged and pushed to the production cluster.\n\nWe are always open to making changes and improvements to our workflow and code base for the benefit of the team and product.\n\nHOW WE WORK\n\nAs a Backend Engineer at DICE, you’ll work in cross-functional, collaborative teams alongside Mobile App Engineers, Frontend Engineers, Product Managers, Product Designers, User Researchers, DevOps, QA Testers and Growth Managers. You’ll also be working on projects with people outside on the Product team, including Creative, Fan Support, Accounts & Venues. You will also get chances to head down to tackle some interesting technical problems such as scalability, reliability, security and internal tools.\n\nAs we grow, we’re planning to transition into squads and disciplines, while keeping the teams flat. Each squad will have a dedicated goal and each discipline will keep horizontal relationships.\n\nYou and your team will be responsible for an overall company goal, rather than building a specific feature - you'll have a direct impact on both what we build, and how we build it.\n\nAs a Product team, we meet every two weeks to discuss hurdles we’re facing across the company and work together to overcome these. As a discipline regularly to discuss tools and techniques to update out codebase and improve processes, as well as put our heads together about best approaches when faced with a new technical challenge.\n\nKey Responsibilities:\n\nDevelop our backend system written in Elixir\nWork cross-functional with Product Managers, Testers, Engineers and Designers to understand requirements, provide technical insights and provide timescale estimations\nWork in an iterative approach, designing, building and trialling out new concepts quickly to test assumptions and create the best possible service we can\nContribute to the improvement of our internal tools and make their/your life easier\nCare about maintainability of the software. Write clean code as well as unit tests and documentation\n\nRequirements:\n\nExperienced with a web application framework e.g. Phoenix, RoR, Django etc.\nA genuine interest in Elixir\nExperience designing and developing systems at scale\nExperience implementing clean and efficient solutions\nExperience delivering business valuable features quickly\nStrong understanding of how databases work internally\nStrong understanding of how computer networks work\nUnderstanding of how OSes and Linux work internally\nExperience integrating 3rd party services\nBENEFITS\n\nCompetitive salary\nUnlimited paid holiday!\nMonthly DICE credit to spend on your favourite gigs!\nPrivate healthcare, provided by Vitality\nMental health and wellbeing programme with free coaching and CBT\nFree breakfast every day\nChildcare scheme, provided by TEDSgroup\nRegular socials, Summer Fridays and company teams and clubs",
+      "descriptionHtml": "<p>DICE was built for fans, and we’re on a mission to get people out more. We’ve grown from a six-person start-up in London to become one of the fastest growing consumer businesses to originate from Europe.</p>\n\n<p>We are obsessed with design and technology and on a mission to be the world’s best platform to discover and buy tickets to amazing live experiences. The best artists all work closely with us to make sure their tickets go to their fans, not scalpers or touts.</p>\n\n<p>WHAT WE&#39;RE LOOKING FOR</p>\n\n<p>We’re looking for Backend Engineers with strong technical skills and potential. You’re a team player who can collaborate with people in various roles and levels of technical ability, and understand the delicate balance between moving fast &amp; iteration against building tested, resilient code.</p>\n\n<p>You may not have much experience with Elixir, but you are excited by learning new technology and have a desire to grow in this area, then this the opportunity you&#39;ve been waiting for!</p>\n\n<p>OUR TECHNOLOGY</p>\n\n<p>Our backend apps are written mostly in Elixir and Go. They feed various information to our award-winning apps with GraphQL and REST API and handle millions of transactions for our ticket sales in a reliable manner.</p>\n\n<p>Our code is hosted in GitHub which we use for creating pull requests and carrying out code reviews. Our pipelines are managed by Travis CI and each commit will build a Docker container. We spin up short term Kubernetes clusters with the new feature branch of the app you are working on and all the other various services so that our QA team can test your new feature in the entire stack. Once passed code gets merged and pushed to the production cluster.</p>\n\n<p>We are always open to making changes and improvements to our workflow and code base for the benefit of the team and product.</p>\n\n<p>HOW WE WORK</p>\n\n<p>As a Backend Engineer at DICE, you’ll work in cross-functional, collaborative teams alongside Mobile App Engineers, Frontend Engineers, Product Managers, Product Designers, User Researchers, DevOps, QA Testers and Growth Managers. You’ll also be working on projects with people outside on the Product team, including Creative, Fan Support, Accounts &amp; Venues. You will also get chances to head down to tackle some interesting technical problems such as scalability, reliability, security and internal tools.</p>\n\n<p>As we grow, we’re planning to transition into squads and disciplines, while keeping the teams flat. Each squad will have a dedicated goal and each discipline will keep horizontal relationships.</p>\n\n<p>You and your team will be responsible for an overall company goal, rather than building a specific feature - you&#39;ll have a direct impact on both what we build, and how we build it.</p>\n\n<p>As a Product team, we meet every two weeks to discuss hurdles we’re facing across the company and work together to overcome these. As a discipline regularly to discuss tools and techniques to update out codebase and improve processes, as well as put our heads together about best approaches when faced with a new technical challenge.</p>\n\n<p>Key Responsibilities:</p>\n\n<p>Develop our backend system written in Elixir<br>\nWork cross-functional with Product Managers, Testers, Engineers and Designers to understand requirements, provide technical insights and provide timescale estimations<br>\nWork in an iterative approach, designing, building and trialling out new concepts quickly to test assumptions and create the best possible service we can<br>\nContribute to the improvement of our internal tools and make their/your life easier<br>\nCare about maintainability of the software. Write clean code as well as unit tests and documentation</p>\n\n<p>Requirements:</p>\n\n<p>Experienced with a web application framework e.g. Phoenix, RoR, Django etc.<br>\nA genuine interest in Elixir<br>\nExperience designing and developing systems at scale<br>\nExperience implementing clean and efficient solutions<br>\nExperience delivering business valuable features quickly<br>\nStrong understanding of how databases work internally<br>\nStrong understanding of how computer networks work<br>\nUnderstanding of how OSes and Linux work internally<br>\nExperience integrating 3rd party services<br>\nBENEFITS</p>\n\n<p>Competitive salary<br>\nUnlimited paid holiday!<br>\nMonthly DICE credit to spend on your favourite gigs!<br>\nPrivate healthcare, provided by Vitality<br>\nMental health and wellbeing programme with free coaching and CBT<br>\nFree breakfast every day<br>\nChildcare scheme, provided by TEDSgroup<br>\nRegular socials, Summer Fridays and company teams and clubs</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Elixir",
+        "Phoenix",
+        "Go"
+      ],
+      "payment": {
+        "salary": "£70k – £75k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/mimi-smith-3",
+        "name": "Mimi Smith",
+        "avatar": "https://photos.angel.co/users/10537817-medium_jpg?1579862711"
+      },
+      "refs": {
+        "angelListId": "704702",
+        "angelListUrl": "https://angel.co/company/dice-1/jobs/704702-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Data Engineer",
+      "description": "DICE was built for fans, and we’re on a mission to get people out more. We’ve grown from a six-person start-up in London to become one of the fastest growing consumer businesses to originate from Europe.\n\nWe are obsessed with using great design, a high scale software, and innovative AI techniques to be the world’s best platform to discover and buy tickets to amazing live experiences. The world’s most talented artists work closely with us to make sure their tickets go to their fans, not scalpers or touts.\n\nWe are looking for an experienced Lead Data Engineer to join our AI product team.\n\nWe want a leader who is passionate about building and scaling data science platforms and comfortable supporting the diverse needs of multiple teams. You’ll be in an inspiring and fast-moving environment as part of a cross-functional team, working closely with developers, designers, testers and product managers. But you’ll be building tools, maintaining high scale systems, and testing theories to arrive at essential insights that will help disrupt a global industry.\n\nOur Lead Data Scientist works remotely so we are looking for a Lead Data Engineer to collaborate closely with him whilst being present in our London office to keep the culture/energy going.\n\nWe work in an iterative approach, designing, building and trialling out new concepts quickly to test our assumptions and create the best service for our fans. We also aggressively pursue the best approaches to the many challenges we face in delivering a high scale and richly personalised services. We want engineers open to collaboration and that want to be an integral part of the product design process.\n\nKey Responsibilities:\n\n- Developing end-to-end data management solutions including database schema, database back-up & management, and performance tuning.\n- Coach and mentor team members both present and future hire.\n- Build but be strategic in terms of elevating what we are building\n- Research and develop solutions to ensure the scalability of our data infrastructure.\n- Ship internal but also customer-facing features.\n- Regularly ship a variety of data products from data infrastructure to the productionalisation of Machine Learning models.\n- You know how to performance manage data engineers as we grow. (This is something to keep in mind for the future)\n- You have contributed to the development of engineers and peers around you.\n- Iterating on solutions based on internal and external feedback.\n\nREQUIREMENTS:\n\n- Strong experience building high scale, high-reliability end-to-end data solutions and pipelines\n- Experience putting models into production\n- You have worked with distributed teams\n- Collaborated closely with third party data consultancies and understand how to get the most out of them.\n- A great communicator who is not afraid to speak out but is conscious of other peoples feelings.\n- Understands Radical Candour  \n- Strong data architecture skills\n- Experience gathering and consolidating data from external sources\n- Experience with sparse data environments\n- Solid development experience with Python or Golang\n- Advanced SQL skills\n- Expert knowledge of analytics databases such as Redshift\n- Extreme attention to detail and quality-orientated\n- AWS experience\n- Good knowledge of UNIX and bash\n- BSc degree in Computer Science, Maths, Physics or similar\n- Experience with Spark and Hadoop (bonus)\n- Good understanding of Data Science (bonus)\n- Experience with PyTorch and/or TensorFlow (bonus)\n- Experience with weak supervision and other novel approaches to sparse data problems (bonus)\n\nBENEFITS\n\n- Competitive salary\n- Unlimited paid holiday!\n- Monthly DICE credit to spend on your favourite gigs!\n- Private healthcare, provided by Vitality\n- Mental health and wellbeing programme with free coaching and CBT\n- Free breakfast every day\n- Childcare scheme, provided by TEDSgroup\n- Regular socials, Summer Fridays and company teams and clubs",
+      "descriptionHtml": "<p>DICE was built for fans, and we’re on a mission to get people out more. We’ve grown from a six-person start-up in London to become one of the fastest growing consumer businesses to originate from Europe.</p>\n\n<p>We are obsessed with using great design, a high scale software, and innovative AI techniques to be the world’s best platform to discover and buy tickets to amazing live experiences. The world’s most talented artists work closely with us to make sure their tickets go to their fans, not scalpers or touts.</p>\n\n<p>We are looking for an experienced Lead Data Engineer to join our AI product team.</p>\n\n<p>We want a leader who is passionate about building and scaling data science platforms and comfortable supporting the diverse needs of multiple teams. You’ll be in an inspiring and fast-moving environment as part of a cross-functional team, working closely with developers, designers, testers and product managers. But you’ll be building tools, maintaining high scale systems, and testing theories to arrive at essential insights that will help disrupt a global industry.</p>\n\n<p>Our Lead Data Scientist works remotely so we are looking for a Lead Data Engineer to collaborate closely with him whilst being present in our London office to keep the culture/energy going.</p>\n\n<p>We work in an iterative approach, designing, building and trialling out new concepts quickly to test our assumptions and create the best service for our fans. We also aggressively pursue the best approaches to the many challenges we face in delivering a high scale and richly personalised services. We want engineers open to collaboration and that want to be an integral part of the product design process.</p>\n\n<p>Key Responsibilities:</p>\n\n<ul>\n<li>Developing end-to-end data management solutions including database schema, database back-up &amp; management, and performance tuning.</li>\n<li>Coach and mentor team members both present and future hire.</li>\n<li>Build but be strategic in terms of elevating what we are building</li>\n<li>Research and develop solutions to ensure the scalability of our data infrastructure.</li>\n<li>Ship internal but also customer-facing features.</li>\n<li>Regularly ship a variety of data products from data infrastructure to the productionalisation of Machine Learning models.</li>\n<li>You know how to performance manage data engineers as we grow. (This is something to keep in mind for the future)</li>\n<li>You have contributed to the development of engineers and peers around you.</li>\n<li>Iterating on solutions based on internal and external feedback.</li>\n</ul>\n\n<p>REQUIREMENTS:</p>\n\n<ul>\n<li>Strong experience building high scale, high-reliability end-to-end data solutions and pipelines</li>\n<li>Experience putting models into production</li>\n<li>You have worked with distributed teams</li>\n<li>Collaborated closely with third party data consultancies and understand how to get the most out of them.</li>\n<li>A great communicator who is not afraid to speak out but is conscious of other peoples feelings.</li>\n<li>Understands Radical Candour<br></li>\n<li>Strong data architecture skills</li>\n<li>Experience gathering and consolidating data from external sources</li>\n<li>Experience with sparse data environments</li>\n<li>Solid development experience with Python or Golang</li>\n<li>Advanced SQL skills</li>\n<li>Expert knowledge of analytics databases such as Redshift</li>\n<li>Extreme attention to detail and quality-orientated</li>\n<li>AWS experience</li>\n<li>Good knowledge of UNIX and bash</li>\n<li>BSc degree in Computer Science, Maths, Physics or similar</li>\n<li>Experience with Spark and Hadoop (bonus)</li>\n<li>Good understanding of Data Science (bonus)</li>\n<li>Experience with PyTorch and/or TensorFlow (bonus)</li>\n<li>Experience with weak supervision and other novel approaches to sparse data problems (bonus)</li>\n</ul>\n\n<p>BENEFITS</p>\n\n<ul>\n<li>Competitive salary</li>\n<li>Unlimited paid holiday!</li>\n<li>Monthly DICE credit to spend on your favourite gigs!</li>\n<li>Private healthcare, provided by Vitality</li>\n<li>Mental health and wellbeing programme with free coaching and CBT</li>\n<li>Free breakfast every day</li>\n<li>Childcare scheme, provided by TEDSgroup</li>\n<li>Regular socials, Summer Fridays and company teams and clubs</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "SQL"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/mimi-smith-3",
+        "name": "Mimi Smith",
+        "avatar": "https://photos.angel.co/users/10537817-medium_jpg?1579862711"
+      },
+      "refs": {
+        "angelListId": "704699",
+        "angelListUrl": "https://angel.co/company/dice-1/jobs/704699-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior SysOps/DevOps Engineer",
+      "description": "DICE was built for fans, and we’re on a mission to get people out more. We’ve grown from a six-person start-up in London to become one of the fastest growing consumer businesses to originate from Europe.\n\nWe are obsessed with design and technology and on a mission to be the world’s best platform to discover and buy tickets to amazing live experiences. The best artists all work closely with us to make sure their tickets go to their fans, not scalpers or touts.\n\nWe're looking for a SysOps/DevOps Engineer with Kubernetes experience to join and work cross-functionally with our Product Team to deploy and operate our systems. We're currently in the middle of migrating from our old infrastructure (AWS EC2 VMs created by a mix of chef-vagrant-manual_operations) to a new Terraform-Kubernetes infrastructure. \n\nWe have a strong focus on security and high availability, and you’ll be hands-on in multiple aspects, from helping to automate and streamline our processes and operations, to troubleshooting and resolving production issues, ensuring security and stability of our infrastructure and helping with support.\n\nThis is a great opportunity for a SysOps Engineer who is comfortable with DevOps and is looking for a challenging and rewarding role within a fast-paced environment, while helping to shape our new infrastructure to deliver an amazing service and disrupt a global industry!\n\nRESPONSIBILITIES\n\nImprove the security and reliability of the platform\nHelp with the migration of our old infrastructure to new Terraform-Kubernetes based infrastructure\nProactively look for possible improvements to our infrastructure\nSupport production during the on-call rotations with 24x7 coverage\nSupport the internal teams (mainly our developers - we don;t have Windows to install or Outlook to support)\nMetrics, metrics, metrics….\nEducating team members on DevOps methodology and tools, helping them apply DevOps in practice\n\nREQUIREMENTS\n\nStrong experience of AWS or similar, i.e. Google Cloud and Azure\nExtensive experience dealing with Web and Mobile apps\nStrong experience and knowledge of Kubernetes & Docker (you understand the difference between a Deployment and a Daemonset?)\nUnderstanding of networking security (what is Heartbleed?)\nTerraform experience\nUnderstanding Mongo, Postgres, Kafka, Redis\nExperience using monitoring solutions, i.e. Datadog, Prometheus, Elastic Search, Kibana, NewRelic, SysDig\nExperience with Kubernetes Operators, i.e. Prometheus-operator, Spark-operator\nExperience with Service Oriented architecture (bonus)\nKnowledge of at least one MVC frameworks, i.e. Phoenix or Rails (bonus)\n\nBENEFITS\n\nCompetitive salary\nUnlimited paid holiday!\nMonthly DICE credit to spend on your favourite gigs!\nPrivate healthcare, provided by Vitality\nMental health and wellbeing programme with free coaching and CBT\nFree breakfast every day\nChildcare scheme, provided by TEDSgroup\nRegular socials, Summer Fridays and company teams and clubs",
+      "descriptionHtml": "<p>DICE was built for fans, and we’re on a mission to get people out more. We’ve grown from a six-person start-up in London to become one of the fastest growing consumer businesses to originate from Europe.</p>\n\n<p>We are obsessed with design and technology and on a mission to be the world’s best platform to discover and buy tickets to amazing live experiences. The best artists all work closely with us to make sure their tickets go to their fans, not scalpers or touts.</p>\n\n<p>We&#39;re looking for a SysOps/DevOps Engineer with Kubernetes experience to join and work cross-functionally with our Product Team to deploy and operate our systems. We&#39;re currently in the middle of migrating from our old infrastructure (AWS EC2 VMs created by a mix of chef-vagrant-manual_operations) to a new Terraform-Kubernetes infrastructure. </p>\n\n<p>We have a strong focus on security and high availability, and you’ll be hands-on in multiple aspects, from helping to automate and streamline our processes and operations, to troubleshooting and resolving production issues, ensuring security and stability of our infrastructure and helping with support.</p>\n\n<p>This is a great opportunity for a SysOps Engineer who is comfortable with DevOps and is looking for a challenging and rewarding role within a fast-paced environment, while helping to shape our new infrastructure to deliver an amazing service and disrupt a global industry!</p>\n\n<p>RESPONSIBILITIES</p>\n\n<p>Improve the security and reliability of the platform<br>\nHelp with the migration of our old infrastructure to new Terraform-Kubernetes based infrastructure<br>\nProactively look for possible improvements to our infrastructure<br>\nSupport production during the on-call rotations with 24x7 coverage<br>\nSupport the internal teams (mainly our developers - we don;t have Windows to install or Outlook to support)<br>\nMetrics, metrics, metrics….<br>\nEducating team members on DevOps methodology and tools, helping them apply DevOps in practice</p>\n\n<p>REQUIREMENTS</p>\n\n<p>Strong experience of AWS or similar, i.e. Google Cloud and Azure<br>\nExtensive experience dealing with Web and Mobile apps<br>\nStrong experience and knowledge of Kubernetes &amp; Docker (you understand the difference between a Deployment and a Daemonset?)<br>\nUnderstanding of networking security (what is Heartbleed?)<br>\nTerraform experience<br>\nUnderstanding Mongo, Postgres, Kafka, Redis<br>\nExperience using monitoring solutions, i.e. Datadog, Prometheus, Elastic Search, Kibana, NewRelic, SysDig<br>\nExperience with Kubernetes Operators, i.e. Prometheus-operator, Spark-operator<br>\nExperience with Service Oriented architecture (bonus)<br>\nKnowledge of at least one MVC frameworks, i.e. Phoenix or Rails (bonus)</p>\n\n<p>BENEFITS</p>\n\n<p>Competitive salary<br>\nUnlimited paid holiday!<br>\nMonthly DICE credit to spend on your favourite gigs!<br>\nPrivate healthcare, provided by Vitality<br>\nMental health and wellbeing programme with free coaching and CBT<br>\nFree breakfast every day<br>\nChildcare scheme, provided by TEDSgroup<br>\nRegular socials, Summer Fridays and company teams and clubs</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Terraform",
+        "Kuberenetes"
+      ],
+      "payment": {
+        "salary": "£70k – £75k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/mimi-smith-3",
+        "name": "Mimi Smith",
+        "avatar": "https://photos.angel.co/users/10537817-medium_jpg?1579862711"
+      },
+      "refs": {
+        "angelListId": "704700",
+        "angelListUrl": "https://angel.co/company/dice-1/jobs/704700-"
+      }
+    }
+  ]
+}

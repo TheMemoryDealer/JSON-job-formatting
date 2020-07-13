@@ -1,0 +1,165 @@
+{
+  "name": "Prodpoint",
+  "avatar": "https://photos.angel.co/startups/i/6358328-d1141c251091216f5fb1e6d6f0734964-medium_jpg.jpg?buster=1537881124",
+  "slogan": "Smart Manufacturing Leveraging 3D Printing",
+  "description": "We're a 3D printing startup aimed at production - currently 30 printers and growing. We aim to become Europe's main hub for printing affordable parts.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.prodpoint.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Manufacturing",
+    "Industrial Automation",
+    "3D Printing"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/felix-fried-1",
+      "name": "Felix Fried",
+      "avatar": "https://photos.angel.co/users/8226196-medium_jpg?1552749108",
+      "bioHtml": "Founder of Prodpoint, a 3d printing startup aimed at production."
+    },
+    {
+      "title": "Founder",
+      "role": "Employee",
+      "url": "https://angel.co/u/felix-fried-1",
+      "name": "Felix Fried",
+      "avatar": "https://photos.angel.co/users/8226196-medium_jpg?1552749108",
+      "bioHtml": "Founder of Prodpoint, a 3d printing startup aimed at production."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6358328",
+    "angelListUrl": "https://angel.co/company/prodpoint-1"
+  },
+  "jobs": [
+    {
+      "role": "Sales",
+      "title": "Sales Engineer (3D Printing - Maker movement)",
+      "description": "You'll be in charge of growing sales as part of UK's leading 3D print farm.",
+      "descriptionHtml": "<p>You&#39;ll be in charge of growing sales as part of UK&#39;s leading 3D print farm.</p>\n",
+      "position": "cofounder",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Business Development",
+        "Sales",
+        "Content Marketing",
+        "Press and Corporate Communications"
+      ],
+      "payment": {
+        "salary": "£1k – £10k",
+        "equity": "1.0% – 15.0%"
+      },
+      "recruiter": {
+        "title": "Founder",
+        "role": "Employee",
+        "url": "https://angel.co/u/felix-fried-1",
+        "name": "Felix Fried",
+        "avatar": "https://photos.angel.co/users/8226196-medium_jpg?1552749108"
+      },
+      "refs": {
+        "angelListId": "432587",
+        "angelListUrl": "https://angel.co/company/prodpoint-1/jobs/432587-"
+      }
+    },
+    {
+      "role": "Other Engineering",
+      "title": "3D Printing Engineer (Co-founder)",
+      "description": "Prodpoint is a 3d printing start-up aimed at production – currently 28 printers – for low volume manufacturing (up to 10,000 parts).\n\nSummary\nProdpoint is looking for a 3D print technician to run maintenance and repairs on the machines, launch print jobs for our clients, design in-house samples, and to bring some innovative ideas to the table.  \n\nRequired skills:\n•\tGood CAD design, preferably some experience with Fusion 360.\n•\tExperience with slicing g-code files.\n•\tGood writing skills.\n•\tExperience with FDM 3D printing.\n\nBonus skills\n•\tPython Programming\n•\tElectronics design\n\nSalary: Mostly equity, small salary to cover your costs might be available.",
+      "descriptionHtml": "<p>Prodpoint is a 3d printing start-up aimed at production – currently 28 printers – for low volume manufacturing (up to 10,000 parts).</p>\n\n<p>Summary<br>\nProdpoint is looking for a 3D print technician to run maintenance and repairs on the machines, launch print jobs for our clients, design in-house samples, and to bring some innovative ideas to the table.  </p>\n\n<p>Required skills:<br>\n• Good CAD design, preferably some experience with Fusion 360.<br>\n• Experience with slicing g-code files.<br>\n• Good writing skills.<br>\n• Experience with FDM 3D printing.</p>\n\n<p>Bonus skills<br>\n• Python Programming<br>\n• Electronics design</p>\n\n<p>Salary: Mostly equity, small salary to cover your costs might be available.</p>\n",
+      "position": "cofounder",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£1k – £10k",
+        "equity": "1.0% – 10.0%"
+      },
+      "recruiter": {
+        "title": "Founder",
+        "role": "Employee",
+        "url": "https://angel.co/u/felix-fried-1",
+        "name": "Felix Fried",
+        "avatar": "https://photos.angel.co/users/8226196-medium_jpg?1552749108"
+      },
+      "refs": {
+        "angelListId": "437221",
+        "angelListUrl": "https://angel.co/company/prodpoint-1/jobs/437221-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Business Development (Maker movement - co-founder)",
+      "description": "Connect with potential clients. Establish new opportunities for growth. Keep track of and optimise marketing activities.\n\nMust have previous experience in a similar role with proof of success.",
+      "descriptionHtml": "<p>Connect with potential clients. Establish new opportunities for growth. Keep track of and optimise marketing activities.</p>\n\n<p>Must have previous experience in a similar role with proof of success.</p>\n",
+      "position": "cofounder",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£1k – £10k",
+        "equity": "1.0% – 15.0%"
+      },
+      "recruiter": {
+        "title": "Founder",
+        "role": "Employee",
+        "url": "https://angel.co/u/felix-fried-1",
+        "name": "Felix Fried",
+        "avatar": "https://photos.angel.co/users/8226196-medium_jpg?1552749108"
+      },
+      "refs": {
+        "angelListId": "437223",
+        "angelListUrl": "https://angel.co/company/prodpoint-1/jobs/437223-"
+      }
+    }
+  ]
+}

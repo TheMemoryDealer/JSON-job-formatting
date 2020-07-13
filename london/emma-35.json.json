@@ -1,0 +1,243 @@
+{
+  "name": "Emma",
+  "avatar": "https://photos.angel.co/startups/i/4376763-8ad8fc24342b8aba7b89914778960110-medium_jpg.jpg?buster=1538465013",
+  "slogan": "Empowering people to live a better and more fulfilling financial life",
+  "description": "Emma is your financial advocate. Our mission is to empower millions of people to live a better and more fulfilling financial life.\n\nEmma was founded by engineers, who are extremely focused on coding, product and data. These are the three pillars on which we want to build a strong tech culture and fix personal finance once for all.\n\nWe have recently closed a seed round with Kima Ventures, one of the first in Transferwise, and Aglaé Ventures, early stage fund of the Groupe Arnault, investor in Netflix and Airbnb. Alongside them, several angel investors, who have built and sold industry leading companies have decided to take part into this journey.\n\nTechCrunch: https://techcrunch.com/2018/10/18/emma-crypto/\nFinancial Times: https://www.ft.com/savingapps\nCityAM: http://www.cityam.com/266389/emma-banking-app-millennials-gets-fca-approval-and\n\nJoin our community: https://community.emma-app.com/",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://emma-app.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://emma-app.com/blog"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/emma_finance"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/emmafinance/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/emma-technologies-ltd"
+    },
+    {
+      "type": "productHunt",
+      "url": "https://www.producthunt.com/posts/emma-ea069e2b-e499-4ef8-b202-42372198b8da"
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Fin Tech",
+    "Financial Services",
+    "Mobile",
+    "Consumer"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 3150000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1583366400,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1531353600,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/antoniomarino0",
+      "name": "Antonio Marino",
+      "avatar": "https://photos.angel.co/users/428671-medium_jpg?1478339899",
+      "bioHtml": "CTO / Founder at Emma. Formerly <a href=\"https://angel.co/company/google\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Google</span></a> and <a href=\"https://angel.co/company/cern\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">CERN</span></a>. Computer Science <a href=\"https://angel.co/university-of-manchester\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Manchester</span></a>. "
+    },
+    {
+      "title": "Co-founder & CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/edo1493",
+      "name": "Edoardo Moreni",
+      "avatar": "https://photos.angel.co/users/116418-medium_jpg?1512639384",
+      "bioHtml": "Co-Founder and CEO @ Emma. We are hiring!"
+    },
+    {
+      "title": "Senior Mobile Developer",
+      "role": "Employee",
+      "url": "https://angel.co/u/phliem",
+      "name": "Liem Pham",
+      "avatar": "https://photos.angel.co/users/10453184-medium_jpg?1580291452",
+      "bioHtml": ""
+    },
+    {
+      "title": "Customer Success",
+      "role": "Employee",
+      "url": "https://angel.co/u/joel-o-rourke",
+      "name": "Joel O'Rourke",
+      "avatar": "https://photos.angel.co/users/9767728-medium_jpg?1564411025",
+      "bioHtml": "Previously an Onboarding Success Manager at a SaaS startup. Results orientated with a passion for people and systems \n"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/boldizsar-tompe",
+      "name": "Boldizsár Tömpe",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4376763",
+    "angelListUrl": "https://angel.co/company/emma-35"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Backend Engineer (Node.JS)",
+      "description": "Emma is your best financial friend. Our mission is to empower millions of people to live a better and more fulfilling financial life. \n\nEmma was founded by engineers, who are extremely focused on coding, product and data. These are the three pillars on which we want to build a strong tech culture and fix personal finance once for all. 💪\n\nWe have recently closed a seed round with Kima Ventures, one of the first in Transferwise, and Aglaé Ventures, early stage fund of the Groupe Arnault, investor in Netflix and Airbnb. Alongside them, several angel investors, who have built and sold industry leading companies have decided to take part into this journey. 🚀\n\nResponsibilities\n\nYour focus will be on our backend infrastructure, from scaling challenges to data processing ones. We have an intense roadmap ahead, which includes a plethora of new features and integrations, which you will be part of. \n\nOur tech stack\n\n- Google Cloud\n- MySQL\n- Node.js\n- Kubernetes\n- Docker\n- Redis\n- React Native\n\nSome of our current interests lie in:\n\n🛠 Product: We are building the 1st Finance App in the UK, used by thousands of people every day. We are shipping an average of a feature per week.\n\n 🔮 Machine learning: we have an enormous amount of transaction data, which we are using to provide better insights to our users. Predicting when a user is going in overdraft, when a card payment is coming through or clustering a huge set of subscriptions are a few of the problems we are tackling.\n\n📈 Scaling: we need to keep Emma up and running. This means an intense effort and quality in the work we do. \n\n🏃‍♂️ Speed: In this industry what really matters is speed. If we had to compare ourselves to someone, we like to think we would be Bolt.\n\nAbout you:\n\n* You are a Javascript developer with at least 5 years’ experience. \n* You are fast and love to deliver incredible code.\n* You can reduce complex problems to simple solutions. \n* You want to be part of an amazing team. \n* You are excited by what we're building at Emma.\n\nOur process:\n\n1. Phone call.\n2. Take-home test. \n3. Onsite interview.\n\nMay the gummy bear power be with you!",
+      "descriptionHtml": "<p>Emma is your best financial friend. Our mission is to empower millions of people to live a better and more fulfilling financial life. </p>\n\n<p>Emma was founded by engineers, who are extremely focused on coding, product and data. These are the three pillars on which we want to build a strong tech culture and fix personal finance once for all. 💪</p>\n\n<p>We have recently closed a seed round with Kima Ventures, one of the first in Transferwise, and Aglaé Ventures, early stage fund of the Groupe Arnault, investor in Netflix and Airbnb. Alongside them, several angel investors, who have built and sold industry leading companies have decided to take part into this journey. 🚀</p>\n\n<p>Responsibilities</p>\n\n<p>Your focus will be on our backend infrastructure, from scaling challenges to data processing ones. We have an intense roadmap ahead, which includes a plethora of new features and integrations, which you will be part of. </p>\n\n<p>Our tech stack</p>\n\n<ul>\n<li>Google Cloud</li>\n<li>MySQL</li>\n<li>Node.js</li>\n<li>Kubernetes</li>\n<li>Docker</li>\n<li>Redis</li>\n<li>React Native</li>\n</ul>\n\n<p>Some of our current interests lie in:</p>\n\n<p>🛠 Product: We are building the 1st Finance App in the UK, used by thousands of people every day. We are shipping an average of a feature per week.</p>\n\n<p>🔮 Machine learning: we have an enormous amount of transaction data, which we are using to provide better insights to our users. Predicting when a user is going in overdraft, when a card payment is coming through or clustering a huge set of subscriptions are a few of the problems we are tackling.</p>\n\n<p>📈 Scaling: we need to keep Emma up and running. This means an intense effort and quality in the work we do. </p>\n\n<p>🏃‍♂️ Speed: In this industry what really matters is speed. If we had to compare ourselves to someone, we like to think we would be Bolt.</p>\n\n<p>About you:</p>\n\n<ul>\n<li>You are a Javascript developer with at least 5 years’ experience. </li>\n<li>You are fast and love to deliver incredible code.</li>\n<li>You can reduce complex problems to simple solutions. </li>\n<li>You want to be part of an amazing team. </li>\n<li>You are excited by what we&#39;re building at Emma.</li>\n</ul>\n\n<p>Our process:</p>\n\n<ol>\n<li>Phone call.</li>\n<li>Take-home test. </li>\n<li>Onsite interview.</li>\n</ol>\n\n<p>May the gummy bear power be with you!</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Node.js",
+        "Redis",
+        "Docker",
+        "Google Cloud Platform",
+        "Kubernetes"
+      ],
+      "payment": {
+        "salary": "£60k – £100k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": "Co-founder & CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/edo1493",
+        "name": "Edoardo Moreni",
+        "avatar": "https://photos.angel.co/users/116418-medium_jpg?1512639384"
+      },
+      "refs": {
+        "angelListId": "360998",
+        "angelListUrl": "https://angel.co/company/emma-35/jobs/360998-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Mid-Level Backend Engineer (Node.JS)",
+      "description": "Emma is your best financial friend. Our mission is to empower millions of people to live a better and more fulfilling financial life.\n\nEmma was founded by engineers, who are extremely focused on coding, product and data. These are the three pillars on which we want to build a strong tech culture and fix personal finance once for all. 💪\n\nWe have recently closed a seed round with Kima Ventures, one of the first in Transferwise, and Aglaé Ventures, early stage fund of the Groupe Arnault, investor in Netflix and Airbnb. Alongside them, several angel investors, who have built and sold industry leading companies have decided to take part into this journey. 🚀\n\nResponsibilities\n\nYour focus will be on our backend infrastructure, from scaling challenges to data processing ones. We have an intense roadmap ahead, which includes a plethora of new features and integrations, which you will be part of.\n\nOur tech stack\n\n- Google Cloud \n- MySQL \n- Node.js \n- Kubernetes \n- Docker \n- Redis \n- React Native\n\nSome of our current interests lie in:\n\n🛠 Product: We are building the 1st Finance App in the UK, used by thousands of people every day. We are shipping an average of a feature per week.\n\n🔮 Machine learning: we have an enormous amount of transaction data, which we are using to provide better insights to our users. Predicting when a user is going in overdraft, when a card payment is coming through or clustering a huge set of subscriptions are a few of the problems we are tackling.\n\n📈 Scaling: we need to keep Emma up and running. This means an intense effort and quality in the work we do.\n\n🏃‍♂️ Speed: In this industry what really matters is speed. If we had to compare ourselves to someone, we like to think we would be Bolt.\n\nAbout you:\n\n* You are a Javascript developer with at least 2 years’ experience. \n* You are fast and love to deliver incredible code. \n* You can reduce complex problems to simple solutions. \n* You want to be part of an amazing team. \n* You are excited by what we're building at Emma.\n\nOur process:\n\n1. Phone call.\n2. Take-home test. \n3. Onsite interview.\n\nMay the gummy bear power be with you!",
+      "descriptionHtml": "<p>Emma is your best financial friend. Our mission is to empower millions of people to live a better and more fulfilling financial life.</p>\n\n<p>Emma was founded by engineers, who are extremely focused on coding, product and data. These are the three pillars on which we want to build a strong tech culture and fix personal finance once for all. 💪</p>\n\n<p>We have recently closed a seed round with Kima Ventures, one of the first in Transferwise, and Aglaé Ventures, early stage fund of the Groupe Arnault, investor in Netflix and Airbnb. Alongside them, several angel investors, who have built and sold industry leading companies have decided to take part into this journey. 🚀</p>\n\n<p>Responsibilities</p>\n\n<p>Your focus will be on our backend infrastructure, from scaling challenges to data processing ones. We have an intense roadmap ahead, which includes a plethora of new features and integrations, which you will be part of.</p>\n\n<p>Our tech stack</p>\n\n<ul>\n<li>Google Cloud </li>\n<li>MySQL </li>\n<li>Node.js </li>\n<li>Kubernetes </li>\n<li>Docker </li>\n<li>Redis </li>\n<li>React Native</li>\n</ul>\n\n<p>Some of our current interests lie in:</p>\n\n<p>🛠 Product: We are building the 1st Finance App in the UK, used by thousands of people every day. We are shipping an average of a feature per week.</p>\n\n<p>🔮 Machine learning: we have an enormous amount of transaction data, which we are using to provide better insights to our users. Predicting when a user is going in overdraft, when a card payment is coming through or clustering a huge set of subscriptions are a few of the problems we are tackling.</p>\n\n<p>📈 Scaling: we need to keep Emma up and running. This means an intense effort and quality in the work we do.</p>\n\n<p>🏃‍♂️ Speed: In this industry what really matters is speed. If we had to compare ourselves to someone, we like to think we would be Bolt.</p>\n\n<p>About you:</p>\n\n<ul>\n<li>You are a Javascript developer with at least 2 years’ experience. </li>\n<li>You are fast and love to deliver incredible code. </li>\n<li>You can reduce complex problems to simple solutions. </li>\n<li>You want to be part of an amazing team. </li>\n<li>You are excited by what we&#39;re building at Emma.</li>\n</ul>\n\n<p>Our process:</p>\n\n<ol>\n<li>Phone call.</li>\n<li>Take-home test. </li>\n<li>Onsite interview.</li>\n</ol>\n\n<p>May the gummy bear power be with you!</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£45k – £60k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": "Co-founder & CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/edo1493",
+        "name": "Edoardo Moreni",
+        "avatar": "https://photos.angel.co/users/116418-medium_jpg?1512639384"
+      },
+      "refs": {
+        "angelListId": "452148",
+        "angelListUrl": "https://angel.co/company/emma-35/jobs/452148-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Mobile Developer (React Native)",
+      "description": "Emma is your best financial friend. Our mission is to empower millions of people to live a better and more fulfilling financial life. \n\nEmma was founded by engineers, who are extremely focused on coding, product and data. These are the three pillars on which we want to build a strong tech culture and fix personal finance once for all. 💪\n\nWe have recently closed a seed round with Kima Ventures, one of the first in Transferwise, and Aglaé Ventures, early stage fund of the Groupe Arnault, investor in Netflix and Airbnb. Alongside them, several angel investors, who have built and sold industry leading companies have decided to take part into this journey. 🚀\n\nResponsibilities\n\nYour focus will be on our mobile app! We have an intense roadmap ahead, which includes a plethora of new features and integrations, which you will be part of. \n\nOur tech stack\n\n- Google Cloud\n- MySQL\n- Node.js\n- Kubernetes\n- Docker\n- Redis\n- React Native\n\nSome of our current interests lie in:\n\n🛠 Product: We are building the 1st Finance App in the UK, used by thousands of people every day. We are shipping an average of a feature per week.\n\n 🔮 Machine learning: we have an enormous amount of transaction data, which we are using to provide better insights to our users. Predicting when a user is going in overdraft, when a card payment is coming through or clustering a huge set of subscriptions are a few of the problems we are tackling.\n\n📈 Scaling: we need to keep Emma up and running. This means an intense effort and quality in the work we do. \n\n🏃‍♂️ Speed: In this industry what really matters is speed. If we had to compare ourselves to someone, we like to think we would be Bolt.\n\nAbout you:\n\n* You are a mobile developer with at least 5 years’ experience. \n* You are fast and love to deliver incredible code.\n* You can reduce complex problems to simple solutions. \n* You want to be part of an amazing team. \n* You are excited by what we're building at Emma.\n\nOur process:\n\n1. Phone call.\n2. Take-home test. \n3. Onsite interview.\n\nMay the gummy bear power be with you!",
+      "descriptionHtml": "<p>Emma is your best financial friend. Our mission is to empower millions of people to live a better and more fulfilling financial life. </p>\n\n<p>Emma was founded by engineers, who are extremely focused on coding, product and data. These are the three pillars on which we want to build a strong tech culture and fix personal finance once for all. 💪</p>\n\n<p>We have recently closed a seed round with Kima Ventures, one of the first in Transferwise, and Aglaé Ventures, early stage fund of the Groupe Arnault, investor in Netflix and Airbnb. Alongside them, several angel investors, who have built and sold industry leading companies have decided to take part into this journey. 🚀</p>\n\n<p>Responsibilities</p>\n\n<p>Your focus will be on our mobile app! We have an intense roadmap ahead, which includes a plethora of new features and integrations, which you will be part of. </p>\n\n<p>Our tech stack</p>\n\n<ul>\n<li>Google Cloud</li>\n<li>MySQL</li>\n<li>Node.js</li>\n<li>Kubernetes</li>\n<li>Docker</li>\n<li>Redis</li>\n<li>React Native</li>\n</ul>\n\n<p>Some of our current interests lie in:</p>\n\n<p>🛠 Product: We are building the 1st Finance App in the UK, used by thousands of people every day. We are shipping an average of a feature per week.</p>\n\n<p>🔮 Machine learning: we have an enormous amount of transaction data, which we are using to provide better insights to our users. Predicting when a user is going in overdraft, when a card payment is coming through or clustering a huge set of subscriptions are a few of the problems we are tackling.</p>\n\n<p>📈 Scaling: we need to keep Emma up and running. This means an intense effort and quality in the work we do. </p>\n\n<p>🏃‍♂️ Speed: In this industry what really matters is speed. If we had to compare ourselves to someone, we like to think we would be Bolt.</p>\n\n<p>About you:</p>\n\n<ul>\n<li>You are a mobile developer with at least 5 years’ experience. </li>\n<li>You are fast and love to deliver incredible code.</li>\n<li>You can reduce complex problems to simple solutions. </li>\n<li>You want to be part of an amazing team. </li>\n<li>You are excited by what we&#39;re building at Emma.</li>\n</ul>\n\n<p>Our process:</p>\n\n<ol>\n<li>Phone call.</li>\n<li>Take-home test. </li>\n<li>Onsite interview.</li>\n</ol>\n\n<p>May the gummy bear power be with you!</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "iOS Development",
+        "React Native",
+        "Android Development",
+        "ReactJS"
+      ],
+      "payment": {
+        "salary": "£60k – £100k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": "Co-founder & CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/edo1493",
+        "name": "Edoardo Moreni",
+        "avatar": "https://photos.angel.co/users/116418-medium_jpg?1512639384"
+      },
+      "refs": {
+        "angelListId": "586525",
+        "angelListUrl": "https://angel.co/company/emma-35/jobs/586525-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Mid-Level Mobile Developer (React Native)",
+      "description": "Emma is your best financial friend. Our mission is to empower millions of people to live a better and more fulfilling financial life. \n\nEmma was founded by engineers, who are extremely focused on coding, product and data. These are the three pillars on which we want to build a strong tech culture and fix personal finance once for all. 💪\n\nWe have recently closed a seed round with Kima Ventures, one of the first in Transferwise, and Aglaé Ventures, early stage fund of the Groupe Arnault, investor in Netflix and Airbnb. Alongside them, several angel investors, who have built and sold industry leading companies have decided to take part into this journey. 🚀\n\nResponsibilities\n\nYour focus will be on our mobile app! We have an intense roadmap ahead, which includes a plethora of new features and integrations, which you will be part of. \n\nOur tech stack\n\n- Google Cloud\n- MySQL\n- Node.js\n- Kubernetes\n- Docker\n- Redis\n- React Native\n\nSome of our current interests lie in:\n\n🛠 Product: We are building the 1st Finance App in the UK, used by thousands of people every day. We are shipping an average of a feature per week.\n\n 🔮 Machine learning: we have an enormous amount of transaction data, which we are using to provide better insights to our users. Predicting when a user is going in overdraft, when a card payment is coming through or clustering a huge set of subscriptions are a few of the problems we are tackling.\n\n📈 Scaling: we need to keep Emma up and running. This means an intense effort and quality in the work we do. \n\n🏃‍♂️ Speed: In this industry what really matters is speed. If we had to compare ourselves to someone, we like to think we would be Bolt.\n\nAbout you:\n\n* You are a mobile developer with at least 2 years’ experience. \n* You are fast and love to deliver incredible code.\n* You can reduce complex problems to simple solutions. \n* You want to be part of an amazing team. \n* You are excited by what we're building at Emma.\n\nOur process:\n\n1. Phone call.\n2. Take-home test. \n3. Onsite interview.\n\nMay the gummy bear power be with you!",
+      "descriptionHtml": "<p>Emma is your best financial friend. Our mission is to empower millions of people to live a better and more fulfilling financial life. </p>\n\n<p>Emma was founded by engineers, who are extremely focused on coding, product and data. These are the three pillars on which we want to build a strong tech culture and fix personal finance once for all. 💪</p>\n\n<p>We have recently closed a seed round with Kima Ventures, one of the first in Transferwise, and Aglaé Ventures, early stage fund of the Groupe Arnault, investor in Netflix and Airbnb. Alongside them, several angel investors, who have built and sold industry leading companies have decided to take part into this journey. 🚀</p>\n\n<p>Responsibilities</p>\n\n<p>Your focus will be on our mobile app! We have an intense roadmap ahead, which includes a plethora of new features and integrations, which you will be part of. </p>\n\n<p>Our tech stack</p>\n\n<ul>\n<li>Google Cloud</li>\n<li>MySQL</li>\n<li>Node.js</li>\n<li>Kubernetes</li>\n<li>Docker</li>\n<li>Redis</li>\n<li>React Native</li>\n</ul>\n\n<p>Some of our current interests lie in:</p>\n\n<p>🛠 Product: We are building the 1st Finance App in the UK, used by thousands of people every day. We are shipping an average of a feature per week.</p>\n\n<p>🔮 Machine learning: we have an enormous amount of transaction data, which we are using to provide better insights to our users. Predicting when a user is going in overdraft, when a card payment is coming through or clustering a huge set of subscriptions are a few of the problems we are tackling.</p>\n\n<p>📈 Scaling: we need to keep Emma up and running. This means an intense effort and quality in the work we do. </p>\n\n<p>🏃‍♂️ Speed: In this industry what really matters is speed. If we had to compare ourselves to someone, we like to think we would be Bolt.</p>\n\n<p>About you:</p>\n\n<ul>\n<li>You are a mobile developer with at least 2 years’ experience. </li>\n<li>You are fast and love to deliver incredible code.</li>\n<li>You can reduce complex problems to simple solutions. </li>\n<li>You want to be part of an amazing team. </li>\n<li>You are excited by what we&#39;re building at Emma.</li>\n</ul>\n\n<p>Our process:</p>\n\n<ol>\n<li>Phone call.</li>\n<li>Take-home test. </li>\n<li>Onsite interview.</li>\n</ol>\n\n<p>May the gummy bear power be with you!</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "iOS Development",
+        "React Native",
+        "Android Development",
+        "ReactJS"
+      ],
+      "payment": {
+        "salary": "£45k – £60k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": "Co-founder & CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/edo1493",
+        "name": "Edoardo Moreni",
+        "avatar": "https://photos.angel.co/users/116418-medium_jpg?1512639384"
+      },
+      "refs": {
+        "angelListId": "586529",
+        "angelListUrl": "https://angel.co/company/emma-35/jobs/586529-"
+      }
+    }
+  ]
+}

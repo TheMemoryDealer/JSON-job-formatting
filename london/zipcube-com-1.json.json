@@ -1,0 +1,343 @@
+{
+  "name": "Zipcube.com",
+  "avatar": "https://photos.angel.co/startups/i/437595-52c68ab684cd56175b4c236abce50a3e-medium_jpg.jpg?buster=1407783713",
+  "slogan": " online marketplace for meeting rooms and venues",
+  "description": "Zipcube was founded with a disruptive spirit, and a vision to truly transform the real estate market. We are building a live booking system – perfectly suited for the modern sharing economy – which will let anyone find any space, check its availability and book within minutes for long or short term rent.\n\nWe're making it our mission to help people find, rent or book any space, anytime, anywhere. Whether you need an office for next year, an event venue for saturday evening or a meeting room for the next two hours: Zipcube is where you'll look and Zipcube is where you'll book.\n\nWe’re developing a ground-breaking product with our customers at the core. Our user base is growing rapidly. We have funding from the leading VC, and a visionary leadership team who wants everyone who joins this remarkable adventure, to have the autonomy to masterfully develop their expertise.\nWelcome to Zipcube. On a mission to help you live inspired.\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.zipcube.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Meeting Software",
+    "Events Services",
+    "Marketplaces",
+    "Venue And Events"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/william-dugdale",
+      "name": "William Dugdale",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/zipcube",
+      "name": "Guillaume Santacruz",
+      "avatar": "https://photos.angel.co/users/460925-medium_jpg?1416586567",
+      "bioHtml": "Founder Zipcube.com"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/david-hellard",
+      "name": "David Hellard",
+      "avatar": "https://photos.angel.co/users/340128-medium_jpg?1463594328",
+      "bioHtml": "Co-founder zipcube • Worked at <a href=\"https://angel.co/company/accenture\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Accenture</span></a>, <a href=\"https://angel.co/company/six-degree-people\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Six Degree People</span></a> • Studied at <a href=\"https://angel.co/imperial-college-london-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Imperial College London</span></a>"
+    },
+    {
+      "title": "Frontend Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/andrew-gower",
+      "name": "Andrew Gower",
+      "avatar": "https://photos.angel.co/users/1808530-medium_jpg?1474890627",
+      "bioHtml": "Software Engineer"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "437595",
+    "angelListUrl": "https://angel.co/company/zipcube-com-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Backend Lead/Senior developer",
+      "description": "Zipcube is the leading marketplace of space-as-a-service, with a growing network of private workspaces, event and meeting spaces.\n\nWe’re making it our mission to enable anyone to access flexible spaces by the hour, day or month. The company has grown to include thousands of locations in major cities across the globe including London, Paris, Berlin and New York.\n\nNo matter how much space you need, for how long you need it or why you need it, Zipcube helps you find, compare and book flexible spaces, anytime, anywhere.\n\n“Any space, Anytime, Anywhere”\n\nWe’re growing extremely fast and are proud to be backed by some of Europe’s best VCs and the guy’s behind Zoopla, Shazam and Rentalcars.\nWelcome to Zipcube. On a mission to help you live inspired.\n\nOur current tech stack includes:\nGO, PHP, Python, SQL, redis, React, GraphQL, Git, Slack, trello\nOur devops culture includes: CI, CD, Docker, Kubernetes\n \nWhat your day will involve:\n- Delivering clean, architecturally sound and maintainable server-side code; bonus points for full-stack development experience\n- Collaborating with stakeholders in the company to rapidly build-measure-learn a world-class product\n- Motivating the team past roadblocks to make sure we are shipping features as effectively as possible\n- Guiding design discussions; being the voice of experience with helping the team balance flexibility, expediency and scalability & performance\n- Contributing to the current move away from monolithic architecture to microservices\n- Championing new technologies and enforcing the best development patterns\n- Keeping a keen eye on the future, whilst making sure we’re proactively but pragmatically tackling technical debt\n\nOur ideal team member will have the following talents, skills & experience:\n- 2+ years of software development experience\n- In-depth knowledge of more than one software language among PHP\n- Experience of building microservices; ideally deployed in Docker containers on Kubernetes\n- Experience of agile development practices\n\nOur culture:\n\n- Design matters.\n- Keep it simple.\n- Code is Art.\n- Don’t let your team down.\n- Open source is the second best thing after the Internet.\n \nPerks of working with us:\n- Central London startup office \n- Brand new laptop macbook pro or linux dell xps \n- Learning & Development annual budget\n- Supper & Taxis home should you work late\n- Ride to Work Scheme\n- Office tennis league by Spin®\n- ‘Mondays Donuts’, ‘Thursday drink’ and ‘Friday Pizza’\n- Holiday allowance",
+      "descriptionHtml": "<p>Zipcube is the leading marketplace of space-as-a-service, with a growing network of private workspaces, event and meeting spaces.</p>\n\n<p>We’re making it our mission to enable anyone to access flexible spaces by the hour, day or month. The company has grown to include thousands of locations in major cities across the globe including London, Paris, Berlin and New York.</p>\n\n<p>No matter how much space you need, for how long you need it or why you need it, Zipcube helps you find, compare and book flexible spaces, anytime, anywhere.</p>\n\n<p>“Any space, Anytime, Anywhere”</p>\n\n<p>We’re growing extremely fast and are proud to be backed by some of Europe’s best VCs and the guy’s behind Zoopla, Shazam and Rentalcars.<br>\nWelcome to Zipcube. On a mission to help you live inspired.</p>\n\n<p>Our current tech stack includes:<br>\nGO, PHP, Python, SQL, redis, React, GraphQL, Git, Slack, trello<br>\nOur devops culture includes: CI, CD, Docker, Kubernetes</p>\n\n<p>What your day will involve:</p>\n\n<ul>\n<li>Delivering clean, architecturally sound and maintainable server-side code; bonus points for full-stack development experience</li>\n<li>Collaborating with stakeholders in the company to rapidly build-measure-learn a world-class product</li>\n<li>Motivating the team past roadblocks to make sure we are shipping features as effectively as possible</li>\n<li>Guiding design discussions; being the voice of experience with helping the team balance flexibility, expediency and scalability &amp; performance</li>\n<li>Contributing to the current move away from monolithic architecture to microservices</li>\n<li>Championing new technologies and enforcing the best development patterns</li>\n<li>Keeping a keen eye on the future, whilst making sure we’re proactively but pragmatically tackling technical debt</li>\n</ul>\n\n<p>Our ideal team member will have the following talents, skills &amp; experience:</p>\n\n<ul>\n<li>2+ years of software development experience</li>\n<li>In-depth knowledge of more than one software language among PHP</li>\n<li>Experience of building microservices; ideally deployed in Docker containers on Kubernetes</li>\n<li>Experience of agile development practices</li>\n</ul>\n\n<p>Our culture:</p>\n\n<ul>\n<li>Design matters.</li>\n<li>Keep it simple.</li>\n<li>Code is Art.</li>\n<li>Don’t let your team down.</li>\n<li>Open source is the second best thing after the Internet.</li>\n</ul>\n\n<p>Perks of working with us:</p>\n\n<ul>\n<li>Central London startup office </li>\n<li>Brand new laptop macbook pro or linux dell xps </li>\n<li>Learning &amp; Development annual budget</li>\n<li>Supper &amp; Taxis home should you work late</li>\n<li>Ride to Work Scheme</li>\n<li>Office tennis league by Spin®</li>\n<li>‘Mondays Donuts’, ‘Thursday drink’ and ‘Friday Pizza’</li>\n<li>Holiday allowance</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "PHP",
+        "Graph Ql",
+        "Go"
+      ],
+      "payment": {
+        "salary": "£40k – £75k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/zipcube",
+        "name": "Guillaume Santacruz",
+        "avatar": "https://photos.angel.co/users/460925-medium_jpg?1416586567"
+      },
+      "refs": {
+        "angelListId": "559234",
+        "angelListUrl": "https://angel.co/company/zipcube-com-1/jobs/559234-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Business Development - Sales Leader",
+      "description": "We are looking for a highly self-motivated individual to join our successful sales team.\n\n\nYou must have a confident telephone manner, excellent communication skills, be digital savy and have a desire to make an impact in the business.\n\n\nTHE COMPANY\n\n\nWe are a rapidly growing online marketplace for on-demand real estate. Backed by the guys behind Rentalcars, Zoopla, LoveFilm, Shazam, Betfair and more, you’ll be joining a distilled team of outstanding professionals who have been working like crazy in a collaborative, innovative and progressive tech company. While well established, we still feel very much like a start-up, and input in all aspects of the business will be welcomed and factored into core strategy.\n\n\nRESPONSABILITIES & DUTIES:\n\n\nYou will be expected to:\n\n\nConvert enquiries to bookings\nSource new business, maintain and grow existing accounts\nMeet sales targets\nMaintain client database with updated information on conversations and booking details\nMake a minimum of 50 effective calls per day\nArrange and attend client meetings\nSell multi-platform campaigns\nIn return you will receive a basic salary of £23,000 depending on experience and ability, plus excellent commission – so the more you sell, the more you earn!\n\nOur beautiful modern startup offices are based London (Fulham) and working hours are 9:00am to 6:30pm, Monday to Friday.",
+      "descriptionHtml": "<p>We are looking for a highly self-motivated individual to join our successful sales team.</p>\n\n<p>You must have a confident telephone manner, excellent communication skills, be digital savy and have a desire to make an impact in the business.</p>\n\n<p>THE COMPANY</p>\n\n<p>We are a rapidly growing online marketplace for on-demand real estate. Backed by the guys behind Rentalcars, Zoopla, LoveFilm, Shazam, Betfair and more, you’ll be joining a distilled team of outstanding professionals who have been working like crazy in a collaborative, innovative and progressive tech company. While well established, we still feel very much like a start-up, and input in all aspects of the business will be welcomed and factored into core strategy.</p>\n\n<p>RESPONSABILITIES &amp; DUTIES:</p>\n\n<p>You will be expected to:</p>\n\n<p>Convert enquiries to bookings<br>\nSource new business, maintain and grow existing accounts<br>\nMeet sales targets<br>\nMaintain client database with updated information on conversations and booking details<br>\nMake a minimum of 50 effective calls per day<br>\nArrange and attend client meetings<br>\nSell multi-platform campaigns<br>\nIn return you will receive a basic salary of £23,000 depending on experience and ability, plus excellent commission – so the more you sell, the more you earn!</p>\n\n<p>Our beautiful modern startup offices are based London (Fulham) and working hours are 9:00am to 6:30pm, Monday to Friday.</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£23k – £30k",
+        "equity": "0.1% – 0.2%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/zipcube",
+        "name": "Guillaume Santacruz",
+        "avatar": "https://photos.angel.co/users/460925-medium_jpg?1416586567"
+      },
+      "refs": {
+        "angelListId": "390916",
+        "angelListUrl": "https://angel.co/company/zipcube-com-1/jobs/390916-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Customer Support Manager",
+      "description": "ABOUT US\n\nZipcube is the fastest growing online marketplace for booking meeting, event and office spaces. Backed by the guys behind Rentalcars, Zoopla, LoveFilm, Shazam and Betfair, you’ll be joining a core team of outstanding professionals who have been working together in a collaborative, innovative and progressive tech company. Our top clients include big brands such as Uber, Deliveroo, Google and Facebook.\n\nJust like Airbnb & Booking.com our vision is to be the go-to platform for booking any space, any time, anywhere.\n\n\nTHE ROLE\n\nWe are looking for smart, entrepreneurial and driven people to join our expanding business unit. Your number one priority is customer happiness: you drive us crazy because you care more about delivering the best possible service to customers than anything else. You’ll be one of the key members of this team and will be working directly with the head of customer success. All you care about is delivering the “customer first” experience on Zipcube. This is a highly enterprising opportunity for a graduate or high potential customer success person to join a growing team, and play a key part in the development of the business into a household name.\n\n- Customer success is the key touchpoint between Zipcube and our customers\n- Your core function will be dealing with the clients that booked meeting, office and event spaces and also the venues providing the spaces\n- You are passionate about delivering the best customer experience on Zipcube\n\n\nWHAT YOU’LL BE DOING:\n\n- Manage incoming bookings by phone, email and online chat\n- Managing and building relationships with multiple venues simultaneously\n- Support existing customers with product, account and billing queries\n- Reporting into the Head of Customer Success\n- Collect and report customer feedback and other customer success metrics to the Head of Customer Success\n- Product: you are the internal voice of our client and will engage with the product team to feedback every single problem or improvement that we could implement to improve customer satisfaction\n- Entrepreneurial: you will be a core part of the team developing the business into an internationally recognised booking platform*\n\n\nYOUR SKILLS AND EXPERIENCE:\n\n- You over-communicate: you have the ability to connect instantly with people, build rapport and trust. You are comfortable on phone calls, emails and chat\n- You are inquisitive: you ask constructive questions and quickly build an understanding of a customer’s situation\n- You can multitask: you are organised and can handle multiple relationships, enquiries and ensure all gets done on time and to a high standard\n- You can handle difficult situations: you will inevitably deal with difficult situations which will need to be handled with care and understanding\n- You are an achiever: you have a history of working hard and getting results\n- You grow: you are someone who grows with experience and sets themselves high expectations\n- You are a team player: you work seamlessly as part of the team, or when required on your own\n- You have been successful in Client facing or customer serving roles within service or professional environments\n- You have entrepreneurial experience or are hungry for an opportunity to innovate and grow in a start-up environment\n- You have a desire to make an impact, seize the opportunity, learn quickly and grow with the business\n- Minimum – 3 months office experience\n\n\nADDITIONAL PERKS\n\nDevelopment opportunities in a rapidly growing startup\nA competitive salary\nA modern, young and relaxed working environment in the heart of London\nOur dedication to helping you become successful. We are huge on personal development and will dedicate time to make sure you achieve your personal and professional goals.\nResponsibility and a real say in the future of the company – you’ll have a role that will be vital to the company’s success and every idea you come up will always be considered\nWork hard play hard, social working environment",
+      "descriptionHtml": "<p>ABOUT US</p>\n\n<p>Zipcube is the fastest growing online marketplace for booking meeting, event and office spaces. Backed by the guys behind Rentalcars, Zoopla, LoveFilm, Shazam and Betfair, you’ll be joining a core team of outstanding professionals who have been working together in a collaborative, innovative and progressive tech company. Our top clients include big brands such as Uber, Deliveroo, Google and Facebook.</p>\n\n<p>Just like Airbnb &amp; Booking.com our vision is to be the go-to platform for booking any space, any time, anywhere.</p>\n\n<p>THE ROLE</p>\n\n<p>We are looking for smart, entrepreneurial and driven people to join our expanding business unit. Your number one priority is customer happiness: you drive us crazy because you care more about delivering the best possible service to customers than anything else. You’ll be one of the key members of this team and will be working directly with the head of customer success. All you care about is delivering the “customer first” experience on Zipcube. This is a highly enterprising opportunity for a graduate or high potential customer success person to join a growing team, and play a key part in the development of the business into a household name.</p>\n\n<ul>\n<li>Customer success is the key touchpoint between Zipcube and our customers</li>\n<li>Your core function will be dealing with the clients that booked meeting, office and event spaces and also the venues providing the spaces</li>\n<li>You are passionate about delivering the best customer experience on Zipcube</li>\n</ul>\n\n<p>WHAT YOU’LL BE DOING:</p>\n\n<ul>\n<li>Manage incoming bookings by phone, email and online chat</li>\n<li>Managing and building relationships with multiple venues simultaneously</li>\n<li>Support existing customers with product, account and billing queries</li>\n<li>Reporting into the Head of Customer Success</li>\n<li>Collect and report customer feedback and other customer success metrics to the Head of Customer Success</li>\n<li>Product: you are the internal voice of our client and will engage with the product team to feedback every single problem or improvement that we could implement to improve customer satisfaction</li>\n<li>Entrepreneurial: you will be a core part of the team developing the business into an internationally recognised booking platform*</li>\n</ul>\n\n<p>YOUR SKILLS AND EXPERIENCE:</p>\n\n<ul>\n<li>You over-communicate: you have the ability to connect instantly with people, build rapport and trust. You are comfortable on phone calls, emails and chat</li>\n<li>You are inquisitive: you ask constructive questions and quickly build an understanding of a customer’s situation</li>\n<li>You can multitask: you are organised and can handle multiple relationships, enquiries and ensure all gets done on time and to a high standard</li>\n<li>You can handle difficult situations: you will inevitably deal with difficult situations which will need to be handled with care and understanding</li>\n<li>You are an achiever: you have a history of working hard and getting results</li>\n<li>You grow: you are someone who grows with experience and sets themselves high expectations</li>\n<li>You are a team player: you work seamlessly as part of the team, or when required on your own</li>\n<li>You have been successful in Client facing or customer serving roles within service or professional environments</li>\n<li>You have entrepreneurial experience or are hungry for an opportunity to innovate and grow in a start-up environment</li>\n<li>You have a desire to make an impact, seize the opportunity, learn quickly and grow with the business</li>\n<li>Minimum – 3 months office experience</li>\n</ul>\n\n<p>ADDITIONAL PERKS</p>\n\n<p>Development opportunities in a rapidly growing startup<br>\nA competitive salary<br>\nA modern, young and relaxed working environment in the heart of London<br>\nOur dedication to helping you become successful. We are huge on personal development and will dedicate time to make sure you achieve your personal and professional goals.<br>\nResponsibility and a real say in the future of the company – you’ll have a role that will be vital to the company’s success and every idea you come up will always be considered<br>\nWork hard play hard, social working environment</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Customer Service",
+        "Customer Success",
+        "customer support"
+      ],
+      "payment": {
+        "salary": "£22k – £26k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/zipcube",
+        "name": "Guillaume Santacruz",
+        "avatar": "https://photos.angel.co/users/460925-medium_jpg?1416586567"
+      },
+      "refs": {
+        "angelListId": "700905",
+        "angelListUrl": "https://angel.co/company/zipcube-com-1/jobs/700905-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Front end developer - React",
+      "description": "Zipcube is the leading marketplace of space-as-a-service, with a growing network of private workspaces, event and meeting spaces.\nWe’re making it our mission to enable anyone to access flexible spaces by the hour, day or month. The company has grown to include thousands of locations in major cities across the globe including London, Paris, Berlin and New York.\n\nNo matter how much space you need, for how long you need it or why you need it, Zipcube helps you find, compare and book flexible spaces, anytime, anywhere.\n\n“Any space, Anytime, Anywhere”\n\nWe’re growing extremely fast and are proud to be backed by some of Europe’s best VCs and the guy’s behind Zoopla, Shazam and Rentalcars.\nWelcome to Zipcube. On a mission to help you live inspired.\n \nOur current tech stack includes:\nReact, GraphQL, GO, PHP, Python, SQL, redis, Git, Slack, trello\nOur devops culture includes: CI, CD, Docker, Kubernetes\n \nWhat your day will involve:\n- Delivering clean, architecturally sound and maintainable code; bonus points for full-stack development experience\n- Collaborating with stakeholders in the company to rapidly build-measure-learn a world-class product\n- Motivating the team past roadblocks to make sure we are shipping features as effectively as possible\n- Guiding design discussions; being the voice of experience with helping the team balance flexibility, expediency and scalability & performance\n- Contributing to the current separation of front end and back end by converting our website to React\n- Championing new technologies and enforcing the best development patterns\n- Keeping a keen eye on the future, whilst making sure we’re proactively but pragmatically tackling technical debt\n\nOur ideal team member will have the following talents, skills & experience:\n- 2+ years of software development experience\n- In-depth knowledge of JS and React\n- Experience of building react website.\n- Experience of agile development practices\n\nOur culture:\n- Design matters.\n- Keep it simple.\n- Code is Art.\n- Don’t let your team down.\n- Open source is the second best thing after the Internet.\n \nPerks of working with us:\n- Central London startup office \n- Brand new laptop macbook pro or linux dell xps \n- Learning & Development annual budget\n- Supper & Taxis home should you work late\n- Ride to Work Scheme\n- Office tennis league by Spin®\n- ‘Mondays Donuts’, ‘Thursday drink’ and ‘Friday Pizza’\n- Holiday allowance",
+      "descriptionHtml": "<p>Zipcube is the leading marketplace of space-as-a-service, with a growing network of private workspaces, event and meeting spaces.<br>\nWe’re making it our mission to enable anyone to access flexible spaces by the hour, day or month. The company has grown to include thousands of locations in major cities across the globe including London, Paris, Berlin and New York.</p>\n\n<p>No matter how much space you need, for how long you need it or why you need it, Zipcube helps you find, compare and book flexible spaces, anytime, anywhere.</p>\n\n<p>“Any space, Anytime, Anywhere”</p>\n\n<p>We’re growing extremely fast and are proud to be backed by some of Europe’s best VCs and the guy’s behind Zoopla, Shazam and Rentalcars.<br>\nWelcome to Zipcube. On a mission to help you live inspired.</p>\n\n<p>Our current tech stack includes:<br>\nReact, GraphQL, GO, PHP, Python, SQL, redis, Git, Slack, trello<br>\nOur devops culture includes: CI, CD, Docker, Kubernetes</p>\n\n<p>What your day will involve:</p>\n\n<ul>\n<li>Delivering clean, architecturally sound and maintainable code; bonus points for full-stack development experience</li>\n<li>Collaborating with stakeholders in the company to rapidly build-measure-learn a world-class product</li>\n<li>Motivating the team past roadblocks to make sure we are shipping features as effectively as possible</li>\n<li>Guiding design discussions; being the voice of experience with helping the team balance flexibility, expediency and scalability &amp; performance</li>\n<li>Contributing to the current separation of front end and back end by converting our website to React</li>\n<li>Championing new technologies and enforcing the best development patterns</li>\n<li>Keeping a keen eye on the future, whilst making sure we’re proactively but pragmatically tackling technical debt</li>\n</ul>\n\n<p>Our ideal team member will have the following talents, skills &amp; experience:</p>\n\n<ul>\n<li>2+ years of software development experience</li>\n<li>In-depth knowledge of JS and React</li>\n<li>Experience of building react website.</li>\n<li>Experience of agile development practices</li>\n</ul>\n\n<p>Our culture:</p>\n\n<ul>\n<li>Design matters.</li>\n<li>Keep it simple.</li>\n<li>Code is Art.</li>\n<li>Don’t let your team down.</li>\n<li>Open source is the second best thing after the Internet.</li>\n</ul>\n\n<p>Perks of working with us:</p>\n\n<ul>\n<li>Central London startup office </li>\n<li>Brand new laptop macbook pro or linux dell xps </li>\n<li>Learning &amp; Development annual budget</li>\n<li>Supper &amp; Taxis home should you work late</li>\n<li>Ride to Work Scheme</li>\n<li>Office tennis league by Spin®</li>\n<li>‘Mondays Donuts’, ‘Thursday drink’ and ‘Friday Pizza’</li>\n<li>Holiday allowance</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "React.js"
+      ],
+      "payment": {
+        "salary": "£30k – £50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/zipcube",
+        "name": "Guillaume Santacruz",
+        "avatar": "https://photos.angel.co/users/460925-medium_jpg?1416586567"
+      },
+      "refs": {
+        "angelListId": "559230",
+        "angelListUrl": "https://angel.co/company/zipcube-com-1/jobs/559230-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "React Redux - Front-end Engineer",
+      "description": "We're looking for a super smart Front end developer with at least 2-3 years of professional experience with React & Redux. \n\nKEY QUALIFICATIONS:\n\nmin 2-3 years of professional experience with React\nmin 2-3 years of professional experience with Redux\nBSc in computer science\nStrong object-oriented programming and design skills\ntml, JavaScript\nExcellent problem solving and analytical thinking skills\nStrong problem solving and debugging skills are required.\nAbility to communicate effectively, both written and verbal, with technical and non-technical cross-functional teams\nResults oriented and deadline driven\nClient/server networking\nknowledge of node.js & php is a plus.",
+      "descriptionHtml": "<p>We&#39;re looking for a super smart Front end developer with at least 2-3 years of professional experience with React &amp; Redux. </p>\n\n<p>KEY QUALIFICATIONS:</p>\n\n<p>min 2-3 years of professional experience with React<br>\nmin 2-3 years of professional experience with Redux<br>\nBSc in computer science<br>\nStrong object-oriented programming and design skills<br>\ntml, JavaScript<br>\nExcellent problem solving and analytical thinking skills<br>\nStrong problem solving and debugging skills are required.<br>\nAbility to communicate effectively, both written and verbal, with technical and non-technical cross-functional teams<br>\nResults oriented and deadline driven<br>\nClient/server networking<br>\nknowledge of node.js &amp; php is a plus.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "React.js",
+        "Redux"
+      ],
+      "payment": {
+        "salary": "£30k – £40k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/zipcube",
+        "name": "Guillaume Santacruz",
+        "avatar": "https://photos.angel.co/users/460925-medium_jpg?1416586567"
+      },
+      "refs": {
+        "angelListId": "379239",
+        "angelListUrl": "https://angel.co/company/zipcube-com-1/jobs/379239-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "SALES EXECUTIVE - English & German speaking",
+      "description": "Zipcube.com is growing – Backed by the guys behind Rentalcars, Zoopla, LoveFilm, Shazam, Betfair and more, you’ll be joining a core team of outstanding professionals who have been working together in a collaborative, innovative and progressive tech company where you'll take a proactive role in the company’s growth every day.\n\n\nWe're looking for 2 super smart bilingual Business dev with outstanding sales skills to join our team. The ideal candidate will have experience in B2B sales, have a good grasp of technology and a strong academic background. The role will involve identifying new partners for the business, launching in new cities and introducing new technology to our existing partners. \n\nYOUR SKILLS AND EXPERIENCE:\n\n- You over-communicate: you have the ability to connect instantly with people, build rapport and trust. You are comfortable with phone calls and email.\n- You are inquisitive: you ask constructive questions and quickly build an understanding of a customer’s situation\n- You can multitask: you are organised and can handle multiple relationships, enquiries and ensure all gets done on time and to a high standard\n- You can handle difficult situations: you will inevitably deal with difficult situations which will need to be handled with care and understanding\n- You are an achiever: you have a history of working hard and getting results\nYou grow: you are someone who grows with experience and sets themselves high expectations\n- You are a team player: you work seamlessly as part of the team, or when required on your own\n- You have been successful in Client facing or customer serving roles within service or professional environments\n- You have entrepreneurial experience or are hungry for an opportunity to innovate and grow in a start-up environment\n- You have a desire to make an impact, seize the opportunity, learn quickly and grow with the business\n\n\nIf you want to learn about running a start up or how marketing works in practice then come join us. We're going global and it's one hell of a ride.",
+      "descriptionHtml": "<p>Zipcube.com is growing – Backed by the guys behind Rentalcars, Zoopla, LoveFilm, Shazam, Betfair and more, you’ll be joining a core team of outstanding professionals who have been working together in a collaborative, innovative and progressive tech company where you&#39;ll take a proactive role in the company’s growth every day.</p>\n\n<p>We&#39;re looking for 2 super smart bilingual Business dev with outstanding sales skills to join our team. The ideal candidate will have experience in B2B sales, have a good grasp of technology and a strong academic background. The role will involve identifying new partners for the business, launching in new cities and introducing new technology to our existing partners. </p>\n\n<p>YOUR SKILLS AND EXPERIENCE:</p>\n\n<ul>\n<li>You over-communicate: you have the ability to connect instantly with people, build rapport and trust. You are comfortable with phone calls and email.</li>\n<li>You are inquisitive: you ask constructive questions and quickly build an understanding of a customer’s situation</li>\n<li>You can multitask: you are organised and can handle multiple relationships, enquiries and ensure all gets done on time and to a high standard</li>\n<li>You can handle difficult situations: you will inevitably deal with difficult situations which will need to be handled with care and understanding</li>\n<li>You are an achiever: you have a history of working hard and getting results\nYou grow: you are someone who grows with experience and sets themselves high expectations</li>\n<li>You are a team player: you work seamlessly as part of the team, or when required on your own</li>\n<li>You have been successful in Client facing or customer serving roles within service or professional environments</li>\n<li>You have entrepreneurial experience or are hungry for an opportunity to innovate and grow in a start-up environment</li>\n<li>You have a desire to make an impact, seize the opportunity, learn quickly and grow with the business</li>\n</ul>\n\n<p>If you want to learn about running a start up or how marketing works in practice then come join us. We&#39;re going global and it&#39;s one hell of a ride.</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Sales"
+      ],
+      "payment": {
+        "salary": "£15k – £28k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/zipcube",
+        "name": "Guillaume Santacruz",
+        "avatar": "https://photos.angel.co/users/460925-medium_jpg?1416586567"
+      },
+      "refs": {
+        "angelListId": "379257",
+        "angelListUrl": "https://angel.co/company/zipcube-com-1/jobs/379257-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Sale Executive / Junior Business Development",
+      "description": "£22k base + plus commission up to 10% uncapped\n\nABOUT US\n\nZipcube is the fastest growing online marketplace for booking meeting, event and office spaces. Backed by the guys behind Rentalcars, Zoopla, LoveFilm, Shazam and Betfair, you’ll be joining a core team of outstanding professionals who have been working together in a collaborative, innovative and progressive tech company where you'll take a proactive role in the company’s growth every day. Our top clients include big brands such as Uber, Deliveroo, Google and Facebook.\n\nJust like Airbnb & Booking.com our vision is to be the go-to platform for booking any space, any time, anywhere.\n\n\nTHE ROLE\n\nWe are looking for a smart, entrepreneurial and driven person to join our expanding sales business unit. Your number one priority is inbound sales: you drive us crazy because you care more about closing deals than anything else. You don’t hide behind emails, you're a phone ninja.. You’ll be one of the key members of this team and will be working directly with the head of sales. All you care about is Zipcube’s top-line growth. This is a highly enterprising opportunity for a graduate or high potential sales person to join a growing team, and play a key part in the development of the business into a household name.\n\n\nWHAT YOU’LL BE DOING:\n\n- Managing and building relationships with multiple clients and venues simultaneously – you will be the first point of customer contact so you’ll have a ton of responsibility from Day 1.\n- Inbound Sales – You’re here to engage with our customers. You’ll be qualifying new leads and converting them into customers.\n- Reporting – You’ll be updating the Head of sales weekly, reporting sales performance and other key satisfaction metrics.\n- Product – Ultimately, you are the voice of our client and you will engage with the product team to feedback every single problem or improvement that we could implement to make our customers happier.\n\n\nYOUR SKILLS AND EXPERIENCE\n\n- You over-communicate - you must have the ability to connect instantly with people, build rapport and trust. You are comfortable on Skype, phone calls and email.\n- You constantly ask questions – you must have the ability to ask good questions and build an understanding of a customer’s need.\n- You’re sales-driven - You love fostering new relationships and exceeding targets through a consultative sale\n- You are over-prepared - you will need to be really organised to handle multiple relationships, enquiries…\n- You’re able to maintain a large, diverse, and engaged network of partner relationships\n- You have a history of working hard and getting results.\n- You’re a clear, compelling, and charismatic verbal and written communicator\n- You’re well-organized, used to tracking and reporting (a familiarity with Salesforce or a similar CRM is a plus)\n- You have an entrepreneurial mindset (and ideally, experience)\n- The thought of working in a start-up excites you\n- You have a bachelor’s degree from a good university\n\n\nADDITIONAL PERKS\n\n- Development opportunities in a rapidly growing startup\n- £22k base + plus commission up to 10% uncapped\n- Options: we want you to own part of our mission\n- A modern, young and relaxed working environment in the heart of London\n- Our dedication to helping you become successful. We are huge on personal development and will dedicate time to make sure you achieve your personal and professional goals.\n- Responsibility and a real say in the future of the company – you’ll have a role that will be vital to the company’s success and every idea you come up will always be considered\n- Work hard play hard, social working environment\n\nAPPLYING\n\nPlease send a short cover note that describes why you are the perfect person for this role alongside your CV",
+      "descriptionHtml": "<p>£22k base + plus commission up to 10% uncapped</p>\n\n<p>ABOUT US</p>\n\n<p>Zipcube is the fastest growing online marketplace for booking meeting, event and office spaces. Backed by the guys behind Rentalcars, Zoopla, LoveFilm, Shazam and Betfair, you’ll be joining a core team of outstanding professionals who have been working together in a collaborative, innovative and progressive tech company where you&#39;ll take a proactive role in the company’s growth every day. Our top clients include big brands such as Uber, Deliveroo, Google and Facebook.</p>\n\n<p>Just like Airbnb &amp; Booking.com our vision is to be the go-to platform for booking any space, any time, anywhere.</p>\n\n<p>THE ROLE</p>\n\n<p>We are looking for a smart, entrepreneurial and driven person to join our expanding sales business unit. Your number one priority is inbound sales: you drive us crazy because you care more about closing deals than anything else. You don’t hide behind emails, you&#39;re a phone ninja.. You’ll be one of the key members of this team and will be working directly with the head of sales. All you care about is Zipcube’s top-line growth. This is a highly enterprising opportunity for a graduate or high potential sales person to join a growing team, and play a key part in the development of the business into a household name.</p>\n\n<p>WHAT YOU’LL BE DOING:</p>\n\n<ul>\n<li>Managing and building relationships with multiple clients and venues simultaneously – you will be the first point of customer contact so you’ll have a ton of responsibility from Day 1.</li>\n<li>Inbound Sales – You’re here to engage with our customers. You’ll be qualifying new leads and converting them into customers.</li>\n<li>Reporting – You’ll be updating the Head of sales weekly, reporting sales performance and other key satisfaction metrics.</li>\n<li>Product – Ultimately, you are the voice of our client and you will engage with the product team to feedback every single problem or improvement that we could implement to make our customers happier.</li>\n</ul>\n\n<p>YOUR SKILLS AND EXPERIENCE</p>\n\n<ul>\n<li>You over-communicate - you must have the ability to connect instantly with people, build rapport and trust. You are comfortable on Skype, phone calls and email.</li>\n<li>You constantly ask questions – you must have the ability to ask good questions and build an understanding of a customer’s need.</li>\n<li>You’re sales-driven - You love fostering new relationships and exceeding targets through a consultative sale</li>\n<li>You are over-prepared - you will need to be really organised to handle multiple relationships, enquiries…</li>\n<li>You’re able to maintain a large, diverse, and engaged network of partner relationships</li>\n<li>You have a history of working hard and getting results.</li>\n<li>You’re a clear, compelling, and charismatic verbal and written communicator</li>\n<li>You’re well-organized, used to tracking and reporting (a familiarity with Salesforce or a similar CRM is a plus)</li>\n<li>You have an entrepreneurial mindset (and ideally, experience)</li>\n<li>The thought of working in a start-up excites you</li>\n<li>You have a bachelor’s degree from a good university</li>\n</ul>\n\n<p>ADDITIONAL PERKS</p>\n\n<ul>\n<li>Development opportunities in a rapidly growing startup</li>\n<li>£22k base + plus commission up to 10% uncapped</li>\n<li>Options: we want you to own part of our mission</li>\n<li>A modern, young and relaxed working environment in the heart of London</li>\n<li>Our dedication to helping you become successful. We are huge on personal development and will dedicate time to make sure you achieve your personal and professional goals.</li>\n<li>Responsibility and a real say in the future of the company – you’ll have a role that will be vital to the company’s success and every idea you come up will always be considered</li>\n<li>Work hard play hard, social working environment</li>\n</ul>\n\n<p>APPLYING</p>\n\n<p>Please send a short cover note that describes why you are the perfect person for this role alongside your CV</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "CRM",
+        "Sales"
+      ],
+      "payment": {
+        "salary": "£22k – £40k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/zipcube",
+        "name": "Guillaume Santacruz",
+        "avatar": "https://photos.angel.co/users/460925-medium_jpg?1416586567"
+      },
+      "refs": {
+        "angelListId": "700902",
+        "angelListUrl": "https://angel.co/company/zipcube-com-1/jobs/700902-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Backend PHP Developer - VC backed startup",
+      "description": "YOUR JOB\n\nWe are looking for a seriously clever person to join us in Fulham. Creative with known skills and adaptive to new skills. The only reason you’re not arrogant is because you are *that* brilliant.\n\nOur technology roadmap consists of a Lumen (PHP) API, React/Redux (including serverside rendering,) MYSQL, Redis and Docker DevOps on AWS. You will be working closely with the CTO (a co-founder - also brilliant. Also writing this) to develop tech strategy and architecture while also adapting and improving legacy (CodeIgniter) code to the new paradigm. We like to use cutting (but not bleeding) edge tech to keep us in the sweet spot of improved speed and efficiency but without sacrificing confidence in the tools. While your focus will, initially, primarily be PHP, we are a dynamic team so overlap with the front end and deeper backend systems will be encouraged.\n\nTHE COMPANY\n\nWe are a rapidly growing online marketplace for hiring event spaces, meeting spaces and offices. Backed by the guys behind Rentalcars, Zoopla, LoveFilm, Shazam, Betfair and more, you’ll be joining a distilled team of outstanding professionals who have been working like crazy in a collaborative, innovative and progressive tech company. While well established, we still feel very much like a start-up, and input in all aspects of the business will be welcomed and factored into core strategy.\n\nTHE INTERVIEW...\n\n... will focus significantly more on your ability to think rather than problems that can be solved with judicious use of Google. We will, however, expect a good level of understanding of various programming styles (such as OOP and functional) since the learning curve is going to be steep enough as it is. You can apply for this job if you don't currently understand recursive binary search, but I will expect you to understand it by the time we interview you.\n\nRESPONSIBILITIES\n\nSolving complex problems quickly and elegantly\nMigrating from legacy applications to cutting-edge technologies\nUnderstanding the entire application lifecycle\nProfiling and performance\nFollow emerging technologies\nAdvising on and implementing best practices\nREQUIREMENTS\n\nYou love what you do\nAdvanced creative problem solving\nIncredibly quick to pick up new ideas\nIncredibly quick to generate new ideas\nEmbraces ownership and responsibility\nIn-depth understanding of the entire web development process\nGood knowledge of PHP\nDESIRABLE SKILLS\n\nWorking flexibly in a small team\nExperience with functional programming\nExperience with React/Redux/Node.js",
+      "descriptionHtml": "<p>YOUR JOB</p>\n\n<p>We are looking for a seriously clever person to join us in Fulham. Creative with known skills and adaptive to new skills. The only reason you’re not arrogant is because you are <em>that</em> brilliant.</p>\n\n<p>Our technology roadmap consists of a Lumen (PHP) API, React/Redux (including serverside rendering,) MYSQL, Redis and Docker DevOps on AWS. You will be working closely with the CTO (a co-founder - also brilliant. Also writing this) to develop tech strategy and architecture while also adapting and improving legacy (CodeIgniter) code to the new paradigm. We like to use cutting (but not bleeding) edge tech to keep us in the sweet spot of improved speed and efficiency but without sacrificing confidence in the tools. While your focus will, initially, primarily be PHP, we are a dynamic team so overlap with the front end and deeper backend systems will be encouraged.</p>\n\n<p>THE COMPANY</p>\n\n<p>We are a rapidly growing online marketplace for hiring event spaces, meeting spaces and offices. Backed by the guys behind Rentalcars, Zoopla, LoveFilm, Shazam, Betfair and more, you’ll be joining a distilled team of outstanding professionals who have been working like crazy in a collaborative, innovative and progressive tech company. While well established, we still feel very much like a start-up, and input in all aspects of the business will be welcomed and factored into core strategy.</p>\n\n<p>THE INTERVIEW...</p>\n\n<p>... will focus significantly more on your ability to think rather than problems that can be solved with judicious use of Google. We will, however, expect a good level of understanding of various programming styles (such as OOP and functional) since the learning curve is going to be steep enough as it is. You can apply for this job if you don&#39;t currently understand recursive binary search, but I will expect you to understand it by the time we interview you.</p>\n\n<p>RESPONSIBILITIES</p>\n\n<p>Solving complex problems quickly and elegantly<br>\nMigrating from legacy applications to cutting-edge technologies<br>\nUnderstanding the entire application lifecycle<br>\nProfiling and performance<br>\nFollow emerging technologies<br>\nAdvising on and implementing best practices<br>\nREQUIREMENTS</p>\n\n<p>You love what you do<br>\nAdvanced creative problem solving<br>\nIncredibly quick to pick up new ideas<br>\nIncredibly quick to generate new ideas<br>\nEmbraces ownership and responsibility<br>\nIn-depth understanding of the entire web development process<br>\nGood knowledge of PHP<br>\nDESIRABLE SKILLS</p>\n\n<p>Working flexibly in a small team<br>\nExperience with functional programming<br>\nExperience with React/Redux/Node.js</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "PHP",
+        "React.js",
+        "Lumen"
+      ],
+      "payment": {
+        "salary": "£30k – £50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/zipcube",
+        "name": "Guillaume Santacruz",
+        "avatar": "https://photos.angel.co/users/460925-medium_jpg?1416586567"
+      },
+      "refs": {
+        "angelListId": "379913",
+        "angelListUrl": "https://angel.co/company/zipcube-com-1/jobs/379913-"
+      }
+    }
+  ]
+}

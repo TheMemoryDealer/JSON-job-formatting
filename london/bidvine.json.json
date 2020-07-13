@@ -1,0 +1,208 @@
+{
+  "name": "Bidvine",
+  "avatar": "https://photos.angel.co/startups/i/515341-8e1b87b464db415c3eb5156a7fc29575-medium_jpg.jpg?buster=1498138589",
+  "slogan": "We make hiring local, trusted service professionals ridiculously simple",
+  "description": "Getting stuff done is great. Being done and enjoying the benefit of what you've accomplished is even better. Finding someone to help you get there...that still sucks. That's why we're building Bidvine.\n\nOur mission is to make it ridiculously simple to hire local service professionals.\n\nTell us what you need - across web or mobile - and we'll instantly match you with qualified pros showing you profile, price and an introduction from the pro. \n\nWe continue to innovate our product by adding to our 400+ services and bringing customers choice and speed with confidence for all their needs. Applying machine learning to our matching algorithms allows us to quickly, smartly connect marketplace supply and demand. Customers hire the right pro. Pros get the marketing partner they need to grow their business.\n\nMore at https://www.bidvine.com",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.bidvine.com"
+    },
+    {
+      "type": "blog",
+      "url": "http://www.bidvine.com/blog"
+    },
+    {
+      "type": "twitter",
+      "url": "http://www.twitter.com/bidvine"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/bidvine"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/bidvine"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Waterloo"
+  ],
+  "marketTags": [
+    "Marketplaces",
+    "Local Services"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Head of Product and Growth",
+      "role": "Founder",
+      "url": "https://angel.co/p/danstuart",
+      "name": "Daniel Craig Stuart",
+      "avatar": "https://photos.angel.co/users/101718-medium_jpg?1575063528",
+      "bioHtml": "Founded <a href=\"https://angel.co/company/bidvine\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Bidvine</span></a> • Sold <a href=\"https://angel.co/company/gonabit\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">GoNabit</span></a> • Worked at <a href=\"https://angel.co/company/livingsocial\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">LivingSocial</span></a> • Investor <a href=\"https://angel.co/company/dash\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Dash (aka Dash Labs, Inc.)</span></a>, <a href=\"https://angel.co/company/kalo\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Kalo</span></a> • Studied at <a href=\"https://angel.co/university-of-toronto\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Toronto</span></a>, <a href=\"https://angel.co/wilfrid-laurier-university\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Wilfrid Laurier University</span></a>"
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/sohrab-jahanbani",
+      "name": "Sohrab Jahanbani",
+      "avatar": "https://photos.angel.co/users/222693-medium_jpg?1416836796",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/gonabit\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">GoNabit</span></a> • Studied at <a href=\"https://angel.co/city-university-london\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">City, University of London</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/p/russ-morgan",
+      "name": "Russ Morgan",
+      "avatar": "https://photos.angel.co/users/784260-medium_jpg?1485885665",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/bidvine\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Bidvine</span></a> • Worked <a href=\"https://angel.co/company/livingsocial\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">LivingSocial</span></a> • Studied <a href=\"https://angel.co/company/rotman-school-of-management-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Rotman School of Management</span></a>, <a href=\"https://angel.co/company/university-of-ottawa-telfer-school-of-management\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Ottawa, Telfer School of Management</span></a>"
+    },
+    {
+      "title": "Product Designer",
+      "role": "Employee",
+      "url": "https://angel.co/u/brianna-coens",
+      "name": "Brianna Coens",
+      "avatar": "https://photos.angel.co/users/9088697-medium_jpg?1553044041",
+      "bioHtml": "A Waterloo-based UX/UI Designer that creates child-like merriment through every experience."
+    },
+    {
+      "title": "Android Developer",
+      "role": "Employee",
+      "url": "https://angel.co/u/vikas-joshi-01",
+      "name": "Vikas Joshi",
+      "avatar": "https://photos.angel.co/users/1458247-medium_jpg?1585588589",
+      "bioHtml": "I am an innovative software developer with 3 years of experience in all aspects of the development process for small to medium sized companies."
+    },
+    {
+      "title": "Full Stack Software Develop",
+      "role": "Employee",
+      "url": "https://angel.co/u/carl-swann",
+      "name": "Carl Swann",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Hacked Telecommunications company and University. Works at Sandals Resorts International Broad Experience with Java, UML 2.0, Scrum, Unix and data modeling"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "515341",
+    "angelListUrl": "https://angel.co/company/bidvine"
+  },
+  "jobs": [
+    {
+      "role": "Operations",
+      "title": "Customer Success Agent",
+      "description": "We're looking for someone that knows a thing or two about building relationships and helping our customers find success. We’re [Bidvine](https://www.bidvine.com/), and we’re looking for the right person to join our London office.\n\nAs a [Techstars](https://www.techstars.com/) and [500 Start-Ups](https://500.co/) backed venture, we need smart, professional, entrepreneurial people to help achieve our growth, retention, and expansion goals.\n\nSince we started this journey, back in late 2014, we’ve assembled a spectacular team aligned around our core company values;\n* Make strong moves\n* Champion good ideas\n* Pursue your passions\n* Service first \n* Climb the vine\n* Give kudos\n\nBidvine is helping to make the hiring of [local services](https://www.youtube.com/watch?v=U3hu6VoY-xY) ridiculously simple, to help the more than 10 million local businesses across Europe serve more customers and build great businesses. \n\n**About the role**\nAs a marketplace for local services, you’ll be interacting with both service professionals and the customers that require their services. These services span a  number of industries including education, tuition, wellness, music instruction, home improvement, photography, and much more. It is safe to say, you will have no shortage of variety in your role.\n\nThe primary focus of this role will be making and receiving phone calls from both service professionals and consumers. Through using a number of internal and external tools, you’ll be responsible for not only educating and setting expectations for the people who use Bidvine but helping them get the most out of the platform. We strive for complete alignment in driving positive outcomes - your success in this role will be evaluated by the success of the people that you work with.\n\nSo, if you are looking to make your mark & become part of our growing team, we want to hear from you.\n\n**Must haves:**\n* technology-oriented\n* data-driven\n* experiencing selling a product/service/idea in the UK\n* native English speaker\n* self-motivated and results-driven\n* love start-ups and understand the challenges and demands of a fast-moving, ever-changing business\n* ability to prioritise on the fly\n* strong detail orientation\n* understanding of what it means to go the extra mile for a customer, colleague or partner\n* smart in all senses of the word\n* empathy, resilience, patience, energy\n* experience in delivering on a target\n\n*Please note, due to the Coronavirus, we will require candidates that have the ability to work from home as required (with a company-provided laptop). While we typically work from our office, a situation may arise where you will be required to work from home.*\n\n**Nice to haves:**\n* Experience working in trade or small family business: you built sheds in the summer, past landscaping job, photography on the side, your mom has a tutoring business, something…\n* Experience in a customer support/service or sales role\n* Experience wearing fancy dress\n\n**Salary:**\n£30,000 OTE",
+      "descriptionHtml": "<p>We&#39;re looking for someone that knows a thing or two about building relationships and helping our customers find success. We’re <a href=\"https://www.bidvine.com/\" target=\"_blank\" rel=\"nofollow\">Bidvine</a>, and we’re looking for the right person to join our London office.</p>\n\n<p>As a <a href=\"https://www.techstars.com/\" target=\"_blank\" rel=\"nofollow\">Techstars</a> and <a href=\"https://500.co/\" target=\"_blank\" rel=\"nofollow\">500 Start-Ups</a> backed venture, we need smart, professional, entrepreneurial people to help achieve our growth, retention, and expansion goals.</p>\n\n<p>Since we started this journey, back in late 2014, we’ve assembled a spectacular team aligned around our core company values;</p>\n\n<ul>\n<li>Make strong moves</li>\n<li>Champion good ideas</li>\n<li>Pursue your passions</li>\n<li>Service first </li>\n<li>Climb the vine</li>\n<li>Give kudos</li>\n</ul>\n\n<p>Bidvine is helping to make the hiring of <a href=\"https://www.youtube.com/watch?v=U3hu6VoY-xY\" target=\"_blank\" rel=\"nofollow\">local services</a> ridiculously simple, to help the more than 10 million local businesses across Europe serve more customers and build great businesses. </p>\n\n<p><strong>About the role</strong><br>\nAs a marketplace for local services, you’ll be interacting with both service professionals and the customers that require their services. These services span a  number of industries including education, tuition, wellness, music instruction, home improvement, photography, and much more. It is safe to say, you will have no shortage of variety in your role.</p>\n\n<p>The primary focus of this role will be making and receiving phone calls from both service professionals and consumers. Through using a number of internal and external tools, you’ll be responsible for not only educating and setting expectations for the people who use Bidvine but helping them get the most out of the platform. We strive for complete alignment in driving positive outcomes - your success in this role will be evaluated by the success of the people that you work with.</p>\n\n<p>So, if you are looking to make your mark &amp; become part of our growing team, we want to hear from you.</p>\n\n<p><strong>Must haves:</strong></p>\n\n<ul>\n<li>technology-oriented</li>\n<li>data-driven</li>\n<li>experiencing selling a product/service/idea in the UK</li>\n<li>native English speaker</li>\n<li>self-motivated and results-driven</li>\n<li>love start-ups and understand the challenges and demands of a fast-moving, ever-changing business</li>\n<li>ability to prioritise on the fly</li>\n<li>strong detail orientation</li>\n<li>understanding of what it means to go the extra mile for a customer, colleague or partner</li>\n<li>smart in all senses of the word</li>\n<li>empathy, resilience, patience, energy</li>\n<li>experience in delivering on a target</li>\n</ul>\n\n<p><em>Please note, due to the Coronavirus, we will require candidates that have the ability to work from home as required (with a company-provided laptop). While we typically work from our office, a situation may arise where you will be required to work from home.</em></p>\n\n<p><strong>Nice to haves:</strong></p>\n\n<ul>\n<li>Experience working in trade or small family business: you built sheds in the summer, past landscaping job, photography on the side, your mom has a tutoring business, something…</li>\n<li>Experience in a customer support/service or sales role</li>\n<li>Experience wearing fancy dress</li>\n</ul>\n\n<p><strong>Salary:</strong><br>\n£30,000 OTE</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Technology",
+        "Communication Skills",
+        "Empathy",
+        "Customer Retention",
+        "Customer Success"
+      ],
+      "payment": {
+        "salary": "£24k – £30k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/p/russ-morgan",
+        "name": "Russ Morgan",
+        "avatar": "https://photos.angel.co/users/784260-medium_jpg?1485885665"
+      },
+      "refs": {
+        "angelListId": "751320",
+        "angelListUrl": "https://angel.co/company/bidvine/jobs/751320-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "Lead Product Designer",
+      "description": "As a *Lead Product Designer* at Bidvine you’ll work in a collaborative team of Engineers, Designers, and Product Managers to help make it ridiculously simple to hire trusted, local service professionals. Every decision we make is informed by scale and everything we do needs to operate at scale. We're tackling a big challenge and there's no small version of our business.\r\n\r\n**About the Lead Designer Role**\r\nYou are a passionate designer, adept at using a diverse set of skills to create meaningful experiences. You know that every single detail and microinteraction contributes to the success of our product. You design with consistency and patterns because no design is truly special until it is applied across all platforms with success. On the spectrum of design, you lean more towards crafting impactful interfaces and evolving our design system. While creative, you’re also organized and enjoy executing. No detail or pixel left behind.\r\n\r\nYou must be confident of your skills and your ability to ship designs to production that will be stress-tested daily. \r\n\r\n**What You'll Do**\r\n* Develop and maintain the Bidvine design system during the entire product lifecycle.\r\n* Work across the supply and demand sides of the marketplace, across web and mobile.\r\n* Help identify and execute on design requirements; develop user models, design and prototype new features and product for testing.\r\n* Use your solid understanding of usability heuristics to evaluate new and existing features, offering viable suggestions for improvements.\r\n* Drive design projects to completion, with a focus on the metrics that matter of those projects.\r\n* Create product scenarios, flowcharts, wireframes, and interactive prototypes needed to communicate design visions and detailed requirements.\r\n* Execute new ideas quickly and effectively while also being a resource to other team members and teams.\r\n* Innovate where necessary, with a persistent focus on building solutions.\r\n* Work collaboratively with cross-functional teams.\r\n\r\n**What You Must-Have**\r\n* Curiosity &amp; smarts\r\n* A passion for research and user experience\r\n* You exude a sense of passion\r\n* 5+ years of work experience as a designer; consumer internet, marketplace, mobile experience a plus .\r\n* A relevant portfolio of work.\r\n* Strong eye for beautiful design and user experience.\r\n* Expert in a toolset of your choosing that is relevant, scalable, and powerful.\r\n* Ability to demonstrate a history of shipping consumer-focused products that users love.\r\n\r\n**Benefits**\r\n* Autonomy\r\n* Friendly work environment\r\n* Monthly values champion nominations\r\n* Weekly team breakfast (virtual lunches in lieu of now)\r\n* Encouraged to pursue your passions: https://www.bidvine.com/about\r\n* Health Spending Account\r\n* Employee Stock Options\r\n* 15 vacation days plus end-December holiday shutdown plus your birthday off. Between 23 and 25 days per year depending on when the holidays fall.",
+      "descriptionHtml": "<p>As a <em>Lead Product Designer</em> at Bidvine you’ll work in a collaborative team of Engineers, Designers, and Product Managers to help make it ridiculously simple to hire trusted, local service professionals. Every decision we make is informed by scale and everything we do needs to operate at scale. We&#39;re tackling a big challenge and there&#39;s no small version of our business.</p>\n\n<p><strong>About the Lead Designer Role</strong><br>\nYou are a passionate designer, adept at using a diverse set of skills to create meaningful experiences. You know that every single detail and microinteraction contributes to the success of our product. You design with consistency and patterns because no design is truly special until it is applied across all platforms with success. On the spectrum of design, you lean more towards crafting impactful interfaces and evolving our design system. While creative, you’re also organized and enjoy executing. No detail or pixel left behind.</p>\n\n<p>You must be confident of your skills and your ability to ship designs to production that will be stress-tested daily. </p>\n\n<p><strong>What You&#39;ll Do</strong></p>\n\n<ul>\n<li>Develop and maintain the Bidvine design system during the entire product lifecycle.</li>\n<li>Work across the supply and demand sides of the marketplace, across web and mobile.</li>\n<li>Help identify and execute on design requirements; develop user models, design and prototype new features and product for testing.</li>\n<li>Use your solid understanding of usability heuristics to evaluate new and existing features, offering viable suggestions for improvements.</li>\n<li>Drive design projects to completion, with a focus on the metrics that matter of those projects.</li>\n<li>Create product scenarios, flowcharts, wireframes, and interactive prototypes needed to communicate design visions and detailed requirements.</li>\n<li>Execute new ideas quickly and effectively while also being a resource to other team members and teams.</li>\n<li>Innovate where necessary, with a persistent focus on building solutions.</li>\n<li>Work collaboratively with cross-functional teams.</li>\n</ul>\n\n<p><strong>What You Must-Have</strong></p>\n\n<ul>\n<li>Curiosity &amp; smarts</li>\n<li>A passion for research and user experience</li>\n<li>You exude a sense of passion</li>\n<li>5+ years of work experience as a designer; consumer internet, marketplace, mobile experience a plus .</li>\n<li>A relevant portfolio of work.</li>\n<li>Strong eye for beautiful design and user experience.</li>\n<li>Expert in a toolset of your choosing that is relevant, scalable, and powerful.</li>\n<li>Ability to demonstrate a history of shipping consumer-focused products that users love.</li>\n</ul>\n\n<p><strong>Benefits</strong></p>\n\n<ul>\n<li>Autonomy</li>\n<li>Friendly work environment</li>\n<li>Monthly values champion nominations</li>\n<li>Weekly team breakfast (virtual lunches in lieu of now)</li>\n<li>Encouraged to pursue your passions: <a href=\"https://www.bidvine.com/about\" target=\"_blank\" rel=\"nofollow\">https://www.bidvine.com/about</a></li>\n<li>Health Spending Account</li>\n<li>Employee Stock Options</li>\n<li>15 vacation days plus end-December holiday shutdown plus your birthday off. Between 23 and 25 days per year depending on when the holidays fall.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "Waterloo"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Web Design",
+        "User Experience Design",
+        "User Research",
+        "User Testing",
+        "Mobile UI Design"
+      ],
+      "payment": {
+        "salary": "$96k – $116k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Board Member",
+        "url": "https://angel.co/p/danstuart",
+        "name": "Daniel Craig Stuart",
+        "avatar": "https://photos.angel.co/users/101718-medium_jpg?1575063528"
+      },
+      "refs": {
+        "angelListId": "88733",
+        "angelListUrl": "https://angel.co/company/bidvine/jobs/88733-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Senior Product Manager",
+      "description": "At Bidvine we’re tackling a huge problem: trying to make hiring trusted local service professionals ridiculously easy. Building marketplaces is one of the most compelling challenges and greatest opprtunities in digital entrepreneurship. Get it right, and you can have a major benefit to people's lives and the success of SMEs.\r\n\r\nSo far, so good. We launched in early 2015 and have expanded to over 800 services across our first market - the UK. We’re just getting started on our plans to go deeper with local service professionals and go broader into new geographies. We need your help to keep building and growing.\r\n\r\nReporting to our head of product / co-founder Dan Stuart in Waterloo, ON, you will be responsible for growing Bidvine by building richer, more engaging products across web and mobile. You will be responsible for the longer term product business plan, product roadmap, as well as managing the lifecycle of the product. You'll also define OKRs, spec features, work with a scrum squad and promote what ship.\r\n\r\nIf you use data to guide you, understand that data doesn't always trump intuition, know how to both listen and innovate, and you can make large amounts of structured data and unstructured information work for you to make informed decisions, then visit www.bidvine.com to see if you're excited about what we're doing.\r\n\r\nAt Bidvine you will:\r\n\r\n- Drive product KPIs that directly roll up to company revenue.\r\n- Focus on one or more squads from supply growth or demand growth - incorporating both web and mobile.\r\n- Oversee the end-to-end product lifecycle, from user research to A/B testing, ruthlessly prioritizing to achieve the best outcomes.\r\n- Run experiments to find the global maxima of our KPIs, not restricted to the local maxima of our current implementation.\r\n- Span the range from fixes and optimizations to ideating on the future of Bidvine's role in the future of service delivery and marketplace networks in local communities.\r\n- Conduct market and competitive research to contribute to the product roadmap.\r\n- Work closely with the senior leadership to define the product roadmap and vision, and then ensure work is aligned with this product roadmap.\r\n- Work with the development lead to ensure that implementations meet the architectural and technical requirements of the platform.\r\n- You'll wear the scrum master and product owner hats, and run meetings, set agendas, and keep teams focused when competing priorities and schedules collide.\r\n\r\nMust have:\r\n\r\n- Curiosity &amp; smarts\r\n- Proven experience in launching new products to market \r\n- Great communication and presentation skills\r\n- 5+ years of product management experience at a consumer-facing startup\r\n- Experience with web and mobile based products \r\n- Adept at SQL\r\n- Strong understanding of A/B testing and statistical significance\r\n- An obsession with unit economics\r\n- Experience wrestling with design, speed and product quality \r\n- Experience with agile and scrum\r\n\r\nNice to have:\r\n\r\n- Experienced entrepreneur\r\n- Digital marketplace experience\r\n- MBA and/or a degree in Marketing, Computer Science or Software Engineering, or equivalent experience\r\n- UI/UX Experience\r\n- Experience managing product managers",
+      "descriptionHtml": "<p>At Bidvine we’re tackling a huge problem: trying to make hiring trusted local service professionals ridiculously easy. Building marketplaces is one of the most compelling challenges and greatest opprtunities in digital entrepreneurship. Get it right, and you can have a major benefit to people&#39;s lives and the success of SMEs.</p>\n\n<p>So far, so good. We launched in early 2015 and have expanded to over 800 services across our first market - the UK. We’re just getting started on our plans to go deeper with local service professionals and go broader into new geographies. We need your help to keep building and growing.</p>\n\n<p>Reporting to our head of product / co-founder Dan Stuart in Waterloo, ON, you will be responsible for growing Bidvine by building richer, more engaging products across web and mobile. You will be responsible for the longer term product business plan, product roadmap, as well as managing the lifecycle of the product. You&#39;ll also define OKRs, spec features, work with a scrum squad and promote what ship.</p>\n\n<p>If you use data to guide you, understand that data doesn&#39;t always trump intuition, know how to both listen and innovate, and you can make large amounts of structured data and unstructured information work for you to make informed decisions, then visit <a href=\"http://www.bidvine.com\" target=\"_blank\" rel=\"nofollow\">www.bidvine.com</a> to see if you&#39;re excited about what we&#39;re doing.</p>\n\n<p>At Bidvine you will:</p>\n\n<ul>\n<li>Drive product KPIs that directly roll up to company revenue.</li>\n<li>Focus on one or more squads from supply growth or demand growth - incorporating both web and mobile.</li>\n<li>Oversee the end-to-end product lifecycle, from user research to A/B testing, ruthlessly prioritizing to achieve the best outcomes.</li>\n<li>Run experiments to find the global maxima of our KPIs, not restricted to the local maxima of our current implementation.</li>\n<li>Span the range from fixes and optimizations to ideating on the future of Bidvine&#39;s role in the future of service delivery and marketplace networks in local communities.</li>\n<li>Conduct market and competitive research to contribute to the product roadmap.</li>\n<li>Work closely with the senior leadership to define the product roadmap and vision, and then ensure work is aligned with this product roadmap.</li>\n<li>Work with the development lead to ensure that implementations meet the architectural and technical requirements of the platform.</li>\n<li>You&#39;ll wear the scrum master and product owner hats, and run meetings, set agendas, and keep teams focused when competing priorities and schedules collide.</li>\n</ul>\n\n<p>Must have:</p>\n\n<ul>\n<li>Curiosity &amp; smarts</li>\n<li>Proven experience in launching new products to market </li>\n<li>Great communication and presentation skills</li>\n<li>5+ years of product management experience at a consumer-facing startup</li>\n<li>Experience with web and mobile based products </li>\n<li>Adept at SQL</li>\n<li>Strong understanding of A/B testing and statistical significance</li>\n<li>An obsession with unit economics</li>\n<li>Experience wrestling with design, speed and product quality </li>\n<li>Experience with agile and scrum</li>\n</ul>\n\n<p>Nice to have:</p>\n\n<ul>\n<li>Experienced entrepreneur</li>\n<li>Digital marketplace experience</li>\n<li>MBA and/or a degree in Marketing, Computer Science or Software Engineering, or equivalent experience</li>\n<li>UI/UX Experience</li>\n<li>Experience managing product managers</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "Waterloo"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Entrepreneurship",
+        "Product Management",
+        "A/B Testing",
+        "Agile Product Development"
+      ],
+      "payment": {
+        "salary": "$95k – $130k",
+        "equity": "0.01% – 0.02%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Board Member",
+        "url": "https://angel.co/p/danstuart",
+        "name": "Daniel Craig Stuart",
+        "avatar": "https://photos.angel.co/users/101718-medium_jpg?1575063528"
+      },
+      "refs": {
+        "angelListId": "97170",
+        "angelListUrl": "https://angel.co/company/bidvine/jobs/97170-"
+      }
+    }
+  ]
+}

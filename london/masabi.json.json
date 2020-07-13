@@ -1,0 +1,182 @@
+{
+  "name": "Masabi",
+  "avatar": "https://photos.angel.co/startups/i/35392-6ace7ab6655d45b13a29ebf11bb26cf5-medium_jpg.jpg?buster=1508490326",
+  "slogan": "Ticketing for Smarter Cities - SaaS Ticketing for Public Transit",
+  "description": "At Masabi we believe a new ticketing system using a mobile phone, contactless bank card or smartcard should be available to every passenger and to every transit agency around the globe, without prohibitive cost or taking years to deliver, helping passengers move seamlessly from A to B.\n\nOur solutions have been deployed and are operational in cities around the globe, including; Boston, London, Los Angeles, Las Vegas, New York, New Orleans, Athens, across the United Kingdom, France, Sydney and beyond.\n\nOur cloud-based, multi-format platform, Justride, facilitates the use of a variety of fare media including mobile tickets, contactless credit cards, smartcard, paper barcode and more. Once deployed, other transportation and best-of-breed can be added; building a MaaS (Mobility-as-a-Service) offering with the public transit agency at its core. Tickets can be sold via branded apps, web portals or SDKs integrated into 3rd party services; all linked together through the Justride back office.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.masabi.com"
+    },
+    {
+      "type": "blog",
+      "url": "http://blog.masabi.com"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/masabi_tech"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "New York City"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Ticketing",
+    "Public Transportation",
+    "Mobile Commerce"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 20800000,
+    "rounds": [
+      {
+        "type": "",
+        "closedAt": 1449532800,
+        "valuation": 0
+      },
+      {
+        "type": "",
+        "closedAt": 1363737600,
+        "valuation": 0
+      },
+      {
+        "type": "",
+        "closedAt": 1320192000,
+        "valuation": null
+      },
+      {
+        "type": "Series A",
+        "closedAt": 1285632000,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "Recruiter",
+      "role": "Employee",
+      "url": "https://angel.co/u/radu-cenusa",
+      "name": "Radu Cenusa",
+      "avatar": "https://photos.angel.co/users/6753024-medium_jpg?1503418108",
+      "bioHtml": "Talent Manager/People OPS for Masabi\nTech Recruiter\nLegal Advisor/Mediator \n"
+    },
+    {
+      "title": "Head of People Operations",
+      "role": "Employee",
+      "url": "https://angel.co/u/john-scrooby",
+      "name": "John Scrooby",
+      "avatar": "https://photos.angel.co/users/2402374-medium_jpg?1466096736",
+      "bioHtml": "Head of People Operations at Masabi"
+    }
+  ],
+  "perks": [
+    {
+      "category": "company_events",
+      "title": "Company Events"
+    },
+    {
+      "category": "company_meals",
+      "title": "Company Meals"
+    },
+    {
+      "category": "generous_vacation",
+      "title": "Generous Vacation"
+    },
+    {
+      "category": "company_events",
+      "title": "All Hands"
+    },
+    {
+      "category": "miscellaneous",
+      "title": "Tools"
+    },
+    {
+      "category": "miscellaneous",
+      "title": "Impact"
+    }
+  ],
+  "refs": {
+    "angelListId": "35392",
+    "angelListUrl": "https://angel.co/company/masabi"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Front End Engineer",
+      "description": "Who are we?\n \nAt Masabi we believe a new ticketing system using a mobile phone, contactless bank card or smartcard should be available to every passenger and every transit agency around the globe, without prohibitive cost or taking years to deliver, helping passengers move seamlessly from A to B. With deployments to over 40 transit agencies across 4 continents, Masabi’s team has been delivering innovation to millions of riders of public transportation for over ten years.\n \nWe recently announced key partnerships utilizing our Software Development Kit to integrate public transit ticketing with rideshare (Uber) and journey planning (Transit) applications.\n \nCome join us on this exciting ride as we build the transit technology ecosystem of tomorrow.\n\nThe role...\n \nWe are looking for a Front-End Javascript developer with experience in core web technologies (Javascript, HTML5, CSS) to work as part of our highly successful Justride team.\nThe Justride team are responsible for the development of a hybrid mobile web app and web application. These platforms combined currently process over $1 billion transactions a year. With these kinds of numbers, security and fraud mitigation are paramount to our success.\nWe ensure high standards by comprehensive end to end and unit testing, as well as refactoring to ensuring we work to the latest standards, best practices and we are in the process of upgrading some of our frameworks such as Angular to the latest version.\n\nWe work as part of a cross-discipline team who deliver robust and reusable components originating from product requirements through UX, design, development, and quality assurance. We are looking for a proactive person to join the team and actively contribute to code reviews, pairing, knowledge sharing, mentoring and technical roadmapping.\n\n\n\n\n\nTechnologies we’re using:\nAngular 7 (NgRx, RxJS, TypeScript, SCSS)\nIonic 1 (in the process of migrating, mostly written in modern Angular style with ES6 classes and TypeScript)\nJasmine / Karma / Protractor\nGit / Jira / Bamboo\n\n\nGreat if you have…\nExperience with responsive CSS, HTML5 across multiple browsers and devices.\nSignificant working experience with – and a desire to work using – agile methodologies (e.g. Kanban, XP, Scrum, Continuous Delivery).\nWorking experience with automated testing (e.g. TDD/BDD & related tools).\nExperience working in a mobile environment.\nExperience in using and setting up automated build infrastructure (e.g. Bamboo with AWS).\nExperience building hybrid mobile apps (e.g. Cordova / Ionic).\nExperience with iOS & Android development (Java / Objective C) for Cordova plugins.\nExperience in migrating from Angular 1.\n\n\n \nMasabi is an equal opportunity employer. We celebrate multiple approaches and points of view, striving to create an environment where everyone feels empowered to bring their full, authentic selves to work. Whoever you are, just be yourself. \n \n \n﻿Benefits:\nCompetitive salary package\nBright spacious office in quiet area in Old Street with floor to ceiling windows and garden\nPension scheme\nChildcare vouchers\nUnlimited snacks and drinks, with regular free lunches\nFlexible working hours and up to 30 days holiday per year\nCycle to work scheme\nRegular social gatherings with monthly allowance for each employee\nOnsite yoga classes\nBiannual company events\nFun and collaborative environment with a focus on making a difference in the world",
+      "descriptionHtml": "<p>Who are we?</p>\n\n<p>At Masabi we believe a new ticketing system using a mobile phone, contactless bank card or smartcard should be available to every passenger and every transit agency around the globe, without prohibitive cost or taking years to deliver, helping passengers move seamlessly from A to B. With deployments to over 40 transit agencies across 4 continents, Masabi’s team has been delivering innovation to millions of riders of public transportation for over ten years.</p>\n\n<p>We recently announced key partnerships utilizing our Software Development Kit to integrate public transit ticketing with rideshare (Uber) and journey planning (Transit) applications.</p>\n\n<p>Come join us on this exciting ride as we build the transit technology ecosystem of tomorrow.</p>\n\n<p>The role...</p>\n\n<p>We are looking for a Front-End Javascript developer with experience in core web technologies (Javascript, HTML5, CSS) to work as part of our highly successful Justride team.<br>\nThe Justride team are responsible for the development of a hybrid mobile web app and web application. These platforms combined currently process over $1 billion transactions a year. With these kinds of numbers, security and fraud mitigation are paramount to our success.<br>\nWe ensure high standards by comprehensive end to end and unit testing, as well as refactoring to ensuring we work to the latest standards, best practices and we are in the process of upgrading some of our frameworks such as Angular to the latest version.</p>\n\n<p>We work as part of a cross-discipline team who deliver robust and reusable components originating from product requirements through UX, design, development, and quality assurance. We are looking for a proactive person to join the team and actively contribute to code reviews, pairing, knowledge sharing, mentoring and technical roadmapping.</p>\n\n<p>Technologies we’re using:<br>\nAngular 7 (NgRx, RxJS, TypeScript, SCSS)<br>\nIonic 1 (in the process of migrating, mostly written in modern Angular style with ES6 classes and TypeScript)<br>\nJasmine / Karma / Protractor<br>\nGit / Jira / Bamboo</p>\n\n<p>Great if you have…<br>\nExperience with responsive CSS, HTML5 across multiple browsers and devices.<br>\nSignificant working experience with – and a desire to work using – agile methodologies (e.g. Kanban, XP, Scrum, Continuous Delivery).<br>\nWorking experience with automated testing (e.g. TDD/BDD &amp; related tools).<br>\nExperience working in a mobile environment.<br>\nExperience in using and setting up automated build infrastructure (e.g. Bamboo with AWS).<br>\nExperience building hybrid mobile apps (e.g. Cordova / Ionic).<br>\nExperience with iOS &amp; Android development (Java / Objective C) for Cordova plugins.<br>\nExperience in migrating from Angular 1.</p>\n\n<p>Masabi is an equal opportunity employer. We celebrate multiple approaches and points of view, striving to create an environment where everyone feels empowered to bring their full, authentic selves to work. Whoever you are, just be yourself. </p>\n\n<p>﻿Benefits:<br>\nCompetitive salary package<br>\nBright spacious office in quiet area in Old Street with floor to ceiling windows and garden<br>\nPension scheme<br>\nChildcare vouchers<br>\nUnlimited snacks and drinks, with regular free lunches<br>\nFlexible working hours and up to 30 days holiday per year<br>\nCycle to work scheme<br>\nRegular social gatherings with monthly allowance for each employee<br>\nOnsite yoga classes<br>\nBiannual company events<br>\nFun and collaborative environment with a focus on making a difference in the world</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "AngularJS"
+      ],
+      "payment": {
+        "salary": "£50k – £70k"
+      },
+      "recruiter": {
+        "title": "Recruiter",
+        "role": "Employee",
+        "url": "https://angel.co/u/radu-cenusa",
+        "name": "Radu Cenusa",
+        "avatar": "https://photos.angel.co/users/6753024-medium_jpg?1503418108"
+      },
+      "refs": {
+        "angelListId": "579320",
+        "angelListUrl": "https://angel.co/company/masabi/jobs/579320-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "Product Designer",
+      "description": "Who we are\n\nAt Masabi, we are helping to make cities better places to live, work and visit, by enabling seamless, frictionless journeys on public transport systems. We are a SaaS company, developing a fare collection and ticketing platform that allows commuters to buy and present tickets for public transport on their mobile phones or simply by tapping a bank card to travel. \n\nDefining the future of transport ticketing, Masabi launched integrations with Uber, and a journey planner called Transit, allowing users to purchase tickets for public transport right within those apps.\n\nJustride is deployed in cities around the globe, including New York, London, Boston, Las Vegas, The Hague, Los Angeles and many more with an exciting industry-first SDK deployment with Uber in Denver enabling the purchase of public transport tickets right within the Uber application.\n\nWe are about 115 people headquartered in London with offices in New York, Boston, and Cluj.\n\n\nThe Design Team\n\nThe Design Team is integral to the development of products at Masabi, whether that’s designing on-trend pixel perfect interfaces for our latest mobile app and web portals, or defining the experience of scanning your barcode at a ticket gate. We’re passionate about quality, open to exploring new ideas, and pragmatic about delivering the most effective outcomes. We work closely with the development teams to turn ideas and concepts into reality in an agile environment.\n\n\nThe Role\n\nWorking on our Justride platform, you will be designing seamless interactions and beautiful interface designs that will make life easier for millions of transport users across the globe. You will have the opportunity to help define and shape the look and feel of the entire Justride product: from concept and prototyping to delivering the finished article. You’ll work in a talented, multi-disciplinary team of product, engineering, and UX to ensure we’re meeting our own high standards and delivering meaningful value for our users.\n\n \nWe’re looking for a mid-level Product/UI Designer who can...\n\nAlways start with “Why?” \nUse a user-centered approach to solve problems – what is the use case and what are we trying to solve here? \nThink about the whole product experience, not just your piece of the puzzle.\nDesign collaboratively, across product, engineering, and management teams to ensure that all of the company's deliverables are at the highest possible quality.\nTurn complicated, abstract problems into simple, elegant solutions from end to end. Owning early discovery planning into wireframes and high fidelity mockups.\nProactively pitch new ideas for how we can better the look and feel of our product range, making sure we’re at the forefront of the latest design trends.\nContribute to the evolution and maintenance of our brand assets, style guidelines, and contributing design components to our Design System.\nIsn’t be afraid to fail, learn from it.\n\n\nYou will have the following...\n\nA strong portfolio with examples of UI design, prototyping, wireframes, illustration and iconography in products you have delivered to market.\nStrong knowledge of the Adobe Creative Suite, Figma, Sketch, and Adobe Xd. (you can use any tools to get the job done, but we’re loving Figma at the moment!)\nA passion for UI/UX, awareness of the latest industry trends and mobile UI patterns.\nA proven track record of using current best practices to inform design decisions.\nExperience working alongside product managers and developers in an agile environment to deliver products to market.\nExcitement for joining a fast-paced environment full of people that like to celebrate success regularly.\n \n\n \nBenefits:\n\nCompetitive salary package\nFlexible working hours and up to 30 days holiday per year (not including bank holidays)\nPension scheme\nOnsite yoga classes\nChildcare vouchers\nCycle to work scheme\nUnlimited snacks and drinks, with regular free lunches\nRegular social gatherings with monthly allowance for each employee\nBiannual company events\nFun and collaborative environment with a focus on making a difference in the world\n \n\nMasabi is an equal opportunity employer. We celebrate multiple approaches and points of view, striving to create an environment where everyone feels empowered to bring their full, authentic selves to work. Whoever you are, just be yourself. \n\nYou can apply directly on: https://www.comeet.co/jobs/masabi/72.00E/product-designer-contract-or-perm/28.21F",
+      "descriptionHtml": "<p>Who we are</p>\n\n<p>At Masabi, we are helping to make cities better places to live, work and visit, by enabling seamless, frictionless journeys on public transport systems. We are a SaaS company, developing a fare collection and ticketing platform that allows commuters to buy and present tickets for public transport on their mobile phones or simply by tapping a bank card to travel. </p>\n\n<p>Defining the future of transport ticketing, Masabi launched integrations with Uber, and a journey planner called Transit, allowing users to purchase tickets for public transport right within those apps.</p>\n\n<p>Justride is deployed in cities around the globe, including New York, London, Boston, Las Vegas, The Hague, Los Angeles and many more with an exciting industry-first SDK deployment with Uber in Denver enabling the purchase of public transport tickets right within the Uber application.</p>\n\n<p>We are about 115 people headquartered in London with offices in New York, Boston, and Cluj.</p>\n\n<p>The Design Team</p>\n\n<p>The Design Team is integral to the development of products at Masabi, whether that’s designing on-trend pixel perfect interfaces for our latest mobile app and web portals, or defining the experience of scanning your barcode at a ticket gate. We’re passionate about quality, open to exploring new ideas, and pragmatic about delivering the most effective outcomes. We work closely with the development teams to turn ideas and concepts into reality in an agile environment.</p>\n\n<p>The Role</p>\n\n<p>Working on our Justride platform, you will be designing seamless interactions and beautiful interface designs that will make life easier for millions of transport users across the globe. You will have the opportunity to help define and shape the look and feel of the entire Justride product: from concept and prototyping to delivering the finished article. You’ll work in a talented, multi-disciplinary team of product, engineering, and UX to ensure we’re meeting our own high standards and delivering meaningful value for our users.</p>\n\n<p>We’re looking for a mid-level Product/UI Designer who can...</p>\n\n<p>Always start with “Why?” <br>\nUse a user-centered approach to solve problems – what is the use case and what are we trying to solve here? <br>\nThink about the whole product experience, not just your piece of the puzzle.<br>\nDesign collaboratively, across product, engineering, and management teams to ensure that all of the company&#39;s deliverables are at the highest possible quality.<br>\nTurn complicated, abstract problems into simple, elegant solutions from end to end. Owning early discovery planning into wireframes and high fidelity mockups.<br>\nProactively pitch new ideas for how we can better the look and feel of our product range, making sure we’re at the forefront of the latest design trends.<br>\nContribute to the evolution and maintenance of our brand assets, style guidelines, and contributing design components to our Design System.<br>\nIsn’t be afraid to fail, learn from it.</p>\n\n<p>You will have the following...</p>\n\n<p>A strong portfolio with examples of UI design, prototyping, wireframes, illustration and iconography in products you have delivered to market.<br>\nStrong knowledge of the Adobe Creative Suite, Figma, Sketch, and Adobe Xd. (you can use any tools to get the job done, but we’re loving Figma at the moment!)<br>\nA passion for UI/UX, awareness of the latest industry trends and mobile UI patterns.<br>\nA proven track record of using current best practices to inform design decisions.<br>\nExperience working alongside product managers and developers in an agile environment to deliver products to market.<br>\nExcitement for joining a fast-paced environment full of people that like to celebrate success regularly.</p>\n\n<p>Benefits:</p>\n\n<p>Competitive salary package<br>\nFlexible working hours and up to 30 days holiday per year (not including bank holidays)<br>\nPension scheme<br>\nOnsite yoga classes<br>\nChildcare vouchers<br>\nCycle to work scheme<br>\nUnlimited snacks and drinks, with regular free lunches<br>\nRegular social gatherings with monthly allowance for each employee<br>\nBiannual company events<br>\nFun and collaborative environment with a focus on making a difference in the world</p>\n\n<p>Masabi is an equal opportunity employer. We celebrate multiple approaches and points of view, striving to create an environment where everyone feels empowered to bring their full, authentic selves to work. Whoever you are, just be yourself. </p>\n\n<p>You can apply directly on: <a href=\"https://www.comeet.co/jobs/masabi/72.00E/product-designer-contract-or-perm/28.21F\" target=\"_blank\" rel=\"nofollow\">https://www.comeet.co/jobs/masabi/72.00E/product-designer-contract-or-perm/28.21F</a></p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "UI/UX Design",
+        "Mockups",
+        "Sketch"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Recruiter",
+        "role": "Employee",
+        "url": "https://angel.co/u/radu-cenusa",
+        "name": "Radu Cenusa",
+        "avatar": "https://photos.angel.co/users/6753024-medium_jpg?1503418108"
+      },
+      "refs": {
+        "angelListId": "651887",
+        "angelListUrl": "https://angel.co/company/masabi/jobs/651887-"
+      }
+    }
+  ]
+}

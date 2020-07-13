@@ -1,0 +1,121 @@
+{
+  "name": "IRIS Payment Solutions",
+  "avatar": "https://photos.angel.co/startups/i/5193309-c657930156c8f70cf4985b6ca18b15f6-medium_jpg.jpg?buster=1516296709",
+  "slogan": "Digital Identity and Wallet Platform with Biometric Authentication",
+  "description": "IRIS is a fintech payment processing company that implements biometric authentication and Blockchain technology to lay the foundations of the world's next payment ecosystem. Incorporating finger vein authentication and irisWallet, users can unite all their payment methods including credit cards, bank accounts, crypto-currency wallets and more into one universal solution accessed solely by an individual and their biometric data. Easiest. Safest. Cheapest. Fastest. Crypto-Ready.\n\nIRIS aims to create the world’s safest payment processing ecosystem, serving as an intermediate point for users to access their funding sources such as credit cards, bank accounts, and crypto wallets through biometric authentication. IRIS users will be able to conduct free-of-charge instant international transfers at any irisTerminal. They will also be able to use their IRIS Wallet to pay at any IRIS Merchant. \n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://irispay.io"
+    },
+    {
+      "type": "blog",
+      "url": "https://irispay.io/news"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/irispay_io"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/IRIS-Payment-Solutions-171501256954397/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/irispay/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Finance Technology",
+    "Biometrics",
+    "Cryptocurrency",
+    "Identity Management"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/asenlevov",
+      "name": "Asen Levov",
+      "avatar": "https://photos.angel.co/users/7388483-medium_jpg?1551662641",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/irispay\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">IRIS Payment Solutions</span></a>, <a href=\"https://angel.co/company/mautodesign-com\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">MAutoDesign.com</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/giuseppe-lo-presti",
+      "name": "Giuseppe Lo Presti",
+      "avatar": "https://photos.angel.co/users/7129528-medium_jpg?1517060655",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/svetlin-nakov",
+      "name": "Svetlin Nakov",
+      "avatar": "https://photos.angel.co/users/5482161-medium_jpg?1484931695",
+      "bioHtml": "Svetlin Nakov inspires thousands of young people to start learning programming and technologies."
+    },
+    {
+      "title": "CEO, Founder",
+      "role": "Employee",
+      "url": "https://angel.co/u/asenlevov",
+      "name": "Asen Levov",
+      "avatar": "https://photos.angel.co/users/7388483-medium_jpg?1551662641",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/irispay\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">IRIS Payment Solutions</span></a>, <a href=\"https://angel.co/company/mautodesign-com\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">MAutoDesign.com</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5193309",
+    "angelListUrl": "https://angel.co/company/irispay"
+  },
+  "jobs": [
+    {
+      "role": "Sales",
+      "title": "Chief Business Development Officer",
+      "description": "IRIS is a fintech company which implements innovational biometric authentication and blockchain technology to create the world’s safest payment processing ecosystem. Furthermore, IRIS will also develop government solutions that are applicable to various spheres like healthcare, police, and access.\n\nWe are looking for a motivated and experienced business development officer that is willing to become a co-founder in our venture and is ready to change the world.\n\nExperience in the spheres of Financial Services and Biometrics are recommended.",
+      "descriptionHtml": "<p>IRIS is a fintech company which implements innovational biometric authentication and blockchain technology to create the world’s safest payment processing ecosystem. Furthermore, IRIS will also develop government solutions that are applicable to various spheres like healthcare, police, and access.</p>\n\n<p>We are looking for a motivated and experienced business development officer that is willing to become a co-founder in our venture and is ready to change the world.</p>\n\n<p>Experience in the spheres of Financial Services and Biometrics are recommended.</p>\n",
+      "position": "cofounder",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Business Development",
+        "Biometrics",
+        "B2B Sales",
+        "FinTech"
+      ],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Investor",
+        "url": "https://angel.co/u/asenlevov",
+        "name": "Asen Levov",
+        "avatar": "https://photos.angel.co/users/7388483-medium_jpg?1551662641"
+      },
+      "refs": {
+        "angelListId": "506304",
+        "angelListUrl": "https://angel.co/company/irispay/jobs/506304-"
+      }
+    }
+  ]
+}

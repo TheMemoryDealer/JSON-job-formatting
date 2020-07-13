@@ -1,0 +1,92 @@
+{
+  "name": "Sharewise",
+  "avatar": "https://photos.angel.co/startups/i/7243010-7d55da8906c9b68b23df2fd51784ad4f-medium_jpg.jpg?buster=1570618549",
+  "slogan": "Helps you participate in your employers share plan",
+  "description": "Sharewise offers a free app that enables employees of all levels to learn about share plans and invest in their future , so they can live the life they want to live. Our app delivers powerful Share Plan Education , lightning fast Share Plan Onboarding , stimulating Share Plan Engagement , direct access to affordable Share Plan Loans from responsible lenders that have already integrated with most major FTSE250 employers.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://getsharewise.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Finance"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/lina-balteanu-2",
+      "name": "Lina Balteanu",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7243010",
+    "angelListUrl": "https://angel.co/company/sharewise-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Lead Developper",
+      "description": "What are we looking for?\n\nWe are looking for a Mid-to-Senior Software Engineer with a passion for finance for good to join our team in a lead technical role. You will be with us from the beginning and will have a unique opportunity to shape the future of our product. This is an opportunity to grow and develop your skills and build a team of your own in an early stage startup.\n\nThe first demo version of the product has been built with Ruby as a primary language, so good familiarity with Ruby is desirable.\n\nKey responsibilities:\n\n- Work together with us to iteratively define the product features\n- Drive the development of our platform; from owning end to end new feature development to helping scale and harden the core backend services\n- Contribute positively to our engineering and company culture\n\nQualifications\n\n- BA/BS degree in Computer Science or equivalent technical work experience\n- 4+ years of development experience\n- Experience developing and executing on a software roadmap and delivery on time\n- Experience managing a full stack system\n- Experience or willingness to lead the development of a mobile app \n\nDesirable Qualifications\n\n- Ability to identify and communicate problems\n- Willingness to learn\n- Experience building teams and recruiting software engineers\n- A passion for people management and mentorship",
+      "descriptionHtml": "<p>What are we looking for?</p>\n\n<p>We are looking for a Mid-to-Senior Software Engineer with a passion for finance for good to join our team in a lead technical role. You will be with us from the beginning and will have a unique opportunity to shape the future of our product. This is an opportunity to grow and develop your skills and build a team of your own in an early stage startup.</p>\n\n<p>The first demo version of the product has been built with Ruby as a primary language, so good familiarity with Ruby is desirable.</p>\n\n<p>Key responsibilities:</p>\n\n<ul>\n<li>Work together with us to iteratively define the product features</li>\n<li>Drive the development of our platform; from owning end to end new feature development to helping scale and harden the core backend services</li>\n<li>Contribute positively to our engineering and company culture</li>\n</ul>\n\n<p>Qualifications</p>\n\n<ul>\n<li>BA/BS degree in Computer Science or equivalent technical work experience</li>\n<li>4+ years of development experience</li>\n<li>Experience developing and executing on a software roadmap and delivery on time</li>\n<li>Experience managing a full stack system</li>\n<li>Experience or willingness to lead the development of a mobile app </li>\n</ul>\n\n<p>Desirable Qualifications</p>\n\n<ul>\n<li>Ability to identify and communicate problems</li>\n<li>Willingness to learn</li>\n<li>Experience building teams and recruiting software engineers</li>\n<li>A passion for people management and mentorship</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Ruby, Rails, Javascript, jQuery, SQL, React.Js, HTML5/CSS, Node.Js, Git"
+      ],
+      "payment": {
+        "salary": "£45k – £50k",
+        "equity": "5.0% – 10.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/lina-balteanu-2",
+        "name": "Lina Balteanu",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "640818",
+        "angelListUrl": "https://angel.co/company/sharewise-1/jobs/640818-"
+      }
+    }
+  ]
+}

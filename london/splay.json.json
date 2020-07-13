@@ -1,0 +1,156 @@
+{
+  "name": "splay/",
+  "avatar": "https://photos.angel.co/startups/i/5851105-dfecb460787051cf0ca4656b9bd8ab33-medium_jpg.jpg?buster=1583870935",
+  "slogan": "Next generation e-commerce platform & managed services",
+  "description": "Splay is a New York based creative consultancy offering a unique set of services to foster innovation and business growth for companies worldwide. Our proprietary suite of software and managed services are licensed to partners for specialty commerce at enterprise scale. \n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.splay.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://www.twitter.com/splay"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/splaynewyork"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/splay-inc/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "New York City",
+    "Berlin",
+    "Los Angeles",
+    "Hong Kong",
+    "London",
+    "Miami",
+    "Beverly Hills",
+    "Miami Beach",
+    "New York"
+  ],
+  "marketTags": [
+    "E-Commerce",
+    "Mobile",
+    "Men's Apparel and Accessories",
+    "Cloud Computing",
+    "Artificial Intelligence",
+    "Big Data Analytics",
+    "Business Development",
+    "Marketing",
+    "Retail"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1167609600,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/doug-pfeffer-1",
+      "name": "Doug Pfeffer",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Chief Operating Officer",
+      "role": "Employee",
+      "url": "https://angel.co/u/simon-marcus-2",
+      "name": "Simon Marcus",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "I help companies be better."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5851105",
+    "angelListUrl": "https://angel.co/company/splay"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Developer",
+      "description": "About the Role\n\nSplay is a New York based creative consultancy offering a unique set of services to foster innovation and business growth for companies worldwide. Our proprietary suite of software and managed services are licensed to partners for specialty commerce at enterprise scale.\n\nYou will work alongside a very sharp and focused, distributed group of people who will be invested in you and your growth from day one.\n\nWe’re looking for a full-stack developer with ~3-4 years of Ruby on Rails proficiency to assist with the development and maintenance of our large-scale, high-volume e-commerce platform.\n\n\nWhat we're expecting from you:\n* Be comfortable attending to (and improving) a large, existing Rails codebase in response to real-time requirement changes as well as longer-term initiatives. You’ll be writing new code and maintaining a large existing codebase.\n* Have an understanding of caching and performance techniques. Any systems that affect users must be designed and implemented with this in mind.\n* On the front-end, we actively maintain a wide range of Javascript across our platforms, going back to Backbone, up to newer builds using the latest Vue. We’re not married to any specific front-end framework— we use the right tool for the job.\n* You will be responsible for weekly business maintenance needs, as well as ongoing bug fixes. You must be a self-starter, you’ll be responsible for new and continuing projects. \n* We expect you to have an interest in and understanding of current technology and development trends and forward-thinking solutions.\n\nWe'd best be described as \"next generation e-commerce platform & managed services.\" Yes, we are intentional about our low profile. For some insight, check out our activities on our Instagram or Twitter.\n\nWe offer competitive compensation and some great perks. The range for this position is $115,000-$185,000 and we look at factors like your experience and technical aptitude to make our offer.\n\nIf you’d like to be considered, drop a line with a few words telling us why — please, no formal cover letters. Include links to your personal website, portfolio, Github, or any other relevant professional work.\n",
+      "descriptionHtml": "<p>About the Role</p>\n\n<p>Splay is a New York based creative consultancy offering a unique set of services to foster innovation and business growth for companies worldwide. Our proprietary suite of software and managed services are licensed to partners for specialty commerce at enterprise scale.</p>\n\n<p>You will work alongside a very sharp and focused, distributed group of people who will be invested in you and your growth from day one.</p>\n\n<p>We’re looking for a full-stack developer with ~3-4 years of Ruby on Rails proficiency to assist with the development and maintenance of our large-scale, high-volume e-commerce platform.</p>\n\n<p>What we&#39;re expecting from you:</p>\n\n<ul>\n<li>Be comfortable attending to (and improving) a large, existing Rails codebase in response to real-time requirement changes as well as longer-term initiatives. You’ll be writing new code and maintaining a large existing codebase.</li>\n<li>Have an understanding of caching and performance techniques. Any systems that affect users must be designed and implemented with this in mind.</li>\n<li>On the front-end, we actively maintain a wide range of Javascript across our platforms, going back to Backbone, up to newer builds using the latest Vue. We’re not married to any specific front-end framework— we use the right tool for the job.</li>\n<li>You will be responsible for weekly business maintenance needs, as well as ongoing bug fixes. You must be a self-starter, you’ll be responsible for new and continuing projects. </li>\n<li>We expect you to have an interest in and understanding of current technology and development trends and forward-thinking solutions.</li>\n</ul>\n\n<p>We&#39;d best be described as &quot;next generation e-commerce platform &amp; managed services.&quot; Yes, we are intentional about our low profile. For some insight, check out our activities on our Instagram or Twitter.</p>\n\n<p>We offer competitive compensation and some great perks. The range for this position is $115,000-$185,000 and we look at factors like your experience and technical aptitude to make our offer.</p>\n\n<p>If you’d like to be considered, drop a line with a few words telling us why — please, no formal cover letters. Include links to your personal website, portfolio, Github, or any other relevant professional work.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "New York City"
+      ],
+      "remote": false,
+      "remoteLocations": [
+        "Europe",
+        "Japan",
+        "United States",
+        "United Kingdom"
+      ],
+      "skills": [
+        "Ruby",
+        "Redis",
+        "AWS",
+        "RoR"
+      ],
+      "payment": {
+        "salary": "$115k – $185k",
+        "equity": "0.5% – 3.0%"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "417709",
+        "angelListUrl": "https://angel.co/company/splay/jobs/417709-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Front End Engineer",
+      "description": "Splay is growing and seeking a senior experienced front end engineer to help build, maintain, and expand our platforms on desktop and mobile.\n\nYou’ll be working very closely with both design and product team to build and maintain a collection of complex, large scale e-commerce platforms, each with their own share of back office tools.\n\nOur partners are leading global brands with a desire to drive unique customer experiences which are authentic to their values. Your work output must be best-in-class.\n\nSoftware applications in our portfolio are built with front end technologies ranging from Vue to Backbone to plain old Javascript.\n\nYou should have a strong yet non-dogmatic opinion on the best tools for the job, and look forward to re-engineering and upgrading legacy technology when required. Sometimes new tooling or foundational changes may be required, and these decisions will be guided by you in cooperation with other senior technologists.\n\nYou should have experience working with a team of developers and designers on consumer-facing products or large scale media properties.\n\nIt’s a bonus if you’re familiar with Ruby and Rails which powers our platforms.",
+      "descriptionHtml": "<p>Splay is growing and seeking a senior experienced front end engineer to help build, maintain, and expand our platforms on desktop and mobile.</p>\n\n<p>You’ll be working very closely with both design and product team to build and maintain a collection of complex, large scale e-commerce platforms, each with their own share of back office tools.</p>\n\n<p>Our partners are leading global brands with a desire to drive unique customer experiences which are authentic to their values. Your work output must be best-in-class.</p>\n\n<p>Software applications in our portfolio are built with front end technologies ranging from Vue to Backbone to plain old Javascript.</p>\n\n<p>You should have a strong yet non-dogmatic opinion on the best tools for the job, and look forward to re-engineering and upgrading legacy technology when required. Sometimes new tooling or foundational changes may be required, and these decisions will be guided by you in cooperation with other senior technologists.</p>\n\n<p>You should have experience working with a team of developers and designers on consumer-facing products or large scale media properties.</p>\n\n<p>It’s a bonus if you’re familiar with Ruby and Rails which powers our platforms.</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "Miami",
+        "New York City",
+        "Berlin"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$125k – $185k",
+        "equity": "0.5% – 2.0%"
+      },
+      "recruiter": {
+        "title": "Chief Operating Officer",
+        "role": "Employee",
+        "url": "https://angel.co/u/simon-marcus-2",
+        "name": "Simon Marcus",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "701062",
+        "angelListUrl": "https://angel.co/company/splay/jobs/701062-"
+      }
+    }
+  ]
+}

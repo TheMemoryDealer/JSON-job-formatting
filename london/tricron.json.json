@@ -1,0 +1,261 @@
+{
+  "name": "TriCron",
+  "avatar": "https://photos.angel.co/startups/i/4868843-845be7abca82c1d58630930ba2cb5033-medium_jpg.jpg?buster=1509872392",
+  "slogan": "A peer-to-peer cryptocurrency and digital payment system",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.shirepay.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.bitcointhat.com"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@shirecoin"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/shirepay/"
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "Heanor",
+    "Earth",
+    "London"
+  ],
+  "marketTags": [
+    "Cryptocurrency",
+    "Bitcoin",
+    "Bitcoin Mining",
+    "Blockchain / Cryptocurrency"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/darren-conroy",
+      "name": "Darren Conroy",
+      "avatar": "https://photos.angel.co/users/7107439-medium_jpg?1564311699",
+      "bioHtml": "Founder and managing director of a peer-to-peer cryptocurrency and digital payment system fully supported by UK based software company"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4868843",
+    "angelListUrl": "https://angel.co/company/tricron"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Lead Blockchain Developer C++",
+      "description": "ShireCoin are looking the next Vitalik Buterin to build their unique transaction blockchain to revolutionise the cryptocurrency world!\n\nThe successful candidate will also lead the development of supporting products including the 'Fee Free Buy & Sell Marketplace' (eBay clone), 'Online Payment Gateway' (Paypal clone) and 'Cryptocurrency Exchange' (Poloniex clone).\n\nSalary is negotiable with co-founder privileges, vested stock options and prosperous annual profit sharing scheme.\n\nThis exclusive position is open immediately.\n\nThe ideal candidate would have experience in Bitcoin Core or any other distributed ledger or blockchain development.\n\nProject hours include evenings and weekends until late February 2018 and then normal working office hours thereafter.\n\nThis position is remote until late February 2018 and then on-site thereafter.\n\nOur Facebook page can be found at:\nhttps://www.facebook.com/ShireCoin\n\nOur website can be found at:\nhttp://www.shirecoin.com",
+      "descriptionHtml": "<p>ShireCoin are looking the next Vitalik Buterin to build their unique transaction blockchain to revolutionise the cryptocurrency world!</p>\n\n<p>The successful candidate will also lead the development of supporting products including the &#39;Fee Free Buy &amp; Sell Marketplace&#39; (eBay clone), &#39;Online Payment Gateway&#39; (Paypal clone) and &#39;Cryptocurrency Exchange&#39; (Poloniex clone).</p>\n\n<p>Salary is negotiable with co-founder privileges, vested stock options and prosperous annual profit sharing scheme.</p>\n\n<p>This exclusive position is open immediately.</p>\n\n<p>The ideal candidate would have experience in Bitcoin Core or any other distributed ledger or blockchain development.</p>\n\n<p>Project hours include evenings and weekends until late February 2018 and then normal working office hours thereafter.</p>\n\n<p>This position is remote until late February 2018 and then on-site thereafter.</p>\n\n<p>Our Facebook page can be found at:<br>\n<a href=\"https://www.facebook.com/ShireCoin\" target=\"_blank\" rel=\"nofollow\">https://www.facebook.com/ShireCoin</a></p>\n\n<p>Our website can be found at:<br>\n<a href=\"http://www.shirecoin.com\" target=\"_blank\" rel=\"nofollow\">http://www.shirecoin.com</a></p>\n",
+      "position": "cofounder",
+      "experience": 7,
+      "visaSponsorship": false,
+      "locations": [
+        "Earth",
+        "London",
+        "Heanor"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "C++",
+        "Node.js",
+        "C",
+        "Go"
+      ],
+      "payment": {
+        "salary": "£1k – £61k",
+        "equity": "1.0% – 5.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/darren-conroy",
+        "name": "Darren Conroy",
+        "avatar": "https://photos.angel.co/users/7107439-medium_jpg?1564311699"
+      },
+      "refs": {
+        "angelListId": "296137",
+        "angelListUrl": "https://angel.co/company/tricron/jobs/296137-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Lead PHP Developer",
+      "description": "The Shire brand requires an expert PHP developer to join our growing team of polyglot software developers to help maintain and develop existing code.\n\nYou will take and lead all things PHP related and advise on industry best practices.\n\nYou will mainly extend and customize a prebuilt exciting eBay clone ‘Payment with Crypto Only’ based project.\n\nYour reward will be an impressive equity agreement of 5% that has the potential to be valued at a million dollars within the next 4 years.\n\nDesirable Experience\n* WordPress Plugins \n* OpenCart",
+      "descriptionHtml": "<p>The Shire brand requires an expert PHP developer to join our growing team of polyglot software developers to help maintain and develop existing code.</p>\n\n<p>You will take and lead all things PHP related and advise on industry best practices.</p>\n\n<p>You will mainly extend and customize a prebuilt exciting eBay clone ‘Payment with Crypto Only’ based project.</p>\n\n<p>Your reward will be an impressive equity agreement of 5% that has the potential to be valued at a million dollars within the next 4 years.</p>\n\n<p>Desirable Experience</p>\n\n<ul>\n<li>WordPress Plugins </li>\n<li>OpenCart</li>\n</ul>\n",
+      "position": "cofounder",
+      "experience": 7,
+      "visaSponsorship": false,
+      "locations": [
+        "Earth",
+        "London",
+        "Heanor"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "PHP",
+        "PHP Frameworks",
+        "HTML/CSS/PHP/MYSQL"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "5.0% – 5.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/darren-conroy",
+        "name": "Darren Conroy",
+        "avatar": "https://photos.angel.co/users/7107439-medium_jpg?1564311699"
+      },
+      "refs": {
+        "angelListId": "751122",
+        "angelListUrl": "https://angel.co/company/tricron/jobs/751122-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "Lead Graphic Designer",
+      "description": "The Shire brand requires an inspiring creative Graphic Designer to join our growing team of polyglot software developers with the sole aim to professionalise our visual online image to the highest possible level.\n\nYou will shape our professional online presence and rapidly growing suite of cryptography services. You will create the ‘eye candy & wow factor’ of the Shire brand. \n\nYou must be an expert in Photoshop and Illustrator or equivalent. You must be creative and produce designs at the highest level. Turning simplified briefs into amazing designs must be your life's mission. Your current portfolio of designs must be outstanding.\n\nYour reward will be an impressive equity agreement of 5% that has the potential to be valued at a million dollars within the next 4 years.",
+      "descriptionHtml": "<p>The Shire brand requires an inspiring creative Graphic Designer to join our growing team of polyglot software developers with the sole aim to professionalise our visual online image to the highest possible level.</p>\n\n<p>You will shape our professional online presence and rapidly growing suite of cryptography services. You will create the ‘eye candy &amp; wow factor’ of the Shire brand. </p>\n\n<p>You must be an expert in Photoshop and Illustrator or equivalent. You must be creative and produce designs at the highest level. Turning simplified briefs into amazing designs must be your life&#39;s mission. Your current portfolio of designs must be outstanding.</p>\n\n<p>Your reward will be an impressive equity agreement of 5% that has the potential to be valued at a million dollars within the next 4 years.</p>\n",
+      "position": "cofounder",
+      "experience": 7,
+      "visaSponsorship": false,
+      "locations": [
+        "Earth",
+        "London",
+        "Heanor"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Earth",
+        "India",
+        "North America",
+        "Western Europe"
+      ],
+      "skills": [
+        "Graphic Design",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "Adobe",
+        "Graphical User Interface"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "5.0% – 5.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/darren-conroy",
+        "name": "Darren Conroy",
+        "avatar": "https://photos.angel.co/users/7107439-medium_jpg?1564311699"
+      },
+      "refs": {
+        "angelListId": "751127",
+        "angelListUrl": "https://angel.co/company/tricron/jobs/751127-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Lead C# .NET Developer",
+      "description": "The Shire brand requires an expert C# developer to join our growing team of polyglot software developers to help maintain and develop existing code.\n\nYou are required to have expert knowledge of the Microsoft Full stack.\n\nYou will take and lead all things .NET related and advise on industry best practices.\n\nYou will mainly extend and customize the ShirePay payment gateway and create new SOLID based software as requested.\n\nYour reward will be an impressive equity agreement of 5% that has the potential to be valued at a million dollars within the next 4 years.",
+      "descriptionHtml": "<p>The Shire brand requires an expert C# developer to join our growing team of polyglot software developers to help maintain and develop existing code.</p>\n\n<p>You are required to have expert knowledge of the Microsoft Full stack.</p>\n\n<p>You will take and lead all things .NET related and advise on industry best practices.</p>\n\n<p>You will mainly extend and customize the ShirePay payment gateway and create new SOLID based software as requested.</p>\n\n<p>Your reward will be an impressive equity agreement of 5% that has the potential to be valued at a million dollars within the next 4 years.</p>\n",
+      "position": "cofounder",
+      "experience": 7,
+      "visaSponsorship": false,
+      "locations": [
+        "Earth",
+        "London",
+        "Heanor"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "C#",
+        "ASP.NET",
+        "Mvc",
+        "Microsoft Azure",
+        "Microsoft .NET",
+        "AWS"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "5.0% – 5.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/darren-conroy",
+        "name": "Darren Conroy",
+        "avatar": "https://photos.angel.co/users/7107439-medium_jpg?1564311699"
+      },
+      "refs": {
+        "angelListId": "751130",
+        "angelListUrl": "https://angel.co/company/tricron/jobs/751130-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Lead Android iOS Mobile Developer",
+      "description": "The Shire brand requires an expert mobile developer to join our growing team of polyglot software developers to help maintain and develop mobile applications.\n\nYou are required to have expert knowledge of developing either Android, iOS or both (preferred).\n\nYou will take and lead all things mobile related and advise on industry best practices.\n\nYou will mainly extend and customize the ShirePay payment gateway mobile application and create new SOLID based software as requested.\n\nYou will also create and maintain a mobile version of the eBay clone for ‘cryptography only payments’.\n\nYour reward will be an impressive equity agreement of 5% that has the potential to be valued at a million dollars within the next 4 years.",
+      "descriptionHtml": "<p>The Shire brand requires an expert mobile developer to join our growing team of polyglot software developers to help maintain and develop mobile applications.</p>\n\n<p>You are required to have expert knowledge of developing either Android, iOS or both (preferred).</p>\n\n<p>You will take and lead all things mobile related and advise on industry best practices.</p>\n\n<p>You will mainly extend and customize the ShirePay payment gateway mobile application and create new SOLID based software as requested.</p>\n\n<p>You will also create and maintain a mobile version of the eBay clone for ‘cryptography only payments’.</p>\n\n<p>Your reward will be an impressive equity agreement of 5% that has the potential to be valued at a million dollars within the next 4 years.</p>\n",
+      "position": "cofounder",
+      "experience": 7,
+      "visaSponsorship": false,
+      "locations": [
+        "Earth",
+        "London",
+        "Heanor"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "Android",
+        "iOS Development",
+        "Swift",
+        "Android Application Development",
+        "Swift/Objective C/iOS/Xcode"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "5.0% – 5.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/darren-conroy",
+        "name": "Darren Conroy",
+        "avatar": "https://photos.angel.co/users/7107439-medium_jpg?1564311699"
+      },
+      "refs": {
+        "angelListId": "751138",
+        "angelListUrl": "https://angel.co/company/tricron/jobs/751138-"
+      }
+    }
+  ]
+}

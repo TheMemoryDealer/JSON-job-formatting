@@ -1,0 +1,153 @@
+{
+  "name": "Programmai",
+  "avatar": "https://photos.angel.co/startups/i/5108909-c5f4dcbb9f7c76c02dd221f768dc9d2e-medium_jpg.jpg?buster=1540391875",
+  "slogan": "Predictive Marketing & Advertising for E-Commerce Retailers",
+  "description": "SaaS-based solution that consumes first-party customer data & writes/trains ML algorithms to produce daily predictions per customer — Purchase Propensity, Churn Risk, Customer Lifetime Value — to be used in various marketing channels to disrupt how ads are bought, delivered & measured.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.programmai.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/programmai"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/programmai/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "E-Commerce",
+    "Machine Learning",
+    "Digital Marketing",
+    "Deep Learning"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Head of Product",
+      "role": "Employee",
+      "url": "https://angel.co/u/joost-van-heesbeen",
+      "name": "Joost van Heesbeen",
+      "avatar": "https://photos.angel.co/users/9716349-medium_jpg?1563539279",
+      "bioHtml": "After several years of experience in various roles in performance marketing and programmatic advertising, I&#39;ve taken a roll at Programmai to head up Product."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/murray-vanwyk",
+      "name": "Murray Vanwyk",
+      "avatar": "https://photos.angel.co/users/4298937-medium_jpg?1475840075",
+      "bioHtml": "Freelance Personalisation Data Scientist at Metro AG"
+    },
+    {
+      "title": "Sales Operations Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/henry-waters",
+      "name": "Henry Waters",
+      "avatar": "https://photos.angel.co/users/268682-medium_jpg?1441755420",
+      "bioHtml": "Sales/Product manager at <a href=\"https://angel.co/company/programmai\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Programmai</span></a>  <a href=\"https://angel.co/company/transfluent\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Transfluent</span></a>  @leanpark-1  @TechTrust"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5108909",
+    "angelListUrl": "https://angel.co/company/programmai"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Machine Learning Engineer",
+      "description": "Programmai is looking for a Machine Learning Engineer to join its London team in Old Street.  You will work on designing, implementing and maintaining Machine Learning models to predict Purchase Propensity, Customer Lifetime Value and Purchase Attribution for Programmai’s e-commerce clients. You’ll have opportunities to experiment with new technologies and tools and shape the way we develop.\n                                                                  \nYOUR AREA OF RESPONSIBILITIES\n       Design, implement and maintain new Machine Learning models\n       Scale and improve existing services\n       Build data pipelines for new customers and resolve day-to-day issues that may arise\n \nYOUR PROFILE\n       At least a Masters degree in Machine Learning (or equivalent experience) from a top-tier institution\n       Strong practical and theoretical knowledge of modern Machine Learning techniques\n       1+ years of experience developing with Python (& SQL)\n       Ability to quickly respond to challenges, learn new tools and solve coding problems\n       An interest in keeping up with the latest academic research in the field\n       Experience using Google Cloud, Git, Bash and Docker a plus\n \nWHAT WE OFFER                  \n       A fast-growing company with a strong presence, innovative outlook and a unique market position\n       An inspiring and positive environment, working alongside talented, friendly and passionate people\n       A great office location (bike storage, coffee, tea, beer taps & snacks)\n       Competitive salary plus additional performance related rewards\n       25 days' annual leave",
+      "descriptionHtml": "<p>Programmai is looking for a Machine Learning Engineer to join its London team in Old Street.  You will work on designing, implementing and maintaining Machine Learning models to predict Purchase Propensity, Customer Lifetime Value and Purchase Attribution for Programmai’s e-commerce clients. You’ll have opportunities to experiment with new technologies and tools and shape the way we develop.</p>\n\n<p>YOUR AREA OF RESPONSIBILITIES<br>\n       Design, implement and maintain new Machine Learning models<br>\n       Scale and improve existing services<br>\n       Build data pipelines for new customers and resolve day-to-day issues that may arise</p>\n\n<p>YOUR PROFILE<br>\n       At least a Masters degree in Machine Learning (or equivalent experience) from a top-tier institution<br>\n       Strong practical and theoretical knowledge of modern Machine Learning techniques<br>\n       1+ years of experience developing with Python (&amp; SQL)<br>\n       Ability to quickly respond to challenges, learn new tools and solve coding problems<br>\n       An interest in keeping up with the latest academic research in the field<br>\n       Experience using Google Cloud, Git, Bash and Docker a plus</p>\n\n<p>WHAT WE OFFER<br><br>\n       A fast-growing company with a strong presence, innovative outlook and a unique market position<br>\n       An inspiring and positive environment, working alongside talented, friendly and passionate people<br>\n       A great office location (bike storage, coffee, tea, beer taps &amp; snacks)<br>\n       Competitive salary plus additional performance related rewards<br>\n       25 days&#39; annual leave</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Machine Learning",
+        "Neural Networks",
+        "Deep Learning",
+        "Software Engineering, Machine Learning, Natural Language Processing",
+        "Machine Learning Data Science Python R"
+      ],
+      "payment": {
+        "salary": "£35k – £40k",
+        "equity": "0.5% – 1.0%"
+      },
+      "recruiter": {
+        "title": "Founder & CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/dean-murr-1",
+        "name": "Dean Murr",
+        "avatar": "https://photos.angel.co/users/7319339-medium_jpg?1531489913"
+      },
+      "refs": {
+        "angelListId": "313895",
+        "angelListUrl": "https://angel.co/company/programmai/jobs/313895-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Full-Stack Developer",
+      "description": "We are building a Predictive Marketing Platform for brands & retailers, focused on changing the way advertising is bought & measured. \n\nOur client base is growing and we're now looking for a Full-Stack Developer to join us in London. You'll work on specifying & implementing backend services to be the bridge between our Machine Learning Backend and SAAS web app.\n\nYou’ll have ownership over all technical decisions & development processes with the opportunity to experiment with new technologies & tools.\n\nIf scale & complexity excite you, so should Programmai.\n\n\nYOUR RESPONSIBILITIES:\n\n* Spec, implement and maintain new services and APIs\n* Scale and improve existing backend services\n* Work in close cooperation with Machine Learning Engineers and contribute to improving continuous integration practices\n* Define our professional development, recruit and coach new team members, share responsibility for the team and its proper functioning\n\n\nYOUR PROFILE:\n\n* 2+ years of experience building backend infrastructure\n* A passion for building a well-tested code-base, using modern development workflows\n* Demonstrable experience of implementing security best practices\n* Experience building and connecting modern APIs for different clients\n* Experience of provisioning infrastructure and deploying applications using config as code, for example, Puppet, Salt, Chef, Ansible, Terraform.\n* Experience with continuous integration and deploying services with Docker on Kubernetes\n* Comfortable in a Unix/Linux environment\n* Knowledge and understanding of agile concepts and methodologies and working with Git\n* Experience and familiarity with JavaScript frameworks such as Angular, React, Vue and NodeJS\n* A Bachelor’s degree in Computer Science or related technical field or equivalent practical experience\n* Experience working on the Google Cloud Platform\n* Bonus: familiar with NoSQL / GraphQL and Python\n\n\nWHAT WE OFFER:\n* A fast-growing company with a strong presence, innovative outlook and a unique market position\n* An inspiring and positive environment, working alongside talented, friendly and passionate people\n* All the start-up perks  (office dog, bike storage & shower, coffee, tea, beer  & snacks)\n* Competitive salary plus additional performance related rewards\n* 25 days’ annual leave\n\nHit Apply!",
+      "descriptionHtml": "<p>We are building a Predictive Marketing Platform for brands &amp; retailers, focused on changing the way advertising is bought &amp; measured. </p>\n\n<p>Our client base is growing and we&#39;re now looking for a Full-Stack Developer to join us in London. You&#39;ll work on specifying &amp; implementing backend services to be the bridge between our Machine Learning Backend and SAAS web app.</p>\n\n<p>You’ll have ownership over all technical decisions &amp; development processes with the opportunity to experiment with new technologies &amp; tools.</p>\n\n<p>If scale &amp; complexity excite you, so should Programmai.</p>\n\n<p>YOUR RESPONSIBILITIES:</p>\n\n<ul>\n<li>Spec, implement and maintain new services and APIs</li>\n<li>Scale and improve existing backend services</li>\n<li>Work in close cooperation with Machine Learning Engineers and contribute to improving continuous integration practices</li>\n<li>Define our professional development, recruit and coach new team members, share responsibility for the team and its proper functioning</li>\n</ul>\n\n<p>YOUR PROFILE:</p>\n\n<ul>\n<li>2+ years of experience building backend infrastructure</li>\n<li>A passion for building a well-tested code-base, using modern development workflows</li>\n<li>Demonstrable experience of implementing security best practices</li>\n<li>Experience building and connecting modern APIs for different clients</li>\n<li>Experience of provisioning infrastructure and deploying applications using config as code, for example, Puppet, Salt, Chef, Ansible, Terraform.</li>\n<li>Experience with continuous integration and deploying services with Docker on Kubernetes</li>\n<li>Comfortable in a Unix/Linux environment</li>\n<li>Knowledge and understanding of agile concepts and methodologies and working with Git</li>\n<li>Experience and familiarity with JavaScript frameworks such as Angular, React, Vue and NodeJS</li>\n<li>A Bachelor’s degree in Computer Science or related technical field or equivalent practical experience</li>\n<li>Experience working on the Google Cloud Platform</li>\n<li>Bonus: familiar with NoSQL / GraphQL and Python</li>\n</ul>\n\n<p>WHAT WE OFFER:</p>\n\n<ul>\n<li>A fast-growing company with a strong presence, innovative outlook and a unique market position</li>\n<li>An inspiring and positive environment, working alongside talented, friendly and passionate people</li>\n<li>All the start-up perks  (office dog, bike storage &amp; shower, coffee, tea, beer  &amp; snacks)</li>\n<li>Competitive salary plus additional performance related rewards</li>\n<li>25 days’ annual leave</li>\n</ul>\n\n<p>Hit Apply!</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Software Architecture",
+        "Git",
+        "Web Applications",
+        "DevOps",
+        "API",
+        "Security",
+        "React.js"
+      ],
+      "payment": {
+        "salary": "£50k – £70k",
+        "equity": "0.5% – 1.0%"
+      },
+      "recruiter": {
+        "title": "Head of Product",
+        "role": "Employee",
+        "url": "https://angel.co/u/joost-van-heesbeen",
+        "name": "Joost van Heesbeen",
+        "avatar": "https://photos.angel.co/users/9716349-medium_jpg?1563539279"
+      },
+      "refs": {
+        "angelListId": "734199",
+        "angelListUrl": "https://angel.co/company/programmai/jobs/734199-"
+      }
+    }
+  ]
+}

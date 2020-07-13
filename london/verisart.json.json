@@ -1,0 +1,215 @@
+{
+  "name": "Verisart",
+  "avatar": "https://photos.angel.co/startups/i/1007434-dce5c135c1863e605aa91a52d0f42301-medium_jpg.jpg?buster=1454913696",
+  "slogan": "Certify and verify artworks and collectibles ",
+  "description": "Verisart provides a secure way to certify and verify artworks and collectibles.  Our certificates display your works beautifully,  protect your identity and provide a permanent record.  \n\nEach certificate is built using distributed ledger technology,  art provenance metadata standards and linked open data policies.  \n\nBest of all,  they’re free and easy to create in just two steps with the Verisart app.\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.verisart.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/verisart"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/verisart"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/verisart"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Art",
+    "Insurance",
+    "Mobile"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/p/rlnorton-gmail-com",
+      "name": "Robert Norton",
+      "avatar": "https://photos.angel.co/users/897809-medium_jpg?1513188742",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/saatchi-art-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Saatchi Art</span></a>, <a href=\"https://angel.co/company/verisart\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Verisart</span></a> • Worked at <a href=\"https://angel.co/company/king-com\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">King.com</span></a>, @aol • Studied at <a href=\"https://angel.co/university-of-oxford-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Oxford</span></a>"
+    },
+    {
+      "title": "QA Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/valeesha-coutinho",
+      "name": "Valeesha Coutinho ",
+      "avatar": "https://photos.angel.co/users/10329594-medium_jpg?1575373374",
+      "bioHtml": "Works at MyTutor. Experience with Adobe After Effects, Adobe Photoshop, SQL, webapp and app testing.\nWent to University of Aberdeen, Middlesex University Dubai"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "1007434",
+    "angelListUrl": "https://angel.co/company/verisart"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "CTO/VP Engineering",
+      "description": "We’re looking for an exceptional hands on CTO to lead our rapidly growing development team at Verisart.  You'll be able be able to switch between high level technical architecture to product and business requirements as well as creating a positive environment where junior developers can grow.\n\n\nYou'll be familiar with the LEAN start-up mentality of moving fast and breaking things and be a passionate ‘can do-er’ with an positive attitude.\n\nVerisart is a VC funded digital certification platform applying blockchain technology to transform the arts and collectibles market. We believe in giving people the power to run real time verification of provenance and new ways to store and transfer value for the works they value. We’re building a decentralized title registry and exploring new types of ownership and methods of cultural participation. For more information, please visit ​https://verisart.com\n\n\nResponsibilities:\n\n- Lead the architectural design & work closely with the CEO and Head of Product to align the platform’s development with the market need.\n- Attract outstanding talent to join the team.\n- Apply testing principles to improve product robustness and co-ordinate ongoing refactoring and improvement of the codebase.\n- Enjoy working within an agile methodology, driven by weekly sprints.\n\n\nMinimum qualifications, experience and skills:\n\n- Passionate about Verisart mission and transformative potential of blockchain technology.\n- High level experience with Go, React and Postgres\n- Commercial experience building and scaling a technology start up.\n- Expertise in creating high performing teams with exceptional delivery track records.\n- Appreciate that every team is different and all individuals within that team are different once again \n– Experience in LEAN, Scrum, Scrumban, Kanban etc.\n- Value mindset and delivery over excess process approach.\n- Strong technical documentation track record\n- Ability to explain technical requirements to technical & non technical people \n- Clear and concise communication to instill best practice development ethos\n- Passionate about TDD and unit testing\n- Passionate about new technological developments within the industry\n- Happy to speak at events and present to the tech community\n- Computer Science degree\n\nDesired qualifications, experience and skills:\n\n- Experience with Bitcoin Blockchain or creating Solidity smart contracts.\n- Designing and maintaining RESTful APIs\n- Designing databases and technical architecture\n- Designing and implementing microservices architecture\n- Experience with Heroku, AWS or Google Cloud\n- Understanding of DevOps best practices and technologies. \n- Experience of founding a tech start-up, leading a tech start-up through multiple funding rounds would be advantageous. \n\nWhat we offer:\n\n- Competitive salary and stock options with opportunity to shape the use of blockchain technology for the art & collectibles market.\n- Beautiful, bright workspace in Mayfair, London with good transport links.\n- Immediate start date.",
+      "descriptionHtml": "<p>We’re looking for an exceptional hands on CTO to lead our rapidly growing development team at Verisart.  You&#39;ll be able be able to switch between high level technical architecture to product and business requirements as well as creating a positive environment where junior developers can grow.</p>\n\n<p>You&#39;ll be familiar with the LEAN start-up mentality of moving fast and breaking things and be a passionate ‘can do-er’ with an positive attitude.</p>\n\n<p>Verisart is a VC funded digital certification platform applying blockchain technology to transform the arts and collectibles market. We believe in giving people the power to run real time verification of provenance and new ways to store and transfer value for the works they value. We’re building a decentralized title registry and exploring new types of ownership and methods of cultural participation. For more information, please visit ​<a href=\"https://verisart.com\" target=\"_blank\" rel=\"nofollow\">https://verisart.com</a></p>\n\n<p>Responsibilities:</p>\n\n<ul>\n<li>Lead the architectural design &amp; work closely with the CEO and Head of Product to align the platform’s development with the market need.</li>\n<li>Attract outstanding talent to join the team.</li>\n<li>Apply testing principles to improve product robustness and co-ordinate ongoing refactoring and improvement of the codebase.</li>\n<li>Enjoy working within an agile methodology, driven by weekly sprints.</li>\n</ul>\n\n<p>Minimum qualifications, experience and skills:</p>\n\n<ul>\n<li>Passionate about Verisart mission and transformative potential of blockchain technology.</li>\n<li>High level experience with Go, React and Postgres</li>\n<li>Commercial experience building and scaling a technology start up.</li>\n<li>Expertise in creating high performing teams with exceptional delivery track records.</li>\n<li>Appreciate that every team is different and all individuals within that team are different once again \n– Experience in LEAN, Scrum, Scrumban, Kanban etc.</li>\n<li>Value mindset and delivery over excess process approach.</li>\n<li>Strong technical documentation track record</li>\n<li>Ability to explain technical requirements to technical &amp; non technical people </li>\n<li>Clear and concise communication to instill best practice development ethos</li>\n<li>Passionate about TDD and unit testing</li>\n<li>Passionate about new technological developments within the industry</li>\n<li>Happy to speak at events and present to the tech community</li>\n<li>Computer Science degree</li>\n</ul>\n\n<p>Desired qualifications, experience and skills:</p>\n\n<ul>\n<li>Experience with Bitcoin Blockchain or creating Solidity smart contracts.</li>\n<li>Designing and maintaining RESTful APIs</li>\n<li>Designing databases and technical architecture</li>\n<li>Designing and implementing microservices architecture</li>\n<li>Experience with Heroku, AWS or Google Cloud</li>\n<li>Understanding of DevOps best practices and technologies. </li>\n<li>Experience of founding a tech start-up, leading a tech start-up through multiple funding rounds would be advantageous. </li>\n</ul>\n\n<p>What we offer:</p>\n\n<ul>\n<li>Competitive salary and stock options with opportunity to shape the use of blockchain technology for the art &amp; collectibles market.</li>\n<li>Beautiful, bright workspace in Mayfair, London with good transport links.</li>\n<li>Immediate start date.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "PostgreSQL",
+        "Blockchain",
+        "Microservices",
+        "RESTful API",
+        "Go"
+      ],
+      "payment": {
+        "salary": "£90k – £125k",
+        "equity": "0.5% – 3.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Investor",
+        "url": "https://angel.co/p/rlnorton-gmail-com",
+        "name": "Robert Norton",
+        "avatar": "https://photos.angel.co/users/897809-medium_jpg?1513188742"
+      },
+      "refs": {
+        "angelListId": "595433",
+        "angelListUrl": "https://angel.co/company/verisart/jobs/595433-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Lead Blockchain Engineer",
+      "description": "Who we are:\nVerisart is a VC funded digital certification platform applying blockchain technology to transform the arts and collectibles market. We believe in giving people the power to run real time verification of provenance and new ways to store and transfer value.  We’re building a decentralized title registry and exploring new types of ownership and methods of cultural participation.  For more information, please visit https://verisart.com\n\nWhat we’re looking for:\nWe’re seeking a Lead Blockchain Engineer with a string security mindset to develop the Verisart platform and join our rapidly growing team in Mayfair, London. You’ll be our inspirational blockchain leader & guru and be passionate about hands on development, fixing problems, shipping code, improving performance and up-skilling new developers.\n\nResponsibilities:\n- Leading our blockchain applications and development, you’ll work closely with the CTO on all blockchain, applied cryptography and security related features. \n- Share responsibility for architectural decisions and take the lead on blockchain technology choice decisions, with the CTO and CEO. \nBeing the go to guru for any security challenges, blockers or impediments across the tech stack and will be the sort of person that relishes fixing a complex problem.\nLeading the R&D for blockchain applications and software integrations.\nMentoring developers, instilling best practice development principles, making sure all code is well tested and TDD is followed.\n\nMinimum qualifications, experience and skills:\n- Excited by Verisart mission & transformative potential of blockchain technology.\n- Commercial experience with Bitcoin Blockchain or creating Solidity smart contracts.\n- Experience with Proof of Stake or Proof of existence blockchain projects\n- Passionate about new technological developments.\n- Commercial experience building and scaling a technology start up, working in small development teams, or being the sole developer on a project\n- Logical problem solving mindset with ability to write security conscious code\n- Extensive experience designing, maintaining and integrating 3rd party APIs\n- Passionate about TDD and unit testing\n\nDesired qualifications, experience and skills:\n- Computer Science degree (but relevant experience also valid)\n- Experience in Golang and PostgresSQL\n- Experience with microservices architecture\n- Experience with Heroku, AWS or Google Cloud\n- Understanding of DevOps best practices and technologies.\n\nWhat we offer:\n- Competitive salary and stock options with opportunity to shape the use of blockchain technology for the art & collectibles market.\n- Beautiful, bright workspace in Mayfair, London with good transport links\n- Immediate start date",
+      "descriptionHtml": "<p>Who we are:<br>\nVerisart is a VC funded digital certification platform applying blockchain technology to transform the arts and collectibles market. We believe in giving people the power to run real time verification of provenance and new ways to store and transfer value.  We’re building a decentralized title registry and exploring new types of ownership and methods of cultural participation.  For more information, please visit <a href=\"https://verisart.com\" target=\"_blank\" rel=\"nofollow\">https://verisart.com</a></p>\n\n<p>What we’re looking for:<br>\nWe’re seeking a Lead Blockchain Engineer with a string security mindset to develop the Verisart platform and join our rapidly growing team in Mayfair, London. You’ll be our inspirational blockchain leader &amp; guru and be passionate about hands on development, fixing problems, shipping code, improving performance and up-skilling new developers.</p>\n\n<p>Responsibilities:</p>\n\n<ul>\n<li>Leading our blockchain applications and development, you’ll work closely with the CTO on all blockchain, applied cryptography and security related features. </li>\n<li>Share responsibility for architectural decisions and take the lead on blockchain technology choice decisions, with the CTO and CEO. \nBeing the go to guru for any security challenges, blockers or impediments across the tech stack and will be the sort of person that relishes fixing a complex problem.\nLeading the R&amp;D for blockchain applications and software integrations.\nMentoring developers, instilling best practice development principles, making sure all code is well tested and TDD is followed.</li>\n</ul>\n\n<p>Minimum qualifications, experience and skills:</p>\n\n<ul>\n<li>Excited by Verisart mission &amp; transformative potential of blockchain technology.</li>\n<li>Commercial experience with Bitcoin Blockchain or creating Solidity smart contracts.</li>\n<li>Experience with Proof of Stake or Proof of existence blockchain projects</li>\n<li>Passionate about new technological developments.</li>\n<li>Commercial experience building and scaling a technology start up, working in small development teams, or being the sole developer on a project</li>\n<li>Logical problem solving mindset with ability to write security conscious code</li>\n<li>Extensive experience designing, maintaining and integrating 3rd party APIs</li>\n<li>Passionate about TDD and unit testing</li>\n</ul>\n\n<p>Desired qualifications, experience and skills:</p>\n\n<ul>\n<li>Computer Science degree (but relevant experience also valid)</li>\n<li>Experience in Golang and PostgresSQL</li>\n<li>Experience with microservices architecture</li>\n<li>Experience with Heroku, AWS or Google Cloud</li>\n<li>Understanding of DevOps best practices and technologies.</li>\n</ul>\n\n<p>What we offer:</p>\n\n<ul>\n<li>Competitive salary and stock options with opportunity to shape the use of blockchain technology for the art &amp; collectibles market.</li>\n<li>Beautiful, bright workspace in Mayfair, London with good transport links</li>\n<li>Immediate start date</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "PostgreSQL",
+        "Go (Golang)",
+        "Solidity",
+        "Blockchain",
+        "Solidity (Ethereum)"
+      ],
+      "payment": {
+        "salary": "£60k – £100k",
+        "equity": "0.25% – 1.5%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Investor",
+        "url": "https://angel.co/p/rlnorton-gmail-com",
+        "name": "Robert Norton",
+        "avatar": "https://photos.angel.co/users/897809-medium_jpg?1513188742"
+      },
+      "refs": {
+        "angelListId": "596257",
+        "angelListUrl": "https://angel.co/company/verisart/jobs/596257-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Engineer",
+      "description": "Full Stack Engineer – London\r\n\r\n**What we’re looking for**\r\nAn experienced Full Stack Engineer with a product mindset and an active interest in the potential of blockchain technology to solve interesting problems. \r\n\r\n**Who you are**\r\n* A curious and versatile engineer who can move easily between front and backend to deliver new functionality end-to-end\r\n* Accountable and take ownership of your work from start-to-finish and beyond\r\n* Passionate about product and the impact of your code on end customers\r\n* Someone who enjoys collaboration with product, design and commercial colleagues in a cross-functional team \r\n\r\n**Who we are**\r\nVerisart is a digital certification platform that uses blockchain technology to transform the arts and collectables market. We were the first in the world to offer this service and we are growing our small team in London to take things to the next level. We recently closed a $2.5m funding round. We believe in giving people the power to run real-time verification of provenance and new ways to store and transfer value. We’re exploring new types of ownership and methods of cultural participation. For more information, please visit https://verisart.com. \r\n\r\n**Required skills**\r\n* 3+ years experience with any of the following languages: Go, Javascript, C#, Java, Kotlin\r\n* Experience designing and maintaining RESTful APIs in production\r\n* Working with relational databases, preferably Postgres\r\n* Familiarity with integrating with third-party services and understanding the potential pitfalls\r\n\r\n**Nice to Have**\r\nExperience with: \r\n* Different testing approaches\r\n* Cloud environments (Heroku, AWS or Google Cloud). Heroku is our platform of choice.\r\n* Build automation (Docker, CI/CD, alerting, monitoring)\r\n* Blockchain technology (Ethereum/Bitcoin)\r\n* Security and cryptography is an asset\r\n* JavaScript/React\r\nYou might have: A degree in computer science or a related field\r\n\r\n**Responsibilities**\r\n* Building Verisart’s new digital certification platform\r\n* Working with the product owner and designers to come up with customer solutions\r\n* Bringing best practice examples that support the team achieving their ambitions\r\n\r\n**What we offer**\r\n* Competitive salary and stock options\r\n* Opportunity to shape the use of blockchain technology for the art &amp; collectables market\r\n* Bright workspace in Mayfair, London with good transport links\r\n* Immediate start date",
+      "descriptionHtml": "<p>Full Stack Engineer – London</p>\n\n<p><strong>What we’re looking for</strong><br>\nAn experienced Full Stack Engineer with a product mindset and an active interest in the potential of blockchain technology to solve interesting problems. </p>\n\n<p><strong>Who you are</strong></p>\n\n<ul>\n<li>A curious and versatile engineer who can move easily between front and backend to deliver new functionality end-to-end</li>\n<li>Accountable and take ownership of your work from start-to-finish and beyond</li>\n<li>Passionate about product and the impact of your code on end customers</li>\n<li>Someone who enjoys collaboration with product, design and commercial colleagues in a cross-functional team </li>\n</ul>\n\n<p><strong>Who we are</strong><br>\nVerisart is a digital certification platform that uses blockchain technology to transform the arts and collectables market. We were the first in the world to offer this service and we are growing our small team in London to take things to the next level. We recently closed a $2.5m funding round. We believe in giving people the power to run real-time verification of provenance and new ways to store and transfer value. We’re exploring new types of ownership and methods of cultural participation. For more information, please visit <a href=\"https://verisart.com\" target=\"_blank\" rel=\"nofollow\">https://verisart.com</a>. </p>\n\n<p><strong>Required skills</strong></p>\n\n<ul>\n<li>3+ years experience with any of the following languages: Go, Javascript, C#, Java, Kotlin</li>\n<li>Experience designing and maintaining RESTful APIs in production</li>\n<li>Working with relational databases, preferably Postgres</li>\n<li>Familiarity with integrating with third-party services and understanding the potential pitfalls</li>\n</ul>\n\n<p><strong>Nice to Have</strong><br>\nExperience with: </p>\n\n<ul>\n<li>Different testing approaches</li>\n<li>Cloud environments (Heroku, AWS or Google Cloud). Heroku is our platform of choice.</li>\n<li>Build automation (Docker, CI/CD, alerting, monitoring)</li>\n<li>Blockchain technology (Ethereum/Bitcoin)</li>\n<li>Security and cryptography is an asset</li>\n<li>JavaScript/React\nYou might have: A degree in computer science or a related field</li>\n</ul>\n\n<p><strong>Responsibilities</strong></p>\n\n<ul>\n<li>Building Verisart’s new digital certification platform</li>\n<li>Working with the product owner and designers to come up with customer solutions</li>\n<li>Bringing best practice examples that support the team achieving their ambitions</li>\n</ul>\n\n<p><strong>What we offer</strong></p>\n\n<ul>\n<li>Competitive salary and stock options</li>\n<li>Opportunity to shape the use of blockchain technology for the art &amp; collectables market</li>\n<li>Bright workspace in Mayfair, London with good transport links</li>\n<li>Immediate start date</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "PostgreSQL",
+        "Heroku",
+        "Spring",
+        "Neo4J",
+        "React.js",
+        "Kotlin",
+        "Go (Golang)",
+        "React Native",
+        "Go"
+      ],
+      "payment": {
+        "salary": "£55k – £85k",
+        "equity": "0.25% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Investor",
+        "url": "https://angel.co/p/rlnorton-gmail-com",
+        "name": "Robert Norton",
+        "avatar": "https://photos.angel.co/users/897809-medium_jpg?1513188742"
+      },
+      "refs": {
+        "angelListId": "640023",
+        "angelListUrl": "https://angel.co/company/verisart/jobs/640023-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "Product Designer",
+      "description": "As the first designer to join the team, you will be shaping the entire customer experience and visual language of our art verification service. You will be designing cross-platform on web and mobile app, first working closely with the CEO and Head of Product to define our core journeys for individual artists creating certificates for their own artworks. \n\nYou’ll work on all aspects of the product design from early stage user research to iteration and optimisation:\n\n- Conduct research to ensure we deeply understand our customers’ job to be done \n- Design the user interaction for key functionality using recognised design patterns\n- Define the product’s visual language and style the UI layer that makes the experience genuinely enjoyable for users\n- Build prototypes to test new features, flows and designs\n- Communicate with stakeholders through a wide variety of design artifacts and clearly\n-presented test results\n- Collaborate closely with developers to define and refine their work and quickly tackle blocking questions that come up during implementation\n- Retrieve and analyse data on key customer experience metrics to determine where pain points are and helping the team decide which ones to focus on\nIterate on existing designs and flows to drive specific user behaviours and outcomes\n- Influence the BVI to ensure consistency between marketing and in-product experience\n- Apply good practise and to scale up to serve increasingly more customers\n- Establish a strong culture of design in our growing team\n\nThis is a full-time role based in our office in Mayfair, London alongside the rest of the product team. Initially, the focus will be on getting our product ready for full public release, so there will be lots to do. You’ll be directly involved with defining the product strategy and go-to-market plan. There is tremendous potential to grow and flex your design muscles in this role and develop skills and experience to take on a senior or lead product design role.\n\nAbout you\nYou’re a mid-level product designer with 3-5 years experience., but you are ambitious and driven. You’re comfortable context switching between UX and UI and between desktop and mobile web. You can demonstrate how your previous designs have driven specific customer behaviours with measurable results. This might be registration, creation, conversion or other actions. Ideally, you can quantify the contribution of your design towards a specific goal.\n\nYou are proficient with a suite of design tools, especially Sketch and Figma, and are comfortable using Jira as part of an agile product team. You are resilient and up for the challenge of helping the team forge new territory in the art verification and blockchain space. You have strong and well-reasoned opinions about design based on your previous experience and data, but you’re also flexible and open with a willingness to pivot when new information comes to light.\n\nWho we are\nVerisart is a VC funded digital certification platform applying blockchain technology to transform the arts and collectibles market. We believe in giving people the power to run real time verification of provenance and new ways to store and transfer value. We’re building a decentralized title registry and exploring new types of ownership and methods of cultural participation. For more information, please visit https://verisart.com.\n\nBenefits\nCompetitive salary and stock options with opportunity to shape the use of blockchain technology for the art & collectibles market. Lively workspace in central London.",
+      "descriptionHtml": "<p>As the first designer to join the team, you will be shaping the entire customer experience and visual language of our art verification service. You will be designing cross-platform on web and mobile app, first working closely with the CEO and Head of Product to define our core journeys for individual artists creating certificates for their own artworks. </p>\n\n<p>You’ll work on all aspects of the product design from early stage user research to iteration and optimisation:</p>\n\n<ul>\n<li>Conduct research to ensure we deeply understand our customers’ job to be done </li>\n<li>Design the user interaction for key functionality using recognised design patterns</li>\n<li>Define the product’s visual language and style the UI layer that makes the experience genuinely enjoyable for users</li>\n<li>Build prototypes to test new features, flows and designs</li>\n<li>Communicate with stakeholders through a wide variety of design artifacts and clearly\n-presented test results</li>\n<li>Collaborate closely with developers to define and refine their work and quickly tackle blocking questions that come up during implementation</li>\n<li>Retrieve and analyse data on key customer experience metrics to determine where pain points are and helping the team decide which ones to focus on\nIterate on existing designs and flows to drive specific user behaviours and outcomes</li>\n<li>Influence the BVI to ensure consistency between marketing and in-product experience</li>\n<li>Apply good practise and to scale up to serve increasingly more customers</li>\n<li>Establish a strong culture of design in our growing team</li>\n</ul>\n\n<p>This is a full-time role based in our office in Mayfair, London alongside the rest of the product team. Initially, the focus will be on getting our product ready for full public release, so there will be lots to do. You’ll be directly involved with defining the product strategy and go-to-market plan. There is tremendous potential to grow and flex your design muscles in this role and develop skills and experience to take on a senior or lead product design role.</p>\n\n<p>About you<br>\nYou’re a mid-level product designer with 3-5 years experience., but you are ambitious and driven. You’re comfortable context switching between UX and UI and between desktop and mobile web. You can demonstrate how your previous designs have driven specific customer behaviours with measurable results. This might be registration, creation, conversion or other actions. Ideally, you can quantify the contribution of your design towards a specific goal.</p>\n\n<p>You are proficient with a suite of design tools, especially Sketch and Figma, and are comfortable using Jira as part of an agile product team. You are resilient and up for the challenge of helping the team forge new territory in the art verification and blockchain space. You have strong and well-reasoned opinions about design based on your previous experience and data, but you’re also flexible and open with a willingness to pivot when new information comes to light.</p>\n\n<p>Who we are<br>\nVerisart is a VC funded digital certification platform applying blockchain technology to transform the arts and collectibles market. We believe in giving people the power to run real time verification of provenance and new ways to store and transfer value. We’re building a decentralized title registry and exploring new types of ownership and methods of cultural participation. For more information, please visit <a href=\"https://verisart.com\" target=\"_blank\" rel=\"nofollow\">https://verisart.com</a>.</p>\n\n<p>Benefits<br>\nCompetitive salary and stock options with opportunity to shape the use of blockchain technology for the art &amp; collectibles market. Lively workspace in central London.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Adobe CC, Sketch, InVision, Figma"
+      ],
+      "payment": {
+        "salary": "£40k – £65k",
+        "equity": "0.05% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Investor",
+        "url": "https://angel.co/p/rlnorton-gmail-com",
+        "name": "Robert Norton",
+        "avatar": "https://photos.angel.co/users/897809-medium_jpg?1513188742"
+      },
+      "refs": {
+        "angelListId": "694541",
+        "angelListUrl": "https://angel.co/company/verisart/jobs/694541-"
+      }
+    }
+  ]
+}

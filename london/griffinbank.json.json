@@ -1,0 +1,142 @@
+{
+  "name": "Griffin",
+  "avatar": "https://photos.angel.co/startups/i/3077210-f0a69cb4c849c7dd02483fd9f7c46c6f-medium_jpg.jpg?buster=1527867071",
+  "slogan": "The bank as a platform",
+  "description": "We provide a platform for creating and managing bank accounts and payments, with an integrated compliance engine. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://griffin.sh"
+    },
+    {
+      "type": "blog",
+      "url": "http://blog.griffin.sh"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/griffinbank"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "United Kingdom"
+  ],
+  "marketTags": [
+    "Financial Technology",
+    "Banking"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 3100000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1580169600,
+        "valuation": 0
+      },
+      {
+        "type": "Pre-Seed",
+        "closedAt": 1524960000,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/allen-rohner",
+      "name": "Allen Rohner",
+      "avatar": "https://photos.angel.co/users/160133-medium_jpg?1405538002",
+      "bioHtml": "Founder, CTO, <a href=\"https://angel.co/company/circleci\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">CircleCI</span></a> . Machine Learning background. Clojure contributor. Three-time entrepreneur. "
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/venantius",
+      "name": "David Jarvis",
+      "avatar": "https://photos.angel.co/users/1396802-medium_jpg?1580827041",
+      "bioHtml": "Building a bank as a platform for fintechs, startups, and corporates in the UK."
+    },
+    {
+      "title": "Chief of Staff",
+      "role": "Employee",
+      "url": "https://angel.co/u/phoebe-wallis",
+      "name": "Phoebe Wallis",
+      "avatar": "https://photos.angel.co/users/2112704-medium_jpg?1459807500",
+      "bioHtml": "Chief of Staff at Liberis Group"
+    }
+  ],
+  "perks": [
+    {
+      "category": "work_from_home",
+      "title": "Work from home"
+    },
+    {
+      "category": "generous_vacation",
+      "title": "25 days off + annual holidays"
+    },
+    {
+      "category": "equity",
+      "title": "Generous stock option grants"
+    },
+    {
+      "category": "healthcare",
+      "title": "Private medical insurance"
+    }
+  ],
+  "refs": {
+    "angelListId": "3077210",
+    "angelListUrl": "https://angel.co/company/griffinbank"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Backend engineer",
+      "description": "As a backend engineer you'll be responsible for building out our core banking systems, which are responsible for handling compliance as well as managing accounts and transactions. As a wholesale bank, we're building for scale from day one - our infrastructure has to scale to tens of thousands of requests per second, with all systems fully correct and available. We'll also need fully-functional integrations with a half-dozen different payment rails such as Faster Payments, Direct Debit, CHAPS, and various card networks.\n\nOur technology stack is Clojure, Kafka, Postgres, and Kubernetes.\nQualifications\n\nSome prior Clojure experience is required. Experience with the other parts of our stack is preferred, but not required. Similarly, relevant domain experience in payments or core banking systems is a plus, but not mandatory.\n\nNO RECRUITERS. NO AGENCIES. SERIOUSLY.",
+      "descriptionHtml": "<p>As a backend engineer you&#39;ll be responsible for building out our core banking systems, which are responsible for handling compliance as well as managing accounts and transactions. As a wholesale bank, we&#39;re building for scale from day one - our infrastructure has to scale to tens of thousands of requests per second, with all systems fully correct and available. We&#39;ll also need fully-functional integrations with a half-dozen different payment rails such as Faster Payments, Direct Debit, CHAPS, and various card networks.</p>\n\n<p>Our technology stack is Clojure, Kafka, Postgres, and Kubernetes.<br>\nQualifications</p>\n\n<p>Some prior Clojure experience is required. Experience with the other parts of our stack is preferred, but not required. Similarly, relevant domain experience in payments or core banking systems is a plus, but not mandatory.</p>\n\n<p>NO RECRUITERS. NO AGENCIES. SERIOUSLY.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "PostgreSQL",
+        "Clojure",
+        "Amazon Web Services",
+        "Kafka",
+        "Kubernetes"
+      ],
+      "payment": {
+        "salary": "£55k – £65k",
+        "equity": "0.3% – 0.5%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/venantius",
+        "name": "David Jarvis",
+        "avatar": "https://photos.angel.co/users/1396802-medium_jpg?1580827041"
+      },
+      "refs": {
+        "angelListId": "607686",
+        "angelListUrl": "https://angel.co/company/griffinbank/jobs/607686-"
+      }
+    }
+  ]
+}

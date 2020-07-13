@@ -1,0 +1,101 @@
+{
+  "name": "Updraft",
+  "avatar": "https://photos.angel.co/startups/i/6824065-b17a02cd8701b8d885b10c9153bc8f4b-medium_jpg.jpg?buster=1551380036",
+  "slogan": "Clear your overdraft and Debt",
+  "description": "Replace your expensive overdraft with Updraft and chip away your debt. Updraft predicts your spending and alerts you before you overspend. If you need a little extra, we’ll help you avoid bank fees with a low-interest loan. Help build an ethical replacement to bank overdrafts.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://updraft.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Fin Tech",
+    "Consumer Lending",
+    "Personal Finance",
+    "Financial Services"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/aseem-munshi-2",
+      "name": "Aseem Munshi",
+      "avatar": "https://photos.angel.co/users/9006347-medium_jpg?1551380762",
+      "bioHtml": "Founder-CEO <span><span class=\"at_symbol\">@</span><span class=\"at_name\">UpDraft</span></span>. Ran Cards, Loans <a href=\"https://angel.co/company/hsbc\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">HSBC</span></a>  UK. Significant experience in consumer banking across US, UK and Asia pacific markets."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/millarm",
+      "name": "Matt Millar",
+      "avatar": "https://photos.angel.co/users/5554448-medium_jpg?1485336803",
+      "bioHtml": "Does fun stuff on mobile, tv and the internets.  Views are my employers, not my own.  My views are much funnier."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6824065",
+    "angelListUrl": "https://angel.co/company/updraft-3"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Software Lead",
+      "description": "Opinionated?   Passionate about high quality software?   Want an opportunity to embed the best tools and practices at the earliest stage of a consumer fintech application?   This is the role for you.\n\nUpdraft are hiring a full stack lead to help solve the problem of expensive consumer debt for millennials.   \n\nWorking directly with the founding team, be responsible for leading the creation of a high quality consumer application that helps people save money and get out of debt.\n\nMust be comfortable building high quality software hands on, and also working with other remote developers, and building and scaling a team and software stack that can be used daily by millions of people, and handles real money transactions.\n\nWe are building a serverless micro services stack with a React Native front end with the best tools and architecture to enable the rapid iteration and delivery of high quality consumer applications.   If you have opinions on how best to do this, then apply - this is an opportunity to demonstrate how to create a best in class mobile application.\n\nAn opportunity to be involved in creation of the next generation of fintech business, at the earliest stage, with this fully funded startup.",
+      "descriptionHtml": "<p>Opinionated?   Passionate about high quality software?   Want an opportunity to embed the best tools and practices at the earliest stage of a consumer fintech application?   This is the role for you.</p>\n\n<p>Updraft are hiring a full stack lead to help solve the problem of expensive consumer debt for millennials.   </p>\n\n<p>Working directly with the founding team, be responsible for leading the creation of a high quality consumer application that helps people save money and get out of debt.</p>\n\n<p>Must be comfortable building high quality software hands on, and also working with other remote developers, and building and scaling a team and software stack that can be used daily by millions of people, and handles real money transactions.</p>\n\n<p>We are building a serverless micro services stack with a React Native front end with the best tools and architecture to enable the rapid iteration and delivery of high quality consumer applications.   If you have opinions on how best to do this, then apply - this is an opportunity to demonstrate how to create a best in class mobile application.</p>\n\n<p>An opportunity to be involved in creation of the next generation of fintech business, at the earliest stage, with this fully funded startup.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£70k – £90k",
+        "equity": "0.5% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/millarm",
+        "name": "Matt Millar",
+        "avatar": "https://photos.angel.co/users/5554448-medium_jpg?1485336803"
+      },
+      "refs": {
+        "angelListId": "677031",
+        "angelListUrl": "https://angel.co/company/updraft-3/jobs/677031-"
+      }
+    }
+  ]
+}

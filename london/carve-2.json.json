@@ -1,0 +1,381 @@
+{
+  "name": "Carve",
+  "avatar": "https://photos.angel.co/startups/i/7326967-e86a94c2dfa913c0a5e606a9c7d5e007-medium_jpg.jpg?buster=1574235288",
+  "slogan": "Helping world-leading organizations use social to build relationships",
+  "description": "Founded in 2006 and headquartered in London and New York City, Carve is a social media agency that helps some of the world’s leading organizations #GetSocial\n\n[Strategy] ⇒ Social Strategy will turn objectives, opportunities and risks into a compelling plan\n[Insights] ⇒ Social Data will help find the right audience and understand what resonates most.\n[Activation] ⇒ Social Activation will help win people's attention, start relationships and inspire action.\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://carve.social/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/carvesocial"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/carvesocial"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/carvesocial/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "New York City"
+  ],
+  "marketTags": [
+    "Europe",
+    "United States",
+    "Advertising",
+    "Social Media Marketing",
+    "Big Data Analytics"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/paul-harrison-28",
+      "name": "Paul Harrison",
+      "avatar": "https://photos.angel.co/users/10277585-medium_jpg?1574236342",
+      "bioHtml": "Worked in digital for 20 years! Worked at taps.com in 1998, ran the digital divisions of two boutique UK advertising agencies, and am now scaling Carve. "
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/judy-wallace-2",
+      "name": "Judy Wallace",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7326967",
+    "angelListUrl": "https://angel.co/company/carve-2"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "(Barcelona Hub) Javascript / Node.js / Typescript Backend Developer",
+      "description": "We are seeking a senior Javascript / Node.js / Typescript developer with excellent technical understanding of these domains, at least several years of experience are required. The job is a remote full time position working on various Microservices written in mostly JS (Node.js, Angular.js) and Typescript.\n\nTechnical Requirements:  \n*********************************\n• Excellent and proven knowledge of Javascript / Node.js / Typescript\n• Good knowledge of the following technologies : \n-- Redshift \n-- Sequelize / SQL\n-- Docker\n• Proficiency in Git, JIRA and Teamcity are a plus\n• 4+ years in a production environment a plus\n\nResponsibilities:  \n************************\n• Set Up, configure maintain and enhance proper infrastructure to support \n-- Data analytics environment \n-- Campaign management system\n• Maintain and enhance large scale API system \n• Code REST interfaces to support various internal / external requests\n• Code Javascript / Node.js / Typescript based microservices\n• Code Unit / Integration tests to allow for embedding in Continuous integration service\n• Drive feature engineering and experimentation to improve performance of our various algorithms \n• Evaluate the technical tradeoffs of every decision",
+      "descriptionHtml": "<p>We are seeking a senior Javascript / Node.js / Typescript developer with excellent technical understanding of these domains, at least several years of experience are required. The job is a remote full time position working on various Microservices written in mostly JS (Node.js, Angular.js) and Typescript.</p>\n\n<p>Technical Requirements:  </p>\n\n<hr>\n\n<p>• Excellent and proven knowledge of Javascript / Node.js / Typescript<br>\n• Good knowledge of the following technologies : <br>\n-- Redshift <br>\n-- Sequelize / SQL<br>\n-- Docker<br>\n• Proficiency in Git, JIRA and Teamcity are a plus<br>\n• 4+ years in a production environment a plus</p>\n\n<p>Responsibilities:  </p>\n\n<hr>\n\n<p>• Set Up, configure maintain and enhance proper infrastructure to support <br>\n-- Data analytics environment <br>\n-- Campaign management system<br>\n• Maintain and enhance large scale API system <br>\n• Code REST interfaces to support various internal / external requests<br>\n• Code Javascript / Node.js / Typescript based microservices<br>\n• Code Unit / Integration tests to allow for embedding in Continuous integration service<br>\n• Drive feature engineering and experimentation to improve performance of our various algorithms <br>\n• Evaluate the technical tradeoffs of every decision</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "Barcelona"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Spain",
+        "Madrid"
+      ],
+      "skills": [
+        "Javascript",
+        "Node.js",
+        "PostgreSQL",
+        "TypeScript"
+      ],
+      "payment": {
+        "salary": "€40k – €75k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/paul-harrison-28",
+        "name": "Paul Harrison",
+        "avatar": "https://photos.angel.co/users/10277585-medium_jpg?1574236342"
+      },
+      "refs": {
+        "angelListId": "727783",
+        "angelListUrl": "https://angel.co/company/carve-2/jobs/727783-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "(Barcelona Hub) Senior Python / JS Developer",
+      "description": "We are seeking a senior javascript / python developer with excellent technical understanding of these domains, at least several years of experience are required. The job is a remote full time position working on various Microservices written in mostly JS (Node.js, Angular.js) and Python.\n\nTechnical Requirements:  \n*********************************\n• Excellent and proven knowledge of JavaScript/Node.js\n• Excellent and proven knowledge of  Python\n• Good knowledge of the following technologies : \n-- Redshift \n-- Sequelize / SQL\n-- Docker\n• Proficiency in Git, JIRA and Teamcity are a plus\n• 4+ years in a production environment a plus\n\nResponsibilities:  \n************************\n• Set Up, configure maintain and enhance proper infrastructure to support \n-- Data analytics environment \n-- Campaign management system\n-- Python based MicroServices\n• Maintain and enhance large scale API system \n• Code REST interfaces to support various internal / external requests\n• Code Python and Node.js based microservices\n• Code Unit / Integration tests to allow for embedding in Continuous integration service\n• Drive feature engineering and experimentation to improve performance of our various algorithms \n• Evaluate the technical tradeoffs of every decision",
+      "descriptionHtml": "<p>We are seeking a senior javascript / python developer with excellent technical understanding of these domains, at least several years of experience are required. The job is a remote full time position working on various Microservices written in mostly JS (Node.js, Angular.js) and Python.</p>\n\n<p>Technical Requirements:  </p>\n\n<hr>\n\n<p>• Excellent and proven knowledge of JavaScript/Node.js<br>\n• Excellent and proven knowledge of  Python<br>\n• Good knowledge of the following technologies : <br>\n-- Redshift <br>\n-- Sequelize / SQL<br>\n-- Docker<br>\n• Proficiency in Git, JIRA and Teamcity are a plus<br>\n• 4+ years in a production environment a plus</p>\n\n<p>Responsibilities:  </p>\n\n<hr>\n\n<p>• Set Up, configure maintain and enhance proper infrastructure to support <br>\n-- Data analytics environment <br>\n-- Campaign management system<br>\n-- Python based MicroServices<br>\n• Maintain and enhance large scale API system <br>\n• Code REST interfaces to support various internal / external requests<br>\n• Code Python and Node.js based microservices<br>\n• Code Unit / Integration tests to allow for embedding in Continuous integration service<br>\n• Drive feature engineering and experimentation to improve performance of our various algorithms <br>\n• Evaluate the technical tradeoffs of every decision</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Barcelona"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Spain"
+      ],
+      "skills": [
+        "Python",
+        "Javascript",
+        "Node.js",
+        "PostgreSQL",
+        "REST APIs",
+        "Microservices"
+      ],
+      "payment": {
+        "salary": "$35k – $65k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/paul-harrison-28",
+        "name": "Paul Harrison",
+        "avatar": "https://photos.angel.co/users/10277585-medium_jpg?1574236342"
+      },
+      "refs": {
+        "angelListId": "688091",
+        "angelListUrl": "https://angel.co/company/carve-2/jobs/688091-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "(Berlin Hub) Senior Python / JS Developer",
+      "description": "We are seeking a senior javascript / python developer with excellent technical understanding of these domains, at least several years of experience are required. The job is a remote full time position working on various Microservices written in mostly JS (Node.js, Angular.js) and Python.\n\nTechnical Requirements:  \n*********************************\n• Excellent and proven knowledge of JavaScript/Node.js\n• Excellent and proven knowledge of  Python\n• Good knowledge of the following technologies : \n-- Redshift \n-- Sequelize / SQL\n-- Docker\n• Proficiency in Git, JIRA and Teamcity are a plus\n• 4+ years in a production environment a plus\n\nResponsibilities:  \n************************\n• Set Up, configure maintain and enhance proper infrastructure to support \n-- Data analytics environment \n-- Campaign management system\n-- Python based MicroServices\n• Maintain and enhance large scale API system \n• Code REST interfaces to support various internal / external requests\n• Code Python and Node.js based microservices\n• Code Unit / Integration tests to allow for embedding in Continuous integration service\n• Drive feature engineering and experimentation to improve performance of our various algorithms \n• Evaluate the technical tradeoffs of every decision",
+      "descriptionHtml": "<p>We are seeking a senior javascript / python developer with excellent technical understanding of these domains, at least several years of experience are required. The job is a remote full time position working on various Microservices written in mostly JS (Node.js, Angular.js) and Python.</p>\n\n<p>Technical Requirements:  </p>\n\n<hr>\n\n<p>• Excellent and proven knowledge of JavaScript/Node.js<br>\n• Excellent and proven knowledge of  Python<br>\n• Good knowledge of the following technologies : <br>\n-- Redshift <br>\n-- Sequelize / SQL<br>\n-- Docker<br>\n• Proficiency in Git, JIRA and Teamcity are a plus<br>\n• 4+ years in a production environment a plus</p>\n\n<p>Responsibilities:  </p>\n\n<hr>\n\n<p>• Set Up, configure maintain and enhance proper infrastructure to support <br>\n-- Data analytics environment <br>\n-- Campaign management system<br>\n-- Python based MicroServices<br>\n• Maintain and enhance large scale API system <br>\n• Code REST interfaces to support various internal / external requests<br>\n• Code Python and Node.js based microservices<br>\n• Code Unit / Integration tests to allow for embedding in Continuous integration service<br>\n• Drive feature engineering and experimentation to improve performance of our various algorithms <br>\n• Evaluate the technical tradeoffs of every decision</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Berlin"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Germany"
+      ],
+      "skills": [
+        "Python",
+        "Javascript",
+        "Node.js",
+        "PostgreSQL",
+        "REST APIs",
+        "Microservices"
+      ],
+      "payment": {
+        "salary": "€45k – €75k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/paul-harrison-28",
+        "name": "Paul Harrison",
+        "avatar": "https://photos.angel.co/users/10277585-medium_jpg?1574236342"
+      },
+      "refs": {
+        "angelListId": "688090",
+        "angelListUrl": "https://angel.co/company/carve-2/jobs/688090-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "(NYC/CHI/SF) Javascript / Node.js / Typescript Backend Developer",
+      "description": "We are seeking a senior Javascript / Node.js / Typescript developer with excellent technical understanding of these domains, at least several years of experience are required. The job is a remote full time position working on various Microservices written in mostly JS (Node.js, Angular.js) and Typescript.\r\n\r\nTechnical Requirements:  \r\n*********************************\r\n• Excellent and proven knowledge of Javascript / Node.js / Typescript\r\n• Good knowledge of the following technologies : \r\n-- Redshift \r\n-- Sequelize / SQL\r\n-- Docker\r\n• Proficiency in Git, JIRA and Teamcity are a plus\r\n• 4+ years in a production environment a plus\r\n\r\nResponsibilities:  \r\n************************\r\n• Set Up, configure maintain and enhance proper infrastructure to support \r\n-- Data analytics environment \r\n-- Campaign management system\r\n• Maintain and enhance large scale API system \r\n• Code REST interfaces to support various internal / external requests\r\n• Code Javascript / Node.js / Typescript based microservices\r\n• Code Unit / Integration tests to allow for embedding in Continuous integration service\r\n• Drive feature engineering and experimentation to improve performance of our various algorithms \r\n• Evaluate the technical tradeoffs of every decision",
+      "descriptionHtml": "<p>We are seeking a senior Javascript / Node.js / Typescript developer with excellent technical understanding of these domains, at least several years of experience are required. The job is a remote full time position working on various Microservices written in mostly JS (Node.js, Angular.js) and Typescript.</p>\n\n<p>Technical Requirements:  </p>\n\n<hr>\n\n<p>• Excellent and proven knowledge of Javascript / Node.js / Typescript<br>\n• Good knowledge of the following technologies : <br>\n-- Redshift <br>\n-- Sequelize / SQL<br>\n-- Docker<br>\n• Proficiency in Git, JIRA and Teamcity are a plus<br>\n• 4+ years in a production environment a plus</p>\n\n<p>Responsibilities:  </p>\n\n<hr>\n\n<p>• Set Up, configure maintain and enhance proper infrastructure to support <br>\n-- Data analytics environment <br>\n-- Campaign management system<br>\n• Maintain and enhance large scale API system <br>\n• Code REST interfaces to support various internal / external requests<br>\n• Code Javascript / Node.js / Typescript based microservices<br>\n• Code Unit / Integration tests to allow for embedding in Continuous integration service<br>\n• Drive feature engineering and experimentation to improve performance of our various algorithms <br>\n• Evaluate the technical tradeoffs of every decision</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "Chicago",
+        "New York City",
+        "San Francisco"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Javascript",
+        "Node.js",
+        "PostgreSQL",
+        "TypeScript"
+      ],
+      "payment": {
+        "salary": "$75k – $125k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/paul-harrison-28",
+        "name": "Paul Harrison",
+        "avatar": "https://photos.angel.co/users/10277585-medium_jpg?1574236342"
+      },
+      "refs": {
+        "angelListId": "823121",
+        "angelListUrl": "https://angel.co/company/carve-2/jobs/823121-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "(NYC/CHI/SF) Senior Postgres/RDS and Redshift DBA",
+      "description": "We are seeking a senior Postgres/RDS and Redshift database administrator with excellent technical understanding of these domains, at least several years of experience are required. The job is a remote contract position working on several large database systems.\r\n\r\n**Personality:**\r\n* Quick thinking and acting with minimal/no supervision\r\n* Able to build enterprise grade architectures off of minimal and changing requirements\r\n* Self driven, independent, creative and eager to learn new skills \r\n* Aren't happy with good, and build to great\r\n\r\n**Technical Requirements:**  \r\n* Excellent and proven knowledge of Postgres on Amazon RDS\r\n* Excellent and proven knowledge of Amazon Redshift\r\n* Excellent and proven knowledge of  SQL\r\n* EXPLAIN ANALYZE is one of your most used SQL commands\r\n* Good knowledge of the following technologies is a bonus: Redash, Python, Shell scripting, Docker\r\n* Proficiency in Git, JIRA and Teamcity are a plus\r\n* 4+ years in a production environment a plus\r\n\r\n**Responsibilities:**  \r\n* Database administration, tuning, management and security.\r\n* Providing technical support for all database environments.\r\n* Development and organization of all databases.\r\n* Assessment and implementation of new technologies for the database layer.\r\n* Providing long-term perspective on the relationship of the selected database technology to business opportunities.\r\n* Set up, configure, maintain and enhance proper infrastructure to support a large scale data analytics environment.\r\n* Evaluate the technical tradeoffs of every decision",
+      "descriptionHtml": "<p>We are seeking a senior Postgres/RDS and Redshift database administrator with excellent technical understanding of these domains, at least several years of experience are required. The job is a remote contract position working on several large database systems.</p>\n\n<p><strong>Personality:</strong></p>\n\n<ul>\n<li>Quick thinking and acting with minimal/no supervision</li>\n<li>Able to build enterprise grade architectures off of minimal and changing requirements</li>\n<li>Self driven, independent, creative and eager to learn new skills </li>\n<li>Aren&#39;t happy with good, and build to great</li>\n</ul>\n\n<p><strong>Technical Requirements:</strong>  </p>\n\n<ul>\n<li>Excellent and proven knowledge of Postgres on Amazon RDS</li>\n<li>Excellent and proven knowledge of Amazon Redshift</li>\n<li>Excellent and proven knowledge of  SQL</li>\n<li>EXPLAIN ANALYZE is one of your most used SQL commands</li>\n<li>Good knowledge of the following technologies is a bonus: Redash, Python, Shell scripting, Docker</li>\n<li>Proficiency in Git, JIRA and Teamcity are a plus</li>\n<li>4+ years in a production environment a plus</li>\n</ul>\n\n<p><strong>Responsibilities:</strong>  </p>\n\n<ul>\n<li>Database administration, tuning, management and security.</li>\n<li>Providing technical support for all database environments.</li>\n<li>Development and organization of all databases.</li>\n<li>Assessment and implementation of new technologies for the database layer.</li>\n<li>Providing long-term perspective on the relationship of the selected database technology to business opportunities.</li>\n<li>Set up, configure, maintain and enhance proper infrastructure to support a large scale data analytics environment.</li>\n<li>Evaluate the technical tradeoffs of every decision</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Chicago",
+        "New York City",
+        "San Francisco"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "SQL",
+        "PostgreSQL",
+        "Amazon RDS",
+        "Amazon Redshift"
+      ],
+      "payment": {
+        "salary": "$75k – $135k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/paul-harrison-28",
+        "name": "Paul Harrison",
+        "avatar": "https://photos.angel.co/users/10277585-medium_jpg?1574236342"
+      },
+      "refs": {
+        "angelListId": "823126",
+        "angelListUrl": "https://angel.co/company/carve-2/jobs/823126-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "(Remote Hub: Barcelona) Senior Postgres/RDS and Redshift DBA",
+      "description": "We are seeking a senior Postgres/RDS and Redshift database administrator with excellent technical understanding of these domains, at least several years of experience are required. The job is a remote contract position working on several large database systems.\r\n\r\n**Personality:**\r\n* Quick thinking and acting with minimal/no supervision\r\n* Able to build enterprise grade architectures off of minimal and changing requirements\r\n* Self driven, independent, creative and eager to learn new skills \r\n* Aren't happy with good, and build to great\r\n\r\n**Technical Requirements:**  \r\n* Excellent and proven knowledge of Postgres on Amazon RDS\r\n* Excellent and proven knowledge of Amazon Redshift\r\n* Excellent and proven knowledge of  SQL\r\n* EXPLAIN ANALYZE is one of your most used SQL commands\r\n* Good knowledge of the following technologies is a bonus: Redash, Python, Shell scripting, Docker\r\n* Proficiency in Git, JIRA and Teamcity are a plus\r\n* 4+ years in a production environment a plus\r\n\r\n**Responsibilities:**  \r\n* Database administration, tuning, management and security.\r\n* Providing technical support for all database environments.\r\n* Development and organization of all databases.\r\n* Assessment and implementation of new technologies for the database layer.\r\n* Providing long-term perspective on the relationship of the selected database technology to business opportunities.\r\n* Set up, configure, maintain and enhance proper infrastructure to support a large scale data analytics environment.\r\n* Evaluate the technical tradeoffs of every decision",
+      "descriptionHtml": "<p>We are seeking a senior Postgres/RDS and Redshift database administrator with excellent technical understanding of these domains, at least several years of experience are required. The job is a remote contract position working on several large database systems.</p>\n\n<p><strong>Personality:</strong></p>\n\n<ul>\n<li>Quick thinking and acting with minimal/no supervision</li>\n<li>Able to build enterprise grade architectures off of minimal and changing requirements</li>\n<li>Self driven, independent, creative and eager to learn new skills </li>\n<li>Aren&#39;t happy with good, and build to great</li>\n</ul>\n\n<p><strong>Technical Requirements:</strong>  </p>\n\n<ul>\n<li>Excellent and proven knowledge of Postgres on Amazon RDS</li>\n<li>Excellent and proven knowledge of Amazon Redshift</li>\n<li>Excellent and proven knowledge of  SQL</li>\n<li>EXPLAIN ANALYZE is one of your most used SQL commands</li>\n<li>Good knowledge of the following technologies is a bonus: Redash, Python, Shell scripting, Docker</li>\n<li>Proficiency in Git, JIRA and Teamcity are a plus</li>\n<li>4+ years in a production environment a plus</li>\n</ul>\n\n<p><strong>Responsibilities:</strong>  </p>\n\n<ul>\n<li>Database administration, tuning, management and security.</li>\n<li>Providing technical support for all database environments.</li>\n<li>Development and organization of all databases.</li>\n<li>Assessment and implementation of new technologies for the database layer.</li>\n<li>Providing long-term perspective on the relationship of the selected database technology to business opportunities.</li>\n<li>Set up, configure, maintain and enhance proper infrastructure to support a large scale data analytics environment.</li>\n<li>Evaluate the technical tradeoffs of every decision</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Barcelona"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Spain",
+        "Madrid"
+      ],
+      "skills": [
+        "SQL",
+        "PostgreSQL",
+        "Amazon Redshift",
+        "postgres"
+      ],
+      "payment": {
+        "salary": "€45k – €65k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/paul-harrison-28",
+        "name": "Paul Harrison",
+        "avatar": "https://photos.angel.co/users/10277585-medium_jpg?1574236342"
+      },
+      "refs": {
+        "angelListId": "801988",
+        "angelListUrl": "https://angel.co/company/carve-2/jobs/801988-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "(Remote Hub: Berlin) Senior Postgres/RDS and Redshift DBA",
+      "description": "We are seeking a senior Postgres/RDS and Redshift database administrator with excellent technical understanding of these domains, at least several years of experience are required. The job is a remote contract position working on several large database systems.\r\n\r\n**Personality:**\r\n* Quick thinking and acting with minimal/no supervision\r\n* Able to build enterprise grade architectures off of minimal and changing requirements\r\n* Self driven, independent, creative and eager to learn new skills \r\n* Aren't happy with good, and build to great\r\n\r\n**Technical Requirements:**  \r\n* Excellent and proven knowledge of Postgres on Amazon RDS\r\n* Excellent and proven knowledge of Amazon Redshift\r\n* Excellent and proven knowledge of  SQL\r\n* EXPLAIN ANALYZE is one of your most used SQL commands\r\n* Good knowledge of the following technologies is a bonus: Redash, Python, Shell scripting, Docker\r\n* Proficiency in Git, JIRA and Teamcity are a plus\r\n* 4+ years in a production environment a plus\r\n\r\n**Responsibilities:**  \r\n* Database administration, tuning, management and security.\r\n* Providing technical support for all database environments.\r\n* Development and organization of all databases.\r\n* Assessment and implementation of new technologies for the database layer.\r\n* Providing long-term perspective on the relationship of the selected database technology to business opportunities.\r\n* Set up, configure, maintain and enhance proper infrastructure to support a large scale data analytics environment.\r\n* Evaluate the technical tradeoffs of every decision",
+      "descriptionHtml": "<p>We are seeking a senior Postgres/RDS and Redshift database administrator with excellent technical understanding of these domains, at least several years of experience are required. The job is a remote contract position working on several large database systems.</p>\n\n<p><strong>Personality:</strong></p>\n\n<ul>\n<li>Quick thinking and acting with minimal/no supervision</li>\n<li>Able to build enterprise grade architectures off of minimal and changing requirements</li>\n<li>Self driven, independent, creative and eager to learn new skills </li>\n<li>Aren&#39;t happy with good, and build to great</li>\n</ul>\n\n<p><strong>Technical Requirements:</strong>  </p>\n\n<ul>\n<li>Excellent and proven knowledge of Postgres on Amazon RDS</li>\n<li>Excellent and proven knowledge of Amazon Redshift</li>\n<li>Excellent and proven knowledge of  SQL</li>\n<li>EXPLAIN ANALYZE is one of your most used SQL commands</li>\n<li>Good knowledge of the following technologies is a bonus: Redash, Python, Shell scripting, Docker</li>\n<li>Proficiency in Git, JIRA and Teamcity are a plus</li>\n<li>4+ years in a production environment a plus</li>\n</ul>\n\n<p><strong>Responsibilities:</strong>  </p>\n\n<ul>\n<li>Database administration, tuning, management and security.</li>\n<li>Providing technical support for all database environments.</li>\n<li>Development and organization of all databases.</li>\n<li>Assessment and implementation of new technologies for the database layer.</li>\n<li>Providing long-term perspective on the relationship of the selected database technology to business opportunities.</li>\n<li>Set up, configure, maintain and enhance proper infrastructure to support a large scale data analytics environment.</li>\n<li>Evaluate the technical tradeoffs of every decision</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Berlin"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Germany",
+        "Frankfurt",
+        "Hamburg",
+        "Munich"
+      ],
+      "skills": [
+        "SQL",
+        "PostgreSQL",
+        "Amazon Redshift",
+        "postgres"
+      ],
+      "payment": {
+        "salary": "€55k – €85k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/paul-harrison-28",
+        "name": "Paul Harrison",
+        "avatar": "https://photos.angel.co/users/10277585-medium_jpg?1574236342"
+      },
+      "refs": {
+        "angelListId": "801987",
+        "angelListUrl": "https://angel.co/company/carve-2/jobs/801987-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "(Remote: Berlin) Javascript / Node.js / Typescript Backend Developer",
+      "description": "We are seeking a motivated individual to join our development team as Javascript / Node.js / Typescript Backend Developer\r\n\r\n### Why Join Us? \r\n* Getting in at this stage means that you get to actually help further mold the company culture and engineering vision \r\n* Chance to build something revolutionary - The market is ripe for disruption and there's no doubt that whoever cracks the puzzle will win the market. This is also a rare opportunity for you to build a large-scale platform that millions of people are positively impacted by (instead of, say, boring old enterprise software that few people touch!). \r\n* Quality of the Team - Truly high-performing teams are hard to come by; joining our team gives you an opportunity to collaborate with, learn from, and grow together with like-minded, successful tech veterans who have a track record of building great products.\r\n\r\nWho we are looking for:\r\n\r\n### Personality: \r\n* Knows and loves the startup world - quick thinking and acting with minimal/no supervision \r\n* Able to build enterprise-grade software off of minimal and changing requirements \r\n* Self-driven, independent, creative and eager to learn new skills \r\n* Aren't happy with good, and build to great\r\n\r\n### Required Skills : \r\n* Excellent and proven knowledge of Javascript / Node.js / Typescript\r\n* Good knowledge of the following technologies: Redshift / Postgres / SQL / Sequelize \r\n* Docker \r\n* Shell scripting \r\n* AWS environments \r\n* Knowledge of Rust is a plus \r\n* Proficiency in Git, JIRA, and Teamcity are a plus \r\n* 4+ years in a production environment a plus\r\n\r\n### Responsibility: \r\n* Set Up, configure maintain and enhance proper infrastructure to support \r\n-- Data analytics environment \r\n-- Campaign management system\r\n* Maintain and enhance large scale API system \r\n* Code REST interfaces to support various internal / external requests\r\n* Code Javascript / Node.js / Typescript based microservices\r\n* Code Unit / Integration tests to allow for embedding in Continuous integration service\r\n* Drive feature engineering and experimentation to improve performance of our various algorithms \r\n* Evaluate the technical tradeoffs of every decision\r\n\r\n### Related Experiences:\r\n* Javascript Backend Developer\r\n* Node.js Backend Developer\r\n* Typescript Backend Developer\r\n* Javascript Engineer\r\n* Node.js Engineer\r\n* Typescript Engineer",
+      "descriptionHtml": "<p>We are seeking a motivated individual to join our development team as Javascript / Node.js / Typescript Backend Developer</p>\n<h3>Why Join Us?</h3>\n<ul>\n<li>Getting in at this stage means that you get to actually help further mold the company culture and engineering vision </li>\n<li>Chance to build something revolutionary - The market is ripe for disruption and there&#39;s no doubt that whoever cracks the puzzle will win the market. This is also a rare opportunity for you to build a large-scale platform that millions of people are positively impacted by (instead of, say, boring old enterprise software that few people touch!). </li>\n<li>Quality of the Team - Truly high-performing teams are hard to come by; joining our team gives you an opportunity to collaborate with, learn from, and grow together with like-minded, successful tech veterans who have a track record of building great products.</li>\n</ul>\n\n<p>Who we are looking for:</p>\n<h3>Personality:</h3>\n<ul>\n<li>Knows and loves the startup world - quick thinking and acting with minimal/no supervision </li>\n<li>Able to build enterprise-grade software off of minimal and changing requirements </li>\n<li>Self-driven, independent, creative and eager to learn new skills </li>\n<li>Aren&#39;t happy with good, and build to great</li>\n</ul>\n<h3>Required Skills :</h3>\n<ul>\n<li>Excellent and proven knowledge of Javascript / Node.js / Typescript</li>\n<li>Good knowledge of the following technologies: Redshift / Postgres / SQL / Sequelize </li>\n<li>Docker </li>\n<li>Shell scripting </li>\n<li>AWS environments </li>\n<li>Knowledge of Rust is a plus </li>\n<li>Proficiency in Git, JIRA, and Teamcity are a plus </li>\n<li>4+ years in a production environment a plus</li>\n</ul>\n<h3>Responsibility:</h3>\n<ul>\n<li>Set Up, configure maintain and enhance proper infrastructure to support \n-- Data analytics environment \n-- Campaign management system</li>\n<li>Maintain and enhance large scale API system </li>\n<li>Code REST interfaces to support various internal / external requests</li>\n<li>Code Javascript / Node.js / Typescript based microservices</li>\n<li>Code Unit / Integration tests to allow for embedding in Continuous integration service</li>\n<li>Drive feature engineering and experimentation to improve performance of our various algorithms </li>\n<li>Evaluate the technical tradeoffs of every decision</li>\n</ul>\n<h3>Related Experiences:</h3>\n<ul>\n<li>Javascript Backend Developer</li>\n<li>Node.js Backend Developer</li>\n<li>Typescript Backend Developer</li>\n<li>Javascript Engineer</li>\n<li>Node.js Engineer</li>\n<li>Typescript Engineer</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Berlin"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Germany",
+        "Frankfurt",
+        "Hamburg",
+        "Munich"
+      ],
+      "skills": [
+        "Javascript",
+        "Node.js",
+        "PostgreSQL",
+        "TypeScript"
+      ],
+      "payment": {
+        "salary": "€45k – €85k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/paul-harrison-28",
+        "name": "Paul Harrison",
+        "avatar": "https://photos.angel.co/users/10277585-medium_jpg?1574236342"
+      },
+      "refs": {
+        "angelListId": "809192",
+        "angelListUrl": "https://angel.co/company/carve-2/jobs/809192-"
+      }
+    }
+  ]
+}

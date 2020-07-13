@@ -1,0 +1,586 @@
+{
+  "name": "Fractal Labs",
+  "avatar": "https://photos.angel.co/startups/i/510439-f5ffaae9bdb81bda033673dd9901fd66-medium_jpg.jpg?buster=1519035691",
+  "slogan": "Bloomberg for the private market",
+  "description": "Our vision is to simplify finance for small businesses and banks. Spurred on by our win at the 2017 NESTA Open Up Challenge, we are looking to grow our team. If you’re a talented front-end or software specialist, join us to turn our vision into a reality in the era of Open Banking and Blockchain. \n\nAt Fractal, we’ve built a cloud-based platform to: \n1) Help entrepreneurs evaluate their KPIs with help from an automated financial assistant (chatbot). \n2) Help financiers and banks monitor the operational performance of their investments. \n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.askfractal.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/Fractal_Labs"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/fractallabsltd/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/fractal-labs-ltd/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Zurich"
+  ],
+  "marketTags": [
+    "Predictive Analytics",
+    "Business Analytics",
+    "SaaS",
+    "Business Intelligence",
+    "Big Data Analytics"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/stephanie-galantine-1",
+      "name": "Stephanie Galantine",
+      "avatar": "https://photos.angel.co/users/428434-medium_jpg?1463641054",
+      "bioHtml": "Stephanie is the CEO and Founder of The Real Economy Effect a investment boutique specialised in private equity advisory for family offices."
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/andreas-signer",
+      "name": "Andreas Signer",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/fatou-diagne",
+      "name": "Fatou Diagne",
+      "avatar": "https://photos.angel.co/users/878985-medium_jpg?1453808438",
+      "bioHtml": "Founder Fractal Labs, Bootstrap Europe • Worked at <a href=\"https://angel.co/company/citigroup-global-markets\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Citigroup Global Markets</span></a>, <a href=\"https://angel.co/company/standard-poor-s\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Standard &amp; Poor&#39;s</span></a> • Studied at <a href=\"https://angel.co/hec-paris\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Hec Paris</span></a>, <a href=\"https://angel.co/lycee-louis-le-grand\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Lycée Louis Le Grand</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/nicholasheller",
+      "name": "Nicholas Heller",
+      "avatar": "https://photos.angel.co/users/87290-medium_jpg?1491931215",
+      "bioHtml": "Technology/ Media/ Telecoms/ Finance. Entrepreneur. Non-Exec Board Member. Advisor. Mentor. Investor. Xoogler. "
+    },
+    {
+      "title": "QA Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/monika-chandel-1",
+      "name": "Monika Chandel",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "QA Automation (Selenium) + Manual Software Tester with around 5 years of experience."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/andrea-karlova",
+      "name": "Andrea Karlova",
+      "avatar": "https://photos.angel.co/users/5698975-medium_jpg?1501593290",
+      "bioHtml": "- banking jobs - risk management, model validation\n- visiting researcher at Oxford, UCL, Columbia University"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/lisa-leid-1",
+      "name": "Lisa Leid",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "510439",
+    "angelListUrl": "https://angel.co/company/fractal-labs"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "DevOps Engineer",
+      "description": "We are looking for a switched-on DevOps Engineer who have the skills to engineer the platform for scalability, robustness, high-availability and mature cyber security.\n\nYou will be working on a platform built on Blockchain, AI, Machine Learning and NLP technologies.\n\nYou will join our London office and work in a highly dynamic group, reporting directly to the Chief Technology Officer.\n\nWho you will need to interact with on a day-to-day basis\n\n* Chief Technology Officer\n* Technology team\n\nResponsibilities\n\nThe technologies you will be working with include:\n\n* AWS ECS Fargate and Kubernetes\n* AWS Sagemaker\n* Blockchain (Ethereum, R3/Corda)\n* Cassandra\n* Aurora\n* Cloudfront\n* Python\n* Java\n\nFractal's Mission\n\nFractal is fundamentally changing small businesses banking. We’re reinventing SME financial services one API at a time.\n\nAs a fintech pioneer, we’re here to make a positive impact on the world with technology, and strengthen the backbone of the economy by increasing liquidity in the SME financing market.\n\nOur passionate and friendly team aims to empower financial innovators to better serve their small businesses through our suite of APIs.\n\nRequirements\n\n* Good knowledge of AWS\n* Experience with configuration in code, preferably Ansible or Terraform\n* Operations experience\n\nPreferred Qualifications\n\n* Security testing\n* Docker\n* CI/CD pipelines\n* Test Automation\n* Previous experience of SOC-2 and ISO-27000 standards and certification is not necessary but would be an advantage as would relevant AWS certification.\n\nBenefits\n\nAt Fractal, the team are;\n\n* properly valued\n* recognised as a central part to the business\n* respected\n* encouraged to innovate at all levels\n\nAll employees benefit from:\n\n* 25 days / year annual leave\n* Package includes employee share options\n* Usual working hours (9.00 - 18.00)\n* Core Hours are (11:00 - 15:00)\n* Board game evenings\n* You will be working in a cross-functional team in a trusting and safe environment of Low Pressure / High Performance where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on healing and problem solving.\n\nAbout the Fractal team\n\n* Ethnicities: 16\n* Meditation minutes: 5,235\n* Languages spoken: 15\n* Unique cocktails made: 104\n* Kilometres cycled: 109,554\n* Unique rubik cube puzzles solved: 10\n* Breakfasts together: 38\n* Parents in the team: 5\n* Board games played: 10",
+      "descriptionHtml": "<p>We are looking for a switched-on DevOps Engineer who have the skills to engineer the platform for scalability, robustness, high-availability and mature cyber security.</p>\n\n<p>You will be working on a platform built on Blockchain, AI, Machine Learning and NLP technologies.</p>\n\n<p>You will join our London office and work in a highly dynamic group, reporting directly to the Chief Technology Officer.</p>\n\n<p>Who you will need to interact with on a day-to-day basis</p>\n\n<ul>\n<li>Chief Technology Officer</li>\n<li>Technology team</li>\n</ul>\n\n<p>Responsibilities</p>\n\n<p>The technologies you will be working with include:</p>\n\n<ul>\n<li>AWS ECS Fargate and Kubernetes</li>\n<li>AWS Sagemaker</li>\n<li>Blockchain (Ethereum, R3/Corda)</li>\n<li>Cassandra</li>\n<li>Aurora</li>\n<li>Cloudfront</li>\n<li>Python</li>\n<li>Java</li>\n</ul>\n\n<p>Fractal&#39;s Mission</p>\n\n<p>Fractal is fundamentally changing small businesses banking. We’re reinventing SME financial services one API at a time.</p>\n\n<p>As a fintech pioneer, we’re here to make a positive impact on the world with technology, and strengthen the backbone of the economy by increasing liquidity in the SME financing market.</p>\n\n<p>Our passionate and friendly team aims to empower financial innovators to better serve their small businesses through our suite of APIs.</p>\n\n<p>Requirements</p>\n\n<ul>\n<li>Good knowledge of AWS</li>\n<li>Experience with configuration in code, preferably Ansible or Terraform</li>\n<li>Operations experience</li>\n</ul>\n\n<p>Preferred Qualifications</p>\n\n<ul>\n<li>Security testing</li>\n<li>Docker</li>\n<li>CI/CD pipelines</li>\n<li>Test Automation</li>\n<li>Previous experience of SOC-2 and ISO-27000 standards and certification is not necessary but would be an advantage as would relevant AWS certification.</li>\n</ul>\n\n<p>Benefits</p>\n\n<p>At Fractal, the team are;</p>\n\n<ul>\n<li>properly valued</li>\n<li>recognised as a central part to the business</li>\n<li>respected</li>\n<li>encouraged to innovate at all levels</li>\n</ul>\n\n<p>All employees benefit from:</p>\n\n<ul>\n<li>25 days / year annual leave</li>\n<li>Package includes employee share options</li>\n<li>Usual working hours (9.00 - 18.00)</li>\n<li>Core Hours are (11:00 - 15:00)</li>\n<li>Board game evenings</li>\n<li>You will be working in a cross-functional team in a trusting and safe environment of Low Pressure / High Performance where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on healing and problem solving.</li>\n</ul>\n\n<p>About the Fractal team</p>\n\n<ul>\n<li>Ethnicities: 16</li>\n<li>Meditation minutes: 5,235</li>\n<li>Languages spoken: 15</li>\n<li>Unique cocktails made: 104</li>\n<li>Kilometres cycled: 109,554</li>\n<li>Unique rubik cube puzzles solved: 10</li>\n<li>Breakfasts together: 38</li>\n<li>Parents in the team: 5</li>\n<li>Board games played: 10</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "MySQL",
+        "Continuous Integration",
+        "Security",
+        "Ansible",
+        "Ethereum",
+        "Blockchain",
+        "AWS",
+        "Apache Cassandra",
+        "Terraform",
+        "Amazon SageMaker"
+      ],
+      "payment": {
+        "salary": "£40k – £80k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/jerry-taylor-5",
+        "name": "Jerry Taylor",
+        "avatar": "https://photos.angel.co/users/7019605-medium_jpg?1534167737"
+      },
+      "refs": {
+        "angelListId": "395465",
+        "angelListUrl": "https://angel.co/company/fractal-labs/jobs/395465-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Java Developer",
+      "description": "Fractal Labs takes great pride in its technology and we are building world-class enterprise solutions. You will be working in a cross-functional scrum team, and you will work very closely with the DevOps team. You are encouraged to learn about AWS architecture, to fire up instances and configure services in the development environment.\n\nYou will join our London office and work in a highly dynamic group, reporting directly to the Chief Technology Officer.\n\nWho you will need to interact with on a day-to-day basis\n\n* Chief Technology Officer\n* Chief Product Officer\n* Head of Platform\n* Product Manager\n* UX Designers\n* Head of Data Science\n* Technology Team\n* QA Team\n\nFractal's Mission\n\nFractal is fundamentally changing small businesses banking. We’re reinventing SME financial services one API at a time.\n\nAs a fintech pioneer, we’re here to make a positive impact on the world with technology, and strengthen the backbone of the economy by increasing liquidity in the SME financing market.\n\nOur passionate and friendly team aims to empower financial innovators to better serve their small businesses through our suite of APIs.\n\nRequirements\n\nEssential\n\n* Experience with Java 8 or later\n* Agile / SCRUM\n\nExperience with some of the following is useful, but not essential.\n\n* JUNIT\n* RESTful APIs (integrating with and developing our own)\n* Middleware, especially Apache Thrift\n* NOSQL databases especially Apache Cassandra\n* Relational databases especially MySQL\n* AWS Architecture and DevOps\n\nBenefits\n\n* 25 days / year holiday\n* Employee share options\n* Usual working hours (9.00 - 18.00)\n* Core working hours are (11:00 - 15:00)\n* Board game evenings\n* We believe in a good work-life balance so that \"Family comes first\".\n* You will be working in a cross-functional team in a trusting and safe environment of Low Pressure / High Performance where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on healing and problem solving.\n\nAbout the Fractal team\n\n* Ethnicities: 16\n* Meditation minutes: 5,235\n* Languages spoken: 15\n* Unique cocktails made: 104\n* Kilometres cycled: 109,554\n* Unique rubik cube puzzles solved: 10\n* Breakfasts together: 38\n* Parents in the team: 5\n* Board games played: 10",
+      "descriptionHtml": "<p>Fractal Labs takes great pride in its technology and we are building world-class enterprise solutions. You will be working in a cross-functional scrum team, and you will work very closely with the DevOps team. You are encouraged to learn about AWS architecture, to fire up instances and configure services in the development environment.</p>\n\n<p>You will join our London office and work in a highly dynamic group, reporting directly to the Chief Technology Officer.</p>\n\n<p>Who you will need to interact with on a day-to-day basis</p>\n\n<ul>\n<li>Chief Technology Officer</li>\n<li>Chief Product Officer</li>\n<li>Head of Platform</li>\n<li>Product Manager</li>\n<li>UX Designers</li>\n<li>Head of Data Science</li>\n<li>Technology Team</li>\n<li>QA Team</li>\n</ul>\n\n<p>Fractal&#39;s Mission</p>\n\n<p>Fractal is fundamentally changing small businesses banking. We’re reinventing SME financial services one API at a time.</p>\n\n<p>As a fintech pioneer, we’re here to make a positive impact on the world with technology, and strengthen the backbone of the economy by increasing liquidity in the SME financing market.</p>\n\n<p>Our passionate and friendly team aims to empower financial innovators to better serve their small businesses through our suite of APIs.</p>\n\n<p>Requirements</p>\n\n<p>Essential</p>\n\n<ul>\n<li>Experience with Java 8 or later</li>\n<li>Agile / SCRUM</li>\n</ul>\n\n<p>Experience with some of the following is useful, but not essential.</p>\n\n<ul>\n<li>JUNIT</li>\n<li>RESTful APIs (integrating with and developing our own)</li>\n<li>Middleware, especially Apache Thrift</li>\n<li>NOSQL databases especially Apache Cassandra</li>\n<li>Relational databases especially MySQL</li>\n<li>AWS Architecture and DevOps</li>\n</ul>\n\n<p>Benefits</p>\n\n<ul>\n<li>25 days / year holiday</li>\n<li>Employee share options</li>\n<li>Usual working hours (9.00 - 18.00)</li>\n<li>Core working hours are (11:00 - 15:00)</li>\n<li>Board game evenings</li>\n<li>We believe in a good work-life balance so that &quot;Family comes first&quot;.</li>\n<li>You will be working in a cross-functional team in a trusting and safe environment of Low Pressure / High Performance where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on healing and problem solving.</li>\n</ul>\n\n<p>About the Fractal team</p>\n\n<ul>\n<li>Ethnicities: 16</li>\n<li>Meditation minutes: 5,235</li>\n<li>Languages spoken: 15</li>\n<li>Unique cocktails made: 104</li>\n<li>Kilometres cycled: 109,554</li>\n<li>Unique rubik cube puzzles solved: 10</li>\n<li>Breakfasts together: 38</li>\n<li>Parents in the team: 5</li>\n<li>Board games played: 10</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "Machine Learning",
+        "Spring",
+        "Gradle",
+        "REST",
+        "OAuth",
+        "Docker",
+        "Ansible",
+        "Ethereum",
+        "AWS",
+        "Apache Cassandra",
+        "Apache Thrift",
+        "NLP"
+      ],
+      "payment": {
+        "salary": "£30k – £80k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/jerry-taylor-5",
+        "name": "Jerry Taylor",
+        "avatar": "https://photos.angel.co/users/7019605-medium_jpg?1534167737"
+      },
+      "refs": {
+        "angelListId": "409785",
+        "angelListUrl": "https://angel.co/company/fractal-labs/jobs/409785-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Full-stack Developer",
+      "description": "We are looking for a diligent full-stack developer to build out and enhance our new interface join alongside our aspirational, skilled and high-performing team.\n\nOur long-term mission at Fractal is to connect small-to-medium-sized enterprises (SMEs) to capital markets through blockchain.\n\nTo achieve this, we develop next-generation technologies designed to change the way the world interacts with business data using AI (ML, NLP / NLG).\n\nYou will join our London office and work in a highly dynamic group, reporting directly to the Chief Technology Officer.\n\nWho you will need to interact with on a day-to-day basis\n\n* Chief Technology Officer\n* Chief Product Officer\n* Head of Platform\n* Product Manager\n* UX Designers\n* Head of Data Science\n* Technology Team\n* QA Team\n\nFractal's Mission\n\nFractal is fundamentally changing small businesses banking. We’re reinventing SME financial services one API at a time.\n\nAs a fintech pioneer, we’re here to make a positive impact on the world with technology, and strengthen the backbone of the economy by increasing liquidity in the SME financing market.\n\nOur passionate and friendly team aims to empower financial innovators to better serve their small businesses through our suite of APIs.\n\nRequirements\n\nEssential\n\n* ReactJS, Redux, ES6\n* RESTful web API\n* SCRUM / Agile\n* NodeJS\n* AWS Amplify\n\nExperience with some of the following is useful, but not essential\n\n* Serverless\n* Java\n* Python\n* NOSQL (Cassandra, DynamoDB)\n* AWS (API Gateway, Lambda)\n* CI/CD\n* Open Banking API\n* Integrations with APIs such as Xero, Salesforce, PayPal, Amazon, DueDil\n* Spring\n* Gradle\n* Docker\n* CSS\n\n\nAt Fractal, we celebrate diversity. The more inclusive we are, the better our work will be. We are determined to ensure that no applicant or employee receives less favourable treatment on the grounds of gender, age, disability, religion, belief, sexual orientation, marital status, or race.\n\n\nIf you need assistance or an accommodation due to a disability, you may contact us at info@fractal-labs.com.\n\n\nFor further information on our commitment to diversity, please check out our blog at askfractal.com\n\nBenefits\n\n* 25 days / year annual leave\n* Employee share options\n* Usual working hours (9.00 - 18.00)\n* Core working hours (11:00 - 15:00)\n* Board game evenings\n* We believe in a good work-life balance so that \"Family comes first\".\n* You will be working in a cross-functional team in a trusting and safe environment of Low Pressure / High Performance where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on healing and problem solving.\n\nAbout the Fractal team\n\n* Ethnicities: 16\n* Meditation minutes: 5,235\n* Languages spoken: 15\n* Unique cocktails made: 104\n* Kilometres cycled: 109,554\n* Unique rubik cube puzzles solved: 10\n* Breakfasts together: 38\n* Parents in the team: 5\n* Board games played: 10",
+      "descriptionHtml": "<p>We are looking for a diligent full-stack developer to build out and enhance our new interface join alongside our aspirational, skilled and high-performing team.</p>\n\n<p>Our long-term mission at Fractal is to connect small-to-medium-sized enterprises (SMEs) to capital markets through blockchain.</p>\n\n<p>To achieve this, we develop next-generation technologies designed to change the way the world interacts with business data using AI (ML, NLP / NLG).</p>\n\n<p>You will join our London office and work in a highly dynamic group, reporting directly to the Chief Technology Officer.</p>\n\n<p>Who you will need to interact with on a day-to-day basis</p>\n\n<ul>\n<li>Chief Technology Officer</li>\n<li>Chief Product Officer</li>\n<li>Head of Platform</li>\n<li>Product Manager</li>\n<li>UX Designers</li>\n<li>Head of Data Science</li>\n<li>Technology Team</li>\n<li>QA Team</li>\n</ul>\n\n<p>Fractal&#39;s Mission</p>\n\n<p>Fractal is fundamentally changing small businesses banking. We’re reinventing SME financial services one API at a time.</p>\n\n<p>As a fintech pioneer, we’re here to make a positive impact on the world with technology, and strengthen the backbone of the economy by increasing liquidity in the SME financing market.</p>\n\n<p>Our passionate and friendly team aims to empower financial innovators to better serve their small businesses through our suite of APIs.</p>\n\n<p>Requirements</p>\n\n<p>Essential</p>\n\n<ul>\n<li>ReactJS, Redux, ES6</li>\n<li>RESTful web API</li>\n<li>SCRUM / Agile</li>\n<li>NodeJS</li>\n<li>AWS Amplify</li>\n</ul>\n\n<p>Experience with some of the following is useful, but not essential</p>\n\n<ul>\n<li>Serverless</li>\n<li>Java</li>\n<li>Python</li>\n<li>NOSQL (Cassandra, DynamoDB)</li>\n<li>AWS (API Gateway, Lambda)</li>\n<li>CI/CD</li>\n<li>Open Banking API</li>\n<li>Integrations with APIs such as Xero, Salesforce, PayPal, Amazon, DueDil</li>\n<li>Spring</li>\n<li>Gradle</li>\n<li>Docker</li>\n<li>CSS</li>\n</ul>\n\n<p>At Fractal, we celebrate diversity. The more inclusive we are, the better our work will be. We are determined to ensure that no applicant or employee receives less favourable treatment on the grounds of gender, age, disability, religion, belief, sexual orientation, marital status, or race.</p>\n\n<p>If you need assistance or an accommodation due to a disability, you may contact us at <a href=\"mailto:info@fractal-labs.com\" target=\"_blank\" rel=\"nofollow\">info@fractal-labs.com</a>.</p>\n\n<p>For further information on our commitment to diversity, please check out our blog at askfractal.com</p>\n\n<p>Benefits</p>\n\n<ul>\n<li>25 days / year annual leave</li>\n<li>Employee share options</li>\n<li>Usual working hours (9.00 - 18.00)</li>\n<li>Core working hours (11:00 - 15:00)</li>\n<li>Board game evenings</li>\n<li>We believe in a good work-life balance so that &quot;Family comes first&quot;.</li>\n<li>You will be working in a cross-functional team in a trusting and safe environment of Low Pressure / High Performance where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on healing and problem solving.</li>\n</ul>\n\n<p>About the Fractal team</p>\n\n<ul>\n<li>Ethnicities: 16</li>\n<li>Meditation minutes: 5,235</li>\n<li>Languages spoken: 15</li>\n<li>Unique cocktails made: 104</li>\n<li>Kilometres cycled: 109,554</li>\n<li>Unique rubik cube puzzles solved: 10</li>\n<li>Breakfasts together: 38</li>\n<li>Parents in the team: 5</li>\n<li>Board games played: 10</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Java",
+        "CSS",
+        "noSQL",
+        "Node.js",
+        "Spring",
+        "Gradle",
+        "OAuth",
+        "Unit Testing",
+        "React.js",
+        "Apache Cassandra",
+        "Redux",
+        "RESTful API",
+        "Open Banking"
+      ],
+      "payment": {
+        "salary": "£40k – £80k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/jerry-taylor-5",
+        "name": "Jerry Taylor",
+        "avatar": "https://photos.angel.co/users/7019605-medium_jpg?1534167737"
+      },
+      "refs": {
+        "angelListId": "411221",
+        "angelListUrl": "https://angel.co/company/fractal-labs/jobs/411221-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "QA Automation Engineer",
+      "description": "We are looking for a Quality Assurance (QA) engineer to develop and execute exploratory and automated tests to ensure product quality. You will play an important part in our company’s product development process. Our ideal candidate will be responsible for conducting tests before product launches to ensure software runs smoothly and meets client needs, while being cost-effective. If you hold an engineering background and enjoy providing end-to-end solutions to software quality problems, we’d love to meet you.\n\nYou will join our London office and work in a highly dynamic group, reporting directly to the Head of Platform.\n\nWho you will need to interact with on a day-to-day basis.\n\n* Head of Platform\n* Chief Technology Officer.\n* Scrum Master\n* Product Manager\n\nResponsibilities\n\n* Monitor all stages of software development to identify and resolve system malfunctions to meet quality standards.\n* Designing and implementing tests.\n* Debugging and defining corrective actions.\n* Review system requirements.\n* Track quality assurance metrics (e.g. defect densities and open defect counts).\n\nFractal's Mission\n\nFractal is fundamentally changing small businesses banking. We’re reinventing SME financial services one API at a time.\n\nAs a fintech pioneer, we’re here to make a positive impact on the world with technology, and strengthen the backbone of the economy by increasing liquidity in the SME financing market.\n\nOur passionate and friendly team aims to empower financial innovators to better serve their small businesses through our suite of APIs.\n\nRequirements\n\nWe are looking for candidates with some of the following skills and experience.\n\n* Agile / SCRUM\n* JIRA\n* CI/CD (Jenkins, GitLab or other)\n* Automated Testing framework such as Selenium\n* BDD\n* API testing\n* Cross browser testing\n* Java, Javascript, Python\n* Unit Testing (Jest, JUnit, Mockito etc)\n\nBenefits\n\n* 25 days / year holiday\n* Package includes employee share options\n* Usual working hours (9.00 - 18.00)\n* Core hours are (11:00-15:00)\n* Board game evenings\n* You will be working in a cross-functional team in a trusting and safe environment of Low Pressure / High Performance where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on healing and problem solving.",
+      "descriptionHtml": "<p>We are looking for a Quality Assurance (QA) engineer to develop and execute exploratory and automated tests to ensure product quality. You will play an important part in our company’s product development process. Our ideal candidate will be responsible for conducting tests before product launches to ensure software runs smoothly and meets client needs, while being cost-effective. If you hold an engineering background and enjoy providing end-to-end solutions to software quality problems, we’d love to meet you.</p>\n\n<p>You will join our London office and work in a highly dynamic group, reporting directly to the Head of Platform.</p>\n\n<p>Who you will need to interact with on a day-to-day basis.</p>\n\n<ul>\n<li>Head of Platform</li>\n<li>Chief Technology Officer.</li>\n<li>Scrum Master</li>\n<li>Product Manager</li>\n</ul>\n\n<p>Responsibilities</p>\n\n<ul>\n<li>Monitor all stages of software development to identify and resolve system malfunctions to meet quality standards.</li>\n<li>Designing and implementing tests.</li>\n<li>Debugging and defining corrective actions.</li>\n<li>Review system requirements.</li>\n<li>Track quality assurance metrics (e.g. defect densities and open defect counts).</li>\n</ul>\n\n<p>Fractal&#39;s Mission</p>\n\n<p>Fractal is fundamentally changing small businesses banking. We’re reinventing SME financial services one API at a time.</p>\n\n<p>As a fintech pioneer, we’re here to make a positive impact on the world with technology, and strengthen the backbone of the economy by increasing liquidity in the SME financing market.</p>\n\n<p>Our passionate and friendly team aims to empower financial innovators to better serve their small businesses through our suite of APIs.</p>\n\n<p>Requirements</p>\n\n<p>We are looking for candidates with some of the following skills and experience.</p>\n\n<ul>\n<li>Agile / SCRUM</li>\n<li>JIRA</li>\n<li>CI/CD (Jenkins, GitLab or other)</li>\n<li>Automated Testing framework such as Selenium</li>\n<li>BDD</li>\n<li>API testing</li>\n<li>Cross browser testing</li>\n<li>Java, Javascript, Python</li>\n<li>Unit Testing (Jest, JUnit, Mockito etc)</li>\n</ul>\n\n<p>Benefits</p>\n\n<ul>\n<li>25 days / year holiday</li>\n<li>Package includes employee share options</li>\n<li>Usual working hours (9.00 - 18.00)</li>\n<li>Core hours are (11:00-15:00)</li>\n<li>Board game evenings</li>\n<li>You will be working in a cross-functional team in a trusting and safe environment of Low Pressure / High Performance where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on healing and problem solving.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£30k – £50k",
+        "equity": "0.05% – 0.1%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/jerry-taylor-5",
+        "name": "Jerry Taylor",
+        "avatar": "https://photos.angel.co/users/7019605-medium_jpg?1534167737"
+      },
+      "refs": {
+        "angelListId": "436501",
+        "angelListUrl": "https://angel.co/company/fractal-labs/jobs/436501-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Sales Strategy and Operations",
+      "description": "Sales Strategy and Operations is vital to our business growth, sustainability and long-term profitability. This role includes responsibilities for Sales Strategy activities (eg. competitive analysis, customer discovery, prioritisation etc.) and Sales Operations activities (eg. customer lifecycle, retention, product requirements, etc.) and outcomes (eg. renewals, upsells, etc.).\n\nYou will join our London office and work in a highly dynamic group, reporting directly to the Chief Operations Officer.\n\nWho you will need to interact with on a day-to-day basis.\n\n* Chief Operations Officer.\n* Chief Product Officer\n\nResponsibilities\n\nCreate and iterate on competitive analysis\n\n* Define and prioritise competitive characteristics and features\n* Identify potential competitive threats\n* Define Customer Discovery and Prioritisation\n* Map customer landscape\n\nDefine customer discovery and prioritisation\n\n* Establish process for customer prioritisation\n* Identify high-priority potential customers\n\nDefine and optimise customer lifecycle\n\n* Map customer journey\n* Develop listening points in journey (eg. usage, satisfaction, etc.)\n* Standardise interventions for each point in journey\n* Define segmentation of customer base and varying strategies\n* Identify opportunities for continuous improvement\n* Learn from best practices in industry\n\nDrive sales operations outcomes\n\n* Increase renewal rates and reduce churn\n* Expand our revenue in accounts through cross-sell and up-sell\n* Influence future lifetime value through higher product adoption, customer satisfaction and overall health scores\n* Drive new business growth through greater advocacy and reference-ability\n\nMeasure effectiveness of sales operations\n\n* Define operational metrics for team\n* Establish system for tracking metrics\n* Create cadence for review within team\n* Expose subset of metrics to executive team, company and board\n\nEnhance effectiveness and efficiency through technology\n\n* Support systems\n* Customer marketing software\n* Reference and advocacy solutions\n* Sales Operations Management platform\n\nInspire sales operations across company\n\n* Create company-wide culture of Sales Operations\n* Align with Marketing around marketing to existing clients\n* Align with Product around driving product roadmap\n* Align with Sales around cross-sell and up-sell and focus on selling with a retention focus\n* Align with Finance around measurement and forecasting\n* Align with Executive Team around key metrics and objectives\n* Drive company-wide definition of ideal customer\n* Create company-wide customer feedback loop\n\nFractal's Mission\n\nFractal is fundamentally changing small businesses banking. We’re reinventing SME financial services one API at a time.\n\nAs a fintech pioneer, we’re here to make a positive impact on the world with technology, and strengthen the backbone of the economy by increasing liquidity in the SME financing market.\n\nOur passionate and friendly team aims to empower financial innovators to better serve their small businesses through our suite of APIs.\n\nRequirements\n\n* 5+ years experience in leading customer and partner facing organizations\n* Ideally combined technical and customer facing background and experience\n* Analytical and process-oriented mindset\n* Ability to manage influence through persuasion, negotiation, and consensus building\n* Strong empathy for customers and partners\n* Passion for revenue and growth\n* Demonstrated desire for continuous learning and improvement\n* Excellent communication and presentation skills\n* Data Analysis with sql, python, pandas, numpy, matplotlib\n\nMinimum Qualifications\n\n* MSc in a management or technology related field or equivalent practical experience.\n\nExperience with some of the following is useful, but not essential\n\n* Proven track record of working with large institutional clients, preferably financial institutions.\n* Skilled at analysing data, identifying patterns and defining processes to increase efficiency.\n* Experience working on high-value technology related projects.\n* Outstanding verbal and written communication skills.\n\nBenefits\n\n* 25 days / year holiday\n* Employee share options\n* Usual working hours (9.00 - 18.00)\n* Core working hours are (11:00 - 15:00)\n* Board game evenings\n* We believe in a good work-life balance so that \"Family comes first\".\n* You will be working in a cross-functional team in a trusting and safe environment of Low Pressure / High Performance where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on healing and problem solving.\n\nAbout the Fractal team\n\n* Ethnicities: 16\n* Meditation minutes: 5,235\n* Languages spoken: 15\n* Unique cocktails made: 104\n* Kilometres cycled: 109,554\n* Unique rubik cube puzzles solved: 10\n* Breakfasts together: 38\n* Parents in the team: 5\n* Board games played: 10",
+      "descriptionHtml": "<p>Sales Strategy and Operations is vital to our business growth, sustainability and long-term profitability. This role includes responsibilities for Sales Strategy activities (eg. competitive analysis, customer discovery, prioritisation etc.) and Sales Operations activities (eg. customer lifecycle, retention, product requirements, etc.) and outcomes (eg. renewals, upsells, etc.).</p>\n\n<p>You will join our London office and work in a highly dynamic group, reporting directly to the Chief Operations Officer.</p>\n\n<p>Who you will need to interact with on a day-to-day basis.</p>\n\n<ul>\n<li>Chief Operations Officer.</li>\n<li>Chief Product Officer</li>\n</ul>\n\n<p>Responsibilities</p>\n\n<p>Create and iterate on competitive analysis</p>\n\n<ul>\n<li>Define and prioritise competitive characteristics and features</li>\n<li>Identify potential competitive threats</li>\n<li>Define Customer Discovery and Prioritisation</li>\n<li>Map customer landscape</li>\n</ul>\n\n<p>Define customer discovery and prioritisation</p>\n\n<ul>\n<li>Establish process for customer prioritisation</li>\n<li>Identify high-priority potential customers</li>\n</ul>\n\n<p>Define and optimise customer lifecycle</p>\n\n<ul>\n<li>Map customer journey</li>\n<li>Develop listening points in journey (eg. usage, satisfaction, etc.)</li>\n<li>Standardise interventions for each point in journey</li>\n<li>Define segmentation of customer base and varying strategies</li>\n<li>Identify opportunities for continuous improvement</li>\n<li>Learn from best practices in industry</li>\n</ul>\n\n<p>Drive sales operations outcomes</p>\n\n<ul>\n<li>Increase renewal rates and reduce churn</li>\n<li>Expand our revenue in accounts through cross-sell and up-sell</li>\n<li>Influence future lifetime value through higher product adoption, customer satisfaction and overall health scores</li>\n<li>Drive new business growth through greater advocacy and reference-ability</li>\n</ul>\n\n<p>Measure effectiveness of sales operations</p>\n\n<ul>\n<li>Define operational metrics for team</li>\n<li>Establish system for tracking metrics</li>\n<li>Create cadence for review within team</li>\n<li>Expose subset of metrics to executive team, company and board</li>\n</ul>\n\n<p>Enhance effectiveness and efficiency through technology</p>\n\n<ul>\n<li>Support systems</li>\n<li>Customer marketing software</li>\n<li>Reference and advocacy solutions</li>\n<li>Sales Operations Management platform</li>\n</ul>\n\n<p>Inspire sales operations across company</p>\n\n<ul>\n<li>Create company-wide culture of Sales Operations</li>\n<li>Align with Marketing around marketing to existing clients</li>\n<li>Align with Product around driving product roadmap</li>\n<li>Align with Sales around cross-sell and up-sell and focus on selling with a retention focus</li>\n<li>Align with Finance around measurement and forecasting</li>\n<li>Align with Executive Team around key metrics and objectives</li>\n<li>Drive company-wide definition of ideal customer</li>\n<li>Create company-wide customer feedback loop</li>\n</ul>\n\n<p>Fractal&#39;s Mission</p>\n\n<p>Fractal is fundamentally changing small businesses banking. We’re reinventing SME financial services one API at a time.</p>\n\n<p>As a fintech pioneer, we’re here to make a positive impact on the world with technology, and strengthen the backbone of the economy by increasing liquidity in the SME financing market.</p>\n\n<p>Our passionate and friendly team aims to empower financial innovators to better serve their small businesses through our suite of APIs.</p>\n\n<p>Requirements</p>\n\n<ul>\n<li>5+ years experience in leading customer and partner facing organizations</li>\n<li>Ideally combined technical and customer facing background and experience</li>\n<li>Analytical and process-oriented mindset</li>\n<li>Ability to manage influence through persuasion, negotiation, and consensus building</li>\n<li>Strong empathy for customers and partners</li>\n<li>Passion for revenue and growth</li>\n<li>Demonstrated desire for continuous learning and improvement</li>\n<li>Excellent communication and presentation skills</li>\n<li>Data Analysis with sql, python, pandas, numpy, matplotlib</li>\n</ul>\n\n<p>Minimum Qualifications</p>\n\n<ul>\n<li>MSc in a management or technology related field or equivalent practical experience.</li>\n</ul>\n\n<p>Experience with some of the following is useful, but not essential</p>\n\n<ul>\n<li>Proven track record of working with large institutional clients, preferably financial institutions.</li>\n<li>Skilled at analysing data, identifying patterns and defining processes to increase efficiency.</li>\n<li>Experience working on high-value technology related projects.</li>\n<li>Outstanding verbal and written communication skills.</li>\n</ul>\n\n<p>Benefits</p>\n\n<ul>\n<li>25 days / year holiday</li>\n<li>Employee share options</li>\n<li>Usual working hours (9.00 - 18.00)</li>\n<li>Core working hours are (11:00 - 15:00)</li>\n<li>Board game evenings</li>\n<li>We believe in a good work-life balance so that &quot;Family comes first&quot;.</li>\n<li>You will be working in a cross-functional team in a trusting and safe environment of Low Pressure / High Performance where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on healing and problem solving.</li>\n</ul>\n\n<p>About the Fractal team</p>\n\n<ul>\n<li>Ethnicities: 16</li>\n<li>Meditation minutes: 5,235</li>\n<li>Languages spoken: 15</li>\n<li>Unique cocktails made: 104</li>\n<li>Kilometres cycled: 109,554</li>\n<li>Unique rubik cube puzzles solved: 10</li>\n<li>Breakfasts together: 38</li>\n<li>Parents in the team: 5</li>\n<li>Board games played: 10</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/jerry-taylor-5",
+        "name": "Jerry Taylor",
+        "avatar": "https://photos.angel.co/users/7019605-medium_jpg?1534167737"
+      },
+      "refs": {
+        "angelListId": "436502",
+        "angelListUrl": "https://angel.co/company/fractal-labs/jobs/436502-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Machine Learning Java Engineer",
+      "description": "As a \"full-stack developer of data science\" you will engineer the models that the Data Scientists invent turning their \"happy path\" into reliable, economic, scalable production systems that surface actionable insights, forecasts and engaging conversations to the users. You will possess software engineering, machine learning and DevOps skills that will be crucial to the development of the new generation of AI and data driven products.\n\nYou will join our London office and work in a highly dynamic group, reporting directly to the Chief Technology Officer.\n\nWho you will need to interact with on a day-to-day basis\n\n* Chief Technology Officer\n* Chief Product Officer\n* Head of Platform\n* Product Manager\n* Head of Data Science\n* Technology Team\n* QA Team\n\nResponsibilities\n\n* Assert that all production tasks are working properly in terms of actual execution and scheduling\n* Push machine learning libraries to their limits, often adding new functionalities\n* Ensure that data science code is maintainable, scalable and debuggable\n* Automate and abstract away different repeatable routines that are present in most machine learning tasks\n* Bring the best software development practices to the data science team and help them speed up their work\n* Work on operational architecture with devops team\n* Select ML technologies for production performance\n\nFractal's Mission\n\nFractal is fundamentally changing small businesses banking. We’re reinventing SME financial services one API at a time.\n\nAs a fintech pioneer, we’re here to make a positive impact on the world with technology, and strengthen the backbone of the economy by increasing liquidity in the SME financing market.\n\nOur passionate and friendly team aims to empower financial innovators to better serve their small businesses through our suite of APIs.\n\nRequirements\n\nEssential.\n\n* Java\n* Python\n* Machine Learning\n* DevOps\n* Agile / SCRUM\n\nExperience with some of the following is useful, but not essential.\n\n* Neural Networks, NLP / NLG\n* Gradle, IntelliJ\n* AWS Sagemaker, ECS, Fargate\n\nBenefits\n\n* 25 days / year holiday\n* Employee share options\n* Usual working hours (9.00 - 18.00)\n* Core working hours are (11:00 - 15:00)\n* Board game evenings\n* We believe in a good work-life balance so that \"Family comes first\".\n* You will be working in a cross-functional team in a trusting and safe environment of Low Pressure / High Performance where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on healing and problem solving.\n\nAbout the Fractal team\n\n* Ethnicities: 16\n* Meditation minutes: 5,235\n* Languages spoken: 15\n* Unique cocktails made: 104\n* Kilometres cycled: 109,554\n* Unique rubik cube puzzles solved: 10\n* Breakfasts together: 38\n* Parents in the team: 5\n* Board games played: 10",
+      "descriptionHtml": "<p>As a &quot;full-stack developer of data science&quot; you will engineer the models that the Data Scientists invent turning their &quot;happy path&quot; into reliable, economic, scalable production systems that surface actionable insights, forecasts and engaging conversations to the users. You will possess software engineering, machine learning and DevOps skills that will be crucial to the development of the new generation of AI and data driven products.</p>\n\n<p>You will join our London office and work in a highly dynamic group, reporting directly to the Chief Technology Officer.</p>\n\n<p>Who you will need to interact with on a day-to-day basis</p>\n\n<ul>\n<li>Chief Technology Officer</li>\n<li>Chief Product Officer</li>\n<li>Head of Platform</li>\n<li>Product Manager</li>\n<li>Head of Data Science</li>\n<li>Technology Team</li>\n<li>QA Team</li>\n</ul>\n\n<p>Responsibilities</p>\n\n<ul>\n<li>Assert that all production tasks are working properly in terms of actual execution and scheduling</li>\n<li>Push machine learning libraries to their limits, often adding new functionalities</li>\n<li>Ensure that data science code is maintainable, scalable and debuggable</li>\n<li>Automate and abstract away different repeatable routines that are present in most machine learning tasks</li>\n<li>Bring the best software development practices to the data science team and help them speed up their work</li>\n<li>Work on operational architecture with devops team</li>\n<li>Select ML technologies for production performance</li>\n</ul>\n\n<p>Fractal&#39;s Mission</p>\n\n<p>Fractal is fundamentally changing small businesses banking. We’re reinventing SME financial services one API at a time.</p>\n\n<p>As a fintech pioneer, we’re here to make a positive impact on the world with technology, and strengthen the backbone of the economy by increasing liquidity in the SME financing market.</p>\n\n<p>Our passionate and friendly team aims to empower financial innovators to better serve their small businesses through our suite of APIs.</p>\n\n<p>Requirements</p>\n\n<p>Essential.</p>\n\n<ul>\n<li>Java</li>\n<li>Python</li>\n<li>Machine Learning</li>\n<li>DevOps</li>\n<li>Agile / SCRUM</li>\n</ul>\n\n<p>Experience with some of the following is useful, but not essential.</p>\n\n<ul>\n<li>Neural Networks, NLP / NLG</li>\n<li>Gradle, IntelliJ</li>\n<li>AWS Sagemaker, ECS, Fargate</li>\n</ul>\n\n<p>Benefits</p>\n\n<ul>\n<li>25 days / year holiday</li>\n<li>Employee share options</li>\n<li>Usual working hours (9.00 - 18.00)</li>\n<li>Core working hours are (11:00 - 15:00)</li>\n<li>Board game evenings</li>\n<li>We believe in a good work-life balance so that &quot;Family comes first&quot;.</li>\n<li>You will be working in a cross-functional team in a trusting and safe environment of Low Pressure / High Performance where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on healing and problem solving.</li>\n</ul>\n\n<p>About the Fractal team</p>\n\n<ul>\n<li>Ethnicities: 16</li>\n<li>Meditation minutes: 5,235</li>\n<li>Languages spoken: 15</li>\n<li>Unique cocktails made: 104</li>\n<li>Kilometres cycled: 109,554</li>\n<li>Unique rubik cube puzzles solved: 10</li>\n<li>Breakfasts together: 38</li>\n<li>Parents in the team: 5</li>\n<li>Board games played: 10</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Java",
+        "Machine Learning",
+        "SCRUM",
+        "AWS",
+        "NLP"
+      ],
+      "payment": {
+        "salary": "£40k – £60k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/jerry-taylor-5",
+        "name": "Jerry Taylor",
+        "avatar": "https://photos.angel.co/users/7019605-medium_jpg?1534167737"
+      },
+      "refs": {
+        "angelListId": "439354",
+        "angelListUrl": "https://angel.co/company/fractal-labs/jobs/439354-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Customer Success",
+      "description": "Customer Success is vital to our business growth, sustainability and long-term profitability. This role includes responsibilities for Customer Success activities (eg. on-boarding, support, services, adoption, advocacy, retention, product enhancements, etc.) and outcomes (eg. renewals, up-sells, etc.).\n\nResponsibilities\n\nDrive Customer Success outcomes\n\n* Increase renewal rates and reduce churn\n* Expand our revenue in accounts through cross-sell and up-sell\n* Influence future lifetime value through higher product adoption, customer satisfaction and overall health scores\n* Drive new business growth through greater advocacy and reference-ability\n\nDefine and optimise customer lifecycle\n\n* Map customer journey\n* Develop listening points in journey (eg. usage, satisfaction, etc.)\n* Standardise interventions for each point in journey\n* Define segmentation of customer base and varying strategies\n* Identify opportunities for continuous improvement\n* Learn from best practices in industry\n\nManage Customer Success activities\n\n* On-boarding\n* Training\n* Professional Services\n* Customer Support\n* Customer Success Management\n* Renewals\n* Cross-sell / Up-sell\n* Advocacy\n\nMeasure effectiveness of Customer Success\n\n* Define operational metrics for team\n* Establish system for tracking metrics\n* Create cadence for review within team\n* Expose subset of metrics to executive team, company and board\n\nGrow and lead world-class Customer Success team (level dependent)\n\n* Recruit experienced leaders for each functional role\n* Attract high potential individual contributors into team\n* Create rapid on-boarding process for new team members\n* Foster collaboration within team and across customer lifecycle\n* Encourage continuous learning within team\n\nEnhance effectiveness and efficiency through technology\n\n* Support systems\n* Customer marketing software\n* Reference and advocacy solutions\n* Customer Success Management platform\n\nInspire customer success across company\n\n* Create company-wide culture of Customer Success\n* Align with Marketing around marketing to existing clients\n* Align with Product around driving product roadmap\n* Align with Sales around cross-sell and up-sell and focus on selling with a retention focus\n* Align with Finance around measurement and forecasting\n* Align with Executive Team around key metrics and objectives\n* Drive company-wide definition of ideal customer\n* Create company-wide customer feedback loop\n\nRequirements\n\nSkills\n\n* 5+ years experience in leading customer and partner facing organisations\n* Ability to manage influence through persuasion, negotiation, and consensus building\n* Ideally combined technical and customer facing background and experience\n* Strong empathy for customers and partners\n* Passion for revenue and growth\n* Deep understanding of value drivers in recurring revenue business models\n* Analytical and process-oriented mindset\n* Demonstrated desire for continuous learning and improvement\n* Enthusiastic and creative leader with the ability to inspire others\n* Excellent communication and presentation skills\n\nMinimum Qualifications\n\n* BA/BS in a Psychology, Business Administration, Media Studies or equivalent practical experience.\n\nPreferred Qualifications\n\n* Proven track record of building recurring revenue businesses.\n* Experience working on products across multiple devices and contexts (desktop, mobile, tablet).\n* Outstanding verbal and written communication skills.\n\nBenefits\n\n* 25 days / year holiday\n* Employee share options\n* Usual working hours (9.00 - 18.00)\n* Core working hours are (11:00 - 15:00)\n* Board game evenings",
+      "descriptionHtml": "<p>Customer Success is vital to our business growth, sustainability and long-term profitability. This role includes responsibilities for Customer Success activities (eg. on-boarding, support, services, adoption, advocacy, retention, product enhancements, etc.) and outcomes (eg. renewals, up-sells, etc.).</p>\n\n<p>Responsibilities</p>\n\n<p>Drive Customer Success outcomes</p>\n\n<ul>\n<li>Increase renewal rates and reduce churn</li>\n<li>Expand our revenue in accounts through cross-sell and up-sell</li>\n<li>Influence future lifetime value through higher product adoption, customer satisfaction and overall health scores</li>\n<li>Drive new business growth through greater advocacy and reference-ability</li>\n</ul>\n\n<p>Define and optimise customer lifecycle</p>\n\n<ul>\n<li>Map customer journey</li>\n<li>Develop listening points in journey (eg. usage, satisfaction, etc.)</li>\n<li>Standardise interventions for each point in journey</li>\n<li>Define segmentation of customer base and varying strategies</li>\n<li>Identify opportunities for continuous improvement</li>\n<li>Learn from best practices in industry</li>\n</ul>\n\n<p>Manage Customer Success activities</p>\n\n<ul>\n<li>On-boarding</li>\n<li>Training</li>\n<li>Professional Services</li>\n<li>Customer Support</li>\n<li>Customer Success Management</li>\n<li>Renewals</li>\n<li>Cross-sell / Up-sell</li>\n<li>Advocacy</li>\n</ul>\n\n<p>Measure effectiveness of Customer Success</p>\n\n<ul>\n<li>Define operational metrics for team</li>\n<li>Establish system for tracking metrics</li>\n<li>Create cadence for review within team</li>\n<li>Expose subset of metrics to executive team, company and board</li>\n</ul>\n\n<p>Grow and lead world-class Customer Success team (level dependent)</p>\n\n<ul>\n<li>Recruit experienced leaders for each functional role</li>\n<li>Attract high potential individual contributors into team</li>\n<li>Create rapid on-boarding process for new team members</li>\n<li>Foster collaboration within team and across customer lifecycle</li>\n<li>Encourage continuous learning within team</li>\n</ul>\n\n<p>Enhance effectiveness and efficiency through technology</p>\n\n<ul>\n<li>Support systems</li>\n<li>Customer marketing software</li>\n<li>Reference and advocacy solutions</li>\n<li>Customer Success Management platform</li>\n</ul>\n\n<p>Inspire customer success across company</p>\n\n<ul>\n<li>Create company-wide culture of Customer Success</li>\n<li>Align with Marketing around marketing to existing clients</li>\n<li>Align with Product around driving product roadmap</li>\n<li>Align with Sales around cross-sell and up-sell and focus on selling with a retention focus</li>\n<li>Align with Finance around measurement and forecasting</li>\n<li>Align with Executive Team around key metrics and objectives</li>\n<li>Drive company-wide definition of ideal customer</li>\n<li>Create company-wide customer feedback loop</li>\n</ul>\n\n<p>Requirements</p>\n\n<p>Skills</p>\n\n<ul>\n<li>5+ years experience in leading customer and partner facing organisations</li>\n<li>Ability to manage influence through persuasion, negotiation, and consensus building</li>\n<li>Ideally combined technical and customer facing background and experience</li>\n<li>Strong empathy for customers and partners</li>\n<li>Passion for revenue and growth</li>\n<li>Deep understanding of value drivers in recurring revenue business models</li>\n<li>Analytical and process-oriented mindset</li>\n<li>Demonstrated desire for continuous learning and improvement</li>\n<li>Enthusiastic and creative leader with the ability to inspire others</li>\n<li>Excellent communication and presentation skills</li>\n</ul>\n\n<p>Minimum Qualifications</p>\n\n<ul>\n<li>BA/BS in a Psychology, Business Administration, Media Studies or equivalent practical experience.</li>\n</ul>\n\n<p>Preferred Qualifications</p>\n\n<ul>\n<li>Proven track record of building recurring revenue businesses.</li>\n<li>Experience working on products across multiple devices and contexts (desktop, mobile, tablet).</li>\n<li>Outstanding verbal and written communication skills.</li>\n</ul>\n\n<p>Benefits</p>\n\n<ul>\n<li>25 days / year holiday</li>\n<li>Employee share options</li>\n<li>Usual working hours (9.00 - 18.00)</li>\n<li>Core working hours are (11:00 - 15:00)</li>\n<li>Board game evenings</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/jerry-taylor-5",
+        "name": "Jerry Taylor",
+        "avatar": "https://photos.angel.co/users/7019605-medium_jpg?1534167737"
+      },
+      "refs": {
+        "angelListId": "441942",
+        "angelListUrl": "https://angel.co/company/fractal-labs/jobs/441942-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Lead Full-stack Developer",
+      "description": "We are looking for a lead full-stack developer to inspire an aspirational, skilled and high-performing team building new products for our award-winning market leading platform. You will be responsible for mentoring and coaching junior developers, leading by example by developing well tested production quality code.\n\n\nFractal's Mission\n\nFractal is fundamentally changing small businesses banking. We’re reinventing SME financial services one API at a time. As a fintech pioneer, we’re here to make a positive impact on the world with technology, and strengthen the backbone of the economy by increasing liquidity in the SME financing market. Our passionate and friendly team aims to empower financial innovators to better serve their small businesses through our suite of APIs.\n\nRequirements\n\nEssential\n\n* ReactJS, Redux, ES6\n* Java and/or Python\n\n* Integrating with OAuth APIs\n* SCRUM / Agile Development Processes\n\nExperience with some of the following is useful, but not essential\n\n* Clean Code\n* Serverless programming\n* NOSQL (Cassandra, DynamoDB)\n* MySQL\n* AWS (Lambda, Cognito)\n* Spring\n* Gradle\n* Docker\n* Open Banking API\n* Integrations with APIs such as Xero, Salesforce, PayPal, Amazon, DueDil\n\n\nAt Fractal, we celebrate diversity. The more inclusive we are, the better our work will be. We are determined to ensure that no applicant or employee receives less favourable treatment on the grounds of gender, age, disability, religion, belief, sexual orientation, marital status, or race.\n\n\nIf you need assistance or an accommodation due to a disability, you may contact us at info@fractal-labs.com.\n\n\nFor further information on our commitment to diversity, please check out our blog at askfractal.com\n\nBenefits\n\n* 25 days / year annual leave\n* Employee share options\n* Usual working hours (9.00 - 18.00)\n* Core working hours (11:00 - 15:00)\n* Board game evenings\n* We believe in a good work-life balance so that \"Family comes first\".\n* You will be working in a cross-functional team in a trusting and safe environment of Low Pressure / High Performance where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on healing and problem solving.\n\nAbout the Fractal team\n\n* Ethnicities: 16\n* Meditation minutes: 5,235\n* Languages spoken: 15\n* Unique cocktails made: 104\n* Kilometres cycled: 109,554\n* Unique rubik cube puzzles solved: 10\n* Breakfasts together: 38\n* Parents in the team: 5\n* Board games played: 10",
+      "descriptionHtml": "<p>We are looking for a lead full-stack developer to inspire an aspirational, skilled and high-performing team building new products for our award-winning market leading platform. You will be responsible for mentoring and coaching junior developers, leading by example by developing well tested production quality code.</p>\n\n<p>Fractal&#39;s Mission</p>\n\n<p>Fractal is fundamentally changing small businesses banking. We’re reinventing SME financial services one API at a time. As a fintech pioneer, we’re here to make a positive impact on the world with technology, and strengthen the backbone of the economy by increasing liquidity in the SME financing market. Our passionate and friendly team aims to empower financial innovators to better serve their small businesses through our suite of APIs.</p>\n\n<p>Requirements</p>\n\n<p>Essential</p>\n\n<ul>\n<li>ReactJS, Redux, ES6</li>\n<li><p>Java and/or Python</p></li>\n<li><p>Integrating with OAuth APIs</p></li>\n<li><p>SCRUM / Agile Development Processes</p></li>\n</ul>\n\n<p>Experience with some of the following is useful, but not essential</p>\n\n<ul>\n<li>Clean Code</li>\n<li>Serverless programming</li>\n<li>NOSQL (Cassandra, DynamoDB)</li>\n<li>MySQL</li>\n<li>AWS (Lambda, Cognito)</li>\n<li>Spring</li>\n<li>Gradle</li>\n<li>Docker</li>\n<li>Open Banking API</li>\n<li>Integrations with APIs such as Xero, Salesforce, PayPal, Amazon, DueDil</li>\n</ul>\n\n<p>At Fractal, we celebrate diversity. The more inclusive we are, the better our work will be. We are determined to ensure that no applicant or employee receives less favourable treatment on the grounds of gender, age, disability, religion, belief, sexual orientation, marital status, or race.</p>\n\n<p>If you need assistance or an accommodation due to a disability, you may contact us at <a href=\"mailto:info@fractal-labs.com\" target=\"_blank\" rel=\"nofollow\">info@fractal-labs.com</a>.</p>\n\n<p>For further information on our commitment to diversity, please check out our blog at askfractal.com</p>\n\n<p>Benefits</p>\n\n<ul>\n<li>25 days / year annual leave</li>\n<li>Employee share options</li>\n<li>Usual working hours (9.00 - 18.00)</li>\n<li>Core working hours (11:00 - 15:00)</li>\n<li>Board game evenings</li>\n<li>We believe in a good work-life balance so that &quot;Family comes first&quot;.</li>\n<li>You will be working in a cross-functional team in a trusting and safe environment of Low Pressure / High Performance where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on healing and problem solving.</li>\n</ul>\n\n<p>About the Fractal team</p>\n\n<ul>\n<li>Ethnicities: 16</li>\n<li>Meditation minutes: 5,235</li>\n<li>Languages spoken: 15</li>\n<li>Unique cocktails made: 104</li>\n<li>Kilometres cycled: 109,554</li>\n<li>Unique rubik cube puzzles solved: 10</li>\n<li>Breakfasts together: 38</li>\n<li>Parents in the team: 5</li>\n<li>Board games played: 10</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£60k – £80k"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/jerry-taylor-5",
+        "name": "Jerry Taylor",
+        "avatar": "https://photos.angel.co/users/7019605-medium_jpg?1534167737"
+      },
+      "refs": {
+        "angelListId": "553186",
+        "angelListUrl": "https://angel.co/company/fractal-labs/jobs/553186-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "Lead UX / UI Designer",
+      "description": "We are looking for a talented designer who has the skill not only to create high quality graphics, but also the ability to apply their creations to a user­-centered design. You will be able to understand how the personas will want to instinctively interact with the UI, and provide them with the ability to perform their tasks intuitively. Ideally, you understand psychology of a user. SMEs owners are really passionate about what they do but don’t always have the time and/or understanding to manage their finances. You will understand their needs and design experiences that will simplify their lives.\n\nAt Fractal you will be involved with all facets of product design: interaction design, visual design and prototyping across web and mobile customer journeys.\n\nYou will join our London office and work in a highly dynamic group, reporting directly to the Chief Product Officer.\n\nWho you will need to interact with on a day-to-day basis\n\n* Chief Product Officer\n* Product Manager\n* Behavioural Scientist\n* Communications Manager\n\nResponsibilities\n\n* Create elegant and user-friendly designs for users who are not very tech-savvy\n* Create assets for Products (Mobile, Web app, Platform)\n* Bring fresh and new ideas to the product.\n\nFractal's Mission\n\nFractal is fundamentally changing small businesses banking. We’re reinventing SME financial services one API at a time.\n\nAs a fintech pioneer, we’re here to make a positive impact on the world with technology, and strengthen the backbone of the economy by increasing liquidity in the SME financing market.\n\nOur passionate and friendly team aims to empower financial innovators to better serve their small businesses through our suite of APIs.\n\nRequirements\n\nEssential\n\n* A strong design book showing how you conceptualised, designed and delivered groundbreaking UI, UX, Interaction and visual design\n* Strong visual design skills: Latest trends, colour and typography\n* Interaction design, UI design and usability\n* Ability to solve design challenges with creativity, efficiency and precision\n* Ability to position and control UI elements, along with an understanding of how to construct designs flexible enough to display across multiple browsers, screen sizes, platforms and devices\n* Able to elicit constructive feedback and capable of interpreting that feedback into design solutions\n* Collaborate with and working with product management and development\n\nQualifications\n\n* Familiar with Agile/Scrum methodology\n* Able to integrate UX/UI into Agile development practices\n* Familiar with Lean principles\n* 5+ years mobile and web UI/UX design experience\n\nPersonal qualities\n\n* Must be creative, self­-directed, confident and able to work in a fast­ paced environment\n* Excellent communication: Ability to explain why a design works or why it doesn’t\n* Able to work full-time and onsite in Fractal’s London offices\n\nThe tools that you will use\n\n* Sketch\n* Zeplin (or similar)\n* Prototyping tools: Invision, Marvel, Flinto or similar\n\nBenefits\n\n* 25 days / year holiday\n* Employee share options\n* Usual working hours (9.00 - 18.00)\n* Core working hours are (11:00 - 15:00)\n* Board game evenings\n\nAbout the Fractal team\n\n* Ethnicities: 16\n* Meditation minutes: 5,235\n* Languages spoken: 15\n* Unique cocktails made: 104\n* Kilometres cycled: 109,554\n* Unique rubik cube puzzles solved: 10\n* Breakfasts together: 38\n* Parents in the team: 5\n* Board games played: 10",
+      "descriptionHtml": "<p>We are looking for a talented designer who has the skill not only to create high quality graphics, but also the ability to apply their creations to a user­-centered design. You will be able to understand how the personas will want to instinctively interact with the UI, and provide them with the ability to perform their tasks intuitively. Ideally, you understand psychology of a user. SMEs owners are really passionate about what they do but don’t always have the time and/or understanding to manage their finances. You will understand their needs and design experiences that will simplify their lives.</p>\n\n<p>At Fractal you will be involved with all facets of product design: interaction design, visual design and prototyping across web and mobile customer journeys.</p>\n\n<p>You will join our London office and work in a highly dynamic group, reporting directly to the Chief Product Officer.</p>\n\n<p>Who you will need to interact with on a day-to-day basis</p>\n\n<ul>\n<li>Chief Product Officer</li>\n<li>Product Manager</li>\n<li>Behavioural Scientist</li>\n<li>Communications Manager</li>\n</ul>\n\n<p>Responsibilities</p>\n\n<ul>\n<li>Create elegant and user-friendly designs for users who are not very tech-savvy</li>\n<li>Create assets for Products (Mobile, Web app, Platform)</li>\n<li>Bring fresh and new ideas to the product.</li>\n</ul>\n\n<p>Fractal&#39;s Mission</p>\n\n<p>Fractal is fundamentally changing small businesses banking. We’re reinventing SME financial services one API at a time.</p>\n\n<p>As a fintech pioneer, we’re here to make a positive impact on the world with technology, and strengthen the backbone of the economy by increasing liquidity in the SME financing market.</p>\n\n<p>Our passionate and friendly team aims to empower financial innovators to better serve their small businesses through our suite of APIs.</p>\n\n<p>Requirements</p>\n\n<p>Essential</p>\n\n<ul>\n<li>A strong design book showing how you conceptualised, designed and delivered groundbreaking UI, UX, Interaction and visual design</li>\n<li>Strong visual design skills: Latest trends, colour and typography</li>\n<li>Interaction design, UI design and usability</li>\n<li>Ability to solve design challenges with creativity, efficiency and precision</li>\n<li>Ability to position and control UI elements, along with an understanding of how to construct designs flexible enough to display across multiple browsers, screen sizes, platforms and devices</li>\n<li>Able to elicit constructive feedback and capable of interpreting that feedback into design solutions</li>\n<li>Collaborate with and working with product management and development</li>\n</ul>\n\n<p>Qualifications</p>\n\n<ul>\n<li>Familiar with Agile/Scrum methodology</li>\n<li>Able to integrate UX/UI into Agile development practices</li>\n<li>Familiar with Lean principles</li>\n<li>5+ years mobile and web UI/UX design experience</li>\n</ul>\n\n<p>Personal qualities</p>\n\n<ul>\n<li>Must be creative, self­-directed, confident and able to work in a fast­ paced environment</li>\n<li>Excellent communication: Ability to explain why a design works or why it doesn’t</li>\n<li>Able to work full-time and onsite in Fractal’s London offices</li>\n</ul>\n\n<p>The tools that you will use</p>\n\n<ul>\n<li>Sketch</li>\n<li>Zeplin (or similar)</li>\n<li>Prototyping tools: Invision, Marvel, Flinto or similar</li>\n</ul>\n\n<p>Benefits</p>\n\n<ul>\n<li>25 days / year holiday</li>\n<li>Employee share options</li>\n<li>Usual working hours (9.00 - 18.00)</li>\n<li>Core working hours are (11:00 - 15:00)</li>\n<li>Board game evenings</li>\n</ul>\n\n<p>About the Fractal team</p>\n\n<ul>\n<li>Ethnicities: 16</li>\n<li>Meditation minutes: 5,235</li>\n<li>Languages spoken: 15</li>\n<li>Unique cocktails made: 104</li>\n<li>Kilometres cycled: 109,554</li>\n<li>Unique rubik cube puzzles solved: 10</li>\n<li>Breakfasts together: 38</li>\n<li>Parents in the team: 5</li>\n<li>Board games played: 10</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/jerry-taylor-5",
+        "name": "Jerry Taylor",
+        "avatar": "https://photos.angel.co/users/7019605-medium_jpg?1534167737"
+      },
+      "refs": {
+        "angelListId": "501501",
+        "angelListUrl": "https://angel.co/company/fractal-labs/jobs/501501-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Product Marketing Manager",
+      "description": "We are looking for a talented Product Marketing Manager who has the skill not only to strongly position the products, but also to build world-class collateral to support the sales team.\n\nYou will be able to understand the market requirements and will be able to optimise the inbound sales funnel. You will play a key role, building upon our position as a leader within the financial services sector.\n\nYou will understand the psychology of our main customers and our end user. SMEs owners are really passionate about what they do but don’t always have the time and/or understanding to manage their finances. You will be empathetic to our main customer and our end user’s needs and give them collateral that will simplify their lives.\n\nAt Fractal you will be involved with all facets of product marketing: design and prototyping across web and mobile customer journeys.\n\nYou will join our London office and work in a highly dynamic group, reporting directly to the Chief Product Officer.\n\nWho you will need to interact with on a day-to-day basis\n\n* Chief Product Officer (to learn about product releases, to optimise the funnel)\n* Sales and Commercial Team (to brief them on new features, creating collateral)\n* Chief Technology Officer (to respond to RFPs)\n* Communications Manager (to work on press, events and external communications)\n\nResponsibilities\n\nBranding and Positioning\n\n* Drive the product messaging and positioning: Own product naming, messaging, positioning and marketing creative\n* Lead product launches: Drive product launches, announcements, campaigns programs and initiatives.\n* Influence product strategy, research and content.\n* Support product briefing, design, partnerships.\n\nBuild an inbound funnel and enable sales\n\n* Funnel: Manage and lead integrated full-funnel marketing activities.\n* Sales enablement: Communicate the value proposition of the features to the sales team and develop the sales tools that support the selling process of the product.\n* Demand generation: Develop the strategy and manage the marketing programs that drive demand for the product.\n* Channel Development: Develop brand new routes to market - whether it’s partnerships or innovative performance marketing deals.\n\nFractal's Mission\n\nFractal is fundamentally changing small businesses banking. We’re reinventing SME financial services one API at a time.\n\nAs a fintech pioneer, we’re here to make a positive impact on the world with technology, and strengthen the backbone of the economy by increasing liquidity in the SME financing market.\n\nOur passionate and friendly team aims to empower financial innovators to better serve their small businesses through our suite of APIs.\n\nRequirements\n\nEssential\n\n* At least 5 years of Product Marketing experience\n* Product Marketing experience at world class technology brands and startups\n\n* Been exposed to product strategy, design and development principles and processes\n* Led global campaigns, communications and go-to-market initiatives\n* Managed creative agencies and led creative production\n* Driven business development deals and managed strategic partnerships and accounts\n* Conducted, synthesised and applied user insights, research and testing to marketing strategy.\n\nPersonal skills\n\n* Must be creative, self-directed, confident and able to work in a fast-paced environment.\n* Excellent communication\n* Must be very analytical and data driven\n\nPreferred Qualifications\n\n* MBA degree\n* Experience in programmatic advertising\n* Experience within the financial sector\n\nBenefits\n\n* 25 days / year holiday\n* Employee share options\n* Usual working hours (9.00 - 18.00)\n* Core working hours are (11:00 - 15:00)\n* Board game evenings\n* We believe in a good work-life balance so that \"Family comes first\".\n* You will be working in a cross-functional team in a trusting and safe environment of Low Pressure / High Performance where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on healing and problem solving.\n\nAbout the Fractal team\n\n* Ethnicities: 16\n* Meditation minutes: 5,235\n* Languages spoken: 15\n* Unique cocktails made: 104\n* Kilometres cycled: 109,554\n* Unique rubik cube puzzles solved: 10\n* Breakfasts together: 38\n* Parents in the team: 5\n* Board games played: 10",
+      "descriptionHtml": "<p>We are looking for a talented Product Marketing Manager who has the skill not only to strongly position the products, but also to build world-class collateral to support the sales team.</p>\n\n<p>You will be able to understand the market requirements and will be able to optimise the inbound sales funnel. You will play a key role, building upon our position as a leader within the financial services sector.</p>\n\n<p>You will understand the psychology of our main customers and our end user. SMEs owners are really passionate about what they do but don’t always have the time and/or understanding to manage their finances. You will be empathetic to our main customer and our end user’s needs and give them collateral that will simplify their lives.</p>\n\n<p>At Fractal you will be involved with all facets of product marketing: design and prototyping across web and mobile customer journeys.</p>\n\n<p>You will join our London office and work in a highly dynamic group, reporting directly to the Chief Product Officer.</p>\n\n<p>Who you will need to interact with on a day-to-day basis</p>\n\n<ul>\n<li>Chief Product Officer (to learn about product releases, to optimise the funnel)</li>\n<li>Sales and Commercial Team (to brief them on new features, creating collateral)</li>\n<li>Chief Technology Officer (to respond to RFPs)</li>\n<li>Communications Manager (to work on press, events and external communications)</li>\n</ul>\n\n<p>Responsibilities</p>\n\n<p>Branding and Positioning</p>\n\n<ul>\n<li>Drive the product messaging and positioning: Own product naming, messaging, positioning and marketing creative</li>\n<li>Lead product launches: Drive product launches, announcements, campaigns programs and initiatives.</li>\n<li>Influence product strategy, research and content.</li>\n<li>Support product briefing, design, partnerships.</li>\n</ul>\n\n<p>Build an inbound funnel and enable sales</p>\n\n<ul>\n<li>Funnel: Manage and lead integrated full-funnel marketing activities.</li>\n<li>Sales enablement: Communicate the value proposition of the features to the sales team and develop the sales tools that support the selling process of the product.</li>\n<li>Demand generation: Develop the strategy and manage the marketing programs that drive demand for the product.</li>\n<li>Channel Development: Develop brand new routes to market - whether it’s partnerships or innovative performance marketing deals.</li>\n</ul>\n\n<p>Fractal&#39;s Mission</p>\n\n<p>Fractal is fundamentally changing small businesses banking. We’re reinventing SME financial services one API at a time.</p>\n\n<p>As a fintech pioneer, we’re here to make a positive impact on the world with technology, and strengthen the backbone of the economy by increasing liquidity in the SME financing market.</p>\n\n<p>Our passionate and friendly team aims to empower financial innovators to better serve their small businesses through our suite of APIs.</p>\n\n<p>Requirements</p>\n\n<p>Essential</p>\n\n<ul>\n<li>At least 5 years of Product Marketing experience</li>\n<li><p>Product Marketing experience at world class technology brands and startups</p></li>\n<li><p>Been exposed to product strategy, design and development principles and processes</p></li>\n<li><p>Led global campaigns, communications and go-to-market initiatives</p></li>\n<li><p>Managed creative agencies and led creative production</p></li>\n<li><p>Driven business development deals and managed strategic partnerships and accounts</p></li>\n<li><p>Conducted, synthesised and applied user insights, research and testing to marketing strategy.</p></li>\n</ul>\n\n<p>Personal skills</p>\n\n<ul>\n<li>Must be creative, self-directed, confident and able to work in a fast-paced environment.</li>\n<li>Excellent communication</li>\n<li>Must be very analytical and data driven</li>\n</ul>\n\n<p>Preferred Qualifications</p>\n\n<ul>\n<li>MBA degree</li>\n<li>Experience in programmatic advertising</li>\n<li>Experience within the financial sector</li>\n</ul>\n\n<p>Benefits</p>\n\n<ul>\n<li>25 days / year holiday</li>\n<li>Employee share options</li>\n<li>Usual working hours (9.00 - 18.00)</li>\n<li>Core working hours are (11:00 - 15:00)</li>\n<li>Board game evenings</li>\n<li>We believe in a good work-life balance so that &quot;Family comes first&quot;.</li>\n<li>You will be working in a cross-functional team in a trusting and safe environment of Low Pressure / High Performance where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on healing and problem solving.</li>\n</ul>\n\n<p>About the Fractal team</p>\n\n<ul>\n<li>Ethnicities: 16</li>\n<li>Meditation minutes: 5,235</li>\n<li>Languages spoken: 15</li>\n<li>Unique cocktails made: 104</li>\n<li>Kilometres cycled: 109,554</li>\n<li>Unique rubik cube puzzles solved: 10</li>\n<li>Breakfasts together: 38</li>\n<li>Parents in the team: 5</li>\n<li>Board games played: 10</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/jerry-taylor-5",
+        "name": "Jerry Taylor",
+        "avatar": "https://photos.angel.co/users/7019605-medium_jpg?1534167737"
+      },
+      "refs": {
+        "angelListId": "461304",
+        "angelListUrl": "https://angel.co/company/fractal-labs/jobs/461304-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior API Developer",
+      "description": "Fractal Labs is recommended by Deloitte to their major banking and finance customers because we are already delivering data intelligence to banks in the UK, Ireland, Scandinavia and Holland as we go global. We are looking for senior API developers to grow an aspirational, skilled and high-performing team building new products for our award-winning market leading platform. You will be responsible for mentoring and coaching junior developers, leading by example by developing well tested production quality code.\n\nWe are a dynamic and forward-thinking fintech startup, rightly proud of its strong engineering team and our technical background. Today we are building API connections to all retail banks, normalising and enriching the data, and providing forecasts, insights and timely alerts through a best of breed API. We aim to be the best of the best.\n\nWhy wouldn't you want to join the biggest technology revolution in finance? You would get to define and build APIs, SDKs and other tools that everyone else would look upon with envy and fight to get mentioned on their CV. If any of this motivates you then look no further, come join us in a team of talented engineers to build connectivity to banks.\n\nOur state of the art systems include highly efficient and large scale platforms built with Java Kafka and Cassandra, running on Docker containers and deployed in AWS ECS Fargate clusters.\n\nYou will succeed in the role because:\nYou are passionate about quality and technology\nYou are comfortable navigating through ambiguity and providing clarity to others\nYou try to understand both the engineering and business context\nYou build solutions and instinctively automate operations\nYou can be a role model and mentor to junior engineers\n\nYou will love this job because\nYou enjoy seeing code going live into production\nYou get satisfaction from producing clean, meaningful technical design and docs\nYou appreciate the challenge of supporting enterprise partners in global markets\nYou want to learn continually and grow your professional skill set\nYou will be in a fun environment focussed on engineering excellence\nFractal's Mission\nFractal is revolutionising small businesses banking. We’re reinventing SME financial services one API at a time. As a fintech pioneer, we’re here to make a positive impact on the world with technology, and strengthen the backbone of the economy by increasing liquidity in the SME financing market. Our passionate and friendly team aims to empower financial innovators to better serve their small businesses through our suite of APIs.\n\nBasic requirements\nDegree in Computer Science, or equivalent practical experience\n2+ years of experience building SAAS API services\n2+ years Java 8+ \n1+ years Spring especially Spring Boot\nJUnit and Mockito\nIntegrating with OAuth APIs\nDeveloping RESTful APIs\nSCRUM / Agile Development Processes\n\nPreferred requirements\nBSc/BEng and 5+ years of relevant work experience\nMSc/MEng and 4+ years of relevant work experience\nPhD and 2+ years of relevant work experience\nFoundation in computer science with a strong understanding of functional programming, microservice development, clean code and RESTful APIs\nPrevious experience working in startups and finance especially payments\nNOSQL (Cassandra, DynamoDB)\nOpen Banking / PSD2 APIs\nIntegrations with APIs such as Xero, Salesforce, PayPal, Amazon, DueDil, Validis\nServerless programming (serverless-stack.com)\nHands on AWS DevOps (Lambda, Cognito, ECS)\n\nAt Fractal, we celebrate diversity. The more inclusive we are, the better our work will be. We are determined to ensure that no applicant or employee receives less favourable treatment on the grounds of gender, age, disability, religion, belief, sexual orientation, marital status, or race.\n\nIf you need assistance or an accommodation due to a disability, you may contact us at info@fractal-labs.com.\n\nFor further information on our commitment to diversity, please check out our blog at askfractal.com\n\nBenefits\n25 days / year annual leave\nEmployee share options\nUsual working hours (9.00 - 18.00)\nCore working hours (11:00 - 15:00)\nBoard game evenings\nWe believe in a good work-life balance so that \"Family comes first\".\nYou will be working in a cross-functional team in a trusting and safe environment of Low Pressure / High Performance where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on healing and problem solving.\nAbout the Fractal team\nEthnicities: 16\nMeditation minutes: 5,235\nLanguages spoken: 15\nUnique cocktails made: 104\nKilometres cycled: 109,554\nUnique rubik cube puzzles solved: 10\nBreakfasts together: 38\nParents in the team: 5\nBoard games played: 10",
+      "descriptionHtml": "<p>Fractal Labs is recommended by Deloitte to their major banking and finance customers because we are already delivering data intelligence to banks in the UK, Ireland, Scandinavia and Holland as we go global. We are looking for senior API developers to grow an aspirational, skilled and high-performing team building new products for our award-winning market leading platform. You will be responsible for mentoring and coaching junior developers, leading by example by developing well tested production quality code.</p>\n\n<p>We are a dynamic and forward-thinking fintech startup, rightly proud of its strong engineering team and our technical background. Today we are building API connections to all retail banks, normalising and enriching the data, and providing forecasts, insights and timely alerts through a best of breed API. We aim to be the best of the best.</p>\n\n<p>Why wouldn&#39;t you want to join the biggest technology revolution in finance? You would get to define and build APIs, SDKs and other tools that everyone else would look upon with envy and fight to get mentioned on their CV. If any of this motivates you then look no further, come join us in a team of talented engineers to build connectivity to banks.</p>\n\n<p>Our state of the art systems include highly efficient and large scale platforms built with Java Kafka and Cassandra, running on Docker containers and deployed in AWS ECS Fargate clusters.</p>\n\n<p>You will succeed in the role because:<br>\nYou are passionate about quality and technology<br>\nYou are comfortable navigating through ambiguity and providing clarity to others<br>\nYou try to understand both the engineering and business context<br>\nYou build solutions and instinctively automate operations<br>\nYou can be a role model and mentor to junior engineers</p>\n\n<p>You will love this job because<br>\nYou enjoy seeing code going live into production<br>\nYou get satisfaction from producing clean, meaningful technical design and docs<br>\nYou appreciate the challenge of supporting enterprise partners in global markets<br>\nYou want to learn continually and grow your professional skill set<br>\nYou will be in a fun environment focussed on engineering excellence<br>\nFractal&#39;s Mission<br>\nFractal is revolutionising small businesses banking. We’re reinventing SME financial services one API at a time. As a fintech pioneer, we’re here to make a positive impact on the world with technology, and strengthen the backbone of the economy by increasing liquidity in the SME financing market. Our passionate and friendly team aims to empower financial innovators to better serve their small businesses through our suite of APIs.</p>\n\n<p>Basic requirements<br>\nDegree in Computer Science, or equivalent practical experience<br>\n2+ years of experience building SAAS API services<br>\n2+ years Java 8+ <br>\n1+ years Spring especially Spring Boot<br>\nJUnit and Mockito<br>\nIntegrating with OAuth APIs<br>\nDeveloping RESTful APIs<br>\nSCRUM / Agile Development Processes</p>\n\n<p>Preferred requirements<br>\nBSc/BEng and 5+ years of relevant work experience<br>\nMSc/MEng and 4+ years of relevant work experience<br>\nPhD and 2+ years of relevant work experience<br>\nFoundation in computer science with a strong understanding of functional programming, microservice development, clean code and RESTful APIs<br>\nPrevious experience working in startups and finance especially payments<br>\nNOSQL (Cassandra, DynamoDB)<br>\nOpen Banking / PSD2 APIs<br>\nIntegrations with APIs such as Xero, Salesforce, PayPal, Amazon, DueDil, Validis<br>\nServerless programming (serverless-stack.com)<br>\nHands on AWS DevOps (Lambda, Cognito, ECS)</p>\n\n<p>At Fractal, we celebrate diversity. The more inclusive we are, the better our work will be. We are determined to ensure that no applicant or employee receives less favourable treatment on the grounds of gender, age, disability, religion, belief, sexual orientation, marital status, or race.</p>\n\n<p>If you need assistance or an accommodation due to a disability, you may contact us at <a href=\"mailto:info@fractal-labs.com\" target=\"_blank\" rel=\"nofollow\">info@fractal-labs.com</a>.</p>\n\n<p>For further information on our commitment to diversity, please check out our blog at askfractal.com</p>\n\n<p>Benefits<br>\n25 days / year annual leave<br>\nEmployee share options<br>\nUsual working hours (9.00 - 18.00)<br>\nCore working hours (11:00 - 15:00)<br>\nBoard game evenings<br>\nWe believe in a good work-life balance so that &quot;Family comes first&quot;.<br>\nYou will be working in a cross-functional team in a trusting and safe environment of Low Pressure / High Performance where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on healing and problem solving.<br>\nAbout the Fractal team<br>\nEthnicities: 16<br>\nMeditation minutes: 5,235<br>\nLanguages spoken: 15<br>\nUnique cocktails made: 104<br>\nKilometres cycled: 109,554<br>\nUnique rubik cube puzzles solved: 10<br>\nBreakfasts together: 38<br>\nParents in the team: 5<br>\nBoard games played: 10</p>\n",
+      "position": "full-time",
+      "experience": 6,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "noSQL",
+        "Clean Code",
+        "Jenkins",
+        "Gradle",
+        "JUNIT",
+        "Mockito",
+        "Salesforce",
+        "REST",
+        "OAuth",
+        "Docker",
+        "Xero",
+        "Spring Boot",
+        "Apache Cassandra",
+        "AWS DynamoDB",
+        "AWS Lambda",
+        "Micro Services",
+        "Serverless",
+        "AWS API Gateway",
+        "AWS Cognito",
+        "nCino System",
+        "OpenBanking / PSD2",
+        "Gitlab CI/CD"
+      ],
+      "payment": {
+        "salary": "£40k – £80k",
+        "equity": "0.1% – 0.2%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/jerry-taylor-5",
+        "name": "Jerry Taylor",
+        "avatar": "https://photos.angel.co/users/7019605-medium_jpg?1534167737"
+      },
+      "refs": {
+        "angelListId": "581330",
+        "angelListUrl": "https://angel.co/company/fractal-labs/jobs/581330-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Technical Account Manager",
+      "description": "We are looking for a talented Technical Account Manager who has a deep understanding of the SME banking space. As a technical analyst, your role will be to interact with clients, understand their requirements and provide guidance to the engineering teams. Using a deep understanding of the Fractal API’s the Technical Account Manager will accelerate Banks implementation of key user journeys.\n\n\nThis is a key role at Fractal that combines the technical engineering expertise required to implement the product API while also being able to communicate with and manage customer stakeholders.\n\n\nFractal's Mission\n\nFractal is fundamentally changing small businesses banking. We’re reinventing SME financial services one API at a time. As a fintech pioneer, we’re here to make a positive impact on the world with technology, and strengthen the backbone of the economy by increasing liquidity in the SME financing market. Our passionate and friendly team aims to empower financial innovators to better serve their small businesses through our suite of APIs.\n\nResponsibilities\n\nYou will be the heart and soul of the company, representing us to customers and the customers to us.\n\n* Work with Clients to implement Fractal’s API’s\n* Coach client Design and UX teams about key Fractal Journeys and how to implement them\n* Create best in class collateral to aid implementations (Developer Portal, SDK, Components)\n* Work with account managers to upsell new technology and products\n\n* Take client feedback and use it to direct the product team\n* Bring client requirements into the Roadmap\n* Champion client specific features ensuring they are delivered efficiently\n\nWho you will need to interact with on a day-to-day basis\n\n* Sales team (to join technical workshops and meet client engineering teams)\n* Chief Technology Officer (to respond to RFPs)\n* Chief Operating Officer (to manage the delivery of current projects)\n\n\nAbout the Fractal team\n\n* Ethnicities: 16\n* Meditation minutes: 5,235\n* Languages spoken: 15\n* Unique cocktails made: 104\n* Kilometres cycled: 109,554\n* Unique rubik cube puzzles solved: 10\n* Breakfasts together: 38\n* Parents in the team: 5\n* Board games played: 10\n\nRequirements\n\nExperienced At\n\n* Requirements analysis: validate client requirements against existing Fractal capabilities; transform requirements into detailed specifications for implementation by engineering teams; gather and incorporate feedback on specification from client and engineering teams.\n* Impart knowledge of Fractal products to client teams both from a functional banking-oriented perspective and a technical systems-oriented perspective; serve as a primary technical point of contact for our clients.\n* Solution architecture: provide technical advice and design work on integration engineering with partners and other third-party systems; provide technical input and scoping on deliverables design, considering high-level architecture through to code implementation; provide clients with advice on the wider bank architecture that Fractal will be deployed within.\n* Delivery: ensuring that teams are aligned and that client specific requirements are correctly tracked, logged and delivered by the sprint teams\n\n\nPersonal Skills\n\n* Must be creative, self-directed, confident and able to work in a fast-paced environment.\n* Excellent communication\n* Must be very analytical and data driven\n\nPreferred Qualifications\n\n* Ability to learn how Fractal’s technology works, understanding the system and component interactions that enable product functionality.\n* Excellent communication skills, ability to explain technical concepts to a wide range of technical and non-technical stakeholders.\n* Ability to exercise good judgement in commercial situations, think on your feet and propose solutions to complex technology problems.\n* Prior experience writing code. Proven experience working with and using API’s.\n* Ability to operate independently. While there will be support from the engineering teams, you will be required to handle client situations on your own and handle multiple aspects of the engagement.\n* Experience gathering and analysing customer requirements, creating specifications and working with engineering functions to implement solutions.\n\n\nAt Fractal, we celebrate diversity. The more inclusive we are, the better our work will be. We are determined to ensure that no applicant or employee receives less favourable treatment on the grounds of gender, age, disability, religion, belief, sexual orientation, marital status, or race.\n\n\nIf you need assistance or an accommodation due to a disability, you may contact us at info@fractal-labs.com.\n\n\nFor further information on our commitment to diversity, please check out our blog at askfractal.com\n\nBenefits\n\n* 25 days / year holiday\n* Employee share options\n* Usual working hours (9.00 - 18.00)\n* Core working hours are (11:00 - 15:00)\n* Board game evenings\n* We believe in a good work-life balance so that \"Family comes first\"\n* You will be working in a cross-functional team in a trusting and safe environment of Low Pressure / High Performance where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on healing and problem solving.",
+      "descriptionHtml": "<p>We are looking for a talented Technical Account Manager who has a deep understanding of the SME banking space. As a technical analyst, your role will be to interact with clients, understand their requirements and provide guidance to the engineering teams. Using a deep understanding of the Fractal API’s the Technical Account Manager will accelerate Banks implementation of key user journeys.</p>\n\n<p>This is a key role at Fractal that combines the technical engineering expertise required to implement the product API while also being able to communicate with and manage customer stakeholders.</p>\n\n<p>Fractal&#39;s Mission</p>\n\n<p>Fractal is fundamentally changing small businesses banking. We’re reinventing SME financial services one API at a time. As a fintech pioneer, we’re here to make a positive impact on the world with technology, and strengthen the backbone of the economy by increasing liquidity in the SME financing market. Our passionate and friendly team aims to empower financial innovators to better serve their small businesses through our suite of APIs.</p>\n\n<p>Responsibilities</p>\n\n<p>You will be the heart and soul of the company, representing us to customers and the customers to us.</p>\n\n<ul>\n<li>Work with Clients to implement Fractal’s API’s</li>\n<li>Coach client Design and UX teams about key Fractal Journeys and how to implement them</li>\n<li>Create best in class collateral to aid implementations (Developer Portal, SDK, Components)</li>\n<li><p>Work with account managers to upsell new technology and products</p></li>\n<li><p>Take client feedback and use it to direct the product team</p></li>\n<li><p>Bring client requirements into the Roadmap</p></li>\n<li><p>Champion client specific features ensuring they are delivered efficiently</p></li>\n</ul>\n\n<p>Who you will need to interact with on a day-to-day basis</p>\n\n<ul>\n<li>Sales team (to join technical workshops and meet client engineering teams)</li>\n<li>Chief Technology Officer (to respond to RFPs)</li>\n<li>Chief Operating Officer (to manage the delivery of current projects)</li>\n</ul>\n\n<p>About the Fractal team</p>\n\n<ul>\n<li>Ethnicities: 16</li>\n<li>Meditation minutes: 5,235</li>\n<li>Languages spoken: 15</li>\n<li>Unique cocktails made: 104</li>\n<li>Kilometres cycled: 109,554</li>\n<li>Unique rubik cube puzzles solved: 10</li>\n<li>Breakfasts together: 38</li>\n<li>Parents in the team: 5</li>\n<li>Board games played: 10</li>\n</ul>\n\n<p>Requirements</p>\n\n<p>Experienced At</p>\n\n<ul>\n<li>Requirements analysis: validate client requirements against existing Fractal capabilities; transform requirements into detailed specifications for implementation by engineering teams; gather and incorporate feedback on specification from client and engineering teams.</li>\n<li>Impart knowledge of Fractal products to client teams both from a functional banking-oriented perspective and a technical systems-oriented perspective; serve as a primary technical point of contact for our clients.</li>\n<li>Solution architecture: provide technical advice and design work on integration engineering with partners and other third-party systems; provide technical input and scoping on deliverables design, considering high-level architecture through to code implementation; provide clients with advice on the wider bank architecture that Fractal will be deployed within.</li>\n<li>Delivery: ensuring that teams are aligned and that client specific requirements are correctly tracked, logged and delivered by the sprint teams</li>\n</ul>\n\n<p>Personal Skills</p>\n\n<ul>\n<li>Must be creative, self-directed, confident and able to work in a fast-paced environment.</li>\n<li>Excellent communication</li>\n<li>Must be very analytical and data driven</li>\n</ul>\n\n<p>Preferred Qualifications</p>\n\n<ul>\n<li>Ability to learn how Fractal’s technology works, understanding the system and component interactions that enable product functionality.</li>\n<li>Excellent communication skills, ability to explain technical concepts to a wide range of technical and non-technical stakeholders.</li>\n<li>Ability to exercise good judgement in commercial situations, think on your feet and propose solutions to complex technology problems.</li>\n<li>Prior experience writing code. Proven experience working with and using API’s.</li>\n<li>Ability to operate independently. While there will be support from the engineering teams, you will be required to handle client situations on your own and handle multiple aspects of the engagement.</li>\n<li>Experience gathering and analysing customer requirements, creating specifications and working with engineering functions to implement solutions.</li>\n</ul>\n\n<p>At Fractal, we celebrate diversity. The more inclusive we are, the better our work will be. We are determined to ensure that no applicant or employee receives less favourable treatment on the grounds of gender, age, disability, religion, belief, sexual orientation, marital status, or race.</p>\n\n<p>If you need assistance or an accommodation due to a disability, you may contact us at <a href=\"mailto:info@fractal-labs.com\" target=\"_blank\" rel=\"nofollow\">info@fractal-labs.com</a>.</p>\n\n<p>For further information on our commitment to diversity, please check out our blog at askfractal.com</p>\n\n<p>Benefits</p>\n\n<ul>\n<li>25 days / year holiday</li>\n<li>Employee share options</li>\n<li>Usual working hours (9.00 - 18.00)</li>\n<li>Core working hours are (11:00 - 15:00)</li>\n<li>Board game evenings</li>\n<li>We believe in a good work-life balance so that &quot;Family comes first&quot;</li>\n<li>You will be working in a cross-functional team in a trusting and safe environment of Low Pressure / High Performance where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on healing and problem solving.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/jerry-taylor-5",
+        "name": "Jerry Taylor",
+        "avatar": "https://photos.angel.co/users/7019605-medium_jpg?1534167737"
+      },
+      "refs": {
+        "angelListId": "555177",
+        "angelListUrl": "https://angel.co/company/fractal-labs/jobs/555177-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "VP Engineering",
+      "description": "As the VP of Engineering you will enable the CTO to think about the future while you take care of the present. You will be the sort of person essential to making sure that the trains run on time by identifying the best way to lay down tracks. You can manage up as well as manage down, keeping the CTO and CPO in touch with reality. As the primary interface between engineering and the product management team you will be responsible for the development and delivery of the product.\n\nThe engineering team will look to you for day-to-day guidance and resolution of engineering issues so you need to be an expert engineer not just a manager and you will make everyone in the engineering organisation successful, fix the issues that are getting in the way of success, foster innovation and empower the engineering team to think big. You will continue the established culture of a trusting and safe environment of \"Low Pressure / High Performance\" where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on healing and problem solving.\n\nYou will join our London office and work in a highly dynamic group, reporting directly to the Chief Technology Officer.\n\nThe ideal candidate will be:\n\n* an inspiring engineer the developers can all look up to\n* a great manager and a great team builder\n* an excellent recruiter\n* a good communicator working closely with the Product Owners\n* a great issue resolver\n* passionate about automating testing\n* a stickler for quality\n* somebody the CTO and CEO can drag in front of clients sometimes to help win big deals\n\nFractal's Mission\n\nFractal is fundamentally changing small businesses banking. We’re reinventing SME financial services one API at a time.\n\nAs a fintech pioneer, we’re here to make a positive impact on the world with technology, and strengthen the backbone of the economy by increasing liquidity in the SME financing market.\n\nOur passionate and friendly team aims to empower financial innovators to better serve their small businesses through our suite of APIs.\n\nRequirements\n\nExpert in the following technologies\n\n* Java and Python programming\n* Principles of software engineering and coding such as SOLID\n* Docker essential (Kubernetes a bonus)\n* Platform Architecture. AWS essential, Google Cloud and Azure nice to have.\n* DevOps configuration as code Terraform and Ansible\n* Front-end technologies including ReactJS and mobile applications\n* NoSQL and SQL databases\n* Agile / SCRUM methodologies\n* QA processes (Test automation in particular)\n* CI/CD code deployment pipelines\n* Security testing, static analysis, OWASP, SOC2\n\nExperience with some of the following is useful, but not essential\n\n* Agile and SCRUM. Ideally experience with User Story Mapping and the Servant Leader.\n* Line management of teams of 10+ engineers\n* Recruitment of engineers and team building\n* Communication and presentation\n\nBenefits\n\n* 25 days / year holiday\n* Employee share options\n* Usual working hours (9.00 - 18.00)\n* Core working hours are (11:00 - 15:00)\n* Board game evenings\n* We believe in a good work-life balance so that \"Family comes first\".\n* You will be working in a cross-functional team in a trusting and safe environment of Low Pressure / High Performance where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on healing and problem solving.\n\nAbout the Fractal team\n\n* Ethnicities: 16\n* Meditation minutes: 5,235\n* Languages spoken: 15\n* Unique cocktails made: 104\n* Kilometres cycled: 109,554\n* Unique rubik cube puzzles solved: 10\n* Breakfasts together: 38\n* Parents in the team: 5\n* Board games played: 10",
+      "descriptionHtml": "<p>As the VP of Engineering you will enable the CTO to think about the future while you take care of the present. You will be the sort of person essential to making sure that the trains run on time by identifying the best way to lay down tracks. You can manage up as well as manage down, keeping the CTO and CPO in touch with reality. As the primary interface between engineering and the product management team you will be responsible for the development and delivery of the product.</p>\n\n<p>The engineering team will look to you for day-to-day guidance and resolution of engineering issues so you need to be an expert engineer not just a manager and you will make everyone in the engineering organisation successful, fix the issues that are getting in the way of success, foster innovation and empower the engineering team to think big. You will continue the established culture of a trusting and safe environment of &quot;Low Pressure / High Performance&quot; where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on healing and problem solving.</p>\n\n<p>You will join our London office and work in a highly dynamic group, reporting directly to the Chief Technology Officer.</p>\n\n<p>The ideal candidate will be:</p>\n\n<ul>\n<li>an inspiring engineer the developers can all look up to</li>\n<li>a great manager and a great team builder</li>\n<li>an excellent recruiter</li>\n<li>a good communicator working closely with the Product Owners</li>\n<li>a great issue resolver</li>\n<li>passionate about automating testing</li>\n<li>a stickler for quality</li>\n<li>somebody the CTO and CEO can drag in front of clients sometimes to help win big deals</li>\n</ul>\n\n<p>Fractal&#39;s Mission</p>\n\n<p>Fractal is fundamentally changing small businesses banking. We’re reinventing SME financial services one API at a time.</p>\n\n<p>As a fintech pioneer, we’re here to make a positive impact on the world with technology, and strengthen the backbone of the economy by increasing liquidity in the SME financing market.</p>\n\n<p>Our passionate and friendly team aims to empower financial innovators to better serve their small businesses through our suite of APIs.</p>\n\n<p>Requirements</p>\n\n<p>Expert in the following technologies</p>\n\n<ul>\n<li>Java and Python programming</li>\n<li>Principles of software engineering and coding such as SOLID</li>\n<li>Docker essential (Kubernetes a bonus)</li>\n<li>Platform Architecture. AWS essential, Google Cloud and Azure nice to have.</li>\n<li>DevOps configuration as code Terraform and Ansible</li>\n<li>Front-end technologies including ReactJS and mobile applications</li>\n<li>NoSQL and SQL databases</li>\n<li>Agile / SCRUM methodologies</li>\n<li>QA processes (Test automation in particular)</li>\n<li>CI/CD code deployment pipelines</li>\n<li>Security testing, static analysis, OWASP, SOC2</li>\n</ul>\n\n<p>Experience with some of the following is useful, but not essential</p>\n\n<ul>\n<li>Agile and SCRUM. Ideally experience with User Story Mapping and the Servant Leader.</li>\n<li>Line management of teams of 10+ engineers</li>\n<li>Recruitment of engineers and team building</li>\n<li>Communication and presentation</li>\n</ul>\n\n<p>Benefits</p>\n\n<ul>\n<li>25 days / year holiday</li>\n<li>Employee share options</li>\n<li>Usual working hours (9.00 - 18.00)</li>\n<li>Core working hours are (11:00 - 15:00)</li>\n<li>Board game evenings</li>\n<li>We believe in a good work-life balance so that &quot;Family comes first&quot;.</li>\n<li>You will be working in a cross-functional team in a trusting and safe environment of Low Pressure / High Performance where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on healing and problem solving.</li>\n</ul>\n\n<p>About the Fractal team</p>\n\n<ul>\n<li>Ethnicities: 16</li>\n<li>Meditation minutes: 5,235</li>\n<li>Languages spoken: 15</li>\n<li>Unique cocktails made: 104</li>\n<li>Kilometres cycled: 109,554</li>\n<li>Unique rubik cube puzzles solved: 10</li>\n<li>Breakfasts together: 38</li>\n<li>Parents in the team: 5</li>\n<li>Board games played: 10</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 10,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Java",
+        "Machine Learning",
+        "MySQL",
+        "Spring",
+        "REST",
+        "Docker",
+        "Unit Testing",
+        "Ansible",
+        "AWS",
+        "Apache Cassandra",
+        "Kubernetes",
+        "Terraform",
+        "NLP",
+        "Automation CI/CD",
+        "ReactJS"
+      ],
+      "payment": {
+        "salary": "£60k – £120k",
+        "equity": "0.4% – 0.8%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/jerry-taylor-5",
+        "name": "Jerry Taylor",
+        "avatar": "https://photos.angel.co/users/7019605-medium_jpg?1534167737"
+      },
+      "refs": {
+        "angelListId": "446384",
+        "angelListUrl": "https://angel.co/company/fractal-labs/jobs/446384-"
+      }
+    }
+  ]
+}

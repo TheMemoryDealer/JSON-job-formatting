@@ -1,0 +1,101 @@
+{
+  "name": "Modas Technology",
+  "avatar": "https://photos.angel.co/startups/i/6409231-3f7e5fd963a88775e6c66b65f1e34c5f-medium_jpg.jpg?buster=1540202836",
+  "slogan": "",
+  "description": "We are building a technology platform to analysis data and communicate the results to drivers with the goal of improving road safety. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.getmodas.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Automotive",
+    "Cars",
+    "Mobile Application"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/marcus-robbins-2",
+      "name": "Marcus Robbins ",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "CEO/Founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/damian-horton",
+      "name": "Damian Horton",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Start-up founder. Love FinTech and Autonomous Cars"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6409231",
+    "angelListUrl": "https://angel.co/company/modas-technology"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Co-Founder & CTO",
+      "description": "I'm looking for a young CTO who loves to dig into code to help build out Modas from an very early stage. \n\niOS and Android as a starting base before tackling Apple CarPlay and Android Auto. \n\nConnected and Autonomous cars are now on the horizon and give a huge opportunity to build a consumer-facing technology business that digests, interrogates and presents data to consumers in an engaging format. \n\nMy experience includes time at various start-ups in the UK and Australia as well as investment banking before that. I have a university research background in driverless cars and autonomous vehicles.",
+      "descriptionHtml": "<p>I&#39;m looking for a young CTO who loves to dig into code to help build out Modas from an very early stage. </p>\n\n<p>iOS and Android as a starting base before tackling Apple CarPlay and Android Auto. </p>\n\n<p>Connected and Autonomous cars are now on the horizon and give a huge opportunity to build a consumer-facing technology business that digests, interrogates and presents data to consumers in an engaging format. </p>\n\n<p>My experience includes time at various start-ups in the UK and Australia as well as investment banking before that. I have a university research background in driverless cars and autonomous vehicles.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$1k – $1k",
+        "equity": "25.0% – 35.0%"
+      },
+      "recruiter": {
+        "title": "CEO/Founder",
+        "role": "Founder",
+        "url": "https://angel.co/u/damian-horton",
+        "name": "Damian Horton",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "479389",
+        "angelListUrl": "https://angel.co/company/modas-technology/jobs/479389-"
+      },
+      "postedAt": 1589658479389
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "name": "Chip",
+  "avatar": "https://photos.angel.co/startups/i/6557708-9946bc5cd0b6dfcfce13b03652390af2-medium_jpg.jpg?buster=1541774629",
+  "slogan": "our mission to build the best savings account in the world",
+  "description": "At Chip, we save you money by moving small amounts from your bank account into a savings account. That’s it. Simple, but not sexy. We’ll also look after your overdraft, and saving you from those dreaded bank charges. That’s simple too, but still not sexy. Thankfully, it’s really effective, and a huge number of our users have also become our investors. \n\nWhat’s simple for the user though, is incredibly complex behind the scenes. Which is why we’re doubling our engineering team. With that comes some new processes, as we strive to improve our workflow and communication across the organisation. It genuinely is a great time to join a Fintech company at the forefront of the Open Banking revolution.\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://getchip.uk/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Financial Services",
+    "Fin Tech",
+    "Finance Technology"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/daniel-bowling-1",
+      "name": "Daniel Bowling",
+      "avatar": "https://photos.angel.co/users/8541238-medium_jpg?1541262931",
+      "bioHtml": "Talent &amp; Culture Manager at Chip "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6557708",
+    "angelListUrl": "https://angel.co/company/chip-7"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Back End Engineer",
+      "description": "TL;DR:\n\nPHP // MVC Framework // MongoDB // AWS // Jenkins // Docker\nNo table tennis.\nFintech startup\nLanguage-agnostic\n\nAt Chip, we save you money by moving small amounts from your bank account into a savings account. That’s it. Simple, but not sexy. We’ll also look after your overdraft, and saving you from those dreaded bank charges. That’s simple too, but still not sexy. Thankfully, it’s really effective, and a huge number of our users have also become our investors.\n\nWhat’s simple for the user though, is incredibly complex behind the scenes. Which is why we’re scaling our engineering team where we need focused, talented and dedicated software engineers to help us build out a world beating feature set. Joining our engineering team and you’ll be responsible for developing new features and services to help us continue to deliver a great product to our customers that helps our company and their money grow.\n\nIt genuinely is a great time to join a Fintech company at the forefront of the Open Banking revolution.\n\nWorking on our backend stack (PHP, MongoDB) you’ll help write the code behind our entire suite of REST API’s that powers our Android and iOS applications, as well as some amazing in house tools that help us manage all our internal processes.\n\n \nWhat you'll do  \n\nWrite good, clean, documented, testable code.\n\nEvaluate technical requirements for new features and improvements\n\nWe’re looking for Developer's of all skill levels, so if some of the requirements in the list below don’t seem quite right. Get in touch anyway, we love clever, driven people who are keen to learn.\n\n \nWhat we’re really looking for\n\nProven work experience as a Software Engineer or Software Developer\n\nAbility to develop software in PHP\n\nAn understanding of NoSQL databases, ideally MongoDB.\n\nExperience developing modern web applications using at least one popular web framework (Phalcon, Symfony, Laravel, CakePHP, Zend, Yii or other)\n\nExperience with test-driven development\n\nSome proficiency with modern PHP tooling (composer, xdebug, phpunit, phpcs, phpmd, psalm etc...)\n\nAbility to document requirements and specifications\n \n\nPerks \n\nMarket leading salary\n\nShare option scheme. We recently secured £4m in Series A funding valuing the company at over £18m. All the team have share options in the company as we work together to achieve great results for the company.\n\n5% interest bonus on all Chip savings\n\nBrand New MacBook Pro, or equivalent.\n\nWorkplace pension scheme\n\nFlexible working arrangements\n\nUnlimited holiday (28 days contracted + bank holidays + Xmas to New year but policy not to count) ✈️\n\nFree Classpass membership\n\nBased in the heart of Shoreditch, Brick lane and Spitalfields\n\nMonthly team lunches in a thriving food scene",
+      "descriptionHtml": "<p>TL;DR:</p>\n\n<p>PHP // MVC Framework // MongoDB // AWS // Jenkins // Docker<br>\nNo table tennis.<br>\nFintech startup<br>\nLanguage-agnostic</p>\n\n<p>At Chip, we save you money by moving small amounts from your bank account into a savings account. That’s it. Simple, but not sexy. We’ll also look after your overdraft, and saving you from those dreaded bank charges. That’s simple too, but still not sexy. Thankfully, it’s really effective, and a huge number of our users have also become our investors.</p>\n\n<p>What’s simple for the user though, is incredibly complex behind the scenes. Which is why we’re scaling our engineering team where we need focused, talented and dedicated software engineers to help us build out a world beating feature set. Joining our engineering team and you’ll be responsible for developing new features and services to help us continue to deliver a great product to our customers that helps our company and their money grow.</p>\n\n<p>It genuinely is a great time to join a Fintech company at the forefront of the Open Banking revolution.</p>\n\n<p>Working on our backend stack (PHP, MongoDB) you’ll help write the code behind our entire suite of REST API’s that powers our Android and iOS applications, as well as some amazing in house tools that help us manage all our internal processes.</p>\n\n<p>What you&#39;ll do  </p>\n\n<p>Write good, clean, documented, testable code.</p>\n\n<p>Evaluate technical requirements for new features and improvements</p>\n\n<p>We’re looking for Developer&#39;s of all skill levels, so if some of the requirements in the list below don’t seem quite right. Get in touch anyway, we love clever, driven people who are keen to learn.</p>\n\n<p>What we’re really looking for</p>\n\n<p>Proven work experience as a Software Engineer or Software Developer</p>\n\n<p>Ability to develop software in PHP</p>\n\n<p>An understanding of NoSQL databases, ideally MongoDB.</p>\n\n<p>Experience developing modern web applications using at least one popular web framework (Phalcon, Symfony, Laravel, CakePHP, Zend, Yii or other)</p>\n\n<p>Experience with test-driven development</p>\n\n<p>Some proficiency with modern PHP tooling (composer, xdebug, phpunit, phpcs, phpmd, psalm etc...)</p>\n\n<p>Ability to document requirements and specifications</p>\n\n<p>Perks </p>\n\n<p>Market leading salary</p>\n\n<p>Share option scheme. We recently secured £4m in Series A funding valuing the company at over £18m. All the team have share options in the company as we work together to achieve great results for the company.</p>\n\n<p>5% interest bonus on all Chip savings</p>\n\n<p>Brand New MacBook Pro, or equivalent.</p>\n\n<p>Workplace pension scheme</p>\n\n<p>Flexible working arrangements</p>\n\n<p>Unlimited holiday (28 days contracted + bank holidays + Xmas to New year but policy not to count) ✈️</p>\n\n<p>Free Classpass membership</p>\n\n<p>Based in the heart of Shoreditch, Brick lane and Spitalfields</p>\n\n<p>Monthly team lunches in a thriving food scene</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "PHP",
+        "MongoDB",
+        "Jenkins",
+        "Docker",
+        "Phalcon PHP",
+        "AWS"
+      ],
+      "payment": {
+        "salary": "£50k – £90k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/daniel-bowling-1",
+        "name": "Daniel Bowling",
+        "avatar": "https://photos.angel.co/users/8541238-medium_jpg?1541262931"
+      },
+      "refs": {
+        "angelListId": "616899",
+        "angelListUrl": "https://angel.co/company/chip-7/jobs/616899-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "DevOps Engineer",
+      "description": "At Chip, we save you money by moving small amounts from your bank account into a savings account. That’s it. Simple, but not sexy. We’ll also look after your overdraft, and saving you from those dreaded bank charges. That’s simple too, but still not sexy. Thankfully, it’s really effective, and a huge number of our users have also become our investors.\n\nWhat’s simple for the user though, is incredibly complex behind the scenes. Which is why we’re scaling our engineering team where we need focused, talented and dedicated DevOps Engineers to help us build out a world beating feature set.\n\nAs our engineers work on breaking down a monolithic code base into microservices to ensure we can scale both our teams and our application we need an infrastructure to support that scale and we require a DevOps engineer to help us achieve it. Working closely with our Head of DevOps and our VP of Engineering you'll be responsible for putting our new microservices into staging/production and orchestrating a world class architecture to support them and their continuous deployment. You'll also be responsible for maintaining the stability of our monolithic architecture and finding and implementing improvements as needed.\n\nWe believe infrastructure should be in code and are looking for an engineer who can help transition all of our infrastructure into a more programmatic and scaleable solution, using the likes of AWS CloudFormation/Ansible/Terraform/Chef/Puppet/Bash as well as Kubernetes and Docker, and CI platforms like Jenkins and DroneCI (These are only example and you'll have a real chance to set the direction of our DevOps procedures and the tools we use)\n\nWhat we’re really looking for\n\nGood knowledge of AWS services.\nGood knowledge of an orchestration tools like CloudFormation, Ansible, Teraform, Chef, Puppet or others.\nGood knowledge of at least one programming language like Go, Python, Perl, PHP.\nGood knowledge of containerisation, specifically Docker (and Kubernetes)\nGood knowledge of monitoring solutions such as NewRelic and Prometheus as well as dashboard tools such as Grafana.\nGood knowledge of CI/CD tools like Jenkins, TeamCity, DroneCI, GitLab CI or others.\nSome knowledge of NoSQL databases like Mongo or DocumentDB.\nSome knowledge of SQL databases like Postgres.\nSome knowledge of other cloud providers, like GCP or DigitalOcean.\nExperience with Distributed Systems: Scaling, Fault-Tolerance, Load-Balancing, Networking, Security.\n\nPerks\n\nCompetitive Salary\nUnlimited holiday\nBrand new MacBook Pro (or similar)\nYearly conference budget\n5% interest rate on savings held at Chip\nMonthly team events/outings\nRelaxed working environment",
+      "descriptionHtml": "<p>At Chip, we save you money by moving small amounts from your bank account into a savings account. That’s it. Simple, but not sexy. We’ll also look after your overdraft, and saving you from those dreaded bank charges. That’s simple too, but still not sexy. Thankfully, it’s really effective, and a huge number of our users have also become our investors.</p>\n\n<p>What’s simple for the user though, is incredibly complex behind the scenes. Which is why we’re scaling our engineering team where we need focused, talented and dedicated DevOps Engineers to help us build out a world beating feature set.</p>\n\n<p>As our engineers work on breaking down a monolithic code base into microservices to ensure we can scale both our teams and our application we need an infrastructure to support that scale and we require a DevOps engineer to help us achieve it. Working closely with our Head of DevOps and our VP of Engineering you&#39;ll be responsible for putting our new microservices into staging/production and orchestrating a world class architecture to support them and their continuous deployment. You&#39;ll also be responsible for maintaining the stability of our monolithic architecture and finding and implementing improvements as needed.</p>\n\n<p>We believe infrastructure should be in code and are looking for an engineer who can help transition all of our infrastructure into a more programmatic and scaleable solution, using the likes of AWS CloudFormation/Ansible/Terraform/Chef/Puppet/Bash as well as Kubernetes and Docker, and CI platforms like Jenkins and DroneCI (These are only example and you&#39;ll have a real chance to set the direction of our DevOps procedures and the tools we use)</p>\n\n<p>What we’re really looking for</p>\n\n<p>Good knowledge of AWS services.<br>\nGood knowledge of an orchestration tools like CloudFormation, Ansible, Teraform, Chef, Puppet or others.<br>\nGood knowledge of at least one programming language like Go, Python, Perl, PHP.<br>\nGood knowledge of containerisation, specifically Docker (and Kubernetes)<br>\nGood knowledge of monitoring solutions such as NewRelic and Prometheus as well as dashboard tools such as Grafana.<br>\nGood knowledge of CI/CD tools like Jenkins, TeamCity, DroneCI, GitLab CI or others.<br>\nSome knowledge of NoSQL databases like Mongo or DocumentDB.<br>\nSome knowledge of SQL databases like Postgres.<br>\nSome knowledge of other cloud providers, like GCP or DigitalOcean.<br>\nExperience with Distributed Systems: Scaling, Fault-Tolerance, Load-Balancing, Networking, Security.</p>\n\n<p>Perks</p>\n\n<p>Competitive Salary<br>\nUnlimited holiday<br>\nBrand new MacBook Pro (or similar)<br>\nYearly conference budget<br>\n5% interest rate on savings held at Chip<br>\nMonthly team events/outings<br>\nRelaxed working environment</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Linux",
+        "DevOps",
+        "Jenkins",
+        "Docker",
+        "AWS",
+        "Kubernetes"
+      ],
+      "payment": {
+        "salary": "£50k – £75k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/daniel-bowling-1",
+        "name": "Daniel Bowling",
+        "avatar": "https://photos.angel.co/users/8541238-medium_jpg?1541262931"
+      },
+      "refs": {
+        "angelListId": "616904",
+        "angelListUrl": "https://angel.co/company/chip-7/jobs/616904-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "Brand Designer",
+      "description": "We’re Chip, we’re building the world’s best savings account.\n\nWe’re using cutting edge tech and AI to shake up the slow, stagnant and old-fashioned savings market. \n\nWe’ve built a clever app that makes saving easier, faster, and smarter. It makes your financial goals happen automatically, and gets you feeling good about your money.\n\nWe’re growing fast, and we have some very exciting plans. So we need a Graphic Designer to help us make them happen. \n\nThe Role -  Graphic Designer\n\nWe need a Graphic Designer with a passion to create work which is visually appealing who will use their skills in graphic/brand design to develop and optimise all our creative content whether that be through the UI/UX of a product or through a Visual identity. You’ll have a keen eye for design, video, copy and a mega-brain of ideas, specifically for creating content to hook new users, and you’ll be confident in bringing your own ideas to the table and then to life.\n\n\nWhat you’ll be doing:\n\nYou’ll be working within the marketing team and key stakeholders;\n\n\nStoryboarding, producing and delivering video animation content for all our channels\nOwning and delivering all campaign assets (video, canvas, stills)\nCollaborating with team members to understand what motivates and excites our users, and then putting it into practice\nCreating custom and responsive digital assets (newsletters, microsites, web ads and digital banners)\nFinding new and imaginative ways to reach our target audience\nCreating and building online campaigns for various platforms\nEnsuring campaign look and feel is consistent with other touchpoints of the chip brand\nHelping us build the best savings account in the world, by being a user yourself and sharing your ideas to improve our app.\nYou should apply if:\n\nExperience in designing digital acquisition creative\nSolid understanding of all Google and Facebook’s platforms and ad formats\nExtensive experience with:\nAdobe After Effects/animation/motion design\nAdobe Photoshop/Illustrator/Sketch\nAdobe Premiere Pro/video editing\nExcellent written and verbal communication skills\nTypography and layout skills\nPerks \n\n£25,000 - £35,000pa\n\nShare option scheme. We recently secured £4m in Series A funding valuing the company at over £18m. All the team have share options in the company as we work together to achieve great results for the company.\n\n5% interest bonus on all Chip savings\n\nBrand New MacBook Pro, or equivalent.\n\nWorkplace pension scheme\n\nFlexible working arrangements\n\nUnlimited holiday (28 days contracted + bank holidays + Xmas to New year but policy not to count) ✈️\n\nFree Classpass membership\n\nBased in the heart of Shoreditch, Brick lane and Spitalfields\n\nMonthly team lunches in a thriving food scene",
+      "descriptionHtml": "<p>We’re Chip, we’re building the world’s best savings account.</p>\n\n<p>We’re using cutting edge tech and AI to shake up the slow, stagnant and old-fashioned savings market. </p>\n\n<p>We’ve built a clever app that makes saving easier, faster, and smarter. It makes your financial goals happen automatically, and gets you feeling good about your money.</p>\n\n<p>We’re growing fast, and we have some very exciting plans. So we need a Graphic Designer to help us make them happen. </p>\n\n<p>The Role -  Graphic Designer</p>\n\n<p>We need a Graphic Designer with a passion to create work which is visually appealing who will use their skills in graphic/brand design to develop and optimise all our creative content whether that be through the UI/UX of a product or through a Visual identity. You’ll have a keen eye for design, video, copy and a mega-brain of ideas, specifically for creating content to hook new users, and you’ll be confident in bringing your own ideas to the table and then to life.</p>\n\n<p>What you’ll be doing:</p>\n\n<p>You’ll be working within the marketing team and key stakeholders;</p>\n\n<p>Storyboarding, producing and delivering video animation content for all our channels<br>\nOwning and delivering all campaign assets (video, canvas, stills)<br>\nCollaborating with team members to understand what motivates and excites our users, and then putting it into practice<br>\nCreating custom and responsive digital assets (newsletters, microsites, web ads and digital banners)<br>\nFinding new and imaginative ways to reach our target audience<br>\nCreating and building online campaigns for various platforms<br>\nEnsuring campaign look and feel is consistent with other touchpoints of the chip brand<br>\nHelping us build the best savings account in the world, by being a user yourself and sharing your ideas to improve our app.<br>\nYou should apply if:</p>\n\n<p>Experience in designing digital acquisition creative<br>\nSolid understanding of all Google and Facebook’s platforms and ad formats<br>\nExtensive experience with:<br>\nAdobe After Effects/animation/motion design<br>\nAdobe Photoshop/Illustrator/Sketch<br>\nAdobe Premiere Pro/video editing<br>\nExcellent written and verbal communication skills<br>\nTypography and layout skills<br>\nPerks </p>\n\n<p>£25,000 - £35,000pa</p>\n\n<p>Share option scheme. We recently secured £4m in Series A funding valuing the company at over £18m. All the team have share options in the company as we work together to achieve great results for the company.</p>\n\n<p>5% interest bonus on all Chip savings</p>\n\n<p>Brand New MacBook Pro, or equivalent.</p>\n\n<p>Workplace pension scheme</p>\n\n<p>Flexible working arrangements</p>\n\n<p>Unlimited holiday (28 days contracted + bank holidays + Xmas to New year but policy not to count) ✈️</p>\n\n<p>Free Classpass membership</p>\n\n<p>Based in the heart of Shoreditch, Brick lane and Spitalfields</p>\n\n<p>Monthly team lunches in a thriving food scene</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Motion Graphics",
+        "Typography",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe After Effects",
+        "Adobe Premiere"
+      ],
+      "payment": {
+        "salary": "£25k – £35k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/daniel-bowling-1",
+        "name": "Daniel Bowling",
+        "avatar": "https://photos.angel.co/users/8541238-medium_jpg?1541262931"
+      },
+      "refs": {
+        "angelListId": "619183",
+        "angelListUrl": "https://angel.co/company/chip-7/jobs/619183-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Insight Analyst",
+      "description": "We’re Chip, we’re building the world’s best savings account.\n\nWe’re using cutting edge tech and AI to shake up the slow, stagnant and old-fashioned savings market. \n\nWe’ve built a clever app that makes saving easier, faster, and smarter. It makes your financial goals happen automatically, and gets you feeling good about your money.\n\nWe’re growing fast, and we have some very exciting plans. So we need an Insight Analyst to help us make them happen. \n\nThe Role - Insight Analyst\n\nYou’ll be at the intersection between Data and Strategy - deep diving into our data and generating insights, across the entire organisation. Collaborating with the strategic team to ensure we make data driven decisions.\n\nAs an Insight Analyst, you will:\n\nYou will be a key part of producing customer insights for the company\n\nWork on customer segmentation, profiling, clustering and customer journey projects\n\nYou will get exposure to and work on statistical projects with Python and SQL\n\nYou will use Python and SQL to code and query the database in order to derive insights for the company\n\nYou will work on customer retention and acquisition strategies\n\nYou will be a part of advanced analytics work too e.g. modelling and personalisation\n\nAs an Insight Analyst, you will:\n\n2:1 or above (or equivalent) from a leading university within a quantitative subjects (Mathematics, Engineering, Sciences)\n\nConfident getting hands-on with Python to process data and automate processes\n\nGood understanding of reporting and data modelling best practices\n\nGood written and verbal communication skills and an ability to translate problems into technical requirements and implement a solution.\n\nWork within the Data Science team reporting to the Head of Data Science\n\nPerks \n\n£30,000 - £50,000pa\n\nShare option scheme. We recently secured £4m in Series A funding valuing the company at over £18m. All the team have share options in the company as we work together to achieve great results for the company.\n\n5% interest bonus on all Chip savings\n\nBrand New MacBook Pro, or equivalent.\n\nWorkplace pension scheme\n\nFlexible working arrangements\n\nUnlimited holiday (28 days contracted + bank holidays + Xmas to New year but policy not to count) ✈️\n\nFree Classpass membership\n\nBased in the heart of Shoreditch, Brick lane and Spitalfields\n\nMonthly team lunches in a thriving food scene",
+      "descriptionHtml": "<p>We’re Chip, we’re building the world’s best savings account.</p>\n\n<p>We’re using cutting edge tech and AI to shake up the slow, stagnant and old-fashioned savings market. </p>\n\n<p>We’ve built a clever app that makes saving easier, faster, and smarter. It makes your financial goals happen automatically, and gets you feeling good about your money.</p>\n\n<p>We’re growing fast, and we have some very exciting plans. So we need an Insight Analyst to help us make them happen. </p>\n\n<p>The Role - Insight Analyst</p>\n\n<p>You’ll be at the intersection between Data and Strategy - deep diving into our data and generating insights, across the entire organisation. Collaborating with the strategic team to ensure we make data driven decisions.</p>\n\n<p>As an Insight Analyst, you will:</p>\n\n<p>You will be a key part of producing customer insights for the company</p>\n\n<p>Work on customer segmentation, profiling, clustering and customer journey projects</p>\n\n<p>You will get exposure to and work on statistical projects with Python and SQL</p>\n\n<p>You will use Python and SQL to code and query the database in order to derive insights for the company</p>\n\n<p>You will work on customer retention and acquisition strategies</p>\n\n<p>You will be a part of advanced analytics work too e.g. modelling and personalisation</p>\n\n<p>As an Insight Analyst, you will:</p>\n\n<p>2:1 or above (or equivalent) from a leading university within a quantitative subjects (Mathematics, Engineering, Sciences)</p>\n\n<p>Confident getting hands-on with Python to process data and automate processes</p>\n\n<p>Good understanding of reporting and data modelling best practices</p>\n\n<p>Good written and verbal communication skills and an ability to translate problems into technical requirements and implement a solution.</p>\n\n<p>Work within the Data Science team reporting to the Head of Data Science</p>\n\n<p>Perks </p>\n\n<p>£30,000 - £50,000pa</p>\n\n<p>Share option scheme. We recently secured £4m in Series A funding valuing the company at over £18m. All the team have share options in the company as we work together to achieve great results for the company.</p>\n\n<p>5% interest bonus on all Chip savings</p>\n\n<p>Brand New MacBook Pro, or equivalent.</p>\n\n<p>Workplace pension scheme</p>\n\n<p>Flexible working arrangements</p>\n\n<p>Unlimited holiday (28 days contracted + bank holidays + Xmas to New year but policy not to count) ✈️</p>\n\n<p>Free Classpass membership</p>\n\n<p>Based in the heart of Shoreditch, Brick lane and Spitalfields</p>\n\n<p>Monthly team lunches in a thriving food scene</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "SQL",
+        "Data Modeling"
+      ],
+      "payment": {
+        "salary": "£30k – £50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/daniel-bowling-1",
+        "name": "Daniel Bowling",
+        "avatar": "https://photos.angel.co/users/8541238-medium_jpg?1541262931"
+      },
+      "refs": {
+        "angelListId": "619184",
+        "angelListUrl": "https://angel.co/company/chip-7/jobs/619184-"
+      }
+    }
+  ]
+}

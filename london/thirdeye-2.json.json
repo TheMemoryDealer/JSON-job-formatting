@@ -1,0 +1,241 @@
+{
+  "name": "ThirdEye",
+  "avatar": "https://photos.angel.co/startups/i/1045609-f58bbbb7b425dfaa67c6d864c24e821c-medium_jpg.jpg?buster=1457365379",
+  "slogan": "Building real-time CCTV powered AI assistants to put in the hands of public space workers",
+  "description": "Our mission is to augment retail workers with AI powered CCTV.\n\nOur algorithims can detect and predict thefts, stockouts and queues in real time, which is a problem that costs retailers worldwide £800bn per year. This lets staff spend more time on fixing issues and customer service.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.thirdeyelabs.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/thirdeye-labs/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Machine Learning",
+    "Analytics",
+    "Cloud Computing",
+    "Computer Vision"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 3370000,
+    "rounds": [
+      {
+        "type": "Series A",
+        "closedAt": 1521331200,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1467676800,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/peter-rennert",
+      "name": "Peter Rennert",
+      "avatar": "https://photos.angel.co/users/2794478-medium_jpg?1535033933",
+      "bioHtml": "CTO at <a href=\"https://angel.co/company/thirdeye-2\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">ThirdEye</span></a> "
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/razwan-ghafoor",
+      "name": "Raz Ghafoor",
+      "avatar": "https://photos.angel.co/users/978269-medium_jpg?1521326670",
+      "bioHtml": "CEO of ThirdEye, formerly equity analyst at Bellevue, MEng with specialisation in machine learning from Imperial College"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/kelsey-carew-1",
+      "name": "Kelsey Carew",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Lead Software Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/oscar-bastardo",
+      "name": "Oscar Bastardo",
+      "avatar": "https://photos.angel.co/users/9776612-medium_jpg?1564530777",
+      "bioHtml": "Computer Science degree from Universidad Católica Andrés Bello (UCAB) Guayana, Venezuela. "
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/reynald-harvard",
+      "name": "Reynald Harvard",
+      "avatar": "https://photos.angel.co/users/9776600-medium_jpg?1564530569",
+      "bioHtml": "Machine learning engineer <a href=\"https://angel.co/company/thirdeye-2\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">ThirdEye</span></a>. Previously <a href=\"https://angel.co/company/pinpo\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Pinpo</span></a> and CIRAD."
+    }
+  ],
+  "perks": [
+    {
+      "category": "miscellaneous",
+      "title": "Flexible Hours"
+    },
+    {
+      "category": "professional_development",
+      "title": "Learning Budget"
+    },
+    {
+      "category": "company_events",
+      "title": "Team Socials"
+    },
+    {
+      "category": "equity",
+      "title": "Share Options"
+    },
+    {
+      "category": "miscellaneous",
+      "title": "Relocation Assistance"
+    },
+    {
+      "category": "company_meals",
+      "title": "Snacks and Beverages"
+    }
+  ],
+  "refs": {
+    "angelListId": "1045609",
+    "angelListUrl": "https://angel.co/company/thirdeye-2"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Machine Learning Researcher (PhD level)",
+      "description": "We are looking for a PhD level machine learning engineer (flexible start) to help us build a real-time video classification engine and conduct further research into the latest deep learning methods for action recognition on live video. The ideal candidate will want to work in an early stage startup and help shape our company culture.\r\n\r\n~~ About you ~~\r\n\r\n- PhD that applied deep learning methods and/or computer vision algorithms specifically for action recognition on video\r\n- Can demonstrate experience in 2+ languages (e.g C/C++, MATLAB, Python)\r\n- Appetite to learn and apply new technologies and architectures\r\n\r\n~~ About us ~~\r\n\r\n- Small team with a balance of academic and industry experience\r\n- A start-up environment where everyone's work has a huge and lasting impact\r\n- We actively encourage ambitious projects\r\n- VC funded with healthy runway\r\n\r\n~~ Our offer to you ~~\r\n\r\n- Competitive salary, pension and equity\r\n- Allow part-time, flexible and remote hours\r\n- Provide any books or software you need\r\n- Company resources for personal projects\r\n- Benefits include unlimited fruit &amp; yogurt, annual trips and conference subsidies",
+      "descriptionHtml": "<p>We are looking for a PhD level machine learning engineer (flexible start) to help us build a real-time video classification engine and conduct further research into the latest deep learning methods for action recognition on live video. The ideal candidate will want to work in an early stage startup and help shape our company culture.</p>\n\n<p>~~ About you ~~</p>\n\n<ul>\n<li>PhD that applied deep learning methods and/or computer vision algorithms specifically for action recognition on video</li>\n<li>Can demonstrate experience in 2+ languages (e.g C/C++, MATLAB, Python)</li>\n<li>Appetite to learn and apply new technologies and architectures</li>\n</ul>\n\n<p>~~ About us ~~</p>\n\n<ul>\n<li>Small team with a balance of academic and industry experience</li>\n<li>A start-up environment where everyone&#39;s work has a huge and lasting impact</li>\n<li>We actively encourage ambitious projects</li>\n<li>VC funded with healthy runway</li>\n</ul>\n\n<p>~~ Our offer to you ~~</p>\n\n<ul>\n<li>Competitive salary, pension and equity</li>\n<li>Allow part-time, flexible and remote hours</li>\n<li>Provide any books or software you need</li>\n<li>Company resources for personal projects</li>\n<li>Benefits include unlimited fruit &amp; yogurt, annual trips and conference subsidies</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Computer Vision",
+        "Databases",
+        "Deep Learning",
+        "Docker"
+      ],
+      "payment": {
+        "salary": "£38k – £60k",
+        "equity": "0.05% – 0.25%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/razwan-ghafoor",
+        "name": "Raz Ghafoor",
+        "avatar": "https://photos.angel.co/users/978269-medium_jpg?1521326670"
+      },
+      "refs": {
+        "angelListId": "156311",
+        "angelListUrl": "https://angel.co/company/thirdeye-2/jobs/156311-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Product Marketing & Business Development Intern",
+      "description": "### The Role\r\n### \r\nWe’re looking for a smart and outgoing Business Development Intern joining us over the course of 3 months, commencing in June 2020 (joining earlier for a longer period is possible). Remote is also possible for this role, but ability to travel to and stay in London if needed is required. \r\n\r\nYou will directly work with the CEO to create a marketing campaign for a new ThirdEye product. You will have the freedom to make your own decisions and implement your own ideas, as well as being able to make an significant impact to our business. You will be expected to produce, distribute &amp; analyse compelling content, as well as directly talk to and send you material to customers. This is an evolving role, so please be aware the exact nature of the project may change closer to the time. \r\n\r\n### Required Skills and Experience\r\n### \r\n* Currently enrolled in a Bachelor’s or Master’s degree and in your final phase of study in something related to Business, Marketing, Economics or Communications\r\n* Strong communication skills - please demonstrate some engaging content you have written or produced in your application\r\n* A clearly demonstrable passion for AI or brick &amp; mortar retail technology or operations\r\n* Fluent or native english speaker\r\n* Basic knowledge of content distribution, SEO and analytics engines\r\n\r\n### Our benefits\r\n### \r\n* Flexible working hours;\r\n* Dedicated learning budget and time to hone your skills;\r\n* Team socials including Ski Trips, Monthly nights out and regular lunches;\r\n* Free meals twice a month (when at the office);\r\n* Generous amount of equity;\r\n* Relocation buddy to help with the practicalities of living in London such as housing, taxes, transport etc (N/A during covid-19 lockdown); and\r\n* An autonomous environment where all thoughts and ideas are listened to.",
+      "descriptionHtml": "<h3>The Role</h3>\n<p>We’re looking for a smart and outgoing Business Development Intern joining us over the course of 3 months, commencing in June 2020 (joining earlier for a longer period is possible). Remote is also possible for this role, but ability to travel to and stay in London if needed is required. </p>\n\n<p>You will directly work with the CEO to create a marketing campaign for a new ThirdEye product. You will have the freedom to make your own decisions and implement your own ideas, as well as being able to make an significant impact to our business. You will be expected to produce, distribute &amp; analyse compelling content, as well as directly talk to and send you material to customers. This is an evolving role, so please be aware the exact nature of the project may change closer to the time. </p>\n<h3>Required Skills and Experience</h3>\n<ul>\n<li>Currently enrolled in a Bachelor’s or Master’s degree and in your final phase of study in something related to Business, Marketing, Economics or Communications</li>\n<li>Strong communication skills - please demonstrate some engaging content you have written or produced in your application</li>\n<li>A clearly demonstrable passion for AI or brick &amp; mortar retail technology or operations</li>\n<li>Fluent or native english speaker</li>\n<li>Basic knowledge of content distribution, SEO and analytics engines</li>\n</ul>\n<h3>Our benefits</h3>\n<ul>\n<li>Flexible working hours;</li>\n<li>Dedicated learning budget and time to hone your skills;</li>\n<li>Team socials including Ski Trips, Monthly nights out and regular lunches;</li>\n<li>Free meals twice a month (when at the office);</li>\n<li>Generous amount of equity;</li>\n<li>Relocation buddy to help with the practicalities of living in London such as housing, taxes, transport etc (N/A during covid-19 lockdown); and</li>\n<li>An autonomous environment where all thoughts and ideas are listened to.</li>\n</ul>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Business Development",
+        "Product Marketing",
+        "Sales and Marketing",
+        "Communication Skills",
+        "Content Marketing"
+      ],
+      "payment": {
+        "salary": "£17k – £18k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/razwan-ghafoor",
+        "name": "Raz Ghafoor",
+        "avatar": "https://photos.angel.co/users/978269-medium_jpg?1521326670"
+      },
+      "refs": {
+        "angelListId": "517096",
+        "angelListUrl": "https://angel.co/company/thirdeye-2/jobs/517096-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Sales and Partnership Manager",
+      "description": "### The Role\r\n### \r\nWe’ve spent the last few years developing our technology alongside a few of the UK’s biggest retailers. However, for our next release, we’re finally ready to scale our product to the rest of the world’s shops, big or small. We need a talented and ambitious sales and partnerships manager to help let them know that ThirdEye is ready to fight theft in their stores. You will be working directly with the CEO to shape and implement our first mass market sales strategy, and help develop the future business model and product releases using market feedback. You will have an almost limitless sales oppertunity in a new product category that we are defining. \r\n\r\nAs you will be the first dedicated sales hire, this role will need to be doing both hands-on sales and high level strategy setting.\r\n\r\n### Required Skills and Experience\r\n### \r\n* Proven experience with new products and long buying cycle sales;\r\n* Demonstrable experience with sales negotiations working with B2B clients &amp; channel partners\r\n* Knowledge of selling multisite tech products e.g into stores, restaurants or high street banks; \r\n* Basic knowledge of service contracts and SLA's; \r\n* Comfortable setting realistic growth metrics and KPI's;\r\n* Ability to manage and shape an entire early stage sales pipeline.\r\n\r\nBonus if you have:\r\n* Brick and Mortar retail knowledge;\r\n* A deeper understanding of networks and integrations; and\r\n* Basic marketing and customer success Experience.\r\n\r\n### Our benefits\r\n### \r\n* Bonus structure available;\r\n* Flexible working hours;\r\n* Dedicated learning budget and time to hone your skills;\r\n* Team socials including Ski Trips, Monthly nights out and regular lunches;\r\n* Free meals twice a month (when at the office);\r\n* Generous amount of equity;\r\n* Relocation buddy to help  with the practicalities of living in London such as housing, taxes, transport etc; and\r\n* An autonomous environment where all thoughts and ideas are listened to.",
+      "descriptionHtml": "<h3>The Role</h3>\n<p>We’ve spent the last few years developing our technology alongside a few of the UK’s biggest retailers. However, for our next release, we’re finally ready to scale our product to the rest of the world’s shops, big or small. We need a talented and ambitious sales and partnerships manager to help let them know that ThirdEye is ready to fight theft in their stores. You will be working directly with the CEO to shape and implement our first mass market sales strategy, and help develop the future business model and product releases using market feedback. You will have an almost limitless sales oppertunity in a new product category that we are defining. </p>\n\n<p>As you will be the first dedicated sales hire, this role will need to be doing both hands-on sales and high level strategy setting.</p>\n<h3>Required Skills and Experience</h3>\n<ul>\n<li>Proven experience with new products and long buying cycle sales;</li>\n<li>Demonstrable experience with sales negotiations working with B2B clients &amp; channel partners</li>\n<li>Knowledge of selling multisite tech products e.g into stores, restaurants or high street banks; </li>\n<li>Basic knowledge of service contracts and SLA&#39;s; </li>\n<li>Comfortable setting realistic growth metrics and KPI&#39;s;</li>\n<li>Ability to manage and shape an entire early stage sales pipeline.</li>\n</ul>\n\n<p>Bonus if you have:</p>\n\n<ul>\n<li>Brick and Mortar retail knowledge;</li>\n<li>A deeper understanding of networks and integrations; and</li>\n<li>Basic marketing and customer success Experience.</li>\n</ul>\n<h3>Our benefits</h3>\n<ul>\n<li>Bonus structure available;</li>\n<li>Flexible working hours;</li>\n<li>Dedicated learning budget and time to hone your skills;</li>\n<li>Team socials including Ski Trips, Monthly nights out and regular lunches;</li>\n<li>Free meals twice a month (when at the office);</li>\n<li>Generous amount of equity;</li>\n<li>Relocation buddy to help  with the practicalities of living in London such as housing, taxes, transport etc; and</li>\n<li>An autonomous environment where all thoughts and ideas are listened to.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Sales",
+        "Sales Strategy and Management",
+        "Sales and Marketing",
+        "Sales/Marketing and Strategic Partnerships",
+        "Strategic Partnerships",
+        "Account Management"
+      ],
+      "payment": {
+        "salary": "£38k – £70k",
+        "equity": "0.05% – 0.25%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/razwan-ghafoor",
+        "name": "Raz Ghafoor",
+        "avatar": "https://photos.angel.co/users/978269-medium_jpg?1521326670"
+      },
+      "refs": {
+        "angelListId": "660623",
+        "angelListUrl": "https://angel.co/company/thirdeye-2/jobs/660623-"
+      }
+    }
+  ]
+}

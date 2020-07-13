@@ -1,0 +1,326 @@
+{
+  "name": "Drawbotics",
+  "avatar": "https://photos.angel.co/startups/i/604585-6861e0739c3655d536db020a75456afb-medium_jpg.jpg?buster=1423561798",
+  "slogan": "Redefining the way people buy and sell homes through marketing innovation and technology",
+  "description": "Drawbotics is a scale-up built on the belief that we could help redefine the way people buy and sell homes through marketing, data and technology. We started almost 5 years ago and are today active in more than 15 countries with just over 120 employees.\n\nTechnology continues to evolve, and real estate is being left behind. But not for long. Our mission at Drawbotics is to revolutionise the home-buying experience, for the buyer and the seller. We do this by creating innovative technologies and data-driven analysis software. Selling homes is now faster and easier, with happier customers and a higher ROI. \nFrom developers and large brokerage firms to FSBOs, Drawbotics offers high quality products for any type of budget and client.\n\nDrawbotics has joined the revolution of real estate marketing in over 15 countries, having completed over 50000 projects. It’s time to join the uprising.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.drawbotics.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/drawbotics"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/drawbotics"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/drawbotics"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "Brussels",
+    "Paris",
+    "London"
+  ],
+  "marketTags": [
+    "Real Estate Technology",
+    "Marketing",
+    "Virtual Reality",
+    "3D Technology"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 1250000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1543622400,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1489622400,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/stanboyet",
+      "name": "Stanislas Boyet",
+      "avatar": "https://photos.angel.co/users/335607-medium_jpg?1575619140",
+      "bioHtml": "CTO <a href=\"https://angel.co/company/drawbotics\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Drawbotics</span></a>   \nMaster of Engineering (major in CS)\nMaster of Economy &amp; Business management\n\nPresident @ Ruby Belgium"
+    },
+    {
+      "title": "COO",
+      "role": "Founder",
+      "url": "https://angel.co/u/axel-guzman",
+      "name": "Axel Guzman",
+      "avatar": "https://photos.angel.co/users/1010817-medium_jpg?1423548864",
+      "bioHtml": "Founder &amp; COO Drawbotics"
+    },
+    {
+      "title": "CEO & Co-founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/xavier-claes",
+      "name": "Xavier Claes",
+      "avatar": "https://photos.angel.co/users/982692-medium_jpg?1509445817",
+      "bioHtml": "Founder &amp; CEO <a href=\"https://angel.co/company/drawbotics\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Drawbotics</span></a> \nFounder <a href=\"https://angel.co/company/soccha\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Soccha</span></a>"
+    },
+    {
+      "title": "Country Manager France",
+      "role": "Employee",
+      "url": "https://angel.co/u/nicolas-omont-1",
+      "name": "Nicolas Omont",
+      "avatar": "https://photos.angel.co/users/6543282-medium_jpg?1573248059",
+      "bioHtml": "Country Manager France <a href=\"https://angel.co/company/drawbotics\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Drawbotics</span></a>\n\nLaunched Drawbotics in France and helped the company devise and grow its business."
+    },
+    {
+      "title": "Content Marketing Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/michaela-farr",
+      "name": "Michaela Farr",
+      "avatar": "https://photos.angel.co/users/9765997-medium_jpg?1564386702",
+      "bioHtml": "Content Marketing Manager at Drawbotics"
+    },
+    {
+      "title": "Manager Business Development",
+      "role": "Employee",
+      "url": "https://angel.co/u/arno-denblyden",
+      "name": "Arno Denblyden",
+      "avatar": "https://photos.angel.co/users/9791608-medium_jpg?1564748587",
+      "bioHtml": "Manager Business Development at Drawbotics"
+    }
+  ],
+  "perks": [
+    {
+      "category": "work_from_home",
+      "title": "Work from home policy"
+    },
+    {
+      "category": "generous_vacation",
+      "title": "Unlimited vacation time"
+    },
+    {
+      "category": "professional_development",
+      "title": "Professional development"
+    },
+    {
+      "category": "company_events",
+      "title": "Company events"
+    },
+    {
+      "category": "commuter",
+      "title": "Commuter benefits"
+    },
+    {
+      "category": "equity",
+      "title": "Equity benefits"
+    },
+    {
+      "category": "miscellaneous",
+      "title": "Mario Kart daily tournaments"
+    }
+  ],
+  "refs": {
+    "angelListId": "604585",
+    "angelListUrl": "https://angel.co/company/drawbotics"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Backend engineer",
+      "description": "As backend engineer, you will have the opportunity to imagine, implement, test, and iterate over new features and scale web applications used by all of our clients.\n\nResponsibilities:\n\n- Help our company enter our scaling phase. Build with the future in mind.\n- Have an impact on the team's technical decisions.\n- Work on, and really own, a part of the company's infrastructure.\n- Be proactive.\n\nRequirements:\n\n- You've been learning and don't want to stop now. You are curious & eager to learn every single day.\n- You want to keep on growing surrounded by amazing teammates.\n- You obsess over details, but can see the bigger picture. Simplicity is what drives your work (and your code!).\n- You've worked on Backends in OOP languages and maybe even in Ruby (We use Ruby on Rails as our main backend framework).\n- You are excited to solve complex problems in sophisticated web applications.\n- Smart, productive and immune to sarcasm.",
+      "descriptionHtml": "<p>As backend engineer, you will have the opportunity to imagine, implement, test, and iterate over new features and scale web applications used by all of our clients.</p>\n\n<p>Responsibilities:</p>\n\n<ul>\n<li>Help our company enter our scaling phase. Build with the future in mind.</li>\n<li>Have an impact on the team&#39;s technical decisions.</li>\n<li>Work on, and really own, a part of the company&#39;s infrastructure.</li>\n<li>Be proactive.</li>\n</ul>\n\n<p>Requirements:</p>\n\n<ul>\n<li>You&#39;ve been learning and don&#39;t want to stop now. You are curious &amp; eager to learn every single day.</li>\n<li>You want to keep on growing surrounded by amazing teammates.</li>\n<li>You obsess over details, but can see the bigger picture. Simplicity is what drives your work (and your code!).</li>\n<li>You&#39;ve worked on Backends in OOP languages and maybe even in Ruby (We use Ruby on Rails as our main backend framework).</li>\n<li>You are excited to solve complex problems in sophisticated web applications.</li>\n<li>Smart, productive and immune to sarcasm.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "Brussels"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "€40k – €46k"
+      },
+      "recruiter": {
+        "title": "Talent Acquisition Manager",
+        "role": "Employee",
+        "url": "https://angel.co/u/chiara-floreanini",
+        "name": "Chiara Floreanini",
+        "avatar": "https://photos.angel.co/users/8769485-medium_jpg?1546955245"
+      },
+      "refs": {
+        "angelListId": "531551",
+        "angelListUrl": "https://angel.co/company/drawbotics/jobs/531551-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Business Development Intern",
+      "description": "A stepping stone to management and a terrific learning opportunity for anyone interested in running a business of his own. \r\nAs an intern you will join a young, dynamic and passionate team.\r\n\r\nYour responsibilities will include:\r\n\r\n- Proactively creating, developing and managing your business portfolio\r\n- Generating revenue for a fast-growing, international business, contributing to its development.\r\n- Strategically contributing to the business with new sales initiatives based on evolving product and market direction\r\n- Constantly communicating with prospects via phone &amp; email (80% of the time)\r\n\r\nRequirements:\r\n\r\n- You are proactive &amp; passionate\r\n- You are interested in business development\r\n- You are curious &amp; eager to learn every single day\r\n- You are available for 4 to 6 months\r\n- You have a native level of French and have a good knowledge of English",
+      "descriptionHtml": "<p>A stepping stone to management and a terrific learning opportunity for anyone interested in running a business of his own. <br>\nAs an intern you will join a young, dynamic and passionate team.</p>\n\n<p>Your responsibilities will include:</p>\n\n<ul>\n<li>Proactively creating, developing and managing your business portfolio</li>\n<li>Generating revenue for a fast-growing, international business, contributing to its development.</li>\n<li>Strategically contributing to the business with new sales initiatives based on evolving product and market direction</li>\n<li>Constantly communicating with prospects via phone &amp; email (80% of the time)</li>\n</ul>\n\n<p>Requirements:</p>\n\n<ul>\n<li>You are proactive &amp; passionate</li>\n<li>You are interested in business development</li>\n<li>You are curious &amp; eager to learn every single day</li>\n<li>You are available for 4 to 6 months</li>\n<li>You have a native level of French and have a good knowledge of English</li>\n</ul>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Paris"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "€5k – €12k"
+      },
+      "recruiter": {
+        "title": "Talent Acquisition Manager",
+        "role": "Employee",
+        "url": "https://angel.co/u/chiara-floreanini",
+        "name": "Chiara Floreanini",
+        "avatar": "https://photos.angel.co/users/8769485-medium_jpg?1546955245"
+      },
+      "refs": {
+        "angelListId": "132016",
+        "angelListUrl": "https://angel.co/company/drawbotics/jobs/132016-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Business Manager BeNeLux",
+      "description": "As a business development manager, you would be responsible for leading and managing all sales operations in Flanders and the Netherlands maximizing revenue growth while taking the lead on our largest deals and negotiate effectively to devise the most beneficial contract for both parties\r\n\r\n\r\nRequirements:\r\n\r\n- Previous experience in sales and business development strongly preferred\r\n- Outstanding written &amp; verbal communication skills in French and Dutch and a good level of English\r\n- Previous experience and/or strong interest in outbound sales and prospecting\r\n- Extensive experience actively closing large enterprise deals and track record meeting or exceeding quarterly/annual sales goals with year on year growth\r\n- Expert at defining, refining, and implementing processes for reporting, analytics, forecasting and performance metrics\r\n- Effective leader, extremely well-organized, analytical, and detail-oriented\r\n- Strong problem solving, collaboration, and technical skills\r\n- High-energy, with a relentless desire to prove oneself\r\n- Excellent communication skills. Consistently and transparently (over-)communicate sales updates and business needs\r\n- Well honed interpersonal skills. Ability to read emotions and reactions to situations and think creatively to find resolutions to objections\r\n- Startup experience strongly preferred",
+      "descriptionHtml": "<p>As a business development manager, you would be responsible for leading and managing all sales operations in Flanders and the Netherlands maximizing revenue growth while taking the lead on our largest deals and negotiate effectively to devise the most beneficial contract for both parties</p>\n\n<p>Requirements:</p>\n\n<ul>\n<li>Previous experience in sales and business development strongly preferred</li>\n<li>Outstanding written &amp; verbal communication skills in French and Dutch and a good level of English</li>\n<li>Previous experience and/or strong interest in outbound sales and prospecting</li>\n<li>Extensive experience actively closing large enterprise deals and track record meeting or exceeding quarterly/annual sales goals with year on year growth</li>\n<li>Expert at defining, refining, and implementing processes for reporting, analytics, forecasting and performance metrics</li>\n<li>Effective leader, extremely well-organized, analytical, and detail-oriented</li>\n<li>Strong problem solving, collaboration, and technical skills</li>\n<li>High-energy, with a relentless desire to prove oneself</li>\n<li>Excellent communication skills. Consistently and transparently (over-)communicate sales updates and business needs</li>\n<li>Well honed interpersonal skills. Ability to read emotions and reactions to situations and think creatively to find resolutions to objections</li>\n<li>Startup experience strongly preferred</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "Brussels"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Fluent in French",
+        "Fluent in Dutch"
+      ],
+      "payment": {
+        "salary": "€30k – €100k"
+      },
+      "recruiter": {
+        "title": "Talent Acquisition Manager",
+        "role": "Employee",
+        "url": "https://angel.co/u/chiara-floreanini",
+        "name": "Chiara Floreanini",
+        "avatar": "https://photos.angel.co/users/8769485-medium_jpg?1546955245"
+      },
+      "refs": {
+        "angelListId": "352562",
+        "angelListUrl": "https://angel.co/company/drawbotics/jobs/352562-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Head of Marketing",
+      "description": "As head of marketing, you will be the key generator of new leads for our sales team. We will need you to increase our lead generation volume and quality, in a sustainable and scalable way.\nYou will define and implement the best growth strategy to get there, from planning multichannel online to leading offline marketing actions in collaboration with our sales team. You will be continuously balancing the marketing mix to stay on track with KPI goals.\nWe need you to be super analytical, and be able to put relevant reporting in place to make data-driven decisions, and adapt our strategy when needed.\nWe’ll also need you to have technical knowledge and skills, and master inbound and outbound marketing strategy tools, website optimization, SEO as a minimum.\n\nYou'll be travelling to our different offices in London, Paris and New York to implement our marketing strategy and adapt it to the local market.\nSince the marketing team will be growing, the position will include recruiting and people management, so you should be a leader too, with an entrepreneurial spirit.\n\nRequirements:\n- Proactive and passionate, eager to learn and teach every single day\n- Methodical and analytical in approach to managing and resourcing multiple diverse projects\n- Excellent understanding of the B2B sales and marketing funnel in a B2B startup/scale-up environment.\n- A proven track record in marketing operations, lead generation and campaign management\n- Forward thinking, ability to spot future challenges and potential pitfalls\n- Degree in a relevant field or equivalent relevant experience\n- Fluent in English. French and/or Dutch is a plus.\n- 5+ years of experience",
+      "descriptionHtml": "<p>As head of marketing, you will be the key generator of new leads for our sales team. We will need you to increase our lead generation volume and quality, in a sustainable and scalable way.<br>\nYou will define and implement the best growth strategy to get there, from planning multichannel online to leading offline marketing actions in collaboration with our sales team. You will be continuously balancing the marketing mix to stay on track with KPI goals.<br>\nWe need you to be super analytical, and be able to put relevant reporting in place to make data-driven decisions, and adapt our strategy when needed.<br>\nWe’ll also need you to have technical knowledge and skills, and master inbound and outbound marketing strategy tools, website optimization, SEO as a minimum.</p>\n\n<p>You&#39;ll be travelling to our different offices in London, Paris and New York to implement our marketing strategy and adapt it to the local market.<br>\nSince the marketing team will be growing, the position will include recruiting and people management, so you should be a leader too, with an entrepreneurial spirit.</p>\n\n<p>Requirements:</p>\n\n<ul>\n<li>Proactive and passionate, eager to learn and teach every single day</li>\n<li>Methodical and analytical in approach to managing and resourcing multiple diverse projects</li>\n<li>Excellent understanding of the B2B sales and marketing funnel in a B2B startup/scale-up environment.</li>\n<li>A proven track record in marketing operations, lead generation and campaign management</li>\n<li>Forward thinking, ability to spot future challenges and potential pitfalls</li>\n<li>Degree in a relevant field or equivalent relevant experience</li>\n<li>Fluent in English. French and/or Dutch is a plus.</li>\n<li>5+ years of experience</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "Brussels"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "€56k – €72k"
+      },
+      "recruiter": {
+        "title": "Talent Acquisition Manager",
+        "role": "Employee",
+        "url": "https://angel.co/u/chiara-floreanini",
+        "name": "Chiara Floreanini",
+        "avatar": "https://photos.angel.co/users/8769485-medium_jpg?1546955245"
+      },
+      "refs": {
+        "angelListId": "526671",
+        "angelListUrl": "https://angel.co/company/drawbotics/jobs/526671-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Head of Sales",
+      "description": "As a key part of our team, the head of sales will be responsible for ensuring the sales team exceeds all activity, meeting and revenue goals. You will be responsible for hiring high potential individuals, training and managing our sales team across all our offices in Brussels, London and Paris. We also expect our head of sales to impact Drawbotics in the following ways:\n\n- Commercial Strategy - Owns, defines & executes commercial strategy in collaboration with management and marketing team\n- Partnership Management - Operational responsibility for day-to-day management of strategic partners\n- Top-line target - Delivers on monthly, quarterly, and yearly revenue targets.\n- Strategic Input - Is a key contributor to the overall strategy of the company.\n- Sales Ops -Is responsible for excellence in sales operations and pipeline follow-through.\n- Customer Growth - work with marketing and operation teams to identify customer growth, cross-sell and up-sell opportunities with Drawbotics most strategic customers.\n- Messaging & Marketing Strategy - manage and work with marketing department to create and execute.\n\nWe are looking for someone who has excelled at building a high performance sales team from the ground up.\n\n- Has 5+ years of sales management experience, expertise in B2B sales and growing a SaaS scale-up \n- Proactive and passionate, eager to learn every single day\n- At least two years experience of establishing, leading and managing demanding client relationships is essential\n- Methodical and analytical in approach to managing and resourcing multiple diverse projects\n- A positive team player - have the ability to provide support, reassurance, motivation and clear direction to the business developers, management team and other stakeholders involved in the growth of the company\n- Clear verbal and written communications skills with excellent attention to detail, ensuring all communications are accurate, articulate and appropriate to the audience\n- Have a consultative approach, testing and contributing ideas towards process improvement\n- Forward thinking, ability to spot future challenges and potential pitfalls\n- Excellent level of English. French and/or Dutch is a plus.",
+      "descriptionHtml": "<p>As a key part of our team, the head of sales will be responsible for ensuring the sales team exceeds all activity, meeting and revenue goals. You will be responsible for hiring high potential individuals, training and managing our sales team across all our offices in Brussels, London and Paris. We also expect our head of sales to impact Drawbotics in the following ways:</p>\n\n<ul>\n<li>Commercial Strategy - Owns, defines &amp; executes commercial strategy in collaboration with management and marketing team</li>\n<li>Partnership Management - Operational responsibility for day-to-day management of strategic partners</li>\n<li>Top-line target - Delivers on monthly, quarterly, and yearly revenue targets.</li>\n<li>Strategic Input - Is a key contributor to the overall strategy of the company.</li>\n<li>Sales Ops -Is responsible for excellence in sales operations and pipeline follow-through.</li>\n<li>Customer Growth - work with marketing and operation teams to identify customer growth, cross-sell and up-sell opportunities with Drawbotics most strategic customers.</li>\n<li>Messaging &amp; Marketing Strategy - manage and work with marketing department to create and execute.</li>\n</ul>\n\n<p>We are looking for someone who has excelled at building a high performance sales team from the ground up.</p>\n\n<ul>\n<li>Has 5+ years of sales management experience, expertise in B2B sales and growing a SaaS scale-up </li>\n<li>Proactive and passionate, eager to learn every single day</li>\n<li>At least two years experience of establishing, leading and managing demanding client relationships is essential</li>\n<li>Methodical and analytical in approach to managing and resourcing multiple diverse projects</li>\n<li>A positive team player - have the ability to provide support, reassurance, motivation and clear direction to the business developers, management team and other stakeholders involved in the growth of the company</li>\n<li>Clear verbal and written communications skills with excellent attention to detail, ensuring all communications are accurate, articulate and appropriate to the audience</li>\n<li>Have a consultative approach, testing and contributing ideas towards process improvement</li>\n<li>Forward thinking, ability to spot future challenges and potential pitfalls</li>\n<li>Excellent level of English. French and/or Dutch is a plus.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "Brussels"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "€65k – €120k"
+      },
+      "recruiter": {
+        "title": "Talent Acquisition Manager",
+        "role": "Employee",
+        "url": "https://angel.co/u/chiara-floreanini",
+        "name": "Chiara Floreanini",
+        "avatar": "https://photos.angel.co/users/8769485-medium_jpg?1546955245"
+      },
+      "refs": {
+        "angelListId": "526669",
+        "angelListUrl": "https://angel.co/company/drawbotics/jobs/526669-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Product Owner",
+      "description": "We are looking for a Product Owner to help us reach the next step in products growth. As a product owner, you will be in charge of drawing up the specifications and requirements for IT projects and tracking their progress. You will ensure that the projects are well defined, match the clients' needs and are deployed in a timely manner. You will report to, and work closely with, the CTO.\n\nResponsibilities:\n\n- Manage tech projects from idea to deployment, through drawing up the specifications with those concerned and managing their implementation with the IT team\n- Ensure the coherence of all the projects being output by the team, regarding features, vision, and UX/UI.\n- Prioritize user stories and be pedagogic in the process why with all involved parties\n- Take part in the documentation of new and existing processes. We are growing and no one will be left behind\n\nRequirements:\n\n- You are a result-oriented person with strong analytical skills.\n- You know how to communicate clearly under pressure and thrive to find solutions and compromises in these conditions\n- You want to be involved in all parts of the product and are driven by never-ending curiosity\n- Your worst nightmare is being a cog in a big machine without proper sense of accomplishment. Or spiders. Either one makes sense\n- You know how and when to ask questions when stuck, and it does not affect your motivation\n- You enjoy making everyone's lives easier and easing communication across technical and non-technical teams\n- You are fluent in English",
+      "descriptionHtml": "<p>We are looking for a Product Owner to help us reach the next step in products growth. As a product owner, you will be in charge of drawing up the specifications and requirements for IT projects and tracking their progress. You will ensure that the projects are well defined, match the clients&#39; needs and are deployed in a timely manner. You will report to, and work closely with, the CTO.</p>\n\n<p>Responsibilities:</p>\n\n<ul>\n<li>Manage tech projects from idea to deployment, through drawing up the specifications with those concerned and managing their implementation with the IT team</li>\n<li>Ensure the coherence of all the projects being output by the team, regarding features, vision, and UX/UI.</li>\n<li>Prioritize user stories and be pedagogic in the process why with all involved parties</li>\n<li>Take part in the documentation of new and existing processes. We are growing and no one will be left behind</li>\n</ul>\n\n<p>Requirements:</p>\n\n<ul>\n<li>You are a result-oriented person with strong analytical skills.</li>\n<li>You know how to communicate clearly under pressure and thrive to find solutions and compromises in these conditions</li>\n<li>You want to be involved in all parts of the product and are driven by never-ending curiosity</li>\n<li>Your worst nightmare is being a cog in a big machine without proper sense of accomplishment. Or spiders. Either one makes sense</li>\n<li>You know how and when to ask questions when stuck, and it does not affect your motivation</li>\n<li>You enjoy making everyone&#39;s lives easier and easing communication across technical and non-technical teams</li>\n<li>You are fluent in English</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Brussels"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "User Experience",
+        "Product Owner",
+        "UX Design"
+      ],
+      "payment": {
+        "salary": "€45k – €65k"
+      },
+      "recruiter": {
+        "title": "Talent Acquisition Manager",
+        "role": "Employee",
+        "url": "https://angel.co/u/chiara-floreanini",
+        "name": "Chiara Floreanini",
+        "avatar": "https://photos.angel.co/users/8769485-medium_jpg?1546955245"
+      },
+      "refs": {
+        "angelListId": "494566",
+        "angelListUrl": "https://angel.co/company/drawbotics/jobs/494566-"
+      }
+    }
+  ]
+}

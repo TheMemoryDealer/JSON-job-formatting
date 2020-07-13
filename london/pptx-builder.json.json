@@ -1,0 +1,97 @@
+{
+  "name": "PPTX Builder",
+  "avatar": "https://photos.angel.co/startups/i/6023336-d5897d6403e0cad773655bfa03f31d1b-medium_jpg.jpg?buster=1531844303",
+  "slogan": "Data visualisation application for Market Research industry",
+  "description": "Our product is an online data visualisation app designed specifically for the market research industry.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.pptxbuilder.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Market Research"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "ceo",
+      "role": "Employee",
+      "url": "https://angel.co/u/majeed-s",
+      "name": "Majeed S",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at PPTX Builder"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6023336",
+    "angelListUrl": "https://angel.co/company/pptx-builder"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Devloper [React/Python]",
+      "description": "Must be based in London and available to at our office in West Kensington.\n\nAbout us:\nPPTX Builder is a London based start-up specialising in data visualization and report automation. Our technology enables users to extract key insights in client ready presentations. \n\nThe role:\nWe are looking for a Full Stack Developer (Python/React) to deliver an outstanding data visualisation platform. You will be fully involved in the product road map creation and product delivery. Your work will range from simple frontend bug repairs to building and integrating complex APIs. \n\nRequirements:\n•\tExcellent knowledge and 3+ years of commercial experience working at a master level using Python 3, Flask, React and JavaScript\n•\tModern JavaScript development tools and libraries\n•\tExperience with a common Python and JavaScript libraries (Highcharts, Pandas)\n•\tExperience with Bootstrap\n•\tExperience or high level understanding of code testing methodologies\n\nTech we use:\n•\tServer-side: Flask \n•\tClient-side: React.js, Bootstrap, JQuery, HTML, CSS, Scss \n•\tLanguages: Python 3, JavaScript\n•\tData visualization & analysis: Highcharts, Pandas, Openpyxl, Xlrd\n•\tDatabase: PostgreSQL \n•\tDeployment: Heroku\n\nQualities we look for:\n•\tPositivity, determination to succeed, high energy with humility and a strong personal drive\n•\tSound judgement along with a desire to challenge traditional thinking\n•\tHighly organised with a flexible approach to working\n•\tA very strong work ethic and a focus on delivery\n•\tAppreciation for a test-driven, code-review culture\n\nWhat we offer:\n•\tA competitive salary\n•\t25 days holiday\n•\tThe opportunity to contribute to and shape our vision, culture & growth\n\nWe look forward to hearing from you. Email CVs with a cover letter to info@pptxbuilder.com",
+      "descriptionHtml": "<p>Must be based in London and available to at our office in West Kensington.</p>\n\n<p>About us:<br>\nPPTX Builder is a London based start-up specialising in data visualization and report automation. Our technology enables users to extract key insights in client ready presentations. </p>\n\n<p>The role:<br>\nWe are looking for a Full Stack Developer (Python/React) to deliver an outstanding data visualisation platform. You will be fully involved in the product road map creation and product delivery. Your work will range from simple frontend bug repairs to building and integrating complex APIs. </p>\n\n<p>Requirements:<br>\n• Excellent knowledge and 3+ years of commercial experience working at a master level using Python 3, Flask, React and JavaScript<br>\n• Modern JavaScript development tools and libraries<br>\n• Experience with a common Python and JavaScript libraries (Highcharts, Pandas)<br>\n• Experience with Bootstrap<br>\n• Experience or high level understanding of code testing methodologies</p>\n\n<p>Tech we use:<br>\n• Server-side: Flask <br>\n• Client-side: React.js, Bootstrap, JQuery, HTML, CSS, Scss <br>\n• Languages: Python 3, JavaScript<br>\n• Data visualization &amp; analysis: Highcharts, Pandas, Openpyxl, Xlrd<br>\n• Database: PostgreSQL <br>\n• Deployment: Heroku</p>\n\n<p>Qualities we look for:<br>\n• Positivity, determination to succeed, high energy with humility and a strong personal drive<br>\n• Sound judgement along with a desire to challenge traditional thinking<br>\n• Highly organised with a flexible approach to working<br>\n• A very strong work ethic and a focus on delivery<br>\n• Appreciation for a test-driven, code-review culture</p>\n\n<p>What we offer:<br>\n• A competitive salary<br>\n• 25 days holiday<br>\n• The opportunity to contribute to and shape our vision, culture &amp; growth</p>\n\n<p>We look forward to hearing from you. Email CVs with a cover letter to <a href=\"mailto:info@pptxbuilder.com\" target=\"_blank\" rel=\"nofollow\">info@pptxbuilder.com</a></p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Javascript",
+        "Data Science",
+        "Python Flask",
+        "React.js"
+      ],
+      "payment": {
+        "salary": "£27k – £30k",
+        "equity": "1.0% – 5.0%"
+      },
+      "recruiter": {
+        "title": "ceo",
+        "role": "Employee",
+        "url": "https://angel.co/u/majeed-s",
+        "name": "Majeed S",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "710050",
+        "angelListUrl": "https://angel.co/company/pptx-builder/jobs/710050-"
+      },
+      "postedAt": 1589658710050
+    }
+  ]
+}

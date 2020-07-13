@@ -1,0 +1,197 @@
+{
+  "name": "Monolith AI",
+  "avatar": "https://photos.angel.co/startups/i/1089223-19dde0deda13ae352f50549eabe23ad3-medium_jpg.jpg?buster=1528365820",
+  "slogan": "The world's first AI assistant for engineers",
+  "description": "We're building the world's first AI assistant for engineers. Working with data analytics, AI and physics, our virtual engineering platform is proven to be 1000 times faster at validating complex products than current best-in-class technologies. \nOur goal is to accelerate product development; from race cars to spaceships and everything in between, we're working with the greatest engineering companies to bring the future closer to the present. \n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.monolithai.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Cambridge"
+  ],
+  "marketTags": [
+    "Aerospace",
+    "Innovation Engineering",
+    "Automotive",
+    "Packaging Supplies"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/richard-ahlfeld",
+      "name": "Richard Ahlfeld",
+      "avatar": "https://photos.angel.co/users/2128668-medium_jpg?1546517458",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/monolithai\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Monolith AI</span></a> • Worked at <a href=\"https://angel.co/company/nasa\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">NASA</span></a> <a href=\"https://angel.co/company/airbus\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Airbus</span></a> Defence and Space, <a href=\"https://angel.co/german\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">German</span></a> Institute of Robotics  • Studied at <a href=\"https://angel.co/imperial-college-london-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Imperial College London</span></a>,  <a href=\"https://angel.co/stanford\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Stanford</span></a> "
+    },
+    {
+      "title": "Applied Engineering",
+      "role": "Employee",
+      "url": "https://angel.co/u/memmanuelli",
+      "name": "Marc Emmanuelli",
+      "avatar": "https://photos.angel.co/users/1851167-medium_jpg?1512818240",
+      "bioHtml": "Aerospace Engineering, Computational design, Simulation, Machine Learning, Control systems. Previously at Imperial College and Jaguar Land Rover design studios."
+    },
+    {
+      "title": "CTO",
+      "role": "Employee",
+      "url": "https://angel.co/u/saravanan-sathyanandha",
+      "name": "Saravanan Sathyanandha",
+      "avatar": "https://photos.angel.co/users/1378937-medium_jpg?1559596291",
+      "bioHtml": "CTO at Monolith AI. Maths/CS at Cambridge University, worked at Just Eat, co-founded JobMine."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/marek-leibl",
+      "name": "Marek Leibl",
+      "avatar": "https://photos.angel.co/users/1402300-medium_jpg?1437513803",
+      "bioHtml": "Deep learning researcher / engineer, data scientist, sw developer, CS degree"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "1089223",
+    "angelListUrl": "https://angel.co/company/monolithai"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Software Developer",
+      "description": "About the role:\n\nWe’re searching for a Full Stack Software Developer to build and deploy our commercial product, working closely with our engineers and data scientists. This role sits alongside our existing software team working primarily on backend tasks but also contributing to frontend as and when needed. The role works closely with our engineers to understand user requirements and build functionality. Work could involve improving our backend architecture (e.g. job orchestration, metrics tracking) as well as user facing frontend improvements (e.g. supporting comments within the software). This role would initially be a 75/25 split between backend and frontend, although there is flexibility as we grow. \n\nResponsibilities:\n●\tDesign and build high-performance web application (Flask + React)\n●\tWork with client engineers to design product workflow & processes\n●\tWork with UI designers to implement front-end\n●\tArchitect and implement software libraries\n●\tDevelop software engineering processes (design, build, quality, maintenance)\n\nNote:  Responsibilities will grow and evolve based on your interests, capabilities and client needs.\n\nAbout you:\n\nRequired Skills:\n●\t3+ years Python experience (preferably Flask) \n●\t1+ year React experience\n●\tDemonstrable experience of developing professional software from concept to distribution within a team of developers\n●\tStrong knowledge and experience of developing microservices systems\n●\tPassion for engineering products, technology and AI\n\n\nDesirable Skills:\n*Ideally 2-3 of these, we don’t expect to find someone with all of these skills\n●\tExperience with Celery or other job orchestration systems\n●\tExperience of using various database platforms (SQL or noSQL) \n●\tExperience on client facing projects\n●\t3+ years professional experience developing software applications\n●\tPassionate about working in a startup environment\n●\tExperience handling large scale data processing efficiently\n●\tML python knowledge (Pandas, Numpy)\n●\tBasic knowledge of Linux, AWS and DevOps \n●\tBSc/BEng degree (MSc/MEng preferable)\n\n\nBenefits:\n●\tCompetitive salary + options package\n●\t25 days paid annual leave + 8 days public holiday\n●\t5 days of “on the beach” time (working remotely anywhere in the world)\n●\tGenerous maternity/paternity\n●\tAnnual company holiday (or two)\n●\tRegular socials\n●\tCool offices\n●\tFree lunch 4 days a week\n●\tWork with amazing clients and gain an insight into the future of their products\n\nNote: We’re not busy counting hours, we’re busy achieving goals. Achieve the goals and we won’t count the hours.",
+      "descriptionHtml": "<p>About the role:</p>\n\n<p>We’re searching for a Full Stack Software Developer to build and deploy our commercial product, working closely with our engineers and data scientists. This role sits alongside our existing software team working primarily on backend tasks but also contributing to frontend as and when needed. The role works closely with our engineers to understand user requirements and build functionality. Work could involve improving our backend architecture (e.g. job orchestration, metrics tracking) as well as user facing frontend improvements (e.g. supporting comments within the software). This role would initially be a 75/25 split between backend and frontend, although there is flexibility as we grow. </p>\n\n<p>Responsibilities:<br>\n● Design and build high-performance web application (Flask + React)<br>\n● Work with client engineers to design product workflow &amp; processes<br>\n● Work with UI designers to implement front-end<br>\n● Architect and implement software libraries<br>\n● Develop software engineering processes (design, build, quality, maintenance)</p>\n\n<p>Note:  Responsibilities will grow and evolve based on your interests, capabilities and client needs.</p>\n\n<p>About you:</p>\n\n<p>Required Skills:<br>\n● 3+ years Python experience (preferably Flask) <br>\n● 1+ year React experience<br>\n● Demonstrable experience of developing professional software from concept to distribution within a team of developers<br>\n● Strong knowledge and experience of developing microservices systems<br>\n● Passion for engineering products, technology and AI</p>\n\n<p>Desirable Skills:<br>\n*Ideally 2-3 of these, we don’t expect to find someone with all of these skills<br>\n● Experience with Celery or other job orchestration systems<br>\n● Experience of using various database platforms (SQL or noSQL) <br>\n● Experience on client facing projects<br>\n● 3+ years professional experience developing software applications<br>\n● Passionate about working in a startup environment<br>\n● Experience handling large scale data processing efficiently<br>\n● ML python knowledge (Pandas, Numpy)<br>\n● Basic knowledge of Linux, AWS and DevOps <br>\n● BSc/BEng degree (MSc/MEng preferable)</p>\n\n<p>Benefits:<br>\n● Competitive salary + options package<br>\n● 25 days paid annual leave + 8 days public holiday<br>\n● 5 days of “on the beach” time (working remotely anywhere in the world)<br>\n● Generous maternity/paternity<br>\n● Annual company holiday (or two)<br>\n● Regular socials<br>\n● Cool offices<br>\n● Free lunch 4 days a week<br>\n● Work with amazing clients and gain an insight into the future of their products</p>\n\n<p>Note: We’re not busy counting hours, we’re busy achieving goals. Achieve the goals and we won’t count the hours.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Artificial Intelligence",
+        "Celery",
+        "React.js",
+        "ReactJS"
+      ],
+      "payment": {
+        "salary": "£45k – £65k",
+        "equity": "0.1% – 0.2%"
+      },
+      "recruiter": {
+        "title": "Head of Operations",
+        "role": "Employee",
+        "url": "https://angel.co/u/kaitlyn-crossley",
+        "name": "Kaitlyn Crossley",
+        "avatar": "https://photos.angel.co/users/7929681-medium_jpg?1546517531"
+      },
+      "refs": {
+        "angelListId": "751879",
+        "angelListUrl": "https://angel.co/company/monolithai/jobs/751879-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Backend Software Developer",
+      "description": "About the role:\nWe’re searching for a Backend Software Developer to build and deploy our commercial product, working closely with our engineers and data scientists. This role sits alongside our existing software team working on backend tasks include architecture (e.g. job orchestration, metrics tracking). The role works closely with our engineers to understand user requirements and build functionality. \n\nWe are doing some exciting backend developments, such as building well-structured libraries for the other developers to use and breaking stuff down into microservices.\n\nYou’ll get to work with good design patterns, tech that enables complex processes and learn pip packaging. You’ll be able to spend time learning really good flexible and transferable core python and design skills, including python test driven development. We're doing a lot to ensure good quality code with interesting combinations and good design patterns to solve complex problems.\n\nResponsibilities:\n●\tDesign and build high-performance web application (Flask)\n●\tWork with client engineers to design product workflow & processes\n●\tArchitect and implement software libraries\n●\tDevelop software engineering processes (design, build, quality, maintenance)\nNote:  Responsibilities will grow and evolve based on your interests, capabilities and client needs.\n\nAbout you:\n\nRequired Skills:\n●\t3+ years Python experience (preferably Flask) \n●\tDemonstrable experience of developing professional software from concept to distribution within a team of developers\n●\tStrong knowledge and experience of developing microservices systems\n●\tPassion for engineering products, technology and AI\n\n\nDesirable Skills:\nIdeally 2-3 of these, we don’t expect to find someone with all of these skills\n●\tExperience with Celery or other job orchestration systems\n●\tExperience of using various database platforms (SQL or noSQL) \n●\tExperience on client facing projects\n●\t3+ years professional experience developing software applications\n●\tPassionate about working in a startup environment\n●\tExperience handling large scale data processing efficiently\n●\tML python knowledge (Pandas, Numpy)\n●\tBasic knowledge of Linux, AWS and DevOps \n●\tBSc/BEng degree (MSc/MEng preferable)\n\nBenefits:\n●\tCompetitive salary + options package\n●\t25 days paid annual leave + 8 days public holiday\n●\t5 days of “on the beach” time (working remotely anywhere in the world)\n●\tGenerous maternity/paternity\n●\tAnnual company holiday (or two)\n●\tRegular socials\n●\tCool offices\n●\tFree lunch 4 days a week\n●\tWork with amazing clients and gain an insight into the future of their products\n\nNote: We’re not busy counting hours, we’re busy achieving goals. Achieve the goals and we won’t count the hours.",
+      "descriptionHtml": "<p>About the role:<br>\nWe’re searching for a Backend Software Developer to build and deploy our commercial product, working closely with our engineers and data scientists. This role sits alongside our existing software team working on backend tasks include architecture (e.g. job orchestration, metrics tracking). The role works closely with our engineers to understand user requirements and build functionality. </p>\n\n<p>We are doing some exciting backend developments, such as building well-structured libraries for the other developers to use and breaking stuff down into microservices.</p>\n\n<p>You’ll get to work with good design patterns, tech that enables complex processes and learn pip packaging. You’ll be able to spend time learning really good flexible and transferable core python and design skills, including python test driven development. We&#39;re doing a lot to ensure good quality code with interesting combinations and good design patterns to solve complex problems.</p>\n\n<p>Responsibilities:<br>\n● Design and build high-performance web application (Flask)<br>\n● Work with client engineers to design product workflow &amp; processes<br>\n● Architect and implement software libraries<br>\n● Develop software engineering processes (design, build, quality, maintenance)<br>\nNote:  Responsibilities will grow and evolve based on your interests, capabilities and client needs.</p>\n\n<p>About you:</p>\n\n<p>Required Skills:<br>\n● 3+ years Python experience (preferably Flask) <br>\n● Demonstrable experience of developing professional software from concept to distribution within a team of developers<br>\n● Strong knowledge and experience of developing microservices systems<br>\n● Passion for engineering products, technology and AI</p>\n\n<p>Desirable Skills:<br>\nIdeally 2-3 of these, we don’t expect to find someone with all of these skills<br>\n● Experience with Celery or other job orchestration systems<br>\n● Experience of using various database platforms (SQL or noSQL) <br>\n● Experience on client facing projects<br>\n● 3+ years professional experience developing software applications<br>\n● Passionate about working in a startup environment<br>\n● Experience handling large scale data processing efficiently<br>\n● ML python knowledge (Pandas, Numpy)<br>\n● Basic knowledge of Linux, AWS and DevOps <br>\n● BSc/BEng degree (MSc/MEng preferable)</p>\n\n<p>Benefits:<br>\n● Competitive salary + options package<br>\n● 25 days paid annual leave + 8 days public holiday<br>\n● 5 days of “on the beach” time (working remotely anywhere in the world)<br>\n● Generous maternity/paternity<br>\n● Annual company holiday (or two)<br>\n● Regular socials<br>\n● Cool offices<br>\n● Free lunch 4 days a week<br>\n● Work with amazing clients and gain an insight into the future of their products</p>\n\n<p>Note: We’re not busy counting hours, we’re busy achieving goals. Achieve the goals and we won’t count the hours.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Artificial Intelligence",
+        "Flask",
+        "Python Flask",
+        "Microservices"
+      ],
+      "payment": {
+        "salary": "£45k – £60k",
+        "equity": "0.1% – 0.2%"
+      },
+      "recruiter": {
+        "title": "Head of Operations",
+        "role": "Employee",
+        "url": "https://angel.co/u/kaitlyn-crossley",
+        "name": "Kaitlyn Crossley",
+        "avatar": "https://photos.angel.co/users/7929681-medium_jpg?1546517531"
+      },
+      "refs": {
+        "angelListId": "751900",
+        "angelListUrl": "https://angel.co/company/monolithai/jobs/751900-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Frontend Software Developer",
+      "description": "About the role:\n\nWe’re searching for a Frontend Software Developer to build and deploy our commercial product, working closely with our engineers and data scientists. This role sits alongside our existing software team working with our Senior Frontend Software developer on tasks including technical implementation of designs with reusable code as well as improving usability and robustness. The role works closely with our engineers to understand user requirements and build functionality. \n\nResponsibilities:\n●\tDesign and build high-performance web application (React)\n●\tWork with client engineers to design product workflow &amp; processes\n●\tArchitect and implement reusable components\n●\tDevelop software engineering processes (design, build, quality, maintenance)\nNote:  Responsibilities will grow and evolve based on your interests, capabilities and client needs.\n\n\nAbout you:\n\nRequired Skills:\n●\t2+ years JavaScript experience (preferably React)\n●\tDemonstrable experience of developing professional software from concept to distribution within a team of developers\n●\tStrong knowledge and experience of developing reusable components\n●\tPassion for engineering products, technology and AI\n\n\nDesirable Skills:\nIdeally 2-3 of these, we don’t expect to find someone with all of these skills\n●\t3+ years professional experience developing software applications\n●\tExperience on client facing projects\n●\tExperience with user testing\n●\tBasic design knowledge using mock-up tools\n●\tExperience with Redux \n●\tPassionate about working in a startup environment\n●\tBSc/BEng degree \n\nBenefits:\n●\tCompetitive salary + options package\n●\t25 days paid annual leave + 8 days public holiday\n●\t5 days of “on the beach” time (working remotely anywhere in the world)\n●\tGenerous maternity/paternity\n●\tAnnual company holiday (or two)\n●\tRegular socials\n●\tCool offices\n●\tFree lunch 4 days a week\n●\tWork with amazing clients and gain an insight into the future of their products\n●\tFlexibility to find your own solutions to problems (getting stuff done instead of following processes)\n\nNote: We’re not busy counting hours, we’re busy achieving goals. Achieve the goals and we won’t count the hours.",
+      "descriptionHtml": "<p>About the role:</p>\n\n<p>We’re searching for a Frontend Software Developer to build and deploy our commercial product, working closely with our engineers and data scientists. This role sits alongside our existing software team working with our Senior Frontend Software developer on tasks including technical implementation of designs with reusable code as well as improving usability and robustness. The role works closely with our engineers to understand user requirements and build functionality. </p>\n\n<p>Responsibilities:<br>\n● Design and build high-performance web application (React)<br>\n● Work with client engineers to design product workflow &amp; processes<br>\n● Architect and implement reusable components<br>\n● Develop software engineering processes (design, build, quality, maintenance)<br>\nNote:  Responsibilities will grow and evolve based on your interests, capabilities and client needs.</p>\n\n<p>About you:</p>\n\n<p>Required Skills:<br>\n● 2+ years JavaScript experience (preferably React)<br>\n● Demonstrable experience of developing professional software from concept to distribution within a team of developers<br>\n● Strong knowledge and experience of developing reusable components<br>\n● Passion for engineering products, technology and AI</p>\n\n<p>Desirable Skills:<br>\nIdeally 2-3 of these, we don’t expect to find someone with all of these skills<br>\n● 3+ years professional experience developing software applications<br>\n● Experience on client facing projects<br>\n● Experience with user testing<br>\n● Basic design knowledge using mock-up tools<br>\n● Experience with Redux <br>\n● Passionate about working in a startup environment<br>\n● BSc/BEng degree </p>\n\n<p>Benefits:<br>\n● Competitive salary + options package<br>\n● 25 days paid annual leave + 8 days public holiday<br>\n● 5 days of “on the beach” time (working remotely anywhere in the world)<br>\n● Generous maternity/paternity<br>\n● Annual company holiday (or two)<br>\n● Regular socials<br>\n● Cool offices<br>\n● Free lunch 4 days a week<br>\n● Work with amazing clients and gain an insight into the future of their products<br>\n● Flexibility to find your own solutions to problems (getting stuff done instead of following processes)</p>\n\n<p>Note: We’re not busy counting hours, we’re busy achieving goals. Achieve the goals and we won’t count the hours.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "React.js",
+        "React Native",
+        "ReactJS"
+      ],
+      "payment": {
+        "salary": "£40k – £55k",
+        "equity": "0.1% – 0.2%"
+      },
+      "recruiter": {
+        "title": "Head of Operations",
+        "role": "Employee",
+        "url": "https://angel.co/u/kaitlyn-crossley",
+        "name": "Kaitlyn Crossley",
+        "avatar": "https://photos.angel.co/users/7929681-medium_jpg?1546517531"
+      },
+      "refs": {
+        "angelListId": "755932",
+        "angelListUrl": "https://angel.co/company/monolithai/jobs/755932-"
+      }
+    }
+  ]
+}

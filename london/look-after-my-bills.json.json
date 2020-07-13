@@ -1,0 +1,74 @@
+{
+  "name": "Look After My Bills",
+  "avatar": "https://angel.co/images/shared/nopic_startup.png",
+  "slogan": "We save money, save time, customers never have to manually switch again ",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://lookaftermybills.com/"
+    },
+    {
+      "type": "blog",
+      "url": "https://lookaftermybills.com/blog/"
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Uk"
+  ],
+  "marketTags": [
+    "London, UK"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": [
+      {
+        "type": "Acquired",
+        "closedAt": 1562716800,
+        "valuation": null
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/giuseppe-gib",
+      "name": "Giuseppe Gib",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Recruiter, trainer and Customer Service team leader with experience in the energy business and a background in physics and teaching"
+    },
+    {
+      "title": "Head of Product",
+      "role": "Employee",
+      "url": "https://angel.co/u/dan-sherrard-smith-2",
+      "name": "Dan Sherrard-Smith",
+      "avatar": "https://photos.angel.co/users/5531837-medium_jpg?1512643878",
+      "bioHtml": "Data-focused Head of Product for Look After My Bills. The service automatically moves you to a leading energy deal. So you never overpay on your bills."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5023480",
+    "angelListUrl": "https://angel.co/company/look-after-my-bills"
+  },
+  "jobs": []
+}

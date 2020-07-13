@@ -1,0 +1,107 @@
+{
+  "name": "Serendip",
+  "avatar": "https://photos.angel.co/startups/i/7374242-c7ec3d2b0c59162b6c66d2979c9da503-medium_jpg.jpg?buster=1576683523",
+  "slogan": "Meaningfully discover new friends!",
+  "description": "We believe meeting new people and creating meaningful connections is what gives colour and inspiration to life.\n\nToday we are living in the most connected time in human history, yet an unprecedented number of us feel isolated.\n\nSerendip meaningfully connects you with new people, who share and resonate with your core values.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://serendip.co/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/serendip-app/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Social",
+    "Mobile Application",
+    "Mental Health"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/kunal-shah-68",
+      "name": "Kunal Shah",
+      "avatar": "https://photos.angel.co/users/10391112-medium_jpg?1576698062",
+      "bioHtml": "Co-Founder &amp; CTO  <a href=\"https://angel.co/company/serendip-app\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Serendip</span></a>  | Technical Operations Consultant | Computer Science Graduate"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/ronak-shah-ldn",
+      "name": "Ronak Shah",
+      "avatar": "https://photos.angel.co/users/10390316-medium_jpg?1576683687",
+      "bioHtml": "Co-Founder &amp; CEO <a href=\"https://angel.co/company/serendip-app\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Serendip</span></a> • Mathematician on a mission to end loneliness worldwide • Former Trader <a href=\"https://angel.co/company/citigroup\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Citigroup</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7374242",
+    "angelListUrl": "https://angel.co/company/serendip-app"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineering Intern",
+      "description": "Join our mission to end loneliness worldwide.\r\n\r\nAs a Software Engineering Intern, you would help develop Serendip's iOS and Android mobile app. Familiarity with JavaScript, React Native, Node.js and Firebase is preferable or a willingness to learn. (To start in May 2020).",
+      "descriptionHtml": "<p>Join our mission to end loneliness worldwide.</p>\n\n<p>As a Software Engineering Intern, you would help develop Serendip&#39;s iOS and Android mobile app. Familiarity with JavaScript, React Native, Node.js and Firebase is preferable or a willingness to learn. (To start in May 2020).</p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "London"
+      ],
+      "skills": [
+        "Javascript",
+        "Firebase",
+        "React Native",
+        "NodeJS"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/ronak-shah-ldn",
+        "name": "Ronak Shah",
+        "avatar": "https://photos.angel.co/users/10390316-medium_jpg?1576683687"
+      },
+      "refs": {
+        "angelListId": "824329",
+        "angelListUrl": "https://angel.co/company/serendip-app/jobs/824329-"
+      }
+    }
+  ]
+}

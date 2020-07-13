@@ -1,0 +1,131 @@
+{
+  "name": "90 Seconds",
+  "avatar": "https://photos.angel.co/startups/i/374890-25108a1d0d756207c4fdfb1ce1131b64-medium_jpg.jpg?buster=1589632697",
+  "slogan": "Global video creation platform, enabling brands to create quality videos anywhere",
+  "description": "90 Seconds is the premiere global video creation platform, enabling brands to create quality videos anywhere in the world. 90 Seconds simplifies the complexity of video production and connects brands to creators globally through a simple, streamlined workflow.\n\nSince its launch in 2010, 90 Seconds has partnered with over 3,000 brands and 12,000 creators, including videographers, film producers and more, in over 160 countries and 550 cities.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://90seconds.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://ridethewave.video/ride-the-wave/"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/90secondstv"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/pg/90seconds.tv"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/90-seconds"
+    },
+    {
+      "type": "productHunt",
+      "url": "https://www.producthunt.com/posts/90-seconds"
+    }
+  ],
+  "locations": [
+    "Singapore",
+    "Sydney",
+    "London",
+    "San Francisco",
+    "Hong Kong",
+    "Melbourne"
+  ],
+  "marketTags": [
+    "Video",
+    "Film Production",
+    "Content Creators",
+    "Brand Marketing",
+    "Internet",
+    "Marketplace"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 7500000,
+    "rounds": [
+      {
+        "type": "Series A",
+        "closedAt": 1460419200,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CEO & Founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/tim-norton-1",
+      "name": "Tim Norton",
+      "avatar": "https://photos.angel.co/users/2467203-medium_jpg?1466720699",
+      "bioHtml": "Founder &amp; CEO at 90 Seconds, worlds leading cloud video production platform (Sequoia backed), always hiring, Serial entrepreneur, investor, Child of Nature.  "
+    },
+    {
+      "title": "Talent Partner, Technology",
+      "role": "Employee",
+      "url": "https://angel.co/u/nataliia-malanchuk",
+      "name": "Nataliia Malanchuk",
+      "avatar": "https://photos.angel.co/users/8229676-medium_jpg?1544670733",
+      "bioHtml": "scaling engineering teams globally"
+    },
+    {
+      "title": "Global Talent Partner",
+      "role": "Employee",
+      "url": "https://angel.co/u/linda-lee-31",
+      "name": "Linda Lee",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/rachel-ng-2-1",
+      "name": "Rachel Ng",
+      "avatar": "https://photos.angel.co/users/2010174-medium_jpg?1456821570",
+      "bioHtml": "Worked at <a href=\"https://angel.co/company/90-seconds\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">90 Seconds</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "374890",
+    "angelListUrl": "https://angel.co/company/90-seconds"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Backend Engineer (Ruby on Rails)",
+      "description": "We are looking a Backend Engineer to help us build 90 Seconds products. You can expect to develop new and existing features. \r\n\r\nWhat You'll Love Doing\r\n• Designing and implementing application architectures and code that are scalable, available, maintainable, and performant\r\n• Share expertise with engineering teammates through code reviews, knowledge sharing, tech talks, and other avenues\r\n• Develop new and enhance existing features as well as investigate and resolve defects\r\n• Empower team members - through technical mentoring, contributions to the team’s documentation libraries, and providing automation for manual tasks where appropriate\r\n• Define and adhere to internal coding standards, development processes, and design best practices\r\n• Ensure quality by performing thorough testing and leveraging peer reviews for your work and the work of cross functional teams\r\n\r\nWho You Are\r\n• You have strong experience in a software engineering, and have the ability to deep-dive into code, fully grasp architecture concerns\r\n• You have a deep understanding of technologies and best practices to build products\r\n• You have experience driving technical projects, prioritizing work, identifying dependencies, facilitating technical decision and cross-functional team discussions\r\n• You’re experienced in designing and implementing application architectures and code that are highly scalable, available, maintainable, and performant\r\n• You can work independently while also putting an emphasis on mentorship of those around you\r\n• You are passionate about building and delivering great features for users\r\n\r\nTechnologies we currently use\r\n• Ruby on Rails\r\n• GraphQl\r\n• Postgres\r\n• React.js\r\n• Styled components\r\n• Gitlab CI\r\n• Google Cloud Platform",
+      "descriptionHtml": "<p>We are looking a Backend Engineer to help us build 90 Seconds products. You can expect to develop new and existing features. </p>\n\n<p>What You&#39;ll Love Doing<br>\n• Designing and implementing application architectures and code that are scalable, available, maintainable, and performant<br>\n• Share expertise with engineering teammates through code reviews, knowledge sharing, tech talks, and other avenues<br>\n• Develop new and enhance existing features as well as investigate and resolve defects<br>\n• Empower team members - through technical mentoring, contributions to the team’s documentation libraries, and providing automation for manual tasks where appropriate<br>\n• Define and adhere to internal coding standards, development processes, and design best practices<br>\n• Ensure quality by performing thorough testing and leveraging peer reviews for your work and the work of cross functional teams</p>\n\n<p>Who You Are<br>\n• You have strong experience in a software engineering, and have the ability to deep-dive into code, fully grasp architecture concerns<br>\n• You have a deep understanding of technologies and best practices to build products<br>\n• You have experience driving technical projects, prioritizing work, identifying dependencies, facilitating technical decision and cross-functional team discussions<br>\n• You’re experienced in designing and implementing application architectures and code that are highly scalable, available, maintainable, and performant<br>\n• You can work independently while also putting an emphasis on mentorship of those around you<br>\n• You are passionate about building and delivering great features for users</p>\n\n<p>Technologies we currently use<br>\n• Ruby on Rails<br>\n• GraphQl<br>\n• Postgres<br>\n• React.js<br>\n• Styled components<br>\n• Gitlab CI<br>\n• Google Cloud Platform</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "Singapore"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Ruby on Rails"
+      ],
+      "payment": {
+        "salary": "$70k – $90k"
+      },
+      "recruiter": {
+        "title": "Talent Partner, Technology",
+        "role": "Employee",
+        "url": "https://angel.co/u/nataliia-malanchuk",
+        "name": "Nataliia Malanchuk",
+        "avatar": "https://photos.angel.co/users/8229676-medium_jpg?1544670733"
+      },
+      "refs": {
+        "angelListId": "676793",
+        "angelListUrl": "https://angel.co/company/90-seconds/jobs/676793-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "name": "SWEDISH FALL",
+  "avatar": "https://photos.angel.co/startups/i/7452281-69c4706e1705259dc457fa71d6bcda95-medium_jpg.jpg?buster=1580289883",
+  "slogan": "An activewear brand that applies data science to make better fashion & to eliminate waste",
+  "description": "We’re Swedish Fall, an activewear brand that applies data science to tailor our collections to our rapidly growing +50k community.\n\nWe are the only fashion-tech brand built around community but driven by data. We invite our online community to design collections with us, pushing boundaries within the industry & in the process, we eliminate overproduction by 100%. Born in Germany and based in London, we’re growing up pretty fast.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.swedishfall.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Big Data Analytics",
+    "Ecommerce",
+    "Fashion Tech"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/jonas-detlefsen-1",
+      "name": "Jonas Detlefsen",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7452281",
+    "angelListUrl": "https://angel.co/company/swedish-fall-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full-Stack Developer",
+      "description": "### Overview\n\nWe are excited to grow our team with a Full-Stack Engineer. We’re building this business from the ground up and we need you to join us! We'd prefer someone who can work with us in our London office, but remote is an option.\n\n### The Role\n\nYou will take over responsibility for working on fundamental elements of our IT infrastructure to get the company ready for fast scaling. You will constantly be challenged with a variety of tasks to enhance the customer experience across our website and our community platform. It’s a fast-pace environment and you’ll need to adapt quickly.\n\n**Our Technology Stack**\n\n- Frontend: Shopify (liquid, JS / JQuery, Plain CSS)\n- Backend: Microservices in Node.JS\n- Architecture: Serverless Framework on AWS (Lambda)\n- Version Control: Github\n\n### Our Ideal Candidate\n\n- Extensive frontend experience from projects or previous jobs\n- Comfortable with our technology stack\n- Excited to learn new skills along the way\n- Has project management abilities & motivated to take on significant responsibility\n- Strong work ethics",
+      "descriptionHtml": "<h3>Overview</h3>\n<p>We are excited to grow our team with a Full-Stack Engineer. We’re building this business from the ground up and we need you to join us! We&#39;d prefer someone who can work with us in our London office, but remote is an option.</p>\n<h3>The Role</h3>\n<p>You will take over responsibility for working on fundamental elements of our IT infrastructure to get the company ready for fast scaling. You will constantly be challenged with a variety of tasks to enhance the customer experience across our website and our community platform. It’s a fast-pace environment and you’ll need to adapt quickly.</p>\n\n<p><strong>Our Technology Stack</strong></p>\n\n<ul>\n<li>Frontend: Shopify (liquid, JS / JQuery, Plain CSS)</li>\n<li>Backend: Microservices in Node.JS</li>\n<li>Architecture: Serverless Framework on AWS (Lambda)</li>\n<li>Version Control: Github</li>\n</ul>\n<h3>Our Ideal Candidate</h3>\n<ul>\n<li>Extensive frontend experience from projects or previous jobs</li>\n<li>Comfortable with our technology stack</li>\n<li>Excited to learn new skills along the way</li>\n<li>Has project management abilities &amp; motivated to take on significant responsibility</li>\n<li>Strong work ethics</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe",
+        "Eastern Europe",
+        "Western Europe",
+        "Southern Europe",
+        "Northern Europe"
+      ],
+      "skills": [
+        "Javascript",
+        "CSS",
+        "jQuery",
+        "Node.js"
+      ],
+      "payment": {
+        "salary": "£30k – £40k",
+        "equity": "0.0% – 0.5%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/jonas-detlefsen-1",
+        "name": "Jonas Detlefsen",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "734290",
+        "angelListUrl": "https://angel.co/company/swedish-fall-1/jobs/734290-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Developer",
+      "description": "### Overview\r\nWe are excited to grow our team with a Full-Stack Engineer. We’re building this business from the ground up and we need you to join us! We are open for candidates working remotely.\r\n\r\n### The Role\r\nYou will take over responsibility for working on fundamental elements of our IT infrastructure to get the company ready for fast scaling. You will constantly be challenged with a variety of tasks to enhance the customer experience across our website and our community platform.\r\nIt’s a fast-pace environment and you’ll need to adapt quickly. We are iterating very frequently on our product and we require someone who can turn around code very quickly while still maintaining an attention to detail.\r\n\r\n### Responsibilities\r\nDay to day, you will be mostly focused on writing and modifying the backend microservices in Node.js which are hosted on AWS Lambda. You will also need to be comfortable modifying the font end in Liquid and JS.\r\n\r\n**Our Technology Stack**\r\n- Backend: Microservices in Node.JS\r\n- Frontend: Shopify (liquid, JS / JQuery, Plain CSS)\r\n- Various APIs (Braintree, Shopify, Airtable, Google)\r\n- Architecture: Serverless Framework on AWS (Lambda)\r\n- Version Control: Github\r\n\r\n### Our Ideal Candidate\r\n- Extensive node.js experience from projects or previous jobs\r\n- Comfortable with our technology stack\r\n- Excited to learn new skills along the way\r\n- Has project management abilities &amp; motivated to take on significant responsibility\r\n- Strong work ethics\r\n\r\n### To Apply\r\nPlease share examples for Node.js services you have written\r\nCV / LinkedIn Profile",
+      "descriptionHtml": "<h3>Overview</h3>\n<p>We are excited to grow our team with a Full-Stack Engineer. We’re building this business from the ground up and we need you to join us! We are open for candidates working remotely.</p>\n<h3>The Role</h3>\n<p>You will take over responsibility for working on fundamental elements of our IT infrastructure to get the company ready for fast scaling. You will constantly be challenged with a variety of tasks to enhance the customer experience across our website and our community platform.<br>\nIt’s a fast-pace environment and you’ll need to adapt quickly. We are iterating very frequently on our product and we require someone who can turn around code very quickly while still maintaining an attention to detail.</p>\n<h3>Responsibilities</h3>\n<p>Day to day, you will be mostly focused on writing and modifying the backend microservices in Node.js which are hosted on AWS Lambda. You will also need to be comfortable modifying the font end in Liquid and JS.</p>\n\n<p><strong>Our Technology Stack</strong></p>\n\n<ul>\n<li>Backend: Microservices in Node.JS</li>\n<li>Frontend: Shopify (liquid, JS / JQuery, Plain CSS)</li>\n<li>Various APIs (Braintree, Shopify, Airtable, Google)</li>\n<li>Architecture: Serverless Framework on AWS (Lambda)</li>\n<li>Version Control: Github</li>\n</ul>\n<h3>Our Ideal Candidate</h3>\n<ul>\n<li>Extensive node.js experience from projects or previous jobs</li>\n<li>Comfortable with our technology stack</li>\n<li>Excited to learn new skills along the way</li>\n<li>Has project management abilities &amp; motivated to take on significant responsibility</li>\n<li>Strong work ethics</li>\n</ul>\n<h3>To Apply</h3>\n<p>Please share examples for Node.js services you have written<br>\nCV / LinkedIn Profile</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "HTML",
+        "Node.js",
+        "REST APIs",
+        "NodeJS"
+      ],
+      "payment": {
+        "salary": "£25k – £35k",
+        "equity": "0.0% – 0.25%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/jonas-detlefsen-1",
+        "name": "Jonas Detlefsen",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "775709",
+        "angelListUrl": "https://angel.co/company/swedish-fall-1/jobs/775709-"
+      }
+    }
+  ]
+}

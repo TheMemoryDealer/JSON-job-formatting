@@ -1,0 +1,138 @@
+{
+  "name": "Limio",
+  "avatar": "https://photos.angel.co/startups/i/4173977-7d09f68dcbf32986cf9bf6be57ad4163-medium_jpg.jpg?buster=1542640668",
+  "slogan": "Subscription Commerce Platform",
+  "description": "Limio is an investor-backed, UK-based startup that is changing the way companies manage business-to-consumer (B2C) subscriptions. The subscription economy is growing fast: 58 millions British people now subscribe to services, be it Spotify, Amazon Prime, HelloFresh, ZipCar or the Economist (a paying customer). Our no-code Subscription Commerce Polution enables these companies to quickly launch and scale personalised  acquisition and retention experiences to their subscribers without any development. Our goal is to be the next Shopify for subscriptions.\n\nLimio was founded by Amaury de Closset and Daniel Morton, formerly of GoCardless (YC S11), Zuora, BCG and Three. Together, they have a track record of 15 years in subscriptions. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.limio.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.limio.com/blog"
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/organization/11146636/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "SaaS",
+    "Subscription Businesses",
+    "Customer Experience"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 420690,
+    "rounds": [
+      {
+        "type": "Pre-Seed",
+        "closedAt": 1582070400,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "Chief Architect & Cofounder",
+      "role": "Founder",
+      "url": "https://angel.co/u/daniel-morton-7",
+      "name": "Daniel Morton",
+      "avatar": "https://photos.angel.co/users/6475544-medium_jpg?1495713862",
+      "bioHtml": "Chief Architect &amp; Cofounder of Innovate42.  \n\nConnecting solutions to problems, discovering experimenting and evolving.\n\n"
+    },
+    {
+      "title": "CEO & Cofounder",
+      "role": "Founder",
+      "url": "https://angel.co/u/amaurydeclosset",
+      "name": "Amaury de Closset",
+      "avatar": "https://photos.angel.co/users/584525-medium_jpg?1542640710",
+      "bioHtml": "CEO &amp; Cofounder of Limio. Launched and scaled <a href=\"https://angel.co/company/gocardless\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">GoCardless</span></a> in France. Ex-@Boston Consulting Group NYC, M.S. in Mech Eng at <a href=\"https://angel.co/company/ucberkeley\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">UCBerkeley</span></a>."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/pankaj-gupta-22",
+      "name": "Pankaj Gupta",
+      "avatar": "https://photos.angel.co/users/2265757-medium_jpg?1518962100",
+      "bioHtml": "Certified SFDC developer with almost 4 years of expe; done PG diploma in Advanced Computing from Center for Development of Advanced Computing,Govt of India."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/jack-maunders",
+      "name": "Jack Maunders",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Full Stack Developer",
+      "role": "Employee",
+      "url": "https://angel.co/u/benny-onaitis",
+      "name": "Benny Onaitis",
+      "avatar": "https://photos.angel.co/users/8068621-medium_jpg?1531559523",
+      "bioHtml": "Working as a Junior Front End Developer I have more than a year of experience in AngularJS, JavaScript, Sass, HTML and CSS. Went to University of Birmingham"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4173977",
+    "angelListUrl": "https://angel.co/company/limio"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full-Stack Developer (Full-Time in London)",
+      "description": "| Remote during lockdown, on-site after | Based in UK applicants only | No recruiters |\r\n\r\nLimio is changing the way companies the subscriber experience. The subscription economy is exploding: 58 millions British people subscribe to services, be it Spotify, Amazon Prime, HelloFresh, ZipCar or the Economist. We're building a Subscription Commerce Platform to help brands deliver quickly personalised acquisition and retention online experiences . \r\n\r\nWe’re looking for a full-stack developer to join our developer team, someone who is passionate about new technologies and a quick learner. You will help us shape the future of our product. We have just signed our largest customer to date and you will help us scale our platform to millions of subscribers. \r\n\r\nLimio is an early-stage startup founded by Amaury de Closset and Daniel Morton, formerly of GoCardless (YC S11), Zuora, BCG and Three, and has raised $420,000 from fifteen fantastic entrepreneurs, including the founders of Gumtree, Entrepreneur First and Blaize, and top business angels from Episode 1 and Crane VC.\r\n\r\n**The Role** \r\n\r\nWe are looking for a JavaScript developer who wants to build delightful UIs for our app, robust back-ends and powerful functionalities for our online shops. You want to ship quality code, work with a team of full-stack developers including our cofounder &amp; Chief Architect (20+ years of development experience), and be a trusted voice on implementation, integration and architecture decisions.\r\n\r\nHere are some of the project you might work on:\r\n\r\n- Deliver new features which will power efficient, blazing-fast, robust and secure online shops to our customers\r\n- Improve the application workflows in React so marketers can work efficiently\r\n- Build new React components to expand our library\r\n- Building new integrations, improving existing ones and updating our REST APIs\r\n- Improving the performance, robustness and security of our application and our shop\r\n- Rolling out the best new technologies and libraries for each task\r\n\r\n**The Technology**\r\nOur applications use the following technology:\r\n\r\nFront-end: ES6, React, Redux, Gatsby\r\nBack-end: Node, Express, Lambda, Git, ElasticSearch, DynamoDB\r\nAPIs: REST\r\nDevOps: AWS serverless technologies, Terraform, Docker\r\n\r\n**You should apply if**\r\n\r\n- You have JavaScript experience, ideally React, Redux and Node.\r\n- You are curious about new technologies and keen on learning new ones.\r\n- You  have a positive, can-do outlook, strive to best the best version of yourself, and are keen to always improve and grow as a developer and individual.\r\n- You care about the usability and quality of what you build and like to hear about customer's feedback\r\n- You like working across the stack and ship at a fast pace.\r\n- You want to be involved with a fast-growing startup with technical founders and enjoy working with a team of smart developers.\r\n- You can work remote for now and later at our London Bridge office.\r\n\r\nNot essential, but nice to have:\r\n\r\n- Experience with Git, ElasticSearch\r\n- Experience with AWS DevOps technologies (Lambda, Cognito, DynamoDB, CodeBuild, CodeCommit)\r\n\r\n**Logistics**\r\n\r\nCompensation is £30k to £40k depending on your experience. We strongly believe in shared success and you will receive a competitive stock option grant. \r\n\r\nWe offer flexible working hours, 25-days + bank holidays vacation policy, the latest equipment (Macbook Pro, Magic Mouse and Magic Keyboard), and pension plan.\r\n\r\nOur interview process consists of an initial phone screen with our CEO, a code test depending on your profile, and a couple of hours on-site interview. No brain teasers or white-board programming!\r\n\r\nOur office is at London Bridge, a 5-minute walk from London Bridge station. During the lockdown, you will  be expected to work-from-home but we expect you to work from there afterwards (with flexibility).\r\n\r\nYou would have to be authorised to work in UK. No recruiters, please.",
+      "descriptionHtml": "<p>| Remote during lockdown, on-site after | Based in UK applicants only | No recruiters |</p>\n\n<p>Limio is changing the way companies the subscriber experience. The subscription economy is exploding: 58 millions British people subscribe to services, be it Spotify, Amazon Prime, HelloFresh, ZipCar or the Economist. We&#39;re building a Subscription Commerce Platform to help brands deliver quickly personalised acquisition and retention online experiences . </p>\n\n<p>We’re looking for a full-stack developer to join our developer team, someone who is passionate about new technologies and a quick learner. You will help us shape the future of our product. We have just signed our largest customer to date and you will help us scale our platform to millions of subscribers. </p>\n\n<p>Limio is an early-stage startup founded by Amaury de Closset and Daniel Morton, formerly of GoCardless (YC S11), Zuora, BCG and Three, and has raised $420,000 from fifteen fantastic entrepreneurs, including the founders of Gumtree, Entrepreneur First and Blaize, and top business angels from Episode 1 and Crane VC.</p>\n\n<p><strong>The Role</strong> </p>\n\n<p>We are looking for a JavaScript developer who wants to build delightful UIs for our app, robust back-ends and powerful functionalities for our online shops. You want to ship quality code, work with a team of full-stack developers including our cofounder &amp; Chief Architect (20+ years of development experience), and be a trusted voice on implementation, integration and architecture decisions.</p>\n\n<p>Here are some of the project you might work on:</p>\n\n<ul>\n<li>Deliver new features which will power efficient, blazing-fast, robust and secure online shops to our customers</li>\n<li>Improve the application workflows in React so marketers can work efficiently</li>\n<li>Build new React components to expand our library</li>\n<li>Building new integrations, improving existing ones and updating our REST APIs</li>\n<li>Improving the performance, robustness and security of our application and our shop</li>\n<li>Rolling out the best new technologies and libraries for each task</li>\n</ul>\n\n<p><strong>The Technology</strong><br>\nOur applications use the following technology:</p>\n\n<p>Front-end: ES6, React, Redux, Gatsby<br>\nBack-end: Node, Express, Lambda, Git, ElasticSearch, DynamoDB<br>\nAPIs: REST<br>\nDevOps: AWS serverless technologies, Terraform, Docker</p>\n\n<p><strong>You should apply if</strong></p>\n\n<ul>\n<li>You have JavaScript experience, ideally React, Redux and Node.</li>\n<li>You are curious about new technologies and keen on learning new ones.</li>\n<li>You  have a positive, can-do outlook, strive to best the best version of yourself, and are keen to always improve and grow as a developer and individual.</li>\n<li>You care about the usability and quality of what you build and like to hear about customer&#39;s feedback</li>\n<li>You like working across the stack and ship at a fast pace.</li>\n<li>You want to be involved with a fast-growing startup with technical founders and enjoy working with a team of smart developers.</li>\n<li>You can work remote for now and later at our London Bridge office.</li>\n</ul>\n\n<p>Not essential, but nice to have:</p>\n\n<ul>\n<li>Experience with Git, ElasticSearch</li>\n<li>Experience with AWS DevOps technologies (Lambda, Cognito, DynamoDB, CodeBuild, CodeCommit)</li>\n</ul>\n\n<p><strong>Logistics</strong></p>\n\n<p>Compensation is £30k to £40k depending on your experience. We strongly believe in shared success and you will receive a competitive stock option grant. </p>\n\n<p>We offer flexible working hours, 25-days + bank holidays vacation policy, the latest equipment (Macbook Pro, Magic Mouse and Magic Keyboard), and pension plan.</p>\n\n<p>Our interview process consists of an initial phone screen with our CEO, a code test depending on your profile, and a couple of hours on-site interview. No brain teasers or white-board programming!</p>\n\n<p>Our office is at London Bridge, a 5-minute walk from London Bridge station. During the lockdown, you will  be expected to work-from-home but we expect you to work from there afterwards (with flexibility).</p>\n\n<p>You would have to be authorised to work in UK. No recruiters, please.</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Node.js",
+        "REST",
+        "React.js",
+        "AWS",
+        "Redux",
+        "GatsbyJS",
+        "React Hooks"
+      ],
+      "payment": {
+        "salary": "£30k – £40k",
+        "equity": "0.1% – 0.3%"
+      },
+      "recruiter": {
+        "title": "CEO & Cofounder",
+        "role": "Founder",
+        "url": "https://angel.co/u/amaurydeclosset",
+        "name": "Amaury de Closset",
+        "avatar": "https://photos.angel.co/users/584525-medium_jpg?1542640710"
+      },
+      "refs": {
+        "angelListId": "393638",
+        "angelListUrl": "https://angel.co/company/limio/jobs/393638-"
+      }
+    }
+  ]
+}

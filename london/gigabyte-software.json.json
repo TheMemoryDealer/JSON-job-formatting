@@ -1,0 +1,100 @@
+{
+  "name": "Gigabyte Software",
+  "avatar": "https://photos.angel.co/startups/i/6818130-44e95bc9fd03953cc15c012821583235-medium_jpg.jpg?buster=1551176716",
+  "slogan": "Supplier accreditation & network for property management",
+  "description": "B2B \"Local Heros\" for the property management industry. With risk management built in.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://gigabyte.software"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Property Management",
+    "Web Development"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/tom-weldon-1",
+      "name": "Tom Weldon",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Lead Developer",
+      "role": "Founder",
+      "url": "https://angel.co/u/rgvcorley",
+      "name": "Rob Corley",
+      "avatar": "https://photos.angel.co/users/8994570-medium_jpg?1551177211",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6818130",
+    "angelListUrl": "https://angel.co/company/gigabyte-software"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "We are a small software house based in London working on integrated business process systems.\n\nWe are a relaxed, fun, and inclusive team and strive to deliver the best quality software we can by constantly learning and improving our development process. We love our craft and you should too.\n\nWe are currently looking for a PHP developer to join our team. We rotate developers between our products, so your role would be both working on a large ERP which we build for one of the UK's largest residential managing agents and helping to build our new SaaS product which is in the prop tech space. There will also be the opportunity to get involved with every part of the stack if you desire, for example the infrastructure, business decisions and requirements gathering. This is also a great chance to learn about Domain Driven Design and how DDD works in practice.\n\nWe are based right next to Silicon Roundabout (Old Street roundabout) close to the tech hub, so there is plenty opportunity to go to tech meetups. The area also has excellent transport links, some fantastic lunching spots, and great pubs.\n\nIf you’re interested in working in a small team where you get the chance to have a huge impact on all aspects of the software development process in addition to learning some management and business skills, should you wish, then please get in touch!\n\nView the position on our website (https://workable.com/nr?l=https%3A%2F%2Fgigabyte.software%2Fvacancies%2Fsoftware-developer)\n\nRequirements\n\n* Must have some experience with PHP or...\n* ...must have experience in another object-oriented language.\n* Experience with Symfony (or experience with a similar PHP framework).\n* Strong English skills (written and verbal).\n* Some familiarity with Vagrant & Docker would be good.\n* Experience with automated testing.\n* Any knowledge of Domain Driven Design (DDD) would be a massive plus, but definitely not essential.\n\nBenefits\n\n* Own a share of the company through our EMI Scheme\n* Pension Scheme\n* Cycle to Work Scheme\n* Personal Laptop\n* Conference Tickets\n* Will buy any books for you read and add to our office library",
+      "descriptionHtml": "<p>We are a small software house based in London working on integrated business process systems.</p>\n\n<p>We are a relaxed, fun, and inclusive team and strive to deliver the best quality software we can by constantly learning and improving our development process. We love our craft and you should too.</p>\n\n<p>We are currently looking for a PHP developer to join our team. We rotate developers between our products, so your role would be both working on a large ERP which we build for one of the UK&#39;s largest residential managing agents and helping to build our new SaaS product which is in the prop tech space. There will also be the opportunity to get involved with every part of the stack if you desire, for example the infrastructure, business decisions and requirements gathering. This is also a great chance to learn about Domain Driven Design and how DDD works in practice.</p>\n\n<p>We are based right next to Silicon Roundabout (Old Street roundabout) close to the tech hub, so there is plenty opportunity to go to tech meetups. The area also has excellent transport links, some fantastic lunching spots, and great pubs.</p>\n\n<p>If you’re interested in working in a small team where you get the chance to have a huge impact on all aspects of the software development process in addition to learning some management and business skills, should you wish, then please get in touch!</p>\n\n<p>View the position on our website (<a href=\"https://workable.com/nr?l=https%3A%2F%2Fgigabyte.software%2Fvacancies%2Fsoftware-developer\" target=\"_blank\" rel=\"nofollow\">https://workable.com/nr?l=https%3A%2F%2Fgigabyte.software%2Fvacancies%2Fsoftware-developer</a>)</p>\n\n<p>Requirements</p>\n\n<ul>\n<li>Must have some experience with PHP or...</li>\n<li>...must have experience in another object-oriented language.</li>\n<li>Experience with Symfony (or experience with a similar PHP framework).</li>\n<li>Strong English skills (written and verbal).</li>\n<li>Some familiarity with Vagrant &amp; Docker would be good.</li>\n<li>Experience with automated testing.</li>\n<li>Any knowledge of Domain Driven Design (DDD) would be a massive plus, but definitely not essential.</li>\n</ul>\n\n<p>Benefits</p>\n\n<ul>\n<li>Own a share of the company through our EMI Scheme</li>\n<li>Pension Scheme</li>\n<li>Cycle to Work Scheme</li>\n<li>Personal Laptop</li>\n<li>Conference Tickets</li>\n<li>Will buy any books for you read and add to our office library</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$45k – $73k",
+        "equity": "0.5% – 3.0%"
+      },
+      "recruiter": {
+        "title": "Lead Developer",
+        "role": "Founder",
+        "url": "https://angel.co/u/rgvcorley",
+        "name": "Rob Corley",
+        "avatar": "https://photos.angel.co/users/8994570-medium_jpg?1551177211"
+      },
+      "refs": {
+        "angelListId": "521379",
+        "angelListUrl": "https://angel.co/company/gigabyte-software/jobs/521379-"
+      }
+    }
+  ]
+}

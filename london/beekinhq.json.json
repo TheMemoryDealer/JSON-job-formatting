@@ -1,0 +1,216 @@
+{
+  "name": "Beekin",
+  "avatar": "https://photos.angel.co/startups/i/1146864-faed080aaf529ca4e1be69f4dc42cec6-medium_jpg.jpg?buster=1538419824",
+  "slogan": "Data analytics for Real estate landlords ",
+  "description": "Beekin's product allows owners of apartments and offices to set lease prices, optimise marketing spends, and understand and learn more about their residents. \n\nThis allows more income by reducing vacancy and churn (not higher rents!), and happy residents. Its a win-win for both investors and renters. \n\nThe tool is built on Beekin's AI Engine, which is trained on 200 million datapoints around rent, tenants and space. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.beekin.co"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/efcntmrkts"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/the-beekin-company/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Berlin"
+  ],
+  "marketTags": [
+    "Financial Services",
+    "Real Estate Technology",
+    "B2B · SaaS · Mobile · Artificial Intelligence / Machine Learning",
+    "Big Data",
+    "Big Data Analytics"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Founder & CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/vidur-gupta",
+      "name": "Vidur Gupta",
+      "avatar": "https://photos.angel.co/users/389762-medium_jpg?1463603677",
+      "bioHtml": "UofC MBA, Private equity, Fintech"
+    },
+    {
+      "title": "Data Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/shilpa-angadi",
+      "name": "Shilpa Angadi",
+      "avatar": "https://photos.angel.co/users/637371-medium_jpg?1546798858",
+      "bioHtml": "Data scientist and Freelancer , Aims to levy data science to provide meaningful Business insights.\nTop 3% Solution for AmExpert decipHER – Women  Hackathon\n\n\n•"
+    },
+    {
+      "title": "Growth Marketing Intern",
+      "role": "Employee",
+      "url": "https://angel.co/u/rachel_chan",
+      "name": "Rachel Chan",
+      "avatar": "https://photos.angel.co/users/9842677-medium_jpg?1570043810",
+      "bioHtml": "Growth Marketing Intern at Beekin, looking for permanent marketing roles!"
+    },
+    {
+      "title": "CEO",
+      "role": "Employee",
+      "url": "https://angel.co/u/vidur-gupta-3",
+      "name": "Vidur Gupta ",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at Beekin"
+    }
+  ],
+  "perks": [
+    {
+      "category": "equity",
+      "title": "Equity that matters"
+    },
+    {
+      "category": "generous_vacation",
+      "title": "Unlimited Vacay"
+    },
+    {
+      "category": "volunteer",
+      "title": "Don't be an A$$hole"
+    },
+    {
+      "category": "work_from_home",
+      "title": "Work where you love "
+    }
+  ],
+  "refs": {
+    "angelListId": "1146864",
+    "angelListUrl": "https://angel.co/company/beekinhq"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Backend Engineer",
+      "description": "PERSON SPEC \r\n\r\nYou will be an engineer.\r\nYou can review code to transform noisy real-world data into high-signal models that stand the test of time.\r\n\r\nYou will be a storyteller.\r\nYou will communicate your insights in a way that resonates with your partners — including Beekin’s leadership — to turn theory into action. The story of our business is often a complex one to tell, so you must craft your message to help your audience understand and engage.\r\n\r\nYou will be an entrepreneur.\r\nYou will come to understand the nature of how real estate operates, and proactively identify new areas of investment for the business.\r\n\r\n\r\nRESPONSIBILITIES\r\n\r\nOwn the design and development of our RESTful APIs, ETL pipelines, and data warehouse\r\n\r\nAct as a technical mentor to developers &amp; machine learning engineers\r\n\r\nWork closely with our product and sales on both prototyping and iterative development\r\n\r\n\r\nQUALIFICATIONS\r\n\r\nB.S. in Computer Science, Engineering, Math, or equivalent experience\r\n\r\n2-5 years of work experience in Javascript, Python with a strong understanding of current tools, best practices, and debugging methodologies\r\n\r\nExpertise developing RESTful APIs\r\n\r\nAbility to work smoothly with other engineers, product managers, and designers\r\n\r\nSystematic problem solving approach, coupled with a strong sense of ownership and drive\r\n\r\nFamiliarity with CI/CD build tools and techniques, including one or more of the following: Docker, Kubernetes, Jenkins, CircleCI\r\n\r\nFamiliarity with one or more of the following database and document store technologies: Postgresql, MongoDB, ElasticSearch, Redis, Amazon S3\r\n\r\nFamiliarity with various products in the AWS ecosystem and AWS cloud infrastructure\r\n\r\nFamiliarity with queueing or message-brokering technologies\r\n\r\n\r\nGREAT TO HAVE \r\n\r\nExperience with functional programming \r\nExperience in financial markets and related services",
+      "descriptionHtml": "<p>PERSON SPEC </p>\n\n<p>You will be an engineer.<br>\nYou can review code to transform noisy real-world data into high-signal models that stand the test of time.</p>\n\n<p>You will be a storyteller.<br>\nYou will communicate your insights in a way that resonates with your partners — including Beekin’s leadership — to turn theory into action. The story of our business is often a complex one to tell, so you must craft your message to help your audience understand and engage.</p>\n\n<p>You will be an entrepreneur.<br>\nYou will come to understand the nature of how real estate operates, and proactively identify new areas of investment for the business.</p>\n\n<p>RESPONSIBILITIES</p>\n\n<p>Own the design and development of our RESTful APIs, ETL pipelines, and data warehouse</p>\n\n<p>Act as a technical mentor to developers &amp; machine learning engineers</p>\n\n<p>Work closely with our product and sales on both prototyping and iterative development</p>\n\n<p>QUALIFICATIONS</p>\n\n<p>B.S. in Computer Science, Engineering, Math, or equivalent experience</p>\n\n<p>2-5 years of work experience in Javascript, Python with a strong understanding of current tools, best practices, and debugging methodologies</p>\n\n<p>Expertise developing RESTful APIs</p>\n\n<p>Ability to work smoothly with other engineers, product managers, and designers</p>\n\n<p>Systematic problem solving approach, coupled with a strong sense of ownership and drive</p>\n\n<p>Familiarity with CI/CD build tools and techniques, including one or more of the following: Docker, Kubernetes, Jenkins, CircleCI</p>\n\n<p>Familiarity with one or more of the following database and document store technologies: Postgresql, MongoDB, ElasticSearch, Redis, Amazon S3</p>\n\n<p>Familiarity with various products in the AWS ecosystem and AWS cloud infrastructure</p>\n\n<p>Familiarity with queueing or message-brokering technologies</p>\n\n<p>GREAT TO HAVE </p>\n\n<p>Experience with functional programming <br>\nExperience in financial markets and related services</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "Berlin",
+        "Pune"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Databases",
+        "ETL",
+        "Kafka",
+        "Docker",
+        "Apache Spark",
+        "AWS"
+      ],
+      "payment": {
+        "salary": "₹1L – ₹2.5L",
+        "equity": "0.0% – 0.25%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/vidur-gupta-3",
+        "name": "Vidur Gupta ",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "601514",
+        "angelListUrl": "https://angel.co/company/beekinhq/jobs/601514-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Data Scientist",
+      "description": "Beekin is looking to hire a data scientist to it's team. The team comprises PhDs in statistics and computer scientists from prominent universities and more importantly, focused on making a real world impact with models that are robust, unbiased and scalable. \r\n\r\nIn a short period of time, the Beekin data science team has established itself as a leader in the US real estate market, against sizeable competitors. The data scientist can be a full time or internship role, located in Berlin. \r\n\r\nRequired \r\n- Strong Python skills, particularly ML relevant libraries \r\n- Experience with statistics / mathematics \r\n- Undergraduate degree in Computer Science, Math or Statistics \r\n\r\nGood to have \r\n- Experience with spatial temporal data \r\n- Understanding of AWS / Git",
+      "descriptionHtml": "<p>Beekin is looking to hire a data scientist to it&#39;s team. The team comprises PhDs in statistics and computer scientists from prominent universities and more importantly, focused on making a real world impact with models that are robust, unbiased and scalable. </p>\n\n<p>In a short period of time, the Beekin data science team has established itself as a leader in the US real estate market, against sizeable competitors. The data scientist can be a full time or internship role, located in Berlin. </p>\n\n<p>Required </p>\n\n<ul>\n<li>Strong Python skills, particularly ML relevant libraries </li>\n<li>Experience with statistics / mathematics </li>\n<li>Undergraduate degree in Computer Science, Math or Statistics </li>\n</ul>\n\n<p>Good to have </p>\n\n<ul>\n<li>Experience with spatial temporal data </li>\n<li>Understanding of AWS / Git</li>\n</ul>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "Berlin",
+        "Berlin"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Statistics",
+        "Machine Learning Data Science Python"
+      ],
+      "payment": {
+        "salary": "€30k – €55k"
+      },
+      "recruiter": {
+        "title": "Founder & CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/vidur-gupta",
+        "name": "Vidur Gupta",
+        "avatar": "https://photos.angel.co/users/389762-medium_jpg?1463603677"
+      },
+      "refs": {
+        "angelListId": "639065",
+        "angelListUrl": "https://angel.co/company/beekinhq/jobs/639065-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Sales Development Representative",
+      "description": "The position\n\nBeekin is looking to hire a sales professional, who will be responsible for prospecting . This is a truly entrepreneurial role, as a first external business hire with future P&L responsibility at an early stage. The position can be based in NY or London.  \n\nIn partnership with the CEO, the SDR will be responsible for finding relationships, partnerships and clients. This will involve developing a relationship with investors, lenders, syndicate groups and positioning Beekin as a pre-eminent AI company. \n\nYou will be given direct ownership of a key area for Beekin, and will deliver meaningful change, which will be the primary measure of your success. \n \nPerson Specification\n\nYou will think like an engineer.\n\nYou can appreciate code that transforms noisy real-world data into high-signal models that stand the test of time.\n\nYou will be a storyteller.\nYou will communicate Beekin insights in a way that resonates with your partners — including Beekin’s leadership — to turn theory into action. The story of our business is often a complex one to tell, so you must craft your message to help your audience understand and engage.\n\nYou will be an entrepreneur.\nYou will come to understand the nature of how real estate operates, and proactively identify new areas of investment for the business.\n\n\nRequired skills:\n\nPrior B2B and Enterprise Sales Experience \nFamiliarity with CRM (Pipedrive, Hubspot)\nProspecting experience and ability to cold-call \nDesire to succeed \nConfident and articulate \nGet S*** done\n\nNice to have:\nDesign or UI skills \nExperience in Fintech or a Data Company \n\nBeekin Values\nThe Beekin team is a motley group who all share the following traits. \n\nAmbitious - There's a $217 trillion market to conquer\n\nAlways learning - polymaths will rule the world\n\nCollaborative - we grow when we all grow\n\nWork hard -the earth moved 4.6km in the time you read this, can you move fast\n\nHumility - A prima donna exists in arts, not science",
+      "descriptionHtml": "<p>The position</p>\n\n<p>Beekin is looking to hire a sales professional, who will be responsible for prospecting . This is a truly entrepreneurial role, as a first external business hire with future P&amp;L responsibility at an early stage. The position can be based in NY or London.  </p>\n\n<p>In partnership with the CEO, the SDR will be responsible for finding relationships, partnerships and clients. This will involve developing a relationship with investors, lenders, syndicate groups and positioning Beekin as a pre-eminent AI company. </p>\n\n<p>You will be given direct ownership of a key area for Beekin, and will deliver meaningful change, which will be the primary measure of your success. </p>\n\n<p>Person Specification</p>\n\n<p>You will think like an engineer.</p>\n\n<p>You can appreciate code that transforms noisy real-world data into high-signal models that stand the test of time.</p>\n\n<p>You will be a storyteller.<br>\nYou will communicate Beekin insights in a way that resonates with your partners — including Beekin’s leadership — to turn theory into action. The story of our business is often a complex one to tell, so you must craft your message to help your audience understand and engage.</p>\n\n<p>You will be an entrepreneur.<br>\nYou will come to understand the nature of how real estate operates, and proactively identify new areas of investment for the business.</p>\n\n<p>Required skills:</p>\n\n<p>Prior B2B and Enterprise Sales Experience <br>\nFamiliarity with CRM (Pipedrive, Hubspot)<br>\nProspecting experience and ability to cold-call <br>\nDesire to succeed <br>\nConfident and articulate <br>\nGet S*** done</p>\n\n<p>Nice to have:<br>\nDesign or UI skills <br>\nExperience in Fintech or a Data Company </p>\n\n<p>Beekin Values<br>\nThe Beekin team is a motley group who all share the following traits. </p>\n\n<p>Ambitious - There&#39;s a $217 trillion market to conquer</p>\n\n<p>Always learning - polymaths will rule the world</p>\n\n<p>Collaborative - we grow when we all grow</p>\n\n<p>Work hard -the earth moved 4.6km in the time you read this, can you move fast</p>\n\n<p>Humility - A prima donna exists in arts, not science</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "New York City",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [
+        "United States"
+      ],
+      "skills": [
+        "Sales",
+        "Cold Calling",
+        "Client Relations"
+      ],
+      "payment": {
+        "salary": "$35k – $70k",
+        "equity": "0.25% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/vidur-gupta-3",
+        "name": "Vidur Gupta ",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "606408",
+        "angelListUrl": "https://angel.co/company/beekinhq/jobs/606408-"
+      }
+    }
+  ]
+}

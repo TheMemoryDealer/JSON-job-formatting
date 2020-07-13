@@ -1,0 +1,111 @@
+{
+  "name": "Risk Ledger",
+  "avatar": "https://photos.angel.co/startups/i/5373900-6b43eaaf5506db937c94b5d4c7dc2754-medium_jpg.jpg?buster=1534423469",
+  "slogan": "We enable companies to measure, monitor, and mitigate their supply chain risk",
+  "description": "Risk Ledger helps our clients to answer a simple question – how does a company know that the suppliers it chooses to work with are secure?\n\nA recent survey found that over 60% of data breaches were caused by a third party component. Traditionally, there are no easy ways for companies to measure, monitor, and mitigate the risk suppliers pose to them from a security point of view.\n\nRisk Ledger is the first, fully scalable, third party assurance platform. We allow companies to conduct third party assurance over their entire supply chain for little cost, and with just one part time member of staff managing the entire programme, including remediation.\n\nWhen compared with a traditional assurance programme, we save our clients over 50% in costs, and over 5000 hours of productive staff time each year.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.riskledger.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/risk-ledger/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Cyber Security",
+    "Risk Management"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 15000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1522713600,
+        "valuation": 500000
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/danielsaul",
+      "name": "Daniel Saul",
+      "avatar": "https://photos.angel.co/users/8234994-medium_jpg?1534421509",
+      "bioHtml": "Founder and CTO <a href=\"https://angel.co/company/risk-ledger\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Risk Ledger</span></a> "
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/haydn-brooks",
+      "name": "Haydn Brooks",
+      "avatar": "https://photos.angel.co/users/7136807-medium_jpg?1519654951",
+      "bioHtml": "Founder of <a href=\"https://angel.co/company/risk-ledger\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Risk Ledger</span></a>. Ex-cyber security consultant at KPMG and Deloitte."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5373900",
+    "angelListUrl": "https://angel.co/company/risk-ledger"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Backend Engineer",
+      "description": "Risk Ledger is seeking software engineers to join our core team and take ownership of developing & shaping our platform that sits on the intersection of cybersecurity and risk management. This is an opportunity to work with the latest technologies to solve an increasingly important problem, and to have an outsized impact on a product early in its lifecycle.\n\nWe are looking for an amazing and talented team from a diverse set of backgrounds and skillsets to help us grow and build a truly special company, from scratch. The main focus of the role will be on backend development, but to excel you should be comfortable up and down the stack - it’s all hands on deck at this stage, so you’ll need to be ready and willing to delve into the front-end, ship new functionality, and be involved in the product development, improving and learning as we go.\n\nWhat you’ll be doing:\n\n* Building our system’s backend, primarily in Go. If you’re a fast learner and keen to work with Go in production, we’d love to speak with you;\n* Developing and fleshing out our API. We’ll be ingesting a lot of data from our clients and their supply chain, so having a robust API is key to taking the stress out of our customers’ lives;\n* Getting your code, and that of the team, into production - hopefully continuously and bug-free!\n* Helping to expose the backend functionality in the frontend when necessary. The UI is built in HTML, CSS and JavaScript using Vue.js, so you should be confident enough to understand how everything fits together and be happy to make improvements where appropriate.\n* Working closely with the customer relations side of the company, to ensure that we’re always focused on and building what is right for our clients to make their lives easier, not just ours.\n\nWhat success will look like:\n\n* An awesome looking product, with the functionality our clients need.\n* A growing engineering team that people enjoy working with, who laugh together, know each other’s strengths and get the job done.\n* A rapidly expanding customer-base who are eager to use our product, keeping us on our toes when it comes to infrastructure and scaling.\n\nBenefits:\n\n* The autonomy and flexibility you need to deliver the work as you see fit.\n* The opportunity to get involved with, shape and lead the entire process of product strategy, design and implementation.\n* The equipment you need to get the job done, whether that’s a MacBook, a crazy 4K monitor or unlimited coffee.\n* All the learning resources and books you want to aid in your personal development.\n* Generous EMI stock options.\n* Private health insurance.\n* Regular socials to unwind and have some fun.\n\nAbout Risk Ledger:\nWe’re a London-based startup, providing an assurance platform to help secure the breadth and depth of supply chains. With over 60% of data breaches occurring through the supply chain, our platform completely changes the way that companies identify, measure and mitigate security risks for themselves and their suppliers. The product we’re building will be used to secure companies across the globe.\nRisk Ledger is backed by multiple high profile VCs, including Seedcamp, Village Global and Episode1.\nCurrently a small team, we’re looking to expand rapidly and this is the perfect opportunity to put your stamp on a fun, fast-paced, early-stage startup.\nWe are currently based in the Campus London building, near Old Street and Moorgate.",
+      "descriptionHtml": "<p>Risk Ledger is seeking software engineers to join our core team and take ownership of developing &amp; shaping our platform that sits on the intersection of cybersecurity and risk management. This is an opportunity to work with the latest technologies to solve an increasingly important problem, and to have an outsized impact on a product early in its lifecycle.</p>\n\n<p>We are looking for an amazing and talented team from a diverse set of backgrounds and skillsets to help us grow and build a truly special company, from scratch. The main focus of the role will be on backend development, but to excel you should be comfortable up and down the stack - it’s all hands on deck at this stage, so you’ll need to be ready and willing to delve into the front-end, ship new functionality, and be involved in the product development, improving and learning as we go.</p>\n\n<p>What you’ll be doing:</p>\n\n<ul>\n<li>Building our system’s backend, primarily in Go. If you’re a fast learner and keen to work with Go in production, we’d love to speak with you;</li>\n<li>Developing and fleshing out our API. We’ll be ingesting a lot of data from our clients and their supply chain, so having a robust API is key to taking the stress out of our customers’ lives;</li>\n<li>Getting your code, and that of the team, into production - hopefully continuously and bug-free!</li>\n<li>Helping to expose the backend functionality in the frontend when necessary. The UI is built in HTML, CSS and JavaScript using Vue.js, so you should be confident enough to understand how everything fits together and be happy to make improvements where appropriate.</li>\n<li>Working closely with the customer relations side of the company, to ensure that we’re always focused on and building what is right for our clients to make their lives easier, not just ours.</li>\n</ul>\n\n<p>What success will look like:</p>\n\n<ul>\n<li>An awesome looking product, with the functionality our clients need.</li>\n<li>A growing engineering team that people enjoy working with, who laugh together, know each other’s strengths and get the job done.</li>\n<li>A rapidly expanding customer-base who are eager to use our product, keeping us on our toes when it comes to infrastructure and scaling.</li>\n</ul>\n\n<p>Benefits:</p>\n\n<ul>\n<li>The autonomy and flexibility you need to deliver the work as you see fit.</li>\n<li>The opportunity to get involved with, shape and lead the entire process of product strategy, design and implementation.</li>\n<li>The equipment you need to get the job done, whether that’s a MacBook, a crazy 4K monitor or unlimited coffee.</li>\n<li>All the learning resources and books you want to aid in your personal development.</li>\n<li>Generous EMI stock options.</li>\n<li>Private health insurance.</li>\n<li>Regular socials to unwind and have some fun.</li>\n</ul>\n\n<p>About Risk Ledger:<br>\nWe’re a London-based startup, providing an assurance platform to help secure the breadth and depth of supply chains. With over 60% of data breaches occurring through the supply chain, our platform completely changes the way that companies identify, measure and mitigate security risks for themselves and their suppliers. The product we’re building will be used to secure companies across the globe.<br>\nRisk Ledger is backed by multiple high profile VCs, including Seedcamp, Village Global and Episode1.<br>\nCurrently a small team, we’re looking to expand rapidly and this is the perfect opportunity to put your stamp on a fun, fast-paced, early-stage startup.<br>\nWe are currently based in the Campus London building, near Old Street and Moorgate.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "SQL",
+        "Software Architecture",
+        "Backend Development",
+        "API",
+        "Go"
+      ],
+      "payment": {
+        "salary": "£50k – £80k",
+        "equity": "0.2% – 0.5%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Founder",
+        "url": "https://angel.co/u/danielsaul",
+        "name": "Daniel Saul",
+        "avatar": "https://photos.angel.co/users/8234994-medium_jpg?1534421509"
+      },
+      "refs": {
+        "angelListId": "438282",
+        "angelListUrl": "https://angel.co/company/risk-ledger/jobs/438282-"
+      }
+    }
+  ]
+}

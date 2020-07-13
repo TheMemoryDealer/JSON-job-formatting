@@ -1,0 +1,139 @@
+{
+  "name": "Sonantic",
+  "avatar": "https://photos.angel.co/startups/i/7086548-81daf253c50b4a08d6dfd05b110c73e5-medium_jpg.jpg?buster=1588087098",
+  "slogan": "Sonantic creates the world’s most expressive and realistic speech technologies",
+  "description": "Sonantic is a venture backed machine learning startup that bridges the worlds of creative expression and computational excellence. Our mission is to create the world’s most expressive and realistic artificial voices for the entertainment industry. \n\nFounded by two technologists that specialise in speech, our respective backgrounds span teaching speech and language therapy to working on sound production and dialogue for Hollywood films such as Harry Potter, The Dark Knight, Bohemian Rhapsody and more.\n\nHave a listen for yourself! \nwww.sonantic.io\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.sonantic.io/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/sonanticlabs/"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/sonantic/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Enterprise Software",
+    "Entertainment Industry"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 2600000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1583193600,
+        "valuation": 10000000
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "Co-Founder and CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/john-flynn-27",
+      "name": "John Flynn",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Co-Founder and CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/zeena-qureshi",
+      "name": "Zeena Qureshi",
+      "avatar": "https://photos.angel.co/users/9754236-medium_jpg?1564160861",
+      "bioHtml": ""
+    },
+    {
+      "title": "Speech Researcher",
+      "role": "Employee",
+      "url": "https://angel.co/u/francesca-della-moretta",
+      "name": "francesca della moretta",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Machine Learning Researcher",
+      "role": "Employee",
+      "url": "https://angel.co/u/felix-vaughn",
+      "name": "Felix Vaughn",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Head of Operations",
+      "role": "Employee",
+      "url": "https://angel.co/u/regina-bennis-hartman",
+      "name": "Regina Bennis-Hartman",
+      "avatar": "https://photos.angel.co/users/564734-medium_jpg?1463904976",
+      "bioHtml": "Program manager specializing in external relations, strategic partnerships and business operations within healthcare and sports entertainment industries."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7086548",
+    "angelListUrl": "https://angel.co/company/sonantic"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Front-End Engineer",
+      "description": "As a Senior Front End Engineer on our team you will design, build, and deploy software at enterprise scale for gaming and entertainment studios. You will collaborate closely with our CTO and contribute to advancing the best computerized speech in the world. A background in speech and language technology is not required for this role.\r\n\r\nWhat you’ll be doing: \r\n\r\n&gt; Contributing to designing, building, evaluating, shipping, and refining Speak Ai’s product through hands-on software engineering \r\n\r\n&gt; Collaborating with a cross functional agile team spanning user research, design, data science, product management, and engineering to build new product features that advance our mission\r\n\r\n&gt; Developing, testing and maintaining front-end user interfaces for our customers and additional stakeholders.\r\n\r\n&gt;Prototyping new approaches and product improvements for our enterprise customers. \r\n\r\n&gt;  Helping drive optimization, testing, and tooling to improve model performance, latency and throughput\r\n\r\n&gt; Collaborating with back-end/research team to ensure seamless product/API integration\r\n\r\n\r\nWhat we’re looking for:\r\n\r\n&gt;Significant experience developing and maintaining complex user interfaces\r\n&gt;Fluent Javascript skills &amp; best practices\r\n&gt; Very strong Vue.js skills (strong react candidates considered, but app is built in Vue)\r\n&gt;Experience working with AWS, Docker, CI/CD, Git\r\n&gt;Experience taking over development of existing app\r\n&gt;Excellent communication and interpersonal skills\r\n\r\n\r\nGreat if you have these too!:\r\n\r\n&gt;Database experience e.g. MongoDB\r\n&gt;UX and/or design experience\r\n&gt;Understanding of creative software e.g. Photoshop, ProTools, Final Cut Pro\r\n\r\n\r\nAdditional Benefits:\r\n\r\n&gt; Working alongside a talented team with a friendly atmosphere\r\n&gt; Equity options and performance based bonuses\r\n&gt; Customisable benefits package\r\n&gt; Flexible holiday allowance\r\n\r\nThis is an integral role at Sonantic. We are looking for the selected candidate to start by mid June 2020.\r\n\r\nIf you’re not sure about whether you qualify for the role, or if you feel like you'd still be a great candidate even if you only have some of the skills, let us know. We’d love to hear from you. \r\n\r\nSonantic is committed to creating an inclusive environment in which a variety of backgrounds thrive. We do not tolerate discrimination of any nature including but not limited to discriminating on the basis of race, colour, religion, culture, nationality, gender, gender identity or expression, pregnancy, sexual orientation, age, disability, or marital status.   \r\n\r\n**Please note that this role is based in London, England.  In order to enable us to meet statutory and regulatory obligations of the United Kingdom immigration system you must have the appropriate immigration permission needed to work and reside in the UK.**",
+      "descriptionHtml": "<p>As a Senior Front End Engineer on our team you will design, build, and deploy software at enterprise scale for gaming and entertainment studios. You will collaborate closely with our CTO and contribute to advancing the best computerized speech in the world. A background in speech and language technology is not required for this role.</p>\n\n<p>What you’ll be doing: </p>\n\n<p>&gt; Contributing to designing, building, evaluating, shipping, and refining Speak Ai’s product through hands-on software engineering </p>\n\n<p>&gt; Collaborating with a cross functional agile team spanning user research, design, data science, product management, and engineering to build new product features that advance our mission</p>\n\n<p>&gt; Developing, testing and maintaining front-end user interfaces for our customers and additional stakeholders.</p>\n\n<p>&gt;Prototyping new approaches and product improvements for our enterprise customers. </p>\n\n<p>&gt;  Helping drive optimization, testing, and tooling to improve model performance, latency and throughput</p>\n\n<p>&gt; Collaborating with back-end/research team to ensure seamless product/API integration</p>\n\n<p>What we’re looking for:</p>\n\n<p>&gt;Significant experience developing and maintaining complex user interfaces<br>\n&gt;Fluent Javascript skills &amp; best practices<br>\n&gt; Very strong Vue.js skills (strong react candidates considered, but app is built in Vue)<br>\n&gt;Experience working with AWS, Docker, CI/CD, Git<br>\n&gt;Experience taking over development of existing app<br>\n&gt;Excellent communication and interpersonal skills</p>\n\n<p>Great if you have these too!:</p>\n\n<p>&gt;Database experience e.g. MongoDB<br>\n&gt;UX and/or design experience<br>\n&gt;Understanding of creative software e.g. Photoshop, ProTools, Final Cut Pro</p>\n\n<p>Additional Benefits:</p>\n\n<p>&gt; Working alongside a talented team with a friendly atmosphere<br>\n&gt; Equity options and performance based bonuses<br>\n&gt; Customisable benefits package<br>\n&gt; Flexible holiday allowance</p>\n\n<p>This is an integral role at Sonantic. We are looking for the selected candidate to start by mid June 2020.</p>\n\n<p>If you’re not sure about whether you qualify for the role, or if you feel like you&#39;d still be a great candidate even if you only have some of the skills, let us know. We’d love to hear from you. </p>\n\n<p>Sonantic is committed to creating an inclusive environment in which a variety of backgrounds thrive. We do not tolerate discrimination of any nature including but not limited to discriminating on the basis of race, colour, religion, culture, nationality, gender, gender identity or expression, pregnancy, sexual orientation, age, disability, or marital status.   </p>\n\n<p><strong>Please note that this role is based in London, England.  In order to enable us to meet statutory and regulatory obligations of the United Kingdom immigration system you must have the appropriate immigration permission needed to work and reside in the UK.</strong></p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Javascript",
+        "Enterprise Software",
+        "Communication Skills",
+        "Docker",
+        "AWS",
+        "Graphical User Interface"
+      ],
+      "payment": {
+        "salary": "£60k – £70k",
+        "equity": "0.5% – 0.75%"
+      },
+      "recruiter": {
+        "title": "Co-Founder and CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/zeena-qureshi",
+        "name": "Zeena Qureshi",
+        "avatar": "https://photos.angel.co/users/9754236-medium_jpg?1564160861"
+      },
+      "refs": {
+        "angelListId": "596965",
+        "angelListUrl": "https://angel.co/company/sonantic/jobs/596965-"
+      }
+    }
+  ]
+}

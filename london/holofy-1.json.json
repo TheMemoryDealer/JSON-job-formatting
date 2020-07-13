@@ -1,0 +1,141 @@
+{
+  "name": "Holofy",
+  "avatar": "https://photos.angel.co/startups/i/6557171-42d24e7d1089b8a495c992f4c116bef0-medium_jpg.jpg?buster=1541761083",
+  "slogan": "Next generation platform for smart spaces designed with sharing in mind",
+  "description": "We think shared spaces platforms like Airbnb,  have not evolved much for a while. That's why we built a better one from scratch aiming for a market network that gives all the tools hosts need, while taking the traveler from A back to A in the most seamless way. Pretty much like ordering an Uber the experience is worry-free and you are kept in the loop every single step of the way.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://holofy.io"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Augmented Reality",
+    "Marketplaces",
+    "Hospitality"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/eduard-cristea",
+      "name": "Eduard Mihai Cristea",
+      "avatar": "https://photos.angel.co/users/2422233-medium_jpg?1549630062",
+      "bioHtml": "Holofy"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/soham-trivedi-4",
+      "name": "Soham Trivedi",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6557171",
+    "angelListUrl": "https://angel.co/company/holofy-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Backend Engineer, NodeJS, TS, Express",
+      "description": "Who we are\n\nAt Holofy we are building the future of living. Join one of the most exciting and well funded proptech startups in London. We are looking for developers with a passion for well designed, beautiful products who aren't afraid of a challenge.\n\nOur short term goal is to consolidate some of our backend and optimise our internal API. To make it more developer friendly and scalable, we need our JS projects to be transitioned into Typescript while also trying to improve our CI/CD pipeline.\n\nWhat we need\n\nWe are building an incredible product and to do that we need incredible people. You will need to a strong background in\n\nExtensive Backend or Full-Stack Development experience\nExcellent verbal and written communication\nExperience working in Agile/ Kanban teams\nBe able to write solid and delicate code within the following:\nNodeJS with Javascript and Typescript including the translation between the two\nNoSQL systems such as MongoDB or DocumentDB\nWorking knowledge of AWS\nPast experience building and troubleshooting large scale cloud-based management systems\nExpert knowledge of Express \nExperience with API testing frameworks\nStrong experience with the creation of RESTful services and API's\nWe are a forward thinking team who are always looking to improve ourselves and our product. It would be great for you to have some knowledge or experience in the following technologies. If not, there will be plenty of opportunity to learn these new things and more whilst at Holofy. \n\nKnowledge of kafka, elasticsearch, or RabbitMQ\nExperience with GraphQL\nAn understanding of cloud-native systems such as docker \nDevOps Knowledge\nIf you fit this description we will provide\n\nA very competitive starting salary\nEquity options\n30 days of holiday + your birthday \nPersonal development allowance for courses, conferences or anything else to help you progress\nThe latest equipment that you will need for your role\nFlexible working hours and work from home days\nPension contributions\nAn incredible shoreditch office \nA Fully equipped kitchen and a stocked fridge\n20-50% off bookings at any of our properties across the world for you and your friends/family\nThe application process\n\nWe realise that the interview process can be long and drawn out. At holofy we aim to move as quickly as possible. After reviewing your CV we will arrange a phone interview. After this stage, we will ask you to complete a small online development test. Finally, you will meet the development team as well as the founders.\n\nPlease do not contact us offering recruiting services.",
+      "descriptionHtml": "<p>Who we are</p>\n\n<p>At Holofy we are building the future of living. Join one of the most exciting and well funded proptech startups in London. We are looking for developers with a passion for well designed, beautiful products who aren&#39;t afraid of a challenge.</p>\n\n<p>Our short term goal is to consolidate some of our backend and optimise our internal API. To make it more developer friendly and scalable, we need our JS projects to be transitioned into Typescript while also trying to improve our CI/CD pipeline.</p>\n\n<p>What we need</p>\n\n<p>We are building an incredible product and to do that we need incredible people. You will need to a strong background in</p>\n\n<p>Extensive Backend or Full-Stack Development experience<br>\nExcellent verbal and written communication<br>\nExperience working in Agile/ Kanban teams<br>\nBe able to write solid and delicate code within the following:<br>\nNodeJS with Javascript and Typescript including the translation between the two<br>\nNoSQL systems such as MongoDB or DocumentDB<br>\nWorking knowledge of AWS<br>\nPast experience building and troubleshooting large scale cloud-based management systems<br>\nExpert knowledge of Express <br>\nExperience with API testing frameworks<br>\nStrong experience with the creation of RESTful services and API&#39;s<br>\nWe are a forward thinking team who are always looking to improve ourselves and our product. It would be great for you to have some knowledge or experience in the following technologies. If not, there will be plenty of opportunity to learn these new things and more whilst at Holofy. </p>\n\n<p>Knowledge of kafka, elasticsearch, or RabbitMQ<br>\nExperience with GraphQL<br>\nAn understanding of cloud-native systems such as docker <br>\nDevOps Knowledge<br>\nIf you fit this description we will provide</p>\n\n<p>A very competitive starting salary<br>\nEquity options<br>\n30 days of holiday + your birthday <br>\nPersonal development allowance for courses, conferences or anything else to help you progress<br>\nThe latest equipment that you will need for your role<br>\nFlexible working hours and work from home days<br>\nPension contributions<br>\nAn incredible shoreditch office <br>\nA Fully equipped kitchen and a stocked fridge<br>\n20-50% off bookings at any of our properties across the world for you and your friends/family<br>\nThe application process</p>\n\n<p>We realise that the interview process can be long and drawn out. At holofy we aim to move as quickly as possible. After reviewing your CV we will arrange a phone interview. After this stage, we will ask you to complete a small online development test. Finally, you will meet the development team as well as the founders.</p>\n\n<p>Please do not contact us offering recruiting services.</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Node.js",
+        "Express.js",
+        "TypeScript"
+      ],
+      "payment": {
+        "salary": "£40k – £60k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/soham-trivedi-4",
+        "name": "Soham Trivedi",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "663658",
+        "angelListUrl": "https://angel.co/company/holofy-1/jobs/663658-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "iOS Developer",
+      "description": "Who are we\n\nAt Holofy we are building the future of living. Join one of the most exciting and well funded proptech startups in London. We are looking for developers with a passion for well designed, beautiful products who aren't afraid of a challenge.\n\nOur short term goal is to consolidate some of our backend and optimise our internal API. To make it more developer friendly and scalable, we need our JS projects to be transitioned into Typescript while also trying to improve our CI/CD pipeline.\n\nWhat we need\n\nWe are building an incredible product and to do that we need incredible people. You will need to be strong in the following criteria:\n \nExtensive experience developing iOS apps\nExcellent verbal and written communication\nExperience working in Agile/ Kanban teams\nWriting elegant Swift code for:\nBuilding and maintaining parts of a networking layer\nImplementing memory caching for offline use\nBuilding reusable and adaptable UI components\nBasic knowledge of the HTTP protocol and rest APIs\nWorking knowledge of GIT version control\nDocumenting app design decisions\nLearning new technologies quickly\nProviding constructive advice pertaining to existing architecture\n\nWe are a forward thinking team who are always looking to improve ourselves and our product. It would be great for you to have some knowledge or experience in the following technologies. If not, there will be plenty of opportunity to learn these new things and more whilst at Holofy. \n \nKnowledge of Realm Platform for efficient syncing and object handling\nCuriosity of functional programming paradigms\nReactiveX for Swift\nKnowledge of ARKit and Augmented Reality\nKnowledge of any cross platform app development frameworks e.g. Flutter\n \nIf you fit this description we will provide\n\nA very competitive starting salary\nEquity options\n30 days of holiday + your birthday \nPersonal development allowance for courses, conferences or anything else to help you progress\nThe latest equipment that you will need for your role\nFlexible working hours and work from home days\nPension contributions\nAn incredible shoreditch office \nA Fully equipped kitchen and a stocked fridge\n20-50% off bookings at any of our properties across the world for you and your friends/family\n\nThe application process\n\nWe realise that the interview process can be long and drawn out. At holofy we aim to move as quickly as possible. After reviewing your CV we will arrange a phone interview. After this stage, we will ask you to complete a small online development test. Finally, you will meet the development team as well as the founders.",
+      "descriptionHtml": "<p>Who are we</p>\n\n<p>At Holofy we are building the future of living. Join one of the most exciting and well funded proptech startups in London. We are looking for developers with a passion for well designed, beautiful products who aren&#39;t afraid of a challenge.</p>\n\n<p>Our short term goal is to consolidate some of our backend and optimise our internal API. To make it more developer friendly and scalable, we need our JS projects to be transitioned into Typescript while also trying to improve our CI/CD pipeline.</p>\n\n<p>What we need</p>\n\n<p>We are building an incredible product and to do that we need incredible people. You will need to be strong in the following criteria:</p>\n\n<p>Extensive experience developing iOS apps<br>\nExcellent verbal and written communication<br>\nExperience working in Agile/ Kanban teams<br>\nWriting elegant Swift code for:<br>\nBuilding and maintaining parts of a networking layer<br>\nImplementing memory caching for offline use<br>\nBuilding reusable and adaptable UI components<br>\nBasic knowledge of the HTTP protocol and rest APIs<br>\nWorking knowledge of GIT version control<br>\nDocumenting app design decisions<br>\nLearning new technologies quickly<br>\nProviding constructive advice pertaining to existing architecture</p>\n\n<p>We are a forward thinking team who are always looking to improve ourselves and our product. It would be great for you to have some knowledge or experience in the following technologies. If not, there will be plenty of opportunity to learn these new things and more whilst at Holofy. </p>\n\n<p>Knowledge of Realm Platform for efficient syncing and object handling<br>\nCuriosity of functional programming paradigms<br>\nReactiveX for Swift<br>\nKnowledge of ARKit and Augmented Reality<br>\nKnowledge of any cross platform app development frameworks e.g. Flutter</p>\n\n<p>If you fit this description we will provide</p>\n\n<p>A very competitive starting salary<br>\nEquity options<br>\n30 days of holiday + your birthday <br>\nPersonal development allowance for courses, conferences or anything else to help you progress<br>\nThe latest equipment that you will need for your role<br>\nFlexible working hours and work from home days<br>\nPension contributions<br>\nAn incredible shoreditch office <br>\nA Fully equipped kitchen and a stocked fridge<br>\n20-50% off bookings at any of our properties across the world for you and your friends/family</p>\n\n<p>The application process</p>\n\n<p>We realise that the interview process can be long and drawn out. At holofy we aim to move as quickly as possible. After reviewing your CV we will arrange a phone interview. After this stage, we will ask you to complete a small online development test. Finally, you will meet the development team as well as the founders.</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "iOS Development",
+        "Git",
+        "UI/UX Design",
+        "Swift",
+        "Realm Mobile Database"
+      ],
+      "payment": {
+        "salary": "£32k – £40k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/soham-trivedi-4",
+        "name": "Soham Trivedi",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "665758",
+        "angelListUrl": "https://angel.co/company/holofy-1/jobs/665758-"
+      }
+    }
+  ]
+}

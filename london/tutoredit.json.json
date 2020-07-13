@@ -1,0 +1,96 @@
+{
+  "name": "Tutoredit",
+  "avatar": "https://photos.angel.co/startups/i/6741369-cbae8218b7fed3c73328f73310ba2266-medium_jpg.jpg?buster=1560728586",
+  "slogan": "An essay planning and marking software and platform",
+  "description": "Tutoredit have created an essay planning software and platform. Students learn how to write their essays with the help of our software and can get their essays marked. Their progress is monitored over time to identify areas of strength and weakness. Further features include a tutoring function and subject specific writing courses.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://Tutoredit.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Education Technology"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/hussain-ayed",
+      "name": "Hussain Ayed",
+      "avatar": "https://photos.angel.co/users/8827733-medium_jpg?1560725778",
+      "bioHtml": "Founded TutorEdit, working on Edtech for 2+ years in particular the problem of high prices of private tutoring globally. "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6741369",
+    "angelListUrl": "https://angel.co/company/tutoredit"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Lead Developer [Full Stack]",
+      "description": "We are looking for a Full Stack developer to take on the tech lead position at TutorEdit. We are developing and essay planning and marking tool and will move on to other solutions in Edtech. \n\nYou will be joining the founder and other freelance workers in our Homerton office in East London.\n\nThe ideal candidate would be somebody with good full stack experience and can display an eagerness to help the company grow. They MUST be hungry and willing to put in a lot of hard work and dedication to all aspects of the development.\n\nThe idea candidate must show competence in leveraging tech to help streamline all our processes. A good eye for design is a plus.\n\nKnowledge of the following skills is required:\n\nFull Stack Software developer\n* C#\n* ASP .NET CORE\n* TypeScript\n* JavaScript\n* REACT SSR+CSR\n* Redux\n* HTML, CSS, SASS\n* Mobile responsive design\n* WebAPI\n* SQL\n* Entity framework\n* Webpack\n* Azure experience\n* Linux experience\n* Experience integrating payment gateways and accounting software",
+      "descriptionHtml": "<p>We are looking for a Full Stack developer to take on the tech lead position at TutorEdit. We are developing and essay planning and marking tool and will move on to other solutions in Edtech. </p>\n\n<p>You will be joining the founder and other freelance workers in our Homerton office in East London.</p>\n\n<p>The ideal candidate would be somebody with good full stack experience and can display an eagerness to help the company grow. They MUST be hungry and willing to put in a lot of hard work and dedication to all aspects of the development.</p>\n\n<p>The idea candidate must show competence in leveraging tech to help streamline all our processes. A good eye for design is a plus.</p>\n\n<p>Knowledge of the following skills is required:</p>\n\n<p>Full Stack Software developer</p>\n\n<ul>\n<li>C#</li>\n<li>ASP .NET CORE</li>\n<li>TypeScript</li>\n<li>JavaScript</li>\n<li>REACT SSR+CSR</li>\n<li>Redux</li>\n<li>HTML, CSS, SASS</li>\n<li>Mobile responsive design</li>\n<li>WebAPI</li>\n<li>SQL</li>\n<li>Entity framework</li>\n<li>Webpack</li>\n<li>Azure experience</li>\n<li>Linux experience</li>\n<li>Experience integrating payment gateways and accounting software</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Back-End Development",
+        "Full Stack Development",
+        "Frontend Development",
+        "Edtech",
+        "Payment Processing"
+      ],
+      "payment": {
+        "salary": "£23k – £28k",
+        "equity": "0.0% – 3.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/hussain-ayed",
+        "name": "Hussain Ayed",
+        "avatar": "https://photos.angel.co/users/8827733-medium_jpg?1560725778"
+      },
+      "refs": {
+        "angelListId": "574039",
+        "angelListUrl": "https://angel.co/company/tutoredit/jobs/574039-"
+      }
+    }
+  ]
+}

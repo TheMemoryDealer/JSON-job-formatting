@@ -1,0 +1,91 @@
+{
+  "name": "High Rose House",
+  "avatar": "https://photos.angel.co/startups/i/7112710-baa0fb06e5adcacb30f8af8c484d4db9-medium_jpg.jpg?buster=1565191777",
+  "slogan": "a network of the planet's finest minds collaborating to advance civilisation",
+  "description": "The current way of building knowledge was fine 350 years ago when there were only a handful of researchers. Now there are about 5 million worldwide. Competition among them is so intense that each carves out a niche where they can shine. Communication across niches, let alone across disciplines, is poor so our knowledge is fragmented, and progress is hindered. \nHigh Rose House will integrate a new AI Technology with a new Research Technology to provide an online Symposium service for the research industry. \nThe current way of building knowledge was fine 350 years ago when there were only a handful of researchers. Now there are about 5 million worldwide. Competition among them is so intense that each carves out a niche where they can shine. Communication across niches, let alone across disciplines, is poor so our knowledge is fragmented, and progress is hindered. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://highrosehouse.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/in/highrosehouse/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Oxfordshire"
+  ],
+  "marketTags": [
+    "Academic "
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/oryan-wilson",
+      "name": "Oryan Wilson",
+      "avatar": "https://photos.angel.co/users/2014209-medium_jpg?1491378344",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7112710",
+    "angelListUrl": "https://angel.co/company/high-rose-house"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Systems Architect",
+      "description": "Responsibilities\nThe System Architect will take the logical specification of the Symposium Service including back-office and management sub-systems, provided by the Business Analyst, as the basis of the overall design and maintenance of the system for the company. \nThey will configure, operate and perform maintenance on networking and computer systems — including hardware, software, web portals, internet and intranet connections, firewalls, servers, and security — that allow company infrastructure to function while considering the size, resources, data needs, and desired user experience.\nTo bring together the pieces of the implemented system while ensuring that required current and future performance and scalability are achievable.  This will involve\nStrategic Planning: \n•\tdesign and plan the achievement of short and long-term strategic goals\n•\tmanage and maintain system and software\n•\tensure that all planned system architectures are aligned with our goals\n•\tprovide expertise and architectural assistance to other IT personnel including the Project Manager, the Design Team, and the Development Team under the guidance of the Chief Technology Officer\n•\tconduct research on new technologies in the field of system development \n•\tcreate and maintain plans for investing in such systems that will be both effective and flexible.\nAcquisition & Deployment:\n•\tdesign, create and monitor the implementation of end-to-end integrated systems\n•\treview new and existing sub-system designs and make recommendations for improving or altering the systems\n•\tnegotiate and administer vendor and consultant contracts.\nOperational Management:\n•\tafter consultation with the Executive Board and end-users, suggest further infrastructure development\n•\tdevelop and execute test plans to check technical performance of infrastructure and report findings\n•\tbased on findings, they make recommendations for improvement\n•\tdevelop policies for standardizing systems\n•\thelp manage aspects of IT staffing.\nIntegrity of Systems\n•\tensure a balanced and focused development of the system and its maintenance even if requirements change e.g. if a reduction in cost is required, the system’s performance or reliability must not be sacrificed.",
+      "descriptionHtml": "<p>Responsibilities<br>\nThe System Architect will take the logical specification of the Symposium Service including back-office and management sub-systems, provided by the Business Analyst, as the basis of the overall design and maintenance of the system for the company. <br>\nThey will configure, operate and perform maintenance on networking and computer systems — including hardware, software, web portals, internet and intranet connections, firewalls, servers, and security — that allow company infrastructure to function while considering the size, resources, data needs, and desired user experience.<br>\nTo bring together the pieces of the implemented system while ensuring that required current and future performance and scalability are achievable.  This will involve<br>\nStrategic Planning: <br>\n• design and plan the achievement of short and long-term strategic goals<br>\n• manage and maintain system and software<br>\n• ensure that all planned system architectures are aligned with our goals<br>\n• provide expertise and architectural assistance to other IT personnel including the Project Manager, the Design Team, and the Development Team under the guidance of the Chief Technology Officer<br>\n• conduct research on new technologies in the field of system development <br>\n• create and maintain plans for investing in such systems that will be both effective and flexible.<br>\nAcquisition &amp; Deployment:<br>\n• design, create and monitor the implementation of end-to-end integrated systems<br>\n• review new and existing sub-system designs and make recommendations for improving or altering the systems<br>\n• negotiate and administer vendor and consultant contracts.<br>\nOperational Management:<br>\n• after consultation with the Executive Board and end-users, suggest further infrastructure development<br>\n• develop and execute test plans to check technical performance of infrastructure and report findings<br>\n• based on findings, they make recommendations for improvement<br>\n• develop policies for standardizing systems<br>\n• help manage aspects of IT staffing.<br>\nIntegrity of Systems<br>\n• ensure a balanced and focused development of the system and its maintenance even if requirements change e.g. if a reduction in cost is required, the system’s performance or reliability must not be sacrificed.</p>\n",
+      "position": "contract",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£85k – £90k",
+        "equity": "0.2% – 0.25%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/oryan-wilson",
+        "name": "Oryan Wilson",
+        "avatar": "https://photos.angel.co/users/2014209-medium_jpg?1491378344"
+      },
+      "refs": {
+        "angelListId": "603695",
+        "angelListUrl": "https://angel.co/company/high-rose-house/jobs/603695-"
+      }
+    }
+  ]
+}

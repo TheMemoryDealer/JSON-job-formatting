@@ -1,0 +1,130 @@
+{
+  "name": "High5",
+  "avatar": "https://photos.angel.co/startups/i/6861103-b0b0674ea1adfaf02071737c935103fa-medium_jpg.jpg?buster=1559050278",
+  "slogan": "Giving you High Expectations ",
+  "description": "This product will help beginners and connoisseurs alike help find the best strain for them and purchase them in the legal markets.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://wwww.whatbook.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Ecommerce",
+    "Mobile Application",
+    "Marijuana"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/kinni",
+      "name": "Kinni ",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6861103",
+    "angelListUrl": "https://angel.co/company/high5-4"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Developer",
+      "description": "You would be a co-founder and full stack developer. I am looking for someone that can help turn this from a passion project, into a full-time job. Let's shake up the cannabiz industry.",
+      "descriptionHtml": "<p>You would be a co-founder and full stack developer. I am looking for someone that can help turn this from a passion project, into a full-time job. Let&#39;s shake up the cannabiz industry.</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "iOS Development",
+        "Android Development"
+      ],
+      "payment": {
+        "salary": "1.0% – 9.0%",
+        "equity": "1.0% – 9.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/kinni",
+        "name": "Kinni ",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "529124",
+        "angelListUrl": "https://angel.co/company/high5-4/jobs/529124-"
+      }
+    },
+    {
+      "role": "Management",
+      "title": "Co-Founder/Angel Investor",
+      "description": "",
+      "descriptionHtml": "",
+      "position": "cofounder",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Business Strategy",
+        "Interpersonal Skills",
+        "Financial Reporting"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "5.0% – 10.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/kinni",
+        "name": "Kinni ",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "562656",
+        "angelListUrl": "https://angel.co/company/high5-4/jobs/562656-"
+      }
+    }
+  ]
+}

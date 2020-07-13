@@ -1,0 +1,103 @@
+{
+  "name": "Sama",
+  "avatar": "https://photos.angel.co/startups/i/7512359-d5be2afcd2925c48aa0007b66963ea84-medium_jpg.jpg?buster=1582397863",
+  "slogan": "Our mission is to make employees happier and more empowered",
+  "description": "Sama is tackling the $7 trillion employee engagement problem by democratising professional coaching.\nSama is building a scalable B2B2C subscription-based solution to provide employees of all levels their own digital coach. Coaching helps empower employees, to be more engaged, productive and ultimately happier. Sama is purpose-driven and aims to tackle employee engagement. Its solution also allows it to address inclusion and diversity challenges within organisations. We are tapping into the $156bn professional education sector. Our strategy is to launch and establish ourselves in the UK and then expand internationally.\nA coach in your pocket – employees are matched with the best qualified coach to address their  needs or challenges through an app which connects them to the coach either through instant messaging or  via a scheduled videocall.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.sama.io"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Health and Wellness",
+    "B2B · SaaS · Mobile · Artificial Intelligence / Machine Learning"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/mkha",
+      "name": "Myr Kha",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at Sama"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7512359",
+    "angelListUrl": "https://angel.co/company/sama-5"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "CTO",
+      "description": "Sama is tackling the $7 trillion employee engagement problem by democratising professional coaching.\r\n\r\nSama is building a scalable B2B2C subscription-based solution to provide employees of all levels their own digital coach. Coaching helps empower employees, to be more engaged, productive and ultimately happier. Sama is purpose-driven and aims to tackle employee engagement. Its solution also allows it to address inclusion and diversity challenges within organisations. We are tapping into the $156bn professional education sector. Our strategy is to launch and establish ourselves in the UK and then expand internationally.\r\n\r\nA coach in your pocket – employees are matched with the best qualified coach to address their  needs or challenges through an app which connects them to the coach either through instant messaging or  via a scheduled videocall.\r\n\r\nYour Role:\r\n\r\nWe are looking for an enthusiastic and hands on CTO who will lead the development of the core product initially, and subsequent ancillary offerings (training modules, coaching impact assessment, etc). You will build and develop a team in line with the business needs as the company grows. \r\nYou will be comfortable deciding on architecture as well as managing an effective development and deployment process and understand the value of testing. You will contribute fundamentally to the direction of the product and strategy of the business as part of the senior management team. You will be excited about the challenge of growing the business while maintaining the stability of the service and, most importantly, keeping a superior user experience in mind.",
+      "descriptionHtml": "<p>Sama is tackling the $7 trillion employee engagement problem by democratising professional coaching.</p>\n\n<p>Sama is building a scalable B2B2C subscription-based solution to provide employees of all levels their own digital coach. Coaching helps empower employees, to be more engaged, productive and ultimately happier. Sama is purpose-driven and aims to tackle employee engagement. Its solution also allows it to address inclusion and diversity challenges within organisations. We are tapping into the $156bn professional education sector. Our strategy is to launch and establish ourselves in the UK and then expand internationally.</p>\n\n<p>A coach in your pocket – employees are matched with the best qualified coach to address their  needs or challenges through an app which connects them to the coach either through instant messaging or  via a scheduled videocall.</p>\n\n<p>Your Role:</p>\n\n<p>We are looking for an enthusiastic and hands on CTO who will lead the development of the core product initially, and subsequent ancillary offerings (training modules, coaching impact assessment, etc). You will build and develop a team in line with the business needs as the company grows. <br>\nYou will be comfortable deciding on architecture as well as managing an effective development and deployment process and understand the value of testing. You will contribute fundamentally to the direction of the product and strategy of the business as part of the senior management team. You will be excited about the challenge of growing the business while maintaining the stability of the service and, most importantly, keeping a superior user experience in mind.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [
+        "London",
+        "France",
+        "United Kingdom",
+        "Sweden"
+      ],
+      "skills": [
+        "Management",
+        "Android",
+        "iOS Development",
+        "Leadership",
+        "UI/UX Design",
+        "Agile"
+      ],
+      "payment": {
+        "salary": "£25k – £45k",
+        "equity": "0.5% – 15.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/mkha",
+        "name": "Myr Kha",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "736170",
+        "angelListUrl": "https://angel.co/company/sama-5/jobs/736170-"
+      }
+    }
+  ]
+}

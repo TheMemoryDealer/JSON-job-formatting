@@ -1,0 +1,233 @@
+{
+  "name": "Blokur",
+  "avatar": "https://photos.angel.co/startups/i/1038196-cd80f6545897b15406a639b0434e7fe8-medium_jpg.jpg?buster=1539937324",
+  "slogan": "Helping musicians and music companies get paid what they should, when they should",
+  "description": "\nDid you know that it can take a songwriter up to four years to get paid when their song is played on the radio or a streaming service?\n\nThat’s because the data that tells the world who wrote the song and who owns it is very often missing, incomplete or out-of-date.\n\nWe are tackling this problem at Blokur by building a new system of record for music rights data to make sure that whenever a song is played, the right person gets paid.\n\nOur company was founded from the lived experience of an artist on the front line of the music industry, and is driven by a diverse and creative team of technologists, music fans and business brains motivated by our mission to fulfill the potential of the internet for the creator.\n\nWe are off to a flying start – partnered with the world’s biggest and most influential music companies and artists, and backed by top tier investors.\n\nCome join us as we build out new infrastructure for the music industry and improve the lives of creators around the world.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.blokur.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/blokurhq"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "SaaS",
+    "Music",
+    "Photography",
+    "Marketplaces",
+    "Blockchains"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/phil-barry",
+      "name": "Phil Barry",
+      "avatar": "https://photos.angel.co/users/672554-medium_jpg?1539938077",
+      "bioHtml": "Founder of Blokur // Musician // Record label founder //  Oxford MBA // Thom Yorke BitTorrent team"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/selina-lau-1",
+      "name": "Selina Lau",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Founder and CEO",
+      "role": "Employee",
+      "url": "https://angel.co/u/phil-barry",
+      "name": "Phil Barry",
+      "avatar": "https://photos.angel.co/users/672554-medium_jpg?1539938077",
+      "bioHtml": "Founder of Blokur // Musician // Record label founder //  Oxford MBA // Thom Yorke BitTorrent team"
+    },
+    {
+      "title": "Software Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/mschristensen",
+      "name": "Mike Christensen",
+      "avatar": "https://photos.angel.co/users/1756889-medium_jpg?1523459145",
+      "bioHtml": "."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "1038196",
+    "angelListUrl": "https://angel.co/company/blokur"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Intern, Software Engineer",
+      "description": "WHO ARE WE?\n\nBlokur is a blockchain-based platform that helps musicians and music companies get paid what they should, when they should. We are a curious, diverse and creative team representing five countries and counting. And our users represent 60% of music industry revenue.\n\nTHE ROLE\n\nWe are looking for a software development intern who is excited by the prospect of contributing to building a new product from the ground up in an innovative blockchain startup.\n\nABOUT YOU\n\nYou are curious, with an interest in music and the arts, a love for problem solving, and a degree degree in computer science or a related discipline. YOu may also have a portfolio of projects that you can demonstrate from side projects, academic work or previous work experience.\n\nYou have mastery of at least one programming language such as Ruby, Python or Java and are familiar with at least one of the following technologies:\n\nReact, Angular or Similar\nNode or similar.\nSQL and NoSQL databases\nEthereum\nAWS/Azure\nDocker\nSpark \nGolang\n\nBENEFITS\n\nWe pay the London living wage",
+      "descriptionHtml": "<p>WHO ARE WE?</p>\n\n<p>Blokur is a blockchain-based platform that helps musicians and music companies get paid what they should, when they should. We are a curious, diverse and creative team representing five countries and counting. And our users represent 60% of music industry revenue.</p>\n\n<p>THE ROLE</p>\n\n<p>We are looking for a software development intern who is excited by the prospect of contributing to building a new product from the ground up in an innovative blockchain startup.</p>\n\n<p>ABOUT YOU</p>\n\n<p>You are curious, with an interest in music and the arts, a love for problem solving, and a degree degree in computer science or a related discipline. YOu may also have a portfolio of projects that you can demonstrate from side projects, academic work or previous work experience.</p>\n\n<p>You have mastery of at least one programming language such as Ruby, Python or Java and are familiar with at least one of the following technologies:</p>\n\n<p>React, Angular or Similar<br>\nNode or similar.<br>\nSQL and NoSQL databases<br>\nEthereum<br>\nAWS/Azure<br>\nDocker<br>\nSpark <br>\nGolang</p>\n\n<p>BENEFITS</p>\n\n<p>We pay the London living wage</p>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "United Kingdom"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "noSQL",
+        "SQL",
+        "Node.js",
+        "Scala",
+        "Angular.JS",
+        "Express.js",
+        "Docker",
+        "React.js",
+        "Ethereum",
+        "Apache Spark",
+        "AWS",
+        "Redux",
+        "Go"
+      ],
+      "payment": {
+        "salary": "£0k – £20k"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/andres-martinlopez",
+        "name": "Andres Martin Lopez",
+        "avatar": "https://photos.angel.co/users/1087761-medium_jpg?1474306398"
+      },
+      "refs": {
+        "angelListId": "225729",
+        "angelListUrl": "https://angel.co/company/blokur/jobs/225729-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Marketing Manager",
+      "description": "WHO ARE WE?\n\nBlokur is a blockchain-based platform that helps musicians and music companies get paid what they should, when they should. We are a curious, diverse and creative team representing five countries and counting. And our users represent 60% of music industry revenue.\n\nWHAT ARE WE LOOKING FOR?\n\nBlokur is seeking an analytical, resourceful and collaborative marketer to help us expand our community of music publishers and deliver on our mission to deliver value back to creators.\n\nCollaborating with product, sales and customer success teams you will exploit the powerful network effects in the platform's data to create a highly scalable customer acquisition and lead nurturing machine.\n\nWHAT YOU'LL NEED\n\n- Demonstrated ability to develop and implement growth strategies for software products or platforms\n- Curiosity for digging into data and finding out what makes users tick\n- A finger on the pulse of the latest marketing and growth trends and technologies\n- Collaborative mind-set\n- Belief in the value of creators and creativity\n\nWHAT WE OFFER\n\nCompetitive salary\nShare options\nGenerous holiday allowance\nGenerous family leave\nFlexible working\nAn opportunity to make your mark in a fast-growing start-up re-imagining the way that creators get paid",
+      "descriptionHtml": "<p>WHO ARE WE?</p>\n\n<p>Blokur is a blockchain-based platform that helps musicians and music companies get paid what they should, when they should. We are a curious, diverse and creative team representing five countries and counting. And our users represent 60% of music industry revenue.</p>\n\n<p>WHAT ARE WE LOOKING FOR?</p>\n\n<p>Blokur is seeking an analytical, resourceful and collaborative marketer to help us expand our community of music publishers and deliver on our mission to deliver value back to creators.</p>\n\n<p>Collaborating with product, sales and customer success teams you will exploit the powerful network effects in the platform&#39;s data to create a highly scalable customer acquisition and lead nurturing machine.</p>\n\n<p>WHAT YOU&#39;LL NEED</p>\n\n<ul>\n<li>Demonstrated ability to develop and implement growth strategies for software products or platforms</li>\n<li>Curiosity for digging into data and finding out what makes users tick</li>\n<li>A finger on the pulse of the latest marketing and growth trends and technologies</li>\n<li>Collaborative mind-set</li>\n<li>Belief in the value of creators and creativity</li>\n</ul>\n\n<p>WHAT WE OFFER</p>\n\n<p>Competitive salary<br>\nShare options<br>\nGenerous holiday allowance<br>\nGenerous family leave<br>\nFlexible working<br>\nAn opportunity to make your mark in a fast-growing start-up re-imagining the way that creators get paid</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Greater London",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Marketing"
+      ],
+      "payment": {
+        "salary": "£35k – £50k",
+        "equity": "0.0% – 0.75%"
+      },
+      "recruiter": {
+        "title": "Founder and CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/phil-barry",
+        "name": "Phil Barry",
+        "avatar": "https://photos.angel.co/users/672554-medium_jpg?1539938077"
+      },
+      "refs": {
+        "angelListId": "514160",
+        "angelListUrl": "https://angel.co/company/blokur/jobs/514160-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Software Engineer",
+      "description": "WHO ARE WE?\n\nBlokur is a platform that helps musicians and music companies get paid what they should, when they should. We are a curious, diverse and creative team representing five countries and counting. And our users represent 60% of music industry revenue.\n\nWHAT ARE WE LOOKING FOR?\n\nWe are looking for a full-stack engineer who is passionate about creating innovative platforms for the music industry. You will be joining our engineering team that values the creativity to experiment and build a product we all proud of.\n\nTHE ROLE\n\n- Implement new product features and deploy them on an on-going basis.\n- Work on the whole software development lifecycle using Golang, Node.js and React/Redux.\n- Help drive product vision, working closely with stakeholders to deliver scalable product features.\n- Be part of a highly collaborative and cross-functional team that values the creativity to experiment and build a product we are all proud of.\n\nABOUT YOU\n\n- Enjoy writing beautiful web applications and developing the backend that powers them.\n- Can bring an entrepreneurial and collaborative spirit to the team.\n- Like solving interesting problems and can take ownership.\n- Are interested in joining a dynamic start-up environment, feel comfortable picking up new programming languages and don’t mind doing a “bit of everything”.\n- Have a passion for music.\n- Like simple, clean and efficient code.\n\n\nWHAT WE OFFER\n\n- Competitive salary\n- Share options\n- Generous holiday allowance\n- Generous family leave\n- Flexible working\n- An opportunity to make your mark in a fast-growing start-up re-imagining the way that creators get paid",
+      "descriptionHtml": "<p>WHO ARE WE?</p>\n\n<p>Blokur is a platform that helps musicians and music companies get paid what they should, when they should. We are a curious, diverse and creative team representing five countries and counting. And our users represent 60% of music industry revenue.</p>\n\n<p>WHAT ARE WE LOOKING FOR?</p>\n\n<p>We are looking for a full-stack engineer who is passionate about creating innovative platforms for the music industry. You will be joining our engineering team that values the creativity to experiment and build a product we all proud of.</p>\n\n<p>THE ROLE</p>\n\n<ul>\n<li>Implement new product features and deploy them on an on-going basis.</li>\n<li>Work on the whole software development lifecycle using Golang, Node.js and React/Redux.</li>\n<li>Help drive product vision, working closely with stakeholders to deliver scalable product features.</li>\n<li>Be part of a highly collaborative and cross-functional team that values the creativity to experiment and build a product we are all proud of.</li>\n</ul>\n\n<p>ABOUT YOU</p>\n\n<ul>\n<li>Enjoy writing beautiful web applications and developing the backend that powers them.</li>\n<li>Can bring an entrepreneurial and collaborative spirit to the team.</li>\n<li>Like solving interesting problems and can take ownership.</li>\n<li>Are interested in joining a dynamic start-up environment, feel comfortable picking up new programming languages and don’t mind doing a “bit of everything”.</li>\n<li>Have a passion for music.</li>\n<li>Like simple, clean and efficient code.</li>\n</ul>\n\n<p>WHAT WE OFFER</p>\n\n<ul>\n<li>Competitive salary</li>\n<li>Share options</li>\n<li>Generous holiday allowance</li>\n<li>Generous family leave</li>\n<li>Flexible working</li>\n<li>An opportunity to make your mark in a fast-growing start-up re-imagining the way that creators get paid</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Software Engineering",
+        "Node.js",
+        "Full Stack Development",
+        "Go (Golang)",
+        "Go",
+        "React/Redux"
+      ],
+      "payment": {
+        "salary": "£35k – £40k",
+        "equity": "0.0% – 0.75%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/andres-martinlopez",
+        "name": "Andres Martin Lopez",
+        "avatar": "https://photos.angel.co/users/1087761-medium_jpg?1474306398"
+      },
+      "refs": {
+        "angelListId": "709063",
+        "angelListUrl": "https://angel.co/company/blokur/jobs/709063-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Head of Business Development - Music Publishing (Maternity Cover)",
+      "description": "Head of Business Development at Blokur, based in London\n\nBlokur is a platform that helps musicians and music companies get paid what they should, when they should. We are a curious, diverse and creative team representing seven countries and counting. And our users represent 70% of music publishing revenue.\n\nABOUT THE ROLE\n\nBlokur is seeking an energetic and creative Head of Business Development (fixed term maternity cover) to drive and own our relationships with the music publishing community. Here’s why you should consider us:\n\n• You’ll be right at the heart of decision-making and strategy as Blokur continues to engage the music community in its mission to help creators get paid what they should, when they should. \n\n• You’ll have the opportunity to apply your music expertise and network in a fast-paced tech environment and influence what products we build.\n\n• As Head of Business Development you will own a key pillar of Blokur’s future success and create a long list of achievements to be proud of.\n\nThis opportunity is a 12-month fixed maternity cover contract. Our team is growing all the time – we have doubled in the last six months - so there may be opportunities to transfer to a different role within the company at the end of the period.\n\nWHAT YOU'LL NEED\n\n• Proven ability to persuade and influence decision makers, whether that be over the phone, by email, or in-person\n\n• An understanding of the copyright and licensing challenges faced by music publishers, songwriters and digital services\n\n• Passion for learning and doing new things\n\n• Belief in the value of creators and creativity\n\n• Capacity to balance the 1000ft view needed for planning and strategy with the processes and habits required to execute \n\nWHAT WE OFFER\n\n• Competitive salary\n• Share options\n• Generous holiday allowance\n• Generous family leave\n• Flexible working\n• An opportunity to make your mark in a fast-growing start-up re-imagining the way that creators get paid",
+      "descriptionHtml": "<p>Head of Business Development at Blokur, based in London</p>\n\n<p>Blokur is a platform that helps musicians and music companies get paid what they should, when they should. We are a curious, diverse and creative team representing seven countries and counting. And our users represent 70% of music publishing revenue.</p>\n\n<p>ABOUT THE ROLE</p>\n\n<p>Blokur is seeking an energetic and creative Head of Business Development (fixed term maternity cover) to drive and own our relationships with the music publishing community. Here’s why you should consider us:</p>\n\n<p>• You’ll be right at the heart of decision-making and strategy as Blokur continues to engage the music community in its mission to help creators get paid what they should, when they should. </p>\n\n<p>• You’ll have the opportunity to apply your music expertise and network in a fast-paced tech environment and influence what products we build.</p>\n\n<p>• As Head of Business Development you will own a key pillar of Blokur’s future success and create a long list of achievements to be proud of.</p>\n\n<p>This opportunity is a 12-month fixed maternity cover contract. Our team is growing all the time – we have doubled in the last six months - so there may be opportunities to transfer to a different role within the company at the end of the period.</p>\n\n<p>WHAT YOU&#39;LL NEED</p>\n\n<p>• Proven ability to persuade and influence decision makers, whether that be over the phone, by email, or in-person</p>\n\n<p>• An understanding of the copyright and licensing challenges faced by music publishers, songwriters and digital services</p>\n\n<p>• Passion for learning and doing new things</p>\n\n<p>• Belief in the value of creators and creativity</p>\n\n<p>• Capacity to balance the 1000ft view needed for planning and strategy with the processes and habits required to execute </p>\n\n<p>WHAT WE OFFER</p>\n\n<p>• Competitive salary<br>\n• Share options<br>\n• Generous holiday allowance<br>\n• Generous family leave<br>\n• Flexible working<br>\n• An opportunity to make your mark in a fast-growing start-up re-imagining the way that creators get paid</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£40k – £60k",
+        "equity": "0.0% – 0.06%"
+      },
+      "recruiter": {
+        "title": "Founder and CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/phil-barry",
+        "name": "Phil Barry",
+        "avatar": "https://photos.angel.co/users/672554-medium_jpg?1539938077"
+      },
+      "refs": {
+        "angelListId": "723028",
+        "angelListUrl": "https://angel.co/company/blokur/jobs/723028-"
+      }
+    }
+  ]
+}

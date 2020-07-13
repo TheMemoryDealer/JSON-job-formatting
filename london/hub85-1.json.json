@@ -1,0 +1,92 @@
+{
+  "name": "HUB85",
+  "avatar": "https://photos.angel.co/startups/i/6499317-f23e26ba41946c996fe5dd0f63919373-medium_jpg.jpg?buster=1540472785",
+  "slogan": "Automated Governance Risk & Workflow",
+  "description": "HUB85 provides a real-time macro view into how spreadsheets and data support workflow so that teams can work faster and smarter; safeguarding the organisation from operational risks and fast-tracking governance, efficiency and automation efforts.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://hub85.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Governance",
+    "Risk Management",
+    "Workflow",
+    "Analytics"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/omar-quraishi",
+      "name": "Omar Quraishi",
+      "avatar": "https://photos.angel.co/users/8521493-medium_jpg?1540472419",
+      "bioHtml": "CEO at HUB85"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6499317",
+    "angelListUrl": "https://angel.co/company/hub85-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Back End Developer",
+      "description": "As a Senior Back End Developer at Hub 85, you will be responsible for designing, developing and testing products that ingest large, diverse datasets and process them into easily digestible reports and presentations that solve real-world industry challenges.\n\nYou will be curious and excited about working on difficult problems and will contribute to new solutions that will improve efficiency, improve data insights and solve industry problems in a world­-class manner.\n\nYou are creative and comfortable using the right tools for the job (i.e. don’t have a sticky preference for a particular technology).\n\nYou are passionate about automation. You have a well thought out approach to development, write well-structured code and can design agile applications that are built for flexibility and suitable to scale.\n\nYou will be comfortable troubleshooting and fixing application specific and infrastructure issues. You will provide technical support for enhancing existing software products and will be a vital source of support for our CTO.\n\nThe ideal candidate:\n5+ years of experience as a software engineer, working with different programming languages\nAppreciation for security, encryption, alerting, logging and auditing\nOrganised, ability to multi­task and manage time effectively under tight deadlines\nEnjoys learning and sharing your valuable feedback across our team, so we can continue to iterate and improve\nA great listener who can prioritize workloads\nStrong written and verbal communication skills\nTechnical Skills:\nWe have interest in developers who have working experience with some of the following:\nPython, C#, C++, JavaScript, VB6, ASP.NET, SQL Server\nFamiliar working with Azure and associated product offerings",
+      "descriptionHtml": "<p>As a Senior Back End Developer at Hub 85, you will be responsible for designing, developing and testing products that ingest large, diverse datasets and process them into easily digestible reports and presentations that solve real-world industry challenges.</p>\n\n<p>You will be curious and excited about working on difficult problems and will contribute to new solutions that will improve efficiency, improve data insights and solve industry problems in a world­-class manner.</p>\n\n<p>You are creative and comfortable using the right tools for the job (i.e. don’t have a sticky preference for a particular technology).</p>\n\n<p>You are passionate about automation. You have a well thought out approach to development, write well-structured code and can design agile applications that are built for flexibility and suitable to scale.</p>\n\n<p>You will be comfortable troubleshooting and fixing application specific and infrastructure issues. You will provide technical support for enhancing existing software products and will be a vital source of support for our CTO.</p>\n\n<p>The ideal candidate:<br>\n5+ years of experience as a software engineer, working with different programming languages<br>\nAppreciation for security, encryption, alerting, logging and auditing<br>\nOrganised, ability to multi­task and manage time effectively under tight deadlines<br>\nEnjoys learning and sharing your valuable feedback across our team, so we can continue to iterate and improve<br>\nA great listener who can prioritize workloads<br>\nStrong written and verbal communication skills<br>\nTechnical Skills:<br>\nWe have interest in developers who have working experience with some of the following:<br>\nPython, C#, C++, JavaScript, VB6, ASP.NET, SQL Server<br>\nFamiliar working with Azure and associated product offerings</p>\n",
+      "position": "full-time",
+      "experience": 6,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$60k – $80k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/omar-quraishi",
+        "name": "Omar Quraishi",
+        "avatar": "https://photos.angel.co/users/8521493-medium_jpg?1540472419"
+      },
+      "refs": {
+        "angelListId": "709279",
+        "angelListUrl": "https://angel.co/company/hub85-1/jobs/709279-"
+      }
+    }
+  ]
+}

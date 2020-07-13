@@ -1,0 +1,115 @@
+{
+  "name": "HotelFlex",
+  "avatar": "https://photos.angel.co/startups/i/1094408-534216d09b921f4bc9f56e9dde2d6900-medium_jpg.jpg?buster=1521772834",
+  "slogan": "Check-in or out of your room as early or as late as you want",
+  "description": "Hotelflex is shaking up the way the hotel industry manages inventory. We don't believe in the prehistoric 3pm check-in and 11am check-out, surely you (the guest) can choose when you want to arrive and depart and then pay accordingly, right? We agree, which is why we're building a product that lets you do just that!\n\nWhilst this concept makes total sense for the guest, it's also incredibly attractive for hotels as it's incremental revenue, in other words, pure bottom-line profit. A typical 300-400 bed hotel using Hotelflex can generate an additional $2,500 - $18,000 per month, which, as profit margin goes, is huge! This number varies so much because there are so many factors at play, such as the pricing structure, available inventory, and guest messaging, all of which can be optimised.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.hotelflex.io"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@hotelflexhq"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/hotelflex?trk=nav_account_sub_nav_company_admin"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Online Travel",
+    "Disruptive Services",
+    "E-Commerce",
+    "Hotels"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/richturnbull",
+      "name": "Rich Turnbull",
+      "avatar": "https://photos.angel.co/users/5656287-medium_jpg?1521773170",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/hotelflex\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">HotelFlex</span></a>  | Head of Product | Full stack web engineer"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/pete-turnbull",
+      "name": "Pete Turnbull",
+      "avatar": "https://photos.angel.co/users/2050428-medium_jpg?1466141056",
+      "bioHtml": "Imperial Maths and Computing, Full stack web engineer, Data Scientist, EF alumni"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/max-hotelflex-co",
+      "name": "Max Shepherd-Cross",
+      "avatar": "https://photos.angel.co/users/2136992-medium_jpg?1513782401",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/hotelflex\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">HotelFlex</span></a> • Studied at <a href=\"https://angel.co/oxford-brookes-university\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Oxford Brookes University</span></a> Strong business and financial backgroud (Prudential, CBRE)."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "1094408",
+    "angelListUrl": "https://angel.co/company/hotelflex"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "HotelFlex is hiring London based software engineers",
+      "description": "see: https://www.workatastartup.com/directory/1682\n----------------------------\nWhat we're building\n----------------------------\nHotelflex is shaking up the way the hotel industry manages inventory. We don't believe in the prehistoric 3pm check-in and 11am check-out, surely you (the guest) can choose when you want to arrive and depart and then pay accordingly, right? We agree, which is why we're building a product that lets you do just that!\n\n-----------------------------\nAbout you\n------------------------------\nYou love building new things\nYou love doing things efficiently\nYou have worked with teams before on large Node JS web projects\nYou are productive even in the absence of a task list\nYou are clear and concise in your communication\n\n----------------------------\nAbout the job\n----------------------------\nHelp us innovate, plan and build new product features\nExtend and maintain our existing services and architecture\nRelease new code to thousands of hotel guests each week\nExtend our integrations into new hotel tech stacks - directly impacting our sales reach and growth\nGet stuck in with code reviews and testing so that everyone can enjoy a quality codebase!\n\n----------------------------\nOur stack\n----------------------------\nNode JS\nPostgres (SQL)\nRabbitMQ (AMQP messaging)\nKubernetes (Hosted on GCP)\nReact (frontend)\n\n----------------------------\nBenefits, Growth, and Development\n----------------------------\nWe welcome growth and development and want to work with you to make sure you always have the opportunity to step out of your comfort zone and progress your skills. Joining a startup has numerous benefits such as, the ability to quickly progress into owner/leader positions, shape company culture, hire new teammates, gain equity in a rapidly growing company, and in our case, enjoy being part of a company that has an impact on holidaymakers and travellers all over the world. All of these things make working at our startup so much fun! and we hope to be able to share that with you.",
+      "descriptionHtml": "<h3>see: <a href=\"https://www.workatastartup.com/directory/1682\" target=\"_blank\" rel=\"nofollow\">https://www.workatastartup.com/directory/1682</a></h3><h3>What we&#39;re building</h3>\n<p>Hotelflex is shaking up the way the hotel industry manages inventory. We don&#39;t believe in the prehistoric 3pm check-in and 11am check-out, surely you (the guest) can choose when you want to arrive and depart and then pay accordingly, right? We agree, which is why we&#39;re building a product that lets you do just that!</p>\n\n<hr>\n<h3>About you</h3>\n<p>You love building new things<br>\nYou love doing things efficiently<br>\nYou have worked with teams before on large Node JS web projects<br>\nYou are productive even in the absence of a task list<br>\nYou are clear and concise in your communication</p>\n\n<hr>\n<h3>About the job</h3>\n<p>Help us innovate, plan and build new product features<br>\nExtend and maintain our existing services and architecture<br>\nRelease new code to thousands of hotel guests each week<br>\nExtend our integrations into new hotel tech stacks - directly impacting our sales reach and growth<br>\nGet stuck in with code reviews and testing so that everyone can enjoy a quality codebase!</p>\n\n<hr>\n<h3>Our stack</h3>\n<p>Node JS<br>\nPostgres (SQL)<br>\nRabbitMQ (AMQP messaging)<br>\nKubernetes (Hosted on GCP)<br>\nReact (frontend)</p>\n\n<hr>\n<h3>Benefits, Growth, and Development</h3>\n<p>We welcome growth and development and want to work with you to make sure you always have the opportunity to step out of your comfort zone and progress your skills. Joining a startup has numerous benefits such as, the ability to quickly progress into owner/leader positions, shape company culture, hire new teammates, gain equity in a rapidly growing company, and in our case, enjoy being part of a company that has an impact on holidaymakers and travellers all over the world. All of these things make working at our startup so much fun! and we hope to be able to share that with you.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Machine Learning",
+        "SQL",
+        "Node.js",
+        "Web Development",
+        "Database and Systems Design"
+      ],
+      "payment": {
+        "salary": "£40k – £60k",
+        "equity": "0.25% – 0.4%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/richturnbull",
+        "name": "Rich Turnbull",
+        "avatar": "https://photos.angel.co/users/5656287-medium_jpg?1521773170"
+      },
+      "refs": {
+        "angelListId": "653853",
+        "angelListUrl": "https://angel.co/company/hotelflex/jobs/653853-"
+      }
+    }
+  ]
+}

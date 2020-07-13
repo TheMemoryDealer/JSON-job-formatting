@@ -1,0 +1,86 @@
+{
+  "name": "Veratrak",
+  "avatar": "https://photos.angel.co/startups/i/4472693-edef5bb0fe3f785edba6de2efb7de302-medium_jpg.jpg?buster=1526475857",
+  "slogan": "Transforming how the pharma supply chain collaborates to deliver safe and affordable drugs",
+  "description": "Veratrak is transforming the way that pharmaceutical supply chain companies work together to deliver high quality and affordable medicine to patients.\n\nWe have a talented team building a blockchain based solution for managing documentation sharing and collaboration in the pharmaceutical supply chain. We have funding from some of Europe’s premier investors and recently won the University of Oxford “Innovation of the Year” award.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.veratrak.com"
+    },
+    {
+      "type": "blog",
+      "url": "http://www.veratrak.com/media/"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/veratrak"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/11249377/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Oxford"
+  ],
+  "marketTags": [
+    "Pharmaceuticals",
+    "Blockchains",
+    "Supply Chain Management"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CPO",
+      "role": "Founder",
+      "url": "https://angel.co/u/matthew-wilson-41",
+      "name": "Matthew Wilson",
+      "avatar": "https://photos.angel.co/users/6758862-medium_jpg?1526659589",
+      "bioHtml": "Founder and CEO at Omnipresent"
+    },
+    {
+      "title": "Chief Executive Officer ",
+      "role": "Founder",
+      "url": "https://angel.co/u/jason-lacombe",
+      "name": "Jason Lacombe",
+      "avatar": "https://photos.angel.co/users/6044453-medium_jpg?1502024767",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/veratrak\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Veratrak</span></a> "
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/fraser-lawson-1",
+      "name": "Fraser Lawson",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/alex-cheema",
+      "name": "Alex Cheema",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4472693",
+    "angelListUrl": "https://angel.co/company/veratrak"
+  },
+  "jobs": []
+}

@@ -1,0 +1,146 @@
+{
+  "name": "Stotles",
+  "avatar": "https://photos.angel.co/startups/i/7062897-272ed3fec44f23647542aba9dcd0ed59-medium_jpg.jpg?buster=1572544959",
+  "slogan": "Our SaaS matches users with hyper-relevant business opportunities in the public sector",
+  "description": "Our mission is to unlock the potential of business and government working better, together.\n\nAt www.stotles.com, we're enabling businesses to win their fair share of public sector work by providing actionable transparency. We do this by using a ton of government data to identify business opportunities in the public sector, and match them with our users.\n\nBacked by top European VCs and growing quickly, we're looking for ambitious and curious teammates to join us for the ride.\n\nCheck out about.stotles.com to learn about what it's like to be a part of Stotles",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.stotles.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/stotles/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "United Kingdom",
+    "England",
+    "Europe"
+  ],
+  "marketTags": [
+    "SaaS",
+    "Enterprise Software",
+    "Sales and Marketing",
+    "Machine Learning",
+    "Big Data",
+    "Governments",
+    "Public Sector"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": [
+      {
+        "type": "Pre-Seed",
+        "closedAt": 1572393600,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/john-witt-6",
+      "name": "John Witt",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Co-founder &amp; CEO at Stotles"
+    },
+    {
+      "title": "COO",
+      "role": "Founder",
+      "url": "https://angel.co/u/taj-kamranpour-1",
+      "name": "Taj Kamranpour",
+      "avatar": "https://photos.angel.co/users/8317948-medium_jpg?1536229355",
+      "bioHtml": "Co-founder at Stotles"
+    },
+    {
+      "title": "CPO",
+      "role": "Founder",
+      "url": "https://angel.co/u/carsten-schaltz-2",
+      "name": "Carsten Schaltz",
+      "avatar": "https://photos.angel.co/users/9712464-medium_jpg?1572545244",
+      "bioHtml": "BCG (Canada) --&gt; Developer (London) --&gt; Founder (London).\n\nValue creation &gt; Value capture"
+    },
+    {
+      "title": "CEO",
+      "role": "Employee",
+      "url": "https://angel.co/u/john-witt-6",
+      "name": "John Witt",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Co-founder &amp; CEO at Stotles"
+    },
+    {
+      "title": "Technical Lead",
+      "role": "Employee",
+      "url": "https://angel.co/u/piotr-cwieczkowski",
+      "name": "Piotr Ćwieczkowski",
+      "avatar": "https://photos.angel.co/users/7215630-medium_jpg?1572619666",
+      "bioHtml": "A software engineer with 8 years of experience on varied projects, from developing a graphics driver to building full-stack applications in the finance industry"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7062897",
+    "angelListUrl": "https://angel.co/company/stotles"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer - Full-stack",
+      "description": "[See full posting here](https://www.notion.so/stotles/Software-Engineer-Full-stack-53be37dc5fc74f058dfabf1d77cc57ad)\r\n\r\nWe are looking for ambitious software engineers that are passionate about finding elegant solutions to complex problems.\r\n\r\nAs a small, cross-functional product team we aim for everyone to be able to work on all parts of the system. Each of us is eager to learn any technology and skill required to get the job done, and share their knowledge with the rest of the team.\r\n\r\nWith strong culture of ownership and responsibility we believe that our job is not done until *the* job is done. We take pride in delivering the highest quality, reliable product that delights our users.\r\n\r\nAs a software engineer at Stotles you will:\r\n* Work closely with our CPO to shape the product design and implement our vision\r\n* Take part in all aspects of product development; from early ideas, to releases, to monitoring it's performance in production\r\n* Put on your \"software architect\" hat to design the architecture of the system together with the rest of the engineering team",
+      "descriptionHtml": "<p><a href=\"https://www.notion.so/stotles/Software-Engineer-Full-stack-53be37dc5fc74f058dfabf1d77cc57ad\" target=\"_blank\" rel=\"nofollow\">See full posting here</a></p>\n\n<p>We are looking for ambitious software engineers that are passionate about finding elegant solutions to complex problems.</p>\n\n<p>As a small, cross-functional product team we aim for everyone to be able to work on all parts of the system. Each of us is eager to learn any technology and skill required to get the job done, and share their knowledge with the rest of the team.</p>\n\n<p>With strong culture of ownership and responsibility we believe that our job is not done until <em>the</em> job is done. We take pride in delivering the highest quality, reliable product that delights our users.</p>\n\n<p>As a software engineer at Stotles you will:</p>\n\n<ul>\n<li>Work closely with our CPO to shape the product design and implement our vision</li>\n<li>Take part in all aspects of product development; from early ideas, to releases, to monitoring it&#39;s performance in production</li>\n<li>Put on your &quot;software architect&quot; hat to design the architecture of the system together with the rest of the engineering team</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Software Engineering",
+        "Python",
+        "Javascript",
+        "Ruby",
+        "Full Stack Development",
+        "Ruby on Rails",
+        "TypeScript",
+        "Full-Stack Web Development (Node/Redux/React)"
+      ],
+      "payment": {
+        "salary": "£35k – £60k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CPO",
+        "role": "Founder",
+        "url": "https://angel.co/u/carsten-schaltz-2",
+        "name": "Carsten Schaltz",
+        "avatar": "https://photos.angel.co/users/9712464-medium_jpg?1572545244"
+      },
+      "refs": {
+        "angelListId": "757925",
+        "angelListUrl": "https://angel.co/company/stotles/jobs/757925-"
+      }
+    }
+  ]
+}

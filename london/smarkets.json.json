@@ -1,0 +1,450 @@
+{
+  "name": "Smarkets",
+  "avatar": "https://photos.angel.co/startups/i/21664-a72e3da3935d9b68de5fcb6d787f8f26-medium_jpg.jpg?buster=1514990372",
+  "slogan": "Fintech for betting",
+  "description": "We've built one of the world's largest betting exchanges that provides significantly better odds than the competition.  Our strength is technology and trading, with a passion to push the known boundaries of real-time financial technology.\n\nOur platform that has handled over £15 billion worth of bets since launching in 2010, allowing us to become one of the most profitable companies per employee in Europe. In 2017 we were ranked in the top five of both the Sunday Times Tech Track 100 and Deloitte Fast 50.\n\nOur mission is to disrupt one of the oldest industries in the world by rethinking the betting business model. We believe traditional sports betting rips off bettors, taking up to a 15% margin on bets. We offer the industry's lowest margin of around 1%. We can and will do better.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://smarkets.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://smarketshq.com"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/smarkets"
+    },
+    {
+      "type": "facebook",
+      "url": "http://www.facebook.com/smarkets"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/smarkets"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Los Angeles"
+  ],
+  "marketTags": [
+    "Financial Exchanges",
+    "Prediction Markets",
+    "Gambling"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 2710000,
+    "rounds": [
+      {
+        "type": "Series A",
+        "closedAt": 1361404800,
+        "valuation": 0
+      },
+      {
+        "type": null,
+        "closedAt": 1238544000,
+        "valuation": null
+      },
+      {
+        "type": null,
+        "closedAt": 1209600000,
+        "valuation": null
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/hunter-morris",
+      "name": "Hunter Morris",
+      "avatar": "https://photos.angel.co/users/46111-medium_jpg?1405469961",
+      "bioHtml": "CTO / Co-founder of <a href=\"https://angel.co/company/smarkets\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Smarkets</span></a>; Derivatives trading background (Wolverine); <a href=\"https://angel.co/northwestern-university\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Northwestern University</span></a> CS grad 2003; Texan expat."
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/jason-trost",
+      "name": "Jason Trost",
+      "avatar": "https://photos.angel.co/users/10916-medium_jpg?1508533950",
+      "bioHtml": "CEO / Founder of <a href=\"https://angel.co/company/smarkets\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Smarkets</span></a>.  <a href=\"https://angel.co/northwestern-university\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Northwestern University</span></a> CS grad. Opened a DTLA office."
+    },
+    {
+      "title": "Lead Visual Designer",
+      "role": "Employee",
+      "url": "https://angel.co/u/design_dean",
+      "name": "Dean Harrison",
+      "avatar": "https://photos.angel.co/users/2640465-medium_jpg?1484319999",
+      "bioHtml": "Lead visual designer at Smarkets."
+    },
+    {
+      "title": "Technical Recruiter",
+      "role": "Employee",
+      "url": "https://angel.co/u/roza-pichl",
+      "name": "Roza Pichl",
+      "avatar": "https://photos.angel.co/users/9081702-medium_jpg?1552931901",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/luke-coleman-2",
+      "name": "Luke Coleman",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at Smarkets"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "21664",
+    "angelListUrl": "https://angel.co/company/smarkets"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Data Engineer",
+      "description": " **About the Role**\n\nBeing a Data Engineer at Smarkets involves working on our proprietary streaming services for the engineering and research groups. Our Research teams create strategies that require order book data which needs to be cleaned and accessible by them in a timely manner. \n\nYou’ll be responsible for architecting the data pipelines, building the tooling and helping spread domain knowledge to the users to aid strategy creation and ultimately increase PnL. Aside from the longer term projects the data engineers work on continually improving the system in regards to collection, processing, storage and dissemination of data across the business.\n\nOur current tech stack consists of Python, Postgres, Kafka, Redshift, BigQuey and Luigi.\n\n**About you**\n\n- You’ll be familiar with writing code in either Python or Scala.\n- You’ll enjoy collaborating with Quant Strategists to help better define the systems you’ll be creating\n- You’ll have dealt with with big data volumes (at least a few Terabytes) and have a great track record of building automated, scalable and robust data processing systems\n- You have a good understanding of database technologies and you know the practical and theoretical difficulties of building distributed systems\n- You will have worked with data warehouse systems like BigQuery or Redshift and both batch and semi-online building blocks like MapReduce, Spark, Kinesis, dataflow etc.\n\n**Our Culture**\n\nSmarkets brings a professional approach to the sports betting world which has allowed us to create one of the most sophisticated products in the industry. We embrace collaboration and our culture of trust, innovation, and scientific rigour has enabled us to grow to where we are today. Our people have a large impact on the product - be it changing the direction of our technical stack or pushing new features - you’ll be key in driving Smarkets forward.\n\nOur culture is built on the principles of self-management and rewards people on merit and excellence, avoiding the bureaucracy of pyramid management. Ultimately we are a group of like-minded individuals who enjoy learning, playing, and eating the excellent meals provided by the chefs!\n\n",
+      "descriptionHtml": "<p><strong>About the Role</strong></p>\n\n<p>Being a Data Engineer at Smarkets involves working on our proprietary streaming services for the engineering and research groups. Our Research teams create strategies that require order book data which needs to be cleaned and accessible by them in a timely manner. </p>\n\n<p>You’ll be responsible for architecting the data pipelines, building the tooling and helping spread domain knowledge to the users to aid strategy creation and ultimately increase PnL. Aside from the longer term projects the data engineers work on continually improving the system in regards to collection, processing, storage and dissemination of data across the business.</p>\n\n<p>Our current tech stack consists of Python, Postgres, Kafka, Redshift, BigQuey and Luigi.</p>\n\n<p><strong>About you</strong></p>\n\n<ul>\n<li>You’ll be familiar with writing code in either Python or Scala.</li>\n<li>You’ll enjoy collaborating with Quant Strategists to help better define the systems you’ll be creating</li>\n<li>You’ll have dealt with with big data volumes (at least a few Terabytes) and have a great track record of building automated, scalable and robust data processing systems</li>\n<li>You have a good understanding of database technologies and you know the practical and theoretical difficulties of building distributed systems</li>\n<li>You will have worked with data warehouse systems like BigQuery or Redshift and both batch and semi-online building blocks like MapReduce, Spark, Kinesis, dataflow etc.</li>\n</ul>\n\n<p><strong>Our Culture</strong></p>\n\n<p>Smarkets brings a professional approach to the sports betting world which has allowed us to create one of the most sophisticated products in the industry. We embrace collaboration and our culture of trust, innovation, and scientific rigour has enabled us to grow to where we are today. Our people have a large impact on the product - be it changing the direction of our technical stack or pushing new features - you’ll be key in driving Smarkets forward.</p>\n\n<p>Our culture is built on the principles of self-management and rewards people on merit and excellence, avoiding the bureaucracy of pyramid management. Ultimately we are a group of like-minded individuals who enjoy learning, playing, and eating the excellent meals provided by the chefs!</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Data Architecture",
+        "Kafka",
+        "Google Bigquery",
+        "Data Engineering"
+      ],
+      "payment": {
+        "salary": "£70k – £115k",
+        "equity": "0.0% – 0.1%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/chris-phillips-26",
+        "name": "Chris Phillips",
+        "avatar": "https://photos.angel.co/users/8081739-medium_jpg?1531906659"
+      },
+      "refs": {
+        "angelListId": "374140",
+        "angelListUrl": "https://angel.co/company/smarkets/jobs/374140-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Infrastructure Engineer",
+      "description": " **About the Position**\n\nInfrastructure engineers work on the critical infrastructure underlying the rest of the firm’s technology. The team is building a reliable, low-latency, highly concurrent system capable of handling thousands of executions per second. Our engineers deploy to production several times a day. As we are improving our AWS/Kubernetes infrastructure, we’re looking for someone passionate to help us build a low-friction, highly available system.\n\nThis is not a traditional DevOps role - more of a fusion between DevOps and Site Reliability Engineering. In fact, Infrastructure Engineers should not maintain systems. They write code and tools to take care of it instead.\n\n**About you**\n\n- You enjoy making infrastructure more automated, flexible and robust\n- You have a deep knowledge of operating system fundamentals (we use Ubuntu).\n- You enjoying collaborating with others\n- You are familiar with a scripting language, like Python or Bash\n- You enjoy troubleshooting and know how the common profiling/debugging tools work\n- You have knowledge of containerised environments and configuration management tools\n- You are interested in working in a modern AWS and Kubernetes environment.\n\n**Our Culture**\n\nSmarkets brings a professional approach to the sports betting world which has allowed us to create one of the most sophisticated products in the industry. We embrace collaboration and our culture of trust, innovation, and scientific rigour has enabled us to grow to where we are today. Our people have a large impact on the product - be it changing the direction of our technical stack or pushing new features - you’ll be key in driving Smarkets forward.\n\nOur culture is built on the principles of self-management and rewards people on merit and excellence, avoiding the bureaucracy of pyramid management. Ultimately we are a group of like-minded individuals who enjoy learning, playing, and eating the excellent meals provided by the chefs!\n\n",
+      "descriptionHtml": "<p><strong>About the Position</strong></p>\n\n<p>Infrastructure engineers work on the critical infrastructure underlying the rest of the firm’s technology. The team is building a reliable, low-latency, highly concurrent system capable of handling thousands of executions per second. Our engineers deploy to production several times a day. As we are improving our AWS/Kubernetes infrastructure, we’re looking for someone passionate to help us build a low-friction, highly available system.</p>\n\n<p>This is not a traditional DevOps role - more of a fusion between DevOps and Site Reliability Engineering. In fact, Infrastructure Engineers should not maintain systems. They write code and tools to take care of it instead.</p>\n\n<p><strong>About you</strong></p>\n\n<ul>\n<li>You enjoy making infrastructure more automated, flexible and robust</li>\n<li>You have a deep knowledge of operating system fundamentals (we use Ubuntu).</li>\n<li>You enjoying collaborating with others</li>\n<li>You are familiar with a scripting language, like Python or Bash</li>\n<li>You enjoy troubleshooting and know how the common profiling/debugging tools work</li>\n<li>You have knowledge of containerised environments and configuration management tools</li>\n<li>You are interested in working in a modern AWS and Kubernetes environment.</li>\n</ul>\n\n<p><strong>Our Culture</strong></p>\n\n<p>Smarkets brings a professional approach to the sports betting world which has allowed us to create one of the most sophisticated products in the industry. We embrace collaboration and our culture of trust, innovation, and scientific rigour has enabled us to grow to where we are today. Our people have a large impact on the product - be it changing the direction of our technical stack or pushing new features - you’ll be key in driving Smarkets forward.</p>\n\n<p>Our culture is built on the principles of self-management and rewards people on merit and excellence, avoiding the bureaucracy of pyramid management. Ultimately we are a group of like-minded individuals who enjoy learning, playing, and eating the excellent meals provided by the chefs!</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Configuration Management",
+        "Unix",
+        "Scripting Languages",
+        "AWS"
+      ],
+      "payment": {
+        "salary": "£60k – £100k",
+        "equity": "0.0% – 0.1%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/chris-phillips-26",
+        "name": "Chris Phillips",
+        "avatar": "https://photos.angel.co/users/8081739-medium_jpg?1531906659"
+      },
+      "refs": {
+        "angelListId": "374152",
+        "angelListUrl": "https://angel.co/company/smarkets/jobs/374152-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Security Engineer",
+      "description": " **About the Role**\n\nWe’re creating a new security function, so this is the perfect time to join and be there at the beginning! We’re looking for people to help us integrate security into everything we do so we can keep our customers and infrastructure secure. Whilst a technical role, a big challenge of the position will be instilling a security mindset across the teams via active collaboration on a range of different projects.\n\nThis is a software engineering role where you’ll need to be comfortable reviewing code for subtle traps as well as designing service architecture or hardening the engineering pipeline.\n\n**About You**\n\n- You have professional paranoia!\n- You have an in-depth understanding of network, systems and application security\n- You are comfortable coding in Python (or a similar language)\n- You know what you are doing, and can explain your reasoning to others\n- You enjoy collaborating with engineers to review and enhance security measures\n- You enjoy reviewing threats and investigating anomalies\n- You have experience developing tooling to improve visibility of potential security issues\n- You have experience in instilling “best in class” security practices\n- You have experience scaling security\n\n**Our Culture**\n\nSmarkets brings a professional approach to the sports betting world which has allowed us to create one of the most sophisticated products in the industry. We embrace collaboration and our culture of trust, innovation, and scientific rigour has enabled us to grow to where we are today. Our people have a large impact on the product - be it changing the direction of our technical stack or pushing new features - you’ll be key in driving Smarkets forward.\n\nOur culture is built on the principles of self-management and rewards people on merit and excellence, avoiding the bureaucracy of pyramid management. Ultimately we are a group of like-minded individuals who enjoy learning, playing, and eating the excellent meals provided by the chefs!\n\n",
+      "descriptionHtml": "<p><strong>About the Role</strong></p>\n\n<p>We’re creating a new security function, so this is the perfect time to join and be there at the beginning! We’re looking for people to help us integrate security into everything we do so we can keep our customers and infrastructure secure. Whilst a technical role, a big challenge of the position will be instilling a security mindset across the teams via active collaboration on a range of different projects.</p>\n\n<p>This is a software engineering role where you’ll need to be comfortable reviewing code for subtle traps as well as designing service architecture or hardening the engineering pipeline.</p>\n\n<p><strong>About You</strong></p>\n\n<ul>\n<li>You have professional paranoia!</li>\n<li>You have an in-depth understanding of network, systems and application security</li>\n<li>You are comfortable coding in Python (or a similar language)</li>\n<li>You know what you are doing, and can explain your reasoning to others</li>\n<li>You enjoy collaborating with engineers to review and enhance security measures</li>\n<li>You enjoy reviewing threats and investigating anomalies</li>\n<li>You have experience developing tooling to improve visibility of potential security issues</li>\n<li>You have experience in instilling “best in class” security practices</li>\n<li>You have experience scaling security</li>\n</ul>\n\n<p><strong>Our Culture</strong></p>\n\n<p>Smarkets brings a professional approach to the sports betting world which has allowed us to create one of the most sophisticated products in the industry. We embrace collaboration and our culture of trust, innovation, and scientific rigour has enabled us to grow to where we are today. Our people have a large impact on the product - be it changing the direction of our technical stack or pushing new features - you’ll be key in driving Smarkets forward.</p>\n\n<p>Our culture is built on the principles of self-management and rewards people on merit and excellence, avoiding the bureaucracy of pyramid management. Ultimately we are a group of like-minded individuals who enjoy learning, playing, and eating the excellent meals provided by the chefs!</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Network Security",
+        "Security",
+        "Scripting Languages",
+        "Application Security"
+      ],
+      "payment": {
+        "salary": "£75k – £115k",
+        "equity": "0.0% – 0.1%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/chris-phillips-26",
+        "name": "Chris Phillips",
+        "avatar": "https://photos.angel.co/users/8081739-medium_jpg?1531906659"
+      },
+      "refs": {
+        "angelListId": "374167",
+        "angelListUrl": "https://angel.co/company/smarkets/jobs/374167-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": " **About the Position**\n\nBeing a Software Engineer at Smarkets means working in high-performing teams that have control over the features they ship and the code they write. We have built a modern tech stack around Linux, Kafka, Postgres, and Kubernetes using Python 3, C++ 17 and React.\n\nThe Smarkets platform is used by tens of thousands daily through the app, website or REST API. We are continuously developing new features for these platforms, or improving performance, scalability and usability in the backend. \n\n**About You**\n\n- You have a Bachelor’s in Computer Science or relevant experience, with a good understanding of software design, data structures, and algorithms\n- You enjoy writing elegant, well-tested and maintainable code\n- You are familiar with Python 3, C++, React, React Native, or Rust. This is a plus, but not a must\n- You enjoy collaborating with others\n- You can talk comfortably about software at both a high (design) and low (algo) level\n\n**Our Culture**\n\nSmarkets brings a professional approach to the sports betting world which has allowed us to create one of the most sophisticated products in the industry. We embrace collaboration and our culture of trust, innovation, and scientific rigour has enabled us to grow to where we are today. Our people have a large impact on the product - be it changing the direction of our technical stack or pushing new features - you’ll be key in driving Smarkets forward.\n\nOur culture is built on the principles of self-management and rewards people on merit and excellence, avoiding the bureaucracy of pyramid management. Ultimately we are a group of like-minded individuals who enjoy learning, playing, and eating the excellent meals provided by the chefs!\n\nPlease find more information about our engineering interview process at - https://smarketshq.com/\n\n",
+      "descriptionHtml": "<p><strong>About the Position</strong></p>\n\n<p>Being a Software Engineer at Smarkets means working in high-performing teams that have control over the features they ship and the code they write. We have built a modern tech stack around Linux, Kafka, Postgres, and Kubernetes using Python 3, C++ 17 and React.</p>\n\n<p>The Smarkets platform is used by tens of thousands daily through the app, website or REST API. We are continuously developing new features for these platforms, or improving performance, scalability and usability in the backend. </p>\n\n<p><strong>About You</strong></p>\n\n<ul>\n<li>You have a Bachelor’s in Computer Science or relevant experience, with a good understanding of software design, data structures, and algorithms</li>\n<li>You enjoy writing elegant, well-tested and maintainable code</li>\n<li>You are familiar with Python 3, C++, React, React Native, or Rust. This is a plus, but not a must</li>\n<li>You enjoy collaborating with others</li>\n<li>You can talk comfortably about software at both a high (design) and low (algo) level</li>\n</ul>\n\n<p><strong>Our Culture</strong></p>\n\n<p>Smarkets brings a professional approach to the sports betting world which has allowed us to create one of the most sophisticated products in the industry. We embrace collaboration and our culture of trust, innovation, and scientific rigour has enabled us to grow to where we are today. Our people have a large impact on the product - be it changing the direction of our technical stack or pushing new features - you’ll be key in driving Smarkets forward.</p>\n\n<p>Our culture is built on the principles of self-management and rewards people on merit and excellence, avoiding the bureaucracy of pyramid management. Ultimately we are a group of like-minded individuals who enjoy learning, playing, and eating the excellent meals provided by the chefs!</p>\n\n<p>Please find more information about our engineering interview process at - <a href=\"https://smarketshq.com/\" target=\"_blank\" rel=\"nofollow\">https://smarketshq.com/</a></p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£50k – £105k",
+        "equity": "0.0% – 0.1%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/chris-phillips-26",
+        "name": "Chris Phillips",
+        "avatar": "https://photos.angel.co/users/8081739-medium_jpg?1531906659"
+      },
+      "refs": {
+        "angelListId": "374185",
+        "angelListUrl": "https://angel.co/company/smarkets/jobs/374185-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Low Latency C++ 14/17 Developer",
+      "description": " **About the team**\n\nWe design, develop, deploy and operate the real-time exchange systems that run 24/7 all year long. Our responsibilities include risk management and activity journaling, order matching, settlements, and dissemination of market data. We care a lot about reliability, fault tolerance, throughput, and latency. Our high availability requirements dictate emphasis on testability and reproducibility alongside monitoring and alerting.\n\nOur tech stack includes C++ 17, Erlang, and bits of Python. We use Postgres as our main DBMS technology and Apache Kafka for queuing. Our CI is based on Nix; we use property-based testing; https://github.com/smarkets/marge-bot. We ship to production daily.\n\n**About you**\n\n- You use C++ every day in your current role, recent standards preferred.\n- You understand how to design performant (low-latency, high throughput) and reliable distributed systems because you have a good understanding of network programming and distributed failure modes\n- You have good data structure and algorithm skills\n- You understand how operating systems work (Any Linux Distros) and are familiar with scripting (bash, python etc.)\n- You enjoy collaborating with other engineers, data scientists and non-technical members of staff.\n- You understand databases (SQL, but also fundamentals)\n\n**Our Culture**\n\nSmarkets brings a professional approach to the sports betting world which has allowed us to create one of the most sophisticated products in the industry. We embrace collaboration and our culture of trust, innovation, and scientific rigour has enabled us to grow to where we are today. Our people have a large impact on the product - be it changing the direction of our technical stack or pushing new features - you’ll be key in driving Smarkets forward.\n\nOur culture is built on the principles of self-management and rewards people on merit and excellence, avoiding the bureaucracy of pyramid management. Ultimately we are a group of like-minded individuals who enjoy learning, playing, and eating the excellent meals provided by the chefs!\n\n",
+      "descriptionHtml": "<p><strong>About the team</strong></p>\n\n<p>We design, develop, deploy and operate the real-time exchange systems that run 24/7 all year long. Our responsibilities include risk management and activity journaling, order matching, settlements, and dissemination of market data. We care a lot about reliability, fault tolerance, throughput, and latency. Our high availability requirements dictate emphasis on testability and reproducibility alongside monitoring and alerting.</p>\n\n<p>Our tech stack includes C++ 17, Erlang, and bits of Python. We use Postgres as our main DBMS technology and Apache Kafka for queuing. Our CI is based on Nix; we use property-based testing; <a href=\"https://github.com/smarkets/marge-bot\" target=\"_blank\" rel=\"nofollow\">https://github.com/smarkets/marge-bot</a>. We ship to production daily.</p>\n\n<p><strong>About you</strong></p>\n\n<ul>\n<li>You use C++ every day in your current role, recent standards preferred.</li>\n<li>You understand how to design performant (low-latency, high throughput) and reliable distributed systems because you have a good understanding of network programming and distributed failure modes</li>\n<li>You have good data structure and algorithm skills</li>\n<li>You understand how operating systems work (Any Linux Distros) and are familiar with scripting (bash, python etc.)</li>\n<li>You enjoy collaborating with other engineers, data scientists and non-technical members of staff.</li>\n<li>You understand databases (SQL, but also fundamentals)</li>\n</ul>\n\n<p><strong>Our Culture</strong></p>\n\n<p>Smarkets brings a professional approach to the sports betting world which has allowed us to create one of the most sophisticated products in the industry. We embrace collaboration and our culture of trust, innovation, and scientific rigour has enabled us to grow to where we are today. Our people have a large impact on the product - be it changing the direction of our technical stack or pushing new features - you’ll be key in driving Smarkets forward.</p>\n\n<p>Our culture is built on the principles of self-management and rewards people on merit and excellence, avoiding the bureaucracy of pyramid management. Ultimately we are a group of like-minded individuals who enjoy learning, playing, and eating the excellent meals provided by the chefs!</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£75k – £120k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/chris-phillips-26",
+        "name": "Chris Phillips",
+        "avatar": "https://photos.angel.co/users/8081739-medium_jpg?1531906659"
+      },
+      "refs": {
+        "angelListId": "400105",
+        "angelListUrl": "https://angel.co/company/smarkets/jobs/400105-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Quantitative Strategist",
+      "description": "The Smarkets exchange is a multi-billion pound trading platform with a rapidly growing ecosystem of sophisticated users who apply financial trading techniques to the world of betting. We’re looking for a Quant Analyst to join our Quant Group to provide valuable, data-driven insights to illuminate the underlying realities of our trading domain.\n\nWe’re big on continuous improvement at Smarkets, and so a large component of your role will be to analyse the results of sporting events and make actionable recommendations for what we can do differently next time. Having generated terabytes of data from multiple sources in an interesting and challenging domain, we are now applying this data to more and more complex research and can offer you the opportunity to work on a wide range of problems in this world.\n\nAn example project for the team:\n\n*In the last couple of months I have been working on a model to predict a component of the volume traded on the exchange. More specifically, we have been trying out different time-series models to predict volume on certain events. This work is interesting for two reasons. Firstly, because I am responsible for the model from end-to-end: from the proof-of-concept, through writing and unit testing the production version, to testing its performance in a live environment. Secondly, it's a novel approach to our understanding of volume on the platform.*\n\n### **What you’ll be doing:**\n\n- Collecting, cleaning, structuring, analysing and visualising sports betting data from different sources\n- Researching, implementing, backtesting, shipping and monitoring data-based algorithms\n- Improving our technical and fundamental market models\n- Extending and improving our data pipelines from an engineering perspective\n- Collaborating with data scientists and engineers across Smarkets\n- Defining your role in the context of self management (we’ll help you with this)\n\n### **Requirements:**\n\n- Masters or PhD in a numerate subject such as maths, physics or statistics\n- Solid statistical knowledge\n- Strong coding and software engineering skills\n- Experience in analysing challenging data sets\n- Interest in developing trading strategies\n\n### **Desirable Attributes:**\n\n- Experience of working with large datasets\n- Experience of working with statistical or numerical programming tools (Python, Jupyter etc.) \n- Database querying knowledge (PostgreSQL)\n- Research-level working in econometrics, machine learning, statistics or mathematics\n- Experience in sports betting\n- Professional software development experience\n\n**About Smarkets**\n\nWe've built one of the world's largest betting exchanges with significantly better odds than the competition. Our strength is technology and trading with a passion to push the known boundaries of real-time financial technology. With our self-management structure and flexible work environment, Smarkets offers a unique opportunity to be part of a great work culture. Our office in St Katharine’s Docks (Tower Hill) comes complete with a fantastic roof terrace and a team of in-house chefs cooking breakfast and lunch every day. Food is big at Smarkets, and lunch al’desko is officially banned.\n\n### **Notes**\n\nWe transfer and store the information you submit to help us process your application and to make our hiring process better. We also make use of third-party hiring tools to help us process applications. As we are based in both Europe and the United States, your data may leave the European Economic Area when we process it. Please only submit your application if you are happy for us to use your information in this way.\n\nSmarkets is an equal opportunities employer and takes active steps to prevent bias and discrimination in our interview process. We are committed to equal employment opportunity regardless of race, religion, sex, sexual orientation, age, marital status, disability or gender identity.\n\n",
+      "descriptionHtml": "<p>The Smarkets exchange is a multi-billion pound trading platform with a rapidly growing ecosystem of sophisticated users who apply financial trading techniques to the world of betting. We’re looking for a Quant Analyst to join our Quant Group to provide valuable, data-driven insights to illuminate the underlying realities of our trading domain.</p>\n\n<p>We’re big on continuous improvement at Smarkets, and so a large component of your role will be to analyse the results of sporting events and make actionable recommendations for what we can do differently next time. Having generated terabytes of data from multiple sources in an interesting and challenging domain, we are now applying this data to more and more complex research and can offer you the opportunity to work on a wide range of problems in this world.</p>\n\n<p>An example project for the team:</p>\n\n<p><em>In the last couple of months I have been working on a model to predict a component of the volume traded on the exchange. More specifically, we have been trying out different time-series models to predict volume on certain events. This work is interesting for two reasons. Firstly, because I am responsible for the model from end-to-end: from the proof-of-concept, through writing and unit testing the production version, to testing its performance in a live environment. Secondly, it&#39;s a novel approach to our understanding of volume on the platform.</em></p>\n<h3><strong>What you’ll be doing:</strong></h3>\n<ul>\n<li>Collecting, cleaning, structuring, analysing and visualising sports betting data from different sources</li>\n<li>Researching, implementing, backtesting, shipping and monitoring data-based algorithms</li>\n<li>Improving our technical and fundamental market models</li>\n<li>Extending and improving our data pipelines from an engineering perspective</li>\n<li>Collaborating with data scientists and engineers across Smarkets</li>\n<li>Defining your role in the context of self management (we’ll help you with this)</li>\n</ul>\n<h3><strong>Requirements:</strong></h3>\n<ul>\n<li>Masters or PhD in a numerate subject such as maths, physics or statistics</li>\n<li>Solid statistical knowledge</li>\n<li>Strong coding and software engineering skills</li>\n<li>Experience in analysing challenging data sets</li>\n<li>Interest in developing trading strategies</li>\n</ul>\n<h3><strong>Desirable Attributes:</strong></h3>\n<ul>\n<li>Experience of working with large datasets</li>\n<li>Experience of working with statistical or numerical programming tools (Python, Jupyter etc.) </li>\n<li>Database querying knowledge (PostgreSQL)</li>\n<li>Research-level working in econometrics, machine learning, statistics or mathematics</li>\n<li>Experience in sports betting</li>\n<li>Professional software development experience</li>\n</ul>\n\n<p><strong>About Smarkets</strong></p>\n\n<p>We&#39;ve built one of the world&#39;s largest betting exchanges with significantly better odds than the competition. Our strength is technology and trading with a passion to push the known boundaries of real-time financial technology. With our self-management structure and flexible work environment, Smarkets offers a unique opportunity to be part of a great work culture. Our office in St Katharine’s Docks (Tower Hill) comes complete with a fantastic roof terrace and a team of in-house chefs cooking breakfast and lunch every day. Food is big at Smarkets, and lunch al’desko is officially banned.</p>\n<h3><strong>Notes</strong></h3>\n<p>We transfer and store the information you submit to help us process your application and to make our hiring process better. We also make use of third-party hiring tools to help us process applications. As we are based in both Europe and the United States, your data may leave the European Economic Area when we process it. Please only submit your application if you are happy for us to use your information in this way.</p>\n\n<p>Smarkets is an equal opportunities employer and takes active steps to prevent bias and discrimination in our interview process. We are committed to equal employment opportunity regardless of race, religion, sex, sexual orientation, age, marital status, disability or gender identity.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Lead Recruiter",
+        "role": "Employee",
+        "url": "https://angel.co/u/emma-gillman-1",
+        "name": "Emma Gillman",
+        "avatar": "https://photos.angel.co/users/7373299-medium_jpg?1523268102"
+      },
+      "refs": {
+        "angelListId": "423153",
+        "angelListUrl": "https://angel.co/company/smarkets/jobs/423153-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Quantitative Developer",
+      "description": "### About Smarkets\n\nThe Smarkets exchange is a multi-billion pound trading platform with a rapidly growing ecosystem of sophisticated users who apply financial trading techniques to the world of betting. We’re looking for a Quantitative Developer to join our Market Making group.\n\nOur stack is consists of dockerized applications deployed on AWS. Our code is mostly Python with Rust used for performance critical components. We embrace the modern devops culture, practising continuous integration and deploying to production multiple times a day.\n\nAn Example project for the team:\n\n*\"We are pricing lots of football leagues, some of which we know nothing about.  There is a nice market making algorithm to price them, and reacts to trades in a way that is consistent across various markets (match winner, both teams to score, over/under etc.). I worked on a project to implement this algorithm in a proper way, starting from a \"back of the envelope\" prototype of it.*\n\n*The work involved reading a mathematical paper about the algorithm, finding problems with the initial implementation and rewriting a large portion it to use faster data structures.  Both of us wrote code, studied the theory, and analysed the speed and profitability of the algorithm in production. If an outsider looked at us working together, they wouldn't know who is the quant and who is the engineer.*\n\n*An interesting part of the project was changing a data structure from dictionary to a Numpy array, which allowed us to change a summation in a nested loop into a single matrix multiplication. This made the code much simpler and faster.\"* \n\n### Responsibilities\n\nWe are looking for a Quant Developer who will be working on the following key areas for the team:\n\n- Implementing, backtesting, shipping and monitoring data-based algorithms\n- Improving our technical and fundamental market models\n- Working to analyse market patterns\n- Defining your role in the context of self management (we'll help you with this)\n\n### Requirements\n\n- Bachelor's degree in Computer Science, Mathematics, Physics or similar STEM subject.\n- 2 years or more experience in building quantitatively driven applications\n- Some knowledge in statistics, econometrics or statistical learning\n- Strong coding, being able to write efficient and performant code in any OO or Functional language\n- Database querying knowledge (PostgreSQL)\n\n### Desirable attributes\n\n- Experience working in a trading environment\n- Functional programming experience\n\n### Perks\n\n- Flexible and collaborative work environment\n- Daily catered meals (breakfast, lunch and dinner), free drinks and food all day, parties on a frequent basis\n- Work with one of Europe’s smartest workforces\n\n### Compensation Guidance\n\nInitial salary will be determined by peer review from candidate profile, experience, market rate and interview performance.\n\nThis is a full-time job based at our office in Tower Hill, London.\n\nWe transfer and store the information you submit to help us process your application and to make our hiring process better. We also make use of third-party hiring tools to help us process applications. As we are based in both Europe and the United States, your data may leave the European Economic Area when we process it. Please only submit your application if you are happy for us to use your information in this way.\n\nSmarkets is an equal opportunities employer and takes active steps to prevent bias and discrimination in our interview process. We are committed to equal employment opportunity regardless of race, religion, sex, sexual orientation, age, marital status, disability or gender identity.\n\n",
+      "descriptionHtml": "<h3>About Smarkets</h3>\n<p>The Smarkets exchange is a multi-billion pound trading platform with a rapidly growing ecosystem of sophisticated users who apply financial trading techniques to the world of betting. We’re looking for a Quantitative Developer to join our Market Making group.</p>\n\n<p>Our stack is consists of dockerized applications deployed on AWS. Our code is mostly Python with Rust used for performance critical components. We embrace the modern devops culture, practising continuous integration and deploying to production multiple times a day.</p>\n\n<p>An Example project for the team:</p>\n\n<p><em>&quot;We are pricing lots of football leagues, some of which we know nothing about.  There is a nice market making algorithm to price them, and reacts to trades in a way that is consistent across various markets (match winner, both teams to score, over/under etc.). I worked on a project to implement this algorithm in a proper way, starting from a &quot;back of the envelope&quot; prototype of it.</em></p>\n\n<p><em>The work involved reading a mathematical paper about the algorithm, finding problems with the initial implementation and rewriting a large portion it to use faster data structures.  Both of us wrote code, studied the theory, and analysed the speed and profitability of the algorithm in production. If an outsider looked at us working together, they wouldn&#39;t know who is the quant and who is the engineer.</em></p>\n\n<p><em>An interesting part of the project was changing a data structure from dictionary to a Numpy array, which allowed us to change a summation in a nested loop into a single matrix multiplication. This made the code much simpler and faster.&quot;</em> </p>\n<h3>Responsibilities</h3>\n<p>We are looking for a Quant Developer who will be working on the following key areas for the team:</p>\n\n<ul>\n<li>Implementing, backtesting, shipping and monitoring data-based algorithms</li>\n<li>Improving our technical and fundamental market models</li>\n<li>Working to analyse market patterns</li>\n<li>Defining your role in the context of self management (we&#39;ll help you with this)</li>\n</ul>\n<h3>Requirements</h3>\n<ul>\n<li>Bachelor&#39;s degree in Computer Science, Mathematics, Physics or similar STEM subject.</li>\n<li>2 years or more experience in building quantitatively driven applications</li>\n<li>Some knowledge in statistics, econometrics or statistical learning</li>\n<li>Strong coding, being able to write efficient and performant code in any OO or Functional language</li>\n<li>Database querying knowledge (PostgreSQL)</li>\n</ul>\n<h3>Desirable attributes</h3>\n<ul>\n<li>Experience working in a trading environment</li>\n<li>Functional programming experience</li>\n</ul>\n<h3>Perks</h3>\n<ul>\n<li>Flexible and collaborative work environment</li>\n<li>Daily catered meals (breakfast, lunch and dinner), free drinks and food all day, parties on a frequent basis</li>\n<li>Work with one of Europe’s smartest workforces</li>\n</ul>\n<h3>Compensation Guidance</h3>\n<p>Initial salary will be determined by peer review from candidate profile, experience, market rate and interview performance.</p>\n\n<p>This is a full-time job based at our office in Tower Hill, London.</p>\n\n<p>We transfer and store the information you submit to help us process your application and to make our hiring process better. We also make use of third-party hiring tools to help us process applications. As we are based in both Europe and the United States, your data may leave the European Economic Area when we process it. Please only submit your application if you are happy for us to use your information in this way.</p>\n\n<p>Smarkets is an equal opportunities employer and takes active steps to prevent bias and discrimination in our interview process. We are committed to equal employment opportunity regardless of race, religion, sex, sexual orientation, age, marital status, disability or gender identity.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Board Member",
+        "url": "https://angel.co/u/jason-trost",
+        "name": "Jason Trost",
+        "avatar": "https://photos.angel.co/users/10916-medium_jpg?1508533950"
+      },
+      "refs": {
+        "angelListId": "692024",
+        "angelListUrl": "https://angel.co/company/smarkets/jobs/692024-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Mobile Engineer",
+      "description": " **About the Role**\n\nEngineers in the Mobile team are responsible for managing the Android and iOS apps. The two key areas of focus of the team are product and performance. On the product side we are creating new, more advanced features like event visualisation, charts, and trading oriented tools. Whilst on the performance side a betting exchange handles a lot of real-time data, so the mobile applications are much more complex than a typical app - we are aiming to simplify and speed up where possible.\n\n**About You**\n\n- You have a Bachelors in Computer Science or equivalent experience, which has given you a good understanding of software design, data structures, and algorithms\n- You have worked on a complex app with a large user base\n- You are familiar with React Native\n- You enjoy collaborating with other engineers, data scientists and non-technical members of staff to bring new product ideas to life\n- You have a passion for UI/UX\n\n**Our Culture**\n\nSmarkets brings a professional approach to the sports betting world which has allowed us to create one of the most sophisticated products in the industry. We embrace collaboration and our culture of trust, innovation, and scientific rigour has enabled us to grow to where we are today. Our people have a large impact on the product - be it changing the direction of our technical stack or pushing new features - you’ll be key in driving Smarkets forward.\n\nOur culture is built on the principles of self-management and rewards people on merit and excellence, avoiding the bureaucracy of pyramid management. Ultimately we are a group of like-minded individuals who enjoy learning, playing, and eating the excellent meals provided by the chefs!\n\n",
+      "descriptionHtml": "<p><strong>About the Role</strong></p>\n\n<p>Engineers in the Mobile team are responsible for managing the Android and iOS apps. The two key areas of focus of the team are product and performance. On the product side we are creating new, more advanced features like event visualisation, charts, and trading oriented tools. Whilst on the performance side a betting exchange handles a lot of real-time data, so the mobile applications are much more complex than a typical app - we are aiming to simplify and speed up where possible.</p>\n\n<p><strong>About You</strong></p>\n\n<ul>\n<li>You have a Bachelors in Computer Science or equivalent experience, which has given you a good understanding of software design, data structures, and algorithms</li>\n<li>You have worked on a complex app with a large user base</li>\n<li>You are familiar with React Native</li>\n<li>You enjoy collaborating with other engineers, data scientists and non-technical members of staff to bring new product ideas to life</li>\n<li>You have a passion for UI/UX</li>\n</ul>\n\n<p><strong>Our Culture</strong></p>\n\n<p>Smarkets brings a professional approach to the sports betting world which has allowed us to create one of the most sophisticated products in the industry. We embrace collaboration and our culture of trust, innovation, and scientific rigour has enabled us to grow to where we are today. Our people have a large impact on the product - be it changing the direction of our technical stack or pushing new features - you’ll be key in driving Smarkets forward.</p>\n\n<p>Our culture is built on the principles of self-management and rewards people on merit and excellence, avoiding the bureaucracy of pyramid management. Ultimately we are a group of like-minded individuals who enjoy learning, playing, and eating the excellent meals provided by the chefs!</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Board Member",
+        "url": "https://angel.co/u/jason-trost",
+        "name": "Jason Trost",
+        "avatar": "https://photos.angel.co/users/10916-medium_jpg?1508533950"
+      },
+      "refs": {
+        "angelListId": "722304",
+        "angelListUrl": "https://angel.co/company/smarkets/jobs/722304-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Platform Engineer",
+      "description": "### About Smarkets\n\nThe Smarkets exchange is a multi-billion pound trading platform with a rapidly growing ecosystem of sophisticated users who apply financial trading techniques to the world of betting. We’re looking for a Lead Platform Engineer to join our Market Making group.\n\nOur stack is consists of dockerized applications deployed on AWS. Our code is mostly Python with Rust used for performance critical components. We embrace the modern devops culture, practising continuous integration and deploying to production multiple times a day.\n\nThe Platform team look after the core infrastructure for the market making application here at Smarkets, this includes everything from Kubernetes and AWS infra through to low-latency order gateways written in rust for various exchanges. The team allow the trading teams ideas to come to life and in our technology driven trading environment the team is key to our continued success.\n\n### Responsibilities\n\nWe are looking for a Senior Platform Engineer who will be working on the following key areas for the team:\n\n- Ownership of platform microservices\n- Liaise with the pricing team to understand technical requirements\n- Closely work with infrastructure engineers to develop and improve tools for better development and deployment (CI & CD)\n- Re-engineer or refactor existing code in order to improve performance and maintain a current codebase\n\n### Requirements\n\n- Bachelor's degree in Computer Science, Mathematics, Physics or similar STEM subject.\n- 5+ years or more experience\n- Knowledge of both infrastructure and development.\n- Strong coding, being able to write efficient and performant code in any OO or Functional language (we use Python and Rust)\n- Relational database knowledge (we use PostgreSQL)\n\n### Desirable attributes\n\n- Linux Engineering / DevOps background\n- Experience in leading a team of software engineers\n- Kubernetes & Docker knowledge \n- Cloud platforms such as AWS and GCP\n- Knowledge of streaming services such as Kafka and Redis\n- Interest in writing low latency code\n\n### Perks\n\n- Ownership\n- Flexible and collaborative work environment\n- 25 days holiday + bank holidays\n- Daily catered meals (breakfast, lunch and dinner), free drinks and food all day, parties on a frequent basis\n- Work with one of Europe’s smartest workforces\n\n### Compensation Guidancea\n\nInitial salary will be determined by peer review from candidate profile, experience, market rate and interview performance.\n\nThis is a full-time job based at our office in Tower Hill, London.\n\nWe transfer and store the information you submit to help us process your application and to make our hiring process better. We also make use of third-party hiring tools to help us process applications. As we are based in both Europe and the United States, your data may leave the European Economic Area when we process it. Please only submit your application if you are happy for us to use your information in this way.\n\nSmarkets is an equal opportunities employer and takes active steps to prevent bias and discrimination in our interview process. We are committed to equal employment opportunity regardless of race, religion, sex, sexual orientation, age, marital status, disability or gender identity.\n\n",
+      "descriptionHtml": "<h3>About Smarkets</h3>\n<p>The Smarkets exchange is a multi-billion pound trading platform with a rapidly growing ecosystem of sophisticated users who apply financial trading techniques to the world of betting. We’re looking for a Lead Platform Engineer to join our Market Making group.</p>\n\n<p>Our stack is consists of dockerized applications deployed on AWS. Our code is mostly Python with Rust used for performance critical components. We embrace the modern devops culture, practising continuous integration and deploying to production multiple times a day.</p>\n\n<p>The Platform team look after the core infrastructure for the market making application here at Smarkets, this includes everything from Kubernetes and AWS infra through to low-latency order gateways written in rust for various exchanges. The team allow the trading teams ideas to come to life and in our technology driven trading environment the team is key to our continued success.</p>\n<h3>Responsibilities</h3>\n<p>We are looking for a Senior Platform Engineer who will be working on the following key areas for the team:</p>\n\n<ul>\n<li>Ownership of platform microservices</li>\n<li>Liaise with the pricing team to understand technical requirements</li>\n<li>Closely work with infrastructure engineers to develop and improve tools for better development and deployment (CI &amp; CD)</li>\n<li>Re-engineer or refactor existing code in order to improve performance and maintain a current codebase</li>\n</ul>\n<h3>Requirements</h3>\n<ul>\n<li>Bachelor&#39;s degree in Computer Science, Mathematics, Physics or similar STEM subject.</li>\n<li>5+ years or more experience</li>\n<li>Knowledge of both infrastructure and development.</li>\n<li>Strong coding, being able to write efficient and performant code in any OO or Functional language (we use Python and Rust)</li>\n<li>Relational database knowledge (we use PostgreSQL)</li>\n</ul>\n<h3>Desirable attributes</h3>\n<ul>\n<li>Linux Engineering / DevOps background</li>\n<li>Experience in leading a team of software engineers</li>\n<li>Kubernetes &amp; Docker knowledge </li>\n<li>Cloud platforms such as AWS and GCP</li>\n<li>Knowledge of streaming services such as Kafka and Redis</li>\n<li>Interest in writing low latency code</li>\n</ul>\n<h3>Perks</h3>\n<ul>\n<li>Ownership</li>\n<li>Flexible and collaborative work environment</li>\n<li>25 days holiday + bank holidays</li>\n<li>Daily catered meals (breakfast, lunch and dinner), free drinks and food all day, parties on a frequent basis</li>\n<li>Work with one of Europe’s smartest workforces</li>\n</ul>\n<h3>Compensation Guidancea</h3>\n<p>Initial salary will be determined by peer review from candidate profile, experience, market rate and interview performance.</p>\n\n<p>This is a full-time job based at our office in Tower Hill, London.</p>\n\n<p>We transfer and store the information you submit to help us process your application and to make our hiring process better. We also make use of third-party hiring tools to help us process applications. As we are based in both Europe and the United States, your data may leave the European Economic Area when we process it. Please only submit your application if you are happy for us to use your information in this way.</p>\n\n<p>Smarkets is an equal opportunities employer and takes active steps to prevent bias and discrimination in our interview process. We are committed to equal employment opportunity regardless of race, religion, sex, sexual orientation, age, marital status, disability or gender identity.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Board Member",
+        "url": "https://angel.co/u/jason-trost",
+        "name": "Jason Trost",
+        "avatar": "https://photos.angel.co/users/10916-medium_jpg?1508533950"
+      },
+      "refs": {
+        "angelListId": "692025",
+        "angelListUrl": "https://angel.co/company/smarkets/jobs/692025-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior React Engineer",
+      "description": " **About the Role**\n\nEngineers in the frontend team are responsible for managing the website, Android and iOS apps. We’re split into two sub teams of website and apps, however everyone can work on both of these projects thanks to the similarity of the syntax of React and React Native. \n\nThe two key areas of focus of the team are product and performance. On the product side we are creating new, more advanced features like event visualisation, charts, and trading oriented tools. Whilst on the performance side a betting exchange handles a lot of real time data, so the front-end applications are much more complex than a simple website - we are aiming to simplify and speed up where possible.\n\n**About You**\n\n- You have a Bachelors in Computer Science or equivalent experience, which has given you a good understanding of software design, data structures, and algorithms\n- You have worked on a complex site with a large user base\n- You are familiar with React or React Native\n- You enjoy collaborating with other engineers, data scientists and non-technical members of staff to bring new product ideas to life\n- You have a passion for UI/UX\n\n**Our Culture**\n\nSmarkets brings a professional approach to the sports betting world which has allowed us to create one of the most sophisticated products in the industry. We embrace collaboration and our culture of trust, innovation, and scientific rigour has enabled us to grow to where we are today. Our people have a large impact on the product - be it changing the direction of our technical stack or pushing new features - you’ll be key in driving Smarkets forward.\n\nOur culture is built on the principles of self-management and rewards people on merit and excellence, avoiding the bureaucracy of pyramid management. Ultimately we are a group of like-minded individuals who enjoy learning, playing, and eating the excellent meals provided by the chefs!\n\n",
+      "descriptionHtml": "<p><strong>About the Role</strong></p>\n\n<p>Engineers in the frontend team are responsible for managing the website, Android and iOS apps. We’re split into two sub teams of website and apps, however everyone can work on both of these projects thanks to the similarity of the syntax of React and React Native. </p>\n\n<p>The two key areas of focus of the team are product and performance. On the product side we are creating new, more advanced features like event visualisation, charts, and trading oriented tools. Whilst on the performance side a betting exchange handles a lot of real time data, so the front-end applications are much more complex than a simple website - we are aiming to simplify and speed up where possible.</p>\n\n<p><strong>About You</strong></p>\n\n<ul>\n<li>You have a Bachelors in Computer Science or equivalent experience, which has given you a good understanding of software design, data structures, and algorithms</li>\n<li>You have worked on a complex site with a large user base</li>\n<li>You are familiar with React or React Native</li>\n<li>You enjoy collaborating with other engineers, data scientists and non-technical members of staff to bring new product ideas to life</li>\n<li>You have a passion for UI/UX</li>\n</ul>\n\n<p><strong>Our Culture</strong></p>\n\n<p>Smarkets brings a professional approach to the sports betting world which has allowed us to create one of the most sophisticated products in the industry. We embrace collaboration and our culture of trust, innovation, and scientific rigour has enabled us to grow to where we are today. Our people have a large impact on the product - be it changing the direction of our technical stack or pushing new features - you’ll be key in driving Smarkets forward.</p>\n\n<p>Our culture is built on the principles of self-management and rewards people on merit and excellence, avoiding the bureaucracy of pyramid management. Ultimately we are a group of like-minded individuals who enjoy learning, playing, and eating the excellent meals provided by the chefs!</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£50k – £110k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/chris-phillips-26",
+        "name": "Chris Phillips",
+        "avatar": "https://photos.angel.co/users/8081739-medium_jpg?1531906659"
+      },
+      "refs": {
+        "angelListId": "457762",
+        "angelListUrl": "https://angel.co/company/smarkets/jobs/457762-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Technical Project Manager",
+      "description": " **About the Role**\n\nThe role will be focused on implementing the software road-map that the business needs to hit for international expansion. You will be orchestrating the delivery of our engineering teams across Smarkets which includes everything from the front-end to the infrastructure. This will involve a lot of focus on making the engineering staff more effective by clarifying and documenting scope as well as keeping them focused on the roadmap.\n\nThere will be a large element of stakeholder management when roadmaps are being created to ensure the delivery happens as planned. This will include both work with the C-Suite and also discussing the technical details with the team leads and engineers.\n\n**About you**\n\n- You will have a background in technical delivery (Tech Lead, Dev Manager, Delivery Lead, Technical PM etc.) and enjoy managing talented engineers to deliver world class software.\n- You enjoy working with multiple development teams to ensure delivery of customer facing products.\n- Ideally you would have worked in environments utilising some or all of our tech stack (Kubernetes, Python, C++, React & Postgres).\n- You enjoy being involved in all aspects of projects you work on and you typically find you add value across the different teams that are involved.\n\n**Our Culture**\n\nSmarkets brings a professional approach to the sports betting world which has allowed us to create one of the most sophisticated products in the industry. We embrace collaboration and our culture of trust, innovation, and scientific rigour has enabled us to grow to where we are today. Our people have a large impact on the product - be it changing the direction of our technical stack or pushing new features - you’ll be key in driving Smarkets forward.\n\nOur culture is built on the principles of self-management and rewards people on merit and excellence, avoiding the bureaucracy of pyramid management. Ultimately we are a group of like-minded individuals who enjoy learning, playing, and eating the excellent meals provided by the chefs!\n\n",
+      "descriptionHtml": "<p><strong>About the Role</strong></p>\n\n<p>The role will be focused on implementing the software road-map that the business needs to hit for international expansion. You will be orchestrating the delivery of our engineering teams across Smarkets which includes everything from the front-end to the infrastructure. This will involve a lot of focus on making the engineering staff more effective by clarifying and documenting scope as well as keeping them focused on the roadmap.</p>\n\n<p>There will be a large element of stakeholder management when roadmaps are being created to ensure the delivery happens as planned. This will include both work with the C-Suite and also discussing the technical details with the team leads and engineers.</p>\n\n<p><strong>About you</strong></p>\n\n<ul>\n<li>You will have a background in technical delivery (Tech Lead, Dev Manager, Delivery Lead, Technical PM etc.) and enjoy managing talented engineers to deliver world class software.</li>\n<li>You enjoy working with multiple development teams to ensure delivery of customer facing products.</li>\n<li>Ideally you would have worked in environments utilising some or all of our tech stack (Kubernetes, Python, C++, React &amp; Postgres).</li>\n<li>You enjoy being involved in all aspects of projects you work on and you typically find you add value across the different teams that are involved.</li>\n</ul>\n\n<p><strong>Our Culture</strong></p>\n\n<p>Smarkets brings a professional approach to the sports betting world which has allowed us to create one of the most sophisticated products in the industry. We embrace collaboration and our culture of trust, innovation, and scientific rigour has enabled us to grow to where we are today. Our people have a large impact on the product - be it changing the direction of our technical stack or pushing new features - you’ll be key in driving Smarkets forward.</p>\n\n<p>Our culture is built on the principles of self-management and rewards people on merit and excellence, avoiding the bureaucracy of pyramid management. Ultimately we are a group of like-minded individuals who enjoy learning, playing, and eating the excellent meals provided by the chefs!</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Technical hiring and operations",
+        "role": "Employee",
+        "url": "https://angel.co/u/celine-crawford-1",
+        "name": "Celine Crawford",
+        "avatar": "https://photos.angel.co/users/1730423-medium_jpg?1447943075"
+      },
+      "refs": {
+        "angelListId": "722305",
+        "angelListUrl": "https://angel.co/company/smarkets/jobs/722305-"
+      }
+    }
+  ]
+}

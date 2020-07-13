@@ -1,0 +1,488 @@
+{
+  "name": "The Cirqle",
+  "avatar": "https://photos.angel.co/startups/i/339577-45e17f6de473cd0e029946925bcc18d5-medium_jpg.jpg?buster=1574410310",
+  "slogan": "The only Influencer Marketing Platfrom that can tie Engagement to Sales",
+  "description": "The Cirqle is a cloud-based software platform allowing agencies and brands to manage, monitor and measure real-time, scaleable cross-border influencer campaigns. Our platform provides clients with key insights on their talent’s social performance, whilst allowing OAuth verified Influencers and agencies to easily create beautiful influencer campaigns with trackability to off-and-online sales.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.thecirqle.com"
+    },
+    {
+      "type": "blog",
+      "url": "http://blog.thecirqle.com"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/hicirqle"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/hicirqle"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/5140018?trk=prof-exp-company-name"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "Amsterdam",
+    "New York City",
+    "London"
+  ],
+  "marketTags": [
+    "E-Commerce",
+    "Social Media Marketing",
+    "PaaS"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 1050000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1456790400,
+        "valuation": 5000000
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1425168000,
+        "valuation": 2000000
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1388534400,
+        "valuation": 1000000
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/daan-nederlof-brevoli-com",
+      "name": "Daan Nederlof",
+      "avatar": "https://photos.angel.co/users/557766-medium_jpg?1405675891",
+      "bioHtml": "www.brevoli.com"
+    },
+    {
+      "title": "Founder & CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/steven-thecirqle-com",
+      "name": "Steven Lammertink",
+      "avatar": "https://photos.angel.co/users/457018-medium_jpg?1574411921",
+      "bioHtml": "Founder of The Cirqle • Self taught designer • Visiting scholar at <a href=\"https://angel.co/company/adobe\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Adobe</span></a> Systems • Kauffman Global Scholar • Digital at Salle Privee"
+    },
+    {
+      "title": "Chief Product Officer",
+      "role": "Employee",
+      "url": "https://angel.co/u/jelle-van-de-velde-1",
+      "name": "Jelle Van de Velde",
+      "avatar": "https://photos.angel.co/users/6860714-medium_jpg?1510956994",
+      "bioHtml": "Doctorate in Human-Computer Interaction. Taking product design from inception &amp; design to production ready code. Thrive in a fast-paced environment."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/sterre-kruize-1",
+      "name": "Sterre Kruize",
+      "avatar": "https://photos.angel.co/users/8297059-medium_jpg?1535701349",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/anju-madan",
+      "name": "Anju Madan",
+      "avatar": "https://photos.angel.co/users/4670163-medium_jpg?1477380222",
+      "bioHtml": "Head of EU and Asian Partnerships at Thecirqle.com"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "339577",
+    "angelListUrl": "https://angel.co/company/cirqle-3"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Graduates & Interns",
+      "description": null,
+      "descriptionHtml": "",
+      "position": "internship",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "Amsterdam"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Business Development",
+        "User Experience Design",
+        "Product Development",
+        "PhantomJS"
+      ],
+      "payment": {
+        "salary": "$1k – $2k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Board Member",
+        "url": "https://angel.co/u/steven-thecirqle-com",
+        "name": "Steven Lammertink",
+        "avatar": "https://photos.angel.co/users/457018-medium_jpg?1574411921"
+      },
+      "refs": {
+        "angelListId": "25575",
+        "angelListUrl": "https://angel.co/company/cirqle-3/jobs/25575-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Full-stack Developer",
+      "description": null,
+      "descriptionHtml": "",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "Amsterdam"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Rapid Prototyping",
+        "User Interface Design",
+        "AngularJS"
+      ],
+      "payment": {
+        "salary": "$40k – $60k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Board Member",
+        "url": "https://angel.co/u/steven-thecirqle-com",
+        "name": "Steven Lammertink",
+        "avatar": "https://photos.angel.co/users/457018-medium_jpg?1574411921"
+      },
+      "refs": {
+        "angelListId": "30040",
+        "angelListUrl": "https://angel.co/company/cirqle-3/jobs/30040-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Frontend engineer",
+      "description": "Our customer-facing web applications are build using Vue.js and talk to an Node.js backend layer. We have implemented a product that is already used by a great number of users, but our plans expand way beyond that. Our ideal frontend engineer will be expected to develop these applications further, with a good deal of freedom in his or her choices of technology and architecture. \n\nWhat you will do\nCreate functional, intuitive and responsive, cross-browser experiences\nDesign, build and maintain efficient, reusable, and reliable JavaScript code\nBe involved with new features and products, start to finish\n\nQualifications\n2+ years of experience in a relevant role, preferably in a commercial environment\nExcellent knowledge of HTML/(S)CSS, Javascript (ES6), and at least one SPA framework, preferably Vue.js\nYou know how to structure your (S)CSS with BEM or another methodology\nExperience with responsive website design and development\nExperience implementing (Node.js) API's in the front end\nExperience with templating languages\nAbility to write high-performance, reusable code\nA good understanding of cross-browser compatibility issues and experience troubleshooting them\nKnowledge of version control systems\nKeen eye for good visual design\n\nBonus points\nExperience with testing frameworks\nExperience with data-driven product development: analytics, A/B testing, etcYou will be part of full product development life cycle – requirements, development and maintenance",
+      "descriptionHtml": "<p>Our customer-facing web applications are build using Vue.js and talk to an Node.js backend layer. We have implemented a product that is already used by a great number of users, but our plans expand way beyond that. Our ideal frontend engineer will be expected to develop these applications further, with a good deal of freedom in his or her choices of technology and architecture. </p>\n\n<p>What you will do<br>\nCreate functional, intuitive and responsive, cross-browser experiences<br>\nDesign, build and maintain efficient, reusable, and reliable JavaScript code<br>\nBe involved with new features and products, start to finish</p>\n\n<p>Qualifications<br>\n2+ years of experience in a relevant role, preferably in a commercial environment<br>\nExcellent knowledge of HTML/(S)CSS, Javascript (ES6), and at least one SPA framework, preferably Vue.js<br>\nYou know how to structure your (S)CSS with BEM or another methodology<br>\nExperience with responsive website design and development<br>\nExperience implementing (Node.js) API&#39;s in the front end<br>\nExperience with templating languages<br>\nAbility to write high-performance, reusable code<br>\nA good understanding of cross-browser compatibility issues and experience troubleshooting them<br>\nKnowledge of version control systems<br>\nKeen eye for good visual design</p>\n\n<p>Bonus points<br>\nExperience with testing frameworks<br>\nExperience with data-driven product development: analytics, A/B testing, etcYou will be part of full product development life cycle – requirements, development and maintenance</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "Amsterdam"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "SCSS / SASS",
+        "React.js",
+        "Vue.Js",
+        "Webpack",
+        "ReactJS"
+      ],
+      "payment": {
+        "salary": "$40k – $55k",
+        "equity": "0.01% – 0.02%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Board Member",
+        "url": "https://angel.co/u/steven-thecirqle-com",
+        "name": "Steven Lammertink",
+        "avatar": "https://photos.angel.co/users/457018-medium_jpg?1574411921"
+      },
+      "refs": {
+        "angelListId": "38156",
+        "angelListUrl": "https://angel.co/company/cirqle-3/jobs/38156-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Data scientist",
+      "description": null,
+      "descriptionHtml": "",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Amsterdam"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Machine Learning",
+        "Data Analysis",
+        "Big Data",
+        "Data Science"
+      ],
+      "payment": {
+        "salary": "$30k – $50k",
+        "equity": "0.1% – 0.2%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Board Member",
+        "url": "https://angel.co/u/steven-thecirqle-com",
+        "name": "Steven Lammertink",
+        "avatar": "https://photos.angel.co/users/457018-medium_jpg?1574411921"
+      },
+      "refs": {
+        "angelListId": "64256",
+        "angelListUrl": "https://angel.co/company/cirqle-3/jobs/64256-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "Senior UX Designer",
+      "description": "The Cirqle is looking for a highly talented UX designer to elevate the digital experience for all our customers. You’ll lead prototyping and designing effort and develop visually compelling user experiences that deal with complex data.\n\nOur ideal lead UX Designer guarantees that it is a joy for influencers, brands and agencies to interact and engage with our product. Our platform enables i) influencers to track growth and join campaigns ii) brands to harness data-driven decisions to work with influencers and iii) agencies to help scale campaigns across multiple countries and account managers .\n\nYou’ll be able to design visually brilliant and inspiring products that embody a clean and polished UI that in all its elegance, becomes the industry standard. Understanding that there is a fine balance between creativity and data/insights is key; but presenting this to our clients in a clear-cut way is even more important.\n\nNot only do you have a great sense of design, you also have an intuitive sense for how to elevate digital experiences that people love. One of your main responsibilities will be to design for conversion and figure out what works in the future of digital commerce and how the crossroads of on- and offline work together. User-centered design comes natural to you.\n\nThe position is fulltime and directly available.\n\nAbout the role:\nYou will be involved in the entire online development as lead designer in our tech team, from conceptualising new ideas to testing your designs with real customers and elevating existing designs. Our digital team is multidisciplinary with developers, data-scientists, marketers and analysts. At The Cirqle we fundamentally lead the industry by rapidly developing products in a fast pace and with tremendous impact. You feel comfortable in this type of environment. You get things done in an iterative design process of days or weeks instead of months.\n\nYou'll be…\nElevate our current product suite driven by creativity, data and user insights\nImproving stickiness of our product by running tests via a continuous improvement cycle\nManaging structured usability research to get client insights\nTranslating research into prototypes and implementing them in our design system\nMonitoring the customer conversion paths across the website\n\nAbout you:\nYou love design and know how to express your passion\nYou have a positive attitude, an open mind and a desire to collaborate\nYou are on the strategic side of digital design, but understand what visually works\nYou have designed online products and apps for mobile, tablet and laptop in the past\nYou get excited about finding out what the intersection of online ad campaigns and offline ROI means\nYou don't think of design in isolation; it's part of an entire customer experience.\nYou care about our clients and take pride in your work\nYou are able to function independently and set direction\nEssential skills and experience:\nStrong and proven track record working in digital design (at least 4+ years of experience)\nExperienced in designing customer journeys, flowcharts, wireframes and information architectures (service design thinking)\nExcellent communication skills (English) to clearly articulate your concepts and design decisions\nUnderstanding of usability research is required, experience in analytics and user interview is a plus\nMastery of relevant tools; Sketch, InVision, Omnigraffle, etc\n\nWe offer you\nThe chance to be part of a young, driven and ambitious team\nExperience how it is to work in a vibrant international scale-up company\nA lot of learning on the job and personal development\nA broad scope of responsibilities\nFree lunch and cool trips\nVondelgym right down the stairs",
+      "descriptionHtml": "<p>The Cirqle is looking for a highly talented UX designer to elevate the digital experience for all our customers. You’ll lead prototyping and designing effort and develop visually compelling user experiences that deal with complex data.</p>\n\n<p>Our ideal lead UX Designer guarantees that it is a joy for influencers, brands and agencies to interact and engage with our product. Our platform enables i) influencers to track growth and join campaigns ii) brands to harness data-driven decisions to work with influencers and iii) agencies to help scale campaigns across multiple countries and account managers .</p>\n\n<p>You’ll be able to design visually brilliant and inspiring products that embody a clean and polished UI that in all its elegance, becomes the industry standard. Understanding that there is a fine balance between creativity and data/insights is key; but presenting this to our clients in a clear-cut way is even more important.</p>\n\n<p>Not only do you have a great sense of design, you also have an intuitive sense for how to elevate digital experiences that people love. One of your main responsibilities will be to design for conversion and figure out what works in the future of digital commerce and how the crossroads of on- and offline work together. User-centered design comes natural to you.</p>\n\n<p>The position is fulltime and directly available.</p>\n\n<p>About the role:<br>\nYou will be involved in the entire online development as lead designer in our tech team, from conceptualising new ideas to testing your designs with real customers and elevating existing designs. Our digital team is multidisciplinary with developers, data-scientists, marketers and analysts. At The Cirqle we fundamentally lead the industry by rapidly developing products in a fast pace and with tremendous impact. You feel comfortable in this type of environment. You get things done in an iterative design process of days or weeks instead of months.</p>\n\n<p>You&#39;ll be…<br>\nElevate our current product suite driven by creativity, data and user insights<br>\nImproving stickiness of our product by running tests via a continuous improvement cycle<br>\nManaging structured usability research to get client insights<br>\nTranslating research into prototypes and implementing them in our design system<br>\nMonitoring the customer conversion paths across the website</p>\n\n<p>About you:<br>\nYou love design and know how to express your passion<br>\nYou have a positive attitude, an open mind and a desire to collaborate<br>\nYou are on the strategic side of digital design, but understand what visually works<br>\nYou have designed online products and apps for mobile, tablet and laptop in the past<br>\nYou get excited about finding out what the intersection of online ad campaigns and offline ROI means<br>\nYou don&#39;t think of design in isolation; it&#39;s part of an entire customer experience.<br>\nYou care about our clients and take pride in your work<br>\nYou are able to function independently and set direction<br>\nEssential skills and experience:<br>\nStrong and proven track record working in digital design (at least 4+ years of experience)<br>\nExperienced in designing customer journeys, flowcharts, wireframes and information architectures (service design thinking)<br>\nExcellent communication skills (English) to clearly articulate your concepts and design decisions<br>\nUnderstanding of usability research is required, experience in analytics and user interview is a plus<br>\nMastery of relevant tools; Sketch, InVision, Omnigraffle, etc</p>\n\n<p>We offer you<br>\nThe chance to be part of a young, driven and ambitious team<br>\nExperience how it is to work in a vibrant international scale-up company<br>\nA lot of learning on the job and personal development<br>\nA broad scope of responsibilities<br>\nFree lunch and cool trips<br>\nVondelgym right down the stairs</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "Amsterdam"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Graphic Design",
+        "User Experience Design",
+        "Sketch"
+      ],
+      "payment": {
+        "salary": "€35k – €60k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Board Member",
+        "url": "https://angel.co/u/steven-thecirqle-com",
+        "name": "Steven Lammertink",
+        "avatar": "https://photos.angel.co/users/457018-medium_jpg?1574411921"
+      },
+      "refs": {
+        "angelListId": "264050",
+        "angelListUrl": "https://angel.co/company/cirqle-3/jobs/264050-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Business Developer (brands)",
+      "description": "Help grow the platform and bring on board more brands interested in the service.",
+      "descriptionHtml": "<p>Help grow the platform and bring on board more brands interested in the service.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "New York City",
+        "London",
+        "Shanghai"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Business Development",
+        "Networking",
+        "Sales"
+      ],
+      "payment": {
+        "salary": "$40k – $120k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Board Member",
+        "url": "https://angel.co/u/steven-thecirqle-com",
+        "name": "Steven Lammertink",
+        "avatar": "https://photos.angel.co/users/457018-medium_jpg?1574411921"
+      },
+      "refs": {
+        "angelListId": "304392",
+        "angelListUrl": "https://angel.co/company/cirqle-3/jobs/304392-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Accounts Manager",
+      "description": "About us:\n\nThe Cirqle is a hybrid technology company and Influencer Marketing Agency. We have a handpicked network of 40,000+ creators worldwide and we connect brands with the right influencers for marketing campaigns at scale. Our data-driven predictive platform empowers thousands of influencers — from bloggers and local creatives to celebrities shaping the world’s biggest and boldest social presence — to share their stories and create an impactful, stylish, and easy-to-manage campaign for renowned clients worldwide.\n\n\nWhat we'd like you to do: \n\n+ Be responsible for several (key) accounts at the same time\n+ Be responsible for the execution, management and quality control of multiple campaigns;\n+ Mentor trainees and junior team members\n+ Contribute to the idea generation process & development of new campaign concepts;\n+ Ensure optimal communication throughout the project team at all stages of the campaign;\n+ Contribute to ongoing improvements of internal processes and efficiency across the teams and project team members;\n+ Contribute to producing campaign assets and take the lead in on-set productions.\n\n\nCulture:\n\nTo us diversity contributes to innovation and opportunities. We have a very well balanced team in terms of gender and although our 2 leaders and founders are Dutch, the team is very international and we want to keep it this way. However, to us diversity is not just about gender and nationality. It means having a team made up of people coming from various walks of life imaginable.\n\nThe relationships in our team are based on mutual trust and openness. The office-vibe is friendly and our 2 un-common founders sing while walking through our cosy office. We are a very open-minded group of people BUT we don’t just welcome new ideas, we expect you to present them to us continuously in a very proactive way. \n\nOn the other hand, we have our culture targets. We are pointing our culture and transform it into one where people have super clear domains and responsibilities. We value feedback, but at the same time, we don’t believe in debating about things endlessly and want to transform our people-operational system into one where everyone have clear domains and responsibilities to enable speed and be ahead of the game",
+      "descriptionHtml": "<p>About us:</p>\n\n<p>The Cirqle is a hybrid technology company and Influencer Marketing Agency. We have a handpicked network of 40,000+ creators worldwide and we connect brands with the right influencers for marketing campaigns at scale. Our data-driven predictive platform empowers thousands of influencers — from bloggers and local creatives to celebrities shaping the world’s biggest and boldest social presence — to share their stories and create an impactful, stylish, and easy-to-manage campaign for renowned clients worldwide.</p>\n\n<p>What we&#39;d like you to do: </p>\n\n<ul>\n<li>Be responsible for several (key) accounts at the same time</li>\n<li>Be responsible for the execution, management and quality control of multiple campaigns;</li>\n<li>Mentor trainees and junior team members</li>\n<li>Contribute to the idea generation process &amp; development of new campaign concepts;</li>\n<li>Ensure optimal communication throughout the project team at all stages of the campaign;</li>\n<li>Contribute to ongoing improvements of internal processes and efficiency across the teams and project team members;</li>\n<li>Contribute to producing campaign assets and take the lead in on-set productions.</li>\n</ul>\n\n<p>Culture:</p>\n\n<p>To us diversity contributes to innovation and opportunities. We have a very well balanced team in terms of gender and although our 2 leaders and founders are Dutch, the team is very international and we want to keep it this way. However, to us diversity is not just about gender and nationality. It means having a team made up of people coming from various walks of life imaginable.</p>\n\n<p>The relationships in our team are based on mutual trust and openness. The office-vibe is friendly and our 2 un-common founders sing while walking through our cosy office. We are a very open-minded group of people BUT we don’t just welcome new ideas, we expect you to present them to us continuously in a very proactive way. </p>\n\n<p>On the other hand, we have our culture targets. We are pointing our culture and transform it into one where people have super clear domains and responsibilities. We value feedback, but at the same time, we don’t believe in debating about things endlessly and want to transform our people-operational system into one where everyone have clear domains and responsibilities to enable speed and be ahead of the game</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "Amsterdam"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Business Development",
+        "Customer Experience",
+        "Project Management",
+        "Marketing Management",
+        "Account Management"
+      ],
+      "payment": {
+        "salary": "€24k – €48k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Board Member",
+        "url": "https://angel.co/u/steven-thecirqle-com",
+        "name": "Steven Lammertink",
+        "avatar": "https://photos.angel.co/users/457018-medium_jpg?1574411921"
+      },
+      "refs": {
+        "angelListId": "470844",
+        "angelListUrl": "https://angel.co/company/cirqle-3/jobs/470844-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Internship Vacancy - Influencer Team",
+      "description": "You will be part of the Influencer Team, consisting out 3 full-timers and you’ll be working across the Sales Team, Campaign Management and of course the Influencer Team.\n\nSupport the Campaign & Sales Teams by sourcing and identifying key influencers, bloggers, and talent across various social platforms.\nMaintaining internal and external databases of influencers to ensure quality and up to date information, and identifying new ways to improve the cross-team workflow.\n\nCommunicate with Influencers about new campaigns, announcements of new features, blogs, and supporting the Influencer Resource Center.\n\n\nWho are we looking for?\n\n+ Someone who’s excited about online content and who is aware of all the latest social media trends.\n+ A student HBO or WO with an interest in Influencer Marketing, we are open to any field of study. \n+ We are looking for someone who speaks and writes English and at least one other language (preferred).\n+ Knowledge of Keynote & Google Docs\n+ Bonus for experience in\n+ Influencer Marketing\n+ Photoshop\n+ Sketch\n+ Squarespace\n+ AirTable\n+ CreateSend (by CampaignMonitor)\n+ Intercom\n\nPerks\n+ Work in a young, dynamic, and international team\n+ Work with international brands and well-known influencers\n+ Lunches provided daily\n+ Dedicated desk and external monitor screen\n+ Friday G&Ts",
+      "descriptionHtml": "<p>You will be part of the Influencer Team, consisting out 3 full-timers and you’ll be working across the Sales Team, Campaign Management and of course the Influencer Team.</p>\n\n<p>Support the Campaign &amp; Sales Teams by sourcing and identifying key influencers, bloggers, and talent across various social platforms.<br>\nMaintaining internal and external databases of influencers to ensure quality and up to date information, and identifying new ways to improve the cross-team workflow.</p>\n\n<p>Communicate with Influencers about new campaigns, announcements of new features, blogs, and supporting the Influencer Resource Center.</p>\n\n<p>Who are we looking for?</p>\n\n<ul>\n<li>Someone who’s excited about online content and who is aware of all the latest social media trends.</li>\n<li>A student HBO or WO with an interest in Influencer Marketing, we are open to any field of study. </li>\n<li>We are looking for someone who speaks and writes English and at least one other language (preferred).</li>\n<li>Knowledge of Keynote &amp; Google Docs</li>\n<li>Bonus for experience in</li>\n<li>Influencer Marketing</li>\n<li>Photoshop</li>\n<li>Sketch</li>\n<li>Squarespace</li>\n<li>AirTable</li>\n<li>CreateSend (by CampaignMonitor)</li>\n<li>Intercom</li>\n</ul>\n\n<p>Perks</p>\n\n<ul>\n<li>Work in a young, dynamic, and international team</li>\n<li>Work with international brands and well-known influencers</li>\n<li>Lunches provided daily</li>\n<li>Dedicated desk and external monitor screen</li>\n<li>Friday G&amp;Ts</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "Amsterdam"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "€500k – €500k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Board Member",
+        "url": "https://angel.co/u/steven-thecirqle-com",
+        "name": "Steven Lammertink",
+        "avatar": "https://photos.angel.co/users/457018-medium_jpg?1574411921"
+      },
+      "refs": {
+        "angelListId": "467811",
+        "angelListUrl": "https://angel.co/company/cirqle-3/jobs/467811-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Internship/trainee - Campaign management & Business Development",
+      "description": "You will play a supporting role in developing our presence in the APAC region. You will work directly with the Managing Director for Asia and you will collaborate with the executive team in Amsterdam and New York on a frequent basis. Your activities will be varied such as creating proposals, managing influencers, supporting regional campaigns, doing market research within China, Korea and South East Asia, reaching out to potential clients, planning travel itineraries, setting up and managing our local online presence etc.\n\nAre you positive minded and passionate about playing a crucial role in building a business in Asia. Are you excited to work within a vibrant and energetic team amongst multiple locations? Are you resourceful and are you disciplined enough to manage your own tasks well and on time? Then we want to meet with you!",
+      "descriptionHtml": "<p>You will play a supporting role in developing our presence in the APAC region. You will work directly with the Managing Director for Asia and you will collaborate with the executive team in Amsterdam and New York on a frequent basis. Your activities will be varied such as creating proposals, managing influencers, supporting regional campaigns, doing market research within China, Korea and South East Asia, reaching out to potential clients, planning travel itineraries, setting up and managing our local online presence etc.</p>\n\n<p>Are you positive minded and passionate about playing a crucial role in building a business in Asia. Are you excited to work within a vibrant and energetic team amongst multiple locations? Are you resourceful and are you disciplined enough to manage your own tasks well and on time? Then we want to meet with you!</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "Singapore",
+        "Amsterdam"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Executive Assistant"
+      ],
+      "payment": {
+        "salary": "$1k – $1k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Board Member",
+        "url": "https://angel.co/u/steven-thecirqle-com",
+        "name": "Steven Lammertink",
+        "avatar": "https://photos.angel.co/users/457018-medium_jpg?1574411921"
+      },
+      "refs": {
+        "angelListId": "312796",
+        "angelListUrl": "https://angel.co/company/cirqle-3/jobs/312796-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Leader - Head of Customer Succes",
+      "description": "About us:\nThe Cirqle is a cloud-based software platform allowing agencies and brands to manage, monitor and measure real-time, scaleable cross-border influencer campaigns. Our platform provides clients with key insights on their talent’s social performance, whilst allowing OAuth verified Influencers and agencies to easily create beautiful influencer campaigns with trackability to off-and-online sales. Via the Cirqle platform clients can Activate, Amplify and Attribute the campaign content: The Cirqle is the only platform that can tie engagement to sales.\n\nThe Cirqle maintains a diverse client base, mostly in the United States. Industry sectors include Hospitality, Cities, Restaurants, fashion, beauty and health (products). \n\nSome of our clients include:\nSubway, McDonald's, Samsung, Manchester City, Scotch & Soda, Swarovski, Barnes & Noble, NYC’s Garment District, Heineken & many more!\n\nOur culture:\nAt The Cirqle, as a team, we move fast and are full of initiative. We are organized, efficient, analytical thinkers and have the ability to multitask across various brands with a strong passion for social.\n\nAbout the role:\nAs a leader of the Customer Success Team, you will independently grow the team, manage and deepen the (team’s) relationships with key existing and new clients and lead by example to junior employees within the team. \nYou will drive and deliver our short and long term vision and strategy, with the aim of improving innovation and efficiency throughout. At the same time, you’ll be making sure our processes can scale up effortlessly, as we add more customers and happy users on-board. Next to that, you will maintain full overview across all campaigns using The Cirqles’ platform and also manage key clients and campaigns. \nYou will work closely with the sales and product teams to retain our clients and guard The Cirqles’ positioning as a premium, market-leading, tech-driven solution to influencer/social media marketing. This role comes with a high level of autonomy and leadership opportunity.\n\nExperience requirements:\nAnalytical mindset and experience, understanding reporting, digital performance metrics and capable of identifying marketing trends from data (The Cirqle platform and other tools).\nTeam manager and a Team player. Be a pillar for the team and guide the team and their personal development.\nExperience in or understanding of social media strategies working with platforms including Facebook Business Manager, Instagram Ads, Snap Ads, Twitter Ads, LinkedIn Campaign Manager. Knowledge of newer social platforms such as Tik Tok is a bonus.\nCapable of understanding client needs and opportunities to extend our services: making sure campaign plans are in line with their target audiences and marketing objectives.\nDisplaying a proactive approach to everything; we want you to contribute and show as much initiative as possible - ideas are always welcome, actions are even more so.\nStructuring programs and running timelines for campaigns, liaising with the team and clients directly, keeping everything on track and everyone informed.\nStrong commercial acumen with a willingness to sell-in commercial opportunities that are right for the client’s needs.\nStrong presentation skills. Ability to format presentations and structure emails clearly.\nProducing case studies - Analysing the client’s success and being able to formulate a case study.\nAbility to remain organized in a fast-paced environment; remain calm whilst working under pressure.\nFluent in/native English\nPassionate about media especially the brand and performance dynamic, coupled with a strong business, market, consumer and brand/performance understanding.\n\nBonus for experience in\nTech-driven companies\nData analysis\nLeadership\nCustomer Experience\nProject Management\nOperational Excellence\nInfluencer Marketing\nPaas platforms\n\nPerks\nSalary in line with your experience\nWork in a young, dynamic, and growing international team\nWork with international clients and well-known influencers\nLunches provided daily\nDedicated desk and external monitor screen\nFriday drinks & quarterly team get-togethers\n20+ fun colleagues around the globe\n\nIs this you? Contact us @ daan@thecirqle.com",
+      "descriptionHtml": "<p>About us:<br>\nThe Cirqle is a cloud-based software platform allowing agencies and brands to manage, monitor and measure real-time, scaleable cross-border influencer campaigns. Our platform provides clients with key insights on their talent’s social performance, whilst allowing OAuth verified Influencers and agencies to easily create beautiful influencer campaigns with trackability to off-and-online sales. Via the Cirqle platform clients can Activate, Amplify and Attribute the campaign content: The Cirqle is the only platform that can tie engagement to sales.</p>\n\n<p>The Cirqle maintains a diverse client base, mostly in the United States. Industry sectors include Hospitality, Cities, Restaurants, fashion, beauty and health (products). </p>\n\n<p>Some of our clients include:<br>\nSubway, McDonald&#39;s, Samsung, Manchester City, Scotch &amp; Soda, Swarovski, Barnes &amp; Noble, NYC’s Garment District, Heineken &amp; many more!</p>\n\n<p>Our culture:<br>\nAt The Cirqle, as a team, we move fast and are full of initiative. We are organized, efficient, analytical thinkers and have the ability to multitask across various brands with a strong passion for social.</p>\n\n<p>About the role:<br>\nAs a leader of the Customer Success Team, you will independently grow the team, manage and deepen the (team’s) relationships with key existing and new clients and lead by example to junior employees within the team. <br>\nYou will drive and deliver our short and long term vision and strategy, with the aim of improving innovation and efficiency throughout. At the same time, you’ll be making sure our processes can scale up effortlessly, as we add more customers and happy users on-board. Next to that, you will maintain full overview across all campaigns using The Cirqles’ platform and also manage key clients and campaigns. <br>\nYou will work closely with the sales and product teams to retain our clients and guard The Cirqles’ positioning as a premium, market-leading, tech-driven solution to influencer/social media marketing. This role comes with a high level of autonomy and leadership opportunity.</p>\n\n<p>Experience requirements:<br>\nAnalytical mindset and experience, understanding reporting, digital performance metrics and capable of identifying marketing trends from data (The Cirqle platform and other tools).<br>\nTeam manager and a Team player. Be a pillar for the team and guide the team and their personal development.<br>\nExperience in or understanding of social media strategies working with platforms including Facebook Business Manager, Instagram Ads, Snap Ads, Twitter Ads, LinkedIn Campaign Manager. Knowledge of newer social platforms such as Tik Tok is a bonus.<br>\nCapable of understanding client needs and opportunities to extend our services: making sure campaign plans are in line with their target audiences and marketing objectives.<br>\nDisplaying a proactive approach to everything; we want you to contribute and show as much initiative as possible - ideas are always welcome, actions are even more so.<br>\nStructuring programs and running timelines for campaigns, liaising with the team and clients directly, keeping everything on track and everyone informed.<br>\nStrong commercial acumen with a willingness to sell-in commercial opportunities that are right for the client’s needs.<br>\nStrong presentation skills. Ability to format presentations and structure emails clearly.<br>\nProducing case studies - Analysing the client’s success and being able to formulate a case study.<br>\nAbility to remain organized in a fast-paced environment; remain calm whilst working under pressure.<br>\nFluent in/native English<br>\nPassionate about media especially the brand and performance dynamic, coupled with a strong business, market, consumer and brand/performance understanding.</p>\n\n<p>Bonus for experience in<br>\nTech-driven companies<br>\nData analysis<br>\nLeadership<br>\nCustomer Experience<br>\nProject Management<br>\nOperational Excellence<br>\nInfluencer Marketing<br>\nPaas platforms</p>\n\n<p>Perks<br>\nSalary in line with your experience<br>\nWork in a young, dynamic, and growing international team<br>\nWork with international clients and well-known influencers<br>\nLunches provided daily<br>\nDedicated desk and external monitor screen<br>\nFriday drinks &amp; quarterly team get-togethers<br>\n20+ fun colleagues around the globe</p>\n\n<p>Is this you? Contact us @ <a href=\"mailto:daan@thecirqle.com\" target=\"_blank\" rel=\"nofollow\">daan@thecirqle.com</a></p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "Amsterdam"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Data Analysis",
+        "Leadership",
+        "Customer Experience",
+        "Project Management",
+        "Operational Excellence"
+      ],
+      "payment": {
+        "salary": "€45k – €60k",
+        "equity": "0.0% – 2.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Board Member",
+        "url": "https://angel.co/u/steven-thecirqle-com",
+        "name": "Steven Lammertink",
+        "avatar": "https://photos.angel.co/users/457018-medium_jpg?1574411921"
+      },
+      "refs": {
+        "angelListId": "485222",
+        "angelListUrl": "https://angel.co/company/cirqle-3/jobs/485222-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Traineeship - Influencer Marketing Knowledge Ninja",
+      "description": "About us:\n\nThe Cirqle is a hybrid technology company and Influencer Marketing Agency. We have a handpicked network of 40,000+ creators worldwide and we connect brands with the right influencers for marketing campaigns at scale. Our data-driven predictive platform empowers thousands of influencers — from bloggers and local creatives to celebrities shaping the world’s biggest and boldest social presence — to share their stories and create an impactful, stylish, and easy-to-manage campaign for renowned clients worldwide.\n\nWhat we'd like you to do:\n\n+ You will play a supporting role in developing our Training & Development initiatives. \n+ You will work directly with the Director for Training & Development and you will collaborate with the team in Amsterdam on a frequent basis. \n+ Your activities will be varied such as creating content, managing events, supporting our efforts by coming up with new ideas on how to emerge as an industry knowledge leader and subsequently manage these projects. \n+ You will be involved in doing market research within Europe, US and Asia and managing our online presence etc.\n\nAre you positive minded and passionate about playing a crucial role in building expert knowledge hubs in Influencer marketing and tech? Are you excited to work within a vibrant and energetic team amongst multiple locations? Are you resourceful and are you disciplined enough to manage your own tasks well and on time? Then we want to meet with you!\n\nCulture:\n\nTo us diversity contributes to innovation and opportunities. We have a very well balanced team in terms of gender and although our 2 leaders and founders are Dutch, the team is very international and we want to keep it this way. However, to us diversity is not just about gender and nationality. It means having a team made up of people coming from various walks of life imaginable.\n\nThe relationships in our team are based on mutual trust and openness. The office-vibe is friendly and our 2 un-common founders sing while walking through our cosy office. We are a very open-minded group of people BUT we don’t just welcome new ideas, we expect you to present them to us continuously in a very proactive way.\n\nOn the other hand, we have our culture targets. We are pointing our culture and transform it into one where people have super clear domains and responsibilities. We value feedback, but at the same time, we don’t believe in debating about things endlessly and want to transform our people-operational system into one where everyone have clear domains and responsibilities to enable speed and be ahead of the game",
+      "descriptionHtml": "<p>About us:</p>\n\n<p>The Cirqle is a hybrid technology company and Influencer Marketing Agency. We have a handpicked network of 40,000+ creators worldwide and we connect brands with the right influencers for marketing campaigns at scale. Our data-driven predictive platform empowers thousands of influencers — from bloggers and local creatives to celebrities shaping the world’s biggest and boldest social presence — to share their stories and create an impactful, stylish, and easy-to-manage campaign for renowned clients worldwide.</p>\n\n<p>What we&#39;d like you to do:</p>\n\n<ul>\n<li>You will play a supporting role in developing our Training &amp; Development initiatives. </li>\n<li>You will work directly with the Director for Training &amp; Development and you will collaborate with the team in Amsterdam on a frequent basis. </li>\n<li>Your activities will be varied such as creating content, managing events, supporting our efforts by coming up with new ideas on how to emerge as an industry knowledge leader and subsequently manage these projects. </li>\n<li>You will be involved in doing market research within Europe, US and Asia and managing our online presence etc.</li>\n</ul>\n\n<p>Are you positive minded and passionate about playing a crucial role in building expert knowledge hubs in Influencer marketing and tech? Are you excited to work within a vibrant and energetic team amongst multiple locations? Are you resourceful and are you disciplined enough to manage your own tasks well and on time? Then we want to meet with you!</p>\n\n<p>Culture:</p>\n\n<p>To us diversity contributes to innovation and opportunities. We have a very well balanced team in terms of gender and although our 2 leaders and founders are Dutch, the team is very international and we want to keep it this way. However, to us diversity is not just about gender and nationality. It means having a team made up of people coming from various walks of life imaginable.</p>\n\n<p>The relationships in our team are based on mutual trust and openness. The office-vibe is friendly and our 2 un-common founders sing while walking through our cosy office. We are a very open-minded group of people BUT we don’t just welcome new ideas, we expect you to present them to us continuously in a very proactive way.</p>\n\n<p>On the other hand, we have our culture targets. We are pointing our culture and transform it into one where people have super clear domains and responsibilities. We value feedback, but at the same time, we don’t believe in debating about things endlessly and want to transform our people-operational system into one where everyone have clear domains and responsibilities to enable speed and be ahead of the game</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "Amsterdam"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Board Member",
+        "url": "https://angel.co/u/steven-thecirqle-com",
+        "name": "Steven Lammertink",
+        "avatar": "https://photos.angel.co/users/457018-medium_jpg?1574411921"
+      },
+      "refs": {
+        "angelListId": "525078",
+        "angelListUrl": "https://angel.co/company/cirqle-3/jobs/525078-"
+      }
+    }
+  ]
+}

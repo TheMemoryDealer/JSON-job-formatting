@@ -1,0 +1,129 @@
+{
+  "name": "Stairway",
+  "avatar": "https://photos.angel.co/startups/i/5939902-090c9b1ee08ea4d8381c9123cdd985d3-medium_jpg.jpg?buster=1550454945",
+  "slogan": "Your personal Maths tutor",
+  "description": "Stairway is a digital personal tutor for STEM subjects.\n\nWe are on a mission to enable anyone to have access to effective and enjoyable education.\n\nStairway was founded by recent students, who are extremely focused on creating a great product to address the specific challenges faced by students today, through a combination of a great product and content.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.stairwaylearning.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Education",
+    "Education Technology"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO and Co-Founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/charlesw",
+      "name": "Charles Williamson",
+      "avatar": "https://photos.angel.co/users/1688090-medium_jpg?1465626982",
+      "bioHtml": "CEO and Co-Founder of Stairway"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/oliver-hunt-2",
+      "name": "Oliver Hunt",
+      "avatar": "https://photos.angel.co/users/6364628-medium_jpg?1527778732",
+      "bioHtml": "Co-Founder at Stairway. Fixing STEM education by building a learning experience students love."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5939902",
+    "angelListUrl": "https://angel.co/company/stairwaylearning"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Engineer",
+      "description": "Stairway is a digital personal tutor for STEM subjects 🎓\n\nWe are on a mission to enable anyone to have access to effective and enjoyable education.📈\n\nStairway was founded by recent students, who are extremely focused on creating a great product to address the specific challenges faced by students today, through a combination of a great product and content 💻\n\nWe are looking for a Full Stack Engineer to help us scale our existing web application to students around the world!\n\nYou'll be a valued member of the Engineering team, with a large amount of input into ideating and planning new features, along with the technical infrastructure to support a fast-growing consumer product 🎓\n\n**Requirements**\n\n- Experience with Python, Flask and React.js (at least two of three)\n- Experience working with NoSQL databases\n- Excellent communication and ability to work as part of a team\n- Experience working alongside a design team to implement design specifications using HTML, SCSS and React.js\n- Experience writing tests, in frameworks such as PyTest, Selenium and Enzyme\n\n**Benefits**\n\n- Stock Option Plan\n- Training and Development Budget\n- 25 days holiday per year\n- Calm.com subscription\n- Office Library + Knowledge Sharing\n- Pension Plan\n",
+      "descriptionHtml": "<p>Stairway is a digital personal tutor for STEM subjects 🎓</p>\n\n<p>We are on a mission to enable anyone to have access to effective and enjoyable education.📈</p>\n\n<p>Stairway was founded by recent students, who are extremely focused on creating a great product to address the specific challenges faced by students today, through a combination of a great product and content 💻</p>\n\n<p>We are looking for a Full Stack Engineer to help us scale our existing web application to students around the world!</p>\n\n<p>You&#39;ll be a valued member of the Engineering team, with a large amount of input into ideating and planning new features, along with the technical infrastructure to support a fast-growing consumer product 🎓</p>\n\n<p><strong>Requirements</strong></p>\n\n<ul>\n<li>Experience with Python, Flask and React.js (at least two of three)</li>\n<li>Experience working with NoSQL databases</li>\n<li>Excellent communication and ability to work as part of a team</li>\n<li>Experience working alongside a design team to implement design specifications using HTML, SCSS and React.js</li>\n<li>Experience writing tests, in frameworks such as PyTest, Selenium and Enzyme</li>\n</ul>\n\n<p><strong>Benefits</strong></p>\n\n<ul>\n<li>Stock Option Plan</li>\n<li>Training and Development Budget</li>\n<li>25 days holiday per year</li>\n<li>Calm.com subscription</li>\n<li>Office Library + Knowledge Sharing</li>\n<li>Pension Plan</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£40k – £70k",
+        "equity": "0.0% – 0.5%"
+      },
+      "recruiter": {
+        "title": "CEO and Co-Founder",
+        "role": "Founder",
+        "url": "https://angel.co/u/charlesw",
+        "name": "Charles Williamson",
+        "avatar": "https://photos.angel.co/users/1688090-medium_jpg?1465626982"
+      },
+      "refs": {
+        "angelListId": "727114",
+        "angelListUrl": "https://angel.co/company/stairwaylearning/jobs/727114-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Junior Full Stack Engineer",
+      "description": "Stairway is a digital personal tutor for STEM subjects 🎓\n\nWe are on a mission to enable anyone to have access to effective and enjoyable education.📈\n\nStairway was founded by recent students, who are extremely focused on creating a great product to address the specific challenges faced by students today, through a combination of a great product and content 💻\n\nWe are looking for a Junior Full Stack Developer to help us scale our existing web application to students around the world!\n\nYou'll be a valued member of the Product team, with a large amount of input into ideating and planning new features, along with the technical infrastructure to support a fast-growing consumer product 🎓\n\n**Requirements**\n\n- Experience with Python, Flask and React.js (at least two of three)\n- Experience working with NoSQL databases\n- Excellent communication and ability to work as part of a team\n- Experience working alongside a design team to implement design specifications using HTML, SCSS and React.js\n\n**Benefits**\n\n- Stock Option Plan\n- Training and Development Budget\n- 25 days holiday per year\n- Calm.com subscription\n- Office Library + Knowledge Sharing\n- Pension Plan\n",
+      "descriptionHtml": "<p>Stairway is a digital personal tutor for STEM subjects 🎓</p>\n\n<p>We are on a mission to enable anyone to have access to effective and enjoyable education.📈</p>\n\n<p>Stairway was founded by recent students, who are extremely focused on creating a great product to address the specific challenges faced by students today, through a combination of a great product and content 💻</p>\n\n<p>We are looking for a Junior Full Stack Developer to help us scale our existing web application to students around the world!</p>\n\n<p>You&#39;ll be a valued member of the Product team, with a large amount of input into ideating and planning new features, along with the technical infrastructure to support a fast-growing consumer product 🎓</p>\n\n<p><strong>Requirements</strong></p>\n\n<ul>\n<li>Experience with Python, Flask and React.js (at least two of three)</li>\n<li>Experience working with NoSQL databases</li>\n<li>Excellent communication and ability to work as part of a team</li>\n<li>Experience working alongside a design team to implement design specifications using HTML, SCSS and React.js</li>\n</ul>\n\n<p><strong>Benefits</strong></p>\n\n<ul>\n<li>Stock Option Plan</li>\n<li>Training and Development Budget</li>\n<li>25 days holiday per year</li>\n<li>Calm.com subscription</li>\n<li>Office Library + Knowledge Sharing</li>\n<li>Pension Plan</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£25k – £40k",
+        "equity": "0.0% – 0.2%"
+      },
+      "recruiter": {
+        "title": "CEO and Co-Founder",
+        "role": "Founder",
+        "url": "https://angel.co/u/charlesw",
+        "name": "Charles Williamson",
+        "avatar": "https://photos.angel.co/users/1688090-medium_jpg?1465626982"
+      },
+      "refs": {
+        "angelListId": "727115",
+        "angelListUrl": "https://angel.co/company/stairwaylearning/jobs/727115-"
+      }
+    }
+  ]
+}

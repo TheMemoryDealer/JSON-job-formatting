@@ -1,0 +1,109 @@
+{
+  "name": "40Love.ai",
+  "avatar": "https://photos.angel.co/startups/i/7363307-e6a8b7cf84e0626ef0a7de34f5244243-medium_jpg.jpg?buster=1576079196",
+  "slogan": "Tennis video analysis to help you improve, all from your smartphone",
+  "description": "We're solving hard problems in computer vision and AI.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://40Love.ai"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Sports"
+  ],
+  "employees": null,
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/ilmars-poikans",
+      "name": "Ilmars Poikans",
+      "avatar": "https://photos.angel.co/users/65223-medium_jpg?1462882439",
+      "bioHtml": "Lead engineer at Parakweet (Bookvibe, InboxVudu); Lead engineer at Chintano; Researcher at AI Lab (University of Latvia); Co-founder of One.lv, MS in CS"
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/filipljubicic",
+      "name": "Filip Ljubicic",
+      "avatar": "https://photos.angel.co/users/139180-medium_jpg?1473786970",
+      "bioHtml": "Experienced PM. Built products in education, retail and sport. Product guy, former rower. UCL grad."
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/p/rameshharidas",
+      "name": "Ramesh Haridas",
+      "avatar": "https://photos.angel.co/users/94-medium_jpg?1405432954",
+      "bioHtml": "Started and sold 3 companies. My last company was an AI powered email assistant that was acquired by Google. Early investor in AVG, <a href=\"https://angel.co/company/ripple-labs\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Ripple</span></a>, <a href=\"https://angel.co/company/refinery29\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Refinery29</span></a>. "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7363307",
+    "angelListUrl": "https://angel.co/company/40love-ai-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "iOS dev",
+      "description": "Responsibilities\n- Design and build applications for the iOS platform\n- Ensure the performance, quality, and responsiveness of applications\n- Collaborate with a team to define, design, and ship new features\n- Identify and correct bottlenecks and fix bugs\n- Help maintain code quality, organization, and automatization\n\nSkills\n- Proficient with Swift and Cocoa Touch\n- Experience with iOS frameworks such as Core Data, ARKit, Core ML etc.\n- Experience with offline storage, threading, and performance tuning\n- Familiarity with RESTful APIs to connect iOS applications to back-end services\n- Knowledge of other web technologies and UI/UX standards\n- Understanding of Apple’s design principles and interface guidelines\n- Knowledge of low-level C-based libraries is preferred\n- Familiarity with cloud message APIs and push notifications\n- Knack for benchmarking and optimization\n- Proficient understanding of code versioning tools such as Git.\n- Familiarity with continuous integration\n\nYour Experience\nAt least 5 years experience developing iOS applications\nComputer Science Degree a good to have\nA portfolio of apps that you have developed or worked on",
+      "descriptionHtml": "<p>Responsibilities</p>\n\n<ul>\n<li>Design and build applications for the iOS platform</li>\n<li>Ensure the performance, quality, and responsiveness of applications</li>\n<li>Collaborate with a team to define, design, and ship new features</li>\n<li>Identify and correct bottlenecks and fix bugs</li>\n<li>Help maintain code quality, organization, and automatization</li>\n</ul>\n\n<p>Skills</p>\n\n<ul>\n<li>Proficient with Swift and Cocoa Touch</li>\n<li>Experience with iOS frameworks such as Core Data, ARKit, Core ML etc.</li>\n<li>Experience with offline storage, threading, and performance tuning</li>\n<li>Familiarity with RESTful APIs to connect iOS applications to back-end services</li>\n<li>Knowledge of other web technologies and UI/UX standards</li>\n<li>Understanding of Apple’s design principles and interface guidelines</li>\n<li>Knowledge of low-level C-based libraries is preferred</li>\n<li>Familiarity with cloud message APIs and push notifications</li>\n<li>Knack for benchmarking and optimization</li>\n<li>Proficient understanding of code versioning tools such as Git.</li>\n<li>Familiarity with continuous integration</li>\n</ul>\n\n<p>Your Experience<br>\nAt least 5 years experience developing iOS applications<br>\nComputer Science Degree a good to have<br>\nA portfolio of apps that you have developed or worked on</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Swift/Objective C/iOS/Xcode",
+        "Core Ml"
+      ],
+      "payment": {
+        "salary": "£60k – £84k",
+        "equity": "0.5% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/p/rameshharidas",
+        "name": "Ramesh Haridas",
+        "avatar": "https://photos.angel.co/users/94-medium_jpg?1405432954"
+      },
+      "refs": {
+        "angelListId": "680554",
+        "angelListUrl": "https://angel.co/company/40love-ai-1/jobs/680554-"
+      }
+    }
+  ]
+}

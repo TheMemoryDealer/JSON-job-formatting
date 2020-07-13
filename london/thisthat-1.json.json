@@ -1,0 +1,126 @@
+{
+  "name": "ThisThat",
+  "avatar": "https://photos.angel.co/startups/i/5568021-a67ae3b1fdd4a4864835b70f0e1ce2cb-medium_jpg.jpg?buster=1555508114",
+  "slogan": "Find out what the world thinks",
+  "description": "We connect opinion - at an individual level through our social iOS app, and at a brand level through a progressive web app and SaaS solution. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.thisthatapp.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "Edinburgh",
+    "London"
+  ],
+  "marketTags": [
+    "Apps",
+    "Technology",
+    "Polling",
+    "User Experience Design",
+    "Mobile Application"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/tristram-lewis-stempel-1",
+      "name": "Tristram Lewis-Stempel",
+      "avatar": "https://photos.angel.co/users/10363822-medium_jpg?1576088415",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/thisthat-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">ThisThat</span></a> \nEscapee medic"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/dominic-ivison",
+      "name": "Dominic Ivison",
+      "avatar": "https://photos.angel.co/users/7719521-medium_jpg?1523120473",
+      "bioHtml": "Co-Founder at ThisThat. Strong business background with MA in Business Management from the University of Edinburgh 2017"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/maximilian-osborne",
+      "name": "Maximilian Osborne",
+      "avatar": "https://photos.angel.co/users/2670261-medium_jpg?1468436487",
+      "bioHtml": "Co-Founder and CTO at ThisThat. Alternatve Thinker, advocate of creative solutions and social data science"
+    },
+    {
+      "title": "Founder",
+      "role": "Employee",
+      "url": "https://angel.co/u/maximilian-osborne",
+      "name": "Maximilian Osborne",
+      "avatar": "https://photos.angel.co/users/2670261-medium_jpg?1468436487",
+      "bioHtml": "Co-Founder and CTO at ThisThat. Alternatve Thinker, advocate of creative solutions and social data science"
+    },
+    {
+      "title": "Strategic Business Development Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/oscar-zollman-thomas",
+      "name": "Oscar Zollman Thomas",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked and studied in UK, USA and Germany. Experience with Consulting, Data Analysis, Research. First Class Economcis degree from University of Edinburgh"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5568021",
+    "angelListUrl": "https://angel.co/company/thisthat-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Backend Engineer",
+      "description": "Backend Engineer with Mobile Experience. \n\nContext:\nThisThat have an existing Python backend & Swift iOS app and have seen strong traction since launching in January 2019. We have joined APX (Berlin’s most exciting accelerator programme, and early-stage investor in N26) and have the backing of a London VC - we’re looking to grow the tech team by two - one full-stack mobile developer (you) and one iOS Developer (if you think you can handle both let us know!)\n\nAbout You:\nYou’re an experienced engineer with excellent technical skills. You have spent several years honing your craft and you’re now ready to step up and lead development efforts at an exciting early-stage venture. You are ambitious, a self-starter and eager to make a massive impact as one of the key first hires at ThisThat.\n You have a pragmatic yet rigorous mindset - you move quickly, but thoughtfully - you understand the importance of building and testing new features week on week whilst also building a scalable product. You understand the constraints of start-up life, and how to make the right trade-offs in pursuit of speed and good execution. You pride yourself on writing clean, elegant, and maintainable code.\n You’re process-orientated and have excellent organisational skills, and you’re proactive and opinionated about design decisions.\n\nMission:\nYou will own the back-end services. Your mission is six-fold: \n\n   Complete the database migration: move ThisThat’s database from Firebase RTDB to Firebase Firestore fully\n   Develop the backend services (database, servers, data migrations, background jobs) to both reach a high-performing infrastructure capable of supporting a smooth UX for tens of thousands of active users and serve the development of many new features.\n   Drive pace, observe and set exacting standards for the technical team\n   Get new versions of the iOS app out there every 1-2 weeks - continue to develop the API, help connect it to the app and support the iOS developer.\n   Identify bugs and squash them!\n   Make sure the website is always up to date. \n\nCompetencies: \n  3-5y+ production experience of all stages of development \n   Strong Python skills\n   Good Swift skills\n   Strong in delivering app data using web frameworks such as Django, Rails etc.\n   Experience of DevOps tools (Docker, Kubernetes, etc.)\n   Experience with cloud computing platforms (AWS, GCP)\n   Experience with NoSQL databases (Firestore, MongoDB)\n   Experience in search solutions such as ElasticSearch\n\n Preferred: \n  1-2yrs+ experience at a start-up / early-stage business \n   Engineering/computer science degree or related discipline\n   Experience with core front-end languages such as CSS & HTML\n   Familiarity with Continuous Integration tools, such as CircleCI\n   Familiarity with git-flow branching model \n   Familiarity with Android as well as iOS\n   Interest/experience in Machine Learning \n   Insanely collaborative",
+      "descriptionHtml": "<p>Backend Engineer with Mobile Experience. </p>\n\n<p>Context:<br>\nThisThat have an existing Python backend &amp; Swift iOS app and have seen strong traction since launching in January 2019. We have joined APX (Berlin’s most exciting accelerator programme, and early-stage investor in N26) and have the backing of a London VC - we’re looking to grow the tech team by two - one full-stack mobile developer (you) and one iOS Developer (if you think you can handle both let us know!)</p>\n\n<p>About You:<br>\nYou’re an experienced engineer with excellent technical skills. You have spent several years honing your craft and you’re now ready to step up and lead development efforts at an exciting early-stage venture. You are ambitious, a self-starter and eager to make a massive impact as one of the key first hires at ThisThat.<br>\n You have a pragmatic yet rigorous mindset - you move quickly, but thoughtfully - you understand the importance of building and testing new features week on week whilst also building a scalable product. You understand the constraints of start-up life, and how to make the right trade-offs in pursuit of speed and good execution. You pride yourself on writing clean, elegant, and maintainable code.<br>\n You’re process-orientated and have excellent organisational skills, and you’re proactive and opinionated about design decisions.</p>\n\n<p>Mission:<br>\nYou will own the back-end services. Your mission is six-fold: </p>\n\n<p>Complete the database migration: move ThisThat’s database from Firebase RTDB to Firebase Firestore fully<br>\n   Develop the backend services (database, servers, data migrations, background jobs) to both reach a high-performing infrastructure capable of supporting a smooth UX for tens of thousands of active users and serve the development of many new features.<br>\n   Drive pace, observe and set exacting standards for the technical team<br>\n   Get new versions of the iOS app out there every 1-2 weeks - continue to develop the API, help connect it to the app and support the iOS developer.<br>\n   Identify bugs and squash them!<br>\n   Make sure the website is always up to date. </p>\n\n<p>Competencies: <br>\n  3-5y+ production experience of all stages of development <br>\n   Strong Python skills<br>\n   Good Swift skills<br>\n   Strong in delivering app data using web frameworks such as Django, Rails etc.<br>\n   Experience of DevOps tools (Docker, Kubernetes, etc.)<br>\n   Experience with cloud computing platforms (AWS, GCP)<br>\n   Experience with NoSQL databases (Firestore, MongoDB)<br>\n   Experience in search solutions such as ElasticSearch</p>\n\n<p> Preferred: <br>\n  1-2yrs+ experience at a start-up / early-stage business <br>\n   Engineering/computer science degree or related discipline<br>\n   Experience with core front-end languages such as CSS &amp; HTML<br>\n   Familiarity with Continuous Integration tools, such as CircleCI<br>\n   Familiarity with git-flow branching model <br>\n   Familiarity with Android as well as iOS<br>\n   Interest/experience in Machine Learning <br>\n   Insanely collaborative</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "Berlin"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "noSQL",
+        "Swift"
+      ],
+      "payment": {
+        "salary": "€50k – €60k",
+        "equity": "1.0% – 2.5%"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "540037",
+        "angelListUrl": "https://angel.co/company/thisthat-1/jobs/540037-"
+      },
+      "postedAt": 1589658540037
+    }
+  ]
+}

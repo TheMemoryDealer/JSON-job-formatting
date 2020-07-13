@@ -1,0 +1,325 @@
+{
+  "name": "Token",
+  "avatar": "https://photos.angel.co/startups/i/6838537-4a17d5509800383bef298eb87121f1b2-medium_jpg.jpg?buster=1589634046",
+  "slogan": "One API to access all banks for data aggregation and direct payments",
+  "description": "Token’s goal is to make moving money easy, instant, secure, and flexible. Our product is a disruptive Open Banking API platform that will change how people and financial institutions exchange value between each other. Proud to announce our partnership with @Mastercard to power the connectivity layer of its new #OpenBanking hub. Together we will accelerate adoption of the new era of banking and revolutionize how we all interact with financial services.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://token.io"
+    },
+    {
+      "type": "blog",
+      "url": "https://token.io/news/category:insight"
+    },
+    {
+      "type": "twitter",
+      "url": "https://www.twitter.com/token_io"
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "San Francisco",
+    "London",
+    "Berlin"
+  ],
+  "marketTags": [
+    "Fin Tech",
+    "Payments",
+    "Real Time",
+    "Software"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 35000000,
+    "rounds": [
+      {
+        "type": null,
+        "closedAt": 1560816000,
+        "valuation": null
+      },
+      {
+        "type": "Series A",
+        "closedAt": 1492992000,
+        "valuation": null
+      },
+      {
+        "type": "Series A",
+        "closedAt": 1462838400,
+        "valuation": null
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CMO",
+      "role": "Founder",
+      "url": "https://angel.co/u/marten-nelson",
+      "name": "Marten Nelson",
+      "avatar": "https://photos.angel.co/users/575426-medium_jpg?1490242894",
+      "bioHtml": "Founder LearnCentral, sold to <a href=\"https://angel.co/company/elluminate\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Elluminate</span></a> / <a href=\"https://angel.co/company/blackboard\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Blackboard</span></a>  • Co-founder <a href=\"https://angel.co/company/abaca-technologies\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Abaca Technologies</span></a> • Head of PM at <a href=\"https://angel.co/company/brightmail\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Brightmail</span></a>. Specialties: startup hacking, product."
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/steve-kirsch1",
+      "name": "Steve Kirsch",
+      "avatar": "https://photos.angel.co/users/434988-medium_jpg?1460588650",
+      "bioHtml": "Serial entrepreneur. Founded Token, Infoseek, Frame Technology, Abaca, OneID, and Propel."
+    },
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/bill-york",
+      "name": "Bill York",
+      "avatar": "https://photos.angel.co/users/348539-medium_jpg?1460589886",
+      "bioHtml": "Early-stage software startup guy, founder of Comergent, early at Tile, Token. I like to build the teams that build the products that customers love to use."
+    },
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/peter-potts",
+      "name": "Peter Potts",
+      "avatar": "https://photos.angel.co/users/2143175-medium_jpg?1467158317",
+      "bioHtml": "Experienced software engineer and entrepreneur. Founded Pole Star Space Applications. Diverse experiences including multiplayer games and ship tracking."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/daniel-driscoll-5",
+      "name": "Daniel  Driscoll",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/marten-nelson-1",
+      "name": "Marten Nelson",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/cheung-k-tam",
+      "name": "Cheung K Tam",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [
+    {
+      "category": "healthcare",
+      "title": "Healthcare"
+    },
+    {
+      "category": "generous_vacation",
+      "title": "Unlimited Paid Time Off"
+    },
+    {
+      "category": "parental_leave",
+      "title": " Family Leave"
+    },
+    {
+      "category": "work_from_home",
+      "title": "Work from home"
+    },
+    {
+      "category": "company_meals",
+      "title": "Snacks and Lunch"
+    },
+    {
+      "category": "wellness",
+      "title": "Gym Membership"
+    },
+    {
+      "category": "equity",
+      "title": "Stock Options"
+    },
+    {
+      "category": "commuter",
+      "title": "Commuter Benefits"
+    },
+    {
+      "category": "company_events",
+      "title": "Company Events"
+    },
+    {
+      "category": "retirement",
+      "title": "Retirement Benefits"
+    },
+    {
+      "category": "miscellaneous",
+      "title": "Referral Program"
+    }
+  ],
+  "refs": {
+    "angelListId": "6838537",
+    "angelListUrl": "https://angel.co/company/token-io"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Frontend Software Engineer",
+      "description": "As a Frontend Software Engineer at Token, you will specialize in building responsive and elegant web applications that scale to millions of users.  At Token, we believe that User Experience should be at the core of rethinking how payments should be done worldwide.  As a Frontend Software Engineer, you would work with the Design and Product team to create the next-generation technologies that will change how people and financial institutions exchange value.  Our ideal candidate has an eye for detail, is comfortable with animations, and is excited about creating experiences and interfaces that work across devices. As a member of the engineering team, you will be responsible for designing, building, and scaling core Token platform with opportunities to excel as our fast-paced business grows and evolves. We need our engineers to be versatile, display leadership qualities, and be enthusiastic to tackle new problems across the full-stack as we continue to push technology forward.\n\n\nResponsibilities\n- Build the libraries and frameworks that fit into complex web applications, such as at bank portals and merchant websites\n- Optimize web applications to maximize speed and scale. \n- Support diverse clients from high powered desktop computers to small footprint mobile devices\n- Write client-side code for web-based applications, create fast, easy-to-use, high volume production applications, and develop prototypes quickly\n- Manage individual project priorities, deadlines and deliverablesAdherence to Token data protection procedures and confidentiality agreements.\n\n\nQualifications\n- BA/BS degree in Computer Science or related technical field \n- 4+ years relevant work experience\n- Expert knowledge of JavaScript\n- Experience with modern JavaScript libraries and tooling\n- Commanding grasp of HTML, CSS, and related web technologies\n- Demonstrated design and UX sensibilities\n- Strong Computer Science fundamentals\n\n\nDesired Qualifications\n- Familiarity with the whole web stack, including protocols and web server optimization techniques\n- Experience with elegant frontend animations\n- Security and Cryptography knowledge\n\n\nTechnologies Used\n- HTML5, CSS3, Material UIReactJS, \n- expressJS, \n- [NextJsNode.js](http://nextjsnode.js/) and WebpackJest, \n- Jasmine, and [Cucumber.js](http://cucumber.js/) for testing \n- MobXKubernetes, \n- AWS\n\n\n",
+      "descriptionHtml": "<p>As a Frontend Software Engineer at Token, you will specialize in building responsive and elegant web applications that scale to millions of users.  At Token, we believe that User Experience should be at the core of rethinking how payments should be done worldwide.  As a Frontend Software Engineer, you would work with the Design and Product team to create the next-generation technologies that will change how people and financial institutions exchange value.  Our ideal candidate has an eye for detail, is comfortable with animations, and is excited about creating experiences and interfaces that work across devices. As a member of the engineering team, you will be responsible for designing, building, and scaling core Token platform with opportunities to excel as our fast-paced business grows and evolves. We need our engineers to be versatile, display leadership qualities, and be enthusiastic to tackle new problems across the full-stack as we continue to push technology forward.</p>\n\n<p>Responsibilities</p>\n\n<ul>\n<li>Build the libraries and frameworks that fit into complex web applications, such as at bank portals and merchant websites</li>\n<li>Optimize web applications to maximize speed and scale. </li>\n<li>Support diverse clients from high powered desktop computers to small footprint mobile devices</li>\n<li>Write client-side code for web-based applications, create fast, easy-to-use, high volume production applications, and develop prototypes quickly</li>\n<li>Manage individual project priorities, deadlines and deliverablesAdherence to Token data protection procedures and confidentiality agreements.</li>\n</ul>\n\n<p>Qualifications</p>\n\n<ul>\n<li>BA/BS degree in Computer Science or related technical field </li>\n<li>4+ years relevant work experience</li>\n<li>Expert knowledge of JavaScript</li>\n<li>Experience with modern JavaScript libraries and tooling</li>\n<li>Commanding grasp of HTML, CSS, and related web technologies</li>\n<li>Demonstrated design and UX sensibilities</li>\n<li>Strong Computer Science fundamentals</li>\n</ul>\n\n<p>Desired Qualifications</p>\n\n<ul>\n<li>Familiarity with the whole web stack, including protocols and web server optimization techniques</li>\n<li>Experience with elegant frontend animations</li>\n<li>Security and Cryptography knowledge</li>\n</ul>\n\n<p>Technologies Used</p>\n\n<ul>\n<li>HTML5, CSS3, Material UIReactJS, </li>\n<li>expressJS, </li>\n<li><a href=\"http://nextjsnode.js/\" target=\"_blank\" rel=\"nofollow\">NextJsNode.js</a> and WebpackJest, </li>\n<li>Jasmine, and <a href=\"http://cucumber.js/\" target=\"_blank\" rel=\"nofollow\">Cucumber.js</a> for testing </li>\n<li>MobXKubernetes, </li>\n<li>AWS</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "San Francisco"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$110k – $145k"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/steve-kirsch1",
+        "name": "Steve Kirsch",
+        "avatar": "https://photos.angel.co/users/434988-medium_jpg?1460588650"
+      },
+      "refs": {
+        "angelListId": "749678",
+        "angelListUrl": "https://angel.co/company/token-io/jobs/749678-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Principal Product Manager  - Payments",
+      "description": "Token, Inc. intends to do to for payments what the Worldwide Web did for information, Microsoft Windows did for computers and Android did for the mobile phone. This agile FinTech start-up has an opening located out of its London office on Bishopsgate in the heart of The City. We’re looking for smart entrepreneurial professionals who love technology and live to innovate and deliver disruptive payment solutions to the market. If you are someone who has  an exceptional track record defining payment solutions for banks and other financial institutions and is excited to shape a startup’s product vision and business, then this may be the job for you! \n\nAbout the job\nWe're looking for an experienced product manager to lead the definition of payment propositions at Token. \n\nToken’s Head of Payment Products will join the Product and R&D teams as a key leader and partner in the business.  As the most senior lead for our payments propositions, this role will be responsible for defining Token’s payment propositions for banks and fintechs and also to define the in-house or partner capabilities required to deliver the propositions.  \n\n\nHere is what you get to do\n- Deeply understand regulatory and competitive landscapes for bank-direct payment capabilities enabled through legacy screen scraping, PSD2 APIs, commercial APIs, request to pay capabilities from [Pay.UK](http://Pay.UK), EBA Clearing, and SWIFT, and other enablers for the future of bank direct payments\n- Deeply understand our customers’ needs for next generation e-payments enabled by bank (ACH/FPS) versus card-based payments.  \n- Define the strategy and propositions for Token’s bank-direct payments for corporate B2B and consumer use-cases\n- Manage the product roadmap, maintain and prioritize product backlog\n- Define product requirements, create user stories, clearly articulate acceptance criteria for payment use cases\n- Work closely with engineering in a scrum agile environment\n- Be an external advocate, presenter, and spokesperson for bank payments enabled by Token\n- Uphold all company security policies and procedures defined in the Employee handbook and report to the relevant individual Line Manager, Information Security Manager or a Head of Risk, Security, and Compliance, where you believe there is a security risk or non-compliance to policies and procedures. \n- Adherence to Token data protection procedures and confidentiality agreements.\n\n\nWhat we look for\n- Wickedly smart entrepreneurial professional who loves technology and who lives to innovate and deliver disruptive technologies into the market\n- Truly customer-centered thinking with a passion to deliver the best possible service standards to customers\n- Have an ambition to innovate in the payments space and a proven track-record of bringing new products to market\n- Highly professional approach and great communication skills with an ability to think on your feet\n- Highly collaborative people who understand and value the power of working together as a team\n- Passion for understanding our market, product and technology\n- Excellent presentation skills and the proven ability to influence and communicate effectively\n- Ability to change priorities quickly and willingness to do what it takes to get the job done; thrives in a high-growth environment\n\n\nMust haves\n- Master’s or Bachelor's Degree in Computer Science, Engineering, Business Administration, or similar\n- 6+ years defining payments propositions and in-depth knowledge of European products and technologies used for payments (cards, processors, FPS, SEPA, etc.)\n- Knowledge of both the card-based and non-card based payment ecosystems\n- Knowledge of legacy bank-direct payments and future payment capabilities enabled through PSD2 APIs, commercial APIs, and new capabilities from national clearing networks\n- Excellent presentation skills and the proven ability to influence and communicate effectively\n- Ability to change priorities quickly and willingness to do what it takes to get the job done; thrives in a high-growth environment. Solid understanding of the retail and corporate payments markets\n- Experience delivering and managing API based products and services through the full life-cycle\n- Proven track record of delivering complex products that serve multiple markets\n- Strong experience in core product management, including customer analysis, market segmentation, KPI management, operational management and roadmap development\n- Great business acumen and communication skills\n- Strong desire to make a mark in the payments ecosystem\n\n\n About Token\nToken is a technology company with headquarters in San Francisco and offices in London and Berlin. Token’s open banking platform helps banks achieve PSD2 compliance quickly and cost-effectively, and generate new revenue streams. It also allows banks and other players in the payments ecosystem, such as merchants and payment processors, to build bank direct payment methods and data aggregation solutions for their customers. The platform raises security, and reduces fraud and disintermediation. Unlike in-house developed solutions, Token supports the same API across all banks.\n\nToken.io Limited is authorised as an AISP and as a PISP by the FCA in the UK and has passporting rights in an additional 20 countries.\n\nToken’s team combines years of highly successful execution and innovation in the technology, banking and security sectors. The Token team comes from top companies like Google, Apple, Microsoft, Barclays, ACI Worldwide, HSBC, Twitter, and Square. Token’s Founder, Steve Kirsch, has invented several groundbreaking Internet technologies and has had multiple billion dollar exits.\n\nToken is a recognised industry leader, winning Best Payments Newcomer in the 2019 Card and Payments Awards; Fintech Start Up of the Year in the 2019 FStech Awards; and the Open Banking category in the 2018 London Institute of Banking & Finance Financial Innovation Awards. Token was also named as one of the top ten companies to watch globally in the 2017 Financial Times Future of Fintech shortlist and named in CB Insights’ 2017 global annual ‘The Fintech 250’ ranking.\n",
+      "descriptionHtml": "<p>Token, Inc. intends to do to for payments what the Worldwide Web did for information, Microsoft Windows did for computers and Android did for the mobile phone. This agile FinTech start-up has an opening located out of its London office on Bishopsgate in the heart of The City. We’re looking for smart entrepreneurial professionals who love technology and live to innovate and deliver disruptive payment solutions to the market. If you are someone who has  an exceptional track record defining payment solutions for banks and other financial institutions and is excited to shape a startup’s product vision and business, then this may be the job for you! </p>\n\n<p>About the job<br>\nWe&#39;re looking for an experienced product manager to lead the definition of payment propositions at Token. </p>\n\n<p>Token’s Head of Payment Products will join the Product and R&amp;D teams as a key leader and partner in the business.  As the most senior lead for our payments propositions, this role will be responsible for defining Token’s payment propositions for banks and fintechs and also to define the in-house or partner capabilities required to deliver the propositions.  </p>\n\n<p>Here is what you get to do</p>\n\n<ul>\n<li>Deeply understand regulatory and competitive landscapes for bank-direct payment capabilities enabled through legacy screen scraping, PSD2 APIs, commercial APIs, request to pay capabilities from <a href=\"http://Pay.UK\" target=\"_blank\" rel=\"nofollow\">Pay.UK</a>, EBA Clearing, and SWIFT, and other enablers for the future of bank direct payments</li>\n<li>Deeply understand our customers’ needs for next generation e-payments enabled by bank (ACH/FPS) versus card-based payments.<br></li>\n<li>Define the strategy and propositions for Token’s bank-direct payments for corporate B2B and consumer use-cases</li>\n<li>Manage the product roadmap, maintain and prioritize product backlog</li>\n<li>Define product requirements, create user stories, clearly articulate acceptance criteria for payment use cases</li>\n<li>Work closely with engineering in a scrum agile environment</li>\n<li>Be an external advocate, presenter, and spokesperson for bank payments enabled by Token</li>\n<li>Uphold all company security policies and procedures defined in the Employee handbook and report to the relevant individual Line Manager, Information Security Manager or a Head of Risk, Security, and Compliance, where you believe there is a security risk or non-compliance to policies and procedures. </li>\n<li>Adherence to Token data protection procedures and confidentiality agreements.</li>\n</ul>\n\n<p>What we look for</p>\n\n<ul>\n<li>Wickedly smart entrepreneurial professional who loves technology and who lives to innovate and deliver disruptive technologies into the market</li>\n<li>Truly customer-centered thinking with a passion to deliver the best possible service standards to customers</li>\n<li>Have an ambition to innovate in the payments space and a proven track-record of bringing new products to market</li>\n<li>Highly professional approach and great communication skills with an ability to think on your feet</li>\n<li>Highly collaborative people who understand and value the power of working together as a team</li>\n<li>Passion for understanding our market, product and technology</li>\n<li>Excellent presentation skills and the proven ability to influence and communicate effectively</li>\n<li>Ability to change priorities quickly and willingness to do what it takes to get the job done; thrives in a high-growth environment</li>\n</ul>\n\n<p>Must haves</p>\n\n<ul>\n<li>Master’s or Bachelor&#39;s Degree in Computer Science, Engineering, Business Administration, or similar</li>\n<li>6+ years defining payments propositions and in-depth knowledge of European products and technologies used for payments (cards, processors, FPS, SEPA, etc.)</li>\n<li>Knowledge of both the card-based and non-card based payment ecosystems</li>\n<li>Knowledge of legacy bank-direct payments and future payment capabilities enabled through PSD2 APIs, commercial APIs, and new capabilities from national clearing networks</li>\n<li>Excellent presentation skills and the proven ability to influence and communicate effectively</li>\n<li>Ability to change priorities quickly and willingness to do what it takes to get the job done; thrives in a high-growth environment. Solid understanding of the retail and corporate payments markets</li>\n<li>Experience delivering and managing API based products and services through the full life-cycle</li>\n<li>Proven track record of delivering complex products that serve multiple markets</li>\n<li>Strong experience in core product management, including customer analysis, market segmentation, KPI management, operational management and roadmap development</li>\n<li>Great business acumen and communication skills</li>\n<li>Strong desire to make a mark in the payments ecosystem</li>\n</ul>\n\n<p>About Token<br>\nToken is a technology company with headquarters in San Francisco and offices in London and Berlin. Token’s open banking platform helps banks achieve PSD2 compliance quickly and cost-effectively, and generate new revenue streams. It also allows banks and other players in the payments ecosystem, such as merchants and payment processors, to build bank direct payment methods and data aggregation solutions for their customers. The platform raises security, and reduces fraud and disintermediation. Unlike in-house developed solutions, Token supports the same API across all banks.</p>\n\n<p>Token.io Limited is authorised as an AISP and as a PISP by the FCA in the UK and has passporting rights in an additional 20 countries.</p>\n\n<p>Token’s team combines years of highly successful execution and innovation in the technology, banking and security sectors. The Token team comes from top companies like Google, Apple, Microsoft, Barclays, ACI Worldwide, HSBC, Twitter, and Square. Token’s Founder, Steve Kirsch, has invented several groundbreaking Internet technologies and has had multiple billion dollar exits.</p>\n\n<p>Token is a recognised industry leader, winning Best Payments Newcomer in the 2019 Card and Payments Awards; Fintech Start Up of the Year in the 2019 FStech Awards; and the Open Banking category in the 2018 London Institute of Banking &amp; Finance Financial Innovation Awards. Token was also named as one of the top ten companies to watch globally in the 2017 Financial Times Future of Fintech shortlist and named in CB Insights’ 2017 global annual ‘The Fintech 250’ ranking.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "CMO",
+        "role": "Founder",
+        "url": "https://angel.co/u/marten-nelson",
+        "name": "Marten Nelson",
+        "avatar": "https://photos.angel.co/users/575426-medium_jpg?1490242894"
+      },
+      "refs": {
+        "angelListId": "576515",
+        "angelListUrl": "https://angel.co/company/token-io/jobs/576515-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Backend Engineer",
+      "description": "As a member of the Engineering team, you’ll develop the next-generation technologies that will change how people and financial institutions exchange value between each other.\n\nYou’re here to develop a global open banking ecosystem that is centered around open, secure and universal payments and information API. Are you ready for a challenge to disrupt the way money is moved?!\n\nWhat you will get to do:\n\n● You’ll help build the core of the Token platform and scale it to millions of users in the years to come! \n● Your contributions will be key as you work closely with the sales and engineering team. \n● You love technologies like Java, gRPC, Protobufs, RxJava, JOOQ, Dagger2, Kubernetes, MariaDB because it’s what you dream about at night! \n● You’ll get to travel internationally and work closely with our UK sales team. \n● You love bantering and talking about architecture with your co-workers and not afraid to share new ideas or challenge each other and will be given an opportunity to make an impact on our product.\n● You have a spidey sense of when things need to be implemented. \n● You’re building a new product, tackling problems that have never been solved before. \n● You can work on your own, but working with a team gives you a buzz as you love collaborating.\n\nWhat you will need to be successful:\n \n● You bring wickedly smart coding skills,\nYour background includes….\n● BS degree in CS or relevant experience \n● 5-8 yrs. of development experience \n● Strong cryptography knowledge is a plus \n● Working experience in distributed backend systems and API design \n● These are the technologies we use - Java, gRPC, Protobufs, RxJava, JOOQ, Dagger2, Gradle, Kubernetes, MariaDB and if you know any of them it’s a plus!\n\nBenefits for you…\n.\nLocated in the heart of SF downtown on Market, we have a spacious, hip office close to Bart and a short walk from CalTrain. We offer full benefits such as Medical, Dental, Vision, 401k, Life insurance, FSA, HSA. Lunches and Happy Hours, flexible work hours and FUN team outings!",
+      "descriptionHtml": "<p>As a member of the Engineering team, you’ll develop the next-generation technologies that will change how people and financial institutions exchange value between each other.</p>\n\n<p>You’re here to develop a global open banking ecosystem that is centered around open, secure and universal payments and information API. Are you ready for a challenge to disrupt the way money is moved?!</p>\n\n<p>What you will get to do:</p>\n\n<p>● You’ll help build the core of the Token platform and scale it to millions of users in the years to come! <br>\n● Your contributions will be key as you work closely with the sales and engineering team. <br>\n● You love technologies like Java, gRPC, Protobufs, RxJava, JOOQ, Dagger2, Kubernetes, MariaDB because it’s what you dream about at night! <br>\n● You’ll get to travel internationally and work closely with our UK sales team. <br>\n● You love bantering and talking about architecture with your co-workers and not afraid to share new ideas or challenge each other and will be given an opportunity to make an impact on our product.<br>\n● You have a spidey sense of when things need to be implemented. <br>\n● You’re building a new product, tackling problems that have never been solved before. <br>\n● You can work on your own, but working with a team gives you a buzz as you love collaborating.</p>\n\n<p>What you will need to be successful:</p>\n\n<p>● You bring wickedly smart coding skills,<br>\nYour background includes….<br>\n● BS degree in CS or relevant experience <br>\n● 5-8 yrs. of development experience <br>\n● Strong cryptography knowledge is a plus <br>\n● Working experience in distributed backend systems and API design <br>\n● These are the technologies we use - Java, gRPC, Protobufs, RxJava, JOOQ, Dagger2, Gradle, Kubernetes, MariaDB and if you know any of them it’s a plus!</p>\n\n<p>Benefits for you…<br>\n.<br>\nLocated in the heart of SF downtown on Market, we have a spacious, hip office close to Bart and a short walk from CalTrain. We offer full benefits such as Medical, Dental, Vision, 401k, Life insurance, FSA, HSA. Lunches and Happy Hours, flexible work hours and FUN team outings!</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": true,
+      "locations": [
+        "San Francisco"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$140k – $160k",
+        "equity": "24.0% – 25.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/andree-bryan-1",
+        "name": "Andree Bryan",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "518224",
+        "angelListUrl": "https://angel.co/company/token-io/jobs/518224-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Software Engineer (Java)",
+      "description": "Token.io is a Series A start-up in S.F\n\nWe are developing a global open banking ecosystem that is centered around open, secure and universal payments and information API. Are you ready for a challenge to disrupt the way money is moved?\n\n● You’ll help build the core of the Token platform and scale it to millions of users in the years to come! \n\n● Your contributions will be key as you work closely with the sales and engineering team. \n● You love technologies like Java, gRPC, Protobufs, RxJava, JOOQ, Dagger2, Kubernetes, MariaDB because it’s what you dream about at night! \n● You’ll get to travel internationally and work closely with our UK sales team. \n● You love bantering and talking about architecture with your co-workers and not afraid to share new ideas or challenge each other and will be given an opportunity to make an impact on our product.\n● You have a spidey sense of when things need to be implemented. \n● You’re building a new product, tackling problems that have never been solved before. \n● You can work on your own, but working with a team gives you a buzz as you love collaborating. \n● You bring wickedly smart coding skills\n\nThis role offers the opportunity to grow into a Tech Lead role!\n\nGain exposure to crypto blockchain technologies!",
+      "descriptionHtml": "<p>Token.io is a Series A start-up in S.F</p>\n\n<p>We are developing a global open banking ecosystem that is centered around open, secure and universal payments and information API. Are you ready for a challenge to disrupt the way money is moved?</p>\n\n<p>● You’ll help build the core of the Token platform and scale it to millions of users in the years to come! </p>\n\n<p>● Your contributions will be key as you work closely with the sales and engineering team. <br>\n● You love technologies like Java, gRPC, Protobufs, RxJava, JOOQ, Dagger2, Kubernetes, MariaDB because it’s what you dream about at night! <br>\n● You’ll get to travel internationally and work closely with our UK sales team. <br>\n● You love bantering and talking about architecture with your co-workers and not afraid to share new ideas or challenge each other and will be given an opportunity to make an impact on our product.<br>\n● You have a spidey sense of when things need to be implemented. <br>\n● You’re building a new product, tackling problems that have never been solved before. <br>\n● You can work on your own, but working with a team gives you a buzz as you love collaborating. <br>\n● You bring wickedly smart coding skills</p>\n\n<p>This role offers the opportunity to grow into a Tech Lead role!</p>\n\n<p>Gain exposure to crypto blockchain technologies!</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": true,
+      "locations": [
+        "San Francisco",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "MySQL",
+        "Microservices",
+        "Java RESTful APIs"
+      ],
+      "payment": {
+        "salary": "$140k – $160k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/andree-bryan-1",
+        "name": "Andree Bryan",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "516493",
+        "angelListUrl": "https://angel.co/company/token-io/jobs/516493-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Sr. Software Engineer (Java), San Francisco",
+      "description": "Senior Software Engineer (Java)\n\nDo you love to travel internationally?  Do you enjoy solving complex problems? \n\nToken’s goal is to make moving money easy, instant, secure, and flexible. As a member of the Engineering team, you’ll develop the next-generation technologies that will change how people and financial institutions exchange value between each other.\n\nYou’re here to develop a global open banking ecosystem that is centered around an open, secure and universal payments and information API. Are you ready for a challenge to disrupt the way money is moved?! If so, come join us!\n\nWhat you will get to do:\n\n● You’ll help build the core of the Token platform and scale it to millions of users in the years to come! \n ● Your contributions will be key as you work closely with the sales and engineering team. \n ● You love technologies like Java, gRPC, Protobufs, RxJava, JOOQ, Dagger2, Kubernetes, MariaDB because it’s what you dream about at night! \n ● You’ll get to travel internationally and work closely with our UK sales team. \n ● You love bantering and talking about architecture with your co-workers and not afraid to share new ideas or challenge each other and will be given an opportunity to make an impact on our product.\n ● You have a spidey sense of when things need to be implemented. \n ● You’re building new product, tackling problems that have never been solved before. \n ● You can work on your on, but working with a team gives you a buzz as you love collaborating. \n ● You bring wickedly smart coding skills.\n ● You'll uphold all company security policies and procedures defined in the Employee handbook and report to the relevant individual Line Manager, Information Security Manager or a Head of Risk, Security, and Compliance, where you believe there is a security risk or non-compliance to policies and procedures. \n● Will adhere to Token data protection procedures and confidentiality agreements.\n\nWhat you will need to be successful:\n.\n● BS degree in CS or relevant experience \n ● 5-8 yrs. of development experience \n ● Strong cryptography knowledge is a plus \n ● Working experience in distributed backend systems and API design \n ● These are the technologies we use - Java, gRPC, Protobufs, RxJava, JOOQ, Dagger2, Gradle, Kubernetes, MariaDB and if you know any of them it’s a plus!\n\nBenefits for you:\n\nLocated in the heart of SF downtown on Market, we have a spacious, hip office close to Bart and a short walk from CalTrain. We offer full benefits such as Medical, Dental, Vision, 401k, Life insurance, FSA, HSA. Lunches and Happy Hours, flexible work hours and FUN team outings!\n\n\n\n\nWhat you will need to be successful:\n- Java, REST API, MySQL, Microservices\n- Domain Knowledge of FinTech, Financial Services, Payments , Payment Gateway, Banking are ideal\n- Entrepreneurial spirit and desire to innovate in small collaborative teams.\n- Desire to work in a disruptive FinTech start-up where you WILL make an impact on our product\n- Product minded senior software engineer with potential to grow into a tech lead role\n- Self-started who thrives on learning new technologies (which we embrace)\n\n\nAbout our culture:\n- We foster a culture of transparency, buckets of opportunity to be exposed to and learn new technologies.  Our leadership takes pride in developing our engineer’s careers and giving freedom to expressing their own ideas. \n- We look for wickedly smart software engineers who strive for excellence, are highly collaborative and want to make an impact in a disruptive growing Fintech market.  Unlike other companies,  we believe technologies can be learned but entrepreneurial spirit, a mind for innovation and drive to deliver is innate.\n\n\n\nToken’s CEO, Steve Kirsch, has invented several groundbreaking technologies and has had multiple billion dollar exits. Our team comes from top companies like Google, Amazon, Apple, Microsoft, Twitter and Square.\nWith Series A funding of $16M, we are growing our offices in San Francisco and London\n",
+      "descriptionHtml": "<p>Senior Software Engineer (Java)</p>\n\n<p>Do you love to travel internationally?  Do you enjoy solving complex problems? </p>\n\n<p>Token’s goal is to make moving money easy, instant, secure, and flexible. As a member of the Engineering team, you’ll develop the next-generation technologies that will change how people and financial institutions exchange value between each other.</p>\n\n<p>You’re here to develop a global open banking ecosystem that is centered around an open, secure and universal payments and information API. Are you ready for a challenge to disrupt the way money is moved?! If so, come join us!</p>\n\n<p>What you will get to do:</p>\n\n<p>● You’ll help build the core of the Token platform and scale it to millions of users in the years to come! <br>\n ● Your contributions will be key as you work closely with the sales and engineering team. <br>\n ● You love technologies like Java, gRPC, Protobufs, RxJava, JOOQ, Dagger2, Kubernetes, MariaDB because it’s what you dream about at night! <br>\n ● You’ll get to travel internationally and work closely with our UK sales team. <br>\n ● You love bantering and talking about architecture with your co-workers and not afraid to share new ideas or challenge each other and will be given an opportunity to make an impact on our product.<br>\n ● You have a spidey sense of when things need to be implemented. <br>\n ● You’re building new product, tackling problems that have never been solved before. <br>\n ● You can work on your on, but working with a team gives you a buzz as you love collaborating. <br>\n ● You bring wickedly smart coding skills.<br>\n ● You&#39;ll uphold all company security policies and procedures defined in the Employee handbook and report to the relevant individual Line Manager, Information Security Manager or a Head of Risk, Security, and Compliance, where you believe there is a security risk or non-compliance to policies and procedures. <br>\n● Will adhere to Token data protection procedures and confidentiality agreements.</p>\n\n<p>What you will need to be successful:<br>\n.<br>\n● BS degree in CS or relevant experience <br>\n ● 5-8 yrs. of development experience <br>\n ● Strong cryptography knowledge is a plus <br>\n ● Working experience in distributed backend systems and API design <br>\n ● These are the technologies we use - Java, gRPC, Protobufs, RxJava, JOOQ, Dagger2, Gradle, Kubernetes, MariaDB and if you know any of them it’s a plus!</p>\n\n<p>Benefits for you:</p>\n\n<p>Located in the heart of SF downtown on Market, we have a spacious, hip office close to Bart and a short walk from CalTrain. We offer full benefits such as Medical, Dental, Vision, 401k, Life insurance, FSA, HSA. Lunches and Happy Hours, flexible work hours and FUN team outings!</p>\n\n<p>What you will need to be successful:</p>\n\n<ul>\n<li>Java, REST API, MySQL, Microservices</li>\n<li>Domain Knowledge of FinTech, Financial Services, Payments , Payment Gateway, Banking are ideal</li>\n<li>Entrepreneurial spirit and desire to innovate in small collaborative teams.</li>\n<li>Desire to work in a disruptive FinTech start-up where you WILL make an impact on our product</li>\n<li>Product minded senior software engineer with potential to grow into a tech lead role</li>\n<li>Self-started who thrives on learning new technologies (which we embrace)</li>\n</ul>\n\n<p>About our culture:</p>\n\n<ul>\n<li>We foster a culture of transparency, buckets of opportunity to be exposed to and learn new technologies.  Our leadership takes pride in developing our engineer’s careers and giving freedom to expressing their own ideas. </li>\n<li>We look for wickedly smart software engineers who strive for excellence, are highly collaborative and want to make an impact in a disruptive growing Fintech market.  Unlike other companies,  we believe technologies can be learned but entrepreneurial spirit, a mind for innovation and drive to deliver is innate.</li>\n</ul>\n\n<p>Token’s CEO, Steve Kirsch, has invented several groundbreaking technologies and has had multiple billion dollar exits. Our team comes from top companies like Google, Amazon, Apple, Microsoft, Twitter and Square.<br>\nWith Series A funding of $16M, we are growing our offices in San Francisco and London</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "San Francisco"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$115k – $165k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/andree-bryan-1",
+        "name": "Andree Bryan",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "516486",
+        "angelListUrl": "https://angel.co/company/token-io/jobs/516486-"
+      }
+    }
+  ]
+}

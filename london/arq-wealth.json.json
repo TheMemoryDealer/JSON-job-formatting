@@ -1,0 +1,101 @@
+{
+  "name": "ARQ Wealth",
+  "avatar": "https://photos.angel.co/startups/i/6941883-01590c6ba4b556f1586e16295c12191f-medium_jpg.jpg?buster=1557760435",
+  "slogan": "ARQ is a new digital wealth mgt experience, empowering customers - saving time & money",
+  "description": "Wealth management smartphone application/service.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.yourarq.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Cloud Computing",
+    "Wealth Management",
+    "Fin Tech"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/david-noyce-2",
+      "name": "David Noyce",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "COO <a href=\"https://angel.co/arq\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Arq</span></a> • Worked at <a href=\"https://angel.co/arq\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Arq</span></a> Wealth Limited"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6941883",
+    "angelListUrl": "https://angel.co/company/arq-wealth"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Technology Platform lead",
+      "description": "Skills required:\n\nAn experienced full stack technical development and design/architecture lead with the following demonstrable technical expertise:\n•\tFintech / start-up technology lead experience (7-10 years)\n•\tMobile application development and deployment (ioS, android)\n•\tJava and JavaScript frameworks\n•\tFront end interface design experience (React, React Native, HTML5,)\n•\tDB technologies (Postgres, sql, mongo..)\n•\tGoogle Cloud platform and toolsets development experience (eg Firebase)\n•\tData security best practice design and implementation\n•\tInterface methodologies (REST in particular)\n•\tDesigning architecture from scratch (lead decision making on appropriate tech stack)\n•\tAgile build and principles of quality engineering\n•\tProficient in use and configuration of Agile dev project tools (GitHub/Bitbucket, JIRA, Confluence, Slack)\n•\tManagement of a development team – remote or onsite and business stakeholders of all levels\n•\tProduction application quality control and release management \n•\tThrives in a small organisation set up and working approach\n•\tExperience managing vendors and vendor product integration\n\n\nIdeal experience (good to have):\n•\tUX design and build\n•\tFinancial Services / Wealth mgt industry experience\n\n\nPersonal qualities:\n•\tGreat communications (cross stakeholders and customers)\n•\tFlexible / adaptive team player\n•\tComfortable with Strategy and detail (this is a sleeves rolled up role, as well as leading the journey)\n•\tDemonstrated passion, perseverance and goal orientation",
+      "descriptionHtml": "<p>Skills required:</p>\n\n<p>An experienced full stack technical development and design/architecture lead with the following demonstrable technical expertise:<br>\n• Fintech / start-up technology lead experience (7-10 years)<br>\n• Mobile application development and deployment (ioS, android)<br>\n• Java and JavaScript frameworks<br>\n• Front end interface design experience (React, React Native, HTML5,)<br>\n• DB technologies (Postgres, sql, mongo..)<br>\n• Google Cloud platform and toolsets development experience (eg Firebase)<br>\n• Data security best practice design and implementation<br>\n• Interface methodologies (REST in particular)<br>\n• Designing architecture from scratch (lead decision making on appropriate tech stack)<br>\n• Agile build and principles of quality engineering<br>\n• Proficient in use and configuration of Agile dev project tools (GitHub/Bitbucket, JIRA, Confluence, Slack)<br>\n• Management of a development team – remote or onsite and business stakeholders of all levels<br>\n• Production application quality control and release management <br>\n• Thrives in a small organisation set up and working approach<br>\n• Experience managing vendors and vendor product integration</p>\n\n<p>Ideal experience (good to have):<br>\n• UX design and build<br>\n• Financial Services / Wealth mgt industry experience</p>\n\n<p>Personal qualities:<br>\n• Great communications (cross stakeholders and customers)<br>\n• Flexible / adaptive team player<br>\n• Comfortable with Strategy and detail (this is a sleeves rolled up role, as well as leading the journey)<br>\n• Demonstrated passion, perseverance and goal orientation</p>\n",
+      "position": "full-time",
+      "experience": 7,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Mobile Development",
+        "People Management",
+        "Database and Systems Design",
+        "API",
+        "Data Security",
+        "Start-Ups",
+        "Google Cloud Platform"
+      ],
+      "payment": {
+        "salary": "£65k – £85k",
+        "equity": "0.25% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/david-noyce-2",
+        "name": "David Noyce",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "554482",
+        "angelListUrl": "https://angel.co/company/arq-wealth/jobs/554482-"
+      }
+    }
+  ]
+}

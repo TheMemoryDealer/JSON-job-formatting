@@ -1,0 +1,105 @@
+{
+  "name": "edyn.care",
+  "avatar": "https://photos.angel.co/startups/i/6934272-c812e13ff5ea73bd93a948fd5c87a315-medium_jpg.jpg?buster=1557394865",
+  "slogan": "A tech-enabled home care company on a social mission",
+  "description": "We have built a best in market web-based platform which is gaining efficiencies and improving quality of service in our home care offering. We have pragmatically attacked the most challenging obstacles in the market to empowers our carers, gives a piece of mind to our clients and enables highly efficient management of care. We have built a scalable solution with an exciting road map in a complex and life-supporting service.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.edyn.care"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Home Care"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/jonny-bottomley",
+      "name": "Jonny Bottomley",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/james-shields-13",
+      "name": "James Shields",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6934272",
+    "angelListUrl": "https://angel.co/company/edyn-care-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Frontend developer",
+      "description": "We are rebranding and redesigning our public website to support a well funded and sophisticated performance marketing campaign. We need a proficient frontend developer that can sit next to our design and marketing teams to rapidly iterate and deliver frontend web pages for PPC and SEO lead client acquisition. \n\nThis is a dynamic role in a small team and one that will have a huge impact. We need someone that can follow high fidelity designs to deliver beautiful and responsive web pages.  \n\nPrimarily we are looking for someone that can come in and provide the required technical support for this specific marketing campaign but following which the opportunities are extensive to join and even lead an advanced product team.\n\nThe benefits package is negotiable but in the medium term, there is an expectation that part of the salary will be taken as equity.",
+      "descriptionHtml": "<p>We are rebranding and redesigning our public website to support a well funded and sophisticated performance marketing campaign. We need a proficient frontend developer that can sit next to our design and marketing teams to rapidly iterate and deliver frontend web pages for PPC and SEO lead client acquisition. </p>\n\n<p>This is a dynamic role in a small team and one that will have a huge impact. We need someone that can follow high fidelity designs to deliver beautiful and responsive web pages.  </p>\n\n<p>Primarily we are looking for someone that can come in and provide the required technical support for this specific marketing campaign but following which the opportunities are extensive to join and even lead an advanced product team.</p>\n\n<p>The benefits package is negotiable but in the medium term, there is an expectation that part of the salary will be taken as equity.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "HTML",
+        "CSS",
+        "React.js",
+        "NodeJS"
+      ],
+      "payment": {
+        "salary": "£35k – £45k",
+        "equity": "1.0% – 3.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/jonny-bottomley",
+        "name": "Jonny Bottomley",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "552702",
+        "angelListUrl": "https://angel.co/company/edyn-care-1/jobs/552702-"
+      },
+      "postedAt": 1589658552702
+    }
+  ]
+}

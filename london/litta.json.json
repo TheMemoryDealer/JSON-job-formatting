@@ -1,0 +1,94 @@
+{
+  "name": "Litta",
+  "avatar": "https://photos.angel.co/startups/i/7315423-f2b55f8301735f9c3ed811359f16e9ee-medium_jpg.jpg?buster=1573729777",
+  "slogan": "Clearance on demand",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://Litta.co"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London",
+    "United Kingdom"
+  ],
+  "marketTags": [
+    "Mobile Commerce",
+    "Waste Management"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/chris-yiannopoulos",
+      "name": "Chris Yiannopoulos",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7315423",
+    "angelListUrl": "https://angel.co/company/litta"
+  },
+  "jobs": [
+    {
+      "role": "Sales",
+      "title": "Head of Business Development",
+      "description": "Create and execute business to business growth strategy\n\nDevelop overall marketing campaign strategy",
+      "descriptionHtml": "<p>Create and execute business to business growth strategy</p>\n\n<p>Develop overall marketing campaign strategy</p>\n",
+      "position": "cofounder",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Business Development"
+      ],
+      "payment": {
+        "salary": "£12k – £24k",
+        "equity": "1.0% – 2.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/chris-yiannopoulos",
+        "name": "Chris Yiannopoulos",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "663241",
+        "angelListUrl": "https://angel.co/company/litta/jobs/663241-"
+      }
+    }
+  ]
+}

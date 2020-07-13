@@ -1,0 +1,229 @@
+{
+  "name": "Limbic",
+  "avatar": "https://photos.angel.co/startups/i/5941974-a0bd61a56c66ed55577fc9fa02d2c7a7-medium_jpg.jpg?buster=1549537346",
+  "slogan": "AI for Mental Health",
+  "description": "The world's first emotion-detection AI for wearables.\n\n$1 trillion: Annual cost of depression and anxiety in lost productivity.\n750 million: Workdays lost due to mental illness.\n1 in 5: Proportion of adults in the US that experience mental illness in a given year. \nTwo thirds: Fraction of people with a known mental disorder who never get help.\n800,000: Number of people who took their own life this year.\n\nMental health is a growing problem, fuelled by social media and unhealthy online behaviour. But technology is not inherently ‘bad’. What if it was more human?\n\nWe’re developing a scalable solution to the growing mental health problem. Our patent-pending AI detects human emotion from heartbeat data collected by wearables. We're better than the leading university groups, and we're only getting better. Come and join us!",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://limbic.ai"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Artificial Intelligence",
+    "Wearables",
+    "Internet of Things",
+    "Mental Health"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/bas-de-vries-1",
+      "name": "Sebastiaan de Vries",
+      "avatar": "https://photos.angel.co/users/1108238-medium_jpg?1533038829",
+      "bioHtml": "Maker turned entrepreneur "
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/ross-harper",
+      "name": "Ross Harper",
+      "avatar": "https://photos.angel.co/users/5319708-medium_jpg?1483467043",
+      "bioHtml": "CEO/CSO of Limbic. Neuroscientist with a PhD + MRes from UCL, and MA from Cambridge."
+    },
+    {
+      "title": "Operations Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/ben-carrington",
+      "name": "Ben Carrington",
+      "avatar": "https://photos.angel.co/users/6987207-medium_jpg?1569443169",
+      "bioHtml": "Science Nerd | Brand Director | Operations Manager | Healthtech Advocate"
+    },
+    {
+      "title": "CEO",
+      "role": "Employee",
+      "url": "https://angel.co/u/ross-harper",
+      "name": "Ross Harper",
+      "avatar": "https://photos.angel.co/users/5319708-medium_jpg?1483467043",
+      "bioHtml": "CEO/CSO of Limbic. Neuroscientist with a PhD + MRes from UCL, and MA from Cambridge."
+    },
+    {
+      "title": "Machine Learning Researcher",
+      "role": "Employee",
+      "url": "https://angel.co/u/joshua-southern-1",
+      "name": "Joshua Southern",
+      "avatar": "https://photos.angel.co/users/7163238-medium_jpg?1557495343",
+      "bioHtml": "Machine Learning Researcher at Limbic. Previously masters student in applied mathematics at Imperial College London"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5941974",
+    "angelListUrl": "https://angel.co/company/limbic-ai"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Backend (node.js) developer",
+      "description": "We're looking for a node.js engineer to join our team. This is an exciting opportunity to be at the start of a new product with a stack you are able to define.\n\nLimbic is building a scalable solution for mental health. There is currently no way to reliably track emotion. If you can’t measure it, you can’t manage it. We’re building the world’s first emotion-detection AI for consumer wearables.\n\nWe're growing quickly and we're backed by Europe's leading start-up accelerator, Entrepreneur First and Google. We’ve also received investment from VC, Angels, and the European Commission.\n\nLimbic was founded by scientists and engineers. You'll be joining our already technical team working at the intersection of neuroscience, physiology, and machine learning. We're a small group, so you'll need to be diverse in your work patterns. But this also means there will be many exciting challenges, personal development, and the opportunity to forge your own projects within the company. \n\nIt’s challenging. We’re ambitious. And we’re supporting one another to achieve our best and make real impact in the world.\n\n-----------------------------------------------------------------------------------------\n\nAt a high level, you'll be focussed on the following:\n\n- Maintaining and improving our database\n- Writing a RESTful backend to work seamlessly with the front-end \n- Writing tests and improving server-reliability \n- Supporting our research scientists with data filtering, ordering and sorting\n\nBonus if you've got experience developing open source projects and have a strong foothold in an engineering community.\n\n-----------------------------------------------------------------------------------------\n\nWe are looking for anyone with *at least one* of the following qualifications:\n\n- Advanced level of SQL databases. Bonus if you've worked with Postgres or GraphQL.\n- Advanced level of Javascript/node.js.\n\n-----------------------------------------------------------------------------------------\n\nYou should apply if:\n\n- You're excited by the opportunity to build another sense into the computing device of the future \n- You believe that mental health is one of the most important challenges we're facing at the moment.\n- You want to join a company you can grow with.\n- You can move fast and get stuff done. \n- You want to make a name for yourself at the leading edge of AI.\n\n-----------------------------------------------------------------------------------------\n\nFemale engineers strongly encouraged to apply.",
+      "descriptionHtml": "<p>We&#39;re looking for a node.js engineer to join our team. This is an exciting opportunity to be at the start of a new product with a stack you are able to define.</p>\n\n<p>Limbic is building a scalable solution for mental health. There is currently no way to reliably track emotion. If you can’t measure it, you can’t manage it. We’re building the world’s first emotion-detection AI for consumer wearables.</p>\n\n<p>We&#39;re growing quickly and we&#39;re backed by Europe&#39;s leading start-up accelerator, Entrepreneur First and Google. We’ve also received investment from VC, Angels, and the European Commission.</p>\n\n<p>Limbic was founded by scientists and engineers. You&#39;ll be joining our already technical team working at the intersection of neuroscience, physiology, and machine learning. We&#39;re a small group, so you&#39;ll need to be diverse in your work patterns. But this also means there will be many exciting challenges, personal development, and the opportunity to forge your own projects within the company. </p>\n\n<p>It’s challenging. We’re ambitious. And we’re supporting one another to achieve our best and make real impact in the world.</p>\n\n<hr>\n\n<p>At a high level, you&#39;ll be focussed on the following:</p>\n\n<ul>\n<li>Maintaining and improving our database</li>\n<li>Writing a RESTful backend to work seamlessly with the front-end </li>\n<li>Writing tests and improving server-reliability </li>\n<li>Supporting our research scientists with data filtering, ordering and sorting</li>\n</ul>\n\n<p>Bonus if you&#39;ve got experience developing open source projects and have a strong foothold in an engineering community.</p>\n\n<hr>\n\n<p>We are looking for anyone with <em>at least one</em> of the following qualifications:</p>\n\n<ul>\n<li>Advanced level of SQL databases. Bonus if you&#39;ve worked with Postgres or GraphQL.</li>\n<li>Advanced level of Javascript/node.js.</li>\n</ul>\n\n<hr>\n\n<p>You should apply if:</p>\n\n<ul>\n<li>You&#39;re excited by the opportunity to build another sense into the computing device of the future </li>\n<li>You believe that mental health is one of the most important challenges we&#39;re facing at the moment.</li>\n<li>You want to join a company you can grow with.</li>\n<li>You can move fast and get stuff done. </li>\n<li>You want to make a name for yourself at the leading edge of AI.</li>\n</ul>\n\n<hr>\n\n<p>Female engineers strongly encouraged to apply.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Node.js"
+      ],
+      "payment": {
+        "salary": "£40k – £60k",
+        "equity": "1.0% – 2.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/bas-de-vries-1",
+        "name": "Sebastiaan de Vries",
+        "avatar": "https://photos.angel.co/users/1108238-medium_jpg?1533038829"
+      },
+      "refs": {
+        "angelListId": "527896",
+        "angelListUrl": "https://angel.co/company/limbic-ai/jobs/527896-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Clinical Psychologist/CBT Therapist",
+      "description": "We're looking for a mental healthcare professional to join our team in London.\n\nLimbic is on a mission to model human psychology. In doing so, we're solving the biggest problems in psychological therapy today. Combining artificial intelligence with beautiful digital product design, we're making it easier than ever for patients to provide their clinicians with high quality data.\n\nWe're growing quickly and we're backed by Europe's leading start-up accelerator, Entrepreneur First, and Google. We’ve also received investment from VC, Angels, the European Commission, and Innovate UK.\n\nIt’s challenging. We’re ambitious. And we’re supporting one another to achieve our best and make real impact in the world.\n\nRESPONSIBILITIES:\n\n- Use your clinical experience and network to support product development. (What should Limbic be building? What are the biggest problems to solve in psychological therapy? How can we solve these?)\n- Create and manage relationships with clients in healthcare. (Who should Limbic be working with?)\n- Support the running of pilot projects with clinical partners. (Designing study protocol, obtaining ethical approval, navigating the regulatory procedures, and ensuring a successful trial).\n- Content creation. We need psychoeducational materials for our mobile app and assistance creating weekly CBT digests for our clinician user group.\n- Hold structured interviews with end users (patients) and clients (therapists et al).\n- Participate in strategy meetings. (Clinical go-to-market, roadmap, regulations etc.)\n- Act as clinical safety officer to oversee the clinical risk assessment of our products\n- Advise the team using your unique clinical perspective. (How should Limbic be thinking about things?)\n- Liaise directly with the CEO and CTO\n\nEXPERIENCE:\n\n- A doctorate in a relevant clinical field (Clinical Psychology, Psychiatry, Medicine etc.)\n- Experience delivering CBT in the UK. NHS and private practice would be preferred.\n- A current active professional registration .\n- Enthusiasm and motivation to solve problems without explicit direction from senior team members.\n- A professional and personable behaviour when dealing with clients.\n- General innovation. We care deeply about intellectual culture at Limbic. We all have the same goals, and we all get a say in how best to achieve these. Get creative!\n\nYOU SHOULD APPLY IF:\n\n- You're excited by our vision at Limbic. \n- You believe in the company and want to grow with us.\n- You believe the mental health industry needs to change and CAN be disrupted.\n- You can move fast and get stuff done. (You don’t just take ‘no’ for an answer). \n- You’re ready to apply your clinical knowledge to help Limbic navigate the healthcare landscape.\n- You want to see your work being used in the real world, benefitting people’s lives.\n- You want to make a name for yourself at the leading edge of AI.\n\n\nLimbic is an equal opportunity employer and particularly encourages applications from women and minorities.",
+      "descriptionHtml": "<p>We&#39;re looking for a mental healthcare professional to join our team in London.</p>\n\n<p>Limbic is on a mission to model human psychology. In doing so, we&#39;re solving the biggest problems in psychological therapy today. Combining artificial intelligence with beautiful digital product design, we&#39;re making it easier than ever for patients to provide their clinicians with high quality data.</p>\n\n<p>We&#39;re growing quickly and we&#39;re backed by Europe&#39;s leading start-up accelerator, Entrepreneur First, and Google. We’ve also received investment from VC, Angels, the European Commission, and Innovate UK.</p>\n\n<p>It’s challenging. We’re ambitious. And we’re supporting one another to achieve our best and make real impact in the world.</p>\n\n<p>RESPONSIBILITIES:</p>\n\n<ul>\n<li>Use your clinical experience and network to support product development. (What should Limbic be building? What are the biggest problems to solve in psychological therapy? How can we solve these?)</li>\n<li>Create and manage relationships with clients in healthcare. (Who should Limbic be working with?)</li>\n<li>Support the running of pilot projects with clinical partners. (Designing study protocol, obtaining ethical approval, navigating the regulatory procedures, and ensuring a successful trial).</li>\n<li>Content creation. We need psychoeducational materials for our mobile app and assistance creating weekly CBT digests for our clinician user group.</li>\n<li>Hold structured interviews with end users (patients) and clients (therapists et al).</li>\n<li>Participate in strategy meetings. (Clinical go-to-market, roadmap, regulations etc.)</li>\n<li>Act as clinical safety officer to oversee the clinical risk assessment of our products</li>\n<li>Advise the team using your unique clinical perspective. (How should Limbic be thinking about things?)</li>\n<li>Liaise directly with the CEO and CTO</li>\n</ul>\n\n<p>EXPERIENCE:</p>\n\n<ul>\n<li>A doctorate in a relevant clinical field (Clinical Psychology, Psychiatry, Medicine etc.)</li>\n<li>Experience delivering CBT in the UK. NHS and private practice would be preferred.</li>\n<li>A current active professional registration .</li>\n<li>Enthusiasm and motivation to solve problems without explicit direction from senior team members.</li>\n<li>A professional and personable behaviour when dealing with clients.</li>\n<li>General innovation. We care deeply about intellectual culture at Limbic. We all have the same goals, and we all get a say in how best to achieve these. Get creative!</li>\n</ul>\n\n<p>YOU SHOULD APPLY IF:</p>\n\n<ul>\n<li>You&#39;re excited by our vision at Limbic. </li>\n<li>You believe in the company and want to grow with us.</li>\n<li>You believe the mental health industry needs to change and CAN be disrupted.</li>\n<li>You can move fast and get stuff done. (You don’t just take ‘no’ for an answer). </li>\n<li>You’re ready to apply your clinical knowledge to help Limbic navigate the healthcare landscape.</li>\n<li>You want to see your work being used in the real world, benefitting people’s lives.</li>\n<li>You want to make a name for yourself at the leading edge of AI.</li>\n</ul>\n\n<p>Limbic is an equal opportunity employer and particularly encourages applications from women and minorities.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£25k – £50k",
+        "equity": "0.3% – 0.5%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/ross-harper",
+        "name": "Ross Harper",
+        "avatar": "https://photos.angel.co/users/5319708-medium_jpg?1483467043"
+      },
+      "refs": {
+        "angelListId": "553472",
+        "angelListUrl": "https://angel.co/company/limbic-ai/jobs/553472-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "Product designer",
+      "description": "Limbic is building a scalable solution for mental health. There is currently no way to reliably track emotion. \"If you can’t measure it, you can’t manage it\". We’re building the world’s first emotion-detection AI for consumer wearables.\n\nWe're growing quickly and we're backed by Europe's leading start-up accelerator, Entrepreneur First, and Google. We’ve also received investment from VC, Angels, and the European Commission.\n\nIt’s challenging. We’re ambitious. And we’re supporting one another to achieve our best and make real impact in the world.\n\n-----------------------------------------------------------------------------------------\n\nAs the first product designer at Limbic, you’ll work on bringing our groundbreaking Emotion AI to the area of mental health.\n\nIdeally, you have experience working in a startup environment and can collaborate cross-functionally with growth, and engineering.\nYou can identify areas for improvement, come up with possible solutions and proposals, as well as iterate, implement, and drive releases that improve the product.\n\n-----------------------------------------------------------------------------------------\n\nWhat you'll be working on:\n\n- Drive engineering (product and science) towards shippable solutions to a given problem and work towards a clear proposal through multiple iterations.\n- Conducting user interviews and user research to uncover needs and validate existing implementations\n- Provide high-quality mockups and prototypes\n- Collaborate closely with engineering to keep track of implementation, maintain app quality, find bugs, and provide reproduction paths\n- Continuously validate the user experience of shipped solutions and look for low-effort improvements with the highest impact\n\n-----------------------------------------------------------------------------------------\n\nYour background:\n\n- Knowledge of the mental health space, especially CBT and how it's used in a clinical setting\n- Ability to turn technical knowledge into visual and quantifiable results\n- Experience designing a product from scratch\n\n-----------------------------------------------------------------------------------------\n\nYou should apply if:\n\n- You're excited by our vision at Limbic. \n- You believe in the company and want to grow with us.\n- You believe the mental health industry needs better data and CAN be disrupted.\n- You can move fast and get stuff done. (You don’t just take ‘no’ for an answer).  \n- You’re ready to apply your clinical knowledge to help Limbic navigate the healthcare landscape.\n- You want to see your work being used in the real world, benefitting people’s lives.\n- You want to make a name for yourself at the leading edge of AI.\n\n-----------------------------------------------------------------------------------------\n\nLimbic is an equal opportunity employer and particularly encourages applications from women and minorities.",
+      "descriptionHtml": "<p>Limbic is building a scalable solution for mental health. There is currently no way to reliably track emotion. &quot;If you can’t measure it, you can’t manage it&quot;. We’re building the world’s first emotion-detection AI for consumer wearables.</p>\n\n<p>We&#39;re growing quickly and we&#39;re backed by Europe&#39;s leading start-up accelerator, Entrepreneur First, and Google. We’ve also received investment from VC, Angels, and the European Commission.</p>\n\n<p>It’s challenging. We’re ambitious. And we’re supporting one another to achieve our best and make real impact in the world.</p>\n\n<hr>\n\n<p>As the first product designer at Limbic, you’ll work on bringing our groundbreaking Emotion AI to the area of mental health.</p>\n\n<p>Ideally, you have experience working in a startup environment and can collaborate cross-functionally with growth, and engineering.<br>\nYou can identify areas for improvement, come up with possible solutions and proposals, as well as iterate, implement, and drive releases that improve the product.</p>\n\n<hr>\n\n<p>What you&#39;ll be working on:</p>\n\n<ul>\n<li>Drive engineering (product and science) towards shippable solutions to a given problem and work towards a clear proposal through multiple iterations.</li>\n<li>Conducting user interviews and user research to uncover needs and validate existing implementations</li>\n<li>Provide high-quality mockups and prototypes</li>\n<li>Collaborate closely with engineering to keep track of implementation, maintain app quality, find bugs, and provide reproduction paths</li>\n<li>Continuously validate the user experience of shipped solutions and look for low-effort improvements with the highest impact</li>\n</ul>\n\n<hr>\n\n<p>Your background:</p>\n\n<ul>\n<li>Knowledge of the mental health space, especially CBT and how it&#39;s used in a clinical setting</li>\n<li>Ability to turn technical knowledge into visual and quantifiable results</li>\n<li>Experience designing a product from scratch</li>\n</ul>\n\n<hr>\n\n<p>You should apply if:</p>\n\n<ul>\n<li>You&#39;re excited by our vision at Limbic. </li>\n<li>You believe in the company and want to grow with us.</li>\n<li>You believe the mental health industry needs better data and CAN be disrupted.</li>\n<li>You can move fast and get stuff done. (You don’t just take ‘no’ for an answer).<br></li>\n<li>You’re ready to apply your clinical knowledge to help Limbic navigate the healthcare landscape.</li>\n<li>You want to see your work being used in the real world, benefitting people’s lives.</li>\n<li>You want to make a name for yourself at the leading edge of AI.</li>\n</ul>\n\n<hr>\n\n<p>Limbic is an equal opportunity employer and particularly encourages applications from women and minorities.</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "User Experience Design",
+        "User Research",
+        "Visual Design",
+        "UI/UX Design",
+        "Product Design"
+      ],
+      "payment": {
+        "salary": "£40k – £80k",
+        "equity": "0.5% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/bas-de-vries-1",
+        "name": "Sebastiaan de Vries",
+        "avatar": "https://photos.angel.co/users/1108238-medium_jpg?1533038829"
+      },
+      "refs": {
+        "angelListId": "571955",
+        "angelListUrl": "https://angel.co/company/limbic-ai/jobs/571955-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Senior Deep Learning Researcher",
+      "description": "We're looking for a Senior Deep Learning Researcher to join our team in London.\n\nLimbic is building a scalable solution for mental health. There is currently no way to reliably track emotion. If you can’t measure it, you can’t manage it. We’re building the world’s first emotion-detection AI for consumer wearables.\n\nWe're growing quickly and are backed by Entrepreneur First and Google. We’ve also received investment from VC, Angels, and the European Commission.\n\nLimbic was founded by scientists and engineers. You'll be joining our already technical team working at the intersection of neuroscience, physiology, and machine learning. We're a small group, so you'll need to be diverse in your work patterns. But this also means there will be exciting puzzles, fast personal development, and the opportunity to forge your own projects within the company. \n\nIt’s challenging. We’re ambitious. And we’re supporting one another to achieve our best and make real impact in the world.\n\n\n-----------------------------------------------------------------------------------------\n\n\nWhat you will do:\n\n- Lead a small Research team, and work with the Product team, to achieve technical goals for Limbic.\n- Develop our core algorithms. We're creating something novel, and your expertise will help drive this. From signal processing, feature engineering, model selection, and hyper-parameter tuning you will be finding emotion in the noise.\n- Collaborative research with academia. We have research ongoing with clinical university researchers and aim to publish our results. You will be contributing to these projects and co-authoring papers.\n\n-----------------------------------------------------------------------------------------\n\nWhat you will bring:\n\n- An advanced degree (a PhD) in computer science, computational neuroscience, or a related field. \n- Experience with relevant research associated with time series modelling, natural language processing, adversarial learning, reinforcement learning, active learning, probabilistic bayesian learning, and/or semi-supervised/multitask learning. \n- Deep expertise in Bayesian model approaches \n- Knowledge of modern tools for ML such as Tensorflow, Theano, PyTorch etc.\n- Experience building research prototypes and developing product-worthy tools from them.\n- Previous Industry experience in translating these approaches into commercial / industry setting is essential\n- General innovation. We care deeply about intellectual culture at Limbic. We all have the same goals, and we all get a say in how best to achieve these. Get creative!\n\n-----------------------------------------------------------------------------------------\nYou should apply if:\n\n- You're excited by our vision at Limbic.\n- You believe in the company and want to grow with us.\n- You can move fast and get stuff done.\n- You can build bespoke time series models and find meaning in noisy data.\n- You want to see your work being used out in the real world.\n- You want to make a name for yourself at the leading edge of AI.\n\nLimbic is an equal opportunity employer and particularly encourages applications from women and minorities.",
+      "descriptionHtml": "<p>We&#39;re looking for a Senior Deep Learning Researcher to join our team in London.</p>\n\n<p>Limbic is building a scalable solution for mental health. There is currently no way to reliably track emotion. If you can’t measure it, you can’t manage it. We’re building the world’s first emotion-detection AI for consumer wearables.</p>\n\n<p>We&#39;re growing quickly and are backed by Entrepreneur First and Google. We’ve also received investment from VC, Angels, and the European Commission.</p>\n\n<p>Limbic was founded by scientists and engineers. You&#39;ll be joining our already technical team working at the intersection of neuroscience, physiology, and machine learning. We&#39;re a small group, so you&#39;ll need to be diverse in your work patterns. But this also means there will be exciting puzzles, fast personal development, and the opportunity to forge your own projects within the company. </p>\n\n<p>It’s challenging. We’re ambitious. And we’re supporting one another to achieve our best and make real impact in the world.</p>\n\n<hr>\n\n<p>What you will do:</p>\n\n<ul>\n<li>Lead a small Research team, and work with the Product team, to achieve technical goals for Limbic.</li>\n<li>Develop our core algorithms. We&#39;re creating something novel, and your expertise will help drive this. From signal processing, feature engineering, model selection, and hyper-parameter tuning you will be finding emotion in the noise.</li>\n<li>Collaborative research with academia. We have research ongoing with clinical university researchers and aim to publish our results. You will be contributing to these projects and co-authoring papers.</li>\n</ul>\n\n<hr>\n\n<p>What you will bring:</p>\n\n<ul>\n<li>An advanced degree (a PhD) in computer science, computational neuroscience, or a related field. </li>\n<li>Experience with relevant research associated with time series modelling, natural language processing, adversarial learning, reinforcement learning, active learning, probabilistic bayesian learning, and/or semi-supervised/multitask learning. </li>\n<li>Deep expertise in Bayesian model approaches </li>\n<li>Knowledge of modern tools for ML such as Tensorflow, Theano, PyTorch etc.</li>\n<li>Experience building research prototypes and developing product-worthy tools from them.</li>\n<li>Previous Industry experience in translating these approaches into commercial / industry setting is essential</li>\n<li>General innovation. We care deeply about intellectual culture at Limbic. We all have the same goals, and we all get a say in how best to achieve these. Get creative!</li>\n</ul>\n\n<hr>\n\n<p>You should apply if:</p>\n\n<ul>\n<li>You&#39;re excited by our vision at Limbic.</li>\n<li>You believe in the company and want to grow with us.</li>\n<li>You can move fast and get stuff done.</li>\n<li>You can build bespoke time series models and find meaning in noisy data.</li>\n<li>You want to see your work being used out in the real world.</li>\n<li>You want to make a name for yourself at the leading edge of AI.</li>\n</ul>\n\n<p>Limbic is an equal opportunity employer and particularly encourages applications from women and minorities.</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Machine Learning",
+        "Research and Development",
+        "Time Series Analysis",
+        "Recurrent Neural Networks",
+        "Latent Variable Models"
+      ],
+      "payment": {
+        "salary": "£40k – £65k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/ross-harper",
+        "name": "Ross Harper",
+        "avatar": "https://photos.angel.co/users/5319708-medium_jpg?1483467043"
+      },
+      "refs": {
+        "angelListId": "387292",
+        "angelListUrl": "https://angel.co/company/limbic-ai/jobs/387292-"
+      }
+    }
+  ]
+}

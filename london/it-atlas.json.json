@@ -1,0 +1,77 @@
+{
+  "name": "IT ATLAS",
+  "avatar": "https://photos.angel.co/startups/i/6599357-6afe37aaadf4d7860085030da4a548bd-medium_jpg.jpg?buster=1542738718",
+  "slogan": "A rapidly growing international digital agency",
+  "description": "Web application, Chatbot, Sentiment analyser, E-commerce.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.itatlas.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Information Technology",
+    "Ecommerce",
+    "Online Marketplaces"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/lucia-ramb",
+      "name": "Lucia Ramb ",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/victor-majumder",
+      "name": "Victor Majumder ",
+      "avatar": "https://photos.angel.co/users/8367546-medium_jpg?1538007739",
+      "bioHtml": "Worked at Microsoft, ThyssenKrupp and Mitsubishi. Experience in Analytics,  Automation, Project management &amp; Sales. Went to Lancaster MBA, Politecnico Milano"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/ludovico-sistilli",
+      "name": "Ludovico Sistilli",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6599357",
+    "angelListUrl": "https://angel.co/company/it-atlas"
+  },
+  "jobs": []
+}

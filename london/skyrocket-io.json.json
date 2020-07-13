@@ -1,0 +1,96 @@
+{
+  "name": "SkyRocket",
+  "avatar": "https://photos.angel.co/startups/i/7647581-094be13cd8d712c00d05322a69e08208-medium_jpg.jpg?buster=1587641248",
+  "slogan": "SkyRocket - The Progression Tool",
+  "description": "SkyRocket - The Progression Tool\n\nRethinking the way companies promote people. Currently in beta!",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://sky-rocket.io/?utm_source=angel_list&utm_medium=custom&utm_campaign=angel_direct"
+    },
+    {
+      "type": "blog",
+      "url": "https://sky-rocket.io/blog/0?utm_source=angel_list&utm_medium=custom&utm_campaign=angel_direct"
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/skyrocket-io"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Skill Assessment",
+    "Self Development",
+    "Human Resources",
+    "SaaS"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/ben-wallman-1",
+      "name": "Ben Wallman",
+      "avatar": "https://photos.angel.co/users/11046055-medium_jpg?1587641288",
+      "bioHtml": "Founder of SkyRocket"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7647581",
+    "angelListUrl": "https://angel.co/company/skyrocket-io"
+  },
+  "jobs": [
+    {
+      "role": "Marketing",
+      "title": "Non-technical cofounder for SkyRocket",
+      "description": "Hello :)\r\n\r\nI've worked (technical consultant / developer) at multiple companies which have been struggling with the progression process for software engineers. Two of these companies attempted / are attempting to build a lightweight in-house system for this.\r\n\r\nI've been building SkyRocket (https://sky-rocket.io/demo/home) full time for a few months, after saving up for approximately a year. It's fairly far along already, but I'm at the stage where I'm desperate for feedback, ideas, and industry contacts.\r\n\r\nIt's currently self funded, and I've still got some money I'm willing to invest with (so far I've used this for designs and Google Adwords).\r\n\r\nThe idea behind SkyRocket is to simplify / standardise an organisation's progression process. The product is effectively a Skills Matrix, with plans to utilise a B2B SaaS subscription model.",
+      "descriptionHtml": "<p>Hello :)</p>\n\n<p>I&#39;ve worked (technical consultant / developer) at multiple companies which have been struggling with the progression process for software engineers. Two of these companies attempted / are attempting to build a lightweight in-house system for this.</p>\n\n<p>I&#39;ve been building SkyRocket (<a href=\"https://sky-rocket.io/demo/home\" target=\"_blank\" rel=\"nofollow\">https://sky-rocket.io/demo/home</a>) full time for a few months, after saving up for approximately a year. It&#39;s fairly far along already, but I&#39;m at the stage where I&#39;m desperate for feedback, ideas, and industry contacts.</p>\n\n<p>It&#39;s currently self funded, and I&#39;ve still got some money I&#39;m willing to invest with (so far I&#39;ve used this for designs and Google Adwords).</p>\n\n<p>The idea behind SkyRocket is to simplify / standardise an organisation&#39;s progression process. The product is effectively a Skills Matrix, with plans to utilise a B2B SaaS subscription model.</p>\n",
+      "position": "cofounder",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe",
+        "North America"
+      ],
+      "skills": [],
+      "payment": {
+        "salary": "No salary",
+        "equity": "10.0% – 25.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/ben-wallman-1",
+        "name": "Ben Wallman",
+        "avatar": "https://photos.angel.co/users/11046055-medium_jpg?1587641288"
+      },
+      "refs": {
+        "angelListId": "808378",
+        "angelListUrl": "https://angel.co/company/skyrocket-io/jobs/808378-"
+      }
+    }
+  ]
+}

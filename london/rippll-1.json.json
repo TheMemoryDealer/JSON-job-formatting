@@ -1,0 +1,111 @@
+{
+  "name": "Rippll",
+  "avatar": "https://photos.angel.co/startups/i/21971-1a64c18a42769991759b084c3327be58-medium_jpg.jpg?buster=1315731585",
+  "slogan": "Loyalty apps for location based businesses",
+  "description": "Rippll provide brick and mortar businesses with mobile loyalty solutions to help bring customers in store more often.\n\nUsing a proprietary app builder called appsplash Rippll set businesses up with their own branded app with a mobile loyalty page inside. With detailed analytics of customer usage and visits businesses can then send app messaging to encourage repeat visits.\n\nOver 200 UK business apps published showing up to 30% loyalty redemption rates for Restaurants, Cafes and Salons. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.rippll.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/doug-chisholm",
+      "name": "Doug Chisholm",
+      "avatar": "https://photos.angel.co/users/41345-medium_jpg?1405468257",
+      "bioHtml": "CEO of Rippll, Europe&#39;s leading omni-channel attribution company. Looking for non-exec roles in the consumer app or martech spaces where I have most experience."
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/quelcom8",
+      "name": "Jordi Pascual",
+      "avatar": "https://photos.angel.co/users/47152-medium_jpg?1405470290",
+      "bioHtml": ""
+    },
+    {
+      "title": "CEO",
+      "role": "Employee",
+      "url": "https://angel.co/u/doug-chisholm",
+      "name": "Doug Chisholm",
+      "avatar": "https://photos.angel.co/users/41345-medium_jpg?1405468257",
+      "bioHtml": "CEO of Rippll, Europe&#39;s leading omni-channel attribution company. Looking for non-exec roles in the consumer app or martech spaces where I have most experience."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "21971",
+    "angelListUrl": "https://angel.co/company/rippll-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Technical Development Manager",
+      "description": "About Rippll\n\nRippll is a fast-growing tech startup based in Old Street with proprietary retail intelligence software that has been used by many of the largest retail brands in the UK. We provide marketing reports that analyse location data plus open banking purchase data from mobile apps to determine if consumers visit stores more often after exposure to advertising.\n\nRippll was founded by Doug Chisholm who has an MSc in Object-Oriented Software Systems and built three top 10 location-based iPhone apps in the first year the app store launched, giving the company a head-start in collecting valuable app data. Doug also has experience running a media buying team responsible to buying Burger King and Tesco advertising hence built the company to meet a gap in a market he has domain expertise in. The company’s culture is hence a mix of advertising energy and technical innovation.\n\nThe Role\n\nWe are looking for a Technical Development Manger to upgrade our automated reporting platform with the new purchase data we recently started collecting, apply machine learning to it and to add best practice release patterns to our consumer app roadmap and app store updates.\nThe role will include hands on development along with involvement and understanding of business meetings and key stakeholder relationships including Investor Relations and M&A discussions with acquisitive European and US tech giants.\n\nAs a business we have some of the best location based analytics tools in the world and are now at the exciting stage of adding bank transaction data and machine learning to the mix. You will be exposed to all aspects of the design, development and delivery of our product including problem definition, data acquisition, data exploration and visualization, feature engineering, experimenting with algorithms, machine learning, evaluating and comparing metrics, deploying models, iteratively improving the solution.\nThis will primarily be done with the use of Microsoft technologies, SQL Server, PowerBI and C# programming languages for our reporting tools and Azure machine learning tools to add probabilistic data to our reports.\nYou will work with latitude-longitude location data as well as third party demographic data from diverse structured and unstructured data sources in both batch and streaming modes.\n\nIt is anticipated that most of your development time will be focused on SQL Server Programming with at least one a day week focused on experimenting with azure machine learning tools and data science tasks (with a little exposure to C# programming for reporting interfaces).\nYou will work with a small team of in-house and outsourced developers who will be maintaining and extending our location intelligence dashboard product which is used by our clients on both a managed and self-serve basis.\n\n\nCore Duties\n\n* Running weekly meetings\n* Managing deliverables of development team individuals\n* Managing stakeholder feedback from self-serve users to managed clients and incorporating into product roadmap\n* Technical Architecture Business Planning\n* SQL server Database programming\n* MSFT stack configuration: PowerBI development\n* Minimal WebApp, iOS or Xamarin VS.NET (or manage outsource updates in these languages)\n* Investor Relations / M&A Meetings\n* Management of data collection apps\n* Management of consumer rewards CRM\n\n\nRequirements\n\n- Technical degree in Computer Science or a related field\n- At least 3 years of work experience in a Development Manager or related role.\n- Familiarity with agile methodologies\n- Experience with Jira stories / boards or equivalent\n- Ability to translate product requirements into technical requirements and tasks.\n- Ability to “speak” frontend, backend and product\n- Eagerness to manage pipeline from definition through to QA\n- Keen to work in a zero ego, zero BS environment, shipping high quality product week\n\nPackage\n\nCompetitive salary plus typical startup perks including gym membership, free breakfasts etc. Also share option for delivering best in class product updates in first year.",
+      "descriptionHtml": "<p>About Rippll</p>\n\n<p>Rippll is a fast-growing tech startup based in Old Street with proprietary retail intelligence software that has been used by many of the largest retail brands in the UK. We provide marketing reports that analyse location data plus open banking purchase data from mobile apps to determine if consumers visit stores more often after exposure to advertising.</p>\n\n<p>Rippll was founded by Doug Chisholm who has an MSc in Object-Oriented Software Systems and built three top 10 location-based iPhone apps in the first year the app store launched, giving the company a head-start in collecting valuable app data. Doug also has experience running a media buying team responsible to buying Burger King and Tesco advertising hence built the company to meet a gap in a market he has domain expertise in. The company’s culture is hence a mix of advertising energy and technical innovation.</p>\n\n<p>The Role</p>\n\n<p>We are looking for a Technical Development Manger to upgrade our automated reporting platform with the new purchase data we recently started collecting, apply machine learning to it and to add best practice release patterns to our consumer app roadmap and app store updates.<br>\nThe role will include hands on development along with involvement and understanding of business meetings and key stakeholder relationships including Investor Relations and M&amp;A discussions with acquisitive European and US tech giants.</p>\n\n<p>As a business we have some of the best location based analytics tools in the world and are now at the exciting stage of adding bank transaction data and machine learning to the mix. You will be exposed to all aspects of the design, development and delivery of our product including problem definition, data acquisition, data exploration and visualization, feature engineering, experimenting with algorithms, machine learning, evaluating and comparing metrics, deploying models, iteratively improving the solution.<br>\nThis will primarily be done with the use of Microsoft technologies, SQL Server, PowerBI and C# programming languages for our reporting tools and Azure machine learning tools to add probabilistic data to our reports.<br>\nYou will work with latitude-longitude location data as well as third party demographic data from diverse structured and unstructured data sources in both batch and streaming modes.</p>\n\n<p>It is anticipated that most of your development time will be focused on SQL Server Programming with at least one a day week focused on experimenting with azure machine learning tools and data science tasks (with a little exposure to C# programming for reporting interfaces).<br>\nYou will work with a small team of in-house and outsourced developers who will be maintaining and extending our location intelligence dashboard product which is used by our clients on both a managed and self-serve basis.</p>\n\n<p>Core Duties</p>\n\n<ul>\n<li>Running weekly meetings</li>\n<li>Managing deliverables of development team individuals</li>\n<li>Managing stakeholder feedback from self-serve users to managed clients and incorporating into product roadmap</li>\n<li>Technical Architecture Business Planning</li>\n<li>SQL server Database programming</li>\n<li>MSFT stack configuration: PowerBI development</li>\n<li>Minimal WebApp, iOS or Xamarin VS.NET (or manage outsource updates in these languages)</li>\n<li>Investor Relations / M&amp;A Meetings</li>\n<li>Management of data collection apps</li>\n<li>Management of consumer rewards CRM</li>\n</ul>\n\n<p>Requirements</p>\n\n<ul>\n<li>Technical degree in Computer Science or a related field</li>\n<li>At least 3 years of work experience in a Development Manager or related role.</li>\n<li>Familiarity with agile methodologies</li>\n<li>Experience with Jira stories / boards or equivalent</li>\n<li>Ability to translate product requirements into technical requirements and tasks.</li>\n<li>Ability to “speak” frontend, backend and product</li>\n<li>Eagerness to manage pipeline from definition through to QA</li>\n<li>Keen to work in a zero ego, zero BS environment, shipping high quality product week</li>\n</ul>\n\n<p>Package</p>\n\n<p>Competitive salary plus typical startup perks including gym membership, free breakfasts etc. Also share option for delivering best in class product updates in first year.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Machine Learning",
+        "Agile",
+        "Microsoft SQL Server",
+        "Application Development"
+      ],
+      "payment": {
+        "salary": "£40k – £60k",
+        "equity": "1.0% – 2.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/doug-chisholm",
+        "name": "Doug Chisholm",
+        "avatar": "https://photos.angel.co/users/41345-medium_jpg?1405468257"
+      },
+      "refs": {
+        "angelListId": "658868",
+        "angelListUrl": "https://angel.co/company/rippll-1/jobs/658868-"
+      }
+    }
+  ]
+}

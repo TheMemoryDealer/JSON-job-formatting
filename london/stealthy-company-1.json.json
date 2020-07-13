@@ -1,0 +1,94 @@
+{
+  "name": "Stealthy Company",
+  "avatar": "https://photos.angel.co/startups/i/7516210-836746a253d5efc2bd37ea67c72cdc61-medium_jpg.jpg?buster=1582569181",
+  "slogan": "Vertical OSS data platform for the construction, engineering & architecture sectors",
+  "description": "We have a known open source project, with solid traction and growing community that's in need of a sustainable development future!",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.aecstartups.com/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Construction",
+    "Software",
+    "Civil Engineers",
+    "Architecture"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/dimitrie-stefanescu",
+      "name": "Dimitrie Stefanescu",
+      "avatar": "https://photos.angel.co/users/10692013-medium_jpg?1583177424",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7516210",
+    "angelListUrl": "https://angel.co/company/stealthy-company-1"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "CCO",
+      "description": "We're looking for a strategic mind, well versed in open source dynamics & the wider architecture, engineering and construction industry, to complement the skills of a two technical founders. Get in touch to know more.",
+      "descriptionHtml": "<p>We&#39;re looking for a strategic mind, well versed in open source dynamics &amp; the wider architecture, engineering and construction industry, to complement the skills of a two technical founders. Get in touch to know more.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£40k – £70k",
+        "equity": "10.0% – 17.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/dimitrie-stefanescu",
+        "name": "Dimitrie Stefanescu",
+        "avatar": "https://photos.angel.co/users/10692013-medium_jpg?1583177424"
+      },
+      "refs": {
+        "angelListId": "738101",
+        "angelListUrl": "https://angel.co/company/stealthy-company-1/jobs/738101-"
+      },
+      "postedAt": 1589659738101
+    }
+  ]
+}

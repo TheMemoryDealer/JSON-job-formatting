@@ -1,0 +1,162 @@
+{
+  "name": "Exogene",
+  "avatar": "https://photos.angel.co/startups/i/7584227-8c1d6f223ce5e737a9942ad9b2c415ce-medium_jpg.jpg?buster=1585214640",
+  "slogan": "Fast discovery of safer cancer immunotherapies",
+  "description": "Immunotherapies leverage our own immune system to fight cancer cells and represent the cutting-edge of cancer therapy, but they can also cause toxic side-effects and patient deaths.\n\nBy integrating biophysics and cell biology, Exogene’s proprietary machine learning technology enables fast discovery of safer immunotherapies, at scale.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://exogene.co.uk/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/exogene-ltd"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Biotechnology",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Drug Discovery"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": [
+      {
+        "type": "Pre-Seed",
+        "closedAt": 1580342400,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/federico-paoletti",
+      "name": "Federico Paoletti",
+      "avatar": "https://photos.angel.co/users/10922791-medium_jpg?1585247454",
+      "bioHtml": "CEO at Exogene. Expertise in cancer research. Ex-healthcare consultant at World Health Organization. PhD in Computational Oncology from Oxford University."
+    },
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/andrea-mambrini",
+      "name": "Andrea Mambrini",
+      "avatar": "https://photos.angel.co/users/926952-medium_jpg?1585215205",
+      "bioHtml": "CTO at Exogene. PhD in Computer Science. Expert in Machine Learning and Optimisation. Previously European Space Agency, Portent.io, RBS, Black Swan, Vodafone."
+    }
+  ],
+  "perks": [
+    {
+      "category": "work_from_home",
+      "title": "Remote first"
+    },
+    {
+      "category": "equity",
+      "title": "Stock option plan"
+    }
+  ],
+  "refs": {
+    "angelListId": "7584227",
+    "angelListUrl": "https://angel.co/company/exogene"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Data Scientist",
+      "description": "### **Company Introduction**\r\n\r\nExogene is a deep-tech company combining deep learning, biophysics and cell biology to accelerate the discovery of safer cancer immunotherapies. Our mission is to democratise the discovery of cancer immunotherapies by providing tools to discover safer therapies, faster and at a fraction of the cost.\r\n\r\nOur success will help cure the toughest cancers by turbocharging the development of life-saving treatment for more than 10 million people worldwide. We are looking for people who are excited by a moonshot technical challenge which can have a huge positive impact on society.\r\n\r\nWe are based in London but we adopt a remote-first approach: we prefer async communication, we minimise meetings and we encourage our employees to work from anywhere they prefer.\r\n\r\n### **Job Description**\r\n\r\nWe are looking for a data scientist to help us build predictive models using protein structure and sequence data.\r\n\r\nYou are going to work with a large dataset consisting of public and proprietary data and build state-of-the-art predictive models to predict interactions between T-cell receptors and their targets. You will have to get up to date with the most recent academic research on the topic and build models which can outperform the state of the art using advanced machine learning techniques.\r\n\r\n### **Responsibilities**\r\n\r\n- Processing, cleansing, and verifying the integrity of data\r\n- Building predictive models using advanced machine learning techniques (e.g. transfer learning, RNNs, GANs)\r\n- Getting up to date with the most recent relevant literature in machine learning and computational immunology\r\n- Developing creative approaches to model heterogeneous data\r\n- Detecting blind spots in the data and giving suggestions for further data collection\r\n\r\n### **Skills and Qualifications required**\r\n\r\n- Excellent understanding of machine learning techniques and algorithms, including neural networks and NLP\r\n- Experience with common data science toolkits, such as numpy, pandas, sklearn, keras, tensorflow and fastai.\r\n- Experience with reading and understanding scientific papers\r\n- Excellent programming skills (python)\r\n\r\n**Nice to have:**\r\n\r\n- Knowledge of bioinformatic techniques and experience with genomics/proteomics data\r\n- Experience with network theory\r\n- Experience with Amazon AWS",
+      "descriptionHtml": "<h3><strong>Company Introduction</strong></h3>\n<p>Exogene is a deep-tech company combining deep learning, biophysics and cell biology to accelerate the discovery of safer cancer immunotherapies. Our mission is to democratise the discovery of cancer immunotherapies by providing tools to discover safer therapies, faster and at a fraction of the cost.</p>\n\n<p>Our success will help cure the toughest cancers by turbocharging the development of life-saving treatment for more than 10 million people worldwide. We are looking for people who are excited by a moonshot technical challenge which can have a huge positive impact on society.</p>\n\n<p>We are based in London but we adopt a remote-first approach: we prefer async communication, we minimise meetings and we encourage our employees to work from anywhere they prefer.</p>\n<h3><strong>Job Description</strong></h3>\n<p>We are looking for a data scientist to help us build predictive models using protein structure and sequence data.</p>\n\n<p>You are going to work with a large dataset consisting of public and proprietary data and build state-of-the-art predictive models to predict interactions between T-cell receptors and their targets. You will have to get up to date with the most recent academic research on the topic and build models which can outperform the state of the art using advanced machine learning techniques.</p>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li>Processing, cleansing, and verifying the integrity of data</li>\n<li>Building predictive models using advanced machine learning techniques (e.g. transfer learning, RNNs, GANs)</li>\n<li>Getting up to date with the most recent relevant literature in machine learning and computational immunology</li>\n<li>Developing creative approaches to model heterogeneous data</li>\n<li>Detecting blind spots in the data and giving suggestions for further data collection</li>\n</ul>\n<h3><strong>Skills and Qualifications required</strong></h3>\n<ul>\n<li>Excellent understanding of machine learning techniques and algorithms, including neural networks and NLP</li>\n<li>Experience with common data science toolkits, such as numpy, pandas, sklearn, keras, tensorflow and fastai.</li>\n<li>Experience with reading and understanding scientific papers</li>\n<li>Excellent programming skills (python)</li>\n</ul>\n\n<p><strong>Nice to have:</strong></p>\n\n<ul>\n<li>Knowledge of bioinformatic techniques and experience with genomics/proteomics data</li>\n<li>Experience with network theory</li>\n<li>Experience with Amazon AWS</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe"
+      ],
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Bioinformatics",
+        "Convolutional Neural Networks"
+      ],
+      "payment": {
+        "salary": "£50k – £70k",
+        "equity": "0.5% – 2.0%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Founder",
+        "url": "https://angel.co/u/andrea-mambrini",
+        "name": "Andrea Mambrini",
+        "avatar": "https://photos.angel.co/users/926952-medium_jpg?1585215205"
+      },
+      "refs": {
+        "angelListId": "769200",
+        "angelListUrl": "https://angel.co/company/exogene/jobs/769200-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Computational Immunologist",
+      "description": "### **Company Introduction**\r\n\r\nExogene is a deep-tech company combining deep learning, biophysics and cell biology to accelerate the discovery of safer cancer immunotherapies. Our mission is to democratise the discovery of cancer immunotherapies by providing tools to discover safer therapies, faster and at a fraction of the cost.\r\n\r\nOur success will help cure the toughest cancers by turbocharging the development of life-saving treatment for more than 10 million people worldwide. We are looking for people who are excited by a moonshot technical challenge which can have a huge positive impact on society.\r\n\r\nWe are based in London but we adopt a remote-first approach: we prefer async communication, we minimise meetings and we encourage our employees to work from anywhere they prefer.\r\n\r\n### **Job Description**\r\n\r\nWe’re accelerating and improving pre-clinical screening of T-cell-receptor(TCR)-based therapies by predicting and preventing potential toxic side-effects. To do this, we’re leveraging protein sequence data, protein structural data and high-throughput cell-based assays to develop machine learning models that accurately predict TCR specificity towards peptides in complex with human leukocyte antigens (HLAs). The models are then used to predict TCR cross-reactivity and engineer TCRs to prevent cross-reactivity.\r\n\r\nWe are working with a large dataset consisting of public and proprietary wet-lab data to build state-of-the-art predictive models using cutting-edge deep learning techniques.\r\n\r\nYour job will be to get up-to-date with the most recent academic research on modelling TCR-pHLA interactions and to collaborate with a team of machine learning experts to develop these models.\r\n\r\n### **Responsibilities**\r\n\r\n- Being up-to-date with the most relevant academic research on the problem of predicting TCR specificity\r\n- Collaborate with machine learning experts to build machine learning models to predict TCR specificity\r\n- Develop creative approaches to exploit heterogeneous data and add further immunological context to refine the machine learning models\r\n- Spot gaps in the data and provide suggestions for further wet-lab data collection\r\n\r\n### **Skills and Qualifications required**\r\n\r\n- PhD in Computational Immunology or Structural Immunology\r\n- Hands-on experience with computational structural biology tools (e.g. Rosetta)\r\n- Relevant peer-reviewed publications\r\n- Good programming skills (Python)\r\n\r\n **Nice to have**\r\n- Prior research experience in analysing TCR specificity\r\n- Prior research experience in structural modelling of TCR-pHLA interactions",
+      "descriptionHtml": "<h3><strong>Company Introduction</strong></h3>\n<p>Exogene is a deep-tech company combining deep learning, biophysics and cell biology to accelerate the discovery of safer cancer immunotherapies. Our mission is to democratise the discovery of cancer immunotherapies by providing tools to discover safer therapies, faster and at a fraction of the cost.</p>\n\n<p>Our success will help cure the toughest cancers by turbocharging the development of life-saving treatment for more than 10 million people worldwide. We are looking for people who are excited by a moonshot technical challenge which can have a huge positive impact on society.</p>\n\n<p>We are based in London but we adopt a remote-first approach: we prefer async communication, we minimise meetings and we encourage our employees to work from anywhere they prefer.</p>\n<h3><strong>Job Description</strong></h3>\n<p>We’re accelerating and improving pre-clinical screening of T-cell-receptor(TCR)-based therapies by predicting and preventing potential toxic side-effects. To do this, we’re leveraging protein sequence data, protein structural data and high-throughput cell-based assays to develop machine learning models that accurately predict TCR specificity towards peptides in complex with human leukocyte antigens (HLAs). The models are then used to predict TCR cross-reactivity and engineer TCRs to prevent cross-reactivity.</p>\n\n<p>We are working with a large dataset consisting of public and proprietary wet-lab data to build state-of-the-art predictive models using cutting-edge deep learning techniques.</p>\n\n<p>Your job will be to get up-to-date with the most recent academic research on modelling TCR-pHLA interactions and to collaborate with a team of machine learning experts to develop these models.</p>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li>Being up-to-date with the most relevant academic research on the problem of predicting TCR specificity</li>\n<li>Collaborate with machine learning experts to build machine learning models to predict TCR specificity</li>\n<li>Develop creative approaches to exploit heterogeneous data and add further immunological context to refine the machine learning models</li>\n<li>Spot gaps in the data and provide suggestions for further wet-lab data collection</li>\n</ul>\n<h3><strong>Skills and Qualifications required</strong></h3>\n<ul>\n<li>PhD in Computational Immunology or Structural Immunology</li>\n<li>Hands-on experience with computational structural biology tools (e.g. Rosetta)</li>\n<li>Relevant peer-reviewed publications</li>\n<li>Good programming skills (Python)</li>\n</ul>\n\n<p><strong>Nice to have</strong></p>\n\n<ul>\n<li>Prior research experience in analysing TCR specificity</li>\n<li>Prior research experience in structural modelling of TCR-pHLA interactions</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe"
+      ],
+      "skills": [
+        "Python",
+        "Bioinformatics",
+        "Computational Biology",
+        "Immunology",
+        "Structural Biology"
+      ],
+      "payment": {
+        "salary": "£50k – £70k",
+        "equity": "0.5% – 2.0%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Founder",
+        "url": "https://angel.co/u/andrea-mambrini",
+        "name": "Andrea Mambrini",
+        "avatar": "https://photos.angel.co/users/926952-medium_jpg?1585215205"
+      },
+      "refs": {
+        "angelListId": "769608",
+        "angelListUrl": "https://angel.co/company/exogene/jobs/769608-"
+      }
+    }
+  ]
+}

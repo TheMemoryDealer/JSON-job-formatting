@@ -1,0 +1,173 @@
+{
+  "name": "Jobskey Consultancy UK",
+  "avatar": "https://photos.angel.co/startups/i/6628908-1d3ec7c78fa2bc9c11dee415d93d3534-medium_jpg.jpg?buster=1543487738",
+  "slogan": "Defining Career Excellence",
+  "description": "Jobskey’s primary focus as always is to provide quality service along with various value added services.\n\nOur mission to be a premier information technology staffing company is achieved by:\n\nDelivering real value to our clients by providing top quality technical services and solutions at reasonable rates.\n\nDelivering the best work environment for our consultants and staff.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.jobskey.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Information Technology",
+    "Consulting",
+    "Recruiting"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/zubair-hussain-8",
+      "name": "Zubair Hussain",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6628908",
+    "angelListUrl": "https://angel.co/company/jobskey-consultancy-uk"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Java Lead",
+      "description": "Looking for Java Leads with 5+ yrs of experience and Competent in Core Java, Advanced JAVA Programming, J2EE,JSP, Struts, SQL Queries, Database programming, OOP, Object Oriented analysis and design, relational database, SQL and ORM technologies (hibernate).\n\nRequirements:\nStrong understanding of design patterns and multi-threading.\nExperience working in high performing development teams using agile/ scrum methodologies and tools; various code versioning systems, such as Subversion.\nAbility to multi task and switch context to changing priorities in a high dynamic environment and Proficient in troubleshooting skills, especially in complex application stacks.\nExperience in Test Driven Development and mobile platform is added advantage.\"",
+      "descriptionHtml": "<p>Looking for Java Leads with 5+ yrs of experience and Competent in Core Java, Advanced JAVA Programming, J2EE,JSP, Struts, SQL Queries, Database programming, OOP, Object Oriented analysis and design, relational database, SQL and ORM technologies (hibernate).</p>\n\n<p>Requirements:<br>\nStrong understanding of design patterns and multi-threading.<br>\nExperience working in high performing development teams using agile/ scrum methodologies and tools; various code versioning systems, such as Subversion.<br>\nAbility to multi task and switch context to changing priorities in a high dynamic environment and Proficient in troubleshooting skills, especially in complex application stacks.<br>\nExperience in Test Driven Development and mobile platform is added advantage.&quot;</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Nottingham",
+        "Gothenburg"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "JSP",
+        "Struts",
+        "OOP",
+        "Java J2EE",
+        "ORM",
+        "SQL Queries"
+      ],
+      "payment": {
+        "salary": "€50k – €60k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/zubair-hussain-8",
+        "name": "Zubair Hussain",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "465471",
+        "angelListUrl": "https://angel.co/company/jobskey-consultancy-uk/jobs/465471-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": ".Net Developer",
+      "description": "At least 4 years experience in developing applications using Microsoft .NET Framework.\nStrong in OOPS and Design Patterns\nDeveloped medium scale Websites using .NET Frameworks.\nExperience in .NET Web API and MVC\nExperience in SQL Server\nExperience in integrating applications with 3rd party solutions using REST and SOAP requests\nImplemented Web API and Web Services to expose the data.\nStrong in analytical thinking & communication\nAbility to troubleshoot the existing application and provide root cause analysis\nTeam player with good communication\nKnowledge in implementing applications using Code First and Model First approaches\nExperience in Open Source tools for Web Development\nExperience in improving website performance following various factors.\nExperience in setting up continuous integration and deployment using any industry standard toolset",
+      "descriptionHtml": "<p>At least 4 years experience in developing applications using Microsoft .NET Framework.<br>\nStrong in OOPS and Design Patterns<br>\nDeveloped medium scale Websites using .NET Frameworks.<br>\nExperience in .NET Web API and MVC<br>\nExperience in SQL Server<br>\nExperience in integrating applications with 3rd party solutions using REST and SOAP requests<br>\nImplemented Web API and Web Services to expose the data.<br>\nStrong in analytical thinking &amp; communication<br>\nAbility to troubleshoot the existing application and provide root cause analysis<br>\nTeam player with good communication<br>\nKnowledge in implementing applications using Code First and Model First approaches<br>\nExperience in Open Source tools for Web Development<br>\nExperience in improving website performance following various factors.<br>\nExperience in setting up continuous integration and deployment using any industry standard toolset</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "Gothenburg"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "MVC Framework",
+        "REST",
+        ".Net Developer",
+        "SOAP/REST (Web Services)",
+        "OOPS",
+        "Web API"
+      ],
+      "payment": {
+        "salary": "€50k – €60k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/zubair-hussain-8",
+        "name": "Zubair Hussain",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "465481",
+        "angelListUrl": "https://angel.co/company/jobskey-consultancy-uk/jobs/465481-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "React JS Developer",
+      "description": "Minimum 5 yrs of experience in JavaScript framework\nStrong proficiency in JavaScript, including DOM manipulation and the JavaScript object model\nThorough understanding of React.js and its core principles\nExperience with popular React.js workflows (such as Flux or Redux)\nFamiliarity with newer specifications of EcmaScript\nExperience with data structure libraries (e.g., Immutable.js)\nKnowledge of isomorphic React is a plus\nFamiliarity with RESTful APIs\nKnowledge of modern authorization mechanisms, such as JSON Web Token\nFamiliarity with modern front-end build pipelines and tools\nExperience with common front-end development tools such as Webpack, NPM, etc.\nAbility to understand business requirements and translate them into technical requirements\nA knack for benchmarking and optimization\nFamiliarity with code versioning tools such as Git, SVN",
+      "descriptionHtml": "<p>Minimum 5 yrs of experience in JavaScript framework<br>\nStrong proficiency in JavaScript, including DOM manipulation and the JavaScript object model<br>\nThorough understanding of React.js and its core principles<br>\nExperience with popular React.js workflows (such as Flux or Redux)<br>\nFamiliarity with newer specifications of EcmaScript<br>\nExperience with data structure libraries (e.g., Immutable.js)<br>\nKnowledge of isomorphic React is a plus<br>\nFamiliarity with RESTful APIs<br>\nKnowledge of modern authorization mechanisms, such as JSON Web Token<br>\nFamiliarity with modern front-end build pipelines and tools<br>\nExperience with common front-end development tools such as Webpack, NPM, etc.<br>\nAbility to understand business requirements and translate them into technical requirements<br>\nA knack for benchmarking and optimization<br>\nFamiliarity with code versioning tools such as Git, SVN</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "Nottingham",
+        "Gothenburg"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "JSON",
+        "React.js",
+        "SVM",
+        "Webpack",
+        "Npm / Git",
+        "React.js/Node.js/Html5/Css/Javascript"
+      ],
+      "payment": {
+        "salary": "€50k – €60k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/zubair-hussain-8",
+        "name": "Zubair Hussain",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "465485",
+        "angelListUrl": "https://angel.co/company/jobskey-consultancy-uk/jobs/465485-"
+      }
+    }
+  ]
+}

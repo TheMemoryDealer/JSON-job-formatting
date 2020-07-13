@@ -1,0 +1,116 @@
+{
+  "name": "The Collective",
+  "avatar": "https://photos.angel.co/startups/i/3946294-ccbf154c8cac758ad483d486c3ae3de8-medium_jpg.jpg?buster=1575915520",
+  "slogan": "We're pioneering co-living and changing the way people live in cities",
+  "description": "The Collective is the largest Co-Living provider across the globe.  We are creating one of a kind, iconic and emotive spaces to live, work and play.  We ensure the places we deliver are extraordinary, breaking the mould, creative and innovative spaces that challenge every concept.  We own the process of creating buildings that enhance every aspect of our member’s lives through community, convenience, and value.  \nWe want free thinkers, exhilarated individuals that always want to make the next best thing, strive for perfection and challenge every perception. We're looking for highly motivated, switched-on and down to earth individuals that are willing to roll up their sleeves and do whatever it takes to be the best in their field, challenge the status quo and deliver high quality results.\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.thecollective.co.uk/"
+    },
+    {
+      "type": "blog",
+      "url": "https://medium.com/collective-living"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/collective_llp"
+    },
+    {
+      "type": "facebook",
+      "url": "http://facebook.com/thecollectiveliving"
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "New York City",
+    "Berlin"
+  ],
+  "marketTags": [
+    "Property Management",
+    "Lifestyle",
+    "Residential Real Estate",
+    "Real Estate Technology"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/alicia-moore-2",
+      "name": "Alicia Moore",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/lora-salomidou",
+      "name": "Lora Salomidou",
+      "avatar": "https://photos.angel.co/users/7066484-medium_jpg?1508751353",
+      "bioHtml": "Product Owner at The Collective"
+    },
+    {
+      "title": "Product Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/david-sinclair-4",
+      "name": "David Sinclair",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at The Collective"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "3946294",
+    "angelListUrl": "https://angel.co/company/the-collective-living"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Data Scientist",
+      "description": "About The Collective\n\nThe Collective is the largest Co-Living provider across the globe.  We are creating one of a kind, iconic and emotive spaces to live, work and play.  We ensure the places we deliver are extraordinary, breaking the mould, creative and innovative spaces that challenge every concept.  We own the process of creating buildings that enhance every aspect of our member’s lives through community, convenience, and value.  \nWe want free thinkers, exhilarated individuals that always want to make the next best thing, strive for perfection and challenge every perception. We're looking for highly motivated, switched-on and down to earth individuals that are willing to roll up their sleeves and do whatever it takes to be the best in their field, challenge the status quo and deliver high quality results.\nThe Collective are at a pivotal point of growth. In the last 18 months we’ve transitioned into a global business, with offices and upcoming projects in the US and Germany, providing a total of over 7000 co- living units under development. In order to fund this growth we’ve raised over $700 million in capital, and our gross assets are now valued in excess of $2 billion.\nThe Collective is dedicated to promoting diversity, multiculturalism and equality in all that we do. Inclusion is more than a buzzword to us — it's the foundation of our business. Our communities are focused on increased access and personal growth, and their greatness depends on a diversity of race, gender, sexual orientation, religion, ethnicity, national origin and perspective. We're an equal opportunity employer and we're excited to build the future of co-living with the world's most talented and passionate people.\n\nAbout The Role\n\nThis is a unique opportunity to be part of The Collective’s emerging Data Science team. You will be taking part in our strategy to connect disparate data and systems together and create insights and reporting that will help us to deliver excellent experiences to our co-living community, maintain operational excellence and look for new opportunities that will keep us as leaders in the global co-living space.\n\nAs Junior Data Scientist you’ll work within a number of our teams (digital products, customer experience, operations, finance, investment) to help them execute elements of their data strategy and find opportunities in the wealth of data that our co-living communities generate.\n\nKey responsibilities\n\n•\tWork with our business teams to develop their data strategy\n•\tEstablish innovative ways to understand our communities, helping to make them stronger, foster human connection and enabling our members to live more fulfilling lives.\n•\tWrite for our blog and present at conferences on how we approach analytics and data science (building both your and our profile in the industry)\n•\tWork on advanced data science or data engineering problems, like:\n•\tDesigning event grammars and analytics layers for different business contexts;\n•\tDeveloping, testing, and productionising data models (using plain SQL, DBT and Spark)\n•\tSetting up and maintaining data model infrastructure (Airflow, DBT Cloud, etc)\n•\tDesigning experiments to measure the impact of updated campaigns, features, or content\n•\tAnalysing the data generated by experiments and presenting results to business stakeholders\n•\tDiscovering insights and identify new business opportunities using statistical, algorithmic, and visualisation techniques;\n•\tGoing deep on driver analysis leveraging historical data to predict decisions that improve business efficiency (like conversions, customer retention);\n•\tMatching users to products/experiences to deliver relevant, personalised content thus improving the marketing efficacy of the business by leveraging customer similarities, developing customer segments, and recommendation engines.\n\nYou will learn to:\n\n•\tDefine and deliver analytics projects for a wide range of business goals\n•\tTranslate strategic business needs into specific technical tasks\n•\tFunction in an agile environment where process is an important part of project delivery\n•\tSet up analytics infrastructure for a fast-growing company\n•\tSet up and run sophisticated data pipelines on AWS\n•\tSet up and use BI tools (e.g. Looker) including creation of visualisations and reporting\n•\tDesign and implement data models that provide the foundation for KPI reporting and data science\n•\tUnderstand the chain between clean data collection, descriptive data science and predictive modelling\n•\tUnderstand how clean data is crucial for any machine learning application\n\nAbout You\n\nWe need someone who is excited to learn about data science and interested in learning new technologies and tools, coming from a keen interest in how businesses operate and how data science can be used to help improve decision making.\nExcellent analytical and communication skills are a must. You’re at ease explaining your thinking to others, discussing different approaches to problems and working collaboratively with people from other disciplines including data analysts, data scientists, engineers, product managers, marketers and executive teams to creatively identify new solutions.\nStrong technical skills and proficiency at performing data analysis in any kind of programmatic analysis tool are a must, and it would be beneficial to also have familiarity with SQL; you’ll also have a keen attitude to learning new data science skills and tools that ensure we leverage the most appropriate programs, languages and techniques as the space develops.\nYou understand the value of good documentation, security best practices, and process, all of which are important for this role and inform everything we do.\nA quantitative background (for example Bsc or Msc in Maths, Physics, Engineering, Economics) is a must to be able to succeed in this pivotal role within the business; we’re also open to applications directly from university who have completed at least one internship as well as candidates with 1 to 3 years’ experience.",
+      "descriptionHtml": "<p>About The Collective</p>\n\n<p>The Collective is the largest Co-Living provider across the globe.  We are creating one of a kind, iconic and emotive spaces to live, work and play.  We ensure the places we deliver are extraordinary, breaking the mould, creative and innovative spaces that challenge every concept.  We own the process of creating buildings that enhance every aspect of our member’s lives through community, convenience, and value.<br><br>\nWe want free thinkers, exhilarated individuals that always want to make the next best thing, strive for perfection and challenge every perception. We&#39;re looking for highly motivated, switched-on and down to earth individuals that are willing to roll up their sleeves and do whatever it takes to be the best in their field, challenge the status quo and deliver high quality results.<br>\nThe Collective are at a pivotal point of growth. In the last 18 months we’ve transitioned into a global business, with offices and upcoming projects in the US and Germany, providing a total of over 7000 co- living units under development. In order to fund this growth we’ve raised over $700 million in capital, and our gross assets are now valued in excess of $2 billion.<br>\nThe Collective is dedicated to promoting diversity, multiculturalism and equality in all that we do. Inclusion is more than a buzzword to us — it&#39;s the foundation of our business. Our communities are focused on increased access and personal growth, and their greatness depends on a diversity of race, gender, sexual orientation, religion, ethnicity, national origin and perspective. We&#39;re an equal opportunity employer and we&#39;re excited to build the future of co-living with the world&#39;s most talented and passionate people.</p>\n\n<p>About The Role</p>\n\n<p>This is a unique opportunity to be part of The Collective’s emerging Data Science team. You will be taking part in our strategy to connect disparate data and systems together and create insights and reporting that will help us to deliver excellent experiences to our co-living community, maintain operational excellence and look for new opportunities that will keep us as leaders in the global co-living space.</p>\n\n<p>As Junior Data Scientist you’ll work within a number of our teams (digital products, customer experience, operations, finance, investment) to help them execute elements of their data strategy and find opportunities in the wealth of data that our co-living communities generate.</p>\n\n<p>Key responsibilities</p>\n\n<p>• Work with our business teams to develop their data strategy<br>\n• Establish innovative ways to understand our communities, helping to make them stronger, foster human connection and enabling our members to live more fulfilling lives.<br>\n• Write for our blog and present at conferences on how we approach analytics and data science (building both your and our profile in the industry)<br>\n• Work on advanced data science or data engineering problems, like:<br>\n• Designing event grammars and analytics layers for different business contexts;<br>\n• Developing, testing, and productionising data models (using plain SQL, DBT and Spark)<br>\n• Setting up and maintaining data model infrastructure (Airflow, DBT Cloud, etc)<br>\n• Designing experiments to measure the impact of updated campaigns, features, or content<br>\n• Analysing the data generated by experiments and presenting results to business stakeholders<br>\n• Discovering insights and identify new business opportunities using statistical, algorithmic, and visualisation techniques;<br>\n• Going deep on driver analysis leveraging historical data to predict decisions that improve business efficiency (like conversions, customer retention);<br>\n• Matching users to products/experiences to deliver relevant, personalised content thus improving the marketing efficacy of the business by leveraging customer similarities, developing customer segments, and recommendation engines.</p>\n\n<p>You will learn to:</p>\n\n<p>• Define and deliver analytics projects for a wide range of business goals<br>\n• Translate strategic business needs into specific technical tasks<br>\n• Function in an agile environment where process is an important part of project delivery<br>\n• Set up analytics infrastructure for a fast-growing company<br>\n• Set up and run sophisticated data pipelines on AWS<br>\n• Set up and use BI tools (e.g. Looker) including creation of visualisations and reporting<br>\n• Design and implement data models that provide the foundation for KPI reporting and data science<br>\n• Understand the chain between clean data collection, descriptive data science and predictive modelling<br>\n• Understand how clean data is crucial for any machine learning application</p>\n\n<p>About You</p>\n\n<p>We need someone who is excited to learn about data science and interested in learning new technologies and tools, coming from a keen interest in how businesses operate and how data science can be used to help improve decision making.<br>\nExcellent analytical and communication skills are a must. You’re at ease explaining your thinking to others, discussing different approaches to problems and working collaboratively with people from other disciplines including data analysts, data scientists, engineers, product managers, marketers and executive teams to creatively identify new solutions.<br>\nStrong technical skills and proficiency at performing data analysis in any kind of programmatic analysis tool are a must, and it would be beneficial to also have familiarity with SQL; you’ll also have a keen attitude to learning new data science skills and tools that ensure we leverage the most appropriate programs, languages and techniques as the space develops.<br>\nYou understand the value of good documentation, security best practices, and process, all of which are important for this role and inform everything we do.<br>\nA quantitative background (for example Bsc or Msc in Maths, Physics, Engineering, Economics) is a must to be able to succeed in this pivotal role within the business; we’re also open to applications directly from university who have completed at least one internship as well as candidates with 1 to 3 years’ experience.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Data Analysis",
+        "Data Science",
+        "Applied Machine Learning",
+        "Data Management",
+        "AWS"
+      ],
+      "payment": {
+        "salary": "£28k – £40k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/alicia-moore-2",
+        "name": "Alicia Moore",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "685538",
+        "angelListUrl": "https://angel.co/company/the-collective-living/jobs/685538-"
+      }
+    }
+  ]
+}

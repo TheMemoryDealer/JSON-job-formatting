@@ -1,0 +1,96 @@
+{
+  "name": "Many",
+  "avatar": "https://photos.angel.co/startups/i/6716873-5d104bc74b61cea1a5b203c7001d93af-medium_jpg.jpg?buster=1546708002",
+  "slogan": "Male Health Brand",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.formany.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "E-Commerce",
+    "Health and Wellness",
+    "Independent Pharmacies"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/riccardo-bruni-1",
+      "name": "Riccardo Bruni",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6716873",
+    "angelListUrl": "https://angel.co/company/many-10"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Product Engineer",
+      "description": "Who we are looking for.\nYou are a software engineer with 1-2 years experience. You care deeply about engineering culture and the quality of products you and your team build. You love the web and new technologies (We think AWS Lamba, Elm and Golang are cool). You have an analytical mind and love solving problems as part of a team. If you have made open source contributions to a project in any language (Even English!) that is a plus.\n\nA bit about the role.\nAs part of our product engineering team, you will report into our Head of Engineering. You will also work closely with the brand, design and Customer Love teams to help solve problems.\n\nIn this role you can expect to:\nContribute to the architecture and development direction of the team to ensure quality code is written and excellent products are built.\nWork across our stack to delivery quality, maintainable code.\nCollaborate and learn with other team members via pair programming, mentoring, code reviews, technical talks and interactive labs.\nLearn about and champion best practices in code, architecture and processes.\n\nA bit about you.\n- Degree in Computer Science BSc or a BSc in a related field.\n- Commercial experience in software development\n- Analytical and problem-solving skills\n- Pro-active, entrepreneurial ‘can-do’ attitude\n- Passion for startups\n\nWhat we can offer.\n- Competitive salary and all the latest equipment you need\n- Central location near Old Street station in the centre of Europe’s tech hub\n- Working with a talented, passionate, and diverse team of people\n- 25 days holiday a year\n- Possibility to work remotely and flexible working hours\n- Daily provided team lunches and dinners",
+      "descriptionHtml": "<p>Who we are looking for.<br>\nYou are a software engineer with 1-2 years experience. You care deeply about engineering culture and the quality of products you and your team build. You love the web and new technologies (We think AWS Lamba, Elm and Golang are cool). You have an analytical mind and love solving problems as part of a team. If you have made open source contributions to a project in any language (Even English!) that is a plus.</p>\n\n<p>A bit about the role.<br>\nAs part of our product engineering team, you will report into our Head of Engineering. You will also work closely with the brand, design and Customer Love teams to help solve problems.</p>\n\n<p>In this role you can expect to:<br>\nContribute to the architecture and development direction of the team to ensure quality code is written and excellent products are built.<br>\nWork across our stack to delivery quality, maintainable code.<br>\nCollaborate and learn with other team members via pair programming, mentoring, code reviews, technical talks and interactive labs.<br>\nLearn about and champion best practices in code, architecture and processes.</p>\n\n<p>A bit about you.</p>\n\n<ul>\n<li>Degree in Computer Science BSc or a BSc in a related field.</li>\n<li>Commercial experience in software development</li>\n<li>Analytical and problem-solving skills</li>\n<li>Pro-active, entrepreneurial ‘can-do’ attitude</li>\n<li>Passion for startups</li>\n</ul>\n\n<p>What we can offer.</p>\n\n<ul>\n<li>Competitive salary and all the latest equipment you need</li>\n<li>Central location near Old Street station in the centre of Europe’s tech hub</li>\n<li>Working with a talented, passionate, and diverse team of people</li>\n<li>25 days holiday a year</li>\n<li>Possibility to work remotely and flexible working hours</li>\n<li>Daily provided team lunches and dinners</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Software Development",
+        "HTML5 & CSS3",
+        "Engineering"
+      ],
+      "payment": {
+        "salary": "£30k – £38k",
+        "equity": "0.1% – 0.3%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/riccardo-bruni-1",
+        "name": "Riccardo Bruni",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "481929",
+        "angelListUrl": "https://angel.co/company/many-10/jobs/481929-"
+      }
+    }
+  ]
+}

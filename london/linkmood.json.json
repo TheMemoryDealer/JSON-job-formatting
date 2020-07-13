@@ -1,0 +1,121 @@
+{
+  "name": "LinkMood",
+  "avatar": "https://photos.angel.co/startups/i/7476083-d7a07b2344097af477f5a83f6ce7d8e8-medium_jpg.jpg?buster=1581098386",
+  "slogan": "Hassle-free way to make plans",
+  "description": "LinkMood is a social platform which takes the hassle out of making plans with the friends that matter to you.  It does so by guiding you on: \n\n1) Where to go: By using AI to show you and your friends the best places to go based on what you all like and are in the mood to do\n2) When to meet: By showing the next four suggested time slots to meet based on all of your schedules \n3) Who to meet: By showing you which of your friends are in the mood to do what you want to do \n\nLinkMood also leverages existing user behaviours through its highly engaging activity feed, which shows you the plans that your friends are making and gives you a chance to get involved with the ones that interest you. \n\nIn a world where social media facilitates anti-social online friendships, LinkMood strives to do the opposite. A social network focused on real social connection with the friends that matter to you.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://linkmood.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile Application",
+    "Social Network",
+    "Social",
+    "Apps"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 390000,
+    "rounds": [
+      {
+        "type": "Pre-Seed",
+        "closedAt": 1553126400,
+        "valuation": 1000000
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/udaya-sharma",
+      "name": "Udaya Sharma",
+      "avatar": "https://photos.angel.co/users/10609840-medium_jpg?1581099183",
+      "bioHtml": "CEO and Head of Product at Linkmood. 1st Class Honours from London School of Economics &amp; Political Science (LSE)"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/thevindu-edirisinghe",
+      "name": "Thevindu Edirisinghe",
+      "avatar": "https://photos.angel.co/users/2108869-medium_jpg?1459722430",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/jaiten-gill-12",
+      "name": "Jaiten Gill",
+      "avatar": "https://photos.angel.co/users/646314-medium_jpg?1478269715",
+      "bioHtml": "dslkdskdskldskldsklsdskdl"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7476083",
+    "angelListUrl": "https://angel.co/company/linkmood"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Head of Machine Learning",
+      "description": "Key skills required:\n\n1) First Class Honours in BSC Computer science\n2) Skilled in python\n3) Well versed in Machine learning\n4) Eager to innovate\n\nSalary Range: £50k+\nIf you wish to apply please email udaya.sharma@linkmood.co.uk with your CV",
+      "descriptionHtml": "<p>Key skills required:</p>\n\n<p>1) First Class Honours in BSC Computer science<br>\n2) Skilled in python<br>\n3) Well versed in Machine learning<br>\n4) Eager to innovate</p>\n\n<p>Salary Range: £50k+<br>\nIf you wish to apply please email <a href=\"mailto:udaya.sharma@linkmood.co.uk\" target=\"_blank\" rel=\"nofollow\">udaya.sharma@linkmood.co.uk</a> with your CV</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Software Development",
+        "Natural Language Processing",
+        "Innovation"
+      ],
+      "payment": {
+        "salary": "£50k – £55k",
+        "equity": "0.0% – 4.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Investor",
+        "url": "https://angel.co/u/udaya-sharma",
+        "name": "Udaya Sharma",
+        "avatar": "https://photos.angel.co/users/10609840-medium_jpg?1581099183"
+      },
+      "refs": {
+        "angelListId": "741562",
+        "angelListUrl": "https://angel.co/company/linkmood/jobs/741562-"
+      }
+    }
+  ]
+}

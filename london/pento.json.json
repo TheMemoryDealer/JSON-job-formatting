@@ -1,0 +1,125 @@
+{
+  "name": "Pento",
+  "avatar": "https://photos.angel.co/startups/i/3066031-3e7a0dde8a0c1a6ef6dcbd4f4162daed-medium_jpg.jpg?buster=1570534529",
+  "slogan": "The future of payroll",
+  "description": "We're building a new payroll product for European small/medium sized businesses! A very conservative market with old competitors and products = tons of potential. We are a remote-first team, which means we have no main office and you can work from wherever you want. We're all in on transparency, and a great work culture. We're backed by some of world's best investors such as Point Nine Capital, Seedcamp, and Hustle Fund, and... we're hiring! ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://pento.io"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/pentohq"
+    },
+    {
+      "type": "facebook",
+      "url": "https://facebook.com/pentohq"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/pento/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "Copenhagen",
+    "London",
+    "Remote"
+  ],
+  "marketTags": [
+    "SaaS",
+    "Fin Tech"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 2800000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1568073600,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/emil-hagbarth",
+      "name": "Emil Hagbarth",
+      "avatar": "https://photos.angel.co/users/1079726-medium_jpg?1426236743",
+      "bioHtml": "Founder, CTO <a href=\"https://angel.co/company/pento\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Pento</span></a> •  <a href=\"https://angel.co/company/500startups\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">500 Startups</span></a>  alum."
+    },
+    {
+      "title": "Full Stack Developer",
+      "role": "Employee",
+      "url": "https://angel.co/u/anton-minyaylo",
+      "name": "Anton Minyaylo",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at Blueberry Systems"
+    },
+    {
+      "title": "Product Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/sune-thomsen",
+      "name": "Sune Thomsen",
+      "avatar": "https://photos.angel.co/users/7371557-medium_jpg?1516001458",
+      "bioHtml": "Product Manager at Pento"
+    },
+    {
+      "title": "CEO",
+      "role": "Employee",
+      "url": "https://angel.co/u/jonasboegh",
+      "name": "Jonas Bøgh",
+      "avatar": "https://photos.angel.co/users/1079706-medium_jpg?1429536130",
+      "bioHtml": "Founder, CEO <a href=\"https://angel.co/company/pento\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Pento</span></a>. <a href=\"https://angel.co/company/500startups\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">500 Startups</span></a> alum."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "3066031",
+    "angelListUrl": "https://angel.co/company/pento"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Full-Stack Engineer",
+      "description": "Only applications submitted via https://pentoaps.recruitee.com/o/full-stack-developer will be considered\n\nAt Pento we're building a better, faster, and more modern way for companies to run and automate payroll. We're looking for an experienced full-stack engineer to help us improve and expand our product into new markets.\n\n\nWhat is Pento? 🤔\n\nWe build beautiful payroll software that automates a company's manual workflows and we usually help companies cut 50-80% off the time they spend on payroll. That means no spreadsheets, no manual bank transfers, no e-mails, and no manual work. We've built an easy-to-use software product, that does all of this automatically. \n\n\nThe job description 💬\n\nWe’re looking for a seasoned full-stack engineer to build features across the entire stack and challenge our thinking on architecture. \n\nResponsibilities\n\nHere’s a snapshot of what you could be working on:\n\n- Collaborating with our product manager, designer, co-engineers, and CTO on implementing new exiting features in our products\n- Digging deep into our systems to find bugs and fix them.\n- Designing architecture and collaborating with other engineers on how to build out our stack.\n- Doing in-depth and valuable code reviews.\n- Be part of a high-performing and inclusive team: inspiring team members, set priorities and own results.\n- Contributing to building a collaborative, productive and friendly remote workplace.\n\nWhat we're looking for 🕵️‍♀️\n\nYour background\n\n- You've worked on front-and and back-end for at least 5 years.\n- You have experience building and iterating on full features. From database schema to CSS.\n- You have worked in small effective teams as the company grew fast\n\nExtra credit\n\n- You have experience implementing a large variety of integrations in a scalable and reliable way.\n- You have extensive experience with DevOps and containers.\n- You have production experience with Go, React and/or GraphQL.\n- You have experience working in highly effective remote teams.\n\nYour personality\n\n- You have a problem-solver attitude. No problem is too big or too hard.\n- You like working independently, but you also know when to involve your teammates and ask for help.\n- You are hungry to learn. You know you don't know it all, and do what you can to help yourself and your teammates be better every day.\n- You work well with lots of questions and few answers. We're a startup trying to do something no one else has done before, which means we're dealing with a lot of questions and what-ifs.\n\n\n Next steps 👟\n\n- Interview Process👌\n\nPlease write 'I want to be a gopher' before your answer to the first application question so that we know you have read the whole job description!\n\nWe look forward to hearing from you!\n\nTeam Pento",
+      "descriptionHtml": "<p>Only applications submitted via <a href=\"https://pentoaps.recruitee.com/o/full-stack-developer\" target=\"_blank\" rel=\"nofollow\">https://pentoaps.recruitee.com/o/full-stack-developer</a> will be considered</p>\n\n<p>At Pento we&#39;re building a better, faster, and more modern way for companies to run and automate payroll. We&#39;re looking for an experienced full-stack engineer to help us improve and expand our product into new markets.</p>\n\n<p>What is Pento? 🤔</p>\n\n<p>We build beautiful payroll software that automates a company&#39;s manual workflows and we usually help companies cut 50-80% off the time they spend on payroll. That means no spreadsheets, no manual bank transfers, no e-mails, and no manual work. We&#39;ve built an easy-to-use software product, that does all of this automatically. </p>\n\n<p>The job description 💬</p>\n\n<p>We’re looking for a seasoned full-stack engineer to build features across the entire stack and challenge our thinking on architecture. </p>\n\n<p>Responsibilities</p>\n\n<p>Here’s a snapshot of what you could be working on:</p>\n\n<ul>\n<li>Collaborating with our product manager, designer, co-engineers, and CTO on implementing new exiting features in our products</li>\n<li>Digging deep into our systems to find bugs and fix them.</li>\n<li>Designing architecture and collaborating with other engineers on how to build out our stack.</li>\n<li>Doing in-depth and valuable code reviews.</li>\n<li>Be part of a high-performing and inclusive team: inspiring team members, set priorities and own results.</li>\n<li>Contributing to building a collaborative, productive and friendly remote workplace.</li>\n</ul>\n\n<p>What we&#39;re looking for 🕵️‍♀️</p>\n\n<p>Your background</p>\n\n<ul>\n<li>You&#39;ve worked on front-and and back-end for at least 5 years.</li>\n<li>You have experience building and iterating on full features. From database schema to CSS.</li>\n<li>You have worked in small effective teams as the company grew fast</li>\n</ul>\n\n<p>Extra credit</p>\n\n<ul>\n<li>You have experience implementing a large variety of integrations in a scalable and reliable way.</li>\n<li>You have extensive experience with DevOps and containers.</li>\n<li>You have production experience with Go, React and/or GraphQL.</li>\n<li>You have experience working in highly effective remote teams.</li>\n</ul>\n\n<p>Your personality</p>\n\n<ul>\n<li>You have a problem-solver attitude. No problem is too big or too hard.</li>\n<li>You like working independently, but you also know when to involve your teammates and ask for help.</li>\n<li>You are hungry to learn. You know you don&#39;t know it all, and do what you can to help yourself and your teammates be better every day.</li>\n<li>You work well with lots of questions and few answers. We&#39;re a startup trying to do something no one else has done before, which means we&#39;re dealing with a lot of questions and what-ifs.</li>\n</ul>\n\n<p>Next steps 👟</p>\n\n<ul>\n<li>Interview Process👌</li>\n</ul>\n\n<p>Please write &#39;I want to be a gopher&#39; before your answer to the first application question so that we know you have read the whole job description!</p>\n\n<p>We look forward to hearing from you!</p>\n\n<p>Team Pento</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Copenhagen"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe"
+      ],
+      "skills": [],
+      "payment": {
+        "salary": "€40k – €70k",
+        "equity": "0.0% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/emil-hagbarth",
+        "name": "Emil Hagbarth",
+        "avatar": "https://photos.angel.co/users/1079726-medium_jpg?1426236743"
+      },
+      "refs": {
+        "angelListId": "630679",
+        "angelListUrl": "https://angel.co/company/pento/jobs/630679-"
+      }
+    }
+  ]
+}

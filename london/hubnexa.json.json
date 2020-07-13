@@ -1,0 +1,94 @@
+{
+  "name": "Hubnexa",
+  "avatar": "https://photos.angel.co/startups/i/6745232-07e2dea17d982b311ae3de94ec27bbdd-medium_jpg.jpg?buster=1548077158",
+  "slogan": "Changing the way people move",
+  "description": "Hundreds of millions people relocate each year. This is a stressful time with loads of different moving parts and tasks that need to be completed and no central way to do it all.\n\nHubnexa is a platform that changes the way people move, centralising this process from start-to-end. Update your new address across all providers you are registered with, including forward mail via the Postal Service, find insured and vetted professionals, save time and hassle bringing pets, get home security, receive the best deals on cable and utilities at your new place and discounts from providers in your new area,\n\nWith Hubnexa you complete tasks that used to take hours with just a few clicks.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.hubnexa.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "SaaS",
+    "Enterprise Software",
+    "Software",
+    "Property",
+    "B2B · SaaS · Mobile · Artificial Intelligence / Machine Learning"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO ",
+      "role": "Founder",
+      "url": "https://angel.co/u/nick-rijniers",
+      "name": "Nick Rijniers",
+      "avatar": "https://photos.angel.co/users/8837193-medium_jpg?1555937891",
+      "bioHtml": "Founded:\n- Hubnexa - SaaS\n- Discountdownshop at €2.2 million in ARR.\n- Pack-Leader 12 people £85k MRR\n"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6745232",
+    "angelListUrl": "https://angel.co/company/hubnexa"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "CTO",
+      "description": "",
+      "descriptionHtml": "",
+      "position": "cofounder",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary",
+        "equity": "25.0% – 30.0%"
+      },
+      "recruiter": {
+        "title": "CEO ",
+        "role": "Founder",
+        "url": "https://angel.co/u/nick-rijniers",
+        "name": "Nick Rijniers",
+        "avatar": "https://photos.angel.co/users/8837193-medium_jpg?1555937891"
+      },
+      "refs": {
+        "angelListId": "490556",
+        "angelListUrl": "https://angel.co/company/hubnexa/jobs/490556-"
+      }
+    }
+  ]
+}

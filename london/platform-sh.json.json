@@ -1,0 +1,232 @@
+{
+  "name": "platform.sh",
+  "avatar": "https://photos.angel.co/startups/i/669976-d475485b500a8564efd350a379125d29-medium_jpg.jpg?buster=1486044383",
+  "slogan": "Continuous Deployment Cloud Hosting",
+  "description": "Platform.sh is an idea-to-cloud application platform that simplifies cloud infrastructures.\n\nWe give developers the tools they need to experiment, innovate, get rapid feedback and deliver better-quality features with speed and confidence thanks to our unique rapid cloning technology.\n\nPlatform.sh serves thousands of customers worldwide including The Financial Times, Gap, Magento Commerce, Orange, Hachette, Ikea, Stanford University, Harvard University, The British Council, and Lufthansa.\n\nWe want people who are passionate, open, multicultural, friendly, humble and smart to join us and help this fast-growing, award-winning company to revolutionize the tech industry.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://platform.sh"
+    },
+    {
+      "type": "blog",
+      "url": "https://platform.sh/blog"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/platformsh"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/platform.sh/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/platform-sh"
+    },
+    {
+      "type": "productHunt",
+      "url": "https://www.producthunt.com/posts/platform-sh"
+    }
+  ],
+  "locations": [
+    "Paris",
+    "San Francisco",
+    "Cologne",
+    "London"
+  ],
+  "marketTags": [
+    "Ecommerce"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/damz",
+      "name": "Damien Tournoud",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Community-driven innovator. Drupal core contributor. CTO at Commerce Guys."
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/fr-d-ric-plais",
+      "name": "Frédéric PLAIS",
+      "avatar": "https://photos.angel.co/users/102505-medium_jpg?1462969280",
+      "bioHtml": "CEO at <a href=\"https://angel.co/company/commerce-guys\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Commerce Guys</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/oripekelman",
+      "name": "Ori A Pekelman",
+      "avatar": "https://photos.angel.co/users/136276-medium_jpg?1565023571",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/platform\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Platform.</span></a>.sh"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/brad-homer",
+      "name": "Brad Homer",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Customer Success Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/royall-spence",
+      "name": "Royall Spence",
+      "avatar": "https://photos.angel.co/users/6963936-medium_jpg?1506343514",
+      "bioHtml": "Worked at platform.sh"
+    },
+    {
+      "title": "Customer Success Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/jpolivera",
+      "name": "Juan Pablo Olivera",
+      "avatar": "https://photos.angel.co/users/3141683-medium_jpg?1536542197",
+      "bioHtml": "Entrepreneurial leader with 15+ years in the IT Industry. Skilled in developing automated workflows and high-performing teams to maximize efficiency."
+    }
+  ],
+  "perks": [
+    {
+      "category": "healthcare",
+      "title": "Healthcare, dental, and vision (US and France staff only)"
+    },
+    {
+      "category": "parental_leave",
+      "title": "Maternity and paternity leave"
+    },
+    {
+      "category": "equity",
+      "title": "Company shares (discretionary)"
+    },
+    {
+      "category": "work_from_home",
+      "title": "Fully distributed teams"
+    },
+    {
+      "category": "generous_vacation",
+      "title": " Competitive PTO"
+    },
+    {
+      "category": "retirement",
+      "title": "401k, with employer contribution (US staff only)"
+    },
+    {
+      "category": "professional_development",
+      "title": "Annual budget for professional development"
+    },
+    {
+      "category": "miscellaneous",
+      "title": "Unlimited Platform.sh accounts"
+    },
+    {
+      "category": "miscellaneous",
+      "title": "Extra compensation for on-call ops and support staff"
+    }
+  ],
+  "refs": {
+    "angelListId": "669976",
+    "angelListUrl": "https://angel.co/company/platform-sh"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Engineering Intern",
+      "description": " **Mission**\n\nDo you want hands-on experience with a state of the art container-based high availability cloud infrastructure?\n\nDoes working with Python, Go, Rust, and so on interest you?\n\nDoes working with a distributed team of world-class experts in distributed computing sound like an experience you want on your resume?\n\nWould you like some experience with an infrastructure that uses Zookeeper, Kafka, Riemann, Puppet, Ceph, and a broad assortment of Python libraries? \n\nPlatform.sh is looking for engineer interns for 4 to 6 months starting now to test, break and document things. We take internships seriously, and you will have serious mentoring. On top of that, you will be able to see how an ambitious startup rises.\n\nYou’ll be working from our Paris office; most of us there speak French, but all professional communications happen in English, hence some fluency is required (if you can read Stack Overflow answers without a dictionary, that should do it !).\n\n**You**\n\n- Know how to navigate Linux and Git without getting (too) lost\n- Know about networking (it’s always a network problem)\n- Have basic coding skills (we don’t expect you to be an expert yet, but you should have solved an interesting problem or two with code already)\n- Have a drive to automate all the things (who likes doing the same work twice?)\n\n**It would be really great if you had:**\n\n- Experience with CI of any kind (we use Gitlab, but the principle is always the same)\n- Good experience with Python (most of our core product is Python 2)\n- Experience with other programming languages (our product’s input is code, and you will be pushing a lot of it. PHP ? Java ? Golang ? C# ? Javascript ? Scala ? Fortran ? most of these can run on Platform)\n- Good knowledge of how the Web works (we host web apps, and that’s 95% of what you’ll be testing)\n\n**Us**\n\nPlatform.sh is an idea-to-cloud application platform that simplifies cloud infrastructures.\n\nWe give developers the tools they need to experiment, innovate, get rapid feedback and deliver better-quality features with speed and confidence thanks to our unique rapid cloning technology.\n\nPlatform.sh serves thousands of customers worldwide including The Financial Times, Gap, Magento Commerce, Orange, Hachette, Ikea, Stanford University, Harvard University, The British Council, and Lufthansa.\n\nWe want people who are passionate, open, multicultural, friendly, humble and smart to join us and help this fast-growing, award-winning company to revolutionize the tech industry.\n\n",
+      "descriptionHtml": "<p><strong>Mission</strong></p>\n\n<p>Do you want hands-on experience with a state of the art container-based high availability cloud infrastructure?</p>\n\n<p>Does working with Python, Go, Rust, and so on interest you?</p>\n\n<p>Does working with a distributed team of world-class experts in distributed computing sound like an experience you want on your resume?</p>\n\n<p>Would you like some experience with an infrastructure that uses Zookeeper, Kafka, Riemann, Puppet, Ceph, and a broad assortment of Python libraries? </p>\n\n<p>Platform.sh is looking for engineer interns for 4 to 6 months starting now to test, break and document things. We take internships seriously, and you will have serious mentoring. On top of that, you will be able to see how an ambitious startup rises.</p>\n\n<p>You’ll be working from our Paris office; most of us there speak French, but all professional communications happen in English, hence some fluency is required (if you can read Stack Overflow answers without a dictionary, that should do it !).</p>\n\n<p><strong>You</strong></p>\n\n<ul>\n<li>Know how to navigate Linux and Git without getting (too) lost</li>\n<li>Know about networking (it’s always a network problem)</li>\n<li>Have basic coding skills (we don’t expect you to be an expert yet, but you should have solved an interesting problem or two with code already)</li>\n<li>Have a drive to automate all the things (who likes doing the same work twice?)</li>\n</ul>\n\n<p><strong>It would be really great if you had:</strong></p>\n\n<ul>\n<li>Experience with CI of any kind (we use Gitlab, but the principle is always the same)</li>\n<li>Good experience with Python (most of our core product is Python 2)</li>\n<li>Experience with other programming languages (our product’s input is code, and you will be pushing a lot of it. PHP ? Java ? Golang ? C# ? Javascript ? Scala ? Fortran ? most of these can run on Platform)</li>\n<li>Good knowledge of how the Web works (we host web apps, and that’s 95% of what you’ll be testing)</li>\n</ul>\n\n<p><strong>Us</strong></p>\n\n<p>Platform.sh is an idea-to-cloud application platform that simplifies cloud infrastructures.</p>\n\n<p>We give developers the tools they need to experiment, innovate, get rapid feedback and deliver better-quality features with speed and confidence thanks to our unique rapid cloning technology.</p>\n\n<p>Platform.sh serves thousands of customers worldwide including The Financial Times, Gap, Magento Commerce, Orange, Hachette, Ikea, Stanford University, Harvard University, The British Council, and Lufthansa.</p>\n\n<p>We want people who are passionate, open, multicultural, friendly, humble and smart to join us and help this fast-growing, award-winning company to revolutionize the tech industry.</p>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Paris"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "€10k – €13k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/celinemechain",
+        "name": "Celine Mechain",
+        "avatar": "https://photos.angel.co/users/6860731-medium_jpg?1504085353"
+      },
+      "refs": {
+        "angelListId": "472826",
+        "angelListUrl": "https://angel.co/company/platform-sh/jobs/472826-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Linux Cloud Support Engineer (EMEA working time)",
+      "description": "As an EMEA based  **Linux **** Cloud Support Engineer** you will be responsible for assessing the nature of product or service issues and resolving support problems for customers and partners through support tickets, live chat, and occasional voice calls. Don’t let the word “Support” fool you - this is not a typical call center role. Our customers are technically sophisticated and once a question gets to us search engines have failed to provide an answer. On any given day, you’ll be applying your knowledge of Linux with technologies like MySQL, DNS, CDNs, SSL, Redis, various programming languages, replication, integration with other systems and much more. Expect to learn something new every day.\n\nSuccessful employees will collaborate with other team members, meet deadlines and test new ideas, tools, and tactics. We are looking for motivators and go-getters who will improve our processes, our products and ourselves. As one of our Cloud Support Engineers, you are our front line; when our customers think of how great Platform.sh is, they think of you.\n\n**In a given day you might:**\n\n- Troubleshoot issues pertaining to the underlying infrastructure running customer applications.\n- Diagnose, debug and document issues in both applications and systems.\n- Deploy and configure cloud infrastructure resources.\n- Troubleshoot, reproduce and report bugs.\n- Become a product expert and work toward improving our customer facing documentation.\n- Participate in limited on-call shifts, providing timely responses to high priority tickets and incidents.\n- Work under limited supervision with considerable latitude for personal initiative.\n- Respond to customer inquiries through our ticketing solution, ZenDesk.\n- Participate in training teammates.\n\n**Qualifications**\n\nMinimum Qualifications\n\n- This role is permanent and full time, 5 days a week \n- 3+ years combined of:\n\n  - Linux system administration\n  - Web development using PHP, Python, Ruby or Go. (However, this is not primarily a programming job)\n  - Experience using git\n  - Managing DNS\n  - Functional knowledge of TLS and encryption\n  - Demonstrating exceptional communication skills to provide clear and empathetic customer support\n\nAdditional Nice-to-Haves\n\n- Knowledge of nginx, Galera, GlusterFS, and Puppet\n- Experience with Magento, Symfony, TYPO3 and/or Drupal\n- Understanding of CDNs or Varnish and web caching strategies\n- Familiarity with IaaS solutions, such as AWS, Microsoft Azure and Google Compute Engine\n- Conversant in containerization technologies and techniques\n\nSound Like a Good Fit? We’re not expecting you to be an expert at all of the above, but if your skillset includes some of it and you’re interested in diving into the rest, we’d love to talk to you!  \n\n**This is a remote job. Work from anywhere!**\n\nWe are a worldwide distributed team and are looking for a candidate who can perform well working remotely. To be an effective performer as a CSE here at Platform.sh, you’ll need to be able to effectively collaborate across time zones while operating with a high level of independence and autonomy.\n\n \n\n**About Platform.sh**\n\nPlatform.sh is an idea-to-cloud application platform that simplifies cloud infrastructures.\n\nWe give developers the tools they need to experiment, innovate, get rapid feedback and deliver better-quality features with speed and confidence thanks to our unique rapid cloning technology.\n\nPlatform.sh serves thousands of customers worldwide including The Financial Times, Gap, Magento Commerce, Orange, Hachette, Ikea, Stanford University, Harvard University, and The British Council.\n\nWe want people who are passionate, open, multicultural, friendly, humble and smart to join us and help this fast-growing, award-winning company to revolutionize the tech industry. \n\n",
+      "descriptionHtml": "<p>As an EMEA based  <strong>Linux **</strong> Cloud Support Engineer** you will be responsible for assessing the nature of product or service issues and resolving support problems for customers and partners through support tickets, live chat, and occasional voice calls. Don’t let the word “Support” fool you - this is not a typical call center role. Our customers are technically sophisticated and once a question gets to us search engines have failed to provide an answer. On any given day, you’ll be applying your knowledge of Linux with technologies like MySQL, DNS, CDNs, SSL, Redis, various programming languages, replication, integration with other systems and much more. Expect to learn something new every day.</p>\n\n<p>Successful employees will collaborate with other team members, meet deadlines and test new ideas, tools, and tactics. We are looking for motivators and go-getters who will improve our processes, our products and ourselves. As one of our Cloud Support Engineers, you are our front line; when our customers think of how great Platform.sh is, they think of you.</p>\n\n<p><strong>In a given day you might:</strong></p>\n\n<ul>\n<li>Troubleshoot issues pertaining to the underlying infrastructure running customer applications.</li>\n<li>Diagnose, debug and document issues in both applications and systems.</li>\n<li>Deploy and configure cloud infrastructure resources.</li>\n<li>Troubleshoot, reproduce and report bugs.</li>\n<li>Become a product expert and work toward improving our customer facing documentation.</li>\n<li>Participate in limited on-call shifts, providing timely responses to high priority tickets and incidents.</li>\n<li>Work under limited supervision with considerable latitude for personal initiative.</li>\n<li>Respond to customer inquiries through our ticketing solution, ZenDesk.</li>\n<li>Participate in training teammates.</li>\n</ul>\n\n<p><strong>Qualifications</strong></p>\n\n<p>Minimum Qualifications</p>\n\n<ul>\n<li>This role is permanent and full time, 5 days a week </li>\n<li><p>3+ years combined of:</p>\n\n<ul>\n<li>Linux system administration</li>\n<li>Web development using PHP, Python, Ruby or Go. (However, this is not primarily a programming job)</li>\n<li>Experience using git</li>\n<li>Managing DNS</li>\n<li>Functional knowledge of TLS and encryption</li>\n<li>Demonstrating exceptional communication skills to provide clear and empathetic customer support</li>\n</ul></li>\n</ul>\n\n<p>Additional Nice-to-Haves</p>\n\n<ul>\n<li>Knowledge of nginx, Galera, GlusterFS, and Puppet</li>\n<li>Experience with Magento, Symfony, TYPO3 and/or Drupal</li>\n<li>Understanding of CDNs or Varnish and web caching strategies</li>\n<li>Familiarity with IaaS solutions, such as AWS, Microsoft Azure and Google Compute Engine</li>\n<li>Conversant in containerization technologies and techniques</li>\n</ul>\n\n<p>Sound Like a Good Fit? We’re not expecting you to be an expert at all of the above, but if your skillset includes some of it and you’re interested in diving into the rest, we’d love to talk to you!  </p>\n\n<p><strong>This is a remote job. Work from anywhere!</strong></p>\n\n<p>We are a worldwide distributed team and are looking for a candidate who can perform well working remotely. To be an effective performer as a CSE here at Platform.sh, you’ll need to be able to effectively collaborate across time zones while operating with a high level of independence and autonomy.</p>\n\n<p><strong>About Platform.sh</strong></p>\n\n<p>Platform.sh is an idea-to-cloud application platform that simplifies cloud infrastructures.</p>\n\n<p>We give developers the tools they need to experiment, innovate, get rapid feedback and deliver better-quality features with speed and confidence thanks to our unique rapid cloning technology.</p>\n\n<p>Platform.sh serves thousands of customers worldwide including The Financial Times, Gap, Magento Commerce, Orange, Hachette, Ikea, Stanford University, Harvard University, and The British Council.</p>\n\n<p>We want people who are passionate, open, multicultural, friendly, humble and smart to join us and help this fast-growing, award-winning company to revolutionize the tech industry. </p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": true,
+      "locations": [
+        "San Francisco",
+        "London",
+        "Paris",
+        "Cologne"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$105k – $155k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/celinemechain",
+        "name": "Celine Mechain",
+        "avatar": "https://photos.angel.co/users/6860731-medium_jpg?1504085353"
+      },
+      "refs": {
+        "angelListId": "806207",
+        "angelListUrl": "https://angel.co/company/platform-sh/jobs/806207-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Security Engineer ",
+      "description": " **Mission **\n\nTo reinforce our commitment to customers’ privacy and security, for its PaaS solution, Platform.sh is looking for a **Security Engineer** with a taste for Python and Go, excellent Linux system understanding, outstanding written English skills, experience working on PCI and/or SOC 2 compliance, and a real hunger for the challenges of building compliant distributed systems. If you’re looking for an exciting, high-growth opportunity with an award-winning, cutting-edge company, this could be the job for you.\n\nWe are targeting engineers that like writing documentation and can function in a high performing, multithreaded, 100% cloud-based, remote environment.\n\nSecurity, privacy, and compliance controls are at the heart of what we do as our mission is to simplify the cloud. The job is to transform what is often regarded as red-tape and constraints to a well-oiled machine where everything is automated and where every constraint becomes a feature making the product better.\n\nThis role reports to our Security Operations Manager, and works in close interaction with our CTO, VP of Infrastructure, VP of Engineering, our Data Protection Officer, and our Customer Support teams.\n\n \n\n**In a given day you might:**\n\n- Act as a technical liaison between the Security department and our product, engineering, support, and operations staff.\n- Create documentation and processes in English to help satisfy compliance requirements and/or internal process questions.\n- Evaluate, deploy, and create systems and tools that will enhance our efficiency.\n- Support our data protection officer and compliance team with information requests, pen testing coordinations, internal and external vulnerability scanning, disaster recovery, and related activities.\n- Execute our security incident management process.\n- Ensure all systems and services in our environment are securely designed, configured, managed, and monitored.\n- Work with external auditors to answer questions on PCI and SOC 2.\n- Participate in an on-call rotation, the majority of which is during normal working hours.\n\n \n\n**Qualifications**\n\nMinimum Qualifications:\n\n- Experience with Linux (preferably Debian-based)\n- Markdown\n- Experience implementing PCI, SOC 2 , or related\n- Operate largely independently (go take that hill) with management support\n- Able to juggle several requests at the same time\n- Experience securing cloud services (AWS in particular)\n- Sysadmin experience\n- Experience with git-based workflows\n- Proficient in Python or Golang\n- Experience with containerization technologies (LXC/LXD, Docker)\n- Working knowledge of\n\n  - Patch and Vulnerability Management process\n  - Principle of Least Privilege\n  - Incident response\n  - Identity and Access Management\n  - IPTABLES\n  - Encryption: TLS, SSH, Disk, etc.\n  - Ticketed change control\n  - Snapshot-based backups\n- CISSP, CISM, Security+, GCED, GICSP, GCIH, SSCP, or CASP+ Certification or similar\n- Excellent written English skills\n\n \n\nPreferred Qualifications:\n\n- AWS, Google, and/or Azure certifications\n- Experience with performing vendor security reviews\n- Experience with Puppet\n- Knowledge of Magento Ecommerce, Symfony, Drupal, eZ Platform, or Typo3\n- Relational database skills\n- Public speaking experience\n- Ability to speak French or German\n- Ability to kick ass in Chess or beat Zork without using a map\n- Can bravely take on new challenges like a Gryffindor, analyze problems like Ravenclaw, protects our infrastructure and client data like a Slytherin, and talks with clients like a Hufflepuff.\n\nSound Like a Good Fit? We’d love to talk to you!  \n\n \n\n***This is a remote job**  \n\nWe are a worldwide distributed team and are looking for a candidate who can perform well working remotely. To be an effective performer here at Platform.sh, you’ll need to be able to effectively collaborate across time zones while operating with a high level of independence and autonomy.\n\n \n\n**About Platform.sh **\n\nPlatform.sh is an idea-to-cloud application platform that simplifies cloud infrastructures. \n\nWe give developers the tools they need to experiment, innovate, get rapid feedback, and deliver better-quality features with speed and confidence thanks to our unique rapid cloning technology.\n\nPlatform.sh serves thousands of customers worldwide including The Financial Times, Gap, Magento Commerce, Adobe, Orange, Hachette, Ikea, Stanford University, Harvard University, The British Council, and Lufthansa.\n\nWe want people who are passionate, open, multicultural, friendly, humble, and smart to join us and help this fast-growing, award-winning company to revolutionize the tech industry.\n\n",
+      "descriptionHtml": "<p>*<em>Mission *</em></p>\n\n<p>To reinforce our commitment to customers’ privacy and security, for its PaaS solution, Platform.sh is looking for a <strong>Security Engineer</strong> with a taste for Python and Go, excellent Linux system understanding, outstanding written English skills, experience working on PCI and/or SOC 2 compliance, and a real hunger for the challenges of building compliant distributed systems. If you’re looking for an exciting, high-growth opportunity with an award-winning, cutting-edge company, this could be the job for you.</p>\n\n<p>We are targeting engineers that like writing documentation and can function in a high performing, multithreaded, 100% cloud-based, remote environment.</p>\n\n<p>Security, privacy, and compliance controls are at the heart of what we do as our mission is to simplify the cloud. The job is to transform what is often regarded as red-tape and constraints to a well-oiled machine where everything is automated and where every constraint becomes a feature making the product better.</p>\n\n<p>This role reports to our Security Operations Manager, and works in close interaction with our CTO, VP of Infrastructure, VP of Engineering, our Data Protection Officer, and our Customer Support teams.</p>\n\n<p><strong>In a given day you might:</strong></p>\n\n<ul>\n<li>Act as a technical liaison between the Security department and our product, engineering, support, and operations staff.</li>\n<li>Create documentation and processes in English to help satisfy compliance requirements and/or internal process questions.</li>\n<li>Evaluate, deploy, and create systems and tools that will enhance our efficiency.</li>\n<li>Support our data protection officer and compliance team with information requests, pen testing coordinations, internal and external vulnerability scanning, disaster recovery, and related activities.</li>\n<li>Execute our security incident management process.</li>\n<li>Ensure all systems and services in our environment are securely designed, configured, managed, and monitored.</li>\n<li>Work with external auditors to answer questions on PCI and SOC 2.</li>\n<li>Participate in an on-call rotation, the majority of which is during normal working hours.</li>\n</ul>\n\n<p><strong>Qualifications</strong></p>\n\n<p>Minimum Qualifications:</p>\n\n<ul>\n<li>Experience with Linux (preferably Debian-based)</li>\n<li>Markdown</li>\n<li>Experience implementing PCI, SOC 2 , or related</li>\n<li>Operate largely independently (go take that hill) with management support</li>\n<li>Able to juggle several requests at the same time</li>\n<li>Experience securing cloud services (AWS in particular)</li>\n<li>Sysadmin experience</li>\n<li>Experience with git-based workflows</li>\n<li>Proficient in Python or Golang</li>\n<li>Experience with containerization technologies (LXC/LXD, Docker)</li>\n<li><p>Working knowledge of</p>\n\n<ul>\n<li>Patch and Vulnerability Management process</li>\n<li>Principle of Least Privilege</li>\n<li>Incident response</li>\n<li>Identity and Access Management</li>\n<li>IPTABLES</li>\n<li>Encryption: TLS, SSH, Disk, etc.</li>\n<li>Ticketed change control</li>\n<li>Snapshot-based backups</li>\n</ul></li>\n<li><p>CISSP, CISM, Security+, GCED, GICSP, GCIH, SSCP, or CASP+ Certification or similar</p></li>\n<li><p>Excellent written English skills</p></li>\n</ul>\n\n<p>Preferred Qualifications:</p>\n\n<ul>\n<li>AWS, Google, and/or Azure certifications</li>\n<li>Experience with performing vendor security reviews</li>\n<li>Experience with Puppet</li>\n<li>Knowledge of Magento Ecommerce, Symfony, Drupal, eZ Platform, or Typo3</li>\n<li>Relational database skills</li>\n<li>Public speaking experience</li>\n<li>Ability to speak French or German</li>\n<li>Ability to kick ass in Chess or beat Zork without using a map</li>\n<li>Can bravely take on new challenges like a Gryffindor, analyze problems like Ravenclaw, protects our infrastructure and client data like a Slytherin, and talks with clients like a Hufflepuff.</li>\n</ul>\n\n<p>Sound Like a Good Fit? We’d love to talk to you!  </p>\n\n<p><em>**This is a remote job</em>*  </p>\n\n<p>We are a worldwide distributed team and are looking for a candidate who can perform well working remotely. To be an effective performer here at Platform.sh, you’ll need to be able to effectively collaborate across time zones while operating with a high level of independence and autonomy.</p>\n\n<p>*<em>About Platform.sh *</em></p>\n\n<p>Platform.sh is an idea-to-cloud application platform that simplifies cloud infrastructures. </p>\n\n<p>We give developers the tools they need to experiment, innovate, get rapid feedback, and deliver better-quality features with speed and confidence thanks to our unique rapid cloning technology.</p>\n\n<p>Platform.sh serves thousands of customers worldwide including The Financial Times, Gap, Magento Commerce, Adobe, Orange, Hachette, Ikea, Stanford University, Harvard University, The British Council, and Lufthansa.</p>\n\n<p>We want people who are passionate, open, multicultural, friendly, humble, and smart to join us and help this fast-growing, award-winning company to revolutionize the tech industry.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "San Francisco",
+        "London",
+        "Paris"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "€50k – €60k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/celinemechain",
+        "name": "Celine Mechain",
+        "avatar": "https://photos.angel.co/users/6860731-medium_jpg?1504085353"
+      },
+      "refs": {
+        "angelListId": "747936",
+        "angelListUrl": "https://angel.co/company/platform-sh/jobs/747936-"
+      }
+    }
+  ]
+}

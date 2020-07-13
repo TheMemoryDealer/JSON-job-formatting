@@ -1,0 +1,99 @@
+{
+  "name": "Eedi",
+  "avatar": "https://photos.angel.co/startups/i/7682578-ad3bff72b9edf6fced37d53d601e3562-medium_jpg.jpg?buster=1588938537",
+  "slogan": "Fitbit for learning",
+  "description": "Our mission is to make the world happier and smarter. After raising $4.3M, with LEGO Ventures leading, we are developing a range of digital and physical products that ensure that every learner has access to great teaching and learning, personalised to their ability and needs. Eedi has reached millions of teachers and their learners in over 14,500 schools worldwide.\n\nData improves our lives everyday. It helps us to be healthier and to live longer; it saves us time and money; and gets us places we want to go quicker. Yet something as fundamental as education remains behind the times, and we believe that an ethical, global brand will be built in this space. Our vision is to build Eedi into one of the most impactful and responsible brands of the 21st Century - “The Fitbit for Learning” - by leveraging our unique blend of diagnostics and big data.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://eedi.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/helloeedi"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/eedi"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "K-12 Education",
+    "Education",
+    "Education Technology"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 4327802,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1584921600,
+        "valuation": 6800832
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/craig-barton-6",
+      "name": "Craig Barton",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/simon-woodhead",
+      "name": "Simon Woodhead",
+      "avatar": "https://photos.angel.co/users/1629499-medium_jpg?1478678113",
+      "bioHtml": "Founder of Diagnostic Questions • PhD in Visualization of Data • Studied at <a href=\"https://angel.co/university-of-bristol\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Bristol</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/ben-caulfield",
+      "name": "Ben Caulfield",
+      "avatar": "https://photos.angel.co/users/38118-medium_jpg?1588939499",
+      "bioHtml": "Co-Founder &amp; CEO of <a href=\"https://angel.co/company/eedi-edu\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Eedi</span></a> prev. <a href=\"https://angel.co/company/reqqi\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">REQQI</span></a>. Worked at @aol, <a href=\"https://angel.co/company/news-international\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">News International</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/zander-whitehurst-1",
+      "name": "Zander Whitehurst",
+      "avatar": "https://photos.angel.co/users/7175945-medium_jpg?1523426762",
+      "bioHtml": " First UX Designer <a href=\"https://angel.co/company/hotjar\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Hotjar</span></a> &amp; <a href=\"https://angel.co/company/yieldify\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Yieldify</span></a>  | Studied <a href=\"https://angel.co/new-york-university\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">New York University</span></a> &amp; <a href=\"https://angel.co/university-of-oxford-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Oxford</span></a>  - I run Ultra Marathons for fun"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/mike-beech",
+      "name": "Mike Beech",
+      "avatar": "https://photos.angel.co/users/172063-medium_jpg?1405550657",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/reqqi\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">REQQI</span></a>."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7682578",
+    "angelListUrl": "https://angel.co/company/eedi-edu"
+  },
+  "jobs": []
+}

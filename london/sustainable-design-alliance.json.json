@@ -1,0 +1,102 @@
+{
+  "name": "Sustainable Design Alliance",
+  "avatar": "https://photos.angel.co/startups/i/7693842-ec1f14a1302a789a3cf96e3ca15f133e-medium_jpg.jpg?buster=1589371427",
+  "slogan": "We are a global alliance of interdisciplinary collaborators, consultants and designers",
+  "description": "We are a campaign and education platform for the creative industries, sharing information and knowledge on sustainability and the circular economy.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://sustainabledesignalliance.com/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Sustainability"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/paul-foulkes-arellano",
+      "name": "Paul Foulkes-Arellano",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7693842",
+    "angelListUrl": "https://angel.co/company/sustainable-design-alliance"
+  },
+  "jobs": [
+    {
+      "role": "Designer",
+      "title": "Web designer/developer",
+      "description": "Competent web designer/developer.\r\n\r\nWould suit a design student who is looking to build up their portfolio for a prestigious global design organisation.",
+      "descriptionHtml": "<p>Competent web designer/developer.</p>\n\n<p>Would suit a design student who is looking to build up their portfolio for a prestigious global design organisation.</p>\n",
+      "position": "internship",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "San Francisco",
+        "London",
+        "Manchester"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "New York City",
+        "San Francisco",
+        "Paris",
+        "Berlin"
+      ],
+      "skills": [
+        "HTML",
+        "Wordpress",
+        "Adobe Photoshop",
+        "Adobe Illustrator"
+      ],
+      "payment": {
+        "salary": "$1k – $5k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/paul-foulkes-arellano",
+        "name": "Paul Foulkes-Arellano",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "823279",
+        "angelListUrl": "https://angel.co/company/sustainable-design-alliance/jobs/823279-"
+      }
+    }
+  ]
+}

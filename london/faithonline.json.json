@@ -1,0 +1,141 @@
+{
+  "name": "Faith.online",
+  "avatar": "https://photos.angel.co/startups/i/7574033-af2a2cc2f66ed77ce996459d9ef5d115-medium_jpg.jpg?buster=1589153107",
+  "slogan": "Connecting religious leaders with their communities",
+  "description": "Digital community platform, providing access to essential service through live video streaming content. Currently in stealth but launching MVP in UK and US in coming months. \n\nLooking to build early stage team who can help rapidly scale the product to millions of concurrent users.\n\nLooking for full stack developers, product managers, designers, and sales people. If you're interested in joining an early stage startup, working remotely, and enjoying all the benefits or being in at the ground floor, do get in touch! ",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.faith.online"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "San Francisco",
+    "Remote"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Video Streaming"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/aalzamora",
+      "name": "Andre Alzamora",
+      "avatar": "https://photos.angel.co/users/415061-medium_jpg?1467032949",
+      "bioHtml": "CEO &amp; Founder <a href=\"https://angel.co/company/faithonline\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Faith.online</span></a> former co-founder &amp; CCO <a href=\"https://angel.co/company/cytora\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Cytora</span></a> (AI insurtech). Angel impact investor in long term plays (mobile, health, data)."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7574033",
+    "angelListUrl": "https://angel.co/company/faithonline"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Web Developer",
+      "description": "Faith.online is creating a new video streaming platform to connect faith communities around the world during this period of global crisis, and beyond. We are looking for an experienced Full Stack Web Developer to help launch our MVP. The ideal candidate is someone who is comfortable with a green-field project, and is interested in getting up to speed with new technologies as they are needed.\n\n**Requirements**\n\n**Role:**\n\nThe candidate will be responsible for designing, and building a web-application for religious organisations to organise, schedule, and live-broadcast their services. Fast iteration as a result of rapid user-testing is expected in these early stages. Therefore, the ideal candidate will be experienced with building clean, well tested, and maintainable code. Experience with common video-streaming technologies for the web is preferred, however we are willing to consider a candidate who is able to demonstrate that they are able to pick up the required technologies quickly.\n\n**Key Requirements:**\n\n- Experience in creating scalable web-services, and deploying applications to common cloud platforms.\n- Experience of JavaScript for creating full-stack applications.\n- Experience in creating web-interfaces using popular JavaScript frameworks, CSS and HTML.\n- Experienced with common CI/CD practices, and writing clean, and well tested code.\n\n**Bonus Points:**\n\n- Knowledge or experience with popular real-time streaming technologies for the web (for example WebRTC).\n\n- Experience with optimising web-applications for high rates of traffic\n",
+      "descriptionHtml": "<p>Faith.online is creating a new video streaming platform to connect faith communities around the world during this period of global crisis, and beyond. We are looking for an experienced Full Stack Web Developer to help launch our MVP. The ideal candidate is someone who is comfortable with a green-field project, and is interested in getting up to speed with new technologies as they are needed.</p>\n\n<p><strong>Requirements</strong></p>\n\n<p><strong>Role:</strong></p>\n\n<p>The candidate will be responsible for designing, and building a web-application for religious organisations to organise, schedule, and live-broadcast their services. Fast iteration as a result of rapid user-testing is expected in these early stages. Therefore, the ideal candidate will be experienced with building clean, well tested, and maintainable code. Experience with common video-streaming technologies for the web is preferred, however we are willing to consider a candidate who is able to demonstrate that they are able to pick up the required technologies quickly.</p>\n\n<p><strong>Key Requirements:</strong></p>\n\n<ul>\n<li>Experience in creating scalable web-services, and deploying applications to common cloud platforms.</li>\n<li>Experience of JavaScript for creating full-stack applications.</li>\n<li>Experience in creating web-interfaces using popular JavaScript frameworks, CSS and HTML.</li>\n<li>Experienced with common CI/CD practices, and writing clean, and well tested code.</li>\n</ul>\n\n<p><strong>Bonus Points:</strong></p>\n\n<ul>\n<li><p>Knowledge or experience with popular real-time streaming technologies for the web (for example WebRTC).</p></li>\n<li><p>Experience with optimising web-applications for high rates of traffic</p></li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": true,
+      "locations": [
+        "San Francisco",
+        "United Kingdom",
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe",
+        "North America"
+      ],
+      "skills": [
+        "Scaling Web Applications",
+        "Video Streaming",
+        "Full-Stack Web Development (Node/Redux/React)"
+      ],
+      "payment": {
+        "salary": "$80k – $160k",
+        "equity": "0.1% – 2.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/aalzamora",
+        "name": "Andre Alzamora",
+        "avatar": "https://photos.angel.co/users/415061-medium_jpg?1467032949"
+      },
+      "refs": {
+        "angelListId": "773720",
+        "angelListUrl": "https://angel.co/company/faithonline/jobs/773720-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "UI / UX Designer extraordinaire required!!",
+      "description": "Faith.online is a digital platform that connects religious leaders with their communities. Current solutions not suitable for religious needs.\r\n\r\nYou will be the sole UI / UX developer for the first couple months.\r\n\r\nFeature\r\n- live stream / upload pre record and broadcast, connect to YT/FB\r\n- schedule and host meetings\r\n- post updates on the page to the community\r\n- approve membership of users to your page\r\n- CRM panel to manage comms to your community\r\n- dial in and text based services for very elderly\r\n- create and run campaigns, including donations\r\n- manage religious copyright licenses\r\n\r\nThe main challenge of our product is that the primary users skew much older than most, some can't even use the internet and hence need to connect via a dial in service to listen to content. The platform also needs to \"feel\" special, much like non digital worship.\r\n\r\nRole\r\n- work with PM and developer to gather and priotise tasks\r\n- design storyboard, user workflows, sitemaps\r\n- build wireframes, layouts, button designs\r\n- develop mockup for website, web app and eventually mobile app\r\n- generalist in the area of design\r\n\r\nRequirements\r\n- 3+ years of UI/UX design\r\n- share portfolio of past work\r\n- capable at working remotely and independently\r\n- highly skilled in invision/adobe XD\r\n- great communication (english first language)\r\n\r\nPreferred:\r\n- experience building tools for seniors/elderly\r\n- experience working on products that address accessibilty/disability challenges",
+      "descriptionHtml": "<p>Faith.online is a digital platform that connects religious leaders with their communities. Current solutions not suitable for religious needs.</p>\n\n<p>You will be the sole UI / UX developer for the first couple months.</p>\n\n<p>Feature</p>\n\n<ul>\n<li>live stream / upload pre record and broadcast, connect to YT/FB</li>\n<li>schedule and host meetings</li>\n<li>post updates on the page to the community</li>\n<li>approve membership of users to your page</li>\n<li>CRM panel to manage comms to your community</li>\n<li>dial in and text based services for very elderly</li>\n<li>create and run campaigns, including donations</li>\n<li>manage religious copyright licenses</li>\n</ul>\n\n<p>The main challenge of our product is that the primary users skew much older than most, some can&#39;t even use the internet and hence need to connect via a dial in service to listen to content. The platform also needs to &quot;feel&quot; special, much like non digital worship.</p>\n\n<p>Role</p>\n\n<ul>\n<li>work with PM and developer to gather and priotise tasks</li>\n<li>design storyboard, user workflows, sitemaps</li>\n<li>build wireframes, layouts, button designs</li>\n<li>develop mockup for website, web app and eventually mobile app</li>\n<li>generalist in the area of design</li>\n</ul>\n\n<p>Requirements</p>\n\n<ul>\n<li>3+ years of UI/UX design</li>\n<li>share portfolio of past work</li>\n<li>capable at working remotely and independently</li>\n<li>highly skilled in invision/adobe XD</li>\n<li>great communication (english first language)</li>\n</ul>\n\n<p>Preferred:</p>\n\n<ul>\n<li>experience building tools for seniors/elderly</li>\n<li>experience working on products that address accessibilty/disability challenges</li>\n</ul>\n",
+      "position": "contract",
+      "experience": 3,
+      "visaSponsorship": true,
+      "locations": [
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "North America",
+        "United Kingdom"
+      ],
+      "skills": [
+        "Graphic Design",
+        "UI/UX Design",
+        "Wireframes and prototyping",
+        "Invision",
+        "Adobe Xd"
+      ],
+      "payment": {
+        "salary": "$40k – $80k",
+        "equity": "0.5% – 2.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/aalzamora",
+        "name": "Andre Alzamora",
+        "avatar": "https://photos.angel.co/users/415061-medium_jpg?1467032949"
+      },
+      "refs": {
+        "angelListId": "802204",
+        "angelListUrl": "https://angel.co/company/faithonline/jobs/802204-"
+      }
+    }
+  ]
+}

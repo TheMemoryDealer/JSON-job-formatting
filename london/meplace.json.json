@@ -1,0 +1,107 @@
+{
+  "name": "MePlace",
+  "avatar": "https://photos.angel.co/startups/i/7466831-e988a36e31775474b7859de1f717f654-medium_jpg.jpg?buster=1580824283",
+  "slogan": "Childcare Reimagined",
+  "description": "MePlace represents a new dawn in childcare; creating a new approach to children’s wellbeing and preschool education.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.meplace.co"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Childcare",
+    "Technology",
+    "Education",
+    "Education Technology"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/vlada-bell",
+      "name": "Vlada Bell",
+      "avatar": "https://photos.angel.co/users/7091718-medium_jpg?1580824128",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/meplace\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">MePlace</span></a> • Worked at <a href=\"https://angel.co/company/bnp-paribas\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">BNP Paribas</span></a>, <a href=\"https://angel.co/company/the_reserve\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">The Reserve</span></a>"
+    },
+    {
+      "title": "Psychologist and Content Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/viktoriia-makarenko",
+      "name": "Viktoriia Makarenko",
+      "avatar": "https://photos.angel.co/users/9815210-medium_jpg?1565212858",
+      "bioHtml": "Psychologist &amp; Learning Scientist"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7466831",
+    "angelListUrl": "https://angel.co/company/meplace"
+  },
+  "jobs": [
+    {
+      "role": "Operations",
+      "title": "Operations Associate",
+      "description": "We’re looking for a motivated Operations Associate/COS to work closely with the Founder to help grow the business and execute day-to-day projects. We’re looking for someone process-driven, organised and resilient as you will be exposed to all aspects of a growing startup business.",
+      "descriptionHtml": "<p>We’re looking for a motivated Operations Associate/COS to work closely with the Founder to help grow the business and execute day-to-day projects. We’re looking for someone process-driven, organised and resilient as you will be exposed to all aspects of a growing startup business.</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Project Management",
+        "Communication Skills",
+        "Microsoft Excel",
+        "Fluent in English",
+        "Analytical skills"
+      ],
+      "payment": {
+        "salary": "£24k – £32k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/vlada-bell",
+        "name": "Vlada Bell",
+        "avatar": "https://photos.angel.co/users/7091718-medium_jpg?1580824128"
+      },
+      "refs": {
+        "angelListId": "713516",
+        "angelListUrl": "https://angel.co/company/meplace/jobs/713516-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "name": "Metomic",
+  "avatar": "https://photos.angel.co/startups/i/6242412-82ad7fed4bfd2d8fcd183f8b88a1613d-medium_jpg.jpg?buster=1578759769",
+  "slogan": "Stripe for Data Privacy",
+  "description": "Metomic is the first privacy automation platform for developers. Used by companies all over the world to give their customers transparency and control of their data. Launched in early 2018, Metomic is a London-based startup funded by some of Europe's best VCs and is quickly changing the meaning of \"data privacy\".",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://metomic.io"
+    },
+    {
+      "type": "blog",
+      "url": "https://metomic.io/blog"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/metomic_"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/33295510/"
+    },
+    {
+      "type": "productHunt",
+      "url": "https://www.producthunt.com/posts/the-end-of-cookie-banners-by-metomic"
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Privacy",
+    "Technology",
+    "Data Privacy",
+    "Data"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/ben-van-enckevort",
+      "name": "Ben van Enckevort",
+      "avatar": "https://photos.angel.co/users/8655504-medium_jpg?1543601711",
+      "bioHtml": "Longtime tinkerer and breaker of things. Currently building APIs to define modern data privacy standards."
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/richard-vibert-2",
+      "name": "Richard Vibert",
+      "avatar": "https://photos.angel.co/users/8298836-medium_jpg?1543316913",
+      "bioHtml": "Previously Head of Data Strategy at Sotheby&#39;s and Data Scientist at DemystData. Currently building APIs to define modern data privacy standards."
+    },
+    {
+      "title": "Head of Growth",
+      "role": "Employee",
+      "url": "https://angel.co/u/erika-smith-12",
+      "name": "Erika Smith",
+      "avatar": "https://photos.angel.co/users/9500076-medium_jpg?1560071276",
+      "bioHtml": "Creating efficient and sustainable marketing strategies to grow businesses. \n\nBilingual Japanese-American, raised in Tokyo, educated in London. "
+    },
+    {
+      "title": "Sr Software Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/joel-kang",
+      "name": "Joel Kang",
+      "avatar": "https://photos.angel.co/users/777755-medium_jpg?1589219764",
+      "bioHtml": "Software Engineer <a href=\"https://angel.co/company/metomic\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Metomic</span></a>; Previously <a href=\"https://angel.co/company/frame\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Frame</span></a>.io, <a href=\"https://angel.co/company/etsy\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Etsy</span></a>, <a href=\"https://angel.co/company/linkedin\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">LinkedIn</span></a> ;Brown University &#39;13"
+    },
+    {
+      "title": "R&D | Development",
+      "role": "Employee",
+      "url": "https://angel.co/u/joshbalfour",
+      "name": "Josh Balfour",
+      "avatar": "https://photos.angel.co/users/4322998-medium_jpg?1524830759",
+      "bioHtml": "London based Full-Stack Developer"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6242412",
+    "angelListUrl": "https://angel.co/company/metomic"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Backend Engineer",
+      "description": "Do you like solving problems? Building things? Breaking things? Experimenting with things? Do you think data privacy is important and that it's time for manipulation and opaqueness on the internet to finally come to and end?\n\nIf the answer's yes then...\n\n**We’d like you onboard!**\n\nWe’re funded (same investors of Citymapper/Typeform/Truelayer), we’re early, we’re moving super fast, and we’re about to solve a MASSIVE problem. At Metomic, we’re building the “privacy by design” infrastructure of the internet. Technologies plug together like Lego - it’s about time that our preferences, consent and sharing permissions do the same.\n\n**It’s a greenfield opportunity. We have...**\n\n- A vision to make *data ethics* globally important. We want to make data-misuse a thing of the past. We want to give every product and service in the world a permissions screen\n- A wide-open green field of freshly baked services\n- A young and pliable tech stack and infrastructure\n- Energy and drive in abundance\n\n**We love awesome engineering...**\n\n- We’re playing with Docker, Typescript/NodeJS, a smidge of Python, React, rapid prototyping, metrics-metrics-metrics and tight feedback loops\n- We love autonomy and ownership, and believe in empowering our team\n- We like polyglots! If you take like a duck to water with new languages, we don’t care if you haven’t used much of ours\n\n**You’re curious, creative and smart…**\n\nAnd modest, too. Here are some of the other things that you have:\n\n- A curious mind. A love for the question “why”\n- Flexibility. Your peers say you can turn your hand to pretty much anything you set your mind to\n- Good communication skills. We’re a small team\n- The ability to code (no surprises here). You are comfortable in two or more languages\n- The ability to build fast\n- A working knowledge of devops. You can spin up a cloud hosted prototype in a jiffy…\n- … or have sufficient google skills to make it look like you already could\n\n**…and you have a wide set of interests...**\n\nPerhaps in your free time you’ve dabbled with front-end. Or painting. Or robots. Or a markov-chain Trump-tweet generator. In which case can you take it down please? It’s currently running the United States.\n\n**Hey you said full-stack … but “dabbled” with front-end?**\n\nYes. We don’t need you to be a front-end person. We’re looking for a great engineer in general, not a specialism - and this is the closest tag we could decide upon. So if you’ve ever felt “But I do lots of things! How do I present myself as capable doer of multitudinous things?” then you’re perfect. “So do I need to build the front-end?\" Nope! Unless that’s your burning passion, in which case, hey, we’ll hook you up.\n\n**Whoa whoa wait, the salary?**\n\nOf course. We believe in hiring good people, and paying them well. This is a big role, it comes with a decent salary. We’re also offering equity, because we want everyone to be in the same boat. We vary our offer based on skill and experience level but the range for this position is £60k to £80k, plus 0-0.2% equity.\n\n## And some other perks please?\n\nOk, if you insist:\n\n✈️ £250 to spend on a holiday each quarter\n\n📘 £400 every year to spend on educational courses\n\n🍏 Private medical insurance (including therapy)\n\n😊 Flexible working\n\n🏠 An amazing office in the heart of Shoreditch",
+      "descriptionHtml": "<p>Do you like solving problems? Building things? Breaking things? Experimenting with things? Do you think data privacy is important and that it&#39;s time for manipulation and opaqueness on the internet to finally come to and end?</p>\n\n<p>If the answer&#39;s yes then...</p>\n\n<p><strong>We’d like you onboard!</strong></p>\n\n<p>We’re funded (same investors of Citymapper/Typeform/Truelayer), we’re early, we’re moving super fast, and we’re about to solve a MASSIVE problem. At Metomic, we’re building the “privacy by design” infrastructure of the internet. Technologies plug together like Lego - it’s about time that our preferences, consent and sharing permissions do the same.</p>\n\n<p><strong>It’s a greenfield opportunity. We have...</strong></p>\n\n<ul>\n<li>A vision to make <em>data ethics</em> globally important. We want to make data-misuse a thing of the past. We want to give every product and service in the world a permissions screen</li>\n<li>A wide-open green field of freshly baked services</li>\n<li>A young and pliable tech stack and infrastructure</li>\n<li>Energy and drive in abundance</li>\n</ul>\n\n<p><strong>We love awesome engineering...</strong></p>\n\n<ul>\n<li>We’re playing with Docker, Typescript/NodeJS, a smidge of Python, React, rapid prototyping, metrics-metrics-metrics and tight feedback loops</li>\n<li>We love autonomy and ownership, and believe in empowering our team</li>\n<li>We like polyglots! If you take like a duck to water with new languages, we don’t care if you haven’t used much of ours</li>\n</ul>\n\n<p><strong>You’re curious, creative and smart…</strong></p>\n\n<p>And modest, too. Here are some of the other things that you have:</p>\n\n<ul>\n<li>A curious mind. A love for the question “why”</li>\n<li>Flexibility. Your peers say you can turn your hand to pretty much anything you set your mind to</li>\n<li>Good communication skills. We’re a small team</li>\n<li>The ability to code (no surprises here). You are comfortable in two or more languages</li>\n<li>The ability to build fast</li>\n<li>A working knowledge of devops. You can spin up a cloud hosted prototype in a jiffy…</li>\n<li>… or have sufficient google skills to make it look like you already could</li>\n</ul>\n\n<p><strong>…and you have a wide set of interests...</strong></p>\n\n<p>Perhaps in your free time you’ve dabbled with front-end. Or painting. Or robots. Or a markov-chain Trump-tweet generator. In which case can you take it down please? It’s currently running the United States.</p>\n\n<p><strong>Hey you said full-stack … but “dabbled” with front-end?</strong></p>\n\n<p>Yes. We don’t need you to be a front-end person. We’re looking for a great engineer in general, not a specialism - and this is the closest tag we could decide upon. So if you’ve ever felt “But I do lots of things! How do I present myself as capable doer of multitudinous things?” then you’re perfect. “So do I need to build the front-end?&quot; Nope! Unless that’s your burning passion, in which case, hey, we’ll hook you up.</p>\n\n<p><strong>Whoa whoa wait, the salary?</strong></p>\n\n<p>Of course. We believe in hiring good people, and paying them well. This is a big role, it comes with a decent salary. We’re also offering equity, because we want everyone to be in the same boat. We vary our offer based on skill and experience level but the range for this position is £60k to £80k, plus 0-0.2% equity.</p>\n<h3>And some other perks please?</h3>\n<p>Ok, if you insist:</p>\n\n<p>✈️ £250 to spend on a holiday each quarter</p>\n\n<p>📘 £400 every year to spend on educational courses</p>\n\n<p>🍏 Private medical insurance (including therapy)</p>\n\n<p>😊 Flexible working</p>\n\n<p>🏠 An amazing office in the heart of Shoreditch</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Node.js",
+        "Graph Ql"
+      ],
+      "payment": {
+        "salary": "£60k – £80k",
+        "equity": "0.0% – 0.2%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/richard-vibert-2",
+        "name": "Richard Vibert",
+        "avatar": "https://photos.angel.co/users/8298836-medium_jpg?1543316913"
+      },
+      "refs": {
+        "angelListId": "584407",
+        "angelListUrl": "https://angel.co/company/metomic/jobs/584407-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Content Writer",
+      "description": "Do you want to write about one of the biggest and hidden effects of digitisation the world is currently experiencing? Do you want to contribute to a movement which is going to change the face of the internet forever?\n\n## If so, then we should talk...\n\nMetomic has built technology that is exposing the unethical nature of the internet and the depths of what companies are doing with people's data. \n\nWe're looking for a content creator who can pour litres of passion into jaw-dropping articles and content that will make the term \"data ethics\" the most important of the next decade and beyond.\n\n## You'll be the lens through which the world sees Metomic...\n\n- Working very closely with the CEO and Head of Growth to take the passion for data ethics outside of Metomic's walls\n- Creating jaw-dropping blogs/articles which makes their way to every corner of the earth in showing the state of data usage across the internet today\n- Contributing to the product through revolutionary privacy notices that don't send you to sleep during the first sentence\n- Getting in with the community and sharing thoughts and smaller pieces online\n\n## You love writing, of course, but\n\n- A magnificent curiosity for data ethics and how it is going to change the online world\n- A strategic mind to unravel what has been happening on the internet with people's data for the last two decades\n- Amazing communication skills in every meaning of the word, and particular evidence of outstanding written content\n- You want to be part of a small team. You want to do more than just write; you're also excited about lending thoughts to the product itself and the strategic direction of the business as a whole\n- An idea as to how to make \"Data Ethics\" the most talked about term in the world\n\n## You're already great, but even better if...\n\n- You speak more than one language (in that we mean human language...)\n- You've had a similar role at a notable tech company in the past\n\n## And we'll make sure you're treated well....\n\n- The opportunity to shape a new industry that'll have a huge effect on the future of the digital world\n- The joy of working with some of the best minds in technology\n- The thrill of a £1,000 holiday every year, on us\n- A second-hand Lenova ThinkPad\n- Only joking, it'll be a Mac\n- Other amazing, flexible benefits which we can tell you about when you come and say hello",
+      "descriptionHtml": "<p>Do you want to write about one of the biggest and hidden effects of digitisation the world is currently experiencing? Do you want to contribute to a movement which is going to change the face of the internet forever?</p>\n<h3>If so, then we should talk...</h3>\n<p>Metomic has built technology that is exposing the unethical nature of the internet and the depths of what companies are doing with people&#39;s data. </p>\n\n<p>We&#39;re looking for a content creator who can pour litres of passion into jaw-dropping articles and content that will make the term &quot;data ethics&quot; the most important of the next decade and beyond.</p>\n<h3>You&#39;ll be the lens through which the world sees Metomic...</h3>\n<ul>\n<li>Working very closely with the CEO and Head of Growth to take the passion for data ethics outside of Metomic&#39;s walls</li>\n<li>Creating jaw-dropping blogs/articles which makes their way to every corner of the earth in showing the state of data usage across the internet today</li>\n<li>Contributing to the product through revolutionary privacy notices that don&#39;t send you to sleep during the first sentence</li>\n<li>Getting in with the community and sharing thoughts and smaller pieces online</li>\n</ul>\n<h3>You love writing, of course, but</h3>\n<ul>\n<li>A magnificent curiosity for data ethics and how it is going to change the online world</li>\n<li>A strategic mind to unravel what has been happening on the internet with people&#39;s data for the last two decades</li>\n<li>Amazing communication skills in every meaning of the word, and particular evidence of outstanding written content</li>\n<li>You want to be part of a small team. You want to do more than just write; you&#39;re also excited about lending thoughts to the product itself and the strategic direction of the business as a whole</li>\n<li>An idea as to how to make &quot;Data Ethics&quot; the most talked about term in the world</li>\n</ul>\n<h3>You&#39;re already great, but even better if...</h3>\n<ul>\n<li>You speak more than one language (in that we mean human language...)</li>\n<li>You&#39;ve had a similar role at a notable tech company in the past</li>\n</ul>\n<h3>And we&#39;ll make sure you&#39;re treated well....</h3>\n<ul>\n<li>The opportunity to shape a new industry that&#39;ll have a huge effect on the future of the digital world</li>\n<li>The joy of working with some of the best minds in technology</li>\n<li>The thrill of a £1,000 holiday every year, on us</li>\n<li>A second-hand Lenova ThinkPad</li>\n<li>Only joking, it&#39;ll be a Mac</li>\n<li>Other amazing, flexible benefits which we can tell you about when you come and say hello</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£20k – £35k",
+        "equity": "0.0% – 0.1%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/richard-vibert-2",
+        "name": "Richard Vibert",
+        "avatar": "https://photos.angel.co/users/8298836-medium_jpg?1543316913"
+      },
+      "refs": {
+        "angelListId": "481403",
+        "angelListUrl": "https://angel.co/company/metomic/jobs/481403-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Developer Evangelist",
+      "description": "Are you an engineer who's obsessed with data privacy? In fact, do you think \"data privacy\" isn't the right way to describe this new movement?\n\nIn this role, you will be leading outbound community efforts. Getting in on the best Slack channels, going to the best conferences, hanging around Hackernews and Reddit. Being one of the key faces of Metomic, this is a unique role that is critical to the growth of the company and the spreading of data privacy joy around the world.\n\nWhat you'll be doing:\n\n- Part of the dev team, but working very closely with the Head of Growth and CEO to take the passion for data ethics outside of Metomic's walls\n- Creating the best content out there. Mostly technical content, but also thought-provoking blogs/articles which appeal to a wider audience\n- Hosting the best events and attending others. Advocating Metomic, understanding industry movements and reporting back to the product/tech teams\n- Engaging others. Finding online communities where data privacy is taken as seriously as it is at Metomic and joining the party\n- Implementation support. You're the person on-point for developers using Metomic's tools that may have questions or issues. You'll translate those questions into actions within the company\n- Taking ownership of social media strategy (Twitter, Reddit, Hackernews, etc)\n\nWhat you'll need:\n\n- A true passion and curiosity for data privacy and how it is going to change the online world\n- Developer experience. You might have a computer science degree and/or have spent a couple of years as a dev\n- Amazing communication skills in every meaning of the word, and particularly evidence of outstanding written content\n- Ability to travel from time to time\n\nWhat would be a bonus?\n\n- You speak more than one language (in that we mean human language...)\n- You've had a similar role at a notable tech company in the past\n\nWhat you'll get in return:\n\n- The opportunity to shape a new industry that'll have a huge effect on the future of the digital world\n- The joy of working with some of the best minds in technology\n- The thrill of a £1,000 holiday every year, on us",
+      "descriptionHtml": "<p>Are you an engineer who&#39;s obsessed with data privacy? In fact, do you think &quot;data privacy&quot; isn&#39;t the right way to describe this new movement?</p>\n\n<p>In this role, you will be leading outbound community efforts. Getting in on the best Slack channels, going to the best conferences, hanging around Hackernews and Reddit. Being one of the key faces of Metomic, this is a unique role that is critical to the growth of the company and the spreading of data privacy joy around the world.</p>\n\n<p>What you&#39;ll be doing:</p>\n\n<ul>\n<li>Part of the dev team, but working very closely with the Head of Growth and CEO to take the passion for data ethics outside of Metomic&#39;s walls</li>\n<li>Creating the best content out there. Mostly technical content, but also thought-provoking blogs/articles which appeal to a wider audience</li>\n<li>Hosting the best events and attending others. Advocating Metomic, understanding industry movements and reporting back to the product/tech teams</li>\n<li>Engaging others. Finding online communities where data privacy is taken as seriously as it is at Metomic and joining the party</li>\n<li>Implementation support. You&#39;re the person on-point for developers using Metomic&#39;s tools that may have questions or issues. You&#39;ll translate those questions into actions within the company</li>\n<li>Taking ownership of social media strategy (Twitter, Reddit, Hackernews, etc)</li>\n</ul>\n\n<p>What you&#39;ll need:</p>\n\n<ul>\n<li>A true passion and curiosity for data privacy and how it is going to change the online world</li>\n<li>Developer experience. You might have a computer science degree and/or have spent a couple of years as a dev</li>\n<li>Amazing communication skills in every meaning of the word, and particularly evidence of outstanding written content</li>\n<li>Ability to travel from time to time</li>\n</ul>\n\n<p>What would be a bonus?</p>\n\n<ul>\n<li>You speak more than one language (in that we mean human language...)</li>\n<li>You&#39;ve had a similar role at a notable tech company in the past</li>\n</ul>\n\n<p>What you&#39;ll get in return:</p>\n\n<ul>\n<li>The opportunity to shape a new industry that&#39;ll have a huge effect on the future of the digital world</li>\n<li>The joy of working with some of the best minds in technology</li>\n<li>The thrill of a £1,000 holiday every year, on us</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£40k – £60k",
+        "equity": "0.0% – 0.2%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/richard-vibert-2",
+        "name": "Richard Vibert",
+        "avatar": "https://photos.angel.co/users/8298836-medium_jpg?1543316913"
+      },
+      "refs": {
+        "angelListId": "465477",
+        "angelListUrl": "https://angel.co/company/metomic/jobs/465477-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Frontend Engineer",
+      "description": "Do you get excited about the prospect of having a blank canvas upon which to build an entire product from the ground up? About building something which will be seen and recognised by both businesses and consumers?\n\nIf so, then let's talk!\n\nAt Metomic, we're building something new. We believe data was made to be shared - but this can only happen if we can *know and trust* what's being done with it. We're building the tools and plugins that enable any online company to provide that control back to their users. \n\nWhat you'll be doing:\n\n- You'll have ownership of the React front-end for the Metomic Dashboard - the place a company goes to manage its own relationship with Metomic\n- You'll have ownership of a consumer-facing JS library, which enables Metomic to be integrated into any website (currently using preact)\n- Working very closely and effectively with a 3-5 person agile dev team\n\nWhat you need:\n\n- 2+ years experience in front-end technologies.\n- Experience with the React ecosystem\n- An understanding of build systems and bundle optimisation (webpack/grunt/parcel etc)\n- Strong design skills across all platforms\n\nAs an added benefit, you might have:\n\n- Some design chops\n- Some experience with devops\n- Working knowledge of practicalities of scale: CDNs, cache management, bundle optimisation etc\n\nWhoa whoa wait, the salary?\n\nOf course. We believe in hiring good people, and paying them well. This is a big role, it comes with a decent salary. We’re also offering equity, because we want everyone to be in the same boat. We vary our offer based on skill and experience level but the range for this position is £50k to £75k, plus 0-0.2% equity.\n\nAnd some other perks please?\n\nOk, if you insist:\n\n✈️ £250 to spend on a holiday each quarter\n\n📘 £400 every year to spend on educational courses\n\n🍏 Private medical insurance (including therapy)\n\n😊 Flexible working\n\n🏠 An amazing office in the heart of Shoreditch",
+      "descriptionHtml": "<p>Do you get excited about the prospect of having a blank canvas upon which to build an entire product from the ground up? About building something which will be seen and recognised by both businesses and consumers?</p>\n\n<p>If so, then let&#39;s talk!</p>\n\n<p>At Metomic, we&#39;re building something new. We believe data was made to be shared - but this can only happen if we can <em>know and trust</em> what&#39;s being done with it. We&#39;re building the tools and plugins that enable any online company to provide that control back to their users. </p>\n\n<p>What you&#39;ll be doing:</p>\n\n<ul>\n<li>You&#39;ll have ownership of the React front-end for the Metomic Dashboard - the place a company goes to manage its own relationship with Metomic</li>\n<li>You&#39;ll have ownership of a consumer-facing JS library, which enables Metomic to be integrated into any website (currently using preact)</li>\n<li>Working very closely and effectively with a 3-5 person agile dev team</li>\n</ul>\n\n<p>What you need:</p>\n\n<ul>\n<li>2+ years experience in front-end technologies.</li>\n<li>Experience with the React ecosystem</li>\n<li>An understanding of build systems and bundle optimisation (webpack/grunt/parcel etc)</li>\n<li>Strong design skills across all platforms</li>\n</ul>\n\n<p>As an added benefit, you might have:</p>\n\n<ul>\n<li>Some design chops</li>\n<li>Some experience with devops</li>\n<li>Working knowledge of practicalities of scale: CDNs, cache management, bundle optimisation etc</li>\n</ul>\n\n<p>Whoa whoa wait, the salary?</p>\n\n<p>Of course. We believe in hiring good people, and paying them well. This is a big role, it comes with a decent salary. We’re also offering equity, because we want everyone to be in the same boat. We vary our offer based on skill and experience level but the range for this position is £50k to £75k, plus 0-0.2% equity.</p>\n\n<p>And some other perks please?</p>\n\n<p>Ok, if you insist:</p>\n\n<p>✈️ £250 to spend on a holiday each quarter</p>\n\n<p>📘 £400 every year to spend on educational courses</p>\n\n<p>🍏 Private medical insurance (including therapy)</p>\n\n<p>😊 Flexible working</p>\n\n<p>🏠 An amazing office in the heart of Shoreditch</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "React.js",
+        "PreactJS"
+      ],
+      "payment": {
+        "salary": "£50k – £70k",
+        "equity": "0.0% – 0.1%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/richard-vibert-2",
+        "name": "Richard Vibert",
+        "avatar": "https://photos.angel.co/users/8298836-medium_jpg?1543316913"
+      },
+      "refs": {
+        "angelListId": "584418",
+        "angelListUrl": "https://angel.co/company/metomic/jobs/584418-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Engineer",
+      "description": "Do you like solving problems? Building things? Breaking things? Experimenting with things? Do you think data privacy is important and that it's time for manipulation and opaqueness on the internet to finally come to and end?\n\nIf the answer's yes then...\n\n**We’d like you onboard!**\n\nWe’re funded (same investors of Citymapper/Typeform/Truelayer), we’re early, we’re moving super fast, and we’re about to solve a MASSIVE problem. At Metomic, we’re building the “privacy by design” infrastructure of the internet. Technologies plug together like Lego - it’s about time that our preferences, consent and sharing permissions do the same.\n\n**It’s a greenfield opportunity. We have...**\n\n- A vision to make *data ethics* globally important. We want to make data-misuse a thing of the past. We want to give every product and service in the world a permissions screen\n- A wide-open green field of freshly baked services\n- A young and pliable tech stack and infrastructure\n- Energy and drive in abundance\n\n**We love awesome engineering...**\n\n- We’re playing with Docker, Typescript/NodeJS, a smidge of Python, React, rapid prototyping, metrics-metrics-metrics and tight feedback loops\n- We love autonomy and ownership, and believe in empowering our team\n- We like polyglots! If you take like a duck to water with new languages, we don’t care if you haven’t used much of ours\n\n**You’re curious, creative and smart…**\n\nAnd modest, too. Here are some of the other things that you have:\n\n- A curious mind. A love for the question “why”\n- Flexibility. Your peers say you can turn your hand to pretty much anything you set your mind to\n- Good communication skills. We’re a small team\n- The ability to code (no surprises here). You are comfortable in two or more languages\n- The ability to build fast\n- A working knowledge of devops. You can spin up a cloud hosted prototype in a jiffy…\n- … or have sufficient google skills to make it look like you already could\n\n**…and you have a wide set of interests...**\n\nPerhaps in your free time you’ve dabbled with front-end. Or painting. Or robots. Or a markov-chain Trump-tweet generator. In which case can you take it down please? It’s currently running the United States.\n\n**Hey you said full-stack … but “dabbled” with front-end?**\n\nYes. We don’t need you to be a front-end person. We’re looking for a great engineer in general, not a specialism - and this is the closest tag we could decide upon. So if you’ve ever felt “But I do lots of things! How do I present myself as capable doer of multitudinous things?” then you’re perfect. “So do I need to build the front-end?\" Nope! Unless that’s your burning passion, in which case, hey, we’ll hook you up.\n\n**Whoa whoa wait, the salary?**\n\nOf course. We believe in hiring good people, and paying them well. This is a big role, it comes with a decent salary. We’re also offering equity, because we want everyone to be in the same boat. We vary our offer based on skill and experience level but the range for this position is £60k to £80k, plus 0.2-0.5% equity.\n\nAnd some other perks please?\n\nOk, if you insist:\n\n✈️ £250 to spend on a holiday each quarter\n\n📘 £400 every year to spend on educational courses\n\n🍏 Private medical insurance (including therapy)\n\n😊 Flexible working\n\n🏠 An amazing office in the heart of Shoreditch",
+      "descriptionHtml": "<p>Do you like solving problems? Building things? Breaking things? Experimenting with things? Do you think data privacy is important and that it&#39;s time for manipulation and opaqueness on the internet to finally come to and end?</p>\n\n<p>If the answer&#39;s yes then...</p>\n\n<p><strong>We’d like you onboard!</strong></p>\n\n<p>We’re funded (same investors of Citymapper/Typeform/Truelayer), we’re early, we’re moving super fast, and we’re about to solve a MASSIVE problem. At Metomic, we’re building the “privacy by design” infrastructure of the internet. Technologies plug together like Lego - it’s about time that our preferences, consent and sharing permissions do the same.</p>\n\n<p><strong>It’s a greenfield opportunity. We have...</strong></p>\n\n<ul>\n<li>A vision to make <em>data ethics</em> globally important. We want to make data-misuse a thing of the past. We want to give every product and service in the world a permissions screen</li>\n<li>A wide-open green field of freshly baked services</li>\n<li>A young and pliable tech stack and infrastructure</li>\n<li>Energy and drive in abundance</li>\n</ul>\n\n<p><strong>We love awesome engineering...</strong></p>\n\n<ul>\n<li>We’re playing with Docker, Typescript/NodeJS, a smidge of Python, React, rapid prototyping, metrics-metrics-metrics and tight feedback loops</li>\n<li>We love autonomy and ownership, and believe in empowering our team</li>\n<li>We like polyglots! If you take like a duck to water with new languages, we don’t care if you haven’t used much of ours</li>\n</ul>\n\n<p><strong>You’re curious, creative and smart…</strong></p>\n\n<p>And modest, too. Here are some of the other things that you have:</p>\n\n<ul>\n<li>A curious mind. A love for the question “why”</li>\n<li>Flexibility. Your peers say you can turn your hand to pretty much anything you set your mind to</li>\n<li>Good communication skills. We’re a small team</li>\n<li>The ability to code (no surprises here). You are comfortable in two or more languages</li>\n<li>The ability to build fast</li>\n<li>A working knowledge of devops. You can spin up a cloud hosted prototype in a jiffy…</li>\n<li>… or have sufficient google skills to make it look like you already could</li>\n</ul>\n\n<p><strong>…and you have a wide set of interests...</strong></p>\n\n<p>Perhaps in your free time you’ve dabbled with front-end. Or painting. Or robots. Or a markov-chain Trump-tweet generator. In which case can you take it down please? It’s currently running the United States.</p>\n\n<p><strong>Hey you said full-stack … but “dabbled” with front-end?</strong></p>\n\n<p>Yes. We don’t need you to be a front-end person. We’re looking for a great engineer in general, not a specialism - and this is the closest tag we could decide upon. So if you’ve ever felt “But I do lots of things! How do I present myself as capable doer of multitudinous things?” then you’re perfect. “So do I need to build the front-end?&quot; Nope! Unless that’s your burning passion, in which case, hey, we’ll hook you up.</p>\n\n<p><strong>Whoa whoa wait, the salary?</strong></p>\n\n<p>Of course. We believe in hiring good people, and paying them well. This is a big role, it comes with a decent salary. We’re also offering equity, because we want everyone to be in the same boat. We vary our offer based on skill and experience level but the range for this position is £60k to £80k, plus 0.2-0.5% equity.</p>\n\n<p>And some other perks please?</p>\n\n<p>Ok, if you insist:</p>\n\n<p>✈️ £250 to spend on a holiday each quarter</p>\n\n<p>📘 £400 every year to spend on educational courses</p>\n\n<p>🍏 Private medical insurance (including therapy)</p>\n\n<p>😊 Flexible working</p>\n\n<p>🏠 An amazing office in the heart of Shoreditch</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Node.js",
+        "TypeScript",
+        "Docker",
+        "Graph Ql"
+      ],
+      "payment": {
+        "salary": "£60k – £80k",
+        "equity": "0.2% – 0.5%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/richard-vibert-2",
+        "name": "Richard Vibert",
+        "avatar": "https://photos.angel.co/users/8298836-medium_jpg?1543316913"
+      },
+      "refs": {
+        "angelListId": "462898",
+        "angelListUrl": "https://angel.co/company/metomic/jobs/462898-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Product Manager",
+      "description": "Did you know that data privacy is kind of a big deal nowadays?\n\nHello, we're Metomic 👋\n\nWe have a vision to make *data ethics* globally important. We want to make data-misuse a thing of the past and we're doing this by giving companies everything they need to empower their users with transparency and control of their data.\n\nAs you can imagine, this problem isn't solved by one simple product. How do companies deal with consent for marketing emails? What about onboarding new third parties that are going to touch their user's data? What happens when a customer asks for their data to be removed? \n\nNone of these questions have been properly answered yet and so having the status of being a data ethical company is an extremely high bar to reach. We want Metomic to be the go-to solution for reaching it - and that's ultimately what our product is.\n\nBut there are many stepping stones on the path to us getting there. And we need someone who's keen drive Metomic's product roadmap and all the details therein to best capture the opportunity we have in front of us. \n\nAs Metomic's first Product Manager, you’ll be on the ground floor with designers and developers building product, designing product strategy, creating great user experience in complex data flows, and illuminating the hazy space of data ethics. \n\nMaybe there's a match if you...\n\n- Get excited about the idea of taking a broad company vision and leading the ideation, technical development, and launch of products that are making a dent in the future of the internet\n- Have experience integrating usability studies, research, market analysis and customer development into product requirements\n- Obsess over continuous product improvement and can optimise for shipping a portfolio of small, medium and large releases\n- Believe the internet needs to get at least a little bit better at respecting people's data\n- Have 3+ years product management experience at a technology company\n- Tick all the generic requirements like good communication skills, etc 😴\n\nAnd we'll make sure you get the best perks in return\n\n- A decent salary with equity included\n- £1,000 per year to go on holiday (I know that your mind's now wondering...)\n- A second-hand Lenovo ThinkPad\n- Only joking, it'll be a Mac\n- Private health insurance\n- An office it's so good it's hard to believe and you'll have to come and see for yourself\n- Other amazing, flexible benefits",
+      "descriptionHtml": "<p>Did you know that data privacy is kind of a big deal nowadays?</p>\n\n<p>Hello, we&#39;re Metomic 👋</p>\n\n<p>We have a vision to make <em>data ethics</em> globally important. We want to make data-misuse a thing of the past and we&#39;re doing this by giving companies everything they need to empower their users with transparency and control of their data.</p>\n\n<p>As you can imagine, this problem isn&#39;t solved by one simple product. How do companies deal with consent for marketing emails? What about onboarding new third parties that are going to touch their user&#39;s data? What happens when a customer asks for their data to be removed? </p>\n\n<p>None of these questions have been properly answered yet and so having the status of being a data ethical company is an extremely high bar to reach. We want Metomic to be the go-to solution for reaching it - and that&#39;s ultimately what our product is.</p>\n\n<p>But there are many stepping stones on the path to us getting there. And we need someone who&#39;s keen drive Metomic&#39;s product roadmap and all the details therein to best capture the opportunity we have in front of us. </p>\n\n<p>As Metomic&#39;s first Product Manager, you’ll be on the ground floor with designers and developers building product, designing product strategy, creating great user experience in complex data flows, and illuminating the hazy space of data ethics. </p>\n\n<p>Maybe there&#39;s a match if you...</p>\n\n<ul>\n<li>Get excited about the idea of taking a broad company vision and leading the ideation, technical development, and launch of products that are making a dent in the future of the internet</li>\n<li>Have experience integrating usability studies, research, market analysis and customer development into product requirements</li>\n<li>Obsess over continuous product improvement and can optimise for shipping a portfolio of small, medium and large releases</li>\n<li>Believe the internet needs to get at least a little bit better at respecting people&#39;s data</li>\n<li>Have 3+ years product management experience at a technology company</li>\n<li>Tick all the generic requirements like good communication skills, etc 😴</li>\n</ul>\n\n<p>And we&#39;ll make sure you get the best perks in return</p>\n\n<ul>\n<li>A decent salary with equity included</li>\n<li>£1,000 per year to go on holiday (I know that your mind&#39;s now wondering...)</li>\n<li>A second-hand Lenovo ThinkPad</li>\n<li>Only joking, it&#39;ll be a Mac</li>\n<li>Private health insurance</li>\n<li>An office it&#39;s so good it&#39;s hard to believe and you&#39;ll have to come and see for yourself</li>\n<li>Other amazing, flexible benefits</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£50k – £80k",
+        "equity": "0.0% – 0.3%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/richard-vibert-2",
+        "name": "Richard Vibert",
+        "avatar": "https://photos.angel.co/users/8298836-medium_jpg?1543316913"
+      },
+      "refs": {
+        "angelListId": "605339",
+        "angelListUrl": "https://angel.co/company/metomic/jobs/605339-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Senior Product Manager",
+      "description": "Hello, we're Metomic 👋\n\nWe have a vision to make *data ethics* globally important. We want to make data-misuse a thing of the past and we're doing this by giving companies everything they need to empower their users with transparency and control of their data.\n\nAs you can imagine, this problem isn't solved by one simple product. How do companies deal with consent for marketing emails? What about onboarding new third parties that are going to touch their user's data? What happens when a customer asks for their data to be removed? \n\nNone of these questions have been properly answered yet and so having the status of being a data ethical company is an extremely high bar to reach. We want Metomic to be the go-to solution for reaching it - and that's ultimately what our product is.\n\nBut there are many stepping stones on the path to us getting there. And we need someone who's keen to take our vision and drive Metomic's product from it.\n\nAs Metomic's first product manager, you’ll be working with a team of one designer and five engineers - a team that is expected to growth significantly in the near future. \n\nMaybe there's a match if you...\n\n- Get excited about the idea of taking a broad company vision and leading the ideation, technical development, and launch of products that are making a dent in the future of the internet\n- Understand how to manage product better than we do so I don't need to tell you the rest of the requirements...\n\n\nAnd we'll make sure you get the best perks in return\n\n- A decent salary with equity included\n- £1,000 per year to go on holiday (I know that your mind's now wondering...)\n- A second-hand Lenovo ThinkPad\n- Only joking, it'll be a Mac\n- Private health insurance\n- An office it's so good it's hard to believe and you'll have to come and see for yourself\n- Other amazing, flexible benefits",
+      "descriptionHtml": "<p>Hello, we&#39;re Metomic 👋</p>\n\n<p>We have a vision to make <em>data ethics</em> globally important. We want to make data-misuse a thing of the past and we&#39;re doing this by giving companies everything they need to empower their users with transparency and control of their data.</p>\n\n<p>As you can imagine, this problem isn&#39;t solved by one simple product. How do companies deal with consent for marketing emails? What about onboarding new third parties that are going to touch their user&#39;s data? What happens when a customer asks for their data to be removed? </p>\n\n<p>None of these questions have been properly answered yet and so having the status of being a data ethical company is an extremely high bar to reach. We want Metomic to be the go-to solution for reaching it - and that&#39;s ultimately what our product is.</p>\n\n<p>But there are many stepping stones on the path to us getting there. And we need someone who&#39;s keen to take our vision and drive Metomic&#39;s product from it.</p>\n\n<p>As Metomic&#39;s first product manager, you’ll be working with a team of one designer and five engineers - a team that is expected to growth significantly in the near future. </p>\n\n<p>Maybe there&#39;s a match if you...</p>\n\n<ul>\n<li>Get excited about the idea of taking a broad company vision and leading the ideation, technical development, and launch of products that are making a dent in the future of the internet</li>\n<li>Understand how to manage product better than we do so I don&#39;t need to tell you the rest of the requirements...</li>\n</ul>\n\n<p>And we&#39;ll make sure you get the best perks in return</p>\n\n<ul>\n<li>A decent salary with equity included</li>\n<li>£1,000 per year to go on holiday (I know that your mind&#39;s now wondering...)</li>\n<li>A second-hand Lenovo ThinkPad</li>\n<li>Only joking, it&#39;ll be a Mac</li>\n<li>Private health insurance</li>\n<li>An office it&#39;s so good it&#39;s hard to believe and you&#39;ll have to come and see for yourself</li>\n<li>Other amazing, flexible benefits</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£70k – £100k",
+        "equity": "0.1% – 0.4%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/richard-vibert-2",
+        "name": "Richard Vibert",
+        "avatar": "https://photos.angel.co/users/8298836-medium_jpg?1543316913"
+      },
+      "refs": {
+        "angelListId": "668376",
+        "angelListUrl": "https://angel.co/company/metomic/jobs/668376-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Software Engineer",
+      "description": "Do you like solving problems? Building things? Breaking things? Experimenting with things? Do you think data privacy is important and that it's time for manipulation and opaqueness on the internet to finally come to and end?\n\nIf the answer's yes then...\n\n**We’d like you onboard!**\n\nWe’re funded (same investors of Citymapper/Typeform/Truelayer), we’re early, we’re moving super fast, and we’re about to solve a MASSIVE problem. At Metomic, we’re building the “privacy by design” infrastructure of the internet. Technologies plug together like Lego - it’s about time that our preferences, consent and sharing permissions do the same.\n\n**It’s a greenfield opportunity. We have...**\n\n- A vision to make *data ethics* globally important. We want to make data-misuse a thing of the past. We want to give every product and service in the world a permissions screen\n- A wide-open green field of freshly baked services\n- A young and pliable tech stack and infrastructure\n- Energy and drive in abundance\n\n**We love awesome engineering...**\n\n- We’re playing with Docker, Typescript/NodeJS, a smidge of Python, React, rapid prototyping, metrics-metrics-metrics and tight feedback loops\n- We love autonomy and ownership, and believe in empowering our team\n- We like polyglots! If you take like a duck to water with new languages, we don’t care if you haven’t used much of ours\n\n**You’re curious, creative and smart…**\n\nAnd modest, too. Here are some of the other things that you have:\n\n- A curious mind. A love for the question “why”\n- Flexibility. Your peers say you can turn your hand to pretty much anything you set your mind to\n- Good communication skills. We’re a small team\n- The ability to code (no surprises here). You are comfortable in two or more languages\n- The ability to build fast\n- A working knowledge of devops. You can spin up a cloud hosted prototype in a jiffy…\n- … or have sufficient google skills to make it look like you already could\n\n**…and you have a wide set of interests...**\n\nPerhaps in your free time you’ve dabbled with front-end. Or painting. Or robots. Or a markov-chain Trump-tweet generator. In which case can you take it down please? It’s currently running the United States.\n\n**Hey you said full-stack … but “dabbled” with front-end?**\n\nYes. We don’t need you to be a front-end person. We’re looking for a great engineer in general, not a specialism - and this is the closest tag we could decide upon. So if you’ve ever felt “But I do lots of things! How do I present myself as capable doer of multitudinous things?” then you’re perfect. “So do I need to build the front-end?\" Nope! Unless that’s your burning passion, in which case, hey, we’ll hook you up.\n\n**Whoa whoa wait, the salary?**\n\nOf course. We believe in hiring good people, and paying them well. This is a big role, it comes with a decent salary. We’re also offering equity, because we want everyone to be in the same boat. We vary our offer based on skill and experience level but the range for this position is £80k to £100k, plus 0.5-1.0% equity.\n\nAnd some other perks please?\n\nOk, if you insist:\n\n✈️ £250 to spend on a holiday each quarter\n\n📘 £400 every year to spend on educational courses\n\n🍏 Private medical insurance (including therapy)\n\n😊 Flexible working\n\n🏠 An amazing office in the heart of Shoreditch",
+      "descriptionHtml": "<p>Do you like solving problems? Building things? Breaking things? Experimenting with things? Do you think data privacy is important and that it&#39;s time for manipulation and opaqueness on the internet to finally come to and end?</p>\n\n<p>If the answer&#39;s yes then...</p>\n\n<p><strong>We’d like you onboard!</strong></p>\n\n<p>We’re funded (same investors of Citymapper/Typeform/Truelayer), we’re early, we’re moving super fast, and we’re about to solve a MASSIVE problem. At Metomic, we’re building the “privacy by design” infrastructure of the internet. Technologies plug together like Lego - it’s about time that our preferences, consent and sharing permissions do the same.</p>\n\n<p><strong>It’s a greenfield opportunity. We have...</strong></p>\n\n<ul>\n<li>A vision to make <em>data ethics</em> globally important. We want to make data-misuse a thing of the past. We want to give every product and service in the world a permissions screen</li>\n<li>A wide-open green field of freshly baked services</li>\n<li>A young and pliable tech stack and infrastructure</li>\n<li>Energy and drive in abundance</li>\n</ul>\n\n<p><strong>We love awesome engineering...</strong></p>\n\n<ul>\n<li>We’re playing with Docker, Typescript/NodeJS, a smidge of Python, React, rapid prototyping, metrics-metrics-metrics and tight feedback loops</li>\n<li>We love autonomy and ownership, and believe in empowering our team</li>\n<li>We like polyglots! If you take like a duck to water with new languages, we don’t care if you haven’t used much of ours</li>\n</ul>\n\n<p><strong>You’re curious, creative and smart…</strong></p>\n\n<p>And modest, too. Here are some of the other things that you have:</p>\n\n<ul>\n<li>A curious mind. A love for the question “why”</li>\n<li>Flexibility. Your peers say you can turn your hand to pretty much anything you set your mind to</li>\n<li>Good communication skills. We’re a small team</li>\n<li>The ability to code (no surprises here). You are comfortable in two or more languages</li>\n<li>The ability to build fast</li>\n<li>A working knowledge of devops. You can spin up a cloud hosted prototype in a jiffy…</li>\n<li>… or have sufficient google skills to make it look like you already could</li>\n</ul>\n\n<p><strong>…and you have a wide set of interests...</strong></p>\n\n<p>Perhaps in your free time you’ve dabbled with front-end. Or painting. Or robots. Or a markov-chain Trump-tweet generator. In which case can you take it down please? It’s currently running the United States.</p>\n\n<p><strong>Hey you said full-stack … but “dabbled” with front-end?</strong></p>\n\n<p>Yes. We don’t need you to be a front-end person. We’re looking for a great engineer in general, not a specialism - and this is the closest tag we could decide upon. So if you’ve ever felt “But I do lots of things! How do I present myself as capable doer of multitudinous things?” then you’re perfect. “So do I need to build the front-end?&quot; Nope! Unless that’s your burning passion, in which case, hey, we’ll hook you up.</p>\n\n<p><strong>Whoa whoa wait, the salary?</strong></p>\n\n<p>Of course. We believe in hiring good people, and paying them well. This is a big role, it comes with a decent salary. We’re also offering equity, because we want everyone to be in the same boat. We vary our offer based on skill and experience level but the range for this position is £80k to £100k, plus 0.5-1.0% equity.</p>\n\n<p>And some other perks please?</p>\n\n<p>Ok, if you insist:</p>\n\n<p>✈️ £250 to spend on a holiday each quarter</p>\n\n<p>📘 £400 every year to spend on educational courses</p>\n\n<p>🍏 Private medical insurance (including therapy)</p>\n\n<p>😊 Flexible working</p>\n\n<p>🏠 An amazing office in the heart of Shoreditch</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£80k – £100k",
+        "equity": "0.5% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/richard-vibert-2",
+        "name": "Richard Vibert",
+        "avatar": "https://photos.angel.co/users/8298836-medium_jpg?1543316913"
+      },
+      "refs": {
+        "angelListId": "584432",
+        "angelListUrl": "https://angel.co/company/metomic/jobs/584432-"
+      }
+    }
+  ]
+}

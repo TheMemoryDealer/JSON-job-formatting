@@ -1,0 +1,139 @@
+{
+  "name": "Wagestream",
+  "avatar": "https://photos.angel.co/startups/i/7109834-571857caeb9f70bb3a652ba6b6658a00-medium_jpg.jpg?buster=1565093912",
+  "slogan": "Wagestream is a FinTech company with a social purpose",
+  "description": "We help eliminate the payday poverty cycle by giving employees the flexibility to stream their earned wages into their accounts whenever they need or want it.\n\nWagestream was founded with the desire to be a strong cause for social good, in making it possible for workers to gain fast access to accrued earnings. Our aim is to play a key role in reducing the UK poverty premium and prevent employees entering cycles of debt, caused by high interest credit or pay day loans. We are proud to have a social charter in our articles of association. \n\nWe are a fast moving and dedicated bunch. We value individuality, honesty, integrity, a go-get attitude, team spirit and a sense of humour. \n",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://wagestream.co.uk/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Finance Technology",
+    "Fin Tech",
+    "Financial Services",
+    "Social"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/sophie-hendley",
+      "name": "Sophie Hendley",
+      "avatar": "https://photos.angel.co/users/825603-medium_jpg?1454413178",
+      "bioHtml": "Founder <a href=\"https://angel.co/digital\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Digital</span></a> Vision"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/andy-ross",
+      "name": "Andy Ross",
+      "avatar": "https://photos.angel.co/users/1123225-medium_jpg?1427967160",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7109834",
+    "angelListUrl": "https://angel.co/company/wagestream"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer, Banking",
+      "description": "Wagestream is a technology and financial services company with a social purpose. We partner with employers to allow their employees to access their earned-but-not-yet-paid wages in real time. \n\nWagestream was founded with the desire to be a strong cause for social good, in making it possible for workers to gain fast access to accrued earnings. Our aim is to play a key role in reducing the UK poverty premium and prevent employees entering cycles of debt, caused by high interest credit or pay day loans. We are proud to have a social charter in our articles of association. \n\nWe are a fast moving and dedicated bunch. We value individuality, honesty, integrity, a go-get attitude, team spirit and a sense of humour. \n\nJob Description\n\nWagestream moves money. We currently move tens of millions of GBP per month, and at current growth rates that will measure in the billions within the next 12 months. \n\nImportantly, this is not just a few credit card payments or bills -- this is people's wages, it's their livelihood, so we take our payment responsibility very seriously. \n\nThe Core Banking team is responsible for maintaining our UK BACS, UK FPS, and SEPA infrastructure. In general, those 3 payment schemes work amazingly well, but when processing hundreds of thousands of transactions, there are always exceptions. The Core Banking team makes sure that our platform flags those exceptions and makes every conceivable attempt to auto-recover. \n\nOur technology stack is AWS+Python+Postgres. \n\nPrimary Responsibilities\n\n• Architect, develop, test, and maintain code to move money in GBP and EUR via the three major banking payment schemes (UK BACS, UK FPS, SEPA)\n• Obsesses over speed. Currently, 99% of all Wagestream transfers settle within 4 seconds, and we've achieved that record by being absolutely maniacal about speed. But we can always be faster. And for the 1% that don't settle that quickly, we could be MUCH faster. \n• Build metrics and dashboards to monitor banking infrastructure.\n• Contribute to the broader engineering team (best practices, tools, technologies)\n\nPrimary Qualifications\n\n• 7+ years experience in professional software engineering\n• Mastery of Python, SQL, and REST APIs\n• Deep experience with the AWS stack. We are heavy users of DyanmoDB, SQS, S3, SES, Lambdas, API Gateway, etc \n• Prior experience with banking or payments is nice, but not required",
+      "descriptionHtml": "<p>Wagestream is a technology and financial services company with a social purpose. We partner with employers to allow their employees to access their earned-but-not-yet-paid wages in real time. </p>\n\n<p>Wagestream was founded with the desire to be a strong cause for social good, in making it possible for workers to gain fast access to accrued earnings. Our aim is to play a key role in reducing the UK poverty premium and prevent employees entering cycles of debt, caused by high interest credit or pay day loans. We are proud to have a social charter in our articles of association. </p>\n\n<p>We are a fast moving and dedicated bunch. We value individuality, honesty, integrity, a go-get attitude, team spirit and a sense of humour. </p>\n\n<p>Job Description</p>\n\n<p>Wagestream moves money. We currently move tens of millions of GBP per month, and at current growth rates that will measure in the billions within the next 12 months. </p>\n\n<p>Importantly, this is not just a few credit card payments or bills -- this is people&#39;s wages, it&#39;s their livelihood, so we take our payment responsibility very seriously. </p>\n\n<p>The Core Banking team is responsible for maintaining our UK BACS, UK FPS, and SEPA infrastructure. In general, those 3 payment schemes work amazingly well, but when processing hundreds of thousands of transactions, there are always exceptions. The Core Banking team makes sure that our platform flags those exceptions and makes every conceivable attempt to auto-recover. </p>\n\n<p>Our technology stack is AWS+Python+Postgres. </p>\n\n<p>Primary Responsibilities</p>\n\n<p>• Architect, develop, test, and maintain code to move money in GBP and EUR via the three major banking payment schemes (UK BACS, UK FPS, SEPA)<br>\n• Obsesses over speed. Currently, 99% of all Wagestream transfers settle within 4 seconds, and we&#39;ve achieved that record by being absolutely maniacal about speed. But we can always be faster. And for the 1% that don&#39;t settle that quickly, we could be MUCH faster. <br>\n• Build metrics and dashboards to monitor banking infrastructure.<br>\n• Contribute to the broader engineering team (best practices, tools, technologies)</p>\n\n<p>Primary Qualifications</p>\n\n<p>• 7+ years experience in professional software engineering<br>\n• Mastery of Python, SQL, and REST APIs<br>\n• Deep experience with the AWS stack. We are heavy users of DyanmoDB, SQS, S3, SES, Lambdas, API Gateway, etc <br>\n• Prior experience with banking or payments is nice, but not required</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "SQL",
+        "Sense of Humor"
+      ],
+      "payment": {
+        "salary": "£65k – £85k",
+        "equity": "0.0% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/sophie-hendley",
+        "name": "Sophie Hendley",
+        "avatar": "https://photos.angel.co/users/825603-medium_jpg?1454413178"
+      },
+      "refs": {
+        "angelListId": "602750",
+        "angelListUrl": "https://angel.co/company/wagestream/jobs/602750-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Product Engineer",
+      "description": "Wagestream is a technology and financial services company with a social purpose. \n\nWe partner with employers to allow their employees to access their earned-but-not-yet-paid wages in real time. \n\nWagestream was founded with the desire to be a strong cause for social good, in making it possible for workers to gain fast access to accrued earnings. Our aim is to play a key role in reducing the UK poverty premium and prevent employees entering cycles of debt, caused by high interest credit or pay day loans. We are proud to have a social charter in our articles of association. \n\nWe are a fast moving and dedicated bunch. We value individuality, honesty, integrity, a go-get attitude, team spirit and a sense of humour. \n\n**Job Description**\n\nYou will work on the product team, working to constantly improve the Wagestream experience for both employees (mobile app) and employers (Wagestream portal). We release multiple times per day, so you'll need to be comfortable owning features from concept, to release, to post-release measurement. \n\nThe technology stack is a backend of AWS+Python+Postgres, and a frontend of vue.js, but experience with those particular technologies is not required. You should however, have a proven track-record of shipping web and mobile applications. \n \n**Primary Responsibilities**\n\n-Work with stakeholders to define new features for employees and employers\n-Architect, test, and release new features (ideally to a subset of our total audience)\n-Work with data science team to analyze effectiveness, and tweak where necessary\n-\"Push the button\" and release your creation into the wild\nContribute to the broader engineering team (best practices, tools, technologies)\n\n\n**Primary Qualifications**\n\n-5+ years experience in professional software engineering\n-Mastery of at least one modern web/mobile framework. This could be React, Angular, Vue, or something else, but the point is you must be comfortable switching frameworks and picking the right tool for the job. \n-Ideal candidate will have experience in working within AWS. We are heavy users of DyanmoDB, SQS, S3, SES, Lambdas, API Gateway, etc \n-We're not expecting you to be a graphic designer, but you should have an eye for aesthetics and feel comfortable designing some UI/UX yourself",
+      "descriptionHtml": "<p>Wagestream is a technology and financial services company with a social purpose. </p>\n\n<p>We partner with employers to allow their employees to access their earned-but-not-yet-paid wages in real time. </p>\n\n<p>Wagestream was founded with the desire to be a strong cause for social good, in making it possible for workers to gain fast access to accrued earnings. Our aim is to play a key role in reducing the UK poverty premium and prevent employees entering cycles of debt, caused by high interest credit or pay day loans. We are proud to have a social charter in our articles of association. </p>\n\n<p>We are a fast moving and dedicated bunch. We value individuality, honesty, integrity, a go-get attitude, team spirit and a sense of humour. </p>\n\n<p><strong>Job Description</strong></p>\n\n<p>You will work on the product team, working to constantly improve the Wagestream experience for both employees (mobile app) and employers (Wagestream portal). We release multiple times per day, so you&#39;ll need to be comfortable owning features from concept, to release, to post-release measurement. </p>\n\n<p>The technology stack is a backend of AWS+Python+Postgres, and a frontend of vue.js, but experience with those particular technologies is not required. You should however, have a proven track-record of shipping web and mobile applications. </p>\n\n<p><strong>Primary Responsibilities</strong></p>\n\n<p>-Work with stakeholders to define new features for employees and employers<br>\n-Architect, test, and release new features (ideally to a subset of our total audience)<br>\n-Work with data science team to analyze effectiveness, and tweak where necessary<br>\n-&quot;Push the button&quot; and release your creation into the wild<br>\nContribute to the broader engineering team (best practices, tools, technologies)</p>\n\n<p><strong>Primary Qualifications</strong></p>\n\n<p>-5+ years experience in professional software engineering<br>\n-Mastery of at least one modern web/mobile framework. This could be React, Angular, Vue, or something else, but the point is you must be comfortable switching frameworks and picking the right tool for the job. <br>\n-Ideal candidate will have experience in working within AWS. We are heavy users of DyanmoDB, SQS, S3, SES, Lambdas, API Gateway, etc <br>\n-We&#39;re not expecting you to be a graphic designer, but you should have an eye for aesthetics and feel comfortable designing some UI/UX yourself</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Product",
+        "Frontend Development",
+        "Shipping Software"
+      ],
+      "payment": {
+        "salary": "£60k – £80k",
+        "equity": "0.0% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/sophie-hendley",
+        "name": "Sophie Hendley",
+        "avatar": "https://photos.angel.co/users/825603-medium_jpg?1454413178"
+      },
+      "refs": {
+        "angelListId": "751771",
+        "angelListUrl": "https://angel.co/company/wagestream/jobs/751771-"
+      }
+    }
+  ]
+}

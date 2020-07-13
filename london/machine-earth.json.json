@@ -1,0 +1,143 @@
+{
+  "name": "Machine.Earth",
+  "avatar": "https://photos.angel.co/startups/i/6932076-31fbe01ba821e1eb0bfc96e53fbe1711-medium_jpg.jpg?buster=1557319155",
+  "slogan": "We build software that connects humans, tech, and environments",
+  "description": "Machine Earth builds cutting edge software platforms for Creative Agencies servicing the Events industry,",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.machine.earth/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Project Management",
+    "Startups",
+    "Apps",
+    "Technology",
+    "Creative",
+    "Web Development"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/anthony-frisby",
+      "name": "Anthony Frisby",
+      "avatar": "https://photos.angel.co/users/9336567-medium_jpg?1557324985",
+      "bioHtml": "CTO &amp; Co-Founder at Machine.Earth. Responsible for enabling awesome people to do awesome things—internal platforms—project technical architecture."
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/shehleeza-khan",
+      "name": "Shehleeza Khan",
+      "avatar": "https://photos.angel.co/users/9336030-medium_jpg?1557324975",
+      "bioHtml": "Cofounder and COO. Responsible for day-to-day operations and managing all customer and strategic relationships to support company growth.\n\n"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6932076",
+    "angelListUrl": "https://angel.co/company/machine-earth"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Creative Technologist/ Digital Project Manager",
+      "description": "We are looking for a Creative Technologist to join our team. By taking the lead on a wide array of digital projects you will work very closely with our clients all the way from pitch to planning to deployment. \n\nKey Responsibilities \n-Act as a conduit between our clients and our development teams \n-Manage our development teams during the various phases of the project (scoping, design, development and deployment)\n-Understand timelines, feasibility and costs and proactively propose alternative solutions \n-Stay abreast of the latest technologies and identify ways to utilise them \n\nWe’d like to see \n-Ability to provide solutions that deliver on our clients’ business goals and needs \n-Solid experience in managing digital projects and development teams\nAbility to present complex ideas in a simple, engaging, and effective way to techie and non-techie types \n-Proven ability to lead, organise and execute with little or no direction, deliver commitments on time and within budget, and to work in a team within a fast pace environment \n-A vast knowledge of various technologies and how people interact with them. Technologies we’ve worked with include: AR, VR, touchscreen applications, RFiD, NFC and IR",
+      "descriptionHtml": "<p>We are looking for a Creative Technologist to join our team. By taking the lead on a wide array of digital projects you will work very closely with our clients all the way from pitch to planning to deployment. </p>\n\n<p>Key Responsibilities <br>\n-Act as a conduit between our clients and our development teams <br>\n-Manage our development teams during the various phases of the project (scoping, design, development and deployment)<br>\n-Understand timelines, feasibility and costs and proactively propose alternative solutions <br>\n-Stay abreast of the latest technologies and identify ways to utilise them </p>\n\n<p>We’d like to see <br>\n-Ability to provide solutions that deliver on our clients’ business goals and needs <br>\n-Solid experience in managing digital projects and development teams<br>\nAbility to present complex ideas in a simple, engaging, and effective way to techie and non-techie types <br>\n-Proven ability to lead, organise and execute with little or no direction, deliver commitments on time and within budget, and to work in a team within a fast pace environment <br>\n-A vast knowledge of various technologies and how people interact with them. Technologies we’ve worked with include: AR, VR, touchscreen applications, RFiD, NFC and IR</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Technology",
+        "Project Management",
+        "Client Relationship Management"
+      ],
+      "payment": {
+        "salary": "£30k – £35k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/shehleeza-khan",
+        "name": "Shehleeza Khan",
+        "avatar": "https://photos.angel.co/users/9336030-medium_jpg?1557324975"
+      },
+      "refs": {
+        "angelListId": "552059",
+        "angelListUrl": "https://angel.co/company/machine-earth/jobs/552059-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack JavaScript (NodeJS) Developer",
+      "description": "Machine.Earth are building a number of systems and hardware platforms, from login systems, all the way through to drones. Chat to us and we can tell you more!",
+      "descriptionHtml": "<p>Machine.Earth are building a number of systems and hardware platforms, from login systems, all the way through to drones. Chat to us and we can tell you more!</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "MongoDB",
+        "Express.js",
+        "EJS",
+        "NodeJS"
+      ],
+      "payment": {
+        "salary": "£30k – £40k",
+        "equity": "0.25% – 0.4%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/anthony-frisby",
+        "name": "Anthony Frisby",
+        "avatar": "https://photos.angel.co/users/9336567-medium_jpg?1557324985"
+      },
+      "refs": {
+        "angelListId": "600394",
+        "angelListUrl": "https://angel.co/company/machine-earth/jobs/600394-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "name": "Wintermute Trading",
+  "avatar": "https://photos.angel.co/startups/i/5135616-36e711170d3f92d3392557ee9447c33b-medium_jpg.jpg?buster=1554817295",
+  "slogan": "Global algorithmic trading firm in digital assets",
+  "description": "We are a one of the leading liquidity providers in digital assets globally. We provide liquidity on most vetted crypto exchanges using algorithmic, quantitative and high-frequency trading (market making). We also offer OTC and execution services for instritutional investors and market making services for top crypto projects.\n\nWith founders' 50+ years of combined experience in high-frequency trading in a leading company in traditional markets (Optiver), we are one of the most professional teams globally. We are dedicated to helping crypto ecosystem expand and become mainstream by making crypto markets liquid and efficient.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://wintermute-trading.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://hackernoon.com/@evgenygaevoy"
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/wintermute-trading/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Financial Services",
+    "Financial Technology",
+    "Blockchain / Cryptocurrency",
+    "Trading"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 2500000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1569888000,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/harro-mantel-1",
+      "name": "Harro Mantel",
+      "avatar": "https://photos.angel.co/users/8220857-medium_jpg?1534164963",
+      "bioHtml": "CTO of Wintermute Trading, has over 20 years of experience in technology.\n\nI hold a MSc in Computer Science from VU University Amsterdam."
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/p/yoann-turpin",
+      "name": "Yoann Turpin",
+      "avatar": "https://photos.angel.co/users/913483-medium_jpg?1426669244",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/wintermute-trading\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Wintermute Trading</span></a> , formerly <a href=\"https://angel.co/company/innovify\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Innovify</span></a> , Industria et Humilitas, <a href=\"https://angel.co/company/kaifuku-capital\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Kaifuku Capital</span></a> • Worked at <a href=\"https://angel.co/company/optiver\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Optiver</span></a> • Studied at <a href=\"https://angel.co/edhec-business-school-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">EDHEC Business School</span></a>"
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/evgeny-gaevoy",
+      "name": "Evgeny Gaevoy",
+      "avatar": "https://photos.angel.co/users/1565179-medium_jpg?1515264007",
+      "bioHtml": "CEO of Wintermute Trading - we are a global digital asset trading company focused on algo trading and HFT. 10+ years’ experience of growing fintech businesses."
+    },
+    {
+      "title": "co-founder, BD and Investments",
+      "role": "Employee",
+      "url": "https://angel.co/p/yoann-turpin",
+      "name": "Yoann Turpin",
+      "avatar": "https://photos.angel.co/users/913483-medium_jpg?1426669244",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/wintermute-trading\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Wintermute Trading</span></a> , formerly <a href=\"https://angel.co/company/innovify\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Innovify</span></a> , Industria et Humilitas, <a href=\"https://angel.co/company/kaifuku-capital\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Kaifuku Capital</span></a> • Worked at <a href=\"https://angel.co/company/optiver\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Optiver</span></a> • Studied at <a href=\"https://angel.co/edhec-business-school-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">EDHEC Business School</span></a>"
+    },
+    {
+      "title": "Trader & Head of DeFi",
+      "role": "Employee",
+      "url": "https://angel.co/u/frederick-farmer",
+      "name": "Frederick Farmer",
+      "avatar": "https://photos.angel.co/users/7994434-medium_jpg?1531910601",
+      "bioHtml": "Interested in early-stage investing as well as digital asset trading. Currently focused on making crypto markets efficient and building Wintermute Trading."
+    },
+    {
+      "title": "Software Developer",
+      "role": "Employee",
+      "url": "https://angel.co/u/kamil-kurdziel",
+      "name": "Kamil Kurdziel",
+      "avatar": "https://photos.angel.co/users/5803369-medium_jpg?1538131969",
+      "bioHtml": "Recent masters graduate in Applied Mathematics from Imperial College with a BSc in Physics with Theoretical Physics."
+    }
+  ],
+  "perks": [
+    {
+      "category": "equity",
+      "title": "Stock options"
+    }
+  ],
+  "refs": {
+    "angelListId": "5135616",
+    "angelListUrl": "https://angel.co/company/wintermute-trading"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Quantitative developer - algorithmic trading",
+      "description": "Wintermute Trading is looking for a Quantitative Developer/Software Engineer who is curious about high-frequency/algorithmic/quantitative trading, crypto currencies and would like to join a dynamic startup with big global ambitions and proven track record. We have already proven ourselves as one of the leading liquidity providers in digital asset markets, yet you still have a chance to become one of the first 15 employees with equity and ability to influence the course of the company!\n\nAt Wintermute Trading, you will the opportunity to develop your own product (trading algorithms, trading strategies, trading applications, and related infrastructure), while also getting advice and guidance from very experienced developers and traders, including the founders. You will get a job for which you would have been considered \"under-qualified\" for in big corporates, but here you will get a position with a lot of independence and responsibility right away, and you'll learn at an unprecedented speed! No legacy systems, no corporate bureaucracy, no multiple levels of approvals. It is up to you to make an impact! And – you’ll have a chance to dig into the cutting edge fintech like decentralized finance.  Learn more about the team here https://www.wintermute-trading.com/careers and interview with our CEO [https://medium.com/@etiennebr/whos-behind-this-8-evgeny-gaevoy-wintermute-trading-f2375e36d0bb](https://). Read more about some of our partners [https://cointelegraph.com/news/blockchaincom-leads-seven-figure-investment-in-its-exchange-partner](https://).\n\nWhat will you work on:\n\nA great advantage of this position is that it is varied and it is also up to you to shape it in the direction that matches best your talents and company needs. Projects may include: connecting to a new exchange, designing and building a new trading strategy, migrating important trading system components to next generation, completely owning development and trading for a specific project (e.g., an exchange, trading strategy). A project may involve analysing trading data, generating insights, prioritising them and building a solution from scratch. We will share more technical details over interviews. The point is: there is no limit set by the company!\n\nWrite to us if you are:\n\n- Hungry, determined, competitive, willing to work hard and learn on the way\n- Love coding, love problem solving, and love seeing your products work\n- Love building things\n- Curious about quantitative trading and algorithms and willing to learn about crypto currencies, blockchain and decentralized finance\n- Have quantitative degrees in computer science, engineering, physics and maths degrees are also great provided you can code in Python\n- Like meritocracy and being judged by what you deliver\n\n\nDO NOT write to us if you want a safe and boring corporate job (like in a big bank) where you sit 9-to-5 working on incremental improvements to decades old legacy code, get your paycheck and start living on Friday afternoon. \n\nWe left successful careers in traditional finance to build what we believe will be the future - a more efficient, fair and innovative finance. We love what we do here, we are not waiting for 6pm and are not dreading coming to work on Monday. If you share our approach to work and have a similar view of the world, the upside for joining us is going to be huge! We have established ourselves as one of the top market makers globally, we have partnerships with the world's best crypto exchanges, platforms, and projects. \n\nHard skill requirements:\n\n- Python coding skills with at least 1 year of developer experience. This experience can be during studies or own projects, but it has to be meaningfull - we will test your Python skills! \n- Excellent quantitative and analytical skills - we will test\n- Programming fundamentals (in C++, C# and/or Java, OOP) \n- Understanding the basics of financial markets \n- Willingness and curiosity to learn about algorithmic, high-frequency and quantitative, market making trading\n\n\nTips for successful application:\n\n- Only apply to us if you are genuinely interested or curious about this role; this is not for someone who is just looking for \"a job\"\n- Do some research: look at other tabs on this page, look at our website, look at company LinkedIn page, media\n- Write us a short, honest, and direct message if you'd like to apply. Tell us about why you'd like to join us. Do not send us empty or generic applications, we are looking for authentic people who share our values and ambitions!\n- If you don't have an obviousely matching experience (trading, quant development) or skills (advanced Python, basic C++), make sure you state very clearly what you can bring or how your experience is relevant (examples from company or private project experiecne work best!)\n- we get a lot of applications, so unfortunately, we won't be able to proceed if you simply press \"submit button\"; but we promise to everyone who puts time and effort in making the application relevant!",
+      "descriptionHtml": "<p>Wintermute Trading is looking for a Quantitative Developer/Software Engineer who is curious about high-frequency/algorithmic/quantitative trading, crypto currencies and would like to join a dynamic startup with big global ambitions and proven track record. We have already proven ourselves as one of the leading liquidity providers in digital asset markets, yet you still have a chance to become one of the first 15 employees with equity and ability to influence the course of the company!</p>\n\n<p>At Wintermute Trading, you will the opportunity to develop your own product (trading algorithms, trading strategies, trading applications, and related infrastructure), while also getting advice and guidance from very experienced developers and traders, including the founders. You will get a job for which you would have been considered &quot;under-qualified&quot; for in big corporates, but here you will get a position with a lot of independence and responsibility right away, and you&#39;ll learn at an unprecedented speed! No legacy systems, no corporate bureaucracy, no multiple levels of approvals. It is up to you to make an impact! And – you’ll have a chance to dig into the cutting edge fintech like decentralized finance.  Learn more about the team here <a href=\"https://www.wintermute-trading.com/careers\" target=\"_blank\" rel=\"nofollow\">https://www.wintermute-trading.com/careers</a> and interview with our CEO <a href=\"https://\" target=\"_blank\" rel=\"nofollow\">https://medium.com/@etiennebr/whos-behind-this-8-evgeny-gaevoy-wintermute-trading-f2375e36d0bb</a>. Read more about some of our partners <a href=\"https://\" target=\"_blank\" rel=\"nofollow\">https://cointelegraph.com/news/blockchaincom-leads-seven-figure-investment-in-its-exchange-partner</a>.</p>\n\n<p>What will you work on:</p>\n\n<p>A great advantage of this position is that it is varied and it is also up to you to shape it in the direction that matches best your talents and company needs. Projects may include: connecting to a new exchange, designing and building a new trading strategy, migrating important trading system components to next generation, completely owning development and trading for a specific project (e.g., an exchange, trading strategy). A project may involve analysing trading data, generating insights, prioritising them and building a solution from scratch. We will share more technical details over interviews. The point is: there is no limit set by the company!</p>\n\n<p>Write to us if you are:</p>\n\n<ul>\n<li>Hungry, determined, competitive, willing to work hard and learn on the way</li>\n<li>Love coding, love problem solving, and love seeing your products work</li>\n<li>Love building things</li>\n<li>Curious about quantitative trading and algorithms and willing to learn about crypto currencies, blockchain and decentralized finance</li>\n<li>Have quantitative degrees in computer science, engineering, physics and maths degrees are also great provided you can code in Python</li>\n<li>Like meritocracy and being judged by what you deliver</li>\n</ul>\n\n<p>DO NOT write to us if you want a safe and boring corporate job (like in a big bank) where you sit 9-to-5 working on incremental improvements to decades old legacy code, get your paycheck and start living on Friday afternoon. </p>\n\n<p>We left successful careers in traditional finance to build what we believe will be the future - a more efficient, fair and innovative finance. We love what we do here, we are not waiting for 6pm and are not dreading coming to work on Monday. If you share our approach to work and have a similar view of the world, the upside for joining us is going to be huge! We have established ourselves as one of the top market makers globally, we have partnerships with the world&#39;s best crypto exchanges, platforms, and projects. </p>\n\n<p>Hard skill requirements:</p>\n\n<ul>\n<li>Python coding skills with at least 1 year of developer experience. This experience can be during studies or own projects, but it has to be meaningfull - we will test your Python skills! </li>\n<li>Excellent quantitative and analytical skills - we will test</li>\n<li>Programming fundamentals (in C++, C# and/or Java, OOP) </li>\n<li>Understanding the basics of financial markets </li>\n<li>Willingness and curiosity to learn about algorithmic, high-frequency and quantitative, market making trading</li>\n</ul>\n\n<p>Tips for successful application:</p>\n\n<ul>\n<li>Only apply to us if you are genuinely interested or curious about this role; this is not for someone who is just looking for &quot;a job&quot;</li>\n<li>Do some research: look at other tabs on this page, look at our website, look at company LinkedIn page, media</li>\n<li>Write us a short, honest, and direct message if you&#39;d like to apply. Tell us about why you&#39;d like to join us. Do not send us empty or generic applications, we are looking for authentic people who share our values and ambitions!</li>\n<li>If you don&#39;t have an obviousely matching experience (trading, quant development) or skills (advanced Python, basic C++), make sure you state very clearly what you can bring or how your experience is relevant (examples from company or private project experiecne work best!)</li>\n<li>we get a lot of applications, so unfortunately, we won&#39;t be able to proceed if you simply press &quot;submit button&quot;; but we promise to everyone who puts time and effort in making the application relevant!</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "C++",
+        "Quantitative Analysis"
+      ],
+      "payment": {
+        "salary": "£50k – £60k",
+        "equity": "0.3% – 0.9%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Investor",
+        "url": "https://angel.co/u/evgeny-gaevoy",
+        "name": "Evgeny Gaevoy",
+        "avatar": "https://photos.angel.co/users/1565179-medium_jpg?1515264007"
+      },
+      "refs": {
+        "angelListId": "744638",
+        "angelListUrl": "https://angel.co/company/wintermute-trading/jobs/744638-"
+      }
+    }
+  ]
+}

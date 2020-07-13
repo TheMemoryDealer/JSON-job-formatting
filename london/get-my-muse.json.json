@@ -1,0 +1,128 @@
+{
+  "name": "Muse App",
+  "avatar": "https://photos.angel.co/startups/i/7659256-11d908d27fed37d7ef87bcc578db16fa-medium_jpg.jpg?buster=1588184882",
+  "slogan": "Muse helps you maintain financial control so your business can thrive",
+  "description": "While financial management is essential to business success, it can distract you from you doing what you love. The Muse app provides you with cash management tools and access to funding, allowing you to regain financial control and focus on the reasons you went into business in the first place.\n\nOur free mobile app provides cash flow forecasting and a banking dashboard to show an amalgamated view of your business bank and card transactions. Once connected, you can access flexible invoice finance within 48 hours after submitting an application for funding. We don’t wait about!",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://hello.getmymuse.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/getmymuse"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/getmymuse"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/getmymuse"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Fin Tech",
+    "B2B",
+    "Sme Banking"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/ann-juliano-2",
+      "name": "Ann Juliano",
+      "avatar": "https://photos.angel.co/users/10121433-medium_jpg?1588149975",
+      "bioHtml": ""
+    },
+    {
+      "title": "",
+      "role": "Employee",
+      "url": "https://angel.co/u/justinchungmuse",
+      "name": "Justin CHUNG",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Operation Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/alexandra-weightman-harton",
+      "name": "Alex Weightman",
+      "avatar": "https://photos.angel.co/users/6768285-medium_jpg?1541090306",
+      "bioHtml": "-\tHighly Organised \n-\tSelf-Starter \n-\tAdaptable \n-\tTrustworthy \n-\tAchievement-driven \n"
+    },
+    {
+      "title": "",
+      "role": "Employee",
+      "url": "https://angel.co/u/gabriel-myer-ross",
+      "name": "Gabriel Ross",
+      "avatar": "https://photos.angel.co/users/5340720-medium_jpg?1483901296",
+      "bioHtml": "Founder &amp; CMO <a href=\"https://angel.co/company/nettle_me\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Nettle</span></a>. Previously Marketing Lead <a href=\"https://angel.co/company/growthstreet\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Growth Street</span></a>. Economics graduate from <a href=\"https://angel.co/university-of-st-andrews\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of St Andrews</span></a>."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7659256",
+    "angelListUrl": "https://angel.co/company/get-my-muse"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Back-end Developer",
+      "description": "**About us**\r\n \r\nWe are Muse. Our goal is to make running a business glamourous again by simplifying the lives of business owners. We started with providing a 30-day, easy-to-read snapshot of their finances, because visibility of their finances is one of their biggest challenges.\r\n \r\nOwners can easily see their short-term cash position and, if they see a shortfall, can get access to cash by selling unpaid invoices, giving business owners confidence that they have enough to cover their wage bill at the end of the month. \r\n \r\nMuse was built by real people, for real people. We’re a small, passionate team of entrepreneurs and industry professionals pioneering extraordinary solutions to ordinary problems. We are seeking a like-minded person to join the team, implement some killer code, and create an industry leading product using cutting edge technology.\r\n  \r\n**What we’re looking for**\r\n \r\nWe are a small, close-knit team who all chip in to get what needs done, done and looking for a like-minded person to join us on the mission. We are looking for a rising star who can hit the ground running, initially taking on the maintenance and support of our back-end infrastructure, working with an external agency to support you on all things front-end. You will also be pivotal in developing our back-end admin portal to improve business operations as we expand our internal development team.\r\n\r\nThis is the perfect role for a developer with at least three years experience, who is looking to become a key member of the core team and expand their skills and experience. The ideal person for this role will be excited by the prospect of making their mark on a high-growth startup and taking increasing responsibility within the company.\r\n\r\n**Job title: Back-End Developer**\r\n\r\n**How you’ll contribute:**\r\nThe main responsibilities for the role will include:\r\n* Maintaining the Muse app’s back-end functions\r\n* Developing a new admin interface\r\n* Working with marketing on improving the visibility of app usage statistics\r\n* Building new features based on customer feedback and ongoing business requirements\r\n* Be involved in improving our ability to scale product usage\r\n\r\n**You should apply if:**\r\nThese are the technical skills we’re looking for:\r\n* Strong knowledge of OOP\r\n* Three years’ experience of backend development for complex mobile and web applications\r\n* A strong understanding of Node.js, as well as Java and Typescript development\r\n* Experience using Firebase and Google Cloud\r\n* Strong grasp of architecture concepts and design patterns\r\n* Experience with SQL and NoSQL databases\r\n* CI/CD delivery and standard Git/Gitlab workflow experience\r\n* Experience of end-to-end secure SDLC including TDD\r\n\r\n**You have experience in the following:**\r\n* You have conducted your own entrepreneurial projects in the past\r\n* You have worked for at least three years in a dynamic/startup environment\r\n* You have previously led multiple back-end development projects\r\n* You are used to working with a cross-functional team\r\n\r\n**You will be a perfect fit with the team if:**\r\n* You are comfortable and unapologetic to rewrite the rulebook\r\n* You are transparent and favour making data driven decisions\r\n* You have an entrepreneurial growth mindset\r\n* You are action and solution orientated\r\n* You are driven to do right by the customer\r\n\r\n**Muse Perks**\r\n* Muse is based in Central London - remote working can be considered, EU applicants only.\r\n* Competitive salary\r\n* Fresh fruit and cereals every morning\r\n* Juice, tea, coffee and soft drinks on tap\r\n* Rest up with 25 days’ holiday per year\r\n* All the latest tech you need\r\n* Regular company socials and activities\r\n* Working with a passionate and dynamic team!",
+      "descriptionHtml": "<p><strong>About us</strong></p>\n\n<p>We are Muse. Our goal is to make running a business glamourous again by simplifying the lives of business owners. We started with providing a 30-day, easy-to-read snapshot of their finances, because visibility of their finances is one of their biggest challenges.</p>\n\n<p>Owners can easily see their short-term cash position and, if they see a shortfall, can get access to cash by selling unpaid invoices, giving business owners confidence that they have enough to cover their wage bill at the end of the month. </p>\n\n<p>Muse was built by real people, for real people. We’re a small, passionate team of entrepreneurs and industry professionals pioneering extraordinary solutions to ordinary problems. We are seeking a like-minded person to join the team, implement some killer code, and create an industry leading product using cutting edge technology.</p>\n\n<p><strong>What we’re looking for</strong></p>\n\n<p>We are a small, close-knit team who all chip in to get what needs done, done and looking for a like-minded person to join us on the mission. We are looking for a rising star who can hit the ground running, initially taking on the maintenance and support of our back-end infrastructure, working with an external agency to support you on all things front-end. You will also be pivotal in developing our back-end admin portal to improve business operations as we expand our internal development team.</p>\n\n<p>This is the perfect role for a developer with at least three years experience, who is looking to become a key member of the core team and expand their skills and experience. The ideal person for this role will be excited by the prospect of making their mark on a high-growth startup and taking increasing responsibility within the company.</p>\n\n<p><strong>Job title: Back-End Developer</strong></p>\n\n<p><strong>How you’ll contribute:</strong><br>\nThe main responsibilities for the role will include:</p>\n\n<ul>\n<li>Maintaining the Muse app’s back-end functions</li>\n<li>Developing a new admin interface</li>\n<li>Working with marketing on improving the visibility of app usage statistics</li>\n<li>Building new features based on customer feedback and ongoing business requirements</li>\n<li>Be involved in improving our ability to scale product usage</li>\n</ul>\n\n<p><strong>You should apply if:</strong><br>\nThese are the technical skills we’re looking for:</p>\n\n<ul>\n<li>Strong knowledge of OOP</li>\n<li>Three years’ experience of backend development for complex mobile and web applications</li>\n<li>A strong understanding of Node.js, as well as Java and Typescript development</li>\n<li>Experience using Firebase and Google Cloud</li>\n<li>Strong grasp of architecture concepts and design patterns</li>\n<li>Experience with SQL and NoSQL databases</li>\n<li>CI/CD delivery and standard Git/Gitlab workflow experience</li>\n<li>Experience of end-to-end secure SDLC including TDD</li>\n</ul>\n\n<p><strong>You have experience in the following:</strong></p>\n\n<ul>\n<li>You have conducted your own entrepreneurial projects in the past</li>\n<li>You have worked for at least three years in a dynamic/startup environment</li>\n<li>You have previously led multiple back-end development projects</li>\n<li>You are used to working with a cross-functional team</li>\n</ul>\n\n<p><strong>You will be a perfect fit with the team if:</strong></p>\n\n<ul>\n<li>You are comfortable and unapologetic to rewrite the rulebook</li>\n<li>You are transparent and favour making data driven decisions</li>\n<li>You have an entrepreneurial growth mindset</li>\n<li>You are action and solution orientated</li>\n<li>You are driven to do right by the customer</li>\n</ul>\n\n<p><strong>Muse Perks</strong></p>\n\n<ul>\n<li>Muse is based in Central London - remote working can be considered, EU applicants only.</li>\n<li>Competitive salary</li>\n<li>Fresh fruit and cereals every morning</li>\n<li>Juice, tea, coffee and soft drinks on tap</li>\n<li>Rest up with 25 days’ holiday per year</li>\n<li>All the latest tech you need</li>\n<li>Regular company socials and activities</li>\n<li>Working with a passionate and dynamic team!</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Europe",
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe"
+      ],
+      "skills": [
+        "Javascript",
+        "SQL",
+        "Node.js",
+        "Software Architecture",
+        "Mobile Development",
+        "Firebase",
+        "Google Cloud Platform",
+        "Flutter"
+      ],
+      "payment": {
+        "salary": "£30k – £35k",
+        "equity": "1.0% – 5.0%"
+      },
+      "recruiter": {
+        "title": "Operation Manager",
+        "role": "Employee",
+        "url": "https://angel.co/u/alexandra-weightman-harton",
+        "name": "Alex Weightman",
+        "avatar": "https://photos.angel.co/users/6768285-medium_jpg?1541090306"
+      },
+      "refs": {
+        "angelListId": "822219",
+        "angelListUrl": "https://angel.co/company/get-my-muse/jobs/822219-"
+      }
+    }
+  ]
+}

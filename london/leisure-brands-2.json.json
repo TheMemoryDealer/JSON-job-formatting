@@ -1,0 +1,90 @@
+{
+  "name": "Leisure Brands",
+  "avatar": "https://photos.angel.co/startups/i/7288377-40b93ea6b7196ecca9fc38a7ea04b938-medium_jpg.jpg?buster=1572612820",
+  "slogan": "We are about to launch new luxury food-tech consumer brand",
+  "description": "Luxury dining food tech",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://cookandthief.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Food Tech"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/debbie-scott-potter",
+      "name": "Debbie Scott-Potter",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7288377",
+    "angelListUrl": "https://angel.co/company/leisure-brands-2"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "PHP Developer",
+      "description": "We have developed a first web application that is production-ready but requires a front end refresh. We have created new wireframes (high definition designs to follow once quote agreed) and we are looking for a developer to build the updated pages and integrate with the backend. \n\nAbout you :\nWe are looking for a Full Stack developer, with at least four years of experience in front-end vanilla Javascript and back-end PHP to update our web application.\n\nWe are looking for someone that can provide guidance and has production experience to help us move forward quickly.\n\n\nSalary to be confirmed with company founder, equities will not be applicable for this role",
+      "descriptionHtml": "<p>We have developed a first web application that is production-ready but requires a front end refresh. We have created new wireframes (high definition designs to follow once quote agreed) and we are looking for a developer to build the updated pages and integrate with the backend. </p>\n\n<p>About you :<br>\nWe are looking for a Full Stack developer, with at least four years of experience in front-end vanilla Javascript and back-end PHP to update our web application.</p>\n\n<p>We are looking for someone that can provide guidance and has production experience to help us move forward quickly.</p>\n\n<p>Salary to be confirmed with company founder, equities will not be applicable for this role</p>\n",
+      "position": "contract",
+      "experience": 5,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£30k – £35k",
+        "equity": "0.0% – 0.1%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/debbie-scott-potter",
+        "name": "Debbie Scott-Potter",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "655367",
+        "angelListUrl": "https://angel.co/company/leisure-brands-2/jobs/655367-"
+      }
+    }
+  ]
+}

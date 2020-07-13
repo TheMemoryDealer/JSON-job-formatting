@@ -1,0 +1,99 @@
+{
+  "name": "R2 Technology",
+  "avatar": "https://photos.angel.co/startups/i/7317965-b47735e0f7345615313fb3b920df8bc3-medium_jpg.jpg?buster=1573829339",
+  "slogan": "We are a tech consultancy focused on the startup market",
+  "description": "End-to-end project completion so you deal with just one organisation, and benefit from joined-up thinking.\n\nPassionate about your business? We R2.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.builtbyr2.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile",
+    "B2B",
+    "Fin Tech",
+    "B2 B Market – Sme’S Specifically ",
+    "B2B · SaaS · Mobile · Artificial Intelligence / Machine Learning"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/simon-tech",
+      "name": "Simon Tech",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7317965",
+    "angelListUrl": "https://angel.co/company/r2-technology-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Mobile Developer",
+      "description": "Must have:\n•\tExperience with the Flutter UI software development kit\n•\tStrong knowledge of OO programming\n•\t3 years’ development experience  of complex mobile apps for iOS and Android\n•\tExperience of cross-platform technologies\n•\tJavaScript development\n•\tGoogle Cloud (GCP) experience\n•\tExperience with SQL and NoSQL databases\n•\tKnowledge of design patterns\n•\tExperience of end to end secure SDLC including TDD\n•\tStandard Git/ Gitlab workflow experience\n\nNice to have:\n•\tNode.js\n•\tFirebase, Google Cloud Functions\n•\tTypescript\n•\tAppreciation of security models and architecture\n•\tExperience of API orchestration and rules engine coding\n•\tBanking solutions or small business financing experience\n•\tCI/ CD delivery\n•\tObjective C and/or Java skills \n•\tBackend development\n•\tAny experience of recent platform innovations used in modern native apps such as material design\n\nPersonal Attributes:\n•\tStrong logical approach and willingness to take the lead on solving complex problems\n•\tStrong innovative skills and a passion for coding\n•\tCan do attitude, motivated, hungry to develop, technically savvy, focused on delivery\n•\tPolished communication and interpersonal skills\n•\tAn ability to work with little supervision \n\nEducation:\nBSC or MSC in Computer Science or equivalent experience\n\nMain responsibilities of this role will include:\n•\tParticipation, as a Senior Developer, in a Scrum team\n•\tProviding technical leadership including overall architecture within Scrum team\n•\tDesigning, developing and implementing new software functionality\n•\tFinding & fixing defects which are found with existing software\n•\tIdentifying and implementing appropriate unit testing\n•\tWriting technical documentation for software developed\n•\tProviding input into user interface design\n•\tWorking with the product team to deliver the business objectives\n\nThe office is friendly, laid-back but professional and we truly value our employees. This is a fantastic opportunity for a developer to take the lead on the architecture of a developing mobile app.",
+      "descriptionHtml": "<p>Must have:<br>\n• Experience with the Flutter UI software development kit<br>\n• Strong knowledge of OO programming<br>\n• 3 years’ development experience  of complex mobile apps for iOS and Android<br>\n• Experience of cross-platform technologies<br>\n• JavaScript development<br>\n• Google Cloud (GCP) experience<br>\n• Experience with SQL and NoSQL databases<br>\n• Knowledge of design patterns<br>\n• Experience of end to end secure SDLC including TDD<br>\n• Standard Git/ Gitlab workflow experience</p>\n\n<p>Nice to have:<br>\n• Node.js<br>\n• Firebase, Google Cloud Functions<br>\n• Typescript<br>\n• Appreciation of security models and architecture<br>\n• Experience of API orchestration and rules engine coding<br>\n• Banking solutions or small business financing experience<br>\n• CI/ CD delivery<br>\n• Objective C and/or Java skills <br>\n• Backend development<br>\n• Any experience of recent platform innovations used in modern native apps such as material design</p>\n\n<p>Personal Attributes:<br>\n• Strong logical approach and willingness to take the lead on solving complex problems<br>\n• Strong innovative skills and a passion for coding<br>\n• Can do attitude, motivated, hungry to develop, technically savvy, focused on delivery<br>\n• Polished communication and interpersonal skills<br>\n• An ability to work with little supervision </p>\n\n<p>Education:<br>\nBSC or MSC in Computer Science or equivalent experience</p>\n\n<p>Main responsibilities of this role will include:<br>\n• Participation, as a Senior Developer, in a Scrum team<br>\n• Providing technical leadership including overall architecture within Scrum team<br>\n• Designing, developing and implementing new software functionality<br>\n• Finding &amp; fixing defects which are found with existing software<br>\n• Identifying and implementing appropriate unit testing<br>\n• Writing technical documentation for software developed<br>\n• Providing input into user interface design<br>\n• Working with the product team to deliver the business objectives</p>\n\n<p>The office is friendly, laid-back but professional and we truly value our employees. This is a fantastic opportunity for a developer to take the lead on the architecture of a developing mobile app.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Node.js",
+        "Firebase",
+        "Google Firebase",
+        "Flutter"
+      ],
+      "payment": {
+        "salary": "£35k – £50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/simon-tech",
+        "name": "Simon Tech",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "664223",
+        "angelListUrl": "https://angel.co/company/r2-technology-1/jobs/664223-"
+      }
+    }
+  ]
+}

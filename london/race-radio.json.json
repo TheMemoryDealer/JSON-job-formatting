@@ -1,0 +1,107 @@
+{
+  "name": "Race.Radio",
+  "avatar": "https://photos.angel.co/startups/i/7536772-a144af9679c0b54c79111decc975ab10-medium_jpg.jpg?buster=1583316765",
+  "slogan": "Race.Radio helps cyclists to communicate and connect on the move",
+  "description": "Race.Radio gives cyclists a safe, simple way to communicate while riding by transforming their phone into a walkie-talkie. It combines a handlebar-mounted remote with a mobile app, to let users talk to friends and family, or give voice commands at the touch of a button.\n\nOur vision is for Race.Radio to become the way the world’s cyclists choose to communicate and connect on the move. Bringing people closer together, helping them improve their performance and ultimately, making the experience of cycling even better.\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://race.radio"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.medium.com/race-radio"
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Sports"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/michael-dales",
+      "name": "Michael Dales",
+      "avatar": "https://photos.angel.co/users/6622242-medium_jpg?1499149019",
+      "bioHtml": "Systems technologist that&#39;s worked up and down the stack (silicon to web and points all in-between). Using engineering to leave the world better than I found it"
+    },
+    {
+      "title": "CEO & Founder",
+      "role": "Employee",
+      "url": "https://angel.co/u/steven-elliott-6",
+      "name": "Steven Elliott",
+      "avatar": "https://photos.angel.co/users/5495510-medium_jpg?1583316463",
+      "bioHtml": "CEO and Founder of Race.Radio, a cycling technology startup. I also advise early-stage companies on their growth strategy."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7536772",
+    "angelListUrl": "https://angel.co/company/race-radio"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Technical Lead with potential to be co-founder",
+      "description": "### Race.Radio\r\n\r\nRace.Radio gives cyclists a safe, simple way to communicate on the move, by transforming their phone into a group walkie-talkie. It combines a handlebar-mounted remote with a mobile app, so that users can talk to friends and family, or give voice commands at the touch of a button.\r\n\r\nMy aim is for Race.Radio to be the way the world’s cyclists choose to communicate and connect on the move. Bringing people closer together, helping them improve their performance and ultimately, making cycling even more enjoyable. \r\n\r\nFor this to happen, the technology has to be utterly effortless, unobtrusive and dependable. Using Race.Radio will have to feel as natural and instinctive as, well, riding a bike. Some challenge - that’s where you come in.\r\n\r\n### Role\r\n\r\nI'm looking for a special someone to help make my dream of connecting the world’s cyclists a reality. This is currently a part-time role with the potential to become permanent and a co-founder if we get sufficient traction and/or investment.\r\n\r\nAs the first engineer to join the team, your mission is to take the concept and turn it into a working prototype and then on into a shipping product. You will play a pivotal role in deciding how the product is architected, how it’s made robust, reliable and secure, and how it evolves over time as more advanced functionality is added. \r\n\r\nI want to work with someone who shares my passion for and obsession with cycling so please tell me about this if you think you're suited to the role.\r\n\r\n### Responsibilities\r\n\r\n* Getting the first cut of the Race.Radio mobile app to a robust testing stage on either iOS or Android\r\n* Working with UI/UX designers to make the app simple to use when out on the road\r\n* Developing the minimal backend services that will be required to link Race.Radio app instances and let users find each other\r\n* Making sure the app is rock solid when out in the field: you'll be building a mobile distributed system that has to tolerate real world network issues\r\n* Ensuring suitable telemetry is in place to support large scale user testing and post-launch support\r\n* Setting good engineering practices in place now to make team growth smoother\r\n\r\n### Requirements\r\n\r\n* Demonstrably strong skills in a least one mobile development platform, ideally with apps already published on an app store\r\n* Ability to create and deploy the back-end service to support the app through the first thousands of users, and set the path for scaling up as the company grows\r\n* An understanding of real world mobile networking issues and how to build a robust app that will defend against them impacting the user\r\n* Strong communication skills: you'll need to work closely with the Race.Radio Founder to work together to turn his vision into an achievable set of milestones\r\n\r\n### Risk and rewards\r\n\r\n* Race.Radio is currently bootstrapped, but seeking funding - we can be more generous with options than cash right now\r\n* Riches aren’t guaranteed, but we can promise a high degree of autonomy, lots of opportunity and a chance to shape not just a product, but a working culture\r\n* Hours and location are flexible - but face-to-face contact in London will be preferable once it's permitted, so being UK-based is a big advantage\r\n* Field testing means chatting while riding bikes - there’s worse ways to earn a living!",
+      "descriptionHtml": "<h3>Race.Radio</h3>\n<p>Race.Radio gives cyclists a safe, simple way to communicate on the move, by transforming their phone into a group walkie-talkie. It combines a handlebar-mounted remote with a mobile app, so that users can talk to friends and family, or give voice commands at the touch of a button.</p>\n\n<p>My aim is for Race.Radio to be the way the world’s cyclists choose to communicate and connect on the move. Bringing people closer together, helping them improve their performance and ultimately, making cycling even more enjoyable. </p>\n\n<p>For this to happen, the technology has to be utterly effortless, unobtrusive and dependable. Using Race.Radio will have to feel as natural and instinctive as, well, riding a bike. Some challenge - that’s where you come in.</p>\n<h3>Role</h3>\n<p>I&#39;m looking for a special someone to help make my dream of connecting the world’s cyclists a reality. This is currently a part-time role with the potential to become permanent and a co-founder if we get sufficient traction and/or investment.</p>\n\n<p>As the first engineer to join the team, your mission is to take the concept and turn it into a working prototype and then on into a shipping product. You will play a pivotal role in deciding how the product is architected, how it’s made robust, reliable and secure, and how it evolves over time as more advanced functionality is added. </p>\n\n<p>I want to work with someone who shares my passion for and obsession with cycling so please tell me about this if you think you&#39;re suited to the role.</p>\n<h3>Responsibilities</h3>\n<ul>\n<li>Getting the first cut of the Race.Radio mobile app to a robust testing stage on either iOS or Android</li>\n<li>Working with UI/UX designers to make the app simple to use when out on the road</li>\n<li>Developing the minimal backend services that will be required to link Race.Radio app instances and let users find each other</li>\n<li>Making sure the app is rock solid when out in the field: you&#39;ll be building a mobile distributed system that has to tolerate real world network issues</li>\n<li>Ensuring suitable telemetry is in place to support large scale user testing and post-launch support</li>\n<li>Setting good engineering practices in place now to make team growth smoother</li>\n</ul>\n<h3>Requirements</h3>\n<ul>\n<li>Demonstrably strong skills in a least one mobile development platform, ideally with apps already published on an app store</li>\n<li>Ability to create and deploy the back-end service to support the app through the first thousands of users, and set the path for scaling up as the company grows</li>\n<li>An understanding of real world mobile networking issues and how to build a robust app that will defend against them impacting the user</li>\n<li>Strong communication skills: you&#39;ll need to work closely with the Race.Radio Founder to work together to turn his vision into an achievable set of milestones</li>\n</ul>\n<h3>Risk and rewards</h3>\n<ul>\n<li>Race.Radio is currently bootstrapped, but seeking funding - we can be more generous with options than cash right now</li>\n<li>Riches aren’t guaranteed, but we can promise a high degree of autonomy, lots of opportunity and a chance to shape not just a product, but a working culture</li>\n<li>Hours and location are flexible - but face-to-face contact in London will be preferable once it&#39;s permitted, so being UK-based is a big advantage</li>\n<li>Field testing means chatting while riding bikes - there’s worse ways to earn a living!</li>\n</ul>\n",
+      "position": "contract",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "United Kingdom"
+      ],
+      "skills": [
+        "Networking",
+        "iOS Development",
+        "Solutions Architecture",
+        "Mobile Application Development",
+        "Android Application Development"
+      ],
+      "payment": {
+        "salary": "£1k – £11k",
+        "equity": "10.0% – 25.0%"
+      },
+      "recruiter": {
+        "title": "CEO & Founder",
+        "role": "Employee",
+        "url": "https://angel.co/u/steven-elliott-6",
+        "name": "Steven Elliott",
+        "avatar": "https://photos.angel.co/users/5495510-medium_jpg?1583316463"
+      },
+      "refs": {
+        "angelListId": "746648",
+        "angelListUrl": "https://angel.co/company/race-radio/jobs/746648-"
+      }
+    }
+  ]
+}

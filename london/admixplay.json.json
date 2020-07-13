@@ -1,0 +1,300 @@
+{
+  "name": "Admix",
+  "avatar": "https://photos.angel.co/startups/i/4457105-bb2637bc7f5e37368792e979b1c049f5-medium_jpg.jpg?buster=1520276496",
+  "slogan": "Monetization platform for the next generation of entertainment",
+  "description": "Admix is building a monetization platform for the next generation of entertainment, from traditional gaming to emerging channels like esport of VR/AR. As a first step, we have set-up a rapidly growing marketplace connecting game developers with advertisers who want to buy non-intrusive, in game-ad formats. We have grown our inventory 400x in 2019 to reach 1B ad impressions per month across 150 game publishers. We sell this unique inventory programmatically to over 500 brands every month. To source content creators at scale, we operate the largest community of VR/AR and e-sport creators, vrfocus.com.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.admix.in"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.blog.admix.in"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/admixplay"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/groups/vrarpioneers/"
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Virtual Reality",
+    "Augmented Reality",
+    "Content Monetization",
+    "Advertising",
+    "Games",
+    "Mobile Games"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 2400000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1541980800,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/joe-bachle-morris",
+      "name": "Joe Bachle-Morris",
+      "avatar": "https://graph.facebook.com/10156779858000527/picture?type=large",
+      "bioHtml": "Proven business leader with over 20 years leading tech businesses, marketing organisations and working with brands of all sizes"
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/samhuber",
+      "name": "Samuel Huber",
+      "avatar": "https://photos.angel.co/users/329117-medium_jpg?1472576488",
+      "bioHtml": "CEO of @admixco . Previously <a href=\"https://angel.co/company/kout\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Kout</span></a> and <a href=\"https://angel.co/company/betify\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Betify</span></a>. Sold @RogueTraderApp. Previously Formula 1 engineer. Studied physics <a href=\"https://angel.co/epfl-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">EPFL</span></a>."
+    },
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/mark-rich-5",
+      "name": "Mark Rich",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "VP Revenue",
+      "role": "Employee",
+      "url": "https://angel.co/u/natasha-whitfield-niven-1",
+      "name": "Natasha Whitfield-Niven",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Lead Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/michael-copeland-6",
+      "name": "Michael Copeland",
+      "avatar": "https://photos.angel.co/users/11031062-medium_jpg?1587375988",
+      "bioHtml": "Lead Engineer at Admix"
+    },
+    {
+      "title": "Digital Designer",
+      "role": "Employee",
+      "url": "https://angel.co/u/pablo-barrera-2",
+      "name": "Pablo Barrera",
+      "avatar": "https://photos.angel.co/users/9989133-medium_jpg?1578349780",
+      "bioHtml": "I&#39;m A Freelance UI Designer &amp; Web Designer Who Helps Small Businesses Grow Through UI Design, Web Design, SEO, Copywriting and More!"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4457105",
+    "angelListUrl": "https://angel.co/company/admixplay"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Front-end React JS Developer",
+      "description": "*[Admix](https://admix.in) is a monetization platform for the next generation of entertainment, from traditional gaming to emerging channels like esport of VR/AR. Our platform helps game studios make money with programmatic product placements inserted in their games. We already work with 200+ game developers. Our team, based in London, grew from 4 to 25 people in our first year of operations, and we are just getting started...*\r\n\r\nWe just unlocked a new round of funding and are now scaling our global presence. We are looking for a Front-end developer lead to join our Development team. Our web platforms are built in NodeJS / React and are made to enable game developers to manage their apps, access analytics, get paid.\r\n\r\nWe are looking for new team members who are:\r\n\r\n- Curious and innovative, always looking for the best technology to use as a tool for bettering technical efficiency.\r\n- Passionate about prototyping and breaking new ground.\r\n- Fond of pixel-perfect design and cannot stand design inconsistencies.\r\n- Innately curious and self-motivated to ask questions and find answers.\r\n- Happy to work as part of a wider team and take ownership of their work.\r\n- Fond of working in an agile way and comfortable with the necessary adaptability and dynamism that this requires.\r\n- Considers unit testing essential and is capable of creating their own CI/CD environment.\r\n- Good at written and verbal English.\r\n\r\nHere are some specific skills we are looking for:\r\n- Software Engineering degree or related field\r\n- 3+ years required Javascript / Typescript\r\n- ~2+ years React experience\r\n- AWS experience - EC2, S3, Cloudfront, ECS\r\n\r\nBonus\r\n- worked for a Saas startup\r\n- WebGL, Unity/Unreal/3D\r\n- Container experience: docker\r\n- Lambda / API Gateway\r\n-Selenium Webdriver\r\n\r\nExpectations:\r\n- Play a major part in the design and development of our web platforms\r\n- Implement features and integrate with backend\r\n\r\nTO APPLY\r\n- share a relevant portfolio of Saas / platforms you have implemented\r\n\r\nWE WON'T LOOK AT PROFILES WITHOUT PORTFOLIOS ;)",
+      "descriptionHtml": "<p><em><a href=\"https://admix.in\" target=\"_blank\" rel=\"nofollow\">Admix</a> is a monetization platform for the next generation of entertainment, from traditional gaming to emerging channels like esport of VR/AR. Our platform helps game studios make money with programmatic product placements inserted in their games. We already work with 200+ game developers. Our team, based in London, grew from 4 to 25 people in our first year of operations, and we are just getting started...</em></p>\n\n<p>We just unlocked a new round of funding and are now scaling our global presence. We are looking for a Front-end developer lead to join our Development team. Our web platforms are built in NodeJS / React and are made to enable game developers to manage their apps, access analytics, get paid.</p>\n\n<p>We are looking for new team members who are:</p>\n\n<ul>\n<li>Curious and innovative, always looking for the best technology to use as a tool for bettering technical efficiency.</li>\n<li>Passionate about prototyping and breaking new ground.</li>\n<li>Fond of pixel-perfect design and cannot stand design inconsistencies.</li>\n<li>Innately curious and self-motivated to ask questions and find answers.</li>\n<li>Happy to work as part of a wider team and take ownership of their work.</li>\n<li>Fond of working in an agile way and comfortable with the necessary adaptability and dynamism that this requires.</li>\n<li>Considers unit testing essential and is capable of creating their own CI/CD environment.</li>\n<li>Good at written and verbal English.</li>\n</ul>\n\n<p>Here are some specific skills we are looking for:</p>\n\n<ul>\n<li>Software Engineering degree or related field</li>\n<li>3+ years required Javascript / Typescript</li>\n<li>~2+ years React experience</li>\n<li>AWS experience - EC2, S3, Cloudfront, ECS</li>\n</ul>\n\n<p>Bonus</p>\n\n<ul>\n<li>worked for a Saas startup</li>\n<li>WebGL, Unity/Unreal/3D</li>\n<li>Container experience: docker</li>\n<li>Lambda / API Gateway\n-Selenium Webdriver</li>\n</ul>\n\n<p>Expectations:</p>\n\n<ul>\n<li>Play a major part in the design and development of our web platforms</li>\n<li>Implement features and integrate with backend</li>\n</ul>\n\n<p>TO APPLY</p>\n\n<ul>\n<li>share a relevant portfolio of Saas / platforms you have implemented</li>\n</ul>\n\n<p>WE WON&#39;T LOOK AT PROFILES WITHOUT PORTFOLIOS ;)</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "UI/UX Design",
+        "TypeScript",
+        "React.js"
+      ],
+      "payment": {
+        "salary": "$40k – $80k"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/samhuber",
+        "name": "Samuel Huber",
+        "avatar": "https://photos.angel.co/users/329117-medium_jpg?1472576488"
+      },
+      "refs": {
+        "angelListId": "666740",
+        "angelListUrl": "https://angel.co/company/admixplay/jobs/666740-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "Digital Designer",
+      "description": "*[Admix](https://admix.in) is a monetization platform for the next generation of entertainment, from traditional gaming to emerging channels like esport of VR/AR. Our platform helps game studios make money with programmatic product placements inserted in their games. We already work with 200+ game developers. Our team, based in London, grew from 4 to 25 people in our first year of operations, and we are just getting started...*\r\n\r\nWe are looking for a remote Digital Designer to work directly with our Head of Growth on marketing campaigns and collateral for our global operations.\r\n\r\nYour mission is to articulate our core message and lead design across different mediums.\r\n\r\nThis role:\r\n\r\n- Design digital &amp; print marketing and advertising pieces including; external-facing documents and presentations, landing pages, infographics, social ads, display ads, promotional emails and more\r\n- Assist in the design and continuous improvement of our online platforms UX/UI\r\n- Balance production and new creative needs to support the marketing &amp; sales team\r\n- Drive the branding and develop new creative to assist all digital marketing channels to improve key metrics\r\n- Autonomy to identify, recommend and implement process improvements in a growing business\r\n\r\n\r\nAbout you:\r\n\r\n- Advanced experience using Adobe Photoshop, Figma or Sketch\r\n- 3 years + experience complex platform and understanding of UI/UX\r\n- 3 years + experience in a design role delivering a high volume of creative campaigns across multiple formats\r\n- Strong ability to work under pressure and manage multiple deadlines at the same time\r\n- Creativity; experience bringing unconventional ideas and strategies\r\n- Great communication skills and an eye for detail\r\n- An understanding of web coding - CSS, HTML, and JavaScript\r\n- Experience with web animation is a bonus",
+      "descriptionHtml": "<p><em><a href=\"https://admix.in\" target=\"_blank\" rel=\"nofollow\">Admix</a> is a monetization platform for the next generation of entertainment, from traditional gaming to emerging channels like esport of VR/AR. Our platform helps game studios make money with programmatic product placements inserted in their games. We already work with 200+ game developers. Our team, based in London, grew from 4 to 25 people in our first year of operations, and we are just getting started...</em></p>\n\n<p>We are looking for a remote Digital Designer to work directly with our Head of Growth on marketing campaigns and collateral for our global operations.</p>\n\n<p>Your mission is to articulate our core message and lead design across different mediums.</p>\n\n<p>This role:</p>\n\n<ul>\n<li>Design digital &amp; print marketing and advertising pieces including; external-facing documents and presentations, landing pages, infographics, social ads, display ads, promotional emails and more</li>\n<li>Assist in the design and continuous improvement of our online platforms UX/UI</li>\n<li>Balance production and new creative needs to support the marketing &amp; sales team</li>\n<li>Drive the branding and develop new creative to assist all digital marketing channels to improve key metrics</li>\n<li>Autonomy to identify, recommend and implement process improvements in a growing business</li>\n</ul>\n\n<p>About you:</p>\n\n<ul>\n<li>Advanced experience using Adobe Photoshop, Figma or Sketch</li>\n<li>3 years + experience complex platform and understanding of UI/UX</li>\n<li>3 years + experience in a design role delivering a high volume of creative campaigns across multiple formats</li>\n<li>Strong ability to work under pressure and manage multiple deadlines at the same time</li>\n<li>Creativity; experience bringing unconventional ideas and strategies</li>\n<li>Great communication skills and an eye for detail</li>\n<li>An understanding of web coding - CSS, HTML, and JavaScript</li>\n<li>Experience with web animation is a bonus</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$25k – $75k"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/samhuber",
+        "name": "Samuel Huber",
+        "avatar": "https://photos.angel.co/users/329117-medium_jpg?1472576488"
+      },
+      "refs": {
+        "angelListId": "688949",
+        "angelListUrl": "https://angel.co/company/admixplay/jobs/688949-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Videographer & Editor",
+      "description": "*[Admix](https://admix.in) is building a monetization platform for the next generation of entertainment, from traditional gaming to emerging channels like esport of VR/AR. Our marketplace connects game developers with advertisers who want to buy non-intrusive, in game-ad formats. Today, over 500 brands from all of the world buy from Admix every month, making us leader in in-game advertisement. Our team, based in London and Ukraine, grew from 4 to 25 people in our first year of operations, and we are just getting started...*\r\n\r\n\r\nWe are looking for a London-based Video Producer &amp; Editor to work directly with the Head of Growth to create regular content and promotional videos.\r\n\r\nThis role:\r\n\r\n- The end-to-end video production of vlogs, interviews, and promotional videos for a variety of digital platforms including YouTube, LinkedIn, Facebook and Instagram\r\n- Complete post-production for projects including grading, sound, encoding in different formats\r\n\r\nAbout you:\r\n\r\n- Entrepreneurial spirit and drive\r\n- Ideally 2-3 years of experience as a content creator\r\n- Proficient in After Effects / FCPX and Adobe Creative Suite\r\n- Good understanding of gear (light, audio, camera)\r\n- Enthusiastic about social media with an understanding of all key social platforms including Youtube, Facebook, Instagram, Twitter, Snapchat, Tik Tok etc",
+      "descriptionHtml": "<p><em><a href=\"https://admix.in\" target=\"_blank\" rel=\"nofollow\">Admix</a> is building a monetization platform for the next generation of entertainment, from traditional gaming to emerging channels like esport of VR/AR. Our marketplace connects game developers with advertisers who want to buy non-intrusive, in game-ad formats. Today, over 500 brands from all of the world buy from Admix every month, making us leader in in-game advertisement. Our team, based in London and Ukraine, grew from 4 to 25 people in our first year of operations, and we are just getting started...</em></p>\n\n<p>We are looking for a London-based Video Producer &amp; Editor to work directly with the Head of Growth to create regular content and promotional videos.</p>\n\n<p>This role:</p>\n\n<ul>\n<li>The end-to-end video production of vlogs, interviews, and promotional videos for a variety of digital platforms including YouTube, LinkedIn, Facebook and Instagram</li>\n<li>Complete post-production for projects including grading, sound, encoding in different formats</li>\n</ul>\n\n<p>About you:</p>\n\n<ul>\n<li>Entrepreneurial spirit and drive</li>\n<li>Ideally 2-3 years of experience as a content creator</li>\n<li>Proficient in After Effects / FCPX and Adobe Creative Suite</li>\n<li>Good understanding of gear (light, audio, camera)</li>\n<li>Enthusiastic about social media with an understanding of all key social platforms including Youtube, Facebook, Instagram, Twitter, Snapchat, Tik Tok etc</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£18k – £25k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "Co-founder ",
+        "role": "Employee",
+        "url": "https://angel.co/u/joe-bachle-morris",
+        "name": "Joe Bachle-Morris",
+        "avatar": "https://graph.facebook.com/10156779858000527/picture?type=large"
+      },
+      "refs": {
+        "angelListId": "706660",
+        "angelListUrl": "https://angel.co/company/admixplay/jobs/706660-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Strategic Partnerships Executive- Supply- EMEA",
+      "description": "Strategic Partnerships Executive- Supply- EMEA\r\n\r\n*[Admix](https://admix.in) is a monetization platform for the next generation of entertainment, from traditional gaming to emerging channels like esport of VR/AR. Our platform helps game studios make money with programmatic product placements inserted in their games. We already work with 200+ game developers. Our team, based in London, grew from 4 to 25 people in our first year of operations, and we are just getting started...*\r\n\r\n\r\nAs Strategic Partnerships Executive you will be primarily responsible for the maintenance and growth of game studios using the Admix platform. You will work closely the Partnerships Managers to integrate new partners, and be a primary POC for reporting and troubleshooting. You will also be expected to liaise with and support the Demand and Programmatic arms of the business while evangelising the Admix products and propositions in-market.\r\n\r\n\r\nResponsibilities:\r\n\r\n•\tWork closely our supply partners to grow their account and create lasting and profitable relationships.\r\n•\tBe a primary POC for our supply partners, responsible for optimising revenue, maintaining deal health, reporting and troubleshooting any issues.\r\n•\tSupport the Supply Leads by creating collateral and materials for new business pitches and QBRs.  \r\n•\tBecoming a subject matter expert in-market and evangelising Admix at events, functions, networking etc\r\n\r\n\r\n\r\nRequirements:\r\n\r\n•\t1-2 years experience in a Programmatic/ Supply role.\r\n•\tA proven history of growing accounts and developing partnerships.\r\n•\tAnalytical and technical skill-set able to multitask and problem-solve.\r\n•\tExcellent organisational skills and attention to detail.\r\n•\tPassionate, driven and intelligent- there is huge potential for development in the business for the right candidate\r\n•\tA thirst to develop presentation and public speaking skills.\r\n•\tA personal passion for Gaming/ VR/ AR a plus. \r\n\r\n\r\nThe Perks\r\n\r\n●\tCompetitive salary\r\n●\tStrong performance related bonus\r\n●\tFull company pension scheme\r\n●\t20 days holiday \r\n●\tState of the art laptop and VR/AR gear as it comes out\r\n●\tPart of a rapidly expanding international team (we have offices in San Francisco and London, with New York opening soon!)\r\n●\tBe part of something huge: if you believe in our vision, you’ll know!",
+      "descriptionHtml": "<p>Strategic Partnerships Executive- Supply- EMEA</p>\n\n<p><em><a href=\"https://admix.in\" target=\"_blank\" rel=\"nofollow\">Admix</a> is a monetization platform for the next generation of entertainment, from traditional gaming to emerging channels like esport of VR/AR. Our platform helps game studios make money with programmatic product placements inserted in their games. We already work with 200+ game developers. Our team, based in London, grew from 4 to 25 people in our first year of operations, and we are just getting started...</em></p>\n\n<p>As Strategic Partnerships Executive you will be primarily responsible for the maintenance and growth of game studios using the Admix platform. You will work closely the Partnerships Managers to integrate new partners, and be a primary POC for reporting and troubleshooting. You will also be expected to liaise with and support the Demand and Programmatic arms of the business while evangelising the Admix products and propositions in-market.</p>\n\n<p>Responsibilities:</p>\n\n<p>• Work closely our supply partners to grow their account and create lasting and profitable relationships.<br>\n• Be a primary POC for our supply partners, responsible for optimising revenue, maintaining deal health, reporting and troubleshooting any issues.<br>\n• Support the Supply Leads by creating collateral and materials for new business pitches and QBRs.<br><br>\n• Becoming a subject matter expert in-market and evangelising Admix at events, functions, networking etc</p>\n\n<p>Requirements:</p>\n\n<p>• 1-2 years experience in a Programmatic/ Supply role.<br>\n• A proven history of growing accounts and developing partnerships.<br>\n• Analytical and technical skill-set able to multitask and problem-solve.<br>\n• Excellent organisational skills and attention to detail.<br>\n• Passionate, driven and intelligent- there is huge potential for development in the business for the right candidate<br>\n• A thirst to develop presentation and public speaking skills.<br>\n• A personal passion for Gaming/ VR/ AR a plus. </p>\n\n<p>The Perks</p>\n\n<p>● Competitive salary<br>\n● Strong performance related bonus<br>\n● Full company pension scheme<br>\n● 20 days holiday <br>\n● State of the art laptop and VR/AR gear as it comes out<br>\n● Part of a rapidly expanding international team (we have offices in San Francisco and London, with New York opening soon!)<br>\n● Be part of something huge: if you believe in our vision, you’ll know!</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£30k – £40k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "Co-founder ",
+        "role": "Employee",
+        "url": "https://angel.co/u/joe-bachle-morris",
+        "name": "Joe Bachle-Morris",
+        "avatar": "https://graph.facebook.com/10156779858000527/picture?type=large"
+      },
+      "refs": {
+        "angelListId": "708177",
+        "angelListUrl": "https://angel.co/company/admixplay/jobs/708177-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Strategic Partnerships Manager- Supply",
+      "description": "*[Admix](https://admix.in) is a monetization platform for the next generation of entertainment, from traditional gaming to emerging channels like esport of VR/AR. Our platform helps game studios make money with programmatic product placements inserted in their games. We already work with 200+ game developers. Our team, based in London, grew from 4 to 25 people in our first year of operations, and we are just getting started...*\r\n\r\n\r\nAs Strategic Partnerships Manager you will be primarily responsible for the onboarding of new game studios to our platform, managing the integration and ensuring the success of each new partnership. You will also be expected to liaise with and support the Demand and Programmatic arms of the business while evangelising the Admix products and propositions in-market.\r\n\r\n\r\nResponsibilities:\r\n\r\n\r\n•\tWork with the VP Revenue to develop and implement a scalable partnership strategy.\r\n•\tIdentify and deliver growth opportunities in the UK and across Europe (travel may be necessary).\r\n•\tManage the end-to end sales process from prospecting through to revenue generation.\r\n•\tWork closely with newly signed partners to optimise their account and create lasting and profitable relationships.\r\n•\tMaintain a healthy pipeline of prospects, providing accurate forecasting and reporting by market.\r\n•\tBe responsible for the reporting on and analysis of new opportunities, hosting regular QBR’s/ meets with our partners.\r\n•\tBecoming a subject matter expert in-market and evangelising Admix at events, functions, networking etc\r\n\r\n\r\n\r\nRequirements:\r\n\r\n•\tMinimum 2 years experience in a Gaming/ In-App sales or account management role.\r\n•\tProven communication, presentation and public speaking skills.\r\n•\tA black book of prospective leads and a track record of conversion.\r\n•\tEqually commercial, analytical and technical mind-set with an in depth understanding of the developer landscape.\r\n•\tExcellent organisational skills and attention to detail.\r\n•\tHighly emotionally and socially intelligent.\r\n•\tAble to work in a fast-paced environment and achieve tight deadlines, often multi-tasking and working under pressure.\r\n•\tPassionate, driven and intelligent- there is huge potential for development in the business for the right candidate\r\n•\tA personal passion for Gaming/ VR/ AR a plus. \r\n\r\n\r\nThe Perks\r\n\r\n●\tCompetitive salary\r\n●\tStrong performance related bonus\r\n●\tFull company pension scheme\r\n●\t20 days holiday \r\n●\tState of the art laptop and VR/AR gear as it comes out\r\n●\tPart of a rapidly expanding international team (we have offices in San Francisco and London, with New York opening soon!)\r\n●\tBe part of something huge: if you believe in our vision, you’ll know!",
+      "descriptionHtml": "<p><em><a href=\"https://admix.in\" target=\"_blank\" rel=\"nofollow\">Admix</a> is a monetization platform for the next generation of entertainment, from traditional gaming to emerging channels like esport of VR/AR. Our platform helps game studios make money with programmatic product placements inserted in their games. We already work with 200+ game developers. Our team, based in London, grew from 4 to 25 people in our first year of operations, and we are just getting started...</em></p>\n\n<p>As Strategic Partnerships Manager you will be primarily responsible for the onboarding of new game studios to our platform, managing the integration and ensuring the success of each new partnership. You will also be expected to liaise with and support the Demand and Programmatic arms of the business while evangelising the Admix products and propositions in-market.</p>\n\n<p>Responsibilities:</p>\n\n<p>• Work with the VP Revenue to develop and implement a scalable partnership strategy.<br>\n• Identify and deliver growth opportunities in the UK and across Europe (travel may be necessary).<br>\n• Manage the end-to end sales process from prospecting through to revenue generation.<br>\n• Work closely with newly signed partners to optimise their account and create lasting and profitable relationships.<br>\n• Maintain a healthy pipeline of prospects, providing accurate forecasting and reporting by market.<br>\n• Be responsible for the reporting on and analysis of new opportunities, hosting regular QBR’s/ meets with our partners.<br>\n• Becoming a subject matter expert in-market and evangelising Admix at events, functions, networking etc</p>\n\n<p>Requirements:</p>\n\n<p>• Minimum 2 years experience in a Gaming/ In-App sales or account management role.<br>\n• Proven communication, presentation and public speaking skills.<br>\n• A black book of prospective leads and a track record of conversion.<br>\n• Equally commercial, analytical and technical mind-set with an in depth understanding of the developer landscape.<br>\n• Excellent organisational skills and attention to detail.<br>\n• Highly emotionally and socially intelligent.<br>\n• Able to work in a fast-paced environment and achieve tight deadlines, often multi-tasking and working under pressure.<br>\n• Passionate, driven and intelligent- there is huge potential for development in the business for the right candidate<br>\n• A personal passion for Gaming/ VR/ AR a plus. </p>\n\n<p>The Perks</p>\n\n<p>● Competitive salary<br>\n● Strong performance related bonus<br>\n● Full company pension scheme<br>\n● 20 days holiday <br>\n● State of the art laptop and VR/AR gear as it comes out<br>\n● Part of a rapidly expanding international team (we have offices in San Francisco and London, with New York opening soon!)<br>\n● Be part of something huge: if you believe in our vision, you’ll know!</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£45k – £75k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "Co-founder ",
+        "role": "Employee",
+        "url": "https://angel.co/u/joe-bachle-morris",
+        "name": "Joe Bachle-Morris",
+        "avatar": "https://graph.facebook.com/10156779858000527/picture?type=large"
+      },
+      "refs": {
+        "angelListId": "708184",
+        "angelListUrl": "https://angel.co/company/admixplay/jobs/708184-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Strategic Partnerships Manager- In-App/Gaming (West Coast)",
+      "description": "Here at Admix.in we are one of the first monetisation platforms for immersive technologies (Virtual Reality, Augmented Reality and Mixed Reality), enabling developers to place non-intrusive ads in their content - banners, videos and interactive 3D placements. Founded and HQ’d in the UK (with additional offices in the US) we are a funded start-up and the only fully programmatic solution for VR and AR environments.  Our mission is to empower developers to be successful by giving them the right tools to monetise their immersive content.\r\n\r\nThe newly formed Partnerships team is responsible for the onboarding, maintenance and growth of our Developer and Partnership network. As Strategic Partnerships Manager – US, you will be working remotely, responsible for the onboarding of new developers and studios across the West Coast. You will also be managing the sales process, integration and ensuring the success of each new partnership, and liaising both with the wider Partnerships team at our HQ and with the Demand and Programmatic arms of the business. You will be responsible for evangelising the Admix products and propositions in-market.\r\n\r\n\r\nResponsibilities:\r\n\r\n\r\n•\tWork with the VP Revenue to develop and implement a scalable partnership strategy across the West Coast.\r\n•\tIdentify and deliver growth opportunities across the region (regular travel will be necessary).\r\n•\tManage the end-to end sales process from prospecting through to revenue generation.\r\n•\tWork closely with newly signed partners to optimise their account and create lasting and profitable relationships.\r\n•\tMaintain a healthy pipeline of prospects, providing accurate forecasting and reporting by market.\r\n•\tBe responsible for the reporting on and analysis of new opportunities, hosting regular QBR’s/ meets with our partners.\r\n•\tBecoming a subject matter expert in-market and evangelising Admix at events, functions, networking etc\r\n\r\n\r\n\r\nRequirements:\r\n\r\n•\tMinimum 3 years experience in a Gaming/ In-App sales or account management role.\r\n•\tProven communication, presentation and public speaking skills.\r\n•\tA black book of prospective leads and a track record of conversion.\r\n•\tEqually commercial, analytical and technical mind-set with an in depth understanding of the developer landscape.\r\n•\tExcellent organisational skills and attention to detail.\r\n•\tHighly emotionally and socially intelligent.\r\n•\tAble to work in a fast-paced environment and achieve tight deadlines, often multi-tasking and working under pressure.\r\n•\tPassionate, driven and intelligent- there is huge potential for development in the business for the right candidate\r\n•\tA personal passion for Gaming/ VR/ AR a plus. \r\n\r\n\r\nThe Perks\r\n\r\n●\tCompetitive salary\r\n●\tStrong performance related bonus\r\n●\tFull company pension scheme\r\n●\t20 days holiday \r\n●\tState of the art laptop and VR/AR gear as it comes out\r\n●\tPart of a rapidly expanding international team\r\n●\tBe part of something huge: if you believe in our vision, you’ll know!",
+      "descriptionHtml": "<p>Here at Admix.in we are one of the first monetisation platforms for immersive technologies (Virtual Reality, Augmented Reality and Mixed Reality), enabling developers to place non-intrusive ads in their content - banners, videos and interactive 3D placements. Founded and HQ’d in the UK (with additional offices in the US) we are a funded start-up and the only fully programmatic solution for VR and AR environments.  Our mission is to empower developers to be successful by giving them the right tools to monetise their immersive content.</p>\n\n<p>The newly formed Partnerships team is responsible for the onboarding, maintenance and growth of our Developer and Partnership network. As Strategic Partnerships Manager – US, you will be working remotely, responsible for the onboarding of new developers and studios across the West Coast. You will also be managing the sales process, integration and ensuring the success of each new partnership, and liaising both with the wider Partnerships team at our HQ and with the Demand and Programmatic arms of the business. You will be responsible for evangelising the Admix products and propositions in-market.</p>\n\n<p>Responsibilities:</p>\n\n<p>• Work with the VP Revenue to develop and implement a scalable partnership strategy across the West Coast.<br>\n• Identify and deliver growth opportunities across the region (regular travel will be necessary).<br>\n• Manage the end-to end sales process from prospecting through to revenue generation.<br>\n• Work closely with newly signed partners to optimise their account and create lasting and profitable relationships.<br>\n• Maintain a healthy pipeline of prospects, providing accurate forecasting and reporting by market.<br>\n• Be responsible for the reporting on and analysis of new opportunities, hosting regular QBR’s/ meets with our partners.<br>\n• Becoming a subject matter expert in-market and evangelising Admix at events, functions, networking etc</p>\n\n<p>Requirements:</p>\n\n<p>• Minimum 3 years experience in a Gaming/ In-App sales or account management role.<br>\n• Proven communication, presentation and public speaking skills.<br>\n• A black book of prospective leads and a track record of conversion.<br>\n• Equally commercial, analytical and technical mind-set with an in depth understanding of the developer landscape.<br>\n• Excellent organisational skills and attention to detail.<br>\n• Highly emotionally and socially intelligent.<br>\n• Able to work in a fast-paced environment and achieve tight deadlines, often multi-tasking and working under pressure.<br>\n• Passionate, driven and intelligent- there is huge potential for development in the business for the right candidate<br>\n• A personal passion for Gaming/ VR/ AR a plus. </p>\n\n<p>The Perks</p>\n\n<p>● Competitive salary<br>\n● Strong performance related bonus<br>\n● Full company pension scheme<br>\n● 20 days holiday <br>\n● State of the art laptop and VR/AR gear as it comes out<br>\n● Part of a rapidly expanding international team<br>\n● Be part of something huge: if you believe in our vision, you’ll know!</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Los Angeles",
+        "Seattle",
+        "San Francisco"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Business Development",
+        "Sales",
+        "Gaming"
+      ],
+      "payment": {
+        "salary": "$50k – $100k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "Co-founder ",
+        "role": "Employee",
+        "url": "https://angel.co/u/joe-bachle-morris",
+        "name": "Joe Bachle-Morris",
+        "avatar": "https://graph.facebook.com/10156779858000527/picture?type=large"
+      },
+      "refs": {
+        "angelListId": "801267",
+        "angelListUrl": "https://angel.co/company/admixplay/jobs/801267-"
+      }
+    }
+  ]
+}

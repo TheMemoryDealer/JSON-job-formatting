@@ -1,0 +1,111 @@
+{
+  "name": "Giants Technology",
+  "avatar": "https://photos.angel.co/startups/i/7609122-cf309e19f5b2ed192bac34b205f1f9f2-medium_jpg.jpg?buster=1586187177",
+  "slogan": "Build or buy online community experiences that are positive, customisable and cost-effective",
+  "description": "We are a passionate community with over 20 years experience of building #onlinecommunities for some of the world's leading brands such as Telefonica, Sony Computer Entertainment, Airbnb and giffgaff.\n\nWe noticed that during the course of building Standing on Giants we came across many great young companies that had a community vision but were just too early in their journey to need or afford Standing on Giants products and services. Their technology requirements were for a product/service with a simpler and lighter feature set. Something that was incredibly flexible, easy to configure, and even gave the ability to integrate that community into existing systems.\n\nOur challenge, at Giants Technology, was to create something that was not only all of those things but something that was affordable. Something that could be up and running in a couple of hours, with ready to use API's for quick and seamless integration, without the need for any extra development from us, handing control back to the customer.\n\nSo that’s what we've done. We are very excited to announce we have a working web version, and a #Unity SDK version, ready to use from May 2020. Both versions run off the same core engine and are accessible from either environment at the same time!",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.giantstechnology.com/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile Games",
+    "Community Development",
+    "User Experience Design",
+    "Customer Experience"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/vincent-boon",
+      "name": "Vincent Boon",
+      "avatar": "https://photos.angel.co/users/8812240-medium_jpg?1547564860",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/standing-on-giants-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Standing on Giants</span></a> • Worked at <a href=\"https://angel.co/company/giffgaff-telefonica-start-up-in-london\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">giffgaff (Telefonica start up in London)</span></a>  <a href=\"https://angel.co/company/sony-computer-entertainment\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Sony Computer Entertainment</span></a>, <a href=\"https://angel.co/company/eidos-interactive\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Eidos Interactive</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/aurelien-poma",
+      "name": "Aurelien Poma",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7609122",
+    "angelListUrl": "https://angel.co/company/giants-technology"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Unity Developer",
+      "description": "About the company: \r\nAt Giants Technology we empower businesses to build thriving online communities that put their customers at the centre of everything they do. Born from the team that created the revolutionary community-led model at mobile disruptor giffgaff, Giants Technology service offering centres on our community platform – an enterprise level SaaS product that facilitates our online communities. We work with businesses of all sizes, from market leaders to startups and scale-up businesses alike, sharing our expert knowledge and helping them launch successful communities that deliver real results.\r\n\r\nAs a company, our vision is a world where business works for the benefit of people and planet, not just profit, powered by trusting and collaborative communities. As a result, it’s important that we take active steps towards this every day in our work. Our people are, therefore, of central importance. We have a range of employee benefits to enable you to do your job to the best of your ability and we pride ourselves on our calm and relaxed workspace, supportive and open environment and shared efforts to keep our workplace (and work itself) as sustainable and eco-friendly as possible.\r\n\r\nAbout the role:\r\nWe are building a new team to develop and support the platform and have a great opportunity for a Full Stack Unity Developer to join as a member of our tech team.\r\nYou will work day to day with the Founder of the company as well as other developers supporting the smooth creation of the platform. You will also get involved in product development and gain experience in up to date web development techniques and methodologies.\r\nWe need someone who is enthusiastic about new technologies, coding best practices and wants to make a contribution to a team. It's very important that you are a self-starter and quick to learn - your success in the role will be closely linked to your ability to use your own initiative to find answers and solutions. Highly self-motivated, you’re the kind of person who’s always striving to do better.\r\nWe are a small close-knit team with an open, supportive, collaborative approach to our work. We are energetic and hard-working, outspoken and individual. We try not to take ourselves too seriously and are passionate about building a company where everyone enjoys their work, feels valued and supported. Cultural fit will be as important as your hard skillset.\r\n\r\nRole purpose:\r\n\r\nTo help develop a range of new  features and functionality, and collaborate on making genuine changes to the way we interact on the internet. To ensure our platform can link with new technology and integrate with our client’s existing features &amp; systems where possible. To ensure the platform is developed with our community methodology in mind when designing UX.\r\n\r\nResponsibilities:\r\n\r\nParticipate in all aspects of the development lifecycle, from inception to release\r\nBuild mobile Unity front-ends and support existing ones\r\nTranslation of designer mock-ups and wireframes into front-end code\r\nBuild a scalable back-end in Django and Python\r\nDesign and create RESTful endpoints for internal and public consumption\r\nProvide task estimations and deliver quality code on time\r\nEnsure all code meets defined coding standards and suitable for automated unit testing\r\n\r\nRequired Skills &amp; Experience:\r\n\r\nFront-End \r\n\r\nProficiency with Unity\r\nExperience with back-end and API links in Unity\r\n\r\nBack-End\r\nPython experience, with knowledge of at least one Python framework (Django)\r\nProficiency with PostgreSQL (or similar databases)\r\nFamiliarity with API Creation and RESTful services\r\n\r\nGeneral\r\nUnderstanding of front-end MVC/MVVM frameworks\r\nVersion control with Git\r\nUnderstanding of web server such as Apache and/or Nginx\r\nKnowledge of distributed development and deployment tools (such as Docker and Jenkins)\r\n\r\nSoft Skills\r\nStrong analytical skills and problem-solving\r\nStrong organisational and prioritisation skills - Able to deliver work to a deadline\r\nAbility to work closely with different level of technical understanding\r\n\r\nNice to Have:\r\n\r\nComfortable working in an Agile environment (Scrum or Kanban) and knowledge of JIRA\r\nUnderstanding and experience with unit testing\r\nFamiliarity with SSO\r\nDatabase administration and management of a hosting environment",
+      "descriptionHtml": "<p>About the company: <br>\nAt Giants Technology we empower businesses to build thriving online communities that put their customers at the centre of everything they do. Born from the team that created the revolutionary community-led model at mobile disruptor giffgaff, Giants Technology service offering centres on our community platform – an enterprise level SaaS product that facilitates our online communities. We work with businesses of all sizes, from market leaders to startups and scale-up businesses alike, sharing our expert knowledge and helping them launch successful communities that deliver real results.</p>\n\n<p>As a company, our vision is a world where business works for the benefit of people and planet, not just profit, powered by trusting and collaborative communities. As a result, it’s important that we take active steps towards this every day in our work. Our people are, therefore, of central importance. We have a range of employee benefits to enable you to do your job to the best of your ability and we pride ourselves on our calm and relaxed workspace, supportive and open environment and shared efforts to keep our workplace (and work itself) as sustainable and eco-friendly as possible.</p>\n\n<p>About the role:<br>\nWe are building a new team to develop and support the platform and have a great opportunity for a Full Stack Unity Developer to join as a member of our tech team.<br>\nYou will work day to day with the Founder of the company as well as other developers supporting the smooth creation of the platform. You will also get involved in product development and gain experience in up to date web development techniques and methodologies.<br>\nWe need someone who is enthusiastic about new technologies, coding best practices and wants to make a contribution to a team. It&#39;s very important that you are a self-starter and quick to learn - your success in the role will be closely linked to your ability to use your own initiative to find answers and solutions. Highly self-motivated, you’re the kind of person who’s always striving to do better.<br>\nWe are a small close-knit team with an open, supportive, collaborative approach to our work. We are energetic and hard-working, outspoken and individual. We try not to take ourselves too seriously and are passionate about building a company where everyone enjoys their work, feels valued and supported. Cultural fit will be as important as your hard skillset.</p>\n\n<p>Role purpose:</p>\n\n<p>To help develop a range of new  features and functionality, and collaborate on making genuine changes to the way we interact on the internet. To ensure our platform can link with new technology and integrate with our client’s existing features &amp; systems where possible. To ensure the platform is developed with our community methodology in mind when designing UX.</p>\n\n<p>Responsibilities:</p>\n\n<p>Participate in all aspects of the development lifecycle, from inception to release<br>\nBuild mobile Unity front-ends and support existing ones<br>\nTranslation of designer mock-ups and wireframes into front-end code<br>\nBuild a scalable back-end in Django and Python<br>\nDesign and create RESTful endpoints for internal and public consumption<br>\nProvide task estimations and deliver quality code on time<br>\nEnsure all code meets defined coding standards and suitable for automated unit testing</p>\n\n<p>Required Skills &amp; Experience:</p>\n\n<p>Front-End </p>\n\n<p>Proficiency with Unity<br>\nExperience with back-end and API links in Unity</p>\n\n<p>Back-End<br>\nPython experience, with knowledge of at least one Python framework (Django)<br>\nProficiency with PostgreSQL (or similar databases)<br>\nFamiliarity with API Creation and RESTful services</p>\n\n<p>General<br>\nUnderstanding of front-end MVC/MVVM frameworks<br>\nVersion control with Git<br>\nUnderstanding of web server such as Apache and/or Nginx<br>\nKnowledge of distributed development and deployment tools (such as Docker and Jenkins)</p>\n\n<p>Soft Skills<br>\nStrong analytical skills and problem-solving<br>\nStrong organisational and prioritisation skills - Able to deliver work to a deadline<br>\nAbility to work closely with different level of technical understanding</p>\n\n<p>Nice to Have:</p>\n\n<p>Comfortable working in an Agile environment (Scrum or Kanban) and knowledge of JIRA<br>\nUnderstanding and experience with unit testing<br>\nFamiliarity with SSO<br>\nDatabase administration and management of a hosting environment</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "China",
+        "India"
+      ],
+      "skills": [
+        "Python",
+        "RESTful Services",
+        "PostgreSQL",
+        "Unity3D",
+        "Unity",
+        "MVC/MVP/MVVM"
+      ],
+      "payment": {
+        "salary": "$30k – $60k",
+        "equity": "0.1% – 0.9%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/vincent-boon",
+        "name": "Vincent Boon",
+        "avatar": "https://photos.angel.co/users/8812240-medium_jpg?1547564860"
+      },
+      "refs": {
+        "angelListId": "802378",
+        "angelListUrl": "https://angel.co/company/giants-technology/jobs/802378-"
+      }
+    }
+  ]
+}

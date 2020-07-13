@@ -1,0 +1,132 @@
+{
+  "name": "Satchel",
+  "avatar": "https://photos.angel.co/startups/i/95582-9ba9af19a219ecfb43f0d037728d7a7a-medium_jpg.jpg?buster=1554210899",
+  "slogan": "Together through education",
+  "description": "Creators of market-leading software, Show My Homework, Satchel has developed a powerful range of school software focusing on homework, behaviour, classroom management and teaching resources.\n\nBuilt by teachers, for teachers, they are on a mission to make it simple for schools to set, track and complete engaging homework, reducing the working day in school and making it easier to raise standards.\n\nFounded in 2011, by at-the-time Assistant Headteacher, Naimish Gohil, Show My Homework is used by over 1,500 schools around the globe, who trust and value their software. Currently trading in over 23 markets.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.teamsatchel.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://blog.teamsatchel.com/"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@teamsatchel"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Education",
+    "K-12 Education",
+    "SaaS",
+    "B2B"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Sales Director",
+      "role": "Founder",
+      "url": "https://angel.co/u/jonathan-tiss",
+      "name": "Jonathan Tiss",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/teamsatchel",
+      "name": "Naimish",
+      "avatar": "https://photos.angel.co/users/62380-medium_jpg?1405476631",
+      "bioHtml": "CEO &amp; Founder of Show My Homework, the faster and smarter online homework solution for teachers, students and parents. "
+    },
+    {
+      "title": "Team Leader",
+      "role": "Employee",
+      "url": "https://angel.co/u/steve-morton-5",
+      "name": "Steve Morton",
+      "avatar": "https://photos.angel.co/users/4801841-medium_jpg?1477934495",
+      "bioHtml": "Team Leader at Show My Homework"
+    },
+    {
+      "title": "Advisor and General Counsel",
+      "role": "Employee",
+      "url": "https://angel.co/u/max-inglis",
+      "name": "Max Inglis",
+      "avatar": "https://photos.angel.co/users/5176571-medium_jpg?1480001025",
+      "bioHtml": "Experienced COO and General Counsel with a proven track record founding and growing technology companies."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/alex-brelsfoard-2",
+      "name": "Alex Brelsfoard ",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "95582",
+    "angelListUrl": "https://angel.co/company/team-satchel"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior QA Engineer",
+      "description": "Satchel was founded in 2011 under the name of its flagship homework software, Show My Homework, with the vision to transform the way home-learning and technology was approached in schools.\n\nToday we are the leading online homework solution for teachers, students and parents, used by 1500 schools around the globe including 50% of schools in London. Today we create unforgettable learning experiences for the whole school, with powerfully simple apps for homework, behaviour, seating and timetables.\n\nSatchel as a brand has become synonymous with education. We are the number 1 educational application on Android and during the 2018 back to school period, we were in the top 3 of all applications on iOS.\n\nWe are seeking a Senior QA Engineer to join our team in London. This is a unique opportunity for an ambitious and enthusiastic tester to join a fast growing start-up and help to shape their QA practices. In return you will work in a friendly and supportive environment with a wealth of learning opportunities\n\nYou should have a track record of end-to-end testing and quality assurance.\n\nSo, What Are We Looking For?\n- Proven work experience in software development and quality assurance\n- Strong attention to detail and ability to multi-task\n- Excellent problem solving abilities and analytical skills\n- Passionate about web applications and an eye for design and usability\n- Experience testing & ensuring the quality of a web & mobile application\n\nKey Responsibilities\n- Testing all aspects of a web service, from front-end design to usability and interaction design\n- Testing functionality and usability of all front-end systems including the main site, admin interfaces and any other user-facing systems\n- Identify, create and execute functional tests and test scenarios for validating performance against requirements\n- Develop test data, execute test scripts and analyse results on testing of all aspects of web applications\n- Review product specifications to provide feedback based on usability, feasibility and complexity\n- Help define and establish new methodologies, processes and best practices.\n- Help research existing bugs and defects.\n\nEssential skills and experience\n- 3+ years testing experience, including both web and mobile applications.\n- Experienced in the manual testing of complex distributed systems across multiple platforms and browsers.\n- Solid experience using automated testing tools.\n- Experience working with remote teams.\n- Experienced in the testing of native mobile apps.\n- A solid grasp of agile methodologies.\n- Familiarity with continuous integration, continuous delivery.\n- Proficiency in SQL and relational database systems such as MySQL and Postgres.\n- Familiarity with Linux shell.\n- Knowledge of some of the following; RSpec, Cucumber, Selenium WebDriver, Cypress, Gherkin.\n- Familiarity with testing APIs.\n- Exceptional attention to detail.\n- Strong analytical skills.\n- Strong team player.\n\nDesired but not essential\n- A technical BEng/BSc degree in a computing or similar/related engineering discipline is preferred but not required.\n- Previous experience of using version control and configuration management tools such as Git.\n- Experience of test automation using JavaScript.\n- Prior experience of working within an Agile environment and associated tools (Atlassian Jira, Confluence, github, etc.).\n- Fluent with /giphy resources.",
+      "descriptionHtml": "<p>Satchel was founded in 2011 under the name of its flagship homework software, Show My Homework, with the vision to transform the way home-learning and technology was approached in schools.</p>\n\n<p>Today we are the leading online homework solution for teachers, students and parents, used by 1500 schools around the globe including 50% of schools in London. Today we create unforgettable learning experiences for the whole school, with powerfully simple apps for homework, behaviour, seating and timetables.</p>\n\n<p>Satchel as a brand has become synonymous with education. We are the number 1 educational application on Android and during the 2018 back to school period, we were in the top 3 of all applications on iOS.</p>\n\n<p>We are seeking a Senior QA Engineer to join our team in London. This is a unique opportunity for an ambitious and enthusiastic tester to join a fast growing start-up and help to shape their QA practices. In return you will work in a friendly and supportive environment with a wealth of learning opportunities</p>\n\n<p>You should have a track record of end-to-end testing and quality assurance.</p>\n\n<p>So, What Are We Looking For?</p>\n\n<ul>\n<li>Proven work experience in software development and quality assurance</li>\n<li>Strong attention to detail and ability to multi-task</li>\n<li>Excellent problem solving abilities and analytical skills</li>\n<li>Passionate about web applications and an eye for design and usability</li>\n<li>Experience testing &amp; ensuring the quality of a web &amp; mobile application</li>\n</ul>\n\n<p>Key Responsibilities</p>\n\n<ul>\n<li>Testing all aspects of a web service, from front-end design to usability and interaction design</li>\n<li>Testing functionality and usability of all front-end systems including the main site, admin interfaces and any other user-facing systems</li>\n<li>Identify, create and execute functional tests and test scenarios for validating performance against requirements</li>\n<li>Develop test data, execute test scripts and analyse results on testing of all aspects of web applications</li>\n<li>Review product specifications to provide feedback based on usability, feasibility and complexity</li>\n<li>Help define and establish new methodologies, processes and best practices.</li>\n<li>Help research existing bugs and defects.</li>\n</ul>\n\n<p>Essential skills and experience</p>\n\n<ul>\n<li>3+ years testing experience, including both web and mobile applications.</li>\n<li>Experienced in the manual testing of complex distributed systems across multiple platforms and browsers.</li>\n<li>Solid experience using automated testing tools.</li>\n<li>Experience working with remote teams.</li>\n<li>Experienced in the testing of native mobile apps.</li>\n<li>A solid grasp of agile methodologies.</li>\n<li>Familiarity with continuous integration, continuous delivery.</li>\n<li>Proficiency in SQL and relational database systems such as MySQL and Postgres.</li>\n<li>Familiarity with Linux shell.</li>\n<li>Knowledge of some of the following; RSpec, Cucumber, Selenium WebDriver, Cypress, Gherkin.</li>\n<li>Familiarity with testing APIs.</li>\n<li>Exceptional attention to detail.</li>\n<li>Strong analytical skills.</li>\n<li>Strong team player.</li>\n</ul>\n\n<p>Desired but not essential</p>\n\n<ul>\n<li>A technical BEng/BSc degree in a computing or similar/related engineering discipline is preferred but not required.</li>\n<li>Previous experience of using version control and configuration management tools such as Git.</li>\n<li>Experience of test automation using JavaScript.</li>\n<li>Prior experience of working within an Agile environment and associated tools (Atlassian Jira, Confluence, github, etc.).</li>\n<li>Fluent with /giphy resources.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "MySQL",
+        "Team Player",
+        "Software Testing",
+        "Automated Software Testing",
+        "Rspec",
+        "Mobile Application Testing",
+        "API testing"
+      ],
+      "payment": {
+        "salary": "£40k – £50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/alex-brelsfoard-2",
+        "name": "Alex Brelsfoard ",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "543643",
+        "angelListUrl": "https://angel.co/company/team-satchel/jobs/543643-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "name": "Neural Alpha",
+  "avatar": "https://photos.angel.co/startups/i/6567492-fc1e25d0dbe0f5558be8412f78abde7d-medium_jpg.jpg?buster=1542045867",
+  "slogan": "Crunching data to shed light on the financing of tropical deforestation",
+  "description": "Using cutting edge technology like connected data, graph networks, machine learning, cloud (AWS), data science and our deep knowledge of how financial systems work, we’re combatting climate change by fighting deforestation at its root - the sources of funding. We take data from satellites to spot where deforestation is happening and merge that with company, financial and shipping data from governments and NGOs to reconstruct the whole deforestation supply chain. Who is paying for rainforest in Brazil and Indonesia to be cut down? Who is farming on that new land? Who is shipping the soy or beef from that land around the world? Who is buying it? Essentially – who is funding deforestation? We’re building tools to provide this clarity. Our tools are used by environmental agencies and journalists to uncover the causes of deforestation and by banks and other investment institutions to reduce their exposure to unethical practices.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.neuralalpha.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/neuralalpha"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/neural-alpha"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Financial Services",
+    "Ngo's"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/james-phare-2",
+      "name": "James Phare",
+      "avatar": "https://photos.angel.co/users/8586840-medium_jpg?1577448631",
+      "bioHtml": "Worked at Neural Alpha"
+    },
+    {
+      "title": "Software Developer",
+      "role": "Employee",
+      "url": "https://angel.co/u/george-jowitt-1",
+      "name": "George Jowitt",
+      "avatar": "https://photos.angel.co/users/2280000-medium_jpg?1464307504",
+      "bioHtml": "Confident and ambitious Durham University Mathematics graduate.\n\nFront End Developer @ Neural Alpha"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/adam-marian-wangrat",
+      "name": "Adam Marian Wangrat",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Product Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/hello-sim-run",
+      "name": "Simrun Basuita",
+      "avatar": "https://photos.angel.co/users/9401495-medium_jpg?1577452305",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [
+    {
+      "category": "generous_vacation",
+      "title": "25 days starting holiday"
+    },
+    {
+      "category": "company_meals",
+      "title": "Breakfast on Mondays"
+    },
+    {
+      "category": "company_events",
+      "title": "Friday beers"
+    },
+    {
+      "category": "miscellaneous",
+      "title": "Brand new Macbook"
+    },
+    {
+      "category": "miscellaneous",
+      "title": "Annual company bonus"
+    },
+    {
+      "category": "miscellaneous",
+      "title": "Saving the Amazon rainforest"
+    },
+    {
+      "category": "commuter",
+      "title": "Secure bike storage and showers"
+    }
+  ],
+  "refs": {
+    "angelListId": "6567492",
+    "angelListUrl": "https://angel.co/company/neural-alpha"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack software developer (Node.js)",
+      "description": "We are looking for Full Stack Developers with experience in Data-centric Software Development and a flair for back end as well as front end application development. Neural Alpha is a unique data consultancy & software development company applying innovative Connected Data approaches (graph databases, semantic & related technologies) to Sustainable Investment & other complex requirements within the Financial Services industry.\n \nWe help NGOs, financial institutions and investors maximise the sustainability credentials of their investments – using these technologies to minimise investments in deforestation, carbon intensive activities & other areas. Our team is based in Kennington and Warsaw (Poland) and we are on the search for developers with a passion for building visually rich and innovative applications which distill the complexity of addressing sustainable investment challenges.\n \nOur development stack involves Javascript (React/d3.js) in the front-end, Node and python in the back-end. Our APIs are written in GraphQL and we use a variety of NoSQL databases including document stores such as MongoDB and Elasticsearch and graph databases/triple stores. We are completely cloud-based on AWS using multiple resources such as Cognito, EC2, DynamoDB, S3, etc.\n \nThe role is a rare and exciting opportunity to join an innovative start-up with a great culture, friendly people and a great location in Edinburgh House workspace offices in Kennington (London).\nIdeally a more experienced candidate will have a Computer Science background, demonstrable work experience and portfolio pieces illustrating front & back end programming skills. It is useful, but not essential, to have experience using semantic / linked data technologies, graphql, graph databases, Natural Language Processing (NLP) and machine learning techniques.\n\nPreferred skills/qualifications:\nExperience at building Node.js applications essential\nEducational Background in Computer Science or alternative STEM degree\n1+ years commercial experience essential\nExperience of deploying Microservices essential\nExperience developing on AWS essential\nExperience of GraphQL very useful\nExperience of modern development standards - TDD, CI/CD very useful\n\nCompany Benefits\nFantastic on the job training scheme in core data & development skills\n25 days starting holiday\nCompetitive salary\nBrand new macbook for a great development experience\nGreat office location on Vauxhall / Kennington border – we’re based in a workspace serviced office with breakfasts every Monday, social beers on a Friday, kitchen, bike storage & showers\nEligibility to annual company bonus scheme after 6 months employment.\n\nInterview Process\nInitial phone call\nTechnical exercise\nFinal interview",
+      "descriptionHtml": "<p>We are looking for Full Stack Developers with experience in Data-centric Software Development and a flair for back end as well as front end application development. Neural Alpha is a unique data consultancy &amp; software development company applying innovative Connected Data approaches (graph databases, semantic &amp; related technologies) to Sustainable Investment &amp; other complex requirements within the Financial Services industry.</p>\n\n<p>We help NGOs, financial institutions and investors maximise the sustainability credentials of their investments – using these technologies to minimise investments in deforestation, carbon intensive activities &amp; other areas. Our team is based in Kennington and Warsaw (Poland) and we are on the search for developers with a passion for building visually rich and innovative applications which distill the complexity of addressing sustainable investment challenges.</p>\n\n<p>Our development stack involves Javascript (React/d3.js) in the front-end, Node and python in the back-end. Our APIs are written in GraphQL and we use a variety of NoSQL databases including document stores such as MongoDB and Elasticsearch and graph databases/triple stores. We are completely cloud-based on AWS using multiple resources such as Cognito, EC2, DynamoDB, S3, etc.</p>\n\n<p>The role is a rare and exciting opportunity to join an innovative start-up with a great culture, friendly people and a great location in Edinburgh House workspace offices in Kennington (London).<br>\nIdeally a more experienced candidate will have a Computer Science background, demonstrable work experience and portfolio pieces illustrating front &amp; back end programming skills. It is useful, but not essential, to have experience using semantic / linked data technologies, graphql, graph databases, Natural Language Processing (NLP) and machine learning techniques.</p>\n\n<p>Preferred skills/qualifications:<br>\nExperience at building Node.js applications essential<br>\nEducational Background in Computer Science or alternative STEM degree<br>\n1+ years commercial experience essential<br>\nExperience of deploying Microservices essential<br>\nExperience developing on AWS essential<br>\nExperience of GraphQL very useful<br>\nExperience of modern development standards - TDD, CI/CD very useful</p>\n\n<p>Company Benefits<br>\nFantastic on the job training scheme in core data &amp; development skills<br>\n25 days starting holiday<br>\nCompetitive salary<br>\nBrand new macbook for a great development experience<br>\nGreat office location on Vauxhall / Kennington border – we’re based in a workspace serviced office with breakfasts every Monday, social beers on a Friday, kitchen, bike storage &amp; showers<br>\nEligibility to annual company bonus scheme after 6 months employment.</p>\n\n<p>Interview Process<br>\nInitial phone call<br>\nTechnical exercise<br>\nFinal interview</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Javascript",
+        "MongoDB",
+        "Node.js",
+        "React.js",
+        "AWS",
+        "AWS Lambda"
+      ],
+      "payment": {
+        "salary": "£40k – £50k"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Founder",
+        "url": "https://angel.co/u/james-phare-2",
+        "name": "James Phare",
+        "avatar": "https://photos.angel.co/users/8586840-medium_jpg?1577448631"
+      },
+      "refs": {
+        "angelListId": "611554",
+        "angelListUrl": "https://angel.co/company/neural-alpha/jobs/611554-"
+      }
+    }
+  ]
+}

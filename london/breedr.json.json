@@ -1,0 +1,172 @@
+{
+  "name": "Breedr",
+  "avatar": "https://photos.angel.co/startups/i/5402302-3d3aa677541eb16db54224d098fbd442-medium_jpg.jpg?buster=1520171589",
+  "slogan": "",
+  "description": "Breedr is revolutionalising the global farming and livestock industry with new, easy to use data platform that allows users to trace animals, improve productivity and trade global. \n\nWe are funded by leading London VC and Founder of Gumtree and now look to expand the team both in london and/or west sussex (near west wittering beach) \n\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.breedr.co"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@_breedr"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "http://www.linkedin.com/company/breedr"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "Chichester",
+    "London",
+    "Bristol"
+  ],
+  "marketTags": [
+    "Agriculture",
+    "Supply Chain Management",
+    "Technology",
+    "Marketplaces"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/ian-wheal",
+      "name": "Ian Wheal",
+      "avatar": "https://photos.angel.co/users/2955769-medium_jpg?1469897195",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/breedr\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Breedr</span></a> • Precision Livestock Network"
+    },
+    {
+      "title": "CEO",
+      "role": "Employee",
+      "url": "https://angel.co/u/ian-wheal",
+      "name": "Ian Wheal",
+      "avatar": "https://photos.angel.co/users/2955769-medium_jpg?1469897195",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/breedr\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Breedr</span></a> • Precision Livestock Network"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/maria-molin-3",
+      "name": "Matilda M",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/tim-whelan-6",
+      "name": "Tim Whelan",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5402302",
+    "angelListUrl": "https://angel.co/company/breedr"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "React Native Lead Developer",
+      "description": "Breedr is a fast growing well funded start up supported by leading london VC and founder of Gumtree, we are looking for exceptionally talented React Native and Mobile developers that can join the team either in London or West Sussex. \n\nIf you are looking for a lifestyle change and want to live near the beach this could be a great opportunity, and if you want to stay in London happy to also",
+      "descriptionHtml": "<p>Breedr is a fast growing well funded start up supported by leading london VC and founder of Gumtree, we are looking for exceptionally talented React Native and Mobile developers that can join the team either in London or West Sussex. </p>\n\n<p>If you are looking for a lifestyle change and want to live near the beach this could be a great opportunity, and if you want to stay in London happy to also</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Chichester District"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Django",
+        "iOS Development",
+        "Release Management",
+        "React.js",
+        "Android Application Development",
+        "React Native",
+        "Graph Ql"
+      ],
+      "payment": {
+        "salary": "£40k – £75k",
+        "equity": "0.0% – 2.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/ian-wheal",
+        "name": "Ian Wheal",
+        "avatar": "https://photos.angel.co/users/2955769-medium_jpg?1469897195"
+      },
+      "refs": {
+        "angelListId": "426954",
+        "angelListUrl": "https://angel.co/company/breedr/jobs/426954-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Lead Software Engineer",
+      "description": "Pack your wellies, we’re hiring!\n\nBreedr; enabling the livestock supply chain to trade smarter, finance faster and grow better animals.\n\nThis agtech start up is breaking ground in the $1 trillion global livestock trading industry to bring livestock trading into the digital age. Breedr is building technology which connects farmers, processors and food retailers together to deliver supply chain transparency, traceability and improvements in the economic and environmental impacts of livestock production. We are developing a suite of tools which will help farmers make better informed decisions about sourcing, breeding and animal management, including animal health to deliver a production base fit for the future.\n\nWith some 20 years cumulative experience in agriculture supply, food processing, and grocery retail we have seen first hand the impacts of the lack of relevant technology, tools and intel to make the best decisions. Based on this, Breedr has been founded; founded to revolutionise red meat production for the greater good.\nWe are now looking to extend our team to deliver significant positive impacts to the industry.\n\nTo learn more about Breedr and how it is capturing the hearts and minds of the industry, please click through the links below:\n\n\n\nJob Description\n\nAs the lead backend engineer, you will work in tandem with the head of engineering and the rest of the development team, to ensure that we deliver a world class platform that supports Breedr’s business model\n\nWe’re a small and passionate team, so you will be instrumental in defining the technical direction of the platform. We’re building an engineering team that loves agency, and gets it, so you will be self driven and keen pick up and own parts of the platform. Our engineers own the code they write, so they get to decide on how it’s written and what it runs on. We are a data company, so on top of all that, you’ll bring experience that helps us design and implement our data pipeline.\n\nThis is a remote role, based in the UK and possible commute to London 1 day a week if required.\n\n\n\nWhat You'll be Doing\n\nWork closely with the product team and build the next generation farming data and analytics platform.\nHelp the head of engineering to define what our technology platform looks like, and how we get it there.\nWork on defining and improving the deployment process and site reliability.\nHelp drive the way we process and handle data.\nCollaborate with other developers, product managers and designers to build new consumer features.\nAdopt streamlined and lean processes working with skill and pace to deliver the most appropriate technical solutions.\nContinuously improve our technology stack, tools, and processes.\nProvide technical insights and advice to help inform our roadmap.\n\n\n\nWhat you bring\n\nExperience in web application development using Python and the Django framework\nExperience in relational database technologies including PostgreSQL\nExperience in REST API and GraphQL Development\nExperience with Amazon Web Services and/or Google Cloud\nFamiliarity with container technology such as Docker\nPassion for writing clean, modular, well-commented, well-tested, readable and reusable code\nUnderstanding of software development practices such as agile development, testing and peer reviewing.\nFamiliarity around DevOps - Git, CI/CD, containerisation and server infrastructure\nExcellent analytical and problem-solving skills\nOrganisational and time management skills; ability to manage workload and effectively allocate appropriate time to a range of tasks\nProject management and communication skills\nOur current technology stack: Python (Django), PostgreSQL, Redis, Stripe, GraphQL, Apollo Client, React, React Native, AWS, Terraform, Looker\n\nBonus points: Full stack development and/or React or React Native Machine Learning and/or data science\n\n\n\nBenefits\n\nCompetitive salary\nHealth\nFlexible UK location\n\n\n\nPlease contact careers@breedr.co",
+      "descriptionHtml": "<p>Pack your wellies, we’re hiring!</p>\n\n<p>Breedr; enabling the livestock supply chain to trade smarter, finance faster and grow better animals.</p>\n\n<p>This agtech start up is breaking ground in the $1 trillion global livestock trading industry to bring livestock trading into the digital age. Breedr is building technology which connects farmers, processors and food retailers together to deliver supply chain transparency, traceability and improvements in the economic and environmental impacts of livestock production. We are developing a suite of tools which will help farmers make better informed decisions about sourcing, breeding and animal management, including animal health to deliver a production base fit for the future.</p>\n\n<p>With some 20 years cumulative experience in agriculture supply, food processing, and grocery retail we have seen first hand the impacts of the lack of relevant technology, tools and intel to make the best decisions. Based on this, Breedr has been founded; founded to revolutionise red meat production for the greater good.<br>\nWe are now looking to extend our team to deliver significant positive impacts to the industry.</p>\n\n<p>To learn more about Breedr and how it is capturing the hearts and minds of the industry, please click through the links below:</p>\n\n<p>Job Description</p>\n\n<p>As the lead backend engineer, you will work in tandem with the head of engineering and the rest of the development team, to ensure that we deliver a world class platform that supports Breedr’s business model</p>\n\n<p>We’re a small and passionate team, so you will be instrumental in defining the technical direction of the platform. We’re building an engineering team that loves agency, and gets it, so you will be self driven and keen pick up and own parts of the platform. Our engineers own the code they write, so they get to decide on how it’s written and what it runs on. We are a data company, so on top of all that, you’ll bring experience that helps us design and implement our data pipeline.</p>\n\n<p>This is a remote role, based in the UK and possible commute to London 1 day a week if required.</p>\n\n<p>What You&#39;ll be Doing</p>\n\n<p>Work closely with the product team and build the next generation farming data and analytics platform.<br>\nHelp the head of engineering to define what our technology platform looks like, and how we get it there.<br>\nWork on defining and improving the deployment process and site reliability.<br>\nHelp drive the way we process and handle data.<br>\nCollaborate with other developers, product managers and designers to build new consumer features.<br>\nAdopt streamlined and lean processes working with skill and pace to deliver the most appropriate technical solutions.<br>\nContinuously improve our technology stack, tools, and processes.<br>\nProvide technical insights and advice to help inform our roadmap.</p>\n\n<p>What you bring</p>\n\n<p>Experience in web application development using Python and the Django framework<br>\nExperience in relational database technologies including PostgreSQL<br>\nExperience in REST API and GraphQL Development<br>\nExperience with Amazon Web Services and/or Google Cloud<br>\nFamiliarity with container technology such as Docker<br>\nPassion for writing clean, modular, well-commented, well-tested, readable and reusable code<br>\nUnderstanding of software development practices such as agile development, testing and peer reviewing.<br>\nFamiliarity around DevOps - Git, CI/CD, containerisation and server infrastructure<br>\nExcellent analytical and problem-solving skills<br>\nOrganisational and time management skills; ability to manage workload and effectively allocate appropriate time to a range of tasks<br>\nProject management and communication skills<br>\nOur current technology stack: Python (Django), PostgreSQL, Redis, Stripe, GraphQL, Apollo Client, React, React Native, AWS, Terraform, Looker</p>\n\n<p>Bonus points: Full stack development and/or React or React Native Machine Learning and/or data science</p>\n\n<p>Benefits</p>\n\n<p>Competitive salary<br>\nHealth<br>\nFlexible UK location</p>\n\n<p>Please contact <a href=\"mailto:careers@breedr.co\" target=\"_blank\" rel=\"nofollow\">careers@breedr.co</a></p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Chichester District"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "United Kingdom"
+      ],
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Django",
+        "Node.js",
+        "PostgreSQL",
+        "REST APIs",
+        "Data Management",
+        "Blockchain",
+        "AWS",
+        "Graph Ql"
+      ],
+      "payment": {
+        "salary": "£50k – £80k",
+        "equity": "0.0% – 2.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/ian-wheal",
+        "name": "Ian Wheal",
+        "avatar": "https://photos.angel.co/users/2955769-medium_jpg?1469897195"
+      },
+      "refs": {
+        "angelListId": "426960",
+        "angelListUrl": "https://angel.co/company/breedr/jobs/426960-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Rank & File",
+  "avatar": "https://photos.angel.co/startups/i/2453025-bc26c300b53669c89caaac9b51e18359-medium_jpg.jpg?buster=1474817505",
+  "slogan": "Connecting Social Entrepreneurs through Creative Media and Technology",
+  "description": "Rank & File is a digital media company that is connecting the social entrepreneurship ecosystem through creative media and technology using our core values of service, vulnerability, human connection and collaboration.\n\nOur flagship product, Rank & File magazine, is a digital publication written by purpose-driven entrepreneurs for purpose-driven entrepreneurs, featuring down-to-earth and human-centric business advice for social impact.\n\nRank & File is now looking for a CTO to come onboard our founding team as we build a networking platform for the social entrepreneurship industry, helping people connect and collaborate with one another for the sake of social impact.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://rankandfilemag.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://rankandfilemag.com/blog/"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/rankandfilemag"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/rankandfilemag"
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "Oslo",
+    "London"
+  ],
+  "marketTags": [
+    "Social Entrepreneurship",
+    "Digital Media",
+    "Digital Publishing",
+    "Social Network"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/kari-stinehour",
+      "name": "Kari Stinehour Enge",
+      "avatar": "https://photos.angel.co/users/4026865-medium_jpg?1474817749",
+      "bioHtml": "Founder Rank &amp; File"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "2453025",
+    "angelListUrl": "https://angel.co/company/rank-file"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Chief Technology Officer",
+      "description": "Rank & File is a digital media company for the social entrepreneurship industry. Our mission is to connect the worldwide social entrepreneurship ecosystem using the values of service, vulnerability, human connection, and collaboration.\n\nOur flagship product, Rank & File Magazine, is a digital publication written by social entrepreneurs for social entrepreneurs featuring down-to-earth, approachable business advice on living and leading well for social change.\n\nWe are now building a social platform for the social entrepreneurship industry to help people connect and collaborate with one another for the sake of social impact.\n\nWe are currently looking for a CTO for this project's founding team.\n\nIf you are an experienced full-stack developer and are passionate about social impact, social entrepreneurship and our core values, let's talk.",
+      "descriptionHtml": "<p>Rank &amp; File is a digital media company for the social entrepreneurship industry. Our mission is to connect the worldwide social entrepreneurship ecosystem using the values of service, vulnerability, human connection, and collaboration.</p>\n\n<p>Our flagship product, Rank &amp; File Magazine, is a digital publication written by social entrepreneurs for social entrepreneurs featuring down-to-earth, approachable business advice on living and leading well for social change.</p>\n\n<p>We are now building a social platform for the social entrepreneurship industry to help people connect and collaborate with one another for the sake of social impact.</p>\n\n<p>We are currently looking for a CTO for this project&#39;s founding team.</p>\n\n<p>If you are an experienced full-stack developer and are passionate about social impact, social entrepreneurship and our core values, let&#39;s talk.</p>\n",
+      "position": "cofounder",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Oslo"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary",
+        "equity": "10.0% – 18.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/kari-stinehour",
+        "name": "Kari Stinehour Enge",
+        "avatar": "https://photos.angel.co/users/4026865-medium_jpg?1474817749"
+      },
+      "refs": {
+        "angelListId": "180923",
+        "angelListUrl": "https://angel.co/company/rank-file/jobs/180923-"
+      }
+    }
+  ]
+}

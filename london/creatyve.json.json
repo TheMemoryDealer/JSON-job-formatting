@@ -1,0 +1,132 @@
+{
+  "name": "creatyve",
+  "avatar": "https://photos.angel.co/startups/i/5486340-ccc17f353fbb5ca2e134b952d630eb87-medium_jpg.jpg?buster=1524998664",
+  "slogan": "Crowdfunding for investors",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.creatyve.uk"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/creatyve-uk/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Finance",
+    "Art"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 10000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1539907200,
+        "valuation": 343400
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/giuseppe-tilocca",
+      "name": "Giuseppe Tilocca",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/glenn-regis",
+      "name": "Glenn Regis",
+      "avatar": "https://photos.angel.co/users/7647502-medium_jpg?1559810395",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/creatyve\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">creatyve</span></a> • Worked at <a href=\"https://angel.co/company/bank-of-america\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Bank of America</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/beatriz-lobo-1",
+      "name": "Beatriz Lobo",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/ilaria-volpi-1",
+      "name": "Ilaria Volpi",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/cristina-dachille",
+      "name": "cristina dachille",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5486340",
+    "angelListUrl": "https://angel.co/company/creatyve"
+  },
+  "jobs": [
+    {
+      "role": "Marketing",
+      "title": "Marketing Manager",
+      "description": "We are looking for a bright and proactive marketing graduate that can take hold of the marketing and strategy operations of creatyve and help us reach out to our customers.\n\nTasks:\n-Managing our 2.5k instagram community\n-Building and implementing marketing plan for fore-coming months\n-Reach out to our target audience in better and more efficient ways\n-Help us with events we have planned for July and September",
+      "descriptionHtml": "<p>We are looking for a bright and proactive marketing graduate that can take hold of the marketing and strategy operations of creatyve and help us reach out to our customers.</p>\n\n<p>Tasks:<br>\n-Managing our 2.5k instagram community<br>\n-Building and implementing marketing plan for fore-coming months<br>\n-Reach out to our target audience in better and more efficient ways<br>\n-Help us with events we have planned for July and September</p>\n",
+      "position": "internship",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Social Media Marketing",
+        "Sales and Marketing"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "% – 5.0%"
+      },
+      "recruiter": {
+        "title": "Cofounder",
+        "role": "Employee",
+        "url": "https://angel.co/u/glenn-regis",
+        "name": "Glenn Regis",
+        "avatar": "https://photos.angel.co/users/7647502-medium_jpg?1559810395"
+      },
+      "refs": {
+        "angelListId": "578309",
+        "angelListUrl": "https://angel.co/company/creatyve/jobs/578309-"
+      }
+    }
+  ]
+}

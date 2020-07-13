@@ -1,0 +1,213 @@
+{
+  "name": "Rediscovery.io",
+  "avatar": "https://photos.angel.co/startups/i/4113132-0a1919b59e6b77d742a1e42d80435a0f-medium_jpg.jpg?buster=1529918611",
+  "slogan": "Working towards open AI",
+  "description": "We are building www.remo.ai - the open platform for Computer Vision.\n\nIn the current release, we are working towards an open annotation tool and datasets management platform.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.rediscovery.io"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/rediscovery.io/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Artificial Intelligence",
+    "Startups",
+    "Computer Vision",
+    "Deep Learning"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO, Data Scientist",
+      "role": "Founder",
+      "url": "https://angel.co/u/andrea-la-rosa",
+      "name": "Andrea La Rosa",
+      "avatar": "https://photos.angel.co/users/6416048-medium_jpg?1563463084",
+      "bioHtml": "Founder @ Rediscovery.io. Machine learning at Shell, Aon, Unilever. Ex Quant at Barclays, Mizuho, Sarasin. Background in Financial Math, Physics and RPGs"
+    },
+    {
+      "title": "Senior Software Engineer (remote) ",
+      "role": "Employee",
+      "url": "https://angel.co/u/volodymyr-manilo",
+      "name": "Volodymyr Manilo",
+      "avatar": "https://photos.angel.co/users/1454158-medium_jpg?1549484266",
+      "bioHtml": "Senior Software Engineer"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4113132",
+    "angelListUrl": "https://angel.co/company/rediscovery-io-1"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "CTO for open AI startup",
+      "description": "At Rediscovery.io, we are building Remo - a platform to manage images and videos for Computer Vision.\r\nThe long term goal is to build a community-based platform for open AI. \r\nA concern we have is what happens if a single private company owns AI - we are trying to make up for that.\r\n\r\nWe are looking for a CTO to lead the development and help further define the product features and release roadmap.\r\n\r\nWe are a small startup, partly based in London partly remotely. \r\n\r\nWe are looking for someone highly-technical, able to plan and execute the product development, lead the team and as passionate as us.\r\n\r\n\r\n### What are we building and tech stack\r\n------------------------------ \r\nRemo is a web-server that can be installed locally (Linux, Mac and Windows) with an hosted version running on our server. It can be installed via pip and accessed as an app using Electron, on the browser, or interacted with from code through a set of open end-points and a Python SDK.\r\n\r\nCurrent stack:\r\n\r\n- Python, Django, FastAPI\r\n- React.JS, SVG, Redux, Electron.JS\r\n- Docker, Kubernetes\r\n- Deep Learning stack (Tensorflow, PyTorch)\r\n- PostgreSQL, SQLlite\r\n- AWS, GCP\r\n- Git with integrated CI/CD pipeline\r\n\r\n\r\n### What we offer: \r\n------------------------------------------\r\n- Location: London / 100% remote ok\r\n- Flexible working hours, but we require having at least 6h overlap with GMT timezone\r\n- Salary: negotiable, up to $100k \r\n- Equity: negotiable, up to 20% \r\n\r\n\r\n\r\n### Responsibilities:\r\n------------------------------------------\r\n- Leading current dev team of 2 people\r\n- Hands-on development on either front end, back end, DevOps, Deep Learning depending on your skills / current priorities\r\n- Strategic inputs on tech to use and product features\r\n- Deep understanding of the product and managing the development in milestones to be defined together\r\n- Help expand the team\r\n\r\n\r\n### Experience:\r\n------------------------------------------\r\n- 7y+ experience in Software Engineering\r\n- 5y+ experience in hands-on development\r\n- 2y+ experience managing teams\r\n\r\n- Experience in managing large projects while working in iterations\r\n\r\n- Beneficial: experience as CTO with another startup or in roles which show you will be able to transition into a CTO position quickly\r\n\r\n-  Beneficial: as much experience with Deep Learning as possible :)\r\n\r\n### Technical Skills: \r\n------------------------------------------\r\n- Experience building web apps, from design to production\r\n- Expertise in at least 2 of these:\r\nSoftware Architect\r\nBackend development in Python / Django\r\nFrontend development in React\r\nDevOps\r\nDeep Learning deployment\r\nAPI design\r\n\r\n### What we believe in\r\n------------------------------------------\r\n\r\nWe believe that empowered and engaged team members do the best work, and we’ll trying our best to enable you to succeed. \r\nWe are keen to hear your suggestions to improve the day-to-day and also the company.\r\nWe don’t want you to work too hard and we do want to encourage you to grow - and we’ll help you do that. \r\n\r\nWe are devoted to building a team of people with different backgrounds and lifestyles. We invite applications from people of all kinds. We don’t discriminate against employees or applicants based on gender identity or expression, sexual orientation, religion, age, race, citizenship, pregnancy status, or any other differences.",
+      "descriptionHtml": "<p>At Rediscovery.io, we are building Remo - a platform to manage images and videos for Computer Vision.<br>\nThe long term goal is to build a community-based platform for open AI. <br>\nA concern we have is what happens if a single private company owns AI - we are trying to make up for that.</p>\n\n<p>We are looking for a CTO to lead the development and help further define the product features and release roadmap.</p>\n\n<p>We are a small startup, partly based in London partly remotely. </p>\n\n<p>We are looking for someone highly-technical, able to plan and execute the product development, lead the team and as passionate as us.</p>\n<h3>What are we building and tech stack</h3>\n<hr>\n\n<p>Remo is a web-server that can be installed locally (Linux, Mac and Windows) with an hosted version running on our server. It can be installed via pip and accessed as an app using Electron, on the browser, or interacted with from code through a set of open end-points and a Python SDK.</p>\n\n<p>Current stack:</p>\n\n<ul>\n<li>Python, Django, FastAPI</li>\n<li>React.JS, SVG, Redux, Electron.JS</li>\n<li>Docker, Kubernetes</li>\n<li>Deep Learning stack (Tensorflow, PyTorch)</li>\n<li>PostgreSQL, SQLlite</li>\n<li>AWS, GCP</li>\n<li>Git with integrated CI/CD pipeline</li>\n</ul>\n<h3>What we offer:</h3>\n<hr>\n\n<ul>\n<li>Location: London / 100% remote ok</li>\n<li>Flexible working hours, but we require having at least 6h overlap with GMT timezone</li>\n<li>Salary: negotiable, up to $100k </li>\n<li>Equity: negotiable, up to 20% </li>\n</ul>\n<h3>Responsibilities:</h3>\n<hr>\n\n<ul>\n<li>Leading current dev team of 2 people</li>\n<li>Hands-on development on either front end, back end, DevOps, Deep Learning depending on your skills / current priorities</li>\n<li>Strategic inputs on tech to use and product features</li>\n<li>Deep understanding of the product and managing the development in milestones to be defined together</li>\n<li>Help expand the team</li>\n</ul>\n<h3>Experience:</h3>\n<hr>\n\n<ul>\n<li>7y+ experience in Software Engineering</li>\n<li>5y+ experience in hands-on development</li>\n<li><p>2y+ experience managing teams</p></li>\n<li><p>Experience in managing large projects while working in iterations</p></li>\n<li><p>Beneficial: experience as CTO with another startup or in roles which show you will be able to transition into a CTO position quickly</p></li>\n<li><p>Beneficial: as much experience with Deep Learning as possible :)</p></li>\n</ul>\n<h3>Technical Skills:</h3>\n<hr>\n\n<ul>\n<li>Experience building web apps, from design to production</li>\n<li>Expertise in at least 2 of these:\nSoftware Architect\nBackend development in Python / Django\nFrontend development in React\nDevOps\nDeep Learning deployment\nAPI design</li>\n</ul>\n<h3>What we believe in</h3>\n<hr>\n\n<p>We believe that empowered and engaged team members do the best work, and we’ll trying our best to enable you to succeed. <br>\nWe are keen to hear your suggestions to improve the day-to-day and also the company.<br>\nWe don’t want you to work too hard and we do want to encourage you to grow - and we’ll help you do that. </p>\n\n<p>We are devoted to building a team of people with different backgrounds and lifestyles. We invite applications from people of all kinds. We don’t discriminate against employees or applicants based on gender identity or expression, sexual orientation, religion, age, race, citizenship, pregnancy status, or any other differences.</p>\n",
+      "position": "cofounder",
+      "experience": 7,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Cloud Computing",
+        "Django",
+        "Software Architecture",
+        "System Design",
+        "Flask",
+        "API Design",
+        "Deep Learning",
+        "Docker",
+        "Software Deployment",
+        "React.js",
+        "Kubernetes"
+      ],
+      "payment": {
+        "salary": "$30k – $100k",
+        "equity": "5.0% – 20.0%"
+      },
+      "recruiter": {
+        "title": "CEO, Data Scientist",
+        "role": "Founder",
+        "url": "https://angel.co/u/andrea-la-rosa",
+        "name": "Andrea La Rosa",
+        "avatar": "https://photos.angel.co/users/6416048-medium_jpg?1563463084"
+      },
+      "refs": {
+        "angelListId": "558086",
+        "angelListUrl": "https://angel.co/company/rediscovery-io-1/jobs/558086-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Deep Learning / QA Computer Vision internship",
+      "description": "We are looking for Deep Learning scientist / engineer intern to join the team.\n\nWe are building remo.ai - a platform to manage images and annotations for Computer Vision.\n\nYou will be joining the team at an exciting moment - we are now close to the release.\n\n\nResponsibilities:\n------------------------------------------\nMain responsibilities:\n- 50%: implement open source Computer Vision tutorials using remo to visualise results, giving feedback on how to improve remo\nTasks: classification, object detection, instance segmentation, pose estimation\n\n- 50%: QA work to test remo under different scenarios\n\nDepending on experience:\n- Support with development of Deep Learning features of Remo\n- Development of our open source python library\n- Active Learning workflow\n\nWhat we offer: \n------------------------------------------\n- 2 months initial contract\n- Location: London / 100% remote ok \n- Flexible working hours (need to overlap 6h with GMT)\n- Salary: £500/month \n- Part-time option available too\n\nFurther:\n- Great learning curve and possibility of fast progression\n- Access to cloud computing\n- Implementing open source code\n- Experiencing first-hand the launch of a product\n\nSkills and experience:\n------------------------------------------\n- Some hands-on experience with Python\n\n- Working knowledge of python environments (conda, pip)\n\n- Some hands-on experience with Deep Learning and Computer Vision: pytorch preferred, keras / tf ok too. At the very least, you will have taken a model and do inference on some iamges\n\n- Some experience with GitHub\n\n- Excellent English knowledge\n\nNice to have some of these:\n------------------------------------------\n- Implemented models from scratch from papers\n- Open source experience\n- Experience with Jupyter Notebooks\n- Exposure to different Operative Systems (Ubuntu, macos, Windows)\n- Experience working with (or creating!)  API\n- An interest in blogging / community engagement\n\nTo apply:\n------------------------------------------\nPlease include a brief summary of:\n- your DL experience in Computer Vision\n- your experience with Python",
+      "descriptionHtml": "<p>We are looking for Deep Learning scientist / engineer intern to join the team.</p>\n\n<p>We are building remo.ai - a platform to manage images and annotations for Computer Vision.</p>\n\n<p>You will be joining the team at an exciting moment - we are now close to the release.</p>\n<h3>Responsibilities:</h3>\n<p>Main responsibilities:</p>\n\n<ul>\n<li><p>50%: implement open source Computer Vision tutorials using remo to visualise results, giving feedback on how to improve remo<br>\nTasks: classification, object detection, instance segmentation, pose estimation</p></li>\n<li><p>50%: QA work to test remo under different scenarios</p></li>\n</ul>\n\n<p>Depending on experience:</p>\n\n<ul>\n<li>Support with development of Deep Learning features of Remo</li>\n<li>Development of our open source python library</li>\n<li>Active Learning workflow</li>\n</ul>\n<h3>What we offer: </h3>\n<ul>\n<li>2 months initial contract</li>\n<li>Location: London / 100% remote ok </li>\n<li>Flexible working hours (need to overlap 6h with GMT)</li>\n<li>Salary: £500/month </li>\n<li>Part-time option available too</li>\n</ul>\n\n<p>Further:</p>\n\n<ul>\n<li>Great learning curve and possibility of fast progression</li>\n<li>Access to cloud computing</li>\n<li>Implementing open source code</li>\n<li>Experiencing first-hand the launch of a product</li>\n</ul>\n<h3>Skills and experience:</h3>\n<ul>\n<li><p>Some hands-on experience with Python</p></li>\n<li><p>Working knowledge of python environments (conda, pip)</p></li>\n<li><p>Some hands-on experience with Deep Learning and Computer Vision: pytorch preferred, keras / tf ok too. At the very least, you will have taken a model and do inference on some iamges</p></li>\n<li><p>Some experience with GitHub</p></li>\n<li><p>Excellent English knowledge</p></li>\n</ul>\n<h3>Nice to have some of these:</h3>\n<ul>\n<li>Implemented models from scratch from papers</li>\n<li>Open source experience</li>\n<li>Experience with Jupyter Notebooks</li>\n<li>Exposure to different Operative Systems (Ubuntu, macos, Windows)</li>\n<li>Experience working with (or creating!)  API</li>\n<li>An interest in blogging / community engagement</li>\n</ul>\n<h3>To apply:</h3>\n<p>Please include a brief summary of:</p>\n\n<ul>\n<li>your DL experience in Computer Vision</li>\n<li>your experience with Python</li>\n</ul>\n",
+      "position": "internship",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe",
+        "United States",
+        "Africa",
+        "Asia"
+      ],
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Computer Vision",
+        "Data Science",
+        "QA Testing",
+        "Deep Learning",
+        "Keras",
+        "TensorFlow",
+        "PyTorch"
+      ],
+      "payment": {
+        "salary": "$6k – $7k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "CEO, Data Scientist",
+        "role": "Founder",
+        "url": "https://angel.co/u/andrea-la-rosa",
+        "name": "Andrea La Rosa",
+        "avatar": "https://photos.angel.co/users/6416048-medium_jpg?1563463084"
+      },
+      "refs": {
+        "angelListId": "506186",
+        "angelListUrl": "https://angel.co/company/rediscovery-io-1/jobs/506186-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Lead Deep Learning scientist in Computer Vision",
+      "description": "At Rediscovery.io, we are building Remo - a platform to manage images and videos for Computer Vision. The long term goal is to build a community-based platform for open AI. \n\nWe are looking for a Deep Learning Lead to join the team.\n\nThis is an exciting opportunity in that the role will involve making the latest Deep Learning research available to everyone. \n\nSpecific work will involve:\n------------------------------------------\n- help shape what remo looks like \n- work on ML-based features of Remo, with the support of our software engineers\n- collaborate with other researchers and research groups to publish new research\n- implement research from papers / improve on github implementations, make them openly available\n- staying up-to-date with research / attend conferences\n- lead applied computer vision projects\n- help build the Deep Learning team\n\nWe are looking for someone with a keen interest in deep learning and AI research, that share our passion towards making AI open and fair.\n\n\nWhat we offer: \n------------------------------------------\n- Location: London / 100% remote (we would pay for occasional trips to London) \n- Flexible working hours, but we require having at least 6h overlap with GMT timezone\n- Salary: negotiable, up to $110k depending on experience \n- Equity: negotiable, up to 15% depending on experience - we are open for someone to come in as a co-founder, given the importance of the position\n\n\nYour skills and experience:\n------------------------------------------\n- 4y+ relevant work experience or PhD / Post Doc / Professor in ML-based research area with a track record of publications\n- Hands-on experience training Deep Learning-based Vision models - from a research setting or an applied one\n- Implemented and trained models across different CV tasks\n- Python: experienced in at least one between tensorflow and pytorch\n- An understanding of data bias, ethics and diversity issues, and a willingness to do something about it\n- Proficient in English\n\n\nNice to have:\n------------------------------------------\n- Relevant track record of publications\n- Maintainer or contributor to open repositories in CV / Deep Learning\n- Experience with practical end-to-end CV projects (from problem definition to deployment)\n- Cloud computing (AWS / GCP / Azure)\n- Experience working with/designing APIs\n- Experience / interest in NLP and RL\n- An interest in blogging / community engagement\n\nWhat we believe in\n------------------------------------------\n\nWe believe that empowered and engaged team members do the best work, and we’ll trying our best to enable you to succeed. \nWe are keen to hear your suggestions to improve the day-to-day and also the company.\nWe don’t want you to work too hard and we do want to encourage you to grow - and we’ll help you do that. \n\nWe are devoted to building a team of people with different backgrounds and lifestyles. We invite applications from people of all kinds. We don’t discriminate against employees or applicants based on gender identity or expression, sexual orientation, religion, age, race, citizenship, pregnancy status, or any other differences. \n\nTo apply:\n------------------------------------------\nPlease include a brief summary of your DL / ML projects and experience\n\nNO AGENCIES please - any agency that will get in touch will be marked as spam and black listed from any future work.",
+      "descriptionHtml": "<p>At Rediscovery.io, we are building Remo - a platform to manage images and videos for Computer Vision. The long term goal is to build a community-based platform for open AI. </p>\n\n<p>We are looking for a Deep Learning Lead to join the team.</p>\n\n<p>This is an exciting opportunity in that the role will involve making the latest Deep Learning research available to everyone. </p>\n<h3>Specific work will involve:</h3>\n<ul>\n<li>help shape what remo looks like </li>\n<li>work on ML-based features of Remo, with the support of our software engineers</li>\n<li>collaborate with other researchers and research groups to publish new research</li>\n<li>implement research from papers / improve on github implementations, make them openly available</li>\n<li>staying up-to-date with research / attend conferences</li>\n<li>lead applied computer vision projects</li>\n<li>help build the Deep Learning team</li>\n</ul>\n\n<p>We are looking for someone with a keen interest in deep learning and AI research, that share our passion towards making AI open and fair.</p>\n<h3>What we offer: </h3>\n<ul>\n<li>Location: London / 100% remote (we would pay for occasional trips to London) </li>\n<li>Flexible working hours, but we require having at least 6h overlap with GMT timezone</li>\n<li>Salary: negotiable, up to $110k depending on experience </li>\n<li>Equity: negotiable, up to 15% depending on experience - we are open for someone to come in as a co-founder, given the importance of the position</li>\n</ul>\n<h3>Your skills and experience:</h3>\n<ul>\n<li>4y+ relevant work experience or PhD / Post Doc / Professor in ML-based research area with a track record of publications</li>\n<li>Hands-on experience training Deep Learning-based Vision models - from a research setting or an applied one</li>\n<li>Implemented and trained models across different CV tasks</li>\n<li>Python: experienced in at least one between tensorflow and pytorch</li>\n<li>An understanding of data bias, ethics and diversity issues, and a willingness to do something about it</li>\n<li>Proficient in English</li>\n</ul>\n<h3>Nice to have:</h3>\n<ul>\n<li>Relevant track record of publications</li>\n<li>Maintainer or contributor to open repositories in CV / Deep Learning</li>\n<li>Experience with practical end-to-end CV projects (from problem definition to deployment)</li>\n<li>Cloud computing (AWS / GCP / Azure)</li>\n<li>Experience working with/designing APIs</li>\n<li>Experience / interest in NLP and RL</li>\n<li>An interest in blogging / community engagement</li>\n</ul>\n<h3>What we believe in</h3>\n<p>We believe that empowered and engaged team members do the best work, and we’ll trying our best to enable you to succeed. <br>\nWe are keen to hear your suggestions to improve the day-to-day and also the company.<br>\nWe don’t want you to work too hard and we do want to encourage you to grow - and we’ll help you do that. </p>\n\n<p>We are devoted to building a team of people with different backgrounds and lifestyles. We invite applications from people of all kinds. We don’t discriminate against employees or applicants based on gender identity or expression, sexual orientation, religion, age, race, citizenship, pregnancy status, or any other differences. </p>\n<h3>To apply:</h3>\n<p>Please include a brief summary of your DL / ML projects and experience</p>\n\n<p>NO AGENCIES please - any agency that will get in touch will be marked as spam and black listed from any future work.</p>\n",
+      "position": "cofounder",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe",
+        "North America",
+        "South America",
+        "Africa",
+        "Asia"
+      ],
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Computer Vision",
+        "Artificial Intelligence",
+        "Github",
+        "Deep Learning",
+        "Pose Estimation",
+        "Keras",
+        "Object Detection",
+        "TensorFlow",
+        "NLP",
+        "PyTorch",
+        "Fast.Ai",
+        "Semantic and Instance Segmentation"
+      ],
+      "payment": {
+        "salary": "$30k – $110k",
+        "equity": "0.0% – 15.0%"
+      },
+      "recruiter": {
+        "title": "CEO, Data Scientist",
+        "role": "Founder",
+        "url": "https://angel.co/u/andrea-la-rosa",
+        "name": "Andrea La Rosa",
+        "avatar": "https://photos.angel.co/users/6416048-medium_jpg?1563463084"
+      },
+      "refs": {
+        "angelListId": "505871",
+        "angelListUrl": "https://angel.co/company/rediscovery-io-1/jobs/505871-"
+      }
+    }
+  ]
+}

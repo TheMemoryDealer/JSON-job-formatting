@@ -1,0 +1,96 @@
+{
+  "name": "AltoStack",
+  "avatar": "https://photos.angel.co/startups/i/6851374-64ccaf96b95c9019bb1afe95ef114335-medium_jpg.jpg?buster=1553079173",
+  "slogan": "AltoStack is a DevOps and Cloud Transformation Consultancy",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.altostack.io"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Cloud Computing",
+    "Cloud Data Services",
+    "Consulting Services"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/sarah-badawi",
+      "name": "Sarah Badawi",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6851374",
+    "angelListUrl": "https://angel.co/company/altostack"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "DevOps Engineer",
+      "description": "AltoStack\nDevops Engineer\n\nAbout AltoStack\n\nAltoStack is a DevOps and Cloud Transformation Consultancy revolutionising the way\nbusinesses innovate and grow through our technology products and consultancy services\nby providing a much more efficient, experienced and affordable way to operate on the\nCloud and adopt DevOps without the need for internal hires. We deliver Cloud, Automation\nand DevOps solutions and we advocate the strategic adoption of automation as the\nfoundation for prosperity in the digital age.\nHeadquartered in Canary Wharf, London, United Kingdom, AltoStack has successfully\ndelivered Cloud and Automation projects for some of the largest and most prestigious\norganisations in both the public and private sectors across Europe.\n\nDevOps Engineer Role:\n\nYou will deliver hands-on, business-oriented strategic and technical consulting to our\nclients for cloud infrastructure and data centre automation solutions.\nThis role will suit an AWS professional with knowledge of Integration patterns looking to\nfurther their skills within AWS and who enjoys working in a client facing role.\nOur Automation Engineers and Architects come from a DevOps background and are\ntechnically adept in configuration management tools, continuous development, Linux\nenvironments and have experience of delivering cloud infrastructure and cloud\nautomation.\n\nResponsibilities:\n\n You will join a project engineering team and focus on adding hands-on technical expertise,\nensuring outcomes meet the highest technical and agile standards.\n We expect our engineers to understand the client&#39;s project aims and to offer professional\nand commercial insight to ensure client satisfaction as well as representing the commercial\ninterests of AltoStack.\n We always expect our engineers to be very self-sufficient when engaged in smaller\nassignments representing AltoStack by themselves, always ensuring customer satisfaction\nthrough high-quality work and outstanding client care.\n Working with AWS application platform developers to ensure high quality continuous build\nautomation and deployment input to class leading application platform solutions.\n Help defining relevant solution deployment architectures\n\n Deploying and managing multiple environments to support rapid, agile development\napproaches including demonstration environments.\n Collaborate and liaise with other customer stakeholders/ end users in the software\ndevelopment lifecycle – PMs, BAs, testing etc\n Provide effective knowledge transfer and upskilling to relevant customer personnel to\nensure an appropriate level of future self-sufficiency\n\nKey Requirements:\n\n Strong knowledge of Linux based systems\n DevOps background/experience\n Experience with configuration management tools such as Puppet, Chef &amp; Ansible\n Expert knowledge of AWS cloud (Certifications highly desirable)\n Expert knowledge of GCP cloud (Certifications highly desirable)\n Hands on experience with Terraform\n Scripting ability (ideally Python or Golang)\n Knowledge of Containers and Container Orchestration such as Docker or Kubernetes\n Experience of Agile / Scrum methodology\n A passion for open source technologies and the open source community\n Demonstrable experience in cloud-automation\n Demonstrate the ability to quickly learn new technologies.\n Demonstrate the ability to solve complex, multi-system problems.\n Have experience in stakeholder management within complex organisations.\n Be comfortable with being responsible for the delivery of significant cloud and automation\nprojects.\n Be willing to work in multiple locations and prepared to travel.\n Be a fast learner, ambitions, and comfortable working in high-pressure environments.\n Exhibit a proven track record of continually looking for ways to improve customer\nsatisfaction.\n\nBenefits\n\n 25 days holiday plus bank holidays\n £1,000 for personal development (trainings &amp; certifications)\n Situated in the innovation hub of Canary Wharf\n Laptop of your choice\n Monthly social events and team offsites\n Generous desk budget\n Free fruit, cookies, tea/coffee throughout the week\n Freedom to explore the latest tools and technologies\n\nWork at a fun, fast-paced Consultancy based in Europe’s largest technology accelerator\nLevel39 (Canary Wharf, London). In addition to awesome views of London, our office offers\nunlimited coffee brewed by a slick Nespresso machine, fresh fruit for breakfast and freshly\nbaked cookies every day at 3pm!",
+      "descriptionHtml": "<p>AltoStack<br>\nDevops Engineer</p>\n\n<p>About AltoStack</p>\n\n<p>AltoStack is a DevOps and Cloud Transformation Consultancy revolutionising the way<br>\nbusinesses innovate and grow through our technology products and consultancy services<br>\nby providing a much more efficient, experienced and affordable way to operate on the<br>\nCloud and adopt DevOps without the need for internal hires. We deliver Cloud, Automation<br>\nand DevOps solutions and we advocate the strategic adoption of automation as the<br>\nfoundation for prosperity in the digital age.<br>\nHeadquartered in Canary Wharf, London, United Kingdom, AltoStack has successfully<br>\ndelivered Cloud and Automation projects for some of the largest and most prestigious<br>\norganisations in both the public and private sectors across Europe.</p>\n\n<p>DevOps Engineer Role:</p>\n\n<p>You will deliver hands-on, business-oriented strategic and technical consulting to our<br>\nclients for cloud infrastructure and data centre automation solutions.<br>\nThis role will suit an AWS professional with knowledge of Integration patterns looking to<br>\nfurther their skills within AWS and who enjoys working in a client facing role.<br>\nOur Automation Engineers and Architects come from a DevOps background and are<br>\ntechnically adept in configuration management tools, continuous development, Linux<br>\nenvironments and have experience of delivering cloud infrastructure and cloud<br>\nautomation.</p>\n\n<p>Responsibilities:</p>\n\n<p> You will join a project engineering team and focus on adding hands-on technical expertise,<br>\nensuring outcomes meet the highest technical and agile standards.<br>\n We expect our engineers to understand the client&#39;s project aims and to offer professional<br>\nand commercial insight to ensure client satisfaction as well as representing the commercial<br>\ninterests of AltoStack.<br>\n We always expect our engineers to be very self-sufficient when engaged in smaller<br>\nassignments representing AltoStack by themselves, always ensuring customer satisfaction<br>\nthrough high-quality work and outstanding client care.<br>\n Working with AWS application platform developers to ensure high quality continuous build<br>\nautomation and deployment input to class leading application platform solutions.<br>\n Help defining relevant solution deployment architectures</p>\n\n<p> Deploying and managing multiple environments to support rapid, agile development<br>\napproaches including demonstration environments.<br>\n Collaborate and liaise with other customer stakeholders/ end users in the software<br>\ndevelopment lifecycle – PMs, BAs, testing etc<br>\n Provide effective knowledge transfer and upskilling to relevant customer personnel to<br>\nensure an appropriate level of future self-sufficiency</p>\n\n<p>Key Requirements:</p>\n\n<p> Strong knowledge of Linux based systems<br>\n DevOps background/experience<br>\n Experience with configuration management tools such as Puppet, Chef &amp; Ansible<br>\n Expert knowledge of AWS cloud (Certifications highly desirable)<br>\n Expert knowledge of GCP cloud (Certifications highly desirable)<br>\n Hands on experience with Terraform<br>\n Scripting ability (ideally Python or Golang)<br>\n Knowledge of Containers and Container Orchestration such as Docker or Kubernetes<br>\n Experience of Agile / Scrum methodology<br>\n A passion for open source technologies and the open source community<br>\n Demonstrable experience in cloud-automation<br>\n Demonstrate the ability to quickly learn new technologies.<br>\n Demonstrate the ability to solve complex, multi-system problems.<br>\n Have experience in stakeholder management within complex organisations.<br>\n Be comfortable with being responsible for the delivery of significant cloud and automation<br>\nprojects.<br>\n Be willing to work in multiple locations and prepared to travel.<br>\n Be a fast learner, ambitions, and comfortable working in high-pressure environments.<br>\n Exhibit a proven track record of continually looking for ways to improve customer<br>\nsatisfaction.</p>\n\n<p>Benefits</p>\n\n<p> 25 days holiday plus bank holidays<br>\n £1,000 for personal development (trainings &amp; certifications)<br>\n Situated in the innovation hub of Canary Wharf<br>\n Laptop of your choice<br>\n Monthly social events and team offsites<br>\n Generous desk budget<br>\n Free fruit, cookies, tea/coffee throughout the week<br>\n Freedom to explore the latest tools and technologies</p>\n\n<p>Work at a fun, fast-paced Consultancy based in Europe’s largest technology accelerator<br>\nLevel39 (Canary Wharf, London). In addition to awesome views of London, our office offers<br>\nunlimited coffee brewed by a slick Nespresso machine, fresh fruit for breakfast and freshly<br>\nbaked cookies every day at 3pm!</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Microsoft Azure",
+        "Kubernetes",
+        "Terraform",
+        "AWS Certified Developer - Associate"
+      ],
+      "payment": {
+        "salary": "£40k – £60k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/sarah-badawi",
+        "name": "Sarah Badawi",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "631002",
+        "angelListUrl": "https://angel.co/company/altostack/jobs/631002-"
+      }
+    }
+  ]
+}

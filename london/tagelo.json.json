@@ -1,0 +1,92 @@
+{
+  "name": "Tagelo",
+  "avatar": "https://photos.angel.co/startups/i/6803218-08b3df42ae24ce81f1e94037c69f51df-medium_jpg.jpg?buster=1550586158",
+  "slogan": "Tagging Tool for Online Influencers",
+  "description": "Tagelo is a platform and community for online influencers. Our goal is to provide bloggers with the tools to tag and link individual products within photos and videos. Our website and app will be the first steps in building our business.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.Tagelo.com (not currently live)"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Sales and Marketing",
+    "Social Media Marketing",
+    "Influencer Marketing"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/chris-higgins-6",
+      "name": "Chris Higgins",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6803218",
+    "angelListUrl": "https://angel.co/company/tagelo"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Developer For Co-Founder / CTO",
+      "description": "This is a boostrap style startup and so we are looking for part time to begin with but with the capacity to fully dedicate to the role once we gain momentum. The role will be equity based only.\r\n\r\nYou will be a visionary, responsible for designing, developing and deploying a product strategy. You should have experience in building and leading a team, which will be crucial as we grow.\r\n\r\nOur ideal person will be actively seeking a position in an early stage start-up where they can see their work directly impacting the growth and success of the business. They will be excited by the opportunity to take an equity position in a start-up with high growth potential.\r\n\r\nKey skills required\r\n\r\n-Lead all technological aspects within the business\r\n-Experience in building and managing a team.\r\n-Expert in C# .Net Core and Javascript framework, angular or react.\r\n-Build on and improve MVP\r\n-Good understanding of UI/UX\r\n-Prepare the backend of the platform for high growth\r\n-Implement a development roadmap\r\n-Implement security measures to the platform\r\n-Continuously improve the platforms capabilities\r\n-Integration of API’s and building custom plug ins\r\n\r\nPreferable skills\r\n\r\n-3-5 years experience in senior full stack developer role\r\n-Good understanding of influencer marketing\r\n-Excellent understanding of social media\r\n-App Development",
+      "descriptionHtml": "<p>This is a boostrap style startup and so we are looking for part time to begin with but with the capacity to fully dedicate to the role once we gain momentum. The role will be equity based only.</p>\n\n<p>You will be a visionary, responsible for designing, developing and deploying a product strategy. You should have experience in building and leading a team, which will be crucial as we grow.</p>\n\n<p>Our ideal person will be actively seeking a position in an early stage start-up where they can see their work directly impacting the growth and success of the business. They will be excited by the opportunity to take an equity position in a start-up with high growth potential.</p>\n\n<p>Key skills required</p>\n\n<p>-Lead all technological aspects within the business<br>\n-Experience in building and managing a team.<br>\n-Expert in C# .Net Core and Javascript framework, angular or react.<br>\n-Build on and improve MVP<br>\n-Good understanding of UI/UX<br>\n-Prepare the backend of the platform for high growth<br>\n-Implement a development roadmap<br>\n-Implement security measures to the platform<br>\n-Continuously improve the platforms capabilities<br>\n-Integration of API’s and building custom plug ins</p>\n\n<p>Preferable skills</p>\n\n<p>-3-5 years experience in senior full stack developer role<br>\n-Good understanding of influencer marketing<br>\n-Excellent understanding of social media<br>\n-App Development</p>\n",
+      "position": "cofounder",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary",
+        "equity": "15.0% – 25.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/chris-higgins-6",
+        "name": "Chris Higgins",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "507367",
+        "angelListUrl": "https://angel.co/company/tagelo/jobs/507367-"
+      }
+    }
+  ]
+}

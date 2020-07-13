@@ -1,0 +1,92 @@
+{
+  "name": "Flourish",
+  "avatar": "https://photos.angel.co/startups/i/7372354-c39ae0ed656ebbd8d01f7a583dd775a2-medium_jpg.jpg?buster=1576589192",
+  "slogan": "Beautiful, easy data visualization and storytelling",
+  "description": "Explore and explain your data with stunning visualizations and stories. Publish, present or download. No need to code or install software.\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://flourish.studio"
+    },
+    {
+      "type": "blog",
+      "url": "https://flourish.studio/blog"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/f_l_o_u_r_i_s_h"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Data Visualization",
+    "Data"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/anna-powell-smith",
+      "name": "Anna Powell-Smith",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7372354",
+    "angelListUrl": "https://angel.co/company/flourish-6"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Developer",
+      "description": "Do you love modern web technologies? Are you a team player who likes solving problems? Do you want to join one of the UK’s hottest tech start-ups and be part of a talented and friendly team?\r\n\r\nFlourish is an online tool for creating beautiful data graphics, presentations and other interactive content without coding. Launched in 2018, we have grown quickly and are used by some of the world’s largest companies, including EY, Goldman Sachs and Moody’s.\r\n\r\nIn partnership with Google News Lab, we also work with many of the world’s leading news organizations, including the BBC, Sky and Financial Times.\r\n\r\nWe’re looking for a senior developer to join our team, reporting to the head of software development.\r\n\r\n**The role**\r\nYou’ll be working on:\r\n\r\n* Developing new features for Flourish, using modern web technologies\r\n* Maintaining standards for web performance, security and accessibility\r\n* Building automated tests and improving the observability of the codebase\r\n* Mentoring and supporting more junior developers\r\n* Pairing and reviewing code\r\n* Helping improve the way we work and the tools we use.\r\n\r\nThis role is focused on the Flourish back-end platform rather than the data visualization templates, which are developed separately.\r\n\r\n**About you**\r\nYou are a keen developer who enjoys working collaboratively and loves to learn new things. You care deeply about the quality of your work, and are thoughtful about how to improve both what you’re doing and how the team works together. You’re happy to adopt existing conventions of the code base.\r\n\r\nImportantly, you’re excited by Flourish and the opportunity to make it better. You’re a friendly colleague and you work well in a close-knit team.\r\n\r\nWe’re interested in people who have:\r\n\r\n* Experience in back-end development, with knowledge of JavaScript\r\n* A good understanding of the web platform\r\n* Familiarity with working practices such as test-driven development, continuous integration and continuous delivery\r\n* Experience of agile environments and version control\r\n* An enthusiasm for learning and teaching\r\n* A systematic approach to solving problems\r\n* A love of the web and an interest in performance\r\n* Experience in leadership - helping colleagues with career development, mentoring more junior staff members\r\n* The ability to give feedback kindly and receive feedback.\r\n\r\n**About us**\r\n\r\n*Our tech stack:* Some of the technologies we use include Node.js, Express; Postgres, Redis; Handlebars, Sass; AWS; Cypress; GitHub, CircleCI, Sentry. We don’t expect you to have worked with all of these, but any you have are a plus.\r\n\r\n*Our company:* Flourish is a small team combining decades of collective experience in development, data, design, visualization and journalism/publishing. Read more about the team.\r\n\r\n*Our culture:* We’re a friendly and supportive group that values kindness, honesty and fun. We’re open and try new things with enthusiasm. And we’re high-momentum, focused on delivering magical products that our users love. We socialise as a team at least once a month.\r\n\r\n*Our interview process:* We designed our interview process to be rigorous, but friendly and collaborative. We’ll ask you to do some pairing with us, to get a sense for how you communicate, but we don’t do stressful whiteboard coding. We also don’t do lengthy take-home exercises, though depending on the number of applications, we may do a short online pre-screening test.\r\n\r\n*Our approach:* We’re committed to equality and diversity in the tech industry, so we’ll be especially happy to see applications from under-represented backgrounds.\r\n\r\n**Benefits**\r\n* Salary from £60k-75k depending on experience.\r\n* Remote working is welcome (the majority of our development team is remote), though after lockdown lifts, we’d want you to be in London at least every few weeks for our sprint planning and retros.\r\n* ‘20% time’ for developers on Fridays - you can choose what to work on, as long as it’s relevant to the company’s mission.\r\n* Share options in a rapidly growing company.\r\n* Flexible hours, and respect for work/life balance.\r\n* 30 days’ annual holiday.\r\n\r\n**To apply**\r\nSend a CV, and a covering letter explaining why you’re interested in this role and how you meet the description above, to jobs@kiln.digital. Please use the subject line “Senior Developer”. Got questions about the job? Feel free to email us for a chat.\r\n\r\n**Sorry, but we won’t be able to sponsor visas for this role: please do not apply if you do not already have the right to work in the UK. We are not accepting applications from recruitment agencies for this role.**",
+      "descriptionHtml": "<p>Do you love modern web technologies? Are you a team player who likes solving problems? Do you want to join one of the UK’s hottest tech start-ups and be part of a talented and friendly team?</p>\n\n<p>Flourish is an online tool for creating beautiful data graphics, presentations and other interactive content without coding. Launched in 2018, we have grown quickly and are used by some of the world’s largest companies, including EY, Goldman Sachs and Moody’s.</p>\n\n<p>In partnership with Google News Lab, we also work with many of the world’s leading news organizations, including the BBC, Sky and Financial Times.</p>\n\n<p>We’re looking for a senior developer to join our team, reporting to the head of software development.</p>\n\n<p><strong>The role</strong><br>\nYou’ll be working on:</p>\n\n<ul>\n<li>Developing new features for Flourish, using modern web technologies</li>\n<li>Maintaining standards for web performance, security and accessibility</li>\n<li>Building automated tests and improving the observability of the codebase</li>\n<li>Mentoring and supporting more junior developers</li>\n<li>Pairing and reviewing code</li>\n<li>Helping improve the way we work and the tools we use.</li>\n</ul>\n\n<p>This role is focused on the Flourish back-end platform rather than the data visualization templates, which are developed separately.</p>\n\n<p><strong>About you</strong><br>\nYou are a keen developer who enjoys working collaboratively and loves to learn new things. You care deeply about the quality of your work, and are thoughtful about how to improve both what you’re doing and how the team works together. You’re happy to adopt existing conventions of the code base.</p>\n\n<p>Importantly, you’re excited by Flourish and the opportunity to make it better. You’re a friendly colleague and you work well in a close-knit team.</p>\n\n<p>We’re interested in people who have:</p>\n\n<ul>\n<li>Experience in back-end development, with knowledge of JavaScript</li>\n<li>A good understanding of the web platform</li>\n<li>Familiarity with working practices such as test-driven development, continuous integration and continuous delivery</li>\n<li>Experience of agile environments and version control</li>\n<li>An enthusiasm for learning and teaching</li>\n<li>A systematic approach to solving problems</li>\n<li>A love of the web and an interest in performance</li>\n<li>Experience in leadership - helping colleagues with career development, mentoring more junior staff members</li>\n<li>The ability to give feedback kindly and receive feedback.</li>\n</ul>\n\n<p><strong>About us</strong></p>\n\n<p><em>Our tech stack:</em> Some of the technologies we use include Node.js, Express; Postgres, Redis; Handlebars, Sass; AWS; Cypress; GitHub, CircleCI, Sentry. We don’t expect you to have worked with all of these, but any you have are a plus.</p>\n\n<p><em>Our company:</em> Flourish is a small team combining decades of collective experience in development, data, design, visualization and journalism/publishing. Read more about the team.</p>\n\n<p><em>Our culture:</em> We’re a friendly and supportive group that values kindness, honesty and fun. We’re open and try new things with enthusiasm. And we’re high-momentum, focused on delivering magical products that our users love. We socialise as a team at least once a month.</p>\n\n<p><em>Our interview process:</em> We designed our interview process to be rigorous, but friendly and collaborative. We’ll ask you to do some pairing with us, to get a sense for how you communicate, but we don’t do stressful whiteboard coding. We also don’t do lengthy take-home exercises, though depending on the number of applications, we may do a short online pre-screening test.</p>\n\n<p><em>Our approach:</em> We’re committed to equality and diversity in the tech industry, so we’ll be especially happy to see applications from under-represented backgrounds.</p>\n\n<p><strong>Benefits</strong></p>\n\n<ul>\n<li>Salary from £60k-75k depending on experience.</li>\n<li>Remote working is welcome (the majority of our development team is remote), though after lockdown lifts, we’d want you to be in London at least every few weeks for our sprint planning and retros.</li>\n<li>‘20% time’ for developers on Fridays - you can choose what to work on, as long as it’s relevant to the company’s mission.</li>\n<li>Share options in a rapidly growing company.</li>\n<li>Flexible hours, and respect for work/life balance.</li>\n<li>30 days’ annual holiday.</li>\n</ul>\n\n<p><strong>To apply</strong><br>\nSend a CV, and a covering letter explaining why you’re interested in this role and how you meet the description above, to <a href=\"mailto:jobs@kiln.digital\" target=\"_blank\" rel=\"nofollow\">jobs@kiln.digital</a>. Please use the subject line “Senior Developer”. Got questions about the job? Feel free to email us for a chat.</p>\n\n<p><strong>Sorry, but we won’t be able to sponsor visas for this role: please do not apply if you do not already have the right to work in the UK. We are not accepting applications from recruitment agencies for this role.</strong></p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "United Kingdom"
+      ],
+      "skills": [],
+      "payment": {
+        "salary": "£60k – £75k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/anna-powell-smith",
+        "name": "Anna Powell-Smith",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "807526",
+        "angelListUrl": "https://angel.co/company/flourish-6/jobs/807526-"
+      }
+    }
+  ]
+}

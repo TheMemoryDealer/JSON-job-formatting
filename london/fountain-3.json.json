@@ -1,0 +1,101 @@
+{
+  "name": "Fountain",
+  "avatar": "https://photos.angel.co/startups/i/5766328-655762c38d39f3d4f8bc5a66ab605991-medium_jpg.jpg?buster=1526920265",
+  "slogan": "Digital Wealth Advisor",
+  "description": "Fountain is a new bread of wealth management for millennials. It's like having your (very own) wealth advisor in your pocket. \n\nYou can chat with our bot about your investment goals, financial circumstances, and preferences. Our technology recommends investments that suit you, allows you to manage your investments on our app and have a chatbot provide smart advice along the way to ensure you reach your goals.\n\nWe're leveraging the latest in cloud based custody technology, artificial intelligence and thematic investing to provide a truly unique and cost effective wealth management service to a new bread of investors. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.fountain.money"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Fin Tech",
+    "Wealth Management",
+    "Artificial Intelligence",
+    "Investment Management"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/dann-bibas",
+      "name": "Dann Bibas",
+      "avatar": "https://photos.angel.co/users/7895923-medium_jpg?1526921707",
+      "bioHtml": "Founder @ Fountain \nMentor <a href=\"https://angel.co/company/escape-the-city\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Escape the City</span></a> \nFormerly @ Citigroup (Equity derivatives)\nMcGill University, proud alumni. \n\n\n"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/nishil-parekh-1",
+      "name": "Nishil Parekh",
+      "avatar": "https://photos.angel.co/users/7895258-medium_jpg?1526920921",
+      "bioHtml": "Founder @ Fountain where we&#39;re building a Digital Wealth Manager for Millennials. Previously Worked at <a href=\"https://angel.co/company/citigroup\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Citigroup</span></a> as a Strategist + <a href=\"https://angel.co/company/hsbc\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">HSBC</span></a> <a href=\"https://angel.co/company/deutsche-bank\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Deutsche Bank</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5766328",
+    "angelListUrl": "https://angel.co/company/fountain-3"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Developer",
+      "description": "This is an exciting opportunity to really make an impact in shaping the future of wealth management. You’ll be working with the founding team and CTO on Fountain’s mobile app and web development, as well as contributing to UX and UI design strategy.\n\n\nYou’ll be working with the JavaScript based MERN stack, which comprises of Mongo, Express, React and Node. You’ll also have the opportunity to work with the team in developing Fountain’s proprietary A.I. driven triage technology.\n\n\nAs a Founders Factory portfolio company, you’ll also benefit from being in one of Europe’s hottest accelerators and start-up ecosystem.\n\n\nAbout you\n\nWe are looking for someone who with 2-5 years worth of developer experience, a fast learner, and able to adapt to the technologies and working methods that we use. You’ll also be interested in jumping into a career in FinTech and be looking to get exposed to the start-up scene in London.\n\n\nExperience in using JavaScript is essential, and using it as part of a framework e.g. React / Angular. Experience in developing mobile apps in any language for either iOS / Android is also a must. Backend knowledge of Mongo and Express is not essential, but if you have worked with other backend languages and databases before it would be helpful e.g. MySQL, PHP. Knowledge of web languages such as CSS and HTML is also needed for this role.\n\n\nAs we have some exciting A.I. and machine learning projects under development, so experience using Python is essential. Also, some understanding of AI techniques (eg NLP, recommender systems and portfolio optimisation etc) would be highly desired.\n\n\nEssential:\n\nJavaScript\nHTML\nCSS\nReact / React Native\nMobile app development in general\n\nDesired:\n\nPython\nMongoDB\nNode / Express\nGit\nExperience with A.I. and NLP\nExperience in Fintech\nUniversity degree in Computing related field",
+      "descriptionHtml": "<p>This is an exciting opportunity to really make an impact in shaping the future of wealth management. You’ll be working with the founding team and CTO on Fountain’s mobile app and web development, as well as contributing to UX and UI design strategy.</p>\n\n<p>You’ll be working with the JavaScript based MERN stack, which comprises of Mongo, Express, React and Node. You’ll also have the opportunity to work with the team in developing Fountain’s proprietary A.I. driven triage technology.</p>\n\n<p>As a Founders Factory portfolio company, you’ll also benefit from being in one of Europe’s hottest accelerators and start-up ecosystem.</p>\n\n<p>About you</p>\n\n<p>We are looking for someone who with 2-5 years worth of developer experience, a fast learner, and able to adapt to the technologies and working methods that we use. You’ll also be interested in jumping into a career in FinTech and be looking to get exposed to the start-up scene in London.</p>\n\n<p>Experience in using JavaScript is essential, and using it as part of a framework e.g. React / Angular. Experience in developing mobile apps in any language for either iOS / Android is also a must. Backend knowledge of Mongo and Express is not essential, but if you have worked with other backend languages and databases before it would be helpful e.g. MySQL, PHP. Knowledge of web languages such as CSS and HTML is also needed for this role.</p>\n\n<p>As we have some exciting A.I. and machine learning projects under development, so experience using Python is essential. Also, some understanding of AI techniques (eg NLP, recommender systems and portfolio optimisation etc) would be highly desired.</p>\n\n<p>Essential:</p>\n\n<p>JavaScript<br>\nHTML<br>\nCSS<br>\nReact / React Native<br>\nMobile app development in general</p>\n\n<p>Desired:</p>\n\n<p>Python<br>\nMongoDB<br>\nNode / Express<br>\nGit<br>\nExperience with A.I. and NLP<br>\nExperience in Fintech<br>\nUniversity degree in Computing related field</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£28k – £55k",
+        "equity": "0.0% – 2.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/nishil-parekh-1",
+        "name": "Nishil Parekh",
+        "avatar": "https://photos.angel.co/users/7895258-medium_jpg?1526920921"
+      },
+      "refs": {
+        "angelListId": "551906",
+        "angelListUrl": "https://angel.co/company/fountain-3/jobs/551906-"
+      }
+    }
+  ]
+}

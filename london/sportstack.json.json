@@ -1,0 +1,134 @@
+{
+  "name": "SportStack",
+  "avatar": "https://photos.angel.co/startups/i/5736275-c3a7f36aca4eff67314f4d8c829bae17-medium_jpg.jpg?buster=1550314175",
+  "slogan": "The Future of Fantasy Sports",
+  "description": "SportStack is a sports focussed fin-tech company making fantasy sports REAL. We have built and will be shortly launching a global sports exchange enabling anyone to buy and sell shares in professional athletes to speculate on their performance, every game and over an entire season!\n\nFounded by a team of former Goldman Sachs traders and sports betting technologists we believe that for many millions of people it is sports, not stocks, where their true interests lie - that’s why we are building a platform for people to start speculating, trading and investing in them!",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.sportstack.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Gambling",
+    "Sports",
+    "Financial Exchanges",
+    "Fantasy Sports",
+    "Prediction Markets",
+    "Stock Exchanges",
+    "Fin Tech"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Founder & CEO",
+      "role": "Employee",
+      "url": "https://angel.co/u/nick-smith-57",
+      "name": "Nick Smith",
+      "avatar": "https://photos.angel.co/users/7869504-medium_jpg?1550313938",
+      "bioHtml": "Founder &amp; CEO @ SportStack"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5736275",
+    "angelListUrl": "https://angel.co/company/sportstack"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Java Backend Developer (with DevOps)",
+      "description": "About SportStack\n\nSportStack is a sports focussed fin-tech company making fantasy sports REAL. We have built and will be shortly launching a global sports exchange enabling anyone to buy and sell shares in professional athletes to speculate on their performance, every game and over an entire season!\n\nFounded by a team of former Goldman Sachs traders and sports betting technologists we believe that for many millions of people it is sports, not stocks, where their true interests lie - that’s why we are building a platform for people to start speculating, trading and investing in them!\n\nWho we need\n\nWe have a lean and experienced development team, which we are now looking to expand to meet the growing sophistication of the exchange platform and the underlying systems. \n\nWe are currently looking to hire a senior Back-End Java developer with strong knowledge of the Spring framework, Microservices, and Domain Driven Design (DDD), as well as good experience of Google Cloud (or AWS) and DevOps tools such as Jenkins and Docker.\n\nYou will be working alongside other senior developers extending and improving the backend architecture, designing and developing new microservices, as well as being involved in maintaining and improving a low-latency matching engine alongside other core services. In addition, you will leverage your existing DevOps experience to research, design, and implement an improved Continuous Integration/Continuous Deliver CI/CD system for the entire backend architecture.\n\nYou will also be developing API integrations with 3rd party providers, in particular push-model sports data feeds. You will also build and maintain coherent RESTful APIs, which will be consumed by external API clients and the internal GraphQL server (and indirectly by SportStack's React/React-Native frontend applications).\n\nRequired Skills\n\nMinimum 5 years of Back-End Java experience\nStrong knowledge of the Spring framework (ideally Spring Boot)\nGood knowledge of Google Cloud (or AWS)\nExperience working with Microservices architecture\nExperience with DevOps and CI/CD tools (Jenkins, Docker, Kubernetes)\nBasic understanding of networks, security, and system resilience\nKnowledge of messaging queues (e.g. Kafka)\nBuilding/consuming RESTful APIs\nNoSQL databases (e.g. Mongo)\nComfortable in a UNIX-like command line\nA desire to learn and apply best practices in software development\n\nDesired Skills\n\nBasic frontend experience (ideally React)\nGraphQL\nTest Driven Development (TDD)\nExperience working in an Agile environment (e.g. Scrum)\n\nBenefits\n\nCompetitive Salary\nCompany Stock Options\nUnlimited Holiday Policy\nFlexible Working Hours\nCentral London Office\nExperienced Founders \nStrong team culture",
+      "descriptionHtml": "<p>About SportStack</p>\n\n<p>SportStack is a sports focussed fin-tech company making fantasy sports REAL. We have built and will be shortly launching a global sports exchange enabling anyone to buy and sell shares in professional athletes to speculate on their performance, every game and over an entire season!</p>\n\n<p>Founded by a team of former Goldman Sachs traders and sports betting technologists we believe that for many millions of people it is sports, not stocks, where their true interests lie - that’s why we are building a platform for people to start speculating, trading and investing in them!</p>\n\n<p>Who we need</p>\n\n<p>We have a lean and experienced development team, which we are now looking to expand to meet the growing sophistication of the exchange platform and the underlying systems. </p>\n\n<p>We are currently looking to hire a senior Back-End Java developer with strong knowledge of the Spring framework, Microservices, and Domain Driven Design (DDD), as well as good experience of Google Cloud (or AWS) and DevOps tools such as Jenkins and Docker.</p>\n\n<p>You will be working alongside other senior developers extending and improving the backend architecture, designing and developing new microservices, as well as being involved in maintaining and improving a low-latency matching engine alongside other core services. In addition, you will leverage your existing DevOps experience to research, design, and implement an improved Continuous Integration/Continuous Deliver CI/CD system for the entire backend architecture.</p>\n\n<p>You will also be developing API integrations with 3rd party providers, in particular push-model sports data feeds. You will also build and maintain coherent RESTful APIs, which will be consumed by external API clients and the internal GraphQL server (and indirectly by SportStack&#39;s React/React-Native frontend applications).</p>\n\n<p>Required Skills</p>\n\n<p>Minimum 5 years of Back-End Java experience<br>\nStrong knowledge of the Spring framework (ideally Spring Boot)<br>\nGood knowledge of Google Cloud (or AWS)<br>\nExperience working with Microservices architecture<br>\nExperience with DevOps and CI/CD tools (Jenkins, Docker, Kubernetes)<br>\nBasic understanding of networks, security, and system resilience<br>\nKnowledge of messaging queues (e.g. Kafka)<br>\nBuilding/consuming RESTful APIs<br>\nNoSQL databases (e.g. Mongo)<br>\nComfortable in a UNIX-like command line<br>\nA desire to learn and apply best practices in software development</p>\n\n<p>Desired Skills</p>\n\n<p>Basic frontend experience (ideally React)<br>\nGraphQL<br>\nTest Driven Development (TDD)<br>\nExperience working in an Agile environment (e.g. Scrum)</p>\n\n<p>Benefits</p>\n\n<p>Competitive Salary<br>\nCompany Stock Options<br>\nUnlimited Holiday Policy<br>\nFlexible Working Hours<br>\nCentral London Office<br>\nExperienced Founders <br>\nStrong team culture</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "DevOps",
+        "Spring",
+        "Microservices"
+      ],
+      "payment": {
+        "salary": "£70k – £80k",
+        "equity": "0.0% – 0.25%"
+      },
+      "recruiter": {
+        "title": "Founder & CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/nick-smith-57",
+        "name": "Nick Smith",
+        "avatar": "https://photos.angel.co/users/7869504-medium_jpg?1550313938"
+      },
+      "refs": {
+        "angelListId": "618487",
+        "angelListUrl": "https://angel.co/company/sportstack/jobs/618487-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Java Backend Developer",
+      "description": "About SportStack\n\nSportStack is a sports focussed fin-tech company making fantasy sports REAL. We have built and will be shortly launching a global sports exchange enabling anyone to buy and sell shares in professional athletes to speculate on their performance, every game and over an entire season!\n\nFounded by a team of former Goldman Sachs traders and sports betting technologists we believe that for many millions of people it is sports, not stocks, where their true interests lie - that’s why we are building a platform for people to start speculating, trading and investing in them!\n\nWho we need\n\nWe have a lean and experienced development team, which we are now looking to expand to meet the growing sophistication of the exchange platform and the underlying systems. \n\nWe are currently looking to hire an experienced Back-End Java developer with strong knowledge of the Spring framework.\n\nYou will be working alongside other senior developers extending and improving the backend architecture, designing and developing new microservices, as well as being involved in maintaining and improving a low-latency matching engine alongside other core services. \n\nYou will also be developing API integrations with 3rd party providers, in particular push-model sports data feeds. You will also build and maintain coherent RESTful APIs, which will be consumed by external API clients and the internal GraphQL server (and indirectly by SportStack's React/React-Native frontend applications).\n\nRequired Skills\n\nMinimum 3 years of Back-End Java experience\nStrong knowledge of the Spring framework (ideally Spring Boot)\nBuilding/consuming RESTful APIs\nSQL and relational databases (e.g. MySQL)\nComfortable in a UNIX-like command line\nA desire to learn and apply best practices in software development\n\nDesired Skills\n\nNoSQL databases (e.g. Mongo)\nKnowledge of Microservices\nKnowledge of messaging queues (e.g. Kafka)\nGood knowledge of Google Cloud (or AWS)\nExperience with DevOps and CI/CD tools (Jenkins, Docker, Kubernetes)\nBasic understanding of networks, security, and system resilience\nBasic frontend experience (ideally React)\nGraphQL\nTest Driven Development (TDD)\nExperience working in an Agile environment (e.g. Scrum)\n\nBenefits\n\nCompetitive Salary\nCompany Stock Options\nUnlimited Holiday Policy\nFlexible Working Hours\nCentral London Office\nExperienced Founders \nStrong team culture",
+      "descriptionHtml": "<p>About SportStack</p>\n\n<p>SportStack is a sports focussed fin-tech company making fantasy sports REAL. We have built and will be shortly launching a global sports exchange enabling anyone to buy and sell shares in professional athletes to speculate on their performance, every game and over an entire season!</p>\n\n<p>Founded by a team of former Goldman Sachs traders and sports betting technologists we believe that for many millions of people it is sports, not stocks, where their true interests lie - that’s why we are building a platform for people to start speculating, trading and investing in them!</p>\n\n<p>Who we need</p>\n\n<p>We have a lean and experienced development team, which we are now looking to expand to meet the growing sophistication of the exchange platform and the underlying systems. </p>\n\n<p>We are currently looking to hire an experienced Back-End Java developer with strong knowledge of the Spring framework.</p>\n\n<p>You will be working alongside other senior developers extending and improving the backend architecture, designing and developing new microservices, as well as being involved in maintaining and improving a low-latency matching engine alongside other core services. </p>\n\n<p>You will also be developing API integrations with 3rd party providers, in particular push-model sports data feeds. You will also build and maintain coherent RESTful APIs, which will be consumed by external API clients and the internal GraphQL server (and indirectly by SportStack&#39;s React/React-Native frontend applications).</p>\n\n<p>Required Skills</p>\n\n<p>Minimum 3 years of Back-End Java experience<br>\nStrong knowledge of the Spring framework (ideally Spring Boot)<br>\nBuilding/consuming RESTful APIs<br>\nSQL and relational databases (e.g. MySQL)<br>\nComfortable in a UNIX-like command line<br>\nA desire to learn and apply best practices in software development</p>\n\n<p>Desired Skills</p>\n\n<p>NoSQL databases (e.g. Mongo)<br>\nKnowledge of Microservices<br>\nKnowledge of messaging queues (e.g. Kafka)<br>\nGood knowledge of Google Cloud (or AWS)<br>\nExperience with DevOps and CI/CD tools (Jenkins, Docker, Kubernetes)<br>\nBasic understanding of networks, security, and system resilience<br>\nBasic frontend experience (ideally React)<br>\nGraphQL<br>\nTest Driven Development (TDD)<br>\nExperience working in an Agile environment (e.g. Scrum)</p>\n\n<p>Benefits</p>\n\n<p>Competitive Salary<br>\nCompany Stock Options<br>\nUnlimited Holiday Policy<br>\nFlexible Working Hours<br>\nCentral London Office<br>\nExperienced Founders <br>\nStrong team culture</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "Spring"
+      ],
+      "payment": {
+        "salary": "£45k – £65k",
+        "equity": "0.0% – 0.1%"
+      },
+      "recruiter": {
+        "title": "Founder & CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/nick-smith-57",
+        "name": "Nick Smith",
+        "avatar": "https://photos.angel.co/users/7869504-medium_jpg?1550313938"
+      },
+      "refs": {
+        "angelListId": "618490",
+        "angelListUrl": "https://angel.co/company/sportstack/jobs/618490-"
+      }
+    }
+  ]
+}

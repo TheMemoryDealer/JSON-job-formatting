@@ -1,0 +1,358 @@
+{
+  "name": "Faceident",
+  "avatar": "https://photos.angel.co/startups/i/7334302-13c9899ef362e0ec80df9cd9b0bbd88a-medium_jpg.jpg?buster=1574622763",
+  "slogan": "Faceident is a facial recognition tool and a metadata editing platform",
+  "description": "Faceident automatically identifies people, linking their names and other key information to each image. Once tagged, individuals receive the images they are in. Faceident safeguards their privacy by allowing them to prevent material from being published.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.faceident.co"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Berlin",
+    "Greater London",
+    "Mitte"
+  ],
+  "marketTags": [
+    "SaaS",
+    "Photography",
+    "Photo Sharing",
+    "Design",
+    "Photo Editing",
+    "Events",
+    "B2B · SaaS · Mobile · Artificial Intelligence / Machine Learning"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/amar-lakhani",
+      "name": "Amar Lakhani",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Co-Founder @ Faceident, Associate @ EY, with years of experience in Software Engineering and Finance. Accomplished baker and musician."
+    },
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/constantin-scholz",
+      "name": "Constantin Scholz",
+      "avatar": "https://photos.angel.co/users/10296506-medium_jpg?1581784468",
+      "bioHtml": "Co-Founder at Faceident, MEng Electrical Engineering Imperial College London. DJ + Polo Player"
+    },
+    {
+      "title": "Web Designer",
+      "role": "Employee",
+      "url": "https://angel.co/u/oscar-schily",
+      "name": "Oscar Schily",
+      "avatar": "https://photos.angel.co/users/10650918-medium_jpg?1581792922",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [
+    {
+      "category": "work_from_home",
+      "title": "Work from wherever you want"
+    },
+    {
+      "category": "equity",
+      "title": "Equity Options"
+    },
+    {
+      "category": "company_meals",
+      "title": "Founders cook for the team on Fridays"
+    },
+    {
+      "category": "professional_development",
+      "title": "Diverse responsibilities"
+    },
+    {
+      "category": "wellness",
+      "title": "Running and Crossfit Club"
+    },
+    {
+      "category": "wellness",
+      "title": "Yoga on Wednesday"
+    }
+  ],
+  "refs": {
+    "angelListId": "7334302",
+    "angelListUrl": "https://angel.co/company/faceident"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Backend Development Intern",
+      "description": "Backend developers focus on the parts of the application that the user can’t see - like the management and use of database systems, the implementation of machine learning models and accompanying algorithms, and communication with external data sources and APIs. This role will allow you to gain experience with the use of C++ and Swift in a client-facing product, and the changes you make will have a direct impact on user experience.\n\n**Desirable Skills:**\nExperience with C++ and Swift, and an understanding of concurrency and parallelism.\n\n**You can get involved in:**\n* Implementing upcoming features\n* Improving the speed of the application through the use of concurrency and parallelism\n* Improving the scalability and reliability of the code\n* Identifying and fixing potential security flaws\n\n**Specific possible projects:**\n* Designing better ways of importing data into the user’s database\n* Penetration testing of the application and designing more secure methods to protect the user’s data\n* Designing and implementing heuristics to optimise speed\n* Improving the user’s login and subscription management experience \n* Adding support for more image file formats",
+      "descriptionHtml": "<p>Backend developers focus on the parts of the application that the user can’t see - like the management and use of database systems, the implementation of machine learning models and accompanying algorithms, and communication with external data sources and APIs. This role will allow you to gain experience with the use of C++ and Swift in a client-facing product, and the changes you make will have a direct impact on user experience.</p>\n\n<p><strong>Desirable Skills:</strong><br>\nExperience with C++ and Swift, and an understanding of concurrency and parallelism.</p>\n\n<p><strong>You can get involved in:</strong></p>\n\n<ul>\n<li>Implementing upcoming features</li>\n<li>Improving the speed of the application through the use of concurrency and parallelism</li>\n<li>Improving the scalability and reliability of the code</li>\n<li>Identifying and fixing potential security flaws</li>\n</ul>\n\n<p><strong>Specific possible projects:</strong></p>\n\n<ul>\n<li>Designing better ways of importing data into the user’s database</li>\n<li>Penetration testing of the application and designing more secure methods to protect the user’s data</li>\n<li>Designing and implementing heuristics to optimise speed</li>\n<li>Improving the user’s login and subscription management experience </li>\n<li>Adding support for more image file formats</li>\n</ul>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Berlin"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe",
+        "Germany",
+        "United Kingdom",
+        "Berlin"
+      ],
+      "skills": [
+        "Collaboration",
+        "Optimism",
+        "Prioritizing",
+        "Curiosity",
+        "Self Starter / Self Motivated ",
+        "Open Mindedness",
+        "Effective Questioning"
+      ],
+      "payment": {
+        "salary": "€0k – €2k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Founder",
+        "url": "https://angel.co/u/constantin-scholz",
+        "name": "Constantin Scholz",
+        "avatar": "https://photos.angel.co/users/10296506-medium_jpg?1581784468"
+      },
+      "refs": {
+        "angelListId": "728781",
+        "angelListUrl": "https://angel.co/company/faceident/jobs/728781-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "DevOps Intern",
+      "description": "DevOps engineers are vital in ensuring that software can be developed and sent to clients securely and free from errors. Working in DevOps can give you experience with a wide variety of platforms and will allow you to gain valuable skills in working with databases, various scripting and programming languages, server administration tools, deployment tools, among many others.\r\n\r\n**Desirable Skills:**\r\nCompetency in scripting languages and familiarity with shell tools, and experience with backend web development. Some experience with C++ and Swift, or similar languages, would also be useful.\r\n\r\n**You can get involved in:**\r\n* Improving the efficiency of the development workflow\r\n* Improving the security and reliability of the application by automating workflows\r\n* Gaining insights into user habits by improving logging systems\r\n\r\n**Specific possible projects:**\r\n* Design a beta testing preflight platform to distribute a beta version next to the main version\r\n* Improve the app's usage logging and error logging\r\n* Design and implement processes that allow employees to get set up with development on different machines quickly\r\n* Implementing a continuous integration and deployment workflow\r\n* Designing and implementing tests to automate the pre-release testing workflow",
+      "descriptionHtml": "<p>DevOps engineers are vital in ensuring that software can be developed and sent to clients securely and free from errors. Working in DevOps can give you experience with a wide variety of platforms and will allow you to gain valuable skills in working with databases, various scripting and programming languages, server administration tools, deployment tools, among many others.</p>\n\n<p><strong>Desirable Skills:</strong><br>\nCompetency in scripting languages and familiarity with shell tools, and experience with backend web development. Some experience with C++ and Swift, or similar languages, would also be useful.</p>\n\n<p><strong>You can get involved in:</strong></p>\n\n<ul>\n<li>Improving the efficiency of the development workflow</li>\n<li>Improving the security and reliability of the application by automating workflows</li>\n<li>Gaining insights into user habits by improving logging systems</li>\n</ul>\n\n<p><strong>Specific possible projects:</strong></p>\n\n<ul>\n<li>Design a beta testing preflight platform to distribute a beta version next to the main version</li>\n<li>Improve the app&#39;s usage logging and error logging</li>\n<li>Design and implement processes that allow employees to get set up with development on different machines quickly</li>\n<li>Implementing a continuous integration and deployment workflow</li>\n<li>Designing and implementing tests to automate the pre-release testing workflow</li>\n</ul>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "Europe",
+        "London",
+        "Berlin"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe",
+        "Germany",
+        "United Kingdom"
+      ],
+      "skills": [
+        "Collaboration",
+        "Prioritizing",
+        "Boundless Optimism",
+        "Self Starter / Self Motivated ",
+        "Open Mindedness",
+        "Effective Questioning"
+      ],
+      "payment": {
+        "salary": "€0k – €2k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Founder",
+        "url": "https://angel.co/u/constantin-scholz",
+        "name": "Constantin Scholz",
+        "avatar": "https://photos.angel.co/users/10296506-medium_jpg?1581784468"
+      },
+      "refs": {
+        "angelListId": "728786",
+        "angelListUrl": "https://angel.co/company/faceident/jobs/728786-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Dream Summer Software Development Internship",
+      "description": "We’re looking for a driven, initiative-taking software development summer intern to join our team. As part of a growing German and British company, you’ll have the chance to make an impact on the architecture and direction of the product. You’ll be working on designing, producing and maintaining the Mac App, and working closely with the entire team to deliver a scalable, consumer-driven product.\r\n\r\n**Ideally you’ll:**\r\n* Be completing a degree in Computer Science, Engineering or a STEM-related subject\r\n* Have demonstrated knowledge with programming in general, and have a willingness to learn\r\n* Have or want to obtain competency in Swift\r\n* Have skill in C++\r\n* Have experience with Git\r\n\r\n**Other desirable Skills or skills you can acquire:**\r\n* Understanding of machine learning algorithms\r\n* Understanding of backend web development\r\n* Understanding of SQL\r\n* Ability to utilise C++ concurrency features\r\n* Experience with C++ and Swift testing frameworks\r\n* Experience with CI\r\n* Understanding of commonly used design patterns in iOS/Mac App Development, e.g. MVVM\r\n\r\n**What we’ll offer you:**\r\n* Flexible working hours\r\n* Flexible work location\r\n* Flexible duration of internship - 3 to 14 weeks\r\n* The opportunity to make an impact from day one",
+      "descriptionHtml": "<p>We’re looking for a driven, initiative-taking software development summer intern to join our team. As part of a growing German and British company, you’ll have the chance to make an impact on the architecture and direction of the product. You’ll be working on designing, producing and maintaining the Mac App, and working closely with the entire team to deliver a scalable, consumer-driven product.</p>\n\n<p><strong>Ideally you’ll:</strong></p>\n\n<ul>\n<li>Be completing a degree in Computer Science, Engineering or a STEM-related subject</li>\n<li>Have demonstrated knowledge with programming in general, and have a willingness to learn</li>\n<li>Have or want to obtain competency in Swift</li>\n<li>Have skill in C++</li>\n<li>Have experience with Git</li>\n</ul>\n\n<p><strong>Other desirable Skills or skills you can acquire:</strong></p>\n\n<ul>\n<li>Understanding of machine learning algorithms</li>\n<li>Understanding of backend web development</li>\n<li>Understanding of SQL</li>\n<li>Ability to utilise C++ concurrency features</li>\n<li>Experience with C++ and Swift testing frameworks</li>\n<li>Experience with CI</li>\n<li>Understanding of commonly used design patterns in iOS/Mac App Development, e.g. MVVM</li>\n</ul>\n\n<p><strong>What we’ll offer you:</strong></p>\n\n<ul>\n<li>Flexible working hours</li>\n<li>Flexible work location</li>\n<li>Flexible duration of internship - 3 to 14 weeks</li>\n<li>The opportunity to make an impact from day one</li>\n</ul>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "Europe",
+        "London",
+        "Berlin"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Collaboration",
+        "Prioritizing",
+        "Curiosity",
+        "Boundless Optimism",
+        "Self Starter / Self Motivated ",
+        "Open Mindedness",
+        "Effective Questioning"
+      ],
+      "payment": {
+        "salary": "€0k – €2k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Founder",
+        "url": "https://angel.co/u/constantin-scholz",
+        "name": "Constantin Scholz",
+        "avatar": "https://photos.angel.co/users/10296506-medium_jpg?1581784468"
+      },
+      "refs": {
+        "angelListId": "728794",
+        "angelListUrl": "https://angel.co/company/faceident/jobs/728794-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Front-end Development Intern",
+      "description": "Front-end developers focus on implementing user-facing functionality so that users can see and interact with the program. In this role, you’ll have a chance to develop creative skills in improving the design of the program, and technical expertise in implementing these changes.\r\n\r\n**Desirable Skills:**\r\nExperience with Swift or Objective C, or app development in general, and an understanding of commonly used design patterns. An interest and aptitude for design would also be useful.\r\n\r\n**You can get involved in:**\r\n* Working with the team to produce and implement designs for screens\r\n* Finding and implementing features that improve user experience\r\n* Optimising the speed of the front-end of the application\r\n\r\n**Specific possible projects:**\r\n* Implementing redesigns of the product with the support of a team of graphic designers\r\n* Implementing Macbook Pro TouchBar functionalities\r\n* Designing mockups for upcoming projects",
+      "descriptionHtml": "<p>Front-end developers focus on implementing user-facing functionality so that users can see and interact with the program. In this role, you’ll have a chance to develop creative skills in improving the design of the program, and technical expertise in implementing these changes.</p>\n\n<p><strong>Desirable Skills:</strong><br>\nExperience with Swift or Objective C, or app development in general, and an understanding of commonly used design patterns. An interest and aptitude for design would also be useful.</p>\n\n<p><strong>You can get involved in:</strong></p>\n\n<ul>\n<li>Working with the team to produce and implement designs for screens</li>\n<li>Finding and implementing features that improve user experience</li>\n<li>Optimising the speed of the front-end of the application</li>\n</ul>\n\n<p><strong>Specific possible projects:</strong></p>\n\n<ul>\n<li>Implementing redesigns of the product with the support of a team of graphic designers</li>\n<li>Implementing Macbook Pro TouchBar functionalities</li>\n<li>Designing mockups for upcoming projects</li>\n</ul>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "Europe",
+        "London",
+        "Berlin"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe",
+        "Germany",
+        "United Kingdom"
+      ],
+      "skills": [
+        "Collaboration",
+        "Optimism",
+        "Prioritizing",
+        "Curiosity",
+        "Self Starter / Self Motivated ",
+        "Open Mindedness",
+        "Effective Questioning"
+      ],
+      "payment": {
+        "salary": "€0k – €2k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Founder",
+        "url": "https://angel.co/u/constantin-scholz",
+        "name": "Constantin Scholz",
+        "avatar": "https://photos.angel.co/users/10296506-medium_jpg?1581784468"
+      },
+      "refs": {
+        "angelListId": "728783",
+        "angelListUrl": "https://angel.co/company/faceident/jobs/728783-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Machine Learning Intern",
+      "description": "Improvements in the machine learning algorithms directly produce a significant improvement in the user experience of the product. In this role, you’ll have the opportunity to research and implement techniques that can be used to improve the accuracy and speed of facial detection and recognition in the software.\r\n\r\n**Desirable Skills:**\r\nExperience with C++ and an understanding of the theoretical foundations behind common machine learning approaches.\r\n\r\n**You can get involved in:**\r\n* Investigating a set of optimal parameters for our machine learning models\r\n* Researching, devising and implementing heuristics to improve performance\r\n* Analysing the performance of the algorithms to identify bottlenecks and potential improvements\r\n\r\n**Specific possible projects:**\r\n* Finding and testing the most optimal values for facial recognition.\r\n* Implementing algorithms or heuristics to improve performance with sub-optimal inputs\r\n* Improving the speed of the algorithms used",
+      "descriptionHtml": "<p>Improvements in the machine learning algorithms directly produce a significant improvement in the user experience of the product. In this role, you’ll have the opportunity to research and implement techniques that can be used to improve the accuracy and speed of facial detection and recognition in the software.</p>\n\n<p><strong>Desirable Skills:</strong><br>\nExperience with C++ and an understanding of the theoretical foundations behind common machine learning approaches.</p>\n\n<p><strong>You can get involved in:</strong></p>\n\n<ul>\n<li>Investigating a set of optimal parameters for our machine learning models</li>\n<li>Researching, devising and implementing heuristics to improve performance</li>\n<li>Analysing the performance of the algorithms to identify bottlenecks and potential improvements</li>\n</ul>\n\n<p><strong>Specific possible projects:</strong></p>\n\n<ul>\n<li>Finding and testing the most optimal values for facial recognition.</li>\n<li>Implementing algorithms or heuristics to improve performance with sub-optimal inputs</li>\n<li>Improving the speed of the algorithms used</li>\n</ul>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "Europe",
+        "London",
+        "Berlin"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe",
+        "Germany",
+        "United Kingdom"
+      ],
+      "skills": [
+        "Collaboration",
+        "Optimism",
+        "Prioritizing",
+        "Curiosity",
+        "Self Starter / Self Motivated ",
+        "Open Mindedness",
+        "Effective Questioning"
+      ],
+      "payment": {
+        "salary": "€0k – €2k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Founder",
+        "url": "https://angel.co/u/constantin-scholz",
+        "name": "Constantin Scholz",
+        "avatar": "https://photos.angel.co/users/10296506-medium_jpg?1581784468"
+      },
+      "refs": {
+        "angelListId": "728790",
+        "angelListUrl": "https://angel.co/company/faceident/jobs/728790-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Online Internship for Students (COVID-19)",
+      "description": "We are offering a summer online intership for London University students #stayhome #flattenthecurve #COVID-19\r\n\r\nOur Marketing interns focus on building and maintaining brand reputation, coordinating an organised marketing strategy, and ensuring that content is well presented. Marketers are an integral part of the team; they develop and implement growth strategies and produce web content, advertisements, publications and sales material. In this role, you will have the chance to explore and develop your creativity and strategic mindset by communicating Faceident's mission to the world and helping us to achieve a greater market share and revenue growth.\r\n\r\n**Ideally you'll have:**\r\n* Experience with content writing, creating marketing strategies, and performing market research\r\n* Strong writing and editing skills\r\n* A degree in Communication, Arts and Sciences, Marketing, Management, PR and/or similar. \r\n\r\n**You can get involved in:**\r\n* Developing Faceident's marketing strategy\r\n* Launch campaings\r\n* Support with hiring posts\r\n* Support us with investor material and information\r\n* Performing market research - identify marketing channels with highest potential\r\n* Creating content for the website, articles, online and print advertisement, event stands and social media\r\n* SEO\r\n\r\n**Specific possible Projects:**\r\n* Develop a press kit\r\n* Develop a marketing strategy to grow early adopter customer base\r\n* Develop referral program strategy\r\n* Target media channels to report about Faceident\r\n* Define and measure clear marketing goals and KPI's for the marketing team",
+      "descriptionHtml": "<p>We are offering a summer online intership for London University students #stayhome #flattenthecurve #COVID-19</p>\n\n<p>Our Marketing interns focus on building and maintaining brand reputation, coordinating an organised marketing strategy, and ensuring that content is well presented. Marketers are an integral part of the team; they develop and implement growth strategies and produce web content, advertisements, publications and sales material. In this role, you will have the chance to explore and develop your creativity and strategic mindset by communicating Faceident&#39;s mission to the world and helping us to achieve a greater market share and revenue growth.</p>\n\n<p><strong>Ideally you&#39;ll have:</strong></p>\n\n<ul>\n<li>Experience with content writing, creating marketing strategies, and performing market research</li>\n<li>Strong writing and editing skills</li>\n<li>A degree in Communication, Arts and Sciences, Marketing, Management, PR and/or similar. </li>\n</ul>\n\n<p><strong>You can get involved in:</strong></p>\n\n<ul>\n<li>Developing Faceident&#39;s marketing strategy</li>\n<li>Launch campaings</li>\n<li>Support with hiring posts</li>\n<li>Support us with investor material and information</li>\n<li>Performing market research - identify marketing channels with highest potential</li>\n<li>Creating content for the website, articles, online and print advertisement, event stands and social media</li>\n<li>SEO</li>\n</ul>\n\n<p><strong>Specific possible Projects:</strong></p>\n\n<ul>\n<li>Develop a press kit</li>\n<li>Develop a marketing strategy to grow early adopter customer base</li>\n<li>Develop referral program strategy</li>\n<li>Target media channels to report about Faceident</li>\n<li>Define and measure clear marketing goals and KPI&#39;s for the marketing team</li>\n</ul>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "United Kingdom"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe"
+      ],
+      "skills": [],
+      "payment": {
+        "salary": "No salary",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Founder",
+        "url": "https://angel.co/u/constantin-scholz",
+        "name": "Constantin Scholz",
+        "avatar": "https://photos.angel.co/users/10296506-medium_jpg?1581784468"
+      },
+      "refs": {
+        "angelListId": "763017",
+        "angelListUrl": "https://angel.co/company/faceident/jobs/763017-"
+      }
+    }
+  ]
+}

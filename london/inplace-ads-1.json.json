@@ -1,0 +1,62 @@
+{
+  "name": "Inplace Tech",
+  "avatar": "https://photos.angel.co/startups/i/7391961-1702a2b18f470139961441e6f176029c-medium_jpg.jpg?buster=1577984611",
+  "slogan": "Awesome in-game advertising",
+  "description": "A new advertising format for mobile games, that is better for the users, advertisers and mobile publishers.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://inplace.tech"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile Advertising",
+    "Mobile Games",
+    "iOS",
+    "Android"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/nikos-ioannou-4",
+      "name": "Nikos Ioannou",
+      "avatar": "https://photos.angel.co/users/10212261-medium_jpg?1572916684",
+      "bioHtml": "Founded Inplace Tech in 2019, after 11 years as a SWE in Google. Focused on mobile games.\n&quot;In God we trust, everyone else please bring data&quot;"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7391961",
+    "angelListUrl": "https://angel.co/company/inplace-ads-1"
+  },
+  "jobs": []
+}

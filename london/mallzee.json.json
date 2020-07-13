@@ -1,0 +1,295 @@
+{
+  "name": "Mallzee",
+  "avatar": "https://photos.angel.co/startups/i/92216-f507cf79eb1ed7ccaa0a6cdc97a3528f-medium_jpg.jpg?buster=1461080558",
+  "slogan": "Consumer app powering actionable insights for brands and retailers ",
+  "description": "Mallzee is the UK’s leading multi-retailer fashion shopping app, and the original ‘Tinder for Fashion’. The app helps people find, compare, save and buy clothes quickly and easily from hundreds of high street retailers. This approach now sees tens of millions of products rated every month. \n \nBased on this success in early 2017 the company launched a series of B2B insight products; Product Intelligence - helps retailers better understand the real-time performance of their existing product ranges to make informed merchandising, marketing and stocking decisions. Product Future enables retailers to predict future best and worst sellers prior to ordering stock, helping them significantly improve profitability. \n \n We’ve picked up a range of awards from leading tech publications, been featured in press articles around the world and seen Business Insider select us as the 3rd hottest startup in Scotland. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.mallzee.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/Mallzee"
+    },
+    {
+      "type": "facebook",
+      "url": "http://www.facebook.com/Mallzee"
+    },
+    {
+      "type": "linkedIn",
+      "url": "http://www.linkedin.com/company/mallzee"
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "Edinburgh",
+    "London"
+  ],
+  "marketTags": [
+    "E-Commerce",
+    "Fashion Tech",
+    "Big Data",
+    "Analytics"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 5074000,
+    "rounds": [
+      {
+        "type": "Series A",
+        "closedAt": 1437523200,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1400716800,
+        "valuation": null
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1364860800,
+        "valuation": null
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/callum-stuart",
+      "name": "Callum Stuart",
+      "avatar": "https://photos.angel.co/users/204618-medium_jpg?1463204920",
+      "bioHtml": "COO <a href=\"https://angel.co/company/mallzee\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Mallzee</span></a>. Co-Founder <a href=\"https://angel.co/company/storehr\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">StoreHR</span></a>. Comp Sci at <a href=\"https://angel.co/heriot-watt-university\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Heriot-Watt University</span></a>. Technical Manager Bloxx. Worked <a href=\"https://angel.co/company/motorola\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Motorola</span></a> in mobile research."
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/jamie-sutherland",
+      "name": "Jamie Sutherland",
+      "avatar": "https://photos.angel.co/users/204766-medium_jpg?1405562878",
+      "bioHtml": "CTO @ Mallzee - Developer "
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/callyrussell",
+      "name": "Cally Russell",
+      "avatar": "https://photos.angel.co/users/128957-medium_jpg?1412355497",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/mallzee\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Mallzee</span></a> • Fundraiser, sales guy and occasional marketer! Worked at <a href=\"https://angel.co/company/interpublic\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Interpublic</span></a> Forbes #30under30 2016 "
+    },
+    {
+      "title": "Co-Founder & COO",
+      "role": "Employee",
+      "url": "https://angel.co/u/callum-stuart",
+      "name": "Callum Stuart",
+      "avatar": "https://photos.angel.co/users/204618-medium_jpg?1463204920",
+      "bioHtml": "COO <a href=\"https://angel.co/company/mallzee\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Mallzee</span></a>. Co-Founder <a href=\"https://angel.co/company/storehr\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">StoreHR</span></a>. Comp Sci at <a href=\"https://angel.co/heriot-watt-university\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Heriot-Watt University</span></a>. Technical Manager Bloxx. Worked <a href=\"https://angel.co/company/motorola\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Motorola</span></a> in mobile research."
+    },
+    {
+      "title": "Marketing Manager ",
+      "role": "Employee",
+      "url": "https://angel.co/u/rachelle-millar",
+      "name": "Rachelle Millar",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "CTO",
+      "role": "Employee",
+      "url": "https://angel.co/u/jamie-sutherland",
+      "name": "Jamie Sutherland",
+      "avatar": "https://photos.angel.co/users/204766-medium_jpg?1405562878",
+      "bioHtml": "CTO @ Mallzee - Developer "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "92216",
+    "angelListUrl": "https://angel.co/company/mallzee"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Data Analyst",
+      "description": "Mallzee is dedicated to making the best user experience a reality for consumers whilst at the same time harnessing the unique data generated to revolutionise the retail industry. As a Data Analyst, you will be working with multiple types of data generated within the organisation, from user generated event data from our user database to marketing campaign information, to sales data. Your mission will be to constantly improve data quality with measurements and statistical analysis. You will have a thorough understanding of data modelling and an eye for feature engineering and validation.\n\nYou will be working to revolutionise how retail operates by understanding the effects of this data on user behaviour and the retail industry as a whole and applying this learning to the products Mallzee produces.\n\nWe are specifically looking for someone that is a strong communicator to complement our team with a deep knowledge of statistical techniques and modelling frameworks.\n\nWhat are we looking for?\n\nTechnical qualities\n- A numerate degree: Statistics, Mathematics, Physics, Computer Science, or equivalent\n- Experience dealing with large data sets and the challenges they provide\n- Strong knowledge of Statistics\n- Experience of statistical testing of experiments\n- Attaching errors to metrics, validating relevance of results\n- Modelling dependencies and analysing multivariate datasets\n- Working knowledge of Machine Learning techniques\n- Ability to understand and run regression analyses, classification tasks, clustering techniques\n- General Python proficiency\n- Solid experience with the PyData stack: Scipy, Pandas, Jupyter\n- Experienced in SQL\n- A passion for data science and its impact/presence in the industrial world\n\nAdvantageous qualities\n- NLP/Computer Vision – General knowledge/quick grasp of unstructured data techniques for text and images\n- Coding abilities and general tech\n- Ability to quickly grasp other languages\n- Knowledge of noSQL databases\n- Github savvy, quick to learn tools and methodologies\n\nPersonal qualities\n- Team player. Cooperation is key as we are a very close team\n- Fast learner, not afraid of not knowing things and be comfortable with saying so\n- Eye for quality and attention to detail\n- Organised. Documenting work with the whole team\n\nWhat do we provide?\n- Competitive salary\n- Team breakfast every Monday\n- Yearly team retreat\n- Training budget\n- Central and well kitted out office\n- Fizz Fridays\n- Continual development and exposure to multiple parts of a fast growing tech company\n\nPlease send your CV including a brief introduction to yourself, a link to relevant projects you have worked on and a bit about why you want to work with us :)\n\nNo recruiters.",
+      "descriptionHtml": "<p>Mallzee is dedicated to making the best user experience a reality for consumers whilst at the same time harnessing the unique data generated to revolutionise the retail industry. As a Data Analyst, you will be working with multiple types of data generated within the organisation, from user generated event data from our user database to marketing campaign information, to sales data. Your mission will be to constantly improve data quality with measurements and statistical analysis. You will have a thorough understanding of data modelling and an eye for feature engineering and validation.</p>\n\n<p>You will be working to revolutionise how retail operates by understanding the effects of this data on user behaviour and the retail industry as a whole and applying this learning to the products Mallzee produces.</p>\n\n<p>We are specifically looking for someone that is a strong communicator to complement our team with a deep knowledge of statistical techniques and modelling frameworks.</p>\n\n<p>What are we looking for?</p>\n\n<p>Technical qualities</p>\n\n<ul>\n<li>A numerate degree: Statistics, Mathematics, Physics, Computer Science, or equivalent</li>\n<li>Experience dealing with large data sets and the challenges they provide</li>\n<li>Strong knowledge of Statistics</li>\n<li>Experience of statistical testing of experiments</li>\n<li>Attaching errors to metrics, validating relevance of results</li>\n<li>Modelling dependencies and analysing multivariate datasets</li>\n<li>Working knowledge of Machine Learning techniques</li>\n<li>Ability to understand and run regression analyses, classification tasks, clustering techniques</li>\n<li>General Python proficiency</li>\n<li>Solid experience with the PyData stack: Scipy, Pandas, Jupyter</li>\n<li>Experienced in SQL</li>\n<li>A passion for data science and its impact/presence in the industrial world</li>\n</ul>\n\n<p>Advantageous qualities</p>\n\n<ul>\n<li>NLP/Computer Vision – General knowledge/quick grasp of unstructured data techniques for text and images</li>\n<li>Coding abilities and general tech</li>\n<li>Ability to quickly grasp other languages</li>\n<li>Knowledge of noSQL databases</li>\n<li>Github savvy, quick to learn tools and methodologies</li>\n</ul>\n\n<p>Personal qualities</p>\n\n<ul>\n<li>Team player. Cooperation is key as we are a very close team</li>\n<li>Fast learner, not afraid of not knowing things and be comfortable with saying so</li>\n<li>Eye for quality and attention to detail</li>\n<li>Organised. Documenting work with the whole team</li>\n</ul>\n\n<p>What do we provide?</p>\n\n<ul>\n<li>Competitive salary</li>\n<li>Team breakfast every Monday</li>\n<li>Yearly team retreat</li>\n<li>Training budget</li>\n<li>Central and well kitted out office</li>\n<li>Fizz Fridays</li>\n<li>Continual development and exposure to multiple parts of a fast growing tech company</li>\n</ul>\n\n<p>Please send your CV including a brief introduction to yourself, a link to relevant projects you have worked on and a bit about why you want to work with us :)</p>\n\n<p>No recruiters.</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Edinburgh",
+        "Edinburgh"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "SQL",
+        "Statistics",
+        "Algorithms & Data Structures"
+      ],
+      "payment": {
+        "salary": "£1k – £2k",
+        "equity": "0.0% – 0.1%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/callyrussell",
+        "name": "Cally Russell",
+        "avatar": "https://photos.angel.co/users/128957-medium_jpg?1412355497"
+      },
+      "refs": {
+        "angelListId": "248913",
+        "angelListUrl": "https://angel.co/company/mallzee/jobs/248913-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Digital Growth Manager",
+      "description": "The Role: Digital Growth Manager\n\nAs a Digital Growth Manager you’ll be responsible for delivering strategic growth results - against targets for usage, user types and campaign delivery speed. Our marketing has traditionally been a mix of content, community building, product innovation and paid marketing activity, but we are keen on innovation, new ideas and creative campaigns that help us achieve our ambitious goals. We’re strong believers that you should always be innovating so nothing is off limits!\n\nYou’ll have day-to-day management of a marketing team of 3, and you will report directly to Cally, our CEO.\n\nMallzee works with objectives and key results across the business, which means that you’ll often be working with people from other teams to focus on improving a specific part of our business.\n\nThis is a role all about growth, your own personal and also growing our user base into the millions around the world, all whilst generating the data that truly changes how the retail world operates.\n\nNo two days will be the same, but you’ll always be focused on how to improve performance, communicate with our current and potential users and deliver against ambitious targets that drive real benefit for the business.\n\nFor a keen and ambitious individial this is the ideal opportunity to make a mark on the retail landscape, both from a consumer and retailer perspective - in an environment that will support your growth. \n\nRequirements\nStrong analytical skills (Localytics/Braze/Google Analytics)\nCreative approach to marketing that focuses on the end result\nExperience of building persona and user driven marketing campaigns\nStrong experience of Facebook/Google/Apple ad platforms (Acquisition/Retention)\nPrevious exposure to email marketing\nExperience of marketing a digital product direct to consumers\nAbility to build an engaged community online\nTest driven approach to new techniques\nExperience in working with a technical team to implement new features and marketing improvements\nRequired Experience\n\nMinimum 3 years in Digital Marketing\nPrevious management experience\nBackground in marketing mobile apps is a major plus\nPersonal Qualities\n\nTeam player: as a small company we expect everyone to work closely together\nStrong leadership skills: with a team of 3 you’ll be expected to develop your colleagues and help them deliver our ambitious goals\nAlways curious: you’ll always be wanting to try new concepts and marketing ideas\nMission driven: you’ll have a strong focus on the end goal and on delivering the results to get there\nInterview Process\n\nInitial CV and Phone Screen\nIn person interview\nCreative and Analytical Marketing Task\nTeam Interview\nApplication closing date - 22nd June",
+      "descriptionHtml": "<p>The Role: Digital Growth Manager</p>\n\n<p>As a Digital Growth Manager you’ll be responsible for delivering strategic growth results - against targets for usage, user types and campaign delivery speed. Our marketing has traditionally been a mix of content, community building, product innovation and paid marketing activity, but we are keen on innovation, new ideas and creative campaigns that help us achieve our ambitious goals. We’re strong believers that you should always be innovating so nothing is off limits!</p>\n\n<p>You’ll have day-to-day management of a marketing team of 3, and you will report directly to Cally, our CEO.</p>\n\n<p>Mallzee works with objectives and key results across the business, which means that you’ll often be working with people from other teams to focus on improving a specific part of our business.</p>\n\n<p>This is a role all about growth, your own personal and also growing our user base into the millions around the world, all whilst generating the data that truly changes how the retail world operates.</p>\n\n<p>No two days will be the same, but you’ll always be focused on how to improve performance, communicate with our current and potential users and deliver against ambitious targets that drive real benefit for the business.</p>\n\n<p>For a keen and ambitious individial this is the ideal opportunity to make a mark on the retail landscape, both from a consumer and retailer perspective - in an environment that will support your growth. </p>\n\n<p>Requirements<br>\nStrong analytical skills (Localytics/Braze/Google Analytics)<br>\nCreative approach to marketing that focuses on the end result<br>\nExperience of building persona and user driven marketing campaigns<br>\nStrong experience of Facebook/Google/Apple ad platforms (Acquisition/Retention)<br>\nPrevious exposure to email marketing<br>\nExperience of marketing a digital product direct to consumers<br>\nAbility to build an engaged community online<br>\nTest driven approach to new techniques<br>\nExperience in working with a technical team to implement new features and marketing improvements<br>\nRequired Experience</p>\n\n<p>Minimum 3 years in Digital Marketing<br>\nPrevious management experience<br>\nBackground in marketing mobile apps is a major plus<br>\nPersonal Qualities</p>\n\n<p>Team player: as a small company we expect everyone to work closely together<br>\nStrong leadership skills: with a team of 3 you’ll be expected to develop your colleagues and help them deliver our ambitious goals<br>\nAlways curious: you’ll always be wanting to try new concepts and marketing ideas<br>\nMission driven: you’ll have a strong focus on the end goal and on delivering the results to get there<br>\nInterview Process</p>\n\n<p>Initial CV and Phone Screen<br>\nIn person interview<br>\nCreative and Analytical Marketing Task<br>\nTeam Interview<br>\nApplication closing date - 22nd June</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "Edinburgh",
+        "Glasgow"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Product Marketing",
+        "Mobile Marketing",
+        "Email Marketing",
+        "Digital Marketing",
+        "Paid Social Marketing",
+        "user acquisition, engagement, and retention"
+      ],
+      "payment": {
+        "salary": "$1k – $2k"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/callyrussell",
+        "name": "Cally Russell",
+        "avatar": "https://photos.angel.co/users/128957-medium_jpg?1412355497"
+      },
+      "refs": {
+        "angelListId": "374663",
+        "angelListUrl": "https://angel.co/company/mallzee/jobs/374663-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "Graphic/UI Designer",
+      "description": "The Role: Graphic / UI Designer at Mallzee\nThe product team sits at the heart of development at Mallzee. We work hard to make sure our revolutionary mobile shopping apps solve real problems for our users, and that they look and feel great. As our new graphic designer you will join an established team of app, web and back-end data developers, data scientists and product managers, and you’ll work closely with our UX designer to make our mobile and web products beautiful, delightful, intuitive and consistent.\n\n\nWhat you will be working on\nAs our in-house graphic designer, you will be responsible for making the Mallzee apps and websites pixel perfect and enjoyable to interact with. You can design with a strong visual hierarchy and incorporate subtle animations that reinforce the user experience. You will maintain, develop and enforce our brand identity, and make sure all our materials - digital and print - are recognisably Mallzee. Together with our UX and development team, you will work on high-fidelity prototypes to put our vision into production. You’re willing to go against the norm to create experiences that change the way people shop forever. You’ll also work with the marketing team to craft targeted campaigns that will be seen by millions, and ensure that our sales team have great collateral available at all times.\n\nYou are:\n- An experienced graphic designer with a degree and proven track record working with digital and mobile app designs\n- Able to demonstrate a strong understanding of device and platform design guidelines\n- Great at translating design concepts and wireframes into high-fidelity prototypes for our developers to implement\n- Creative and innovative, constantly finding new ways to delight our users with designs and animation\n- Exceptional in your attention to detail\n- A self-starter who shows initiative and takes ownership\n- Good at taking feedback, critiquing, discussing and improving your own work\n- Experienced with concepts of branding and brand management\n- Digitally curious and staying up-to-date with trends and industry changes\n- Focused on creating unique and enjoyable experiences for the end user\n- A wizard at tools like Adobe Creative Cloud, Sketch, InVision and Zeplin\n\nWe offer:\n- A chance to make a real difference to millions of users\n- A great team environment, with talented colleagues working on the latest tech\n- A competitive salary, based on experience and potential\n- A shiny new Mac with the software you need to work\n- Access to staff share options pool\n- Show & Tell Fridays with drinks & snacks\n- Free team lunch every month\n- A yearly retreat with the whole company\n- A generous training budget and personal development\n- Unlimited tea, or coffee from our top-end coffee machine plus lots and lots of cake\n\n\nTo come join the team at Mallzee, please send us your portfolio with previous work. We’d love to see examples where you’ve made a significant impact on users and business - ideally within e-commerce and B2C, but if you have a different background and think you can make a difference, do tell us!\n\nSend us your CV, portfolio and an introduction to let us know why you want to work at Mallzee and why you are the right person to take us to the next level of our journey. We look forward to meeting you!",
+      "descriptionHtml": "<p>The Role: Graphic / UI Designer at Mallzee<br>\nThe product team sits at the heart of development at Mallzee. We work hard to make sure our revolutionary mobile shopping apps solve real problems for our users, and that they look and feel great. As our new graphic designer you will join an established team of app, web and back-end data developers, data scientists and product managers, and you’ll work closely with our UX designer to make our mobile and web products beautiful, delightful, intuitive and consistent.</p>\n\n<p>What you will be working on<br>\nAs our in-house graphic designer, you will be responsible for making the Mallzee apps and websites pixel perfect and enjoyable to interact with. You can design with a strong visual hierarchy and incorporate subtle animations that reinforce the user experience. You will maintain, develop and enforce our brand identity, and make sure all our materials - digital and print - are recognisably Mallzee. Together with our UX and development team, you will work on high-fidelity prototypes to put our vision into production. You’re willing to go against the norm to create experiences that change the way people shop forever. You’ll also work with the marketing team to craft targeted campaigns that will be seen by millions, and ensure that our sales team have great collateral available at all times.</p>\n\n<p>You are:</p>\n\n<ul>\n<li>An experienced graphic designer with a degree and proven track record working with digital and mobile app designs</li>\n<li>Able to demonstrate a strong understanding of device and platform design guidelines</li>\n<li>Great at translating design concepts and wireframes into high-fidelity prototypes for our developers to implement</li>\n<li>Creative and innovative, constantly finding new ways to delight our users with designs and animation</li>\n<li>Exceptional in your attention to detail</li>\n<li>A self-starter who shows initiative and takes ownership</li>\n<li>Good at taking feedback, critiquing, discussing and improving your own work</li>\n<li>Experienced with concepts of branding and brand management</li>\n<li>Digitally curious and staying up-to-date with trends and industry changes</li>\n<li>Focused on creating unique and enjoyable experiences for the end user</li>\n<li>A wizard at tools like Adobe Creative Cloud, Sketch, InVision and Zeplin</li>\n</ul>\n\n<p>We offer:</p>\n\n<ul>\n<li>A chance to make a real difference to millions of users</li>\n<li>A great team environment, with talented colleagues working on the latest tech</li>\n<li>A competitive salary, based on experience and potential</li>\n<li>A shiny new Mac with the software you need to work</li>\n<li>Access to staff share options pool</li>\n<li>Show &amp; Tell Fridays with drinks &amp; snacks</li>\n<li>Free team lunch every month</li>\n<li>A yearly retreat with the whole company</li>\n<li>A generous training budget and personal development</li>\n<li>Unlimited tea, or coffee from our top-end coffee machine plus lots and lots of cake</li>\n</ul>\n\n<p>To come join the team at Mallzee, please send us your portfolio with previous work. We’d love to see examples where you’ve made a significant impact on users and business - ideally within e-commerce and B2C, but if you have a different background and think you can make a difference, do tell us!</p>\n\n<p>Send us your CV, portfolio and an introduction to let us know why you want to work at Mallzee and why you are the right person to take us to the next level of our journey. We look forward to meeting you!</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Scotland",
+        "Edinburgh"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Graphic Design",
+        "UI/UX Design",
+        "Adobe",
+        "Sketch"
+      ],
+      "payment": {
+        "salary": "£1k – £2k"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/callyrussell",
+        "name": "Cally Russell",
+        "avatar": "https://photos.angel.co/users/128957-medium_jpg?1412355497"
+      },
+      "refs": {
+        "angelListId": "357658",
+        "angelListUrl": "https://angel.co/company/mallzee/jobs/357658-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "Who are we? \n\nMallzee is the UK’s leading multi-retailer fashion shopping app, and the original ‘Tinder for Fashion’. The app helps people find, compare, save and buy clothes quickly and easily from hundreds of high street retailers. This approach now sees tens of millions of products rated every month. \n\nBased on this success in early 2017 the company launched a series of B2B insight products; Product Intelligence - helps retailers better understand the real-time performance of their existing product ranges to make informed merchandising, marketing and stocking decisions. Product Future enables retailers to predict future best and worst sellers prior to ordering stock, helping them significantly improve profitability. \n\nFounded in Edinburgh in 2013 Mallzee has raised 4 rounds of investment and grown to a team of 23 based at our city centre offices. We’ve picked up a range of awards from leading tech publications, been featured in press articles around the world and seen Business Insider select us as one of the hottest startups in Scotland. \n\nWhat’s our vision? \n\nOur vision is two-fold; our award winning personalised shopping app is already recognised as market leading and helps hundreds of thousands of consumers find fantastic clothes quickly. Alongside this we’re now working with industry leading retailers to help them improve their marketing, merchandising and buying functions using the tens of millions of product ratings generated every month. \n\nWe now help brands and retailers of all sizes improve their business and over time Mallzee will change the apparel industry by moving brands and retailers past gut feel decisions to focus on using data to make decisions. \n\nWe do this with a forward thinking, fun loving and collaborative environment where all voices are heard. Across the company, our focus is on building a global tech business that everyone is proud to work for and that changes an industry that desperately needs help.\n\nThe Role\n\nAs a Software Engineer (Data Focus), you will be working with multiple types of data generated within the organisation, from user generated event data, to marketing campaign information, to sales data. \n\nYour mission will be to constantly improve data quality, availability, and usability across the organisation. On a day to day basis you will be working with our data team to collect, organise, and document our incoming and generated data. \n\nIt will be your responsibility to develop quality, reliable solutions for collecting data and then implementing solutions to analyse and provide access to the insight this data generates, both internally and for our award winning retail data products.\n\nIn this role, you will be working daily with our CTO, backend developers and data science team. Data is the heartbeat of our organisation so you will often find yourself involved in conversations impacting the whole company. \n\nWhat are we looking for?\n\nTechnical qualities\n\n- Working knowledge of NodeJS \n- Experience with SQL and NoSQL technologies \n- Understanding of data streaming technologies \n- Proficient with Git and ideally GitHub \n\nAdvantageous qualities\n\n- An understanding of AWS technologies, EMR, Redshift, DynamoDB, Kinesis, etc \n- Ability to quickly grasp other languages \n- Worked in a continuous deployment fashion \n- Interest in Machine Learning techniques\n\nPersonal qualities\n\n- Strong team player \n- Fast learner, that is not afraid of not knowing things and be comfortable with saying so \n- Eye for quality and attention to detail \n- Strong interest in changing a sector \n\nWhat do we provide?\n\n- A chance to work with a close and award winning team at one of the most exciting companies in Scotland \n- Competitive salary \n- Access to company options pool\n- Team breakfast every Monday \n- Yearly team strategy retreat \n- Top of the range Apple gear\n- Central Edinburgh office  \n- Flexible working \n- Fizz Fridays \n- Continual development and exposure to multiple parts of a fast growing tech company\n- Stylish Mallzee Swag \n\nPlease send your CV including a brief introduction to yourself, a link to relevant projects you have worked on and a bit about why you want to work with us :)\n\nNo recruiters.",
+      "descriptionHtml": "<p>Who are we? </p>\n\n<p>Mallzee is the UK’s leading multi-retailer fashion shopping app, and the original ‘Tinder for Fashion’. The app helps people find, compare, save and buy clothes quickly and easily from hundreds of high street retailers. This approach now sees tens of millions of products rated every month. </p>\n\n<p>Based on this success in early 2017 the company launched a series of B2B insight products; Product Intelligence - helps retailers better understand the real-time performance of their existing product ranges to make informed merchandising, marketing and stocking decisions. Product Future enables retailers to predict future best and worst sellers prior to ordering stock, helping them significantly improve profitability. </p>\n\n<p>Founded in Edinburgh in 2013 Mallzee has raised 4 rounds of investment and grown to a team of 23 based at our city centre offices. We’ve picked up a range of awards from leading tech publications, been featured in press articles around the world and seen Business Insider select us as one of the hottest startups in Scotland. </p>\n\n<p>What’s our vision? </p>\n\n<p>Our vision is two-fold; our award winning personalised shopping app is already recognised as market leading and helps hundreds of thousands of consumers find fantastic clothes quickly. Alongside this we’re now working with industry leading retailers to help them improve their marketing, merchandising and buying functions using the tens of millions of product ratings generated every month. </p>\n\n<p>We now help brands and retailers of all sizes improve their business and over time Mallzee will change the apparel industry by moving brands and retailers past gut feel decisions to focus on using data to make decisions. </p>\n\n<p>We do this with a forward thinking, fun loving and collaborative environment where all voices are heard. Across the company, our focus is on building a global tech business that everyone is proud to work for and that changes an industry that desperately needs help.</p>\n\n<p>The Role</p>\n\n<p>As a Software Engineer (Data Focus), you will be working with multiple types of data generated within the organisation, from user generated event data, to marketing campaign information, to sales data. </p>\n\n<p>Your mission will be to constantly improve data quality, availability, and usability across the organisation. On a day to day basis you will be working with our data team to collect, organise, and document our incoming and generated data. </p>\n\n<p>It will be your responsibility to develop quality, reliable solutions for collecting data and then implementing solutions to analyse and provide access to the insight this data generates, both internally and for our award winning retail data products.</p>\n\n<p>In this role, you will be working daily with our CTO, backend developers and data science team. Data is the heartbeat of our organisation so you will often find yourself involved in conversations impacting the whole company. </p>\n\n<p>What are we looking for?</p>\n\n<p>Technical qualities</p>\n\n<ul>\n<li>Working knowledge of NodeJS </li>\n<li>Experience with SQL and NoSQL technologies </li>\n<li>Understanding of data streaming technologies </li>\n<li>Proficient with Git and ideally GitHub </li>\n</ul>\n\n<p>Advantageous qualities</p>\n\n<ul>\n<li>An understanding of AWS technologies, EMR, Redshift, DynamoDB, Kinesis, etc </li>\n<li>Ability to quickly grasp other languages </li>\n<li>Worked in a continuous deployment fashion </li>\n<li>Interest in Machine Learning techniques</li>\n</ul>\n\n<p>Personal qualities</p>\n\n<ul>\n<li>Strong team player </li>\n<li>Fast learner, that is not afraid of not knowing things and be comfortable with saying so </li>\n<li>Eye for quality and attention to detail </li>\n<li>Strong interest in changing a sector </li>\n</ul>\n\n<p>What do we provide?</p>\n\n<ul>\n<li>A chance to work with a close and award winning team at one of the most exciting companies in Scotland </li>\n<li>Competitive salary </li>\n<li>Access to company options pool</li>\n<li>Team breakfast every Monday </li>\n<li>Yearly team strategy retreat </li>\n<li>Top of the range Apple gear</li>\n<li>Central Edinburgh office<br></li>\n<li>Flexible working </li>\n<li>Fizz Fridays </li>\n<li>Continual development and exposure to multiple parts of a fast growing tech company</li>\n<li>Stylish Mallzee Swag </li>\n</ul>\n\n<p>Please send your CV including a brief introduction to yourself, a link to relevant projects you have worked on and a bit about why you want to work with us :)</p>\n\n<p>No recruiters.</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "Edinburgh"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "SQL",
+        "Node.js",
+        "Git",
+        "AWS/EC2/ELB/S3/DynamoDB"
+      ],
+      "payment": {
+        "salary": "£25k – £35k",
+        "equity": "0.0% – 0.1%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/callyrussell",
+        "name": "Cally Russell",
+        "avatar": "https://photos.angel.co/users/128957-medium_jpg?1412355497"
+      },
+      "refs": {
+        "angelListId": "268557",
+        "angelListUrl": "https://angel.co/company/mallzee/jobs/268557-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "UX Designer",
+      "description": "The Role: UX Designer at Mallzee\nThe product team sits at the heart of development at Mallzee. We work hard to make sure our revolutionary mobile shopping app solves real problems for all our users, and offers a great user experience to boot. As a UX designer at Mallzee you’ll join our team of app, web and back-end data developers, designers, data scientists and product managers, and play a vital role in figuring out exactly what problems we need to solve next for the thousands of users active in our app every day.\n\n\n\nWhat you will be working on\nAs a core part of the team, your primary job is to help us understand our users better. You’ll identify and analyse user pain points and behaviours, and figure out how we can solve their problems. From user research, usability testing, data analysis and feedback, you’ll understand and communicate the user needs to the rest of the business. You create innovative solutions by working on user flows, journey maps, wireframes, mockups and prototypes, testing and iterating at the right time.\n\nThe larger picture is important to you. You understand the business requirements and technical limitations, and you work closely with our data, marketing and sales teams to share insights, gather information and learn more. You are not afraid to speak up to make sure we make better decisions, and you spend all your time ultimately trying to deliver world-class solutions users love, and keep coming back to.\n\nYour skills and experience means that you are:\n- Someone who puts the user front and centre of everything you do\n- Curious, interested, data-driven and excellent at communicating insights\n- Highly experienced with usability testing and user research (qualitative and quantitative), and well versed in analytics platforms\n- Skilled at working with wireframing and prototyping software like Sketch and InVision, and familiar with common design and collaboration tools\n- Great at giving and getting feedback, testing, iterating and delivering quality designs\n- A mobile UX and design champion, highly proficient in creating platform-agnostic and responsive designs that work with device specific patterns and interface guidelines\n- Familiar with app and web development processes and agile working\n- Aware that the devil is in the detail, and obsessive about covering all aspects of the mobile and web UX experience, from big picture to micro-copy\n\nAs a person, you are also:\n- Always challenging yourself and others to make better experiences for our users\n- Creative and analytical, with a systematic approach to take your ideas to reality\n- Passionate about inclusive design, making great products that work well for all\n- Self-driven, staying up to date with the latest research and technologies\n- A natural at taking ownership of your tasks, managing your time, showing leadership in your role and working closely with your own team and the rest of the company\n\nWe have high expectations of our team. In return, we offer a great environment where people thrive, develop and grow - professionally and personally.\n\n\nWe offer you:\n- A chance to make a real difference to millions of users and top retailers\n- A great team environment, with talented colleagues working on the latest tech\n- A competitive salary, based on experience and potential\n- A shiny new Mac with the software you need to work\n- Access to staff share options pool\n- Show & Tell Fridays with drinks and snacks\n- Free team lunch every month\n- A yearly retreat with the whole company\n- A generous training budget and personal development\n- A central, well-kitted out office in the heart of Edinburgh\n- Lots and lots of cake...\n\nHow to apply:\nTo come join the team at Mallzee, tell us why you want to work at Mallzee and what makes you the right person to take us to the next level of our journey. Please send attach your CV and portfolio of previous work so we can see specific examples of things you’ve done that have had a significant impact on users and businesses. We’d love to hear about how you’ve achieved this in a B2C consumer environment - ideally within ecommerce, but if you have a different background and think you can make a difference, then let us know!\n\nNo recruiters, please - we're managing our recruitment process directly with the right candidates.",
+      "descriptionHtml": "<p>The Role: UX Designer at Mallzee<br>\nThe product team sits at the heart of development at Mallzee. We work hard to make sure our revolutionary mobile shopping app solves real problems for all our users, and offers a great user experience to boot. As a UX designer at Mallzee you’ll join our team of app, web and back-end data developers, designers, data scientists and product managers, and play a vital role in figuring out exactly what problems we need to solve next for the thousands of users active in our app every day.</p>\n\n<p>What you will be working on<br>\nAs a core part of the team, your primary job is to help us understand our users better. You’ll identify and analyse user pain points and behaviours, and figure out how we can solve their problems. From user research, usability testing, data analysis and feedback, you’ll understand and communicate the user needs to the rest of the business. You create innovative solutions by working on user flows, journey maps, wireframes, mockups and prototypes, testing and iterating at the right time.</p>\n\n<p>The larger picture is important to you. You understand the business requirements and technical limitations, and you work closely with our data, marketing and sales teams to share insights, gather information and learn more. You are not afraid to speak up to make sure we make better decisions, and you spend all your time ultimately trying to deliver world-class solutions users love, and keep coming back to.</p>\n\n<p>Your skills and experience means that you are:</p>\n\n<ul>\n<li>Someone who puts the user front and centre of everything you do</li>\n<li>Curious, interested, data-driven and excellent at communicating insights</li>\n<li>Highly experienced with usability testing and user research (qualitative and quantitative), and well versed in analytics platforms</li>\n<li>Skilled at working with wireframing and prototyping software like Sketch and InVision, and familiar with common design and collaboration tools</li>\n<li>Great at giving and getting feedback, testing, iterating and delivering quality designs</li>\n<li>A mobile UX and design champion, highly proficient in creating platform-agnostic and responsive designs that work with device specific patterns and interface guidelines</li>\n<li>Familiar with app and web development processes and agile working</li>\n<li>Aware that the devil is in the detail, and obsessive about covering all aspects of the mobile and web UX experience, from big picture to micro-copy</li>\n</ul>\n\n<p>As a person, you are also:</p>\n\n<ul>\n<li>Always challenging yourself and others to make better experiences for our users</li>\n<li>Creative and analytical, with a systematic approach to take your ideas to reality</li>\n<li>Passionate about inclusive design, making great products that work well for all</li>\n<li>Self-driven, staying up to date with the latest research and technologies</li>\n<li>A natural at taking ownership of your tasks, managing your time, showing leadership in your role and working closely with your own team and the rest of the company</li>\n</ul>\n\n<p>We have high expectations of our team. In return, we offer a great environment where people thrive, develop and grow - professionally and personally.</p>\n\n<p>We offer you:</p>\n\n<ul>\n<li>A chance to make a real difference to millions of users and top retailers</li>\n<li>A great team environment, with talented colleagues working on the latest tech</li>\n<li>A competitive salary, based on experience and potential</li>\n<li>A shiny new Mac with the software you need to work</li>\n<li>Access to staff share options pool</li>\n<li>Show &amp; Tell Fridays with drinks and snacks</li>\n<li>Free team lunch every month</li>\n<li>A yearly retreat with the whole company</li>\n<li>A generous training budget and personal development</li>\n<li>A central, well-kitted out office in the heart of Edinburgh</li>\n<li>Lots and lots of cake...</li>\n</ul>\n\n<p>How to apply:<br>\nTo come join the team at Mallzee, tell us why you want to work at Mallzee and what makes you the right person to take us to the next level of our journey. Please send attach your CV and portfolio of previous work so we can see specific examples of things you’ve done that have had a significant impact on users and businesses. We’d love to hear about how you’ve achieved this in a B2C consumer environment - ideally within ecommerce, but if you have a different background and think you can make a difference, then let us know!</p>\n\n<p>No recruiters, please - we&#39;re managing our recruitment process directly with the right candidates.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Scotland",
+        "Edinburgh"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "$1k – $2k"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Employee",
+        "url": "https://angel.co/u/callyrussell",
+        "name": "Cally Russell",
+        "avatar": "https://photos.angel.co/users/128957-medium_jpg?1412355497"
+      },
+      "refs": {
+        "angelListId": "357660",
+        "angelListUrl": "https://angel.co/company/mallzee/jobs/357660-"
+      }
+    }
+  ]
+}

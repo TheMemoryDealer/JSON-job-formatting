@@ -1,0 +1,127 @@
+{
+  "name": "Seed - now https://angel.co/beamery",
+  "avatar": "https://photos.angel.co/startups/i/254054-642e54c5da69ee7774de9450b1b88265-medium_jpg.jpg?buster=1397060142",
+  "slogan": "Inbound Marketing for Recruitment",
+  "description": "Our goal was to empower recruiters to treat candidates like customers by applying marketing automation and data science to recruitment, making recruiters into effective marketers:\n\n- Inbound not Outbound: focusing on attracting and engaging talent with content and value. From Calls-to-action and landing pages to targeted recruitment campaigns\n- Automation not Data-Entry:  We connects to 100s of data sources to aggregate email, social and behavioural data to give recruiters the full picture of every candidate interaction from the first touchpoint. Everything is always in sync\n- Communication not Process: with smart filters, behaviour triggers and personalised followups, the Seed platform enables recruiters to build a pipeline of engaged talent that is there when you are ready to hire\n- Analytics and Insights: from visitor source tracking and behaviour, email opens and campaign performance to full funnel conversion analytics - Seed lets you see the candidate behind every data point",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.beamery.com"
+    },
+    {
+      "type": "blog",
+      "url": "http://blog.beamery.com"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@beamery"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Enterprise Software",
+    "SaaS",
+    "Human Resources",
+    "Recruiting"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": [
+      {
+        "type": "",
+        "closedAt": 1370044800,
+        "valuation": null
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CPO",
+      "role": "Founder",
+      "url": "https://angel.co/u/sultan-murad-saidov",
+      "name": "Sultan Murad Saidov",
+      "avatar": "https://photos.angel.co/users/374171-medium_jpg?1405622046",
+      "bioHtml": " <a href=\"https://angel.co/company/beamery\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Beamery</span></a>  Co-Founder and President \n <a href=\"https://angel.co/company/seed-7\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Seed - now https://angel.co/beamery</span></a> Founder and CPO\n <a href=\"https://angel.co/company/goldman-sachs\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Goldman Sachs</span></a> Commodities e-Trading\n <a href=\"https://angel.co/university-of-oxford-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Oxford</span></a> MA PPE"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/michael-paterson",
+      "name": "Michael Paterson",
+      "avatar": "https://photos.angel.co/users/374170-medium_jpg?1463601598",
+      "bioHtml": "<a href=\"https://angel.co/company/beamery\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Beamery</span></a> Co-Founder and CTO\n<a href=\"https://angel.co/company/seed-7\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Seed - now https://angel.co/beamery</span></a>  Co-Founder\n<a href=\"https://angel.co/company/morgan-stanley\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Morgan Stanley</span></a>  Credit Sales \n<a href=\"https://angel.co/university-of-bristol\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Bristol</span></a> Electrical Engineering"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/slava-treskovskii",
+      "name": "Slava Treskovskii",
+      "avatar": "https://photos.angel.co/users/604395-medium_jpg?1463984917",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/ctlima",
+      "name": "Cláudia Lima",
+      "avatar": "https://photos.angel.co/users/194927-medium_jpg?1405547683",
+      "bioHtml": "<a href=\"https://angel.co/company/streat\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Streat</span></a> founder,UI/UX designer, tech&amp;jazz junkie daydreaming in London"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "254054",
+    "angelListUrl": "https://angel.co/company/seed-7"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": null,
+      "descriptionHtml": "",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "MongoDB",
+        "Node.js"
+      ],
+      "payment": {
+        "salary": "$75k – $150k",
+        "equity": "0.2% – 2.0%"
+      },
+      "recruiter": {
+        "title": "CPO",
+        "role": "Founder",
+        "url": "https://angel.co/u/sultan-murad-saidov",
+        "name": "Sultan Murad Saidov",
+        "avatar": "https://photos.angel.co/users/374171-medium_jpg?1405622046"
+      },
+      "refs": {
+        "angelListId": "26435",
+        "angelListUrl": "https://angel.co/company/seed-7/jobs/26435-"
+      }
+    }
+  ]
+}

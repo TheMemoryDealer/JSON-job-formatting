@@ -1,0 +1,166 @@
+{
+  "name": "Vector AI",
+  "avatar": "https://photos.angel.co/startups/i/6085398-6702730a47c43b68d4d3e4418e24d6e0-medium_jpg.jpg?buster=1573663699",
+  "slogan": "Your Paperwork Co-pilot™",
+  "description": "Vector.ai is a machine learning start-up on a mission to transform document-driven operations in the supply chain and more.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://vector.ai"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Fin Tech",
+    "Logistics",
+    "Supply Chain Management",
+    "Procurement"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/nisarg-mehta-7",
+      "name": "Nisarg Mehta",
+      "avatar": "https://photos.angel.co/users/8345247-medium_jpg?1537200494",
+      "bioHtml": "Founder of Vector.ai"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/james-coombes",
+      "name": "James Coombes",
+      "avatar": "https://photos.angel.co/users/3090692-medium_jpg?1533040991",
+      "bioHtml": "Founder of Vector.ai"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/sarah-mclaren-3",
+      "name": "SARAH MCLAREN",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Principal Software Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/fabio-tamagno",
+      "name": "Fabio Tamagno",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Full-Stack Engineer with strong experience with the development of AI-oriented applications"
+    },
+    {
+      "title": "Co-Founder and CEO",
+      "role": "Employee",
+      "url": "https://angel.co/u/james-coombes",
+      "name": "James Coombes",
+      "avatar": "https://photos.angel.co/users/3090692-medium_jpg?1533040991",
+      "bioHtml": "Founder of Vector.ai"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6085398",
+    "angelListUrl": "https://angel.co/company/vector-ai-1"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Machine Learning Engineer",
+      "description": "Vector.ai is a machine learning start-up on a mission to transform document-driven operations in the supply chain and shape the future of inter-company and ‘inter-national’ trade. An applied AI company, we’re combining bleeding-edge machine learning research with a zealous focus on the customer; everything we do - across our stack - is informed by real-world operational insights. Our customers are some of the largest companies in the world, but our ambition is to help some of the most under-served companies too.\r\n\r\nWe've recently raised our seed round from leading UK investor Episode 1 (Zoopla, Betfair, Shazam, etc.) and supply chain-focused fund Dynamo.vc.\r\n\r\nWe’re searching for a Machine Learning Engineer to lead our efforts in remaining at the bleeding edge of machine learning by spearheading the implementation of machine learning models in production across the technology stack. You will also be involved in contributing to and overseeing the build and deployment of machine learning models into a highly scalable, distributed system along with the rest of the team. \r\n\r\nSpecifically we want someone who can:\r\n\r\n -  Implement and develop machine learning models in a scalable product architecture\r\n -  Establish a data management pipeline to dynamically update core algorithms\r\n -  Bring machine learning systems into full production, working closely with members of the product and engineering teams \r\n -  Optimize existing implementations of machine learning models in production\r\n -  Optimize open source implementations of research code to production ready systems\r\n\r\nSkills we expect:\r\n\r\n -  Work with python and a few common machine learning frameworks, including but not limited to tensorflow, keras and pytorch\r\n -  Have experience building and deploying machine learning applications at scale\r\n -  Have a very solid grasp of both software engineering and machine learning fundamentals.\r\n\r\nExperience that would be good to have:\r\n\r\n -  Grasp of the fundamentals of all major aspects of modern artificial intelligence - computer vision, natural language processing, reinforcement learning, etc.\r\n -  3+ years industry experience building and deploying machine learning applications\r\n -  Be familiar with working on real-world unstructured and noisy datasets\r\n\r\nGenerous salary and equity. Get in touch!",
+      "descriptionHtml": "<p>Vector.ai is a machine learning start-up on a mission to transform document-driven operations in the supply chain and shape the future of inter-company and ‘inter-national’ trade. An applied AI company, we’re combining bleeding-edge machine learning research with a zealous focus on the customer; everything we do - across our stack - is informed by real-world operational insights. Our customers are some of the largest companies in the world, but our ambition is to help some of the most under-served companies too.</p>\n\n<p>We&#39;ve recently raised our seed round from leading UK investor Episode 1 (Zoopla, Betfair, Shazam, etc.) and supply chain-focused fund Dynamo.vc.</p>\n\n<p>We’re searching for a Machine Learning Engineer to lead our efforts in remaining at the bleeding edge of machine learning by spearheading the implementation of machine learning models in production across the technology stack. You will also be involved in contributing to and overseeing the build and deployment of machine learning models into a highly scalable, distributed system along with the rest of the team. </p>\n\n<p>Specifically we want someone who can:</p>\n\n<ul>\n<li> Implement and develop machine learning models in a scalable product architecture</li>\n<li> Establish a data management pipeline to dynamically update core algorithms</li>\n<li> Bring machine learning systems into full production, working closely with members of the product and engineering teams </li>\n<li> Optimize existing implementations of machine learning models in production</li>\n<li> Optimize open source implementations of research code to production ready systems</li>\n</ul>\n\n<p>Skills we expect:</p>\n\n<ul>\n<li> Work with python and a few common machine learning frameworks, including but not limited to tensorflow, keras and pytorch</li>\n<li> Have experience building and deploying machine learning applications at scale</li>\n<li> Have a very solid grasp of both software engineering and machine learning fundamentals.</li>\n</ul>\n\n<p>Experience that would be good to have:</p>\n\n<ul>\n<li> Grasp of the fundamentals of all major aspects of modern artificial intelligence - computer vision, natural language processing, reinforcement learning, etc.</li>\n<li> 3+ years industry experience building and deploying machine learning applications</li>\n<li> Be familiar with working on real-world unstructured and noisy datasets</li>\n</ul>\n\n<p>Generous salary and equity. Get in touch!</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Machine Learning"
+      ],
+      "payment": {
+        "salary": "£50k – £60k",
+        "equity": "0.0% – 0.25%"
+      },
+      "recruiter": {
+        "title": "Founder",
+        "role": "Founder",
+        "url": "https://angel.co/u/nisarg-mehta-7",
+        "name": "Nisarg Mehta",
+        "avatar": "https://photos.angel.co/users/8345247-medium_jpg?1537200494"
+      },
+      "refs": {
+        "angelListId": "428529",
+        "angelListUrl": "https://angel.co/company/vector-ai-1/jobs/428529-"
+      },
+      "postedAt": 1589658428529
+    },
+    {
+      "role": "Other",
+      "title": "Product Manager",
+      "description": "Vector.ai is a machine learning start-up on a mission to transform document-driven operations in the supply chain and beyond. An applied AI company, we’re combining bleeding-edge machine learning research with a zealous focus on the customer; everything we do - across our stack - is informed by real-world operational insights. Our customers are some of the largest companies in the world, but our ambition is to help some of the most under-served companies too.\r\n \r\nWe’re looking for our first Product Manager to work with our growing team of engineers, our management team and our customers. You’ll reconcile daily customer interactions with a high-level strategic overview of our roadmap and help to shape our priorities across a spectrum of product and machine learning (ml) engineering timelines. \r\n\r\nSpecifically we want someone who can:\r\n\r\n* Bring energy and empathy to product direction\r\n* Proactively prioritize feature development \r\n* Understand our customers’ needs in-depth  \r\n* Express themselves with clarity and structure\r\n* Be comfortable making decisions and executing under pressure\r\n* Grasp technical details of our product, stack and technology (including ml)\r\n* Understand, model, map out and simplify complex systems\r\n* Apply the latest product management best practices (research, strategy and delivery frameworks, pricing)\r\n\r\nDay-to-day you will:\r\n \r\n* Drive customer discovery together with product design\r\n* Manage customer interactions and prioritize feature requests\r\n* Define feature scope and delivery timelines with engineering\r\n* Coordinate our ongoing machine learning pipeline delivery with our platform build-out\r\n* Communicate priorities across the team and to customers\r\n* Collaborate closely with the management team\r\n\r\nIt would be cool if:\r\n \r\n* You have experience in an applied AI company\r\n* You have delivered product to enterprise and/or mid-tier companies\r\n* You have worked in a start-up environment before and/or are entrepreneurial\r\n* You have 3+ years of Product Management experience\r\n\r\nThis is an exciting role for someone who lives product, wants to see their contribution evolve into high-level strategy, and who is keen to grow their profile inside and outside our company.\r\n \r\nGenerous salary and equity. Get in touch at contact@vector.ai",
+      "descriptionHtml": "<p>Vector.ai is a machine learning start-up on a mission to transform document-driven operations in the supply chain and beyond. An applied AI company, we’re combining bleeding-edge machine learning research with a zealous focus on the customer; everything we do - across our stack - is informed by real-world operational insights. Our customers are some of the largest companies in the world, but our ambition is to help some of the most under-served companies too.</p>\n\n<p>We’re looking for our first Product Manager to work with our growing team of engineers, our management team and our customers. You’ll reconcile daily customer interactions with a high-level strategic overview of our roadmap and help to shape our priorities across a spectrum of product and machine learning (ml) engineering timelines. </p>\n\n<p>Specifically we want someone who can:</p>\n\n<ul>\n<li>Bring energy and empathy to product direction</li>\n<li>Proactively prioritize feature development </li>\n<li>Understand our customers’ needs in-depth<br></li>\n<li>Express themselves with clarity and structure</li>\n<li>Be comfortable making decisions and executing under pressure</li>\n<li>Grasp technical details of our product, stack and technology (including ml)</li>\n<li>Understand, model, map out and simplify complex systems</li>\n<li>Apply the latest product management best practices (research, strategy and delivery frameworks, pricing)</li>\n</ul>\n\n<p>Day-to-day you will:</p>\n\n<ul>\n<li>Drive customer discovery together with product design</li>\n<li>Manage customer interactions and prioritize feature requests</li>\n<li>Define feature scope and delivery timelines with engineering</li>\n<li>Coordinate our ongoing machine learning pipeline delivery with our platform build-out</li>\n<li>Communicate priorities across the team and to customers</li>\n<li>Collaborate closely with the management team</li>\n</ul>\n\n<p>It would be cool if:</p>\n\n<ul>\n<li>You have experience in an applied AI company</li>\n<li>You have delivered product to enterprise and/or mid-tier companies</li>\n<li>You have worked in a start-up environment before and/or are entrepreneurial</li>\n<li>You have 3+ years of Product Management experience</li>\n</ul>\n\n<p>This is an exciting role for someone who lives product, wants to see their contribution evolve into high-level strategy, and who is keen to grow their profile inside and outside our company.</p>\n\n<p>Generous salary and equity. Get in touch at <a href=\"mailto:contact@vector.ai\" target=\"_blank\" rel=\"nofollow\">contact@vector.ai</a></p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Product Management",
+        "Creativity",
+        "Communication Skills",
+        "Systems Thinking",
+        "Organizational Skills"
+      ],
+      "payment": {
+        "salary": "£60k – £75k",
+        "equity": "0.1% – 0.25%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/james-coombes",
+        "name": "James Coombes",
+        "avatar": "https://photos.angel.co/users/3090692-medium_jpg?1533040991"
+      },
+      "refs": {
+        "angelListId": "812053",
+        "angelListUrl": "https://angel.co/company/vector-ai-1/jobs/812053-"
+      },
+      "postedAt": 1589658812053
+    }
+  ]
+}

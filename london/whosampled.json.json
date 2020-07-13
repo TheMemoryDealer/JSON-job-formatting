@@ -1,0 +1,111 @@
+{
+  "name": "WhoSampled",
+  "avatar": "https://photos.angel.co/startups/i/325851-4ad14e0c00d1f191ca6bdb292067fcdb-medium_jpg.jpg?buster=1433765253",
+  "slogan": "Exploring the DNA of Music",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.whosampled.com"
+    },
+    {
+      "type": "blog",
+      "url": "http://blog.whosampled.com"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/whosampled"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/whosampled"
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Music"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/nadav-3",
+      "name": "Nadav",
+      "avatar": "https://photos.angel.co/users/368803-medium_jpg?1433765483",
+      "bioHtml": "Founder and CEO <a href=\"https://angel.co/company/whosampled\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">WhoSampled</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/srus",
+      "name": "Sergio Rus",
+      "avatar": "https://photos.angel.co/users/1246211-medium_jpg?1490890394",
+      "bioHtml": "Python/Django and JavaScript Web Developer. Web Performance advocate. MSc in Computer Engineering. "
+    },
+    {
+      "title": "Advisor",
+      "role": "Employee",
+      "url": "https://angel.co/u/jameshamlin",
+      "name": "James Hamlin",
+      "avatar": "https://photos.angel.co/users/868143-medium_jpg?1499974184",
+      "bioHtml": "Experienced Executive with a proven track record of achieving results in the growth, execution, strategy and operations of dual sided Marketplaces"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "325851",
+    "angelListUrl": "https://angel.co/company/whosampled"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "iOS Freelancer for Established Music Startup",
+      "description": "WhoSampled is the world's leading destination for fans of sample-based music, cover songs and remixes. Our popular iPhone app has won many awards including Apple's \"App Store Best of Year\", \"Best Music App\" at the Music Ally Digital Music Awards and The Telegraph's \"Music App of the Year\".\r\n\r\nThe Role\r\nWe're looking for an experienced iOS developer to help us with the ongoing maintenance and enhancement of the app. Initially we're looking for small enhancements and bug fixes to be applied, leading to long term engagement on an occasional basis in developing new features. The work would be done remotely and must be delivered to a fixed budget.\r\n\r\nRequired Experience\r\n* iOS app development (Xcode, Objective C)\r\n* Integration with 3rd party SDKs and RESTful APIs",
+      "descriptionHtml": "<p>WhoSampled is the world&#39;s leading destination for fans of sample-based music, cover songs and remixes. Our popular iPhone app has won many awards including Apple&#39;s &quot;App Store Best of Year&quot;, &quot;Best Music App&quot; at the Music Ally Digital Music Awards and The Telegraph&#39;s &quot;Music App of the Year&quot;.</p>\n\n<p>The Role<br>\nWe&#39;re looking for an experienced iOS developer to help us with the ongoing maintenance and enhancement of the app. Initially we&#39;re looking for small enhancements and bug fixes to be applied, leading to long term engagement on an occasional basis in developing new features. The work would be done remotely and must be delivered to a fixed budget.</p>\n\n<p>Required Experience</p>\n\n<ul>\n<li>iOS app development (Xcode, Objective C)</li>\n<li>Integration with 3rd party SDKs and RESTful APIs</li>\n</ul>\n",
+      "position": "contract",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "iOS Development",
+        "Xcode",
+        "Objective-C",
+        "Swift/Objective C/iOS/Xcode"
+      ],
+      "payment": {
+        "salary": "$40k – $80k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/nadav-3",
+        "name": "Nadav",
+        "avatar": "https://photos.angel.co/users/368803-medium_jpg?1433765483"
+      },
+      "refs": {
+        "angelListId": "786612",
+        "angelListUrl": "https://angel.co/company/whosampled/jobs/786612-"
+      }
+    }
+  ]
+}

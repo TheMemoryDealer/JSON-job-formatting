@@ -1,0 +1,118 @@
+{
+  "name": "Fund Platform",
+  "avatar": "https://photos.angel.co/startups/i/7081938-88f0ff379adb2cfb59bb228fd2e900b4-medium_jpg.jpg?buster=1563972988",
+  "slogan": "Professional software for managing assets",
+  "description": "Crypto market is $250bln. At the same time, 20% of these money are managed by portfolio managers and funds.\n\nDue to the young market, nobody has succeeded at creating the software for professionals in crypto (like interactivebrokers in traditional market)\n\nWe are a team of 15 people, that has experience in creating custdev solutions for cryptofunds, that aims to reinvent managing assets industry.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://fundplatform.io"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/fundplatformproject/?eid=arb6dasoelx-m25mileneii5vx1rjcpelxnw7fldq6wyub2w260xuykoj19albf5sz64knbi0xfogjtd"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/in/nikita-shevchenko-08565b18b/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Los Angeles"
+  ],
+  "marketTags": [
+    "SaaS",
+    "Trading",
+    "Hedge Funds",
+    "Cryptocurrency",
+    "Europe",
+    "Blockchain / Cryptocurrency"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 50000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1522800000,
+        "valuation": 930000
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/nikita-shevchenko-3",
+      "name": "Nikita Shevchenko",
+      "avatar": "https://photos.angel.co/users/9742144-medium_jpg?1563975042",
+      "bioHtml": "Nikita is an entrepreneur with 5 years of experience. He has worked for Google and completed many startup accelerators programs"
+    },
+    {
+      "title": "Team Member",
+      "role": "Employee",
+      "url": "https://angel.co/u/lilit-avagyan-1",
+      "name": "LIlit Avagyan",
+      "avatar": "https://photos.angel.co/users/10110497-medium_jpg?1570828215",
+      "bioHtml": "Works at Fund Platform"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7081938",
+    "angelListUrl": "https://angel.co/company/fund-platform-1"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "CTO / Techlead",
+      "description": "Hi, we are the Fund Platform. We make software, thanks to which traders and funds can connect to exchanges and manage their clients' money.\nOur developers need a tech lead or a CTO, who will:\n\n-Develop\n-Check pool requests (front + back)\n-Participate in scheduling tasks\n-Interview the developers\n-Assign tasks to developers, depending on their skills (3 people)\n-Determine the vector of development of the platform and update the infrastructure under modern standards\n\nOur stack:\nVue.Js, Typescript\nNode.js\nDocker-compose\nCloudflare, Jira, Bitbucket\nOOP, DDD\n\nWhat do we offer:\nEquity (company is valuated at $1,800k\nCareer growth\nRemote work, smooth morning\nVolume of tasks for 40 hours a week, or you can take more",
+      "descriptionHtml": "<p>Hi, we are the Fund Platform. We make software, thanks to which traders and funds can connect to exchanges and manage their clients&#39; money.<br>\nOur developers need a tech lead or a CTO, who will:</p>\n\n<p>-Develop<br>\n-Check pool requests (front + back)<br>\n-Participate in scheduling tasks<br>\n-Interview the developers<br>\n-Assign tasks to developers, depending on their skills (3 people)<br>\n-Determine the vector of development of the platform and update the infrastructure under modern standards</p>\n\n<p>Our stack:<br>\nVue.Js, Typescript<br>\nNode.js<br>\nDocker-compose<br>\nCloudflare, Jira, Bitbucket<br>\nOOP, DDD</p>\n\n<p>What do we offer:<br>\nEquity (company is valuated at $1,800k<br>\nCareer growth<br>\nRemote work, smooth morning<br>\nVolume of tasks for 40 hours a week, or you can take more</p>\n",
+      "position": "cofounder",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "Europe",
+        "Russia",
+        "Moscow Oblast"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Management",
+        "SaaS",
+        "Hiring",
+        "Vue.Js",
+        "NodeJS"
+      ],
+      "payment": {
+        "salary": "Up to $1k",
+        "equity": "4.0% – 4.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/nikita-shevchenko-3",
+        "name": "Nikita Shevchenko",
+        "avatar": "https://photos.angel.co/users/9742144-medium_jpg?1563975042"
+      },
+      "refs": {
+        "angelListId": "595437",
+        "angelListUrl": "https://angel.co/company/fund-platform-1/jobs/595437-"
+      }
+    }
+  ]
+}

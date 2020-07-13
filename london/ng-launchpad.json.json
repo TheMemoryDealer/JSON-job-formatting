@@ -1,0 +1,100 @@
+{
+  "name": "NG Launchpad",
+  "avatar": "https://photos.angel.co/startups/i/6597570-c627dd70431deb50a8fba868473a43e2-medium_jpg.jpg?buster=1542710523",
+  "slogan": "We are an innovation lab building the next generation of digital financial services",
+  "description": "We are currently in the process of launching two new products for insurance customers, both due to hit the market early in 2019.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://nglaunchpad.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Insurance",
+    "Startups",
+    "Technology",
+    "Health and Insurance",
+    "Financial Technology"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/ian-staunton",
+      "name": "Ian Staunton",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6597570",
+    "angelListUrl": "https://angel.co/company/ng-launchpad"
+  },
+  "jobs": [
+    {
+      "role": "Designer",
+      "title": "UI Designer",
+      "description": "We're looking for a mid-weight UI designer to join us at an innovation lab building the next generation of digital financial services. Established by two London entrepreneurs, we’re looking to rapidly disrupt big markets.\n\nWe’ve got some ambitious plans and we’re looking for a talented UI designer (with an eye for detail and tonnes of creative flair) to help bring our products to life. You will need to be able to get started straight away and enjoy the fast-pace of a startup environment.\n\nThis is a two month contract role with an immediate start and the opportunity to extend.",
+      "descriptionHtml": "<p>We&#39;re looking for a mid-weight UI designer to join us at an innovation lab building the next generation of digital financial services. Established by two London entrepreneurs, we’re looking to rapidly disrupt big markets.</p>\n\n<p>We’ve got some ambitious plans and we’re looking for a talented UI designer (with an eye for detail and tonnes of creative flair) to help bring our products to life. You will need to be able to get started straight away and enjoy the fast-pace of a startup environment.</p>\n\n<p>This is a two month contract role with an immediate start and the opportunity to extend.</p>\n",
+      "position": "contract",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Sketch",
+        "Invision",
+        "Zeplin"
+      ],
+      "payment": {
+        "salary": "£70k – £75k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/ian-staunton",
+        "name": "Ian Staunton",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "461180",
+        "angelListUrl": "https://angel.co/company/ng-launchpad/jobs/461180-"
+      }
+    }
+  ]
+}

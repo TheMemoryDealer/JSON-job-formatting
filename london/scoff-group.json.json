@@ -1,0 +1,96 @@
+{
+  "name": "Scoff Group",
+  "avatar": "https://photos.angel.co/startups/i/7310678-56f8ad4034cbd9ce8414b2bb71fe7d5e-medium_jpg.jpg?buster=1573559839",
+  "slogan": "Next generation recipe platform to solve your food shop",
+  "description": "Scoff Club is currently an MVP IOS app helping a host of happy customers save time and money on their weekly shop. Our active customer feedback loop has given us lots of fantastic changes to implement, but we need your help!",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.scoffsupperclub.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Food Tech"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/will-lilly",
+      "name": "Will Lilly",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7310678",
+    "angelListUrl": "https://angel.co/company/scoff-group"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "CTO",
+      "description": "I'm looking for a passionate co-founder to help Scoff Club progress beyond our MVP and  transform all of our great user feedback into new features. \n\nI'm looking for someone who has a passion for food tech and helping real people save time, money and food waste!",
+      "descriptionHtml": "<p>I&#39;m looking for a passionate co-founder to help Scoff Club progress beyond our MVP and  transform all of our great user feedback into new features. </p>\n\n<p>I&#39;m looking for someone who has a passion for food tech and helping real people save time, money and food waste!</p>\n",
+      "position": "cofounder",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "HTML/CSS/PHP/MYSQL",
+        "React.js",
+        "Swift"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "10.0% – 15.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/will-lilly",
+        "name": "Will Lilly",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "661723",
+        "angelListUrl": "https://angel.co/company/scoff-group/jobs/661723-"
+      }
+    }
+  ]
+}

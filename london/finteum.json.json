@@ -1,0 +1,118 @@
+{
+  "name": "Finteum",
+  "avatar": "https://photos.angel.co/startups/i/6225634-b8235c2b9de4e27e554808caa1c15aba-medium_jpg.jpg?buster=1570187138",
+  "slogan": "Interbank intraday lending trading platform",
+  "description": "Finteum has created a trading platform for banks to borrow and lend to one another for hours at a time. Intraday liquidity is very expensive for banks, who are our potential clients, and intraday borrowing and lending is very valuable. We started in 2018 with expertise in this field and have built the 'alpha' version of the product. We are excited to build it out further, together with early adopter banks. We are partnering with R3 (a blockchain company with bank backing), Baringa Partners (a consulting company with expertise in intraday liquidity and bank clients) and collaborating with Fnality (central bank money on blockchain company with bank backing). We graduated from the F10 Fintech accelerator in Zurich. We are looking for great back-end software engineers.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://finteum.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/finteum"
+    },
+    {
+      "type": "facebook",
+      "url": "https://facebook.com/finteum"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/finteum"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Fin Tech"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Co-founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/zbigniew-czapran",
+      "name": "Zbigniew Czapran",
+      "avatar": "https://photos.angel.co/users/1024242-medium_jpg?1519144152",
+      "bioHtml": "10+ years of software and data engineering • Serial Entrepreneur • Graduate in Statistics, Masters in Computer Science"
+    },
+    {
+      "title": "Co-founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/brian-nolan-3",
+      "name": "Brian Nolan",
+      "avatar": "https://photos.angel.co/users/8284781-medium_jpg?1569849485",
+      "bioHtml": "Co-founder"
+    },
+    {
+      "title": "Co-founder",
+      "role": "Employee",
+      "url": "https://angel.co/u/brian-nolan-3",
+      "name": "Brian Nolan",
+      "avatar": "https://photos.angel.co/users/8284781-medium_jpg?1569849485",
+      "bioHtml": "Co-founder"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6225634",
+    "angelListUrl": "https://angel.co/company/finteum"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Developer at FinTech Startup",
+      "description": "We are looking for a passionate Software Developer to work on design, development and deployment of our platform.\n\nYou will be working closely with our hands-on technical co-founder in a smart team of developers building state-of-the-art FinTech platform for interbank intraday lending.\n\nWe embrace Agile principles and follow Scrum framework. We write re-usable, functional clean code using Scala, Kotlin and Typescript programming languages.\n\n\nAn ideal candidate will have at least 2 years of software development experience and (desirable but not all mandatory):\n* Practical understanding of functional programming paradigm\n* Experience in one of Scala, Kotlin, Haskell, Clojure\n* Understanding of Agile principles and Scrum framework\n* Degree in Computer Science or a related field\n\nResponsibilities:\n* Executing full lifecycle software development\n* Programming well-designed, testable, deployable, efficient code through TDD, occasional pair-programming and DevOps\n* Collaborating with the team to incrementally bring value to the organisation through frequent and systematic delivery\n\nWe provide:\n* Work with a small team of ambitious technical and business colleagues\n* Opportunity to learn new technologies at work and through workshops, courses and attendance at conferences\n* Generous salary and benefit package (better than your current employment)\n* Equity options in a high-growth startup company\n* Opportunity to travel to our office in London\n* Ability to work remotely or in your local office",
+      "descriptionHtml": "<p>We are looking for a passionate Software Developer to work on design, development and deployment of our platform.</p>\n\n<p>You will be working closely with our hands-on technical co-founder in a smart team of developers building state-of-the-art FinTech platform for interbank intraday lending.</p>\n\n<p>We embrace Agile principles and follow Scrum framework. We write re-usable, functional clean code using Scala, Kotlin and Typescript programming languages.</p>\n\n<p>An ideal candidate will have at least 2 years of software development experience and (desirable but not all mandatory):</p>\n\n<ul>\n<li>Practical understanding of functional programming paradigm</li>\n<li>Experience in one of Scala, Kotlin, Haskell, Clojure</li>\n<li>Understanding of Agile principles and Scrum framework</li>\n<li>Degree in Computer Science or a related field</li>\n</ul>\n\n<p>Responsibilities:</p>\n\n<ul>\n<li>Executing full lifecycle software development</li>\n<li>Programming well-designed, testable, deployable, efficient code through TDD, occasional pair-programming and DevOps</li>\n<li>Collaborating with the team to incrementally bring value to the organisation through frequent and systematic delivery</li>\n</ul>\n\n<p>We provide:</p>\n\n<ul>\n<li>Work with a small team of ambitious technical and business colleagues</li>\n<li>Opportunity to learn new technologies at work and through workshops, courses and attendance at conferences</li>\n<li>Generous salary and benefit package (better than your current employment)</li>\n<li>Equity options in a high-growth startup company</li>\n<li>Opportunity to travel to our office in London</li>\n<li>Ability to work remotely or in your local office</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Kraków"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Poland"
+      ],
+      "skills": [
+        "Haskell",
+        "DevOps",
+        "Scala",
+        "Functional Programming",
+        "TypeScript",
+        "Algorithms & Data Structures",
+        "React.js",
+        "Kotlin"
+      ],
+      "payment": {
+        "salary": "€20k – €35k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": "Co-founder",
+        "role": "Founder",
+        "url": "https://angel.co/u/zbigniew-czapran",
+        "name": "Zbigniew Czapran",
+        "avatar": "https://photos.angel.co/users/1024242-medium_jpg?1519144152"
+      },
+      "refs": {
+        "angelListId": "639987",
+        "angelListUrl": "https://angel.co/company/finteum/jobs/639987-"
+      }
+    }
+  ]
+}

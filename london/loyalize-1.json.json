@@ -1,0 +1,119 @@
+{
+  "name": "Loyalize",
+  "avatar": "https://photos.angel.co/startups/i/6984899-ca26e86ad2327e219aa0571fd73bf9da-medium_jpg.jpg?buster=1559644356",
+  "slogan": "B2B white label card linked loyalty platform",
+  "description": "Loyalize is a white label card linked loyalty solution. Our platform is a simple API bolt-on that allows payment cards to be linked to existing loyalty programmes.\n\nRetailers and Loyalty Partners use Loyalize to enhance their customer journey by removing the requirement for a plastic loyalty card or app with a unique code.\n\nCustomers will automatically earn rewards when purchasing using their linked payment card every time they shop, online and in store.\n\nWith no PoS integration required, it is quick and easy to get started.\n​\nWe are revolutionising loyalty and payments.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.loyalize.uk"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/loyalize-platform"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Loyalty",
+    "Loyalty Programs",
+    "Retail Technology",
+    "Fin Tech"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/davidjohnloyalize",
+      "name": "David John",
+      "avatar": "https://photos.angel.co/users/3928924-medium_jpg?1528841466",
+      "bioHtml": "Founder &amp; CEO of Loyalize. Previously, Financial Consultant at Capgemini and Commodity Trader at Cargill."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/makis-saridis",
+      "name": "Makis Saridis",
+      "avatar": "https://photos.angel.co/users/649979-medium_jpg?1464067126",
+      "bioHtml": "."
+    },
+    {
+      "title": "Business Development ",
+      "role": "Employee",
+      "url": "https://angel.co/u/elliott-thornhill-1",
+      "name": "Elliott Thornhill",
+      "avatar": "https://photos.angel.co/users/5396367-medium_jpg?1579773452",
+      "bioHtml": "Business Development @ Loyalize | Director @ HIKE | 6+ years in start-ups"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6984899",
+    "angelListUrl": "https://angel.co/company/loyalize-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Junior Developer at a fast-growing FinTech start-up in London",
+      "description": "https://www.loyalize.uk/junior-developer\n\nThe Role:\n\nWe write phenomenal software. We sweat the details, focus on impact and create a harmonious culture.\n\nCreating elegant products begins with a lot of prototyping and iteration to explore the problem space. It culminates in careful attention to edge cases and error handling, polished code and tests to ensure that we ship a reliable product with zero data integrity or security compromises.\n\nWe're looking for a Junior Developer to join our Product Engineering team. You'll have the opportunity to work across all aspects of our product, helping to shape our platform and delivering features that provide real, long-term value for our partner organisations. You'll help to improve the performance of our transaction processing engine, which fuels the performance of our end-to-end engine.\n\nEvery Loyalize software release improves the user experience for millions of customers. We're all about deploying high value projects and care deeply about collaboration, feedback and iteration. Trust and respect are rooted in our engineering culture.​\n\nOur team is a small and talented group of engineers, building innovative solutions that will revolutionise how organisations reward their customers.\n\n\nTechnical skills and experience:\n\n- An expert in Python, with a strong knowledge of Flask;\n\n- Familiarity with SQLAlchemy ORM Library;\n\n- Familiarity with front-end technologies (such as JavaScript and HTML5);\n\n- The ability to integrate multiple data sources and databases into one system;\n\n- Understanding of the threading limitations of Python and multi-process architecture;\n\n- Knowledge of user authentication and authorisation between multiple systems, servers and environments;\n\n- The ability to create database schemas that represent and support business processes;\n\n- A strong knowledge of unit testing and debugging;\n\n- A proficiency in code versioning tools;\n\n- An understanding of accessibility and security compliance.\n\n\nPersonal skills:\n\n- Proactive and logical, with a sense of urgency;\n\n- A natural problem solver;\n\n- Entrepreneurial in outlook and spirit, with the ability to be flexible as part of a fast-growing business;\n\n- Strong attention to detail;\n\n- Personable and enthusiastic - we want you to share our vision!;\n\n- The ability to meet strict and changing deadlines, and prioritise work accordingly;\n\n- Collaborative and a team player.",
+      "descriptionHtml": "<p><a href=\"https://www.loyalize.uk/junior-developer\" target=\"_blank\" rel=\"nofollow\">https://www.loyalize.uk/junior-developer</a></p>\n\n<p>The Role:</p>\n\n<p>We write phenomenal software. We sweat the details, focus on impact and create a harmonious culture.</p>\n\n<p>Creating elegant products begins with a lot of prototyping and iteration to explore the problem space. It culminates in careful attention to edge cases and error handling, polished code and tests to ensure that we ship a reliable product with zero data integrity or security compromises.</p>\n\n<p>We&#39;re looking for a Junior Developer to join our Product Engineering team. You&#39;ll have the opportunity to work across all aspects of our product, helping to shape our platform and delivering features that provide real, long-term value for our partner organisations. You&#39;ll help to improve the performance of our transaction processing engine, which fuels the performance of our end-to-end engine.</p>\n\n<p>Every Loyalize software release improves the user experience for millions of customers. We&#39;re all about deploying high value projects and care deeply about collaboration, feedback and iteration. Trust and respect are rooted in our engineering culture.​</p>\n\n<p>Our team is a small and talented group of engineers, building innovative solutions that will revolutionise how organisations reward their customers.</p>\n\n<p>Technical skills and experience:</p>\n\n<ul>\n<li><p>An expert in Python, with a strong knowledge of Flask;</p></li>\n<li><p>Familiarity with SQLAlchemy ORM Library;</p></li>\n<li><p>Familiarity with front-end technologies (such as JavaScript and HTML5);</p></li>\n<li><p>The ability to integrate multiple data sources and databases into one system;</p></li>\n<li><p>Understanding of the threading limitations of Python and multi-process architecture;</p></li>\n<li><p>Knowledge of user authentication and authorisation between multiple systems, servers and environments;</p></li>\n<li><p>The ability to create database schemas that represent and support business processes;</p></li>\n<li><p>A strong knowledge of unit testing and debugging;</p></li>\n<li><p>A proficiency in code versioning tools;</p></li>\n<li><p>An understanding of accessibility and security compliance.</p></li>\n</ul>\n\n<p>Personal skills:</p>\n\n<ul>\n<li><p>Proactive and logical, with a sense of urgency;</p></li>\n<li><p>A natural problem solver;</p></li>\n<li><p>Entrepreneurial in outlook and spirit, with the ability to be flexible as part of a fast-growing business;</p></li>\n<li><p>Strong attention to detail;</p></li>\n<li><p>Personable and enthusiastic - we want you to share our vision!;</p></li>\n<li><p>The ability to meet strict and changing deadlines, and prioritise work accordingly;</p></li>\n<li><p>Collaborative and a team player.</p></li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Javascript",
+        "HTML",
+        "SQLAlchemy",
+        "Flask",
+        "Debugging",
+        "ORM",
+        "Unit Testing"
+      ],
+      "payment": {
+        "salary": "£40k – £50k",
+        "equity": "0.25% – 0.75%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/davidjohnloyalize",
+        "name": "David John",
+        "avatar": "https://photos.angel.co/users/3928924-medium_jpg?1528841466"
+      },
+      "refs": {
+        "angelListId": "601983",
+        "angelListUrl": "https://angel.co/company/loyalize-1/jobs/601983-"
+      }
+    }
+  ]
+}

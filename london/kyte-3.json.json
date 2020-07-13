@@ -1,0 +1,92 @@
+{
+  "name": "Kyte",
+  "avatar": "https://photos.angel.co/startups/i/7365115-c96d38ba2a84f5083b33304b71b9355c-medium_jpg.jpg?buster=1576167117",
+  "slogan": "An alternative travel inventory aggregator",
+  "description": "Travel distribution is currently dominated by three large players (Amadeus, Sabre & Travelport). These are the Global Distribution Systems (GDSs) who own 99% of the industry. They act as large gatekeepers to flight and hotel travel inventory and charge large upfront fees preventing new travel businesses to arise. \n\nAirlines are trying to move away from GDSs due to high distribution costs and the lack of a direct connection where they struggle to maximise their revenue from ancillaries (additional services charged at an additional fee). With the GDS most of the customer personal data remain in the hands of middlemen and it is hard for airlines to personalise their content and provide a great shopping experience.\n\nKyte uses a REST API to integrate directly with airlines to provide rich content (flight and ancillaries) to travel companies of all sizes allowing them to offer the full suite of products that airlines sell on their website today.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://gokyte.com/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Technology",
+    "Travel & Tourism"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/alice-ferrari",
+      "name": "Alice Ferrari",
+      "avatar": "https://photos.angel.co/users/10367894-medium_jpg?1576169360",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7365115",
+    "angelListUrl": "https://angel.co/company/kyte-3"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Tech Lead",
+      "description": "👋 About Us\n\nBacked by strategic investor easyJet, Kyte is democratising the B2B travel space by giving brands a REST API straight to flight booking. We are creating a win-win situation where larger travel companies sell more and smaller brands avoid a traditional barrier to entry. The support from our sponsors has allowed us to grow quickly but correctly through their funding and expertise.\n\n💪🏽 As our Tech Lead you will get involved at the ground level to help us shape the vision for our tech product.\n\nSystem design - Full lifecycle application design and development of the API design - lead and maintain Kyte’s backend API\nFeed technical considerations into product and business strategy and investment narrative\nOversight of all aspects of engineering including technical strategy and implementing best practices & technology stacks\nTaking charge of platform development, owning the engineering budget and making key decisions on technical architecture\nDelivering the MVP, enabling us to test, iterate and serve our early customers.\nLead a team in integrating new airlines and customers, react to changing commercial and partner requirements\nDefine technical support processes and ensure customer support for technical issues\nEnsure infrastructure is scalable and can support a large B2B platform\nComfortable in taking part in senior meetings and speaking with investors\n🎯 Technical requirements\n\nA track record of delivering well-engineered products that delight users\nKnowledge of a range of current cross-platform product development frameworks\nGood working knowledge of API designs (e.g. OpenAPI, JSON, JSON-LD, SOAP, XML)\nExpertise in Python and nodeJS\nHigh level knowledge of infrastructure: AWS, Kubernetes, Lambda, Redis, ElasticSearch \nExperience with automated deployment and release \n\n👤 We hope you agree that these values are essential:\n\nFlexible and adaptable thinking, ability to operate in a lean environment where we prototype and test ideas quickly (and sometimes throw them away)\nEntrepreneurial spirit, wanting  to challenge the status quo \nInquisitive, making sure we are working in the right way and asking questions from a new perspective \nResilience, an appreciation of failure and what we can learn from this moving forwards \nProactive, problem solver who thinks creatively \nAppetite for experimenting with new technologies and tools to drive innovation and creativity\nA high degree of user empathy and actively seek to test, learn and iterate based on user feedback\nCustomer Obsessed: highly focussed on understanding customer journeys, pain points and user experience and developing systems and code to delight the customer\n\n🤘Benefits\nOpportunity to work from home, we value your autonomy and trust you to be results focused \nEquity model that rewards you for taking a risk at the start of our journey\nOpportunity for travel, when working with airlines and IATA \nWork with 100+ startups in one space at Founders Factory \nCatered lunches on Thursdays and Fridays\nUnlimited breakfast, healthy snacks, freshly ground coffee\nBar onsite at our High Street Kensington HQ",
+      "descriptionHtml": "<p>👋 About Us</p>\n\n<p>Backed by strategic investor easyJet, Kyte is democratising the B2B travel space by giving brands a REST API straight to flight booking. We are creating a win-win situation where larger travel companies sell more and smaller brands avoid a traditional barrier to entry. The support from our sponsors has allowed us to grow quickly but correctly through their funding and expertise.</p>\n\n<p>💪🏽 As our Tech Lead you will get involved at the ground level to help us shape the vision for our tech product.</p>\n\n<p>System design - Full lifecycle application design and development of the API design - lead and maintain Kyte’s backend API<br>\nFeed technical considerations into product and business strategy and investment narrative<br>\nOversight of all aspects of engineering including technical strategy and implementing best practices &amp; technology stacks<br>\nTaking charge of platform development, owning the engineering budget and making key decisions on technical architecture<br>\nDelivering the MVP, enabling us to test, iterate and serve our early customers.<br>\nLead a team in integrating new airlines and customers, react to changing commercial and partner requirements<br>\nDefine technical support processes and ensure customer support for technical issues<br>\nEnsure infrastructure is scalable and can support a large B2B platform<br>\nComfortable in taking part in senior meetings and speaking with investors<br>\n🎯 Technical requirements</p>\n\n<p>A track record of delivering well-engineered products that delight users<br>\nKnowledge of a range of current cross-platform product development frameworks<br>\nGood working knowledge of API designs (e.g. OpenAPI, JSON, JSON-LD, SOAP, XML)<br>\nExpertise in Python and nodeJS<br>\nHigh level knowledge of infrastructure: AWS, Kubernetes, Lambda, Redis, ElasticSearch <br>\nExperience with automated deployment and release </p>\n\n<p>👤 We hope you agree that these values are essential:</p>\n\n<p>Flexible and adaptable thinking, ability to operate in a lean environment where we prototype and test ideas quickly (and sometimes throw them away)<br>\nEntrepreneurial spirit, wanting  to challenge the status quo <br>\nInquisitive, making sure we are working in the right way and asking questions from a new perspective <br>\nResilience, an appreciation of failure and what we can learn from this moving forwards <br>\nProactive, problem solver who thinks creatively <br>\nAppetite for experimenting with new technologies and tools to drive innovation and creativity<br>\nA high degree of user empathy and actively seek to test, learn and iterate based on user feedback<br>\nCustomer Obsessed: highly focussed on understanding customer journeys, pain points and user experience and developing systems and code to delight the customer</p>\n\n<p>🤘Benefits<br>\nOpportunity to work from home, we value your autonomy and trust you to be results focused <br>\nEquity model that rewards you for taking a risk at the start of our journey<br>\nOpportunity for travel, when working with airlines and IATA <br>\nWork with 100+ startups in one space at Founders Factory <br>\nCatered lunches on Thursdays and Fridays<br>\nUnlimited breakfast, healthy snacks, freshly ground coffee<br>\nBar onsite at our High Street Kensington HQ</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£60k – £80k",
+        "equity": "10.0% – 20.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/alice-ferrari",
+        "name": "Alice Ferrari",
+        "avatar": "https://photos.angel.co/users/10367894-medium_jpg?1576169360"
+      },
+      "refs": {
+        "angelListId": "697525",
+        "angelListUrl": "https://angel.co/company/kyte-3/jobs/697525-"
+      },
+      "postedAt": 1589658697525
+    }
+  ]
+}

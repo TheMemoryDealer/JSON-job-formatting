@@ -1,0 +1,144 @@
+{
+  "name": "Penfold",
+  "avatar": "https://photos.angel.co/startups/i/5901043-5bc4364b726374654d10e17ee0aa97d5-medium_jpg.jpg?buster=1563352134",
+  "slogan": "Digital / challenger pension. We get young people saving enough for later life",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.getpenfold.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "http://linkedin.com/Penfold-Technology"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Pension",
+    "Fin Tech",
+    "Insurtech",
+    "Finance Technology"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 3130000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1567296000,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/stuart-robinson-4",
+      "name": "Stuart Robinson",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Co-founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/pete-hykin",
+      "name": "Pete Hykin",
+      "avatar": "https://photos.angel.co/users/7346197-medium_jpg?1563351901",
+      "bioHtml": "Co-founder at Penfold, Challenger Pension."
+    },
+    {
+      "title": "Co-Founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/chris-eastwood-1",
+      "name": "Chris Eastwood",
+      "avatar": "https://photos.angel.co/users/8007713-medium_jpg?1529406911",
+      "bioHtml": ""
+    },
+    {
+      "title": "Co-founder",
+      "role": "Employee",
+      "url": "https://angel.co/u/pete-hykin",
+      "name": "Pete Hykin",
+      "avatar": "https://photos.angel.co/users/7346197-medium_jpg?1563351901",
+      "bioHtml": "Co-founder at Penfold, Challenger Pension."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/stuart-robinson-4",
+      "name": "Stuart Robinson",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Co-Founder",
+      "role": "Employee",
+      "url": "https://angel.co/u/chris-eastwood-1",
+      "name": "Chris Eastwood",
+      "avatar": "https://photos.angel.co/users/8007713-medium_jpg?1529406911",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5901043",
+    "angelListUrl": "https://angel.co/company/penfold-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Frontend Software Engineer",
+      "description": "The Role\n\nWe’re looking for an experienced software engineer with a focus on front-end technologies to join our team in London. Here are some of the things you’ll help us with:\n\n*  Building features on our website that engage customers and bring to life an asset that has a meaningful impact on people’s lives.\n*  Improving the maturity of our technical stack with engineering best practices\n*  Collaborating with members of the product and design teams to continually refine and improve our product in an agile process.\n*  Being part of the code review process and helping to mentor other engineers.\n*  Working together with the CTO to shape Penfold’s engineering roadmap and culture\n\nYou\n\n*  Have extensive experience with front-end technologies (e.g. Javascript, ReactJS, Node.js)\n*  Are familiar with the principles of responsive design and can produce CSS/HTML that renders on a range of devices\n*  Understand how to interact and integrate with backend APIs, GraphQL in particular.\n*  Are comfortable developing on UNIX-like systems (e.g. macOS or Linux)\n*  Relish the idea of working in a small team in a fast-paced startup environment\n*  Enjoy working in an agile, collaborative process alongside members of other teams.\n* Are excited by the opportunity to grow into a leadership role as the company expands.",
+      "descriptionHtml": "<p>The Role</p>\n\n<p>We’re looking for an experienced software engineer with a focus on front-end technologies to join our team in London. Here are some of the things you’ll help us with:</p>\n\n<ul>\n<li> Building features on our website that engage customers and bring to life an asset that has a meaningful impact on people’s lives.</li>\n<li> Improving the maturity of our technical stack with engineering best practices</li>\n<li> Collaborating with members of the product and design teams to continually refine and improve our product in an agile process.</li>\n<li> Being part of the code review process and helping to mentor other engineers.</li>\n<li> Working together with the CTO to shape Penfold’s engineering roadmap and culture</li>\n</ul>\n\n<p>You</p>\n\n<ul>\n<li> Have extensive experience with front-end technologies (e.g. Javascript, ReactJS, Node.js)</li>\n<li> Are familiar with the principles of responsive design and can produce CSS/HTML that renders on a range of devices</li>\n<li> Understand how to interact and integrate with backend APIs, GraphQL in particular.</li>\n<li> Are comfortable developing on UNIX-like systems (e.g. macOS or Linux)</li>\n<li> Relish the idea of working in a small team in a fast-paced startup environment</li>\n<li> Enjoy working in an agile, collaborative process alongside members of other teams.</li>\n<li>Are excited by the opportunity to grow into a leadership role as the company expands.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Node.js",
+        "Responsive Design",
+        "HTML5 & CSS3",
+        "React.js",
+        "Graph Ql"
+      ],
+      "payment": {
+        "salary": "£50k – £75k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/stuart-robinson-4",
+        "name": "Stuart Robinson",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "591220",
+        "angelListUrl": "https://angel.co/company/penfold-1/jobs/591220-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Watching That",
+  "avatar": "https://photos.angel.co/startups/i/2411545-d8cc91df280f208d31c9c81cf3f4f10d-medium_jpg.jpg?buster=1476184948",
+  "slogan": "The video intelligence platform",
+  "description": "Watching That is a video intelligence platform for digital media publishers, broadcasters and brands.  \n\nCustomers of Watching That maximise the views and money made from their video publishing efforts. \n\nDeploying Watching That can take as little as 15 minutes and the returns can be transformative. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.watchingthat.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Digital Media",
+    "Online Video"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/cameron-church-1",
+      "name": "Cameron Church",
+      "avatar": "https://photos.angel.co/users/3965587-medium_jpg?1476453651",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/watching-that\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Watching That</span></a>, <a href=\"https://angel.co/company/far-far-away\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Far Far Away</span></a> • Worked at <a href=\"https://angel.co/company/brightcove\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Brightcove</span></a>, <a href=\"https://angel.co/company/rightster-3\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Rightster</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/antonia-alonzo",
+      "name": "Antonia Alonzo",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/dancaragea",
+      "name": "Dan Caragea",
+      "avatar": "https://photos.angel.co/users/1627184-medium_jpg?1444667145",
+      "bioHtml": "My stack of choice: React.js and Node.js. I prefer front end work with react/redux/webpack/ES6 but I know my way around node.js too."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "2411545",
+    "angelListUrl": "https://angel.co/company/watching-that"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Data Streaming Engineer - London : Remote",
+      "description": "We’re looking for a Senior Software Engineer with a focus on Data Streaming to join our growing team based either in London or remote in Europe. The role is a unique opportunity to build a real time stream processing platform dealing with billions of online video data beacons from across the globe and across every device video plays on.\n\nYour mission:\n\n- Design and develop an Apache Kafka powered streaming data juggernaught that handles billions of global data beacons a month from every device that can display video;\n\n- Work at the core of the engineering effort by innovating and collaborating on how to use your real time data infrastructure to build world class insight driven applications for our global customer base;\n\n- Build APIs and developer tooling that allow both internal and external engineers to quickly build streaming applications in a self service manner;\n\n\nThis role with give you the opportunity to:\n\n- join a funded startup at the ground floor;\n- choose your own path with the freedom to define and execute your vision;\n- inspire teams with your ideas, knowledge and self starting attitude;\n- be inspired by other teams on their ideas, knowledge and self starting attitude;\n\nWho you need to be\n\n- You have a track record working in a startup environment with a been there, done that CV;\n- You know the difference between ETL and real-time;\n- You have expertise in Java, Scala, or other JVM-based languages;\n- You have worked on and/or have deep understand messaging/queuing systems or stream processing systems such as Apache Kafka;\n- You've worked extensively with AWS and deployed large scale systems across their infrastructure;\n- You are a good communicator, self-driven and can pitch ideas across company and product teams.\n\nExtra points if you:\n\n- Have worked with NodeJS extensively;\n- Have built a self service platform with developer tooling and APIs before;\n- Have mad Dev Ops skills\n\nThe icing on top:\n\nAlong with all-expenses-paid company trips, ground floor stock options in a funded startup, a laptop, and working with a great crew of really energetic, curious and proactive people you'll also get 25 days holiday a year plus access to a professional development program - we never stop learning at Watching That.\n\nA bit about Watching That:\n\nSince 2017 we've been on a mission: video intelligence .  Built by people passionate about the power of video and big data we're the easiest way to manage and scale your video business across every device and across every border.\n\nWe're just at the beginning of our story and we're growing fast. We won't stop until every company is maxing out their video views and commercial returns.  There's tonnes to do and we can't do it alone!",
+      "descriptionHtml": "<p>We’re looking for a Senior Software Engineer with a focus on Data Streaming to join our growing team based either in London or remote in Europe. The role is a unique opportunity to build a real time stream processing platform dealing with billions of online video data beacons from across the globe and across every device video plays on.</p>\n\n<p>Your mission:</p>\n\n<ul>\n<li><p>Design and develop an Apache Kafka powered streaming data juggernaught that handles billions of global data beacons a month from every device that can display video;</p></li>\n<li><p>Work at the core of the engineering effort by innovating and collaborating on how to use your real time data infrastructure to build world class insight driven applications for our global customer base;</p></li>\n<li><p>Build APIs and developer tooling that allow both internal and external engineers to quickly build streaming applications in a self service manner;</p></li>\n</ul>\n\n<p>This role with give you the opportunity to:</p>\n\n<ul>\n<li>join a funded startup at the ground floor;</li>\n<li>choose your own path with the freedom to define and execute your vision;</li>\n<li>inspire teams with your ideas, knowledge and self starting attitude;</li>\n<li>be inspired by other teams on their ideas, knowledge and self starting attitude;</li>\n</ul>\n\n<p>Who you need to be</p>\n\n<ul>\n<li>You have a track record working in a startup environment with a been there, done that CV;</li>\n<li>You know the difference between ETL and real-time;</li>\n<li>You have expertise in Java, Scala, or other JVM-based languages;</li>\n<li>You have worked on and/or have deep understand messaging/queuing systems or stream processing systems such as Apache Kafka;</li>\n<li>You&#39;ve worked extensively with AWS and deployed large scale systems across their infrastructure;</li>\n<li>You are a good communicator, self-driven and can pitch ideas across company and product teams.</li>\n</ul>\n\n<p>Extra points if you:</p>\n\n<ul>\n<li>Have worked with NodeJS extensively;</li>\n<li>Have built a self service platform with developer tooling and APIs before;</li>\n<li>Have mad Dev Ops skills</li>\n</ul>\n\n<p>The icing on top:</p>\n\n<p>Along with all-expenses-paid company trips, ground floor stock options in a funded startup, a laptop, and working with a great crew of really energetic, curious and proactive people you&#39;ll also get 25 days holiday a year plus access to a professional development program - we never stop learning at Watching That.</p>\n\n<p>A bit about Watching That:</p>\n\n<p>Since 2017 we&#39;ve been on a mission: video intelligence .  Built by people passionate about the power of video and big data we&#39;re the easiest way to manage and scale your video business across every device and across every border.</p>\n\n<p>We&#39;re just at the beginning of our story and we&#39;re growing fast. We won&#39;t stop until every company is maxing out their video views and commercial returns.  There&#39;s tonnes to do and we can&#39;t do it alone!</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Java",
+        "Javascript",
+        "Node.js",
+        "Kafka",
+        "AWS",
+        "Apache Kafka",
+        "NodeJS",
+        "Go"
+      ],
+      "payment": {
+        "salary": "£45k – £75k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/cameron-church-1",
+        "name": "Cameron Church",
+        "avatar": "https://photos.angel.co/users/3965587-medium_jpg?1476453651"
+      },
+      "refs": {
+        "angelListId": "496161",
+        "angelListUrl": "https://angel.co/company/watching-that/jobs/496161-"
+      }
+    }
+  ]
+}

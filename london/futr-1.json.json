@@ -1,0 +1,91 @@
+{
+  "name": "Futr",
+  "avatar": "https://photos.angel.co/startups/i/7068081-ebfbd91756b3d3b5d17ca6b911533416-medium_jpg.jpg?buster=1563369531",
+  "slogan": "AI start-up with the mission of making life easier for everyone through chat",
+  "description": "Founded by Lee Skyrme and Andy Wilkins in 2017, Futr.’s conversation-as-a-service platform powers the police, central and local government, enterprises and many SMEs.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://futr.ai/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Technology"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/omar-mughal-2",
+      "name": "Omar Mughal",
+      "avatar": "https://photos.angel.co/users/9703803-medium_jpg?1563369115",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7068081",
+    "angelListUrl": "https://angel.co/company/futr-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Service side / Back End developer",
+      "description": "The role\n\nYou will be joining a team focused on building next generation AI capabilities. In particular your responsibility will include developing a conversation AI platform that enables our clients to engage and support their staff, customers and citizens.\nThe current platform uses a mixture of vendor and in-house technologies including conversational user interfaces, Natural Language Processing (NLP) and Machine Learning engines, and integration frameworks for interfacing with other in-house systems\nYour hands-on knowledge in system design, application development, testing and operational stability will help you and your team deliver high quality products. You’ll be instrumental in solving more difficult technical issues, developing integration elements, building data models, APIs, and open 3rd-party SDKs. \nYou’ll see your ideas come to life as part of a small, success-driven team. Your quest to embracing leading-edge technologies and methodologies inspires your team to follow suit.\n\nRequirements\n\n•\tProficiency in one or more object-oriented programming languages with a focus on backend applications (C#, Node JS and Python)\n•\tUnderstanding of cloud, virtualization, APIs, and modern system constructs.\n•\tExperience working with REST APIs\nExperience working with both AWS and Azure using serverless functions, knowledge of Logic Apps preferable.\n•\tExperience working and implementing DevOps.\n•\tExperience working with Kubernetes a bonus. \n•\tAble to provide technical expertise throughout the system engineering lifecycle including design, implementation and delivery. \n•\tProblem solver with a passion for AI technologies \n•\tAbility to work as part of a team \n•\tStrong interest in software development and pushing",
+      "descriptionHtml": "<p>The role</p>\n\n<p>You will be joining a team focused on building next generation AI capabilities. In particular your responsibility will include developing a conversation AI platform that enables our clients to engage and support their staff, customers and citizens.<br>\nThe current platform uses a mixture of vendor and in-house technologies including conversational user interfaces, Natural Language Processing (NLP) and Machine Learning engines, and integration frameworks for interfacing with other in-house systems<br>\nYour hands-on knowledge in system design, application development, testing and operational stability will help you and your team deliver high quality products. You’ll be instrumental in solving more difficult technical issues, developing integration elements, building data models, APIs, and open 3rd-party SDKs. <br>\nYou’ll see your ideas come to life as part of a small, success-driven team. Your quest to embracing leading-edge technologies and methodologies inspires your team to follow suit.</p>\n\n<p>Requirements</p>\n\n<p>• Proficiency in one or more object-oriented programming languages with a focus on backend applications (C#, Node JS and Python)<br>\n• Understanding of cloud, virtualization, APIs, and modern system constructs.<br>\n• Experience working with REST APIs<br>\nExperience working with both AWS and Azure using serverless functions, knowledge of Logic Apps preferable.<br>\n• Experience working and implementing DevOps.<br>\n• Experience working with Kubernetes a bonus. <br>\n• Able to provide technical expertise throughout the system engineering lifecycle including design, implementation and delivery. <br>\n• Problem solver with a passion for AI technologies <br>\n• Ability to work as part of a team <br>\n• Strong interest in software development and pushing</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Programming Languages : Php, Java, Javascript, Python, C#, C++, Node Js, Android"
+      ],
+      "payment": {
+        "salary": "£60k – £70k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/omar-mughal-2",
+        "name": "Omar Mughal",
+        "avatar": "https://photos.angel.co/users/9703803-medium_jpg?1563369115"
+      },
+      "refs": {
+        "angelListId": "591304",
+        "angelListUrl": "https://angel.co/company/futr-1/jobs/591304-"
+      }
+    }
+  ]
+}

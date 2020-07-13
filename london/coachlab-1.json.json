@@ -1,0 +1,94 @@
+{
+  "name": "COACHLAB",
+  "avatar": "https://photos.angel.co/startups/i/7627418-b9acc9e8b8e8c80251fc69821937dc74-medium_jpg.jpg?buster=1586872284",
+  "slogan": "A digital tool to guide mentors and managers through coaching conversations",
+  "description": "COACHLAB is on a mission to help people have deeper, more meaningful connections and conversations through coaching.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.coachlab.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London",
+    "London",
+    "Greater London",
+    "City of London",
+    "London"
+  ],
+  "marketTags": [
+    "Enterprise Software"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/wei-ying-chen",
+      "name": "Wei-Ying Chen",
+      "avatar": "https://photos.angel.co/users/10978078-medium_jpg?1586871486",
+      "bioHtml": "Founder | Coach | Consultant\n\nCurrently on a mission to help people have deeper, more meaningful connections and conversations through coaching."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7627418",
+    "angelListUrl": "https://angel.co/company/coachlab-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "CTO",
+      "description": "Looking for a CTO to join the project and help take the MVP to the next level.",
+      "descriptionHtml": "<p>Looking for a CTO to join the project and help take the MVP to the next level.</p>\n",
+      "position": "cofounder",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary",
+        "equity": "25.0% – 40.0%"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Founder",
+        "url": "https://angel.co/u/wei-ying-chen",
+        "name": "Wei-Ying Chen",
+        "avatar": "https://photos.angel.co/users/10978078-medium_jpg?1586871486"
+      },
+      "refs": {
+        "angelListId": "786506",
+        "angelListUrl": "https://angel.co/company/coachlab-1/jobs/786506-"
+      }
+    }
+  ]
+}

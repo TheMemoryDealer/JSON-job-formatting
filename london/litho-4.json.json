@@ -1,0 +1,106 @@
+{
+  "name": "LITHO",
+  "avatar": "https://photos.angel.co/startups/i/6868276-ffda51e1856374ae3289390a1c659676-medium_jpg.jpg?buster=1554310657",
+  "slogan": "The input device for the real world",
+  "description": "LITHO Hardware:\nLITHO itself is a small finger-worn controller that connects to your smartphone or headset. The controller has a touch surface on the underside, an array of motion sensors and provides haptic feedback.\n\nLITHO Software:\nThe controller is complemented by the LITHO SDK for Unity that - by fusing data from the phone’s camera and the motion sensors in the controller - provides context-aware pointing information.\n\nThis allows developers to make apps which can not only identify the direction in which the wearer is pointing, but also what they are pointing at in the real world.\n\nThe LITHO SDK also provides an interaction framework of off-the-shelf solutions to core interactions, including templates for tools such as object creation, movement and deletion, making it easy for developers to quickly build delightful and intuitive augmented reality (AR) experiences.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.litho.cc/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Hardware",
+    "Software",
+    "Augmented Reality",
+    "Technology",
+    "Virtual Reality"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/nat-martin-1",
+      "name": "Nat Martin",
+      "avatar": "https://photos.angel.co/users/8995083-medium_jpg?1551186635",
+      "bioHtml": "Founder of LITHO"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/maya-hope-chaldecott",
+      "name": "Maya Hope Chaldecott",
+      "avatar": "https://photos.angel.co/users/9152452-medium_jpg?1554314286",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6868276",
+    "angelListUrl": "https://angel.co/company/litho-4"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Lead Developer",
+      "description": "We are looking for a developer with proficiency in C++ and/or C# to join us in building the future of digital interaction. \n\nAs a small but rapidly growing team, the position is flexible in scope, although mathematical aptitude is required and some experience in game development is preferred. The initiative and desire to tackle novel human-computer interaction problems is also key. \n\nBeyond this, we are open to candidates with differing backgrounds and levels of experience.\n\nOur office is a 1-minute walk away from Aldgate East tube station.\n\nIf LITHO looks like something you’re excited to be a part of, we’d love to hear from you!\n\nCompany Benefits:\n- Equity\n- Flexible holiday\n- Flexible working hours",
+      "descriptionHtml": "<p>We are looking for a developer with proficiency in C++ and/or C# to join us in building the future of digital interaction. </p>\n\n<p>As a small but rapidly growing team, the position is flexible in scope, although mathematical aptitude is required and some experience in game development is preferred. The initiative and desire to tackle novel human-computer interaction problems is also key. </p>\n\n<p>Beyond this, we are open to candidates with differing backgrounds and levels of experience.</p>\n\n<p>Our office is a 1-minute walk away from Aldgate East tube station.</p>\n\n<p>If LITHO looks like something you’re excited to be a part of, we’d love to hear from you!</p>\n\n<p>Company Benefits:</p>\n\n<ul>\n<li>Equity</li>\n<li>Flexible holiday</li>\n<li>Flexible working hours</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "C++",
+        "C#",
+        "Unity3D"
+      ],
+      "payment": {
+        "salary": "£30k – £65k",
+        "equity": "0.5% – 2.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/maya-hope-chaldecott",
+        "name": "Maya Hope Chaldecott",
+        "avatar": "https://photos.angel.co/users/9152452-medium_jpg?1554314286"
+      },
+      "refs": {
+        "angelListId": "532269",
+        "angelListUrl": "https://angel.co/company/litho-4/jobs/532269-"
+      }
+    }
+  ]
+}

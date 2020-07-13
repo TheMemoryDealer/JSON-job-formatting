@@ -1,0 +1,149 @@
+{
+  "name": "CommerceBlock",
+  "avatar": "https://photos.angel.co/startups/i/2734427-bcd89cd5af051c0b90058f26006cca14-medium_jpg.jpg?buster=1563968321",
+  "slogan": "",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.commerceblock.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Trade Platform",
+    "Bitcoin"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/tom-trevethan",
+      "name": "Tom Trevethan",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/nicholas-gregory",
+      "name": "Nicholas Gregory",
+      "avatar": "https://photos.angel.co/users/1162227-medium_jpg?1492085713",
+      "bioHtml": "Worked in Financial Technology for the last 10 years.  Background in software companies and technical leadership.  Big Data, Bitcoin/Blockchain Technologies."
+    },
+    {
+      "title": "COO",
+      "role": "Employee",
+      "url": "https://angel.co/u/dirk-bernhardt-2",
+      "name": "Dirk Bernhardt",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "COO at CommerceBlock"
+    },
+    {
+      "title": "Head of Engineering",
+      "role": "Employee",
+      "url": "https://angel.co/u/tom-trevethan",
+      "name": "Tom Trevethan",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "2734427",
+    "angelListUrl": "https://angel.co/company/commerceblock"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Open Source Software Engineer",
+      "description": "We're currently seeking to hire talented engineers to join our team and contribute to the Bitcoin / Blockchain open-source project.  Must be passionate about bitcoin & cryptocurrencies. \n\nPrimary software is built in C++ and Rust.  \n\nProjects include\n- Bitcoin Core\n- Lightning Network\n- Side Chains\n\nPlease look at projects on our github page: https://github.com/commerceblock",
+      "descriptionHtml": "<p>We&#39;re currently seeking to hire talented engineers to join our team and contribute to the Bitcoin / Blockchain open-source project.  Must be passionate about bitcoin &amp; cryptocurrencies. </p>\n\n<p>Primary software is built in C++ and Rust.  </p>\n\n<p>Projects include</p>\n\n<ul>\n<li>Bitcoin Core</li>\n<li>Lightning Network</li>\n<li>Side Chains</li>\n</ul>\n\n<p>Please look at projects on our github page: <a href=\"https://github.com/commerceblock\" target=\"_blank\" rel=\"nofollow\">https://github.com/commerceblock</a></p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "C++",
+        "Open Source Software",
+        "Go (Golang)"
+      ],
+      "payment": {
+        "salary": "£50k – £100k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/nicholas-gregory",
+        "name": "Nicholas Gregory",
+        "avatar": "https://photos.angel.co/users/1162227-medium_jpg?1492085713"
+      },
+      "refs": {
+        "angelListId": "307651",
+        "angelListUrl": "https://angel.co/company/commerceblock/jobs/307651-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Dev Ops Engineer",
+      "description": "CommerceBlock has engineered the first platform for enabling global economic trade in a secure, private and efficient manner on public blockchains.\n\nWe're currently seeking to hire a talented engineers to join our team and build infrastructure to run open Bitcoin / Blockchain open-source projects.",
+      "descriptionHtml": "<p>CommerceBlock has engineered the first platform for enabling global economic trade in a secure, private and efficient manner on public blockchains.</p>\n\n<p>We&#39;re currently seeking to hire a talented engineers to join our team and build infrastructure to run open Bitcoin / Blockchain open-source projects.</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£50k – £100k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/nicholas-gregory",
+        "name": "Nicholas Gregory",
+        "avatar": "https://photos.angel.co/users/1162227-medium_jpg?1492085713"
+      },
+      "refs": {
+        "angelListId": "307656",
+        "angelListUrl": "https://angel.co/company/commerceblock/jobs/307656-"
+      }
+    }
+  ]
+}

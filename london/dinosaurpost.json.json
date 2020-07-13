@@ -1,0 +1,102 @@
+{
+  "name": "Dinosaurpost",
+  "avatar": "https://photos.angel.co/startups/i/7007737-f02ca11a4d053032f9469a154026c720-medium_jpg.jpg?buster=1560609503",
+  "slogan": "The Most Special Messaging App In The Universe",
+  "description": "Based on your geo-location Dinosaurpost will delay your message, between one and four days. By the delaying the messages between users we are encouraging our platform to be the go to messaging app for numerous purposes. This includes for longer letter like correspondence, creative writing and special event invites. Thereby the most cherished correspondence that users create and acquire over time would be stored on Dinosaurpost. In part this caters for messages that do not or should not be delivered instantly, also it tactically removes the pressure of an instant reply. Thus, enabling users to take their time to craft an reply. Users can search for new friends to write to on Dinosaurpost. and around the world via common interests, age and gender.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://itunes.apple.com/app/dinosaurpost/id1455231790?mt=8"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Messaging",
+    "Social Network"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/ankit-love-2",
+      "name": "Ankit Love",
+      "avatar": "https://photos.angel.co/users/9532866-medium_jpg?1560609598",
+      "bioHtml": "https://www.instagram.com/ankitlove_artist/"
+    },
+    {
+      "title": "Founder & Creative Director",
+      "role": "Employee",
+      "url": "https://angel.co/u/ankit-love-2",
+      "name": "Ankit Love",
+      "avatar": "https://photos.angel.co/users/9532866-medium_jpg?1560609598",
+      "bioHtml": "https://www.instagram.com/ankitlove_artist/"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7007737",
+    "angelListUrl": "https://angel.co/company/dinosaurpost"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Xcode mobile app coder and debugger",
+      "description": "You will be the first new recruit of perhaps the most exciting future messaging social network in the universe: Dinosaurpost. You should know how to use Xcode, and be able to debug the application.\n\nAs the first recruit you will work closely with our founder, Ankit Love, and gain from his experience. We will also work to evolve the concept together. There is a potential for the right person, regardless of experience joining at this position now, to be the future CTO of the company, and consequently gain more shareholding too.",
+      "descriptionHtml": "<p>You will be the first new recruit of perhaps the most exciting future messaging social network in the universe: Dinosaurpost. You should know how to use Xcode, and be able to debug the application.</p>\n\n<p>As the first recruit you will work closely with our founder, Ankit Love, and gain from his experience. We will also work to evolve the concept together. There is a potential for the right person, regardless of experience joining at this position now, to be the future CTO of the company, and consequently gain more shareholding too.</p>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Xcode"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "0.5% – 1.0%"
+      },
+      "recruiter": {
+        "title": "Founder & Creative Director",
+        "role": "Employee",
+        "url": "https://angel.co/u/ankit-love-2",
+        "name": "Ankit Love",
+        "avatar": "https://photos.angel.co/users/9532866-medium_jpg?1560609598"
+      },
+      "refs": {
+        "angelListId": "573833",
+        "angelListUrl": "https://angel.co/company/dinosaurpost/jobs/573833-"
+      }
+    }
+  ]
+}

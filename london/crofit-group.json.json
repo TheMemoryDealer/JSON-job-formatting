@@ -1,0 +1,99 @@
+{
+  "name": "CROFIT Group",
+  "avatar": "https://photos.angel.co/startups/i/7424147-c24cd70787562f02f68f6015adc6a473-medium_jpg.jpg?buster=1579272117",
+  "slogan": "An online fitness experience platform, human, personalised",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://thecrofitgroup.com/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London",
+    "Birmingham"
+  ],
+  "marketTags": [
+    "Fitness",
+    "Technology"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/damir-pervan",
+      "name": "Damir Pervan",
+      "avatar": "https://photos.angel.co/users/6717970-medium_jpg?1501158267",
+      "bioHtml": "Croatian Entrepreneur, Investor, and rocket engineering fanatic. Currently Founder and CEO of THE CROFIT Group."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7424147",
+    "angelListUrl": "https://angel.co/company/crofit-group"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "COO",
+      "description": "We are looking for a co-founder, COO who will help Damir, CEO, with execution towards a product-market fit.",
+      "descriptionHtml": "<p>We are looking for a co-founder, COO who will help Damir, CEO, with execution towards a product-market fit.</p>\n",
+      "position": "cofounder",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "London"
+      ],
+      "skills": [
+        "Business Development",
+        "Business Operations",
+        "Start-Ups",
+        "Start-Up COO"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "0.0% – 15.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/damir-pervan",
+        "name": "Damir Pervan",
+        "avatar": "https://photos.angel.co/users/6717970-medium_jpg?1501158267"
+      },
+      "refs": {
+        "angelListId": "699558",
+        "angelListUrl": "https://angel.co/company/crofit-group/jobs/699558-"
+      }
+    }
+  ]
+}

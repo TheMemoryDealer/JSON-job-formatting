@@ -1,0 +1,201 @@
+{
+  "name": "HoplàCare",
+  "avatar": "https://photos.angel.co/startups/i/122849-11b0e9f531be15625a01ee84e5687ef2-medium_jpg.jpg?buster=1521109613",
+  "slogan": "The booking.com of trusted Carers",
+  "description": "The Booking.com of trusted Carers, a unified marketplace that makes domiciliary HealthCare services bookable online within 3 minutes.\n\nHoplàCare allows a quick and effective matching between the demand and the supply of all kind of Home Care services for the older and disabled persons. \n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.hoplacare.com"
+    },
+    {
+      "type": "blog",
+      "url": "http://www.caringmate.com/blog"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/HoplaCare"
+    },
+    {
+      "type": "facebook",
+      "url": "http://facebook.com/HoplaCare"
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Home Care",
+    "Healthcare",
+    "Personal Health",
+    "Health and Wellness"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 60000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1485043200,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/nicolafratini",
+      "name": "Nicola Fratini",
+      "avatar": "https://photos.angel.co/users/174866-medium_jpg?1520334124",
+      "bioHtml": "Founder at CaringMate, Phd in Engineering at &quot;La Sapienza&quot; University of Rome, strong business/entrepreneurship background."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/maria-augusta-mancini",
+      "name": "Maria Augusta Mancini",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/antoa",
+      "name": "Antonello Amici",
+      "avatar": "https://photos.angel.co/users/1478832-medium_jpg?1442592944",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/zoryanalysyshyn",
+      "name": "Zoryana Lysyshyn",
+      "avatar": "https://photos.angel.co/users/1478745-medium_jpg?1520335724",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "122849",
+    "angelListUrl": "https://angel.co/company/hoplacare"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Health Care Expert",
+      "description": "We are looking for a freelance high-skilled health care expert, with experience in healthcare businesses and regulatory, London based, available to join the HoplàCare team. \nCaringMate Ltd is going to submit his new project HoplàCare to the EC in February. Only in case of success, your responsibilities will be:\n- Recommend best practice solutions and assist in implementation of recommendations for care providers\n- Review documentation and procedures to assure compliance with regulatory and government requirements for care providers\n- Review regulatory for healthcare service transaction (billing, invoicing, taxes, claims) and liability insurance. Please only London based, no remote working, no agencies.",
+      "descriptionHtml": "<p>We are looking for a freelance high-skilled health care expert, with experience in healthcare businesses and regulatory, London based, available to join the HoplàCare team. <br>\nCaringMate Ltd is going to submit his new project HoplàCare to the EC in February. Only in case of success, your responsibilities will be:</p>\n\n<ul>\n<li>Recommend best practice solutions and assist in implementation of recommendations for care providers</li>\n<li>Review documentation and procedures to assure compliance with regulatory and government requirements for care providers</li>\n<li>Review regulatory for healthcare service transaction (billing, invoicing, taxes, claims) and liability insurance. Please only London based, no remote working, no agencies.</li>\n</ul>\n",
+      "position": "contract",
+      "experience": 10,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Greater London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£30k – £40k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/nicolafratini",
+        "name": "Nicola Fratini",
+        "avatar": "https://photos.angel.co/users/174866-medium_jpg?1520334124"
+      },
+      "refs": {
+        "angelListId": "83181",
+        "angelListUrl": "https://angel.co/company/hoplacare/jobs/83181-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "We are looking for a freelance high-skilled software engineer, London based, available to join the HoplàCare team. CaringMate Ltd is going to submit his new project HoplàCare to the EC in February. Only in case of success, you'll be in charge of a distributed team of web programmers and app (iOs and Android) developers. You'll be responsible for the release of a full operational Beta of the web site and of the app for the project HoplàCare. Please, only London based, no remote working, no employment agencies, no companies.",
+      "descriptionHtml": "<p>We are looking for a freelance high-skilled software engineer, London based, available to join the HoplàCare team. CaringMate Ltd is going to submit his new project HoplàCare to the EC in February. Only in case of success, you&#39;ll be in charge of a distributed team of web programmers and app (iOs and Android) developers. You&#39;ll be responsible for the release of a full operational Beta of the web site and of the app for the project HoplàCare. Please, only London based, no remote working, no employment agencies, no companies.</p>\n",
+      "position": "contract",
+      "experience": 7,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Greater London",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Android",
+        "iOS",
+        "iOS Development",
+        "HTML/CSS/PHP/MYSQL",
+        "Ruby on Rails",
+        "Android Application Development"
+      ],
+      "payment": {
+        "salary": "€35k – €50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/nicolafratini",
+        "name": "Nicola Fratini",
+        "avatar": "https://photos.angel.co/users/174866-medium_jpg?1520334124"
+      },
+      "refs": {
+        "angelListId": "338682",
+        "angelListUrl": "https://angel.co/company/hoplacare/jobs/338682-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Marketing manager",
+      "description": "We are looking for a freelance high-skilled web marketing expert, London based, available to join the HoplàCare team. CaringMate Ltd is going to submit his new project HoplàCare to the EC in February. Only in case of success, you'll be involved in all the aspects related to marketing activities. Your main responsability will be fostering the launch of HoplàCare and establishing our brand into the UK market. Please, only London based, no remote working, no employment agencies, no companies.",
+      "descriptionHtml": "<p>We are looking for a freelance high-skilled web marketing expert, London based, available to join the HoplàCare team. CaringMate Ltd is going to submit his new project HoplàCare to the EC in February. Only in case of success, you&#39;ll be involved in all the aspects related to marketing activities. Your main responsability will be fostering the launch of HoplàCare and establishing our brand into the UK market. Please, only London based, no remote working, no employment agencies, no companies.</p>\n",
+      "position": "contract",
+      "experience": 7,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Greater London",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Web Marketing",
+        "Sales",
+        "Sales Strategy and Management",
+        "Social Media Marketing",
+        "Sales and Marketing",
+        "Local Marketing",
+        "Marketing Management"
+      ],
+      "payment": {
+        "salary": "€35k – €50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/nicolafratini",
+        "name": "Nicola Fratini",
+        "avatar": "https://photos.angel.co/users/174866-medium_jpg?1520334124"
+      },
+      "refs": {
+        "angelListId": "338690",
+        "angelListUrl": "https://angel.co/company/hoplacare/jobs/338690-"
+      }
+    }
+  ]
+}

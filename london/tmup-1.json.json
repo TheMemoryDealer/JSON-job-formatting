@@ -1,0 +1,96 @@
+{
+  "name": "Tmup",
+  "avatar": "https://photos.angel.co/startups/i/7266105-df98b97f04a809fbb09b6d61c595afcb-medium_jpg.jpg?buster=1571666306",
+  "slogan": "Find people to play sports with (Tinder for sports)",
+  "description": "Tmup is a web-app used to find and organise local games in any sport, at any level, on-demand.\n\n502m people regularly play sports worldwide, with 36% of adults (16m) in the UK playing sports at least once per week.\n\nOrganising sports currently is frustrating, expensive and often impractical, on top of this people can be unreliable.\n\nTmup uses its own objective rating system to find people your level to play with (as well as tracking your performance over time), keeps all communication in one place (out of email and WhatsApp inboxes) and allows you to find Tmups near you, when you want to play (so you don't have to commit to joining leagues and teams).\n\nWe will initially target students, young professionals, niche sports and meetup groups with the goal of one day expanding to make sports accessible for anyone, on-demand. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.tmupapp.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/tmupapp"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/tmupapp/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/tmup/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Sports",
+    "Mobile",
+    "Fitness",
+    "Communities"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/michael-heap-1",
+      "name": "Michael Heap",
+      "avatar": "https://photos.angel.co/users/6773685-medium_jpg?1502291925",
+      "bioHtml": "Entrepreneurial, passionate about start-ups, technology and building teams to generate large-scale positive impact."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7266105",
+    "angelListUrl": "https://angel.co/company/tmup-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Developer/CTO",
+      "description": "Summary\nWe are looking for a CTO who is passionate about being part of a highly impactful business that aims to bring people together using the power of sport.\n\n\nAbout us\nWhat hard problem are we trying to solve?\nWhen we are at school most of us have no problems finding sports to play and teams to play in. As we reach our 20’s and beyond though it becomes much more difficult:\n\n-\tIt can be frustrating trying to find someone your level to play (they are either a lot better or a lot worse, either way you don’t get a good game)\n-\tPeople can be unreliable and drop out at the last minute leaving your team short a person or worse still, lacking an opponent to play, therefore it can get expensive if people don’t show\n-\tIt can be impractical finding a team or game that fits in with your lifestyle or at a location that is available near you to play \n-\tFor a lot of us it is scary trying something new, especially when everyone else there is so much more experienced\n\nAs a result, we end up going to the gym (boring and therefore harder to commit to as often lacks social pressure) or doing nothing, missing out on the benefits of playing sports, benefits like: enhanced mental and physical wellbeing, improved leadership skills, perseverance, teamwork and ability to cope with pressure and failure.\n\nWith Tmup we want to fix all of this and get people out playing sports again, meeting new people and building communities through sport.\n\n\nWhat is the product?\nTmup is a web-app used to find and organise local games in any sport, at any level, on-demand.\n\nIt uses its own objective rating system to find people your level to play with (as well as tracking your performance over time), keeps all communication in one place (out of email and WhatsApp inboxes) and allows you to find Tmups near you, when you want to play (so you don't have to commit to joining leagues and teams).\n\nWe will initially target students, young professionals, niche sports and meetup groups with the goal of one day expanding to make sport accessible for anyone, on-demand.\n\n\nRole\nThe Tmup web-app is now largely (95%) built but with a few outstanding bugs blocking the launch (previous issues with developer reliability preventing completion). The first job therefore will be to address these so that we can get Tmup into the hands of users and get live, real-world feedback as soon as possible.\n\nUpon successful completion of the web-app and testing with users you will then be responsible for the development of the fully functioning native apps (iOS and Android), under the lean start-up methodology (testing and iterating until we are able to reach product market fit). This will likely mean you will be required to build and lead a team of developers to realise our vision. \n\nFinally, as the tech-cofounder you will be the point-person for all things ‘tech’ in the business, removing technical barriers as and when they arise.\n\nAbout you\nWe are looking for someone who:\n-\tIs passionate about solving problems in the sports/fitness/health space\n-\tIs a full stack developer\n-\tHas experience building/leading teams in mobile applications in iOS/Android\n-\tIs incredibly proactive\n-\tIs keen to or has previously lead teams of developers, and enjoys investing in their personal development\n-\tIs comfortable working in a lean/agile environment\n-\tIs data-driven in making decisions and enjoys thinking about problems from first principles\n-\tIs persistent and doesn’t mind failing\n\nWe are not too fussed if you don’t have years and years of experience, we’ll take smarts over experience any day of the week, as long as you are a fast learner and passionate about the idea.\n\n\nWhat we can offer\nWe can hold our hands on our hearts and say, if we achieve what we set out to, that the world will be a much better place as a result, for everyone. How many places can you work where you can say that? \n\nAlso, as you can imagine, given our mission, a people-first culture is incredibly important to us; we believe that to build a great company you have to start by hiring and developing incredible people. \n\nBeing one of the founding members of the team you will have an amazing opportunity to shape ours, making it everything you think it should be in order for us to create something spectacular. \n\nIn terms of compensation you would take equity in the business, with %s negotiable based on your skillset and ability. \n\nUpon gaining traction with initial users and obtaining a product-market fit we will look to obtain fundraising so the founding team can work full-time on Tmup.",
+      "descriptionHtml": "<p>Summary<br>\nWe are looking for a CTO who is passionate about being part of a highly impactful business that aims to bring people together using the power of sport.</p>\n\n<p>About us<br>\nWhat hard problem are we trying to solve?<br>\nWhen we are at school most of us have no problems finding sports to play and teams to play in. As we reach our 20’s and beyond though it becomes much more difficult:</p>\n\n<ul>\n<li>  It can be frustrating trying to find someone your level to play (they are either a lot better or a lot worse, either way you don’t get a good game)</li>\n<li>  People can be unreliable and drop out at the last minute leaving your team short a person or worse still, lacking an opponent to play, therefore it can get expensive if people don’t show</li>\n<li>  It can be impractical finding a team or game that fits in with your lifestyle or at a location that is available near you to play </li>\n<li>  For a lot of us it is scary trying something new, especially when everyone else there is so much more experienced</li>\n</ul>\n\n<p>As a result, we end up going to the gym (boring and therefore harder to commit to as often lacks social pressure) or doing nothing, missing out on the benefits of playing sports, benefits like: enhanced mental and physical wellbeing, improved leadership skills, perseverance, teamwork and ability to cope with pressure and failure.</p>\n\n<p>With Tmup we want to fix all of this and get people out playing sports again, meeting new people and building communities through sport.</p>\n\n<p>What is the product?<br>\nTmup is a web-app used to find and organise local games in any sport, at any level, on-demand.</p>\n\n<p>It uses its own objective rating system to find people your level to play with (as well as tracking your performance over time), keeps all communication in one place (out of email and WhatsApp inboxes) and allows you to find Tmups near you, when you want to play (so you don&#39;t have to commit to joining leagues and teams).</p>\n\n<p>We will initially target students, young professionals, niche sports and meetup groups with the goal of one day expanding to make sport accessible for anyone, on-demand.</p>\n\n<p>Role<br>\nThe Tmup web-app is now largely (95%) built but with a few outstanding bugs blocking the launch (previous issues with developer reliability preventing completion). The first job therefore will be to address these so that we can get Tmup into the hands of users and get live, real-world feedback as soon as possible.</p>\n\n<p>Upon successful completion of the web-app and testing with users you will then be responsible for the development of the fully functioning native apps (iOS and Android), under the lean start-up methodology (testing and iterating until we are able to reach product market fit). This will likely mean you will be required to build and lead a team of developers to realise our vision. </p>\n\n<p>Finally, as the tech-cofounder you will be the point-person for all things ‘tech’ in the business, removing technical barriers as and when they arise.</p>\n\n<p>About you<br>\nWe are looking for someone who:</p>\n\n<ul>\n<li>  Is passionate about solving problems in the sports/fitness/health space</li>\n<li>  Is a full stack developer</li>\n<li>  Has experience building/leading teams in mobile applications in iOS/Android</li>\n<li>  Is incredibly proactive</li>\n<li>  Is keen to or has previously lead teams of developers, and enjoys investing in their personal development</li>\n<li>  Is comfortable working in a lean/agile environment</li>\n<li>  Is data-driven in making decisions and enjoys thinking about problems from first principles</li>\n<li>  Is persistent and doesn’t mind failing</li>\n</ul>\n\n<p>We are not too fussed if you don’t have years and years of experience, we’ll take smarts over experience any day of the week, as long as you are a fast learner and passionate about the idea.</p>\n\n<p>What we can offer<br>\nWe can hold our hands on our hearts and say, if we achieve what we set out to, that the world will be a much better place as a result, for everyone. How many places can you work where you can say that? </p>\n\n<p>Also, as you can imagine, given our mission, a people-first culture is incredibly important to us; we believe that to build a great company you have to start by hiring and developing incredible people. </p>\n\n<p>Being one of the founding members of the team you will have an amazing opportunity to shape ours, making it everything you think it should be in order for us to create something spectacular. </p>\n\n<p>In terms of compensation you would take equity in the business, with %s negotiable based on your skillset and ability. </p>\n\n<p>Upon gaining traction with initial users and obtaining a product-market fit we will look to obtain fundraising so the founding team can work full-time on Tmup.</p>\n",
+      "position": "cofounder",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "HTML/CSS/PHP/MYSQL"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "10.0% – 20.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/michael-heap-1",
+        "name": "Michael Heap",
+        "avatar": "https://photos.angel.co/users/6773685-medium_jpg?1502291925"
+      },
+      "refs": {
+        "angelListId": "647876",
+        "angelListUrl": "https://angel.co/company/tmup-1/jobs/647876-"
+      }
+    }
+  ]
+}

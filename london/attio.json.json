@@ -1,0 +1,146 @@
+{
+  "name": "Attio",
+  "avatar": "https://photos.angel.co/startups/i/6965922-753c2b194934673918b5269d4f4e3aa4-medium_jpg.jpg?buster=1558716379",
+  "slogan": "A fully customizable workspace for your team's relationships and workflows",
+  "description": "We're on a mission to create intuitive software that harnesses the power of simplicity. With elegant solutions, backed by outstanding technology, we're helping to bring focus to teams around the world.\n\n\nAttio is backed by Passion Capital and Tiny VC, some of Europe’s leading venture funds, alongside top Angels from the venture capital and technology industries. Strengthened by their funding we have the appropriate resources to build an ambitious but financially stable business. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.attio.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/attio"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/attio"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "CRM",
+    "Email",
+    "SaaS"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/nicolas_o_sharp",
+      "name": "Nicolas Sharp",
+      "avatar": "https://photos.angel.co/users/884519-medium_jpg?1417122936",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/nicolas-sharp",
+      "name": "Nicolas Sharp",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Founder @fundstack • Worked at <a href=\"https://angel.co/company/passion-capital\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Passion Capital</span></a>"
+    },
+    {
+      "title": "",
+      "role": "Employee",
+      "url": "https://angel.co/u/niclasernst",
+      "name": "Niclas Ernst",
+      "avatar": "https://photos.angel.co/users/6898282-medium_jpg?1558296046",
+      "bioHtml": "I design things.."
+    },
+    {
+      "title": "",
+      "role": "Employee",
+      "url": "https://angel.co/u/ned-howley",
+      "name": "Ned Howley",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "",
+      "role": "Employee",
+      "url": "https://angel.co/u/aaron-jeffrey-hall",
+      "name": "Aaron Jeffrey-Hall",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Full Stack Developer"
+    }
+  ],
+  "perks": [
+    {
+      "category": "equity",
+      "title": "Stock Options"
+    },
+    {
+      "category": "retirement",
+      "title": "Pension"
+    },
+    {
+      "category": "company_meals",
+      "title": "Free snacks and drinks"
+    },
+    {
+      "category": "commuter",
+      "title": "Cycle-to-work scheme"
+    }
+  ],
+  "refs": {
+    "angelListId": "6965922",
+    "angelListUrl": "https://angel.co/company/attio"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Product Engineer (Mobile)",
+      "description": "Business software is changing fast. Notion is re-defining what a Wiki is while Airtable is re-defining spreadsheets. We believe Customer Relationship Management (CRM) software is next.\n\nWhile smartphones are in everyones' pockets and the world is more interconnected than ever CRMs have essentially remained unchanged over the last decade. They principally rely on the user manually entering data. This leads to errors in the process and adds unproductive tasks to a user's work life. The apps themselves are bloated with functionality and challenging to use. Instead of helping people these tools ended up creating more work. Users are less productive than they could be and as a result often feel frustrated.\n\nWe believe the future of CRMs is simple to use, powered by outstanding technology and beautifully designed. A list of contacts that fills itself magically rather than relying on manual data entry. An app that is designed to a level of excellency that lives up to what people have come to expect from their personal apps that they use every day. To make this happen we are building Attio. Our mission is to bring focus to millions of teams at work and make them to fall in love with a CRM.\n\n\nAbout Attio\n\nWe are an experienced team of Entrepreneurs, Engineers and Operators. The size of our team is still small and everyone who joins has a big impact on the company. We have lunch together and do regular team events - less because that's what every startups does and more because we all genuinely like each other and get along with each other. We value authenticity, intellectual curiosity and team work. We have flat hierarchies and believe in empowering people to do their best work.\n\nWe are well funded. Our investors include Passion Capital, who were the seed investor in Monzo Bank, alongside top Angels from the venture capital and technology space. We work out of a bright and open office in Central London.\n\n\nEngineering at Attio\n\nAs an engineering organization we are completely transparent with all code existing in a monorepo that is accessible to the entire team. All of our code goes through peer reviews and we welcome contributions from all of our team to any areas of our codebase. We never silo developers into roles and instead allow people to find areas of focus and interest regardless of where it lies in our stack.\n\n\nAbout the Role\n\nAs a Mobile Product Engineer you will work alongside our existing TypeScript teams to implement and improve features in our React Native application.\n\nIn particular you would focus on:\n- Implementing new features into our cross-platform React Native mobile application\n- Collaborate with other members of the team to ensure that new features / improvements are available on the mobile clients\n- Be an advocate for Mobile and Native as platforms and act as their voice during design discussions\n- Work with the latest innovations in front-end technology to make sure our apps are the best that they can be\n- Contribute across the stack, including to our Web and Backend codebases, to help move the company and product forward!\n\n\nAbout You\n\nWe're looking for someone that is capable of working within a small team, and values having ownership over their work.\n\nThe ideal candidate would:\n- Have experience building beautiful products.\n- Be passionate about the power of mobile as a platform\n- Enjoy solving problems and want to take ownership of finding better solutions.\n- Thrive in a culture of continuous learning and feedback.\n- Be self motivated and naturally curious.\n- Have a natural appreciation of what a good product should look and feel like\n- Visa to work in the UK or UK or EU citizen (we can't sponsor a visa for this position)\n- (Bonus Points) Have experience with either Kotlin / Swift and native app workflows\n\n\nPLEASE NO RECRUITERS",
+      "descriptionHtml": "<p>Business software is changing fast. Notion is re-defining what a Wiki is while Airtable is re-defining spreadsheets. We believe Customer Relationship Management (CRM) software is next.</p>\n\n<p>While smartphones are in everyones&#39; pockets and the world is more interconnected than ever CRMs have essentially remained unchanged over the last decade. They principally rely on the user manually entering data. This leads to errors in the process and adds unproductive tasks to a user&#39;s work life. The apps themselves are bloated with functionality and challenging to use. Instead of helping people these tools ended up creating more work. Users are less productive than they could be and as a result often feel frustrated.</p>\n\n<p>We believe the future of CRMs is simple to use, powered by outstanding technology and beautifully designed. A list of contacts that fills itself magically rather than relying on manual data entry. An app that is designed to a level of excellency that lives up to what people have come to expect from their personal apps that they use every day. To make this happen we are building Attio. Our mission is to bring focus to millions of teams at work and make them to fall in love with a CRM.</p>\n\n<p>About Attio</p>\n\n<p>We are an experienced team of Entrepreneurs, Engineers and Operators. The size of our team is still small and everyone who joins has a big impact on the company. We have lunch together and do regular team events - less because that&#39;s what every startups does and more because we all genuinely like each other and get along with each other. We value authenticity, intellectual curiosity and team work. We have flat hierarchies and believe in empowering people to do their best work.</p>\n\n<p>We are well funded. Our investors include Passion Capital, who were the seed investor in Monzo Bank, alongside top Angels from the venture capital and technology space. We work out of a bright and open office in Central London.</p>\n\n<p>Engineering at Attio</p>\n\n<p>As an engineering organization we are completely transparent with all code existing in a monorepo that is accessible to the entire team. All of our code goes through peer reviews and we welcome contributions from all of our team to any areas of our codebase. We never silo developers into roles and instead allow people to find areas of focus and interest regardless of where it lies in our stack.</p>\n\n<p>About the Role</p>\n\n<p>As a Mobile Product Engineer you will work alongside our existing TypeScript teams to implement and improve features in our React Native application.</p>\n\n<p>In particular you would focus on:</p>\n\n<ul>\n<li>Implementing new features into our cross-platform React Native mobile application</li>\n<li>Collaborate with other members of the team to ensure that new features / improvements are available on the mobile clients</li>\n<li>Be an advocate for Mobile and Native as platforms and act as their voice during design discussions</li>\n<li>Work with the latest innovations in front-end technology to make sure our apps are the best that they can be</li>\n<li>Contribute across the stack, including to our Web and Backend codebases, to help move the company and product forward!</li>\n</ul>\n\n<p>About You</p>\n\n<p>We&#39;re looking for someone that is capable of working within a small team, and values having ownership over their work.</p>\n\n<p>The ideal candidate would:</p>\n\n<ul>\n<li>Have experience building beautiful products.</li>\n<li>Be passionate about the power of mobile as a platform</li>\n<li>Enjoy solving problems and want to take ownership of finding better solutions.</li>\n<li>Thrive in a culture of continuous learning and feedback.</li>\n<li>Be self motivated and naturally curious.</li>\n<li>Have a natural appreciation of what a good product should look and feel like</li>\n<li>Visa to work in the UK or UK or EU citizen (we can&#39;t sponsor a visa for this position)</li>\n<li>(Bonus Points) Have experience with either Kotlin / Swift and native app workflows</li>\n</ul>\n\n<p>PLEASE NO RECRUITERS</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "TypeScript",
+        "Kotlin",
+        "Swift",
+        "React Native"
+      ],
+      "payment": {
+        "salary": "£60k – £80k",
+        "equity": "0.05% – 0.1%"
+      },
+      "recruiter": {
+        "title": "Head of Operations",
+        "role": "Employee",
+        "url": "https://angel.co/u/fabian-flatz",
+        "name": "Fabian Flatz",
+        "avatar": "https://photos.angel.co/users/1162209-medium_jpg?1510159288"
+      },
+      "refs": {
+        "angelListId": "741664",
+        "angelListUrl": "https://angel.co/company/attio/jobs/741664-"
+      }
+    }
+  ]
+}

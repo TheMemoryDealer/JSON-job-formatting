@@ -1,0 +1,95 @@
+{
+  "name": "Dum Technology",
+  "avatar": "https://photos.angel.co/startups/i/6545782-a5a0ecc5189c906237a4b7959c791b50-medium_jpg.jpg?buster=1541524029",
+  "slogan": "Change your relationship with technology & focus on what matters",
+  "description": "Our first product is a mobile app, FocusRoom, that is using the power of community to enable students to focus for long, uninterrupted sessions.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.dumtech.io"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Software",
+    "Health and Wellness"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/elliot-seror-1",
+      "name": "Elliot Seror",
+      "avatar": "https://photos.angel.co/users/7668496-medium_jpg?1524220341",
+      "bioHtml": "Dum Technology - Founder"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6545782",
+    "angelListUrl": "https://angel.co/company/dum-technology"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Co-founder - Full stack mobile app dev",
+      "description": "Apply if you're interested in being a co-founder and join the startup while I'm building the first product.",
+      "descriptionHtml": "<p>Apply if you&#39;re interested in being a co-founder and join the startup while I&#39;m building the first product.</p>\n",
+      "position": "cofounder",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "UI/UX Design",
+        "AWS",
+        "Swift/Objective C/iOS/Xcode"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "25.0% – 40.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/elliot-seror-1",
+        "name": "Elliot Seror",
+        "avatar": "https://photos.angel.co/users/7668496-medium_jpg?1524220341"
+      },
+      "refs": {
+        "angelListId": "453973",
+        "angelListUrl": "https://angel.co/company/dum-technology/jobs/453973-"
+      }
+    }
+  ]
+}

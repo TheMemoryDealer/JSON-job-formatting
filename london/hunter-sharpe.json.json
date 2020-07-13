@@ -1,0 +1,100 @@
+{
+  "name": "INVEZTOR",
+  "avatar": "https://photos.angel.co/startups/i/7190514-8f9164cb095b55f9f12c3c44e553a327-medium_jpg.jpg?buster=1581527472",
+  "slogan": "FinTech in Capital Markets",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://inveztor.co.uk/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/inveztorltd"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/inveztorltd/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "Los Angeles",
+    "London",
+    "Vancouver",
+    "Sydney",
+    "New York"
+  ],
+  "marketTags": [
+    "Finance",
+    "Blockchains",
+    "Fin Tech"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/katee-hunter",
+      "name": "Katee Hunter",
+      "avatar": "https://photos.angel.co/users/9987485-medium_jpg?1568419053",
+      "bioHtml": "CEO/Founder of INVEZTOR. Previously worked on Startups in London &amp; APAC, M&amp;A Consulting <a href=\"https://angel.co/company/pwc\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">PwC</span></a> in UK &amp; North America. Stats nerd."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7190514",
+    "angelListUrl": "https://angel.co/company/hunter-sharpe"
+  },
+  "jobs": [
+    {
+      "role": "Designer",
+      "title": "Web Video Content Creator",
+      "description": "We are looking to make an introductory/explainer style video to describe what our customer requirement and product is. We are looking to use basic animation to explain pain points from a customer perspective and the proposed solution. Video will be less that 3 minutes. We are looking for interns who are interested in gaining experience with a startup that is early-stage and has a profolio they would like to add to. Video will be presented during a funding round pitch to an internation investor group. Please contact Katee for further information.",
+      "descriptionHtml": "<p>We are looking to make an introductory/explainer style video to describe what our customer requirement and product is. We are looking to use basic animation to explain pain points from a customer perspective and the proposed solution. Video will be less that 3 minutes. We are looking for interns who are interested in gaining experience with a startup that is early-stage and has a profolio they would like to add to. Video will be presented during a funding round pitch to an internation investor group. Please contact Katee for further information.</p>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe After Effects",
+        "Adobe Premiere"
+      ],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/katee-hunter",
+        "name": "Katee Hunter",
+        "avatar": "https://photos.angel.co/users/9987485-medium_jpg?1568419053"
+      },
+      "refs": {
+        "angelListId": "626196",
+        "angelListUrl": "https://angel.co/company/hunter-sharpe/jobs/626196-"
+      }
+    }
+  ]
+}

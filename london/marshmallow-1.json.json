@@ -1,0 +1,84 @@
+{
+  "name": "Marshmallow",
+  "avatar": "https://photos.angel.co/startups/i/3165224-a958435c2274d2b9e9f8d4bfd505fb32-medium_jpg.jpg?buster=1488384164",
+  "slogan": "A tech-first insurance company",
+  "description": "We are a digital insurer that uses technology to make insurance more affordable, instant and inclusive.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.marshmallow.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/getmarshmallow"
+    },
+    {
+      "type": "facebook",
+      "url": "https://facebook.com/marshmallowinsurance"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/marshmallow-technology-ltd/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Insurance",
+    "Fin Tech",
+    "Insurtech",
+    "Finance Technology"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 1200000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1528934400,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "Co Ceo",
+      "role": "Founder",
+      "url": "https://angel.co/u/alexander-kent-braham",
+      "name": "Alexander Kent-Braham",
+      "avatar": "https://photos.angel.co/users/634425-medium_jpg?1528982121",
+      "bioHtml": "Co-Founder <a href=\"https://angel.co/company/marshmallow-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Marshmallow</span></a> • Early employee <a href=\"https://angel.co/company/yoti\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Yoti</span></a> • Angel <a href=\"https://angel.co/company/syft-app\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Syft App</span></a> + <a href=\"https://angel.co/company/monizo-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Coconut</span></a>  • Ex-hedge fund • Identical twin????"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/oliver-kent-braham",
+      "name": "Oliver Kent-Braham",
+      "avatar": "https://photos.angel.co/users/651265-medium_jpg?1498259808",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/marshmallow-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Marshmallow</span></a> • Worked <a href=\"https://angel.co/company/yoti\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Yoti</span></a> • Investor <a href=\"https://angel.co/company/syft-app\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Syft App</span></a>, <a href=\"https://angel.co/company/monizo-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Coconut</span></a>"
+    },
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/david-goate",
+      "name": "David Goaté",
+      "avatar": "https://photos.angel.co/users/5741453-medium_jpg?1526122360",
+      "bioHtml": "Co-founder &amp; CTO at Marshmallow, an Insurtech on a mission to build a world where insurance benefits everyone."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "3165224",
+    "angelListUrl": "https://angel.co/company/marshmallow-1"
+  },
+  "jobs": []
+}

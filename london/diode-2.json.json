@@ -1,0 +1,99 @@
+{
+  "name": "Diode.",
+  "avatar": "https://photos.angel.co/startups/i/7363198-3a447206a78007b8de4e95d5cea36f52-medium_jpg.jpg?buster=1576074779",
+  "slogan": "The easy way to an EV ready business that's quick and cost effective",
+  "description": "We are building a business to help companies bring on board electric vehicles.  The key to this is making sure you select the right vehicles for your needs, but also crucially you implement the right infrastructure to support this. \n\nWe help them assess their requirements, understand their use cases, give them the tools to understand their site capability, outlay specific recommendations and then procure it all through a network of partners. \n\nWe are structuring this as a \"free tool\" to explore the benefits for businesses, then they have a self-serve or managed option to procure the recommendations.  \n\nWe are working to deliver this as a software solution, but also a bespoke service where required.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.diode.energy"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "B2B",
+    "Automotive",
+    "Electric Vehicles",
+    "Consulting Services"
+  ],
+  "employees": null,
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/jon-horsfield",
+      "name": "Jon Horsfield",
+      "avatar": "https://photos.angel.co/users/10106343-medium_jpg?1576074995",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7363198",
+    "angelListUrl": "https://angel.co/company/diode-2"
+  },
+  "jobs": [
+    {
+      "role": "Sales",
+      "title": "Co-founder/Partner",
+      "description": "We are looking for someone to challenge thinking, ideate and help grow the business. This will be an all hands on deck approach, but if you have a key competency such as software dev or finance, of course this would be taken into account.",
+      "descriptionHtml": "<p>We are looking for someone to challenge thinking, ideate and help grow the business. This will be an all hands on deck approach, but if you have a key competency such as software dev or finance, of course this would be taken into account.</p>\n",
+      "position": "cofounder",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Business Development",
+        "Software Development",
+        "CTO",
+        "Electrical Engineering",
+        "Sales and Marketing"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "5.0% – 20.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/jon-horsfield",
+        "name": "Jon Horsfield",
+        "avatar": "https://photos.angel.co/users/10106343-medium_jpg?1576074995"
+      },
+      "refs": {
+        "angelListId": "680475",
+        "angelListUrl": "https://angel.co/company/diode-2/jobs/680475-"
+      }
+    }
+  ]
+}

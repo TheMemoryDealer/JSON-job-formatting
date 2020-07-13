@@ -1,0 +1,101 @@
+{
+  "name": "blueprint",
+  "avatar": "https://photos.angel.co/startups/i/7405854-b255ff0d4f07f264b74a47aa33e0e5b4-medium_jpg.jpg?buster=1578576259",
+  "slogan": "Reimagining how you communicate and purchase from brands",
+  "description": "Blueprint creates framework and architecture to aggregate current customer data sets into a single conversational platform to offer immediacy in purchasing and communication globally. Purchasing your faviourite coffee, booking a tennis court and paying your music teacher should be as easy as saying it.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.blueprint.store"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Payment Systems",
+    "Communications Software"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/harvey-hodd-1",
+      "name": "Harvey Hodd",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7405854",
+    "angelListUrl": "https://angel.co/company/blueprint-17"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior full-stack software developer",
+      "description": "We’re looking to hire an experienced Senior Software Developer to head up our development Team in London.\n\nBlueprint is reimagining how you communicate and purchase from brands, creators and services. We’re on the lookout for a full-stack JS Developer to join our tight-knit development team as we scale operations. You’ll be developing with the latest frontend and backend tech, based on React, React Native, serverless, AWS Lambda and node.js.\n\nYou will work directly with an extremely experienced CTO. You’ll join a scrappy team that values speed, transparency and thinking outside the box. We value the aptitude to learn and grow vs traditional education and set way of thinking. We place emphasis on having built side-projects or being self-taught — coming from an angle with fresh ideas and out-of-the-box ways of doing things.\n\n🔧 Requirements…\n- At least 3 years’ commercial software development experience, with the last 2 years in one or more of the common frameworks (React, Angular, Vue, Ember, Express etc.)\n- At least 2 years commercial experience with node.js\n- Solid Vanilla JavaScript\n\n👋 Would be great to have experience with…\n- Serverless infrastructure (AWS Lambda / serverless.js)\n- Natural language processing sophistication and machine learning\n- Transactional infrastructure (Stripe)\n\n📬 The role…\n- East London office based (Bethnal Green)\n- Office hours (Mon Fri: 8am — 6pm) ~ Flexible\n- Salary based on experience (£60 K +)\n- Start: Immediately",
+      "descriptionHtml": "<p>We’re looking to hire an experienced Senior Software Developer to head up our development Team in London.</p>\n\n<p>Blueprint is reimagining how you communicate and purchase from brands, creators and services. We’re on the lookout for a full-stack JS Developer to join our tight-knit development team as we scale operations. You’ll be developing with the latest frontend and backend tech, based on React, React Native, serverless, AWS Lambda and node.js.</p>\n\n<p>You will work directly with an extremely experienced CTO. You’ll join a scrappy team that values speed, transparency and thinking outside the box. We value the aptitude to learn and grow vs traditional education and set way of thinking. We place emphasis on having built side-projects or being self-taught — coming from an angle with fresh ideas and out-of-the-box ways of doing things.</p>\n\n<p>🔧 Requirements…</p>\n\n<ul>\n<li>At least 3 years’ commercial software development experience, with the last 2 years in one or more of the common frameworks (React, Angular, Vue, Ember, Express etc.)</li>\n<li>At least 2 years commercial experience with node.js</li>\n<li>Solid Vanilla JavaScript</li>\n</ul>\n\n<p>👋 Would be great to have experience with…</p>\n\n<ul>\n<li>Serverless infrastructure (AWS Lambda / serverless.js)</li>\n<li>Natural language processing sophistication and machine learning</li>\n<li>Transactional infrastructure (Stripe)</li>\n</ul>\n\n<p>📬 The role…</p>\n\n<ul>\n<li>East London office based (Bethnal Green)</li>\n<li>Office hours (Mon Fri: 8am — 6pm) ~ Flexible</li>\n<li>Salary based on experience (£60 K +)</li>\n<li>Start: Immediately</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Node.js",
+        "Ecommerce",
+        "Express.js",
+        "Stripe API",
+        "Shopify",
+        "React.js",
+        "Vue.Js",
+        "AWS Lambda",
+        "Angular",
+        "Severless"
+      ],
+      "payment": {
+        "salary": "£50k – £70k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/harvey-hodd-1",
+        "name": "Harvey Hodd",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "693927",
+        "angelListUrl": "https://angel.co/company/blueprint-17/jobs/693927-"
+      }
+    }
+  ]
+}

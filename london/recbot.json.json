@@ -1,0 +1,100 @@
+{
+  "name": "RecBot",
+  "avatar": "https://photos.angel.co/startups/i/7061673-9b3de3bf98a6b32892a660054e995b2d-medium_jpg.jpg?buster=1563119275",
+  "slogan": "Automated Balance Sheet Reconciliation",
+  "description": "Our Technology gets to know the client's business by scanning ledger entries and using Natural Language Processing technology to group transactions together.\n\nIt then eliminates all transactions that clear down and returns only those transactions that contribute to your balance, automatically reconciling your balance sheet account.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://powelly0.github.io/Recbot-Site/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Machine Learning",
+    "Natural Language Processing",
+    "Accounting",
+    "Finance Technology"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/dan-powell-2",
+      "name": "Dan Powell",
+      "avatar": "https://photos.angel.co/users/4744405-medium_jpg?1557144435",
+      "bioHtml": "Award winning Finance Professional with a background in Management Accounting. Excellent Leadership, analysis, forecasting and financial modelling skills."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7061673",
+    "angelListUrl": "https://angel.co/company/recbot"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Co-founder/Developer",
+      "description": "We have recently developed a proof of concept for our automatic balance sheet reconciliation technology. We're now looking to take on a new partner to rapidly grow our offering and get to minimum viable product stage before we start to take on our first clients.\n\nWe're looking for a partner and Full Stack Developer with experience in Natural Language Processing and Machine Learning. Experience in finance and accounting is preferable, but not required.",
+      "descriptionHtml": "<p>We have recently developed a proof of concept for our automatic balance sheet reconciliation technology. We&#39;re now looking to take on a new partner to rapidly grow our offering and get to minimum viable product stage before we start to take on our first clients.</p>\n\n<p>We&#39;re looking for a partner and Full Stack Developer with experience in Natural Language Processing and Machine Learning. Experience in finance and accounting is preferable, but not required.</p>\n",
+      "position": "cofounder",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Finance",
+        "Machine Learning",
+        "Accounting",
+        "Natural Language Processing",
+        "Full Stack Development",
+        "Algorithms & Data Structures"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "35.0% – 50.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/dan-powell-2",
+        "name": "Dan Powell",
+        "avatar": "https://photos.angel.co/users/4744405-medium_jpg?1557144435"
+      },
+      "refs": {
+        "angelListId": "589273",
+        "angelListUrl": "https://angel.co/company/recbot/jobs/589273-"
+      }
+    }
+  ]
+}

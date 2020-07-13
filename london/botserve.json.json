@@ -1,0 +1,106 @@
+{
+  "name": "Botserve",
+  "avatar": "https://angel.co/images/shared/nopic_startup.png",
+  "slogan": null,
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": null
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "New Delhi",
+    "London"
+  ],
+  "marketTags": [
+    "London, UK",
+    "United Arab Emirates",
+    "Usa"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/camad-misra",
+      "name": "Camad Misra",
+      "avatar": "https://photos.angel.co/users/8952988-medium_jpg?1550299407",
+      "bioHtml": "Worked at Botserve. Experience with Analytics, Consulting, Education"
+    },
+    {
+      "title": "Director",
+      "role": "Employee",
+      "url": "https://angel.co/u/camad-misra",
+      "name": "Camad Misra",
+      "avatar": "https://photos.angel.co/users/8952988-medium_jpg?1550299407",
+      "bioHtml": "Worked at Botserve. Experience with Analytics, Consulting, Education"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6797208",
+    "angelListUrl": "https://angel.co/company/botserve"
+  },
+  "jobs": [
+    {
+      "role": "Marketing",
+      "title": "Digital Marketing Expert",
+      "description": "Looking for a Digital marketing expert to create and run a marketing campaign to generate leads.",
+      "descriptionHtml": "<p>Looking for a Digital marketing expert to create and run a marketing campaign to generate leads.</p>\n",
+      "position": "cofounder",
+      "experience": 6,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Content Management",
+        "Digital Marketing",
+        "B2B Marketing",
+        "Corporate Sales & Business development in B2B"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "2.5% – 5.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Investor",
+        "url": "https://angel.co/u/camad-misra",
+        "name": "Camad Misra",
+        "avatar": "https://photos.angel.co/users/8952988-medium_jpg?1550299407"
+      },
+      "refs": {
+        "angelListId": "506104",
+        "angelListUrl": "https://angel.co/company/botserve/jobs/506104-"
+      }
+    }
+  ]
+}

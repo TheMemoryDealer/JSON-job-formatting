@@ -1,0 +1,200 @@
+{
+  "name": "Shipamax (YC W17)",
+  "avatar": "https://photos.angel.co/startups/i/1053280-673d8b91ad89bf2f24f513000fa4d525-medium_jpg.jpg?buster=1575910693",
+  "slogan": "Turn supply chain documents into data",
+  "description": "Logistics is the lifeblood of the global economy. We provide plug & play automation to logistics companies who are constrained by manual admin.\n\nWe're Stripe for back-office automation in logistics; Our core product connects to any email inbox or unstructured data source and automatically extracts data from emails & attachments in real-time - outputting a clean, structured feed via API.\n\nShipamax is one of the few London-based startups backed by Y Combinator. In January, we announced our $7million Series A funding. This is a chance to join an early stage company & help shape our organisation through this period of rapid growth.​",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.shipamax.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://www.twitter.com/shipamax"
+    },
+    {
+      "type": "facebook",
+      "url": "http://www.facebook.com/shipamax"
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Logistics",
+    "Shipping"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 9500000,
+    "rounds": [
+      {
+        "type": "Series A",
+        "closedAt": 1580169600,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1495411200,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/fabian-2",
+      "name": "Fabian Blaicher",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "CTO, Co-Founder <a href=\"https://angel.co/company/shipamax\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Shipamax (YC W17)</span></a> • Worked at <a href=\"https://angel.co/company/goldman\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Goldman</span></a> Sachs • Studied at <a href=\"https://angel.co/carnegie\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Carnegie</span></a> Mellon University, <a href=\"https://angel.co/nanyang\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Nanyang</span></a> University"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/jenna-brown",
+      "name": "Jenna Brown",
+      "avatar": "https://photos.angel.co/users/331875-medium_jpg?1487027279",
+      "bioHtml": "Co-founder <a href=\"https://angel.co/company/shipamax\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Shipamax (YC W17)</span></a>, Global Expansion Lead <a href=\"https://angel.co/company/gocardless\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">GoCardless</span></a> and 2nd business employee <a href=\"https://angel.co/company/adzuna\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Adzuna</span></a>"
+    },
+    {
+      "title": "VP of Demand Generation ",
+      "role": "Employee",
+      "url": "https://angel.co/u/josh-bradley-1",
+      "name": "Josh Bradley",
+      "avatar": "https://photos.angel.co/users/490960-medium_jpg?1564052715",
+      "bioHtml": "Commercially minded &amp; strategic marketer. Passionate about building brands, developing great teams growing business through customer focused marketing."
+    },
+    {
+      "title": "Business Data Analyst",
+      "role": "Employee",
+      "url": "https://angel.co/u/saam-jahanbani",
+      "name": "Saam Jahanbani",
+      "avatar": "https://photos.angel.co/users/10203157-medium_jpg?1572719528",
+      "bioHtml": "Passionate about all things data, with nearly 4 years experience of working as a Business Analyst at Credit Suisse and Financial Analyst at Google."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/peter-chatterley",
+      "name": "Peter Chatterley",
+      "avatar": "https://photos.angel.co/users/668587-medium_jpg?1405770374",
+      "bioHtml": "Talent Hacker, CEO of the Talent Hackers, 20 years of recruitment in one hour. "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "1053280",
+    "angelListUrl": "https://angel.co/company/shipamax"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Computer vision specialist (OCR)",
+      "description": "We're experiencing increasing demand from our current large customers & prospective customers, meaning we are now looking to build out our computer vision and NLP Data Science team. This role will help us improve our existing product as well as help us build a few exciting new products. You’ll be working alongside a PhDs and NLP/computer vision experts.\n\nToday’s product is built using proprietary data that no one else has access to. The volume of data received in any given minute is incredibly high - providing interesting infrastructure challenges. This includes hundreds of thousands of emails a day with data that has to be instantly pulled, processed and made accessible to customers within less than a second.\n\nThe focused nature of our work means we already have a product that works - large enterprises pay for and depend on Shipamax’s email parsing product for day to day decision making. You’ll be working in a cutting-edge area of development that already is commercially proven.\n\nWe are looking for an experienced computer vision engineer to join our company, which utilises CV/NLP solutions to revolutionise our industry. You should have a keen interest in building, deploying & supporting document processing services that extract and interpret information from emails, messages, attachments and other sources. This is a highly technical role and an excellent academic background is required.\n\nAbout you\n- You should have a degree in computer science, or strong experience in computer vision research, either PhD-level or 3+ years of relevant experience\n- You should have experience in working with an end-to-end OCR solution either in academia or at a company\n- You should feel comfortable developing, reviewing and deploying Python or Java code\n- Experience of at least one of OpenCV/Tensorflow/SIFT/Deep learning for computer vision\n- Experience in preparing data sets\n\nBonus skills \n- PhD\n- C/C++\n- publications in either CVPR, ICCV or ECCV\n\nExperience in bulk shipping not necessary :)\n\nStart date: as soon as possible, but we are ready to wait for the right candidate.\n\nThis is a full-time position based near Farringdon, London. Please apply to come and meet our team, hear about the projects we’ll be working on next and see if there is a fit.\n\nUnfortunately we are unable to sponsor work visas at this time.\n\nWe do not work with recruiters or outsourcing companies.",
+      "descriptionHtml": "<p>We&#39;re experiencing increasing demand from our current large customers &amp; prospective customers, meaning we are now looking to build out our computer vision and NLP Data Science team. This role will help us improve our existing product as well as help us build a few exciting new products. You’ll be working alongside a PhDs and NLP/computer vision experts.</p>\n\n<p>Today’s product is built using proprietary data that no one else has access to. The volume of data received in any given minute is incredibly high - providing interesting infrastructure challenges. This includes hundreds of thousands of emails a day with data that has to be instantly pulled, processed and made accessible to customers within less than a second.</p>\n\n<p>The focused nature of our work means we already have a product that works - large enterprises pay for and depend on Shipamax’s email parsing product for day to day decision making. You’ll be working in a cutting-edge area of development that already is commercially proven.</p>\n\n<p>We are looking for an experienced computer vision engineer to join our company, which utilises CV/NLP solutions to revolutionise our industry. You should have a keen interest in building, deploying &amp; supporting document processing services that extract and interpret information from emails, messages, attachments and other sources. This is a highly technical role and an excellent academic background is required.</p>\n\n<p>About you</p>\n\n<ul>\n<li>You should have a degree in computer science, or strong experience in computer vision research, either PhD-level or 3+ years of relevant experience</li>\n<li>You should have experience in working with an end-to-end OCR solution either in academia or at a company</li>\n<li>You should feel comfortable developing, reviewing and deploying Python or Java code</li>\n<li>Experience of at least one of OpenCV/Tensorflow/SIFT/Deep learning for computer vision</li>\n<li>Experience in preparing data sets</li>\n</ul>\n\n<p>Bonus skills </p>\n\n<ul>\n<li>PhD</li>\n<li>C/C++</li>\n<li>publications in either CVPR, ICCV or ECCV</li>\n</ul>\n\n<p>Experience in bulk shipping not necessary :)</p>\n\n<p>Start date: as soon as possible, but we are ready to wait for the right candidate.</p>\n\n<p>This is a full-time position based near Farringdon, London. Please apply to come and meet our team, hear about the projects we’ll be working on next and see if there is a fit.</p>\n\n<p>Unfortunately we are unable to sponsor work visas at this time.</p>\n\n<p>We do not work with recruiters or outsourcing companies.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Computer Vision",
+        "Deep Learning"
+      ],
+      "payment": {
+        "salary": "£50k – £70k",
+        "equity": "0.0% – 0.5%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Founder",
+        "url": "https://angel.co/u/fabian-2",
+        "name": "Fabian Blaicher",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "488491",
+        "angelListUrl": "https://angel.co/company/shipamax/jobs/488491-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Experienced Python Engineer with Machine Learning experience",
+      "description": "We're backed by $2.5 million from Y Combinator, Cherubic Ventures, AME Cloud and Founders Fund.\n\nWe focus on old industries where there is huge room for automation. Today, Shipamax serves some of the largest players in the bulk shipping industry and is processing 20 million emails & attachments annually. We're currently expanding into our second vertical - the Freight Forwarding market - where we're seeing customers jump at the prospect of applying our technology to automate data entry.\n\nAs a Engineer you will focus on extracting data & meaning from documents. Day to day you'll be:\n- Bringing algorithms and models research into practice. \n- Owning ML models end-to-end, from setting standards for labelling data sets to deploying in production. \n- Responsible for the quality and ongoing evaluation of the ML models.\n- Working closely with the application teams to successfully integrate models into our product.\n- Keeping on top of the latest AI/ML research for team discussions & application in your work. \n\nThis role will help us improve our existing product as well as help us expand into our second vertical. You’ll be working in the data science team alongside PhDs and NLP/computer vision experts.\n\nToday’s product is built using proprietary data that no one else has access to. You'll be working on extracting information from trade documents, such as bills of lading.\n\nThe processing is not only very challenging due to the large variety of documents, but it also needs be done under time limitations.\n\nRole\n- Work alongside a team of three data scientists to push the boundaries of structuring data from documents and e-mails\n- Maintain and improve text extraction and understanding\n- Maintain and improve layout recognition\n- Maintain and improve OCR\n- Managing and improve data sets\n- Performance evaluation\n\nAbout you\n- Strong programming skills in one of the following programming languages including but not limited to: Python, C++, Java or Go\n- BSc./MSc. in computer science, statistics, mathematics or a related field or significant relevant job experience\n- Analytical skills\n- Attention to detail\n- Experience in understanding and building statistical or machine learning models\n- Focus on deliverables\n- Leadership qualities\n- Ability to perform applied research projects and bring it to production\n\n\nBonus\n- Experience in computer vision or natural language processing\n- Experience working on real-world data sets\n- Experience with Docker/Kubernetes/AWS Lambda\n- Experience with AWS\n- Experience with professional software development best practices\n- PhD\n\nExperience in logistics not necessary :)\n\nStart date: as soon as possible, but we are ready to wait for the right candidate.\n\nThis is a full-time position based in Moorgate, London. Please apply to come and meet our team, hear about the projects we’ll be working on next and see if there is a fit.\n\nUnfortunately we are unable to sponsor work visas at this time.\n\nWe do not work with recruiters or outsourcing companies.",
+      "descriptionHtml": "<p>We&#39;re backed by $2.5 million from Y Combinator, Cherubic Ventures, AME Cloud and Founders Fund.</p>\n\n<p>We focus on old industries where there is huge room for automation. Today, Shipamax serves some of the largest players in the bulk shipping industry and is processing 20 million emails &amp; attachments annually. We&#39;re currently expanding into our second vertical - the Freight Forwarding market - where we&#39;re seeing customers jump at the prospect of applying our technology to automate data entry.</p>\n\n<p>As a Engineer you will focus on extracting data &amp; meaning from documents. Day to day you&#39;ll be:</p>\n\n<ul>\n<li>Bringing algorithms and models research into practice. </li>\n<li>Owning ML models end-to-end, from setting standards for labelling data sets to deploying in production. </li>\n<li>Responsible for the quality and ongoing evaluation of the ML models.</li>\n<li>Working closely with the application teams to successfully integrate models into our product.</li>\n<li>Keeping on top of the latest AI/ML research for team discussions &amp; application in your work. </li>\n</ul>\n\n<p>This role will help us improve our existing product as well as help us expand into our second vertical. You’ll be working in the data science team alongside PhDs and NLP/computer vision experts.</p>\n\n<p>Today’s product is built using proprietary data that no one else has access to. You&#39;ll be working on extracting information from trade documents, such as bills of lading.</p>\n\n<p>The processing is not only very challenging due to the large variety of documents, but it also needs be done under time limitations.</p>\n\n<p>Role</p>\n\n<ul>\n<li>Work alongside a team of three data scientists to push the boundaries of structuring data from documents and e-mails</li>\n<li>Maintain and improve text extraction and understanding</li>\n<li>Maintain and improve layout recognition</li>\n<li>Maintain and improve OCR</li>\n<li>Managing and improve data sets</li>\n<li>Performance evaluation</li>\n</ul>\n\n<p>About you</p>\n\n<ul>\n<li>Strong programming skills in one of the following programming languages including but not limited to: Python, C++, Java or Go</li>\n<li>BSc./MSc. in computer science, statistics, mathematics or a related field or significant relevant job experience</li>\n<li>Analytical skills</li>\n<li>Attention to detail</li>\n<li>Experience in understanding and building statistical or machine learning models</li>\n<li>Focus on deliverables</li>\n<li>Leadership qualities</li>\n<li>Ability to perform applied research projects and bring it to production</li>\n</ul>\n\n<p>Bonus</p>\n\n<ul>\n<li>Experience in computer vision or natural language processing</li>\n<li>Experience working on real-world data sets</li>\n<li>Experience with Docker/Kubernetes/AWS Lambda</li>\n<li>Experience with AWS</li>\n<li>Experience with professional software development best practices</li>\n<li>PhD</li>\n</ul>\n\n<p>Experience in logistics not necessary :)</p>\n\n<p>Start date: as soon as possible, but we are ready to wait for the right candidate.</p>\n\n<p>This is a full-time position based in Moorgate, London. Please apply to come and meet our team, hear about the projects we’ll be working on next and see if there is a fit.</p>\n\n<p>Unfortunately we are unable to sponsor work visas at this time.</p>\n\n<p>We do not work with recruiters or outsourcing companies.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python"
+      ],
+      "payment": {
+        "salary": "£50k – £70k",
+        "equity": "0.0% – 0.3%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Founder",
+        "url": "https://angel.co/u/fabian-2",
+        "name": "Fabian Blaicher",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "518784",
+        "angelListUrl": "https://angel.co/company/shipamax/jobs/518784-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Strategic Partnerships Manager",
+      "description": "To continue our rapid growth, we're looking for a Strategic Partnerships Manager. \r\n\r\nOur strategic partnerships with implementation and technology consultants have been a core component of our early success and we're now looking to double-down on building this out. This is an exciting opportunity to help build out this new function - taking the early foundations that have been set up by the sales team, putting robust processes in place &amp; shaping it into a high-impact driver for business growth. \r\n\r\nWhat you'll be doing:\r\n\r\nGrow:\r\n- Conduct market research &amp; develop pitch materials in order to drive profitable growth for the business\r\n- Identify new commercial partnership opportunities\r\n- Negotiate terms, contracts and close deals\r\n\r\nNurture:\r\n-  Manage smooth onboarding of new partners\r\n-  Manage ongoing relationships with current partners, aligning on goals &amp; driving further growth\r\n- Support our Partners in providing product knowledge and collateral to help them succeed\r\n\r\nManage:\r\n- Build partnership objectives and goal setting with Sales and Marketing teams\r\n- Actively analyse and monitor results, proactively making recommendations to existing partners to drive increased revenue and improve KPIs\r\n- Work with Product based on the feedback from our partners to drive successful, long-term relationships\r\n\r\nWhat we are looking for:\r\n- You have a minimum of 3 years of experience working in strategic partnerships\r\n- You've won &amp; managed partnerships through to fruition\r\n- You have strong relationship and communication skills. You love networking and can articulate yourself clearly\r\n- You're comfortable taking an ambigous problem, structuring it and putting a process in place to execute\r\n- You are comfortable learning a highly technical product. \r\n- Experience in negotiating partner agreements\r\n- Excellent project management skills, organised and enjoy working to (and meeting) tight deadlines and targets\r\n- Demonstrated ability to think strategically about complex issues, leading to thoughtful recommendations and action plans\r\n\r\nWe welcome a wide diversity of applicants, and our team are from a variety of backgrounds, so if you’re unsure please apply",
+      "descriptionHtml": "<p>To continue our rapid growth, we&#39;re looking for a Strategic Partnerships Manager. </p>\n\n<p>Our strategic partnerships with implementation and technology consultants have been a core component of our early success and we&#39;re now looking to double-down on building this out. This is an exciting opportunity to help build out this new function - taking the early foundations that have been set up by the sales team, putting robust processes in place &amp; shaping it into a high-impact driver for business growth. </p>\n\n<p>What you&#39;ll be doing:</p>\n\n<p>Grow:</p>\n\n<ul>\n<li>Conduct market research &amp; develop pitch materials in order to drive profitable growth for the business</li>\n<li>Identify new commercial partnership opportunities</li>\n<li>Negotiate terms, contracts and close deals</li>\n</ul>\n\n<p>Nurture:</p>\n\n<ul>\n<li> Manage smooth onboarding of new partners</li>\n<li> Manage ongoing relationships with current partners, aligning on goals &amp; driving further growth</li>\n<li>Support our Partners in providing product knowledge and collateral to help them succeed</li>\n</ul>\n\n<p>Manage:</p>\n\n<ul>\n<li>Build partnership objectives and goal setting with Sales and Marketing teams</li>\n<li>Actively analyse and monitor results, proactively making recommendations to existing partners to drive increased revenue and improve KPIs</li>\n<li>Work with Product based on the feedback from our partners to drive successful, long-term relationships</li>\n</ul>\n\n<p>What we are looking for:</p>\n\n<ul>\n<li>You have a minimum of 3 years of experience working in strategic partnerships</li>\n<li>You&#39;ve won &amp; managed partnerships through to fruition</li>\n<li>You have strong relationship and communication skills. You love networking and can articulate yourself clearly</li>\n<li>You&#39;re comfortable taking an ambigous problem, structuring it and putting a process in place to execute</li>\n<li>You are comfortable learning a highly technical product. </li>\n<li>Experience in negotiating partner agreements</li>\n<li>Excellent project management skills, organised and enjoy working to (and meeting) tight deadlines and targets</li>\n<li>Demonstrated ability to think strategically about complex issues, leading to thoughtful recommendations and action plans</li>\n</ul>\n\n<p>We welcome a wide diversity of applicants, and our team are from a variety of backgrounds, so if you’re unsure please apply</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£50k – £80k",
+        "equity": "0.01% – 0.02%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/jenna-brown",
+        "name": "Jenna Brown",
+        "avatar": "https://photos.angel.co/users/331875-medium_jpg?1487027279"
+      },
+      "refs": {
+        "angelListId": "689952",
+        "angelListUrl": "https://angel.co/company/shipamax/jobs/689952-"
+      }
+    }
+  ]
+}

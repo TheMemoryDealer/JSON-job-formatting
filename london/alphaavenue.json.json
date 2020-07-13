@@ -1,0 +1,117 @@
+{
+  "name": "AlphaAvenue",
+  "avatar": "https://photos.angel.co/startups/i/7054972-1deaf9ecb0812662f6e121437df9003c-medium_jpg.jpg?buster=1562789825",
+  "slogan": "The global asset-backed lifestyle marketplace",
+  "description": "Online marketplace, SaaS",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.alphaavenueadvisors.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Location Based Services",
+    "Blockchains",
+    "Property",
+    "Social Network",
+    "Online Marketplaces"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/tbc-confidential",
+      "name": "TBC Confidential",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/sylvain-fhall",
+      "name": "Sylvain Fhall",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7054972",
+    "angelListUrl": "https://angel.co/company/alphaavenue"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "CTO, Partner",
+      "description": "Confidential\nCan be described further according to profile, mainly in online marketplaces, GIS and blockchain",
+      "descriptionHtml": "<p>Confidential<br>\nCan be described further according to profile, mainly in online marketplaces, GIS and blockchain</p>\n",
+      "position": "cofounder",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "Europe",
+        "United States",
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe",
+        "Israel",
+        "Singapore",
+        "United States",
+        "London"
+      ],
+      "skills": [
+        "Supply Chain Management",
+        "Mobile Development",
+        "Geographic Information System (GIS)",
+        "Software as a Service (SaaS)",
+        "Blockchain",
+        "Online Marketplaces"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "20.0% – 35.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/sylvain-fhall",
+        "name": "Sylvain Fhall",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "587423",
+        "angelListUrl": "https://angel.co/company/alphaavenue/jobs/587423-"
+      }
+    }
+  ]
+}

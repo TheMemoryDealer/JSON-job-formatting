@@ -1,0 +1,178 @@
+{
+  "name": "GreenJinn",
+  "avatar": "https://photos.angel.co/startups/i/6118488-6adc0e7a0fd7aeca57386e34e8b5ee7f-medium_jpg.jpg?buster=1533661318",
+  "slogan": "Simple cashback on everyday groceries",
+  "description": "GreenJinn is an app that has made huge strides getting Britain saving, using artificial intelligence to tailor grocery coupons for everyone whether they’re vegan, gluten-free or just prefer healthy wholesome snacks.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://greenjinn.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Mobile Coupons",
+    "Groceries",
+    "Fast-Moving Consumer Goods"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/giuseppe-licari",
+      "name": "Giuseppe Licari",
+      "avatar": "https://photos.angel.co/users/8234816-medium_jpg?1534418793",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/green-jinn",
+      "name": "Green Jinn",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6118488",
+    "angelListUrl": "https://angel.co/company/greenjinn-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Full Stack Developer",
+      "description": "We’re looking for a product-aware Senior Full Stack developer to help us build the best supermarket cashback app in the world.\n\nYou’ll join a small team of engineers, building technology which scales automatically and uses Artificial Intelligence frameworks to give our users the best personalised app experience possible.\n\nWe care about building a codebase that is modular, independent and stateless.\n\nWe are looking for someone who enjoys collaborating and loves learning new things.\n\n\n\nOUR CULTURE\n\nWe’re big people people. We value everybody’s background, experience and diversity, and promote a culture where your contributions are taken seriously.\n\nWe celebrate successes and share learnings weekly, because we’re human and on a mission to grow personally as well as transforming how shoppers interact with brands.\n\n\n\nYOU SHOULD APPLY IF:\n\n- You have at least 3 years of backend software development in web/mobile environments and JavaScript (ES5, ES6 and a little ES7)\n\n- You have strong skills in Node.js and JavaScript core principles\n\n- You are comfortable working with Node.js microservices packaged with docker and deployed on AWS\n\n- You can navigate around PHP legacy code and perform maintenance and integration tasks\n\n- You have production experience using SQL and noSQL storage\n\n- You practice Agile development principles (Scrum, TDD, pair programming, CI/CD, design patterns)\n\n- You identify and uphold the best DevOps practices\n\n- You have the ability to hack things together quickly\n\n- You have worked in an agile team for more than 1 year\n\n-Jira, Bitbucket and Slack for collaboration and communication\n\n\n\nLOGISTICS\n\nOur process consists of an initial interview, a take-home code test, and a final on-site interview to iron out the details before you get started. We promise not to ask you any trick questions and we won’t make you code on a whiteboard!",
+      "descriptionHtml": "<p>We’re looking for a product-aware Senior Full Stack developer to help us build the best supermarket cashback app in the world.</p>\n\n<p>You’ll join a small team of engineers, building technology which scales automatically and uses Artificial Intelligence frameworks to give our users the best personalised app experience possible.</p>\n\n<p>We care about building a codebase that is modular, independent and stateless.</p>\n\n<p>We are looking for someone who enjoys collaborating and loves learning new things.</p>\n\n<p>OUR CULTURE</p>\n\n<p>We’re big people people. We value everybody’s background, experience and diversity, and promote a culture where your contributions are taken seriously.</p>\n\n<p>We celebrate successes and share learnings weekly, because we’re human and on a mission to grow personally as well as transforming how shoppers interact with brands.</p>\n\n<p>YOU SHOULD APPLY IF:</p>\n\n<ul>\n<li><p>You have at least 3 years of backend software development in web/mobile environments and JavaScript (ES5, ES6 and a little ES7)</p></li>\n<li><p>You have strong skills in Node.js and JavaScript core principles</p></li>\n<li><p>You are comfortable working with Node.js microservices packaged with docker and deployed on AWS</p></li>\n<li><p>You can navigate around PHP legacy code and perform maintenance and integration tasks</p></li>\n<li><p>You have production experience using SQL and noSQL storage</p></li>\n<li><p>You practice Agile development principles (Scrum, TDD, pair programming, CI/CD, design patterns)</p></li>\n<li><p>You identify and uphold the best DevOps practices</p></li>\n<li><p>You have the ability to hack things together quickly</p></li>\n<li><p>You have worked in an agile team for more than 1 year</p></li>\n</ul>\n\n<p>-Jira, Bitbucket and Slack for collaboration and communication</p>\n\n<p>LOGISTICS</p>\n\n<p>Our process consists of an initial interview, a take-home code test, and a final on-site interview to iron out the details before you get started. We promise not to ask you any trick questions and we won’t make you code on a whiteboard!</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "noSQL",
+        "SQL",
+        "Node.js",
+        "Es6",
+        "ES6/ES7"
+      ],
+      "payment": {
+        "salary": "£50k – £75k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/green-jinn",
+        "name": "Green Jinn",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "407913",
+        "angelListUrl": "https://angel.co/company/greenjinn-1/jobs/407913-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "iOS Developer (Mid-Senior)",
+      "description": "We’re looking for a product-aware iOS developer to help us build the best supermarket cashback app in the world.\n\nYou’ll join a small team of engineers, building technology which scales automatically and uses Artificial Intelligence frameworks to give our users the best personalised app experience possible.\n\nWe care about building a codebase that is modular, independent and stateless.\n\nWe are looking for someone who enjoys collaborating and loves learning new things.\n\n\n\nOUR CULTURE\n\nWe’re big people people. We value everybody’s background, experience and diversity, and promote a culture where your contributions are taken seriously.\n\nWe celebrate successes and share learnings weekly, because we’re human and on a mission to grow personally as well as transforming how shoppers interact with brands.\n\n\n\nYOU SHOULD APPLY IF:\n\n- You have at least 3 years of iOS development using ObjectiveC and Swift\n\n- You can navigate around legacy code and perform maintenance and integration tasks\n\n- You have knowledge of implementing third-party libraries – APIs (Facebook, etc.), Google’s Firebase, Firestore SDK (Auth, Database, Storage, etc.)\n\n- You have good experience with persistence such as Realm and solid understanding of REST principles including JSON\n\n- You practice Agile development principles (Scrum, TDD, pair programming, CI/CD, design patterns)\n\n- You have the ability to hack things together quickly\n\n- You have worked in an agile team for more than 1 year\n\n- Jira, Bitbucket and Slack for collaboration and communication\n\n\n\nLOGISTICS\n\nOur process consists of an initial interview, a take-home code test, and a final on-site interview to iron out the details before you get started. We promise not to ask you any trick questions and we won’t make you code on a whiteboard!",
+      "descriptionHtml": "<p>We’re looking for a product-aware iOS developer to help us build the best supermarket cashback app in the world.</p>\n\n<p>You’ll join a small team of engineers, building technology which scales automatically and uses Artificial Intelligence frameworks to give our users the best personalised app experience possible.</p>\n\n<p>We care about building a codebase that is modular, independent and stateless.</p>\n\n<p>We are looking for someone who enjoys collaborating and loves learning new things.</p>\n\n<p>OUR CULTURE</p>\n\n<p>We’re big people people. We value everybody’s background, experience and diversity, and promote a culture where your contributions are taken seriously.</p>\n\n<p>We celebrate successes and share learnings weekly, because we’re human and on a mission to grow personally as well as transforming how shoppers interact with brands.</p>\n\n<p>YOU SHOULD APPLY IF:</p>\n\n<ul>\n<li><p>You have at least 3 years of iOS development using ObjectiveC and Swift</p></li>\n<li><p>You can navigate around legacy code and perform maintenance and integration tasks</p></li>\n<li><p>You have knowledge of implementing third-party libraries – APIs (Facebook, etc.), Google’s Firebase, Firestore SDK (Auth, Database, Storage, etc.)</p></li>\n<li><p>You have good experience with persistence such as Realm and solid understanding of REST principles including JSON</p></li>\n<li><p>You practice Agile development principles (Scrum, TDD, pair programming, CI/CD, design patterns)</p></li>\n<li><p>You have the ability to hack things together quickly</p></li>\n<li><p>You have worked in an agile team for more than 1 year</p></li>\n<li><p>Jira, Bitbucket and Slack for collaboration and communication</p></li>\n</ul>\n\n<p>LOGISTICS</p>\n\n<p>Our process consists of an initial interview, a take-home code test, and a final on-site interview to iron out the details before you get started. We promise not to ask you any trick questions and we won’t make you code on a whiteboard!</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "JSON",
+        "Objectivec",
+        "REST",
+        "Swift"
+      ],
+      "payment": {
+        "salary": "£40k – £60k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/green-jinn",
+        "name": "Green Jinn",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "407940",
+        "angelListUrl": "https://angel.co/company/greenjinn-1/jobs/407940-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Android Developer (Mid)",
+      "description": "We’re looking for a product-aware Android developer to help us build the best supermarket cashback app in the world.\n\nYou’ll join a small team of engineers, building technology which scales automatically and uses Artificial Intelligence frameworks to give our users the best personalised app experience possible.\n\nWe care about building a codebase that is modular, independent and stateless.\n\nWe are looking for someone who enjoys collaborating and loves learning new things.\n\n\n\nOUR CULTURE\n\nWe’re big people people. We value everybody’s background, experience and diversity, and promote a culture where your contributions are taken seriously.\n\nWe celebrate successes and share learnings weekly, because we’re human and on a mission to grow personally as well as transforming how shoppers interact with brands.\n\n\n\nYOU SHOULD APPLY IF:\n\n- You have at least 2 years of Android development experience using Java and Kotlin\n\n- You can navigate around legacy code and perform maintenance and integration tasks\n\n- You have knowledge of implementing third-party libraries – APIs (Facebook, etc.), Google’s Firebase, Firestore SDK (Auth, Database, Storage, etc.)\n\n- You have good experience with persistence such as Realm and solid understanding of REST principles including JSON\n\n- You practice Agile development principles (Scrum, TDD, pair programming, CI/CD, design patterns)\n\n- You have the ability to hack things together quickly\n\n- You have worked in an agile team for more than 1 year\n\n- Jira, Bitbucket and Slack for collaboration and communication\n\n\n\nLOGISTICS\n\nOur process consists of an initial interview, a take-home code test, and a final on-site interview to iron out the details before you get started. We promise not to ask you any trick questions and we won’t make you code on a whiteboard!",
+      "descriptionHtml": "<p>We’re looking for a product-aware Android developer to help us build the best supermarket cashback app in the world.</p>\n\n<p>You’ll join a small team of engineers, building technology which scales automatically and uses Artificial Intelligence frameworks to give our users the best personalised app experience possible.</p>\n\n<p>We care about building a codebase that is modular, independent and stateless.</p>\n\n<p>We are looking for someone who enjoys collaborating and loves learning new things.</p>\n\n<p>OUR CULTURE</p>\n\n<p>We’re big people people. We value everybody’s background, experience and diversity, and promote a culture where your contributions are taken seriously.</p>\n\n<p>We celebrate successes and share learnings weekly, because we’re human and on a mission to grow personally as well as transforming how shoppers interact with brands.</p>\n\n<p>YOU SHOULD APPLY IF:</p>\n\n<ul>\n<li><p>You have at least 2 years of Android development experience using Java and Kotlin</p></li>\n<li><p>You can navigate around legacy code and perform maintenance and integration tasks</p></li>\n<li><p>You have knowledge of implementing third-party libraries – APIs (Facebook, etc.), Google’s Firebase, Firestore SDK (Auth, Database, Storage, etc.)</p></li>\n<li><p>You have good experience with persistence such as Realm and solid understanding of REST principles including JSON</p></li>\n<li><p>You practice Agile development principles (Scrum, TDD, pair programming, CI/CD, design patterns)</p></li>\n<li><p>You have the ability to hack things together quickly</p></li>\n<li><p>You have worked in an agile team for more than 1 year</p></li>\n<li><p>Jira, Bitbucket and Slack for collaboration and communication</p></li>\n</ul>\n\n<p>LOGISTICS</p>\n\n<p>Our process consists of an initial interview, a take-home code test, and a final on-site interview to iron out the details before you get started. We promise not to ask you any trick questions and we won’t make you code on a whiteboard!</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "JSON",
+        "REST",
+        "Kotlin"
+      ],
+      "payment": {
+        "salary": "£30k – £45k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/green-jinn",
+        "name": "Green Jinn",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "407952",
+        "angelListUrl": "https://angel.co/company/greenjinn-1/jobs/407952-"
+      }
+    }
+  ]
+}

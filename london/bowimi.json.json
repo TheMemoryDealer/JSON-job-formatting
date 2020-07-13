@@ -1,0 +1,101 @@
+{
+  "name": "Bowimi",
+  "avatar": "https://photos.angel.co/startups/i/7284307-8c3c5b741b30b84d89238c5b14319486-medium_jpg.jpg?buster=1572435350",
+  "slogan": "Real time product experiences",
+  "description": "Bowimi is the new, most engaging way for brands to get their target consumers sampling their product. By using WiFi in venues we deliver instantly redeemable vouchers alongside full-screen content straight to consumers' mobile phones. Our Vision? A world where no brand struggles to get their products into the hands of consumers and tell their story. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.bowimi.com/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Digital Marketing",
+    "Hospitality",
+    "Fast-Moving Consumer Goods"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/dominic-bowcock-1",
+      "name": "Dominic Bowcock",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Founder @dominic-11 • Worked at <a href=\"https://angel.co/company/kantar-tns\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Kantar TNS</span></a>, <a href=\"https://angel.co/company/candy-mechanics-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Candy Mechanics</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7284307",
+    "angelListUrl": "https://angel.co/company/bowimi"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Developer",
+      "description": "About Bowimi:\nBowimi uses WiFi to detect consumers in a venue and send them an instantly redeemable free drink on behalf of a brand looking to get liquid to lips. \n\nYour role:\nYou will work alongside the founders to help set the product roadmap, build new features and improve existing ones. \n\nAbout you:\nYou will meet most of our key requirements including:\n\nExperience developing web applications\nExcellent all-round programming skills (any language)\nGood backend skills\nGood Javascript skills\n\nYou might have some of our value-add requirements:\n\nExperience with FreeRADIUS, RADIUS Authentication, WiFi hardware and installation.\nAWS skills (S3, Elastic Beanstalk and more)\nExperience of Javascript frameworks, particularly React.js\n\nWe are open minded about where you developed your skills. We anticipate hiring a senior or mid-level developer, but if you believe you are an exceptional early-career candidate (with significant personal development experience), we encourage you to apply.",
+      "descriptionHtml": "<p>About Bowimi:<br>\nBowimi uses WiFi to detect consumers in a venue and send them an instantly redeemable free drink on behalf of a brand looking to get liquid to lips. </p>\n\n<p>Your role:<br>\nYou will work alongside the founders to help set the product roadmap, build new features and improve existing ones. </p>\n\n<p>About you:<br>\nYou will meet most of our key requirements including:</p>\n\n<p>Experience developing web applications<br>\nExcellent all-round programming skills (any language)<br>\nGood backend skills<br>\nGood Javascript skills</p>\n\n<p>You might have some of our value-add requirements:</p>\n\n<p>Experience with FreeRADIUS, RADIUS Authentication, WiFi hardware and installation.<br>\nAWS skills (S3, Elastic Beanstalk and more)<br>\nExperience of Javascript frameworks, particularly React.js</p>\n\n<p>We are open minded about where you developed your skills. We anticipate hiring a senior or mid-level developer, but if you believe you are an exceptional early-career candidate (with significant personal development experience), we encourage you to apply.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "PHP",
+        "Javascript",
+        "SQL",
+        "Node.js",
+        "PostgreSQL",
+        "Full Stack Development",
+        "C Sharp (C#)",
+        "RADIUS",
+        "WiFi",
+        "React.js",
+        "AWS",
+        "freeRadius"
+      ],
+      "payment": {
+        "salary": "£40k – £50k",
+        "equity": "0.0% – 2.0%"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "679005",
+        "angelListUrl": "https://angel.co/company/bowimi/jobs/679005-"
+      }
+    }
+  ]
+}

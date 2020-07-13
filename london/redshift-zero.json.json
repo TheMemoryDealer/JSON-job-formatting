@@ -1,0 +1,91 @@
+{
+  "name": "RedShift Zero",
+  "avatar": "https://photos.angel.co/startups/i/6097111-893ff25fe5a7088e77359b46fb660c26-medium_jpg.jpg?buster=1533225718",
+  "slogan": "Data science company using machine intelligence and human-in-the-loop",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.rszero.com/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Software",
+    "Machine Learning",
+    "Big Data"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/niti-williamson",
+      "name": "Niti Williamson",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6097111",
+    "angelListUrl": "https://angel.co/company/redshift-zero"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Lead Software Engineer",
+      "description": "We are looking for a versatile full-stack software engineer to bootstrap an engineering division in a well-funded tech start-up. This is a tremendous opportunity to get in on the ground floor of a business-oriented and extremely well-organised operation, especially if you are interested in the fashion industry.\n\n\nApplicants should enjoy working collaboratively in a fast-paced environment. They must also be comfortable working with a cloud-based infrastructure. The most suitable candidates will be self-starters, have excellent communication skills and be comfortable switching from big-picture thinking to projects requiring surgical attention to detail.\n\n \n\nResponsibilities\n\n- As one of the first RedShift Zero joiners, you will work with the founder, be fully hands on, happy to take input and collaborate\n- Develop scalable software, web services and database solutions to support our research and applications\n- Collaborate with external agencies and third-party services\n- Communicate updates and data driven insights to investors and stakeholders\n\nRequirements \n\n- Ideal candidates will have a minimum of 5 years’ experience of writing top quality code in a commercial environment\n- A strong academic background, preferably with a degree in a technical field\n- Excellent coding proficiency in at least one modern programming language such as Java, C#, Node.js etc.\n- Knowledge of a modern front-end JavaScript framework such as React, Angular or Vue JS\n- Ability to architect a database using SQL or NoSQL database technologies",
+      "descriptionHtml": "<p>We are looking for a versatile full-stack software engineer to bootstrap an engineering division in a well-funded tech start-up. This is a tremendous opportunity to get in on the ground floor of a business-oriented and extremely well-organised operation, especially if you are interested in the fashion industry.</p>\n\n<p>Applicants should enjoy working collaboratively in a fast-paced environment. They must also be comfortable working with a cloud-based infrastructure. The most suitable candidates will be self-starters, have excellent communication skills and be comfortable switching from big-picture thinking to projects requiring surgical attention to detail.</p>\n\n<p>Responsibilities</p>\n\n<ul>\n<li>As one of the first RedShift Zero joiners, you will work with the founder, be fully hands on, happy to take input and collaborate</li>\n<li>Develop scalable software, web services and database solutions to support our research and applications</li>\n<li>Collaborate with external agencies and third-party services</li>\n<li>Communicate updates and data driven insights to investors and stakeholders</li>\n</ul>\n\n<p>Requirements </p>\n\n<ul>\n<li>Ideal candidates will have a minimum of 5 years’ experience of writing top quality code in a commercial environment</li>\n<li>A strong academic background, preferably with a degree in a technical field</li>\n<li>Excellent coding proficiency in at least one modern programming language such as Java, C#, Node.js etc.</li>\n<li>Knowledge of a modern front-end JavaScript framework such as React, Angular or Vue JS</li>\n<li>Ability to architect a database using SQL or NoSQL database technologies</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£50k – £100k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/niti-williamson",
+        "name": "Niti Williamson",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "405540",
+        "angelListUrl": "https://angel.co/company/redshift-zero/jobs/405540-"
+      }
+    }
+  ]
+}

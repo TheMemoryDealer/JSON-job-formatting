@@ -1,0 +1,101 @@
+{
+  "name": "Optimly",
+  "avatar": "https://photos.angel.co/startups/i/6809210-8ace033e86301f21946c87616d29b66e-medium_jpg.jpg?buster=1550781518",
+  "slogan": "Optimised Banking for all",
+  "description": "Cutting edge platform bring new and old financial product providers together for the benefit of all.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://Optimly.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Fin Tech"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/rob-ford-1",
+      "name": "Rob Ford",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6809210",
+    "angelListUrl": "https://angel.co/company/optimly"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "CTO",
+      "description": "Key role within the company, accountable for the technical strategy, design and implementation. \n\nHighly ambitious and capable individuals should apply - be prepared for long days of deep thought and great reward.",
+      "descriptionHtml": "<p>Key role within the company, accountable for the technical strategy, design and implementation. </p>\n\n<p>Highly ambitious and capable individuals should apply - be prepared for long days of deep thought and great reward.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Fundraising",
+        "Machine Learning",
+        "Product Management",
+        "Big Data",
+        "Systems Architect",
+        "Customer Experience",
+        "UI/UX Design",
+        "AI",
+        "Predictive Analytics",
+        "Start-Up CTO"
+      ],
+      "payment": {
+        "salary": "£25k – £25k",
+        "equity": "5.0% – 10.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/rob-ford-1",
+        "name": "Rob Ford",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "509007",
+        "angelListUrl": "https://angel.co/company/optimly/jobs/509007-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "name": "Library of Things",
+  "avatar": "https://photos.angel.co/startups/i/7084468-c7c057b912b7285cc90e7669a23d9564-medium_jpg.jpg?buster=1564067039",
+  "slogan": "Community-powered Zipcar for Things",
+  "description": "Library of Things lets you borrow the Things you need, when you need them and learn skills from your neighbours ...\n\nWe build community by lending out useful items like drills, sound systems and sewing machines, and helping neighbours share skills. This means you can rent a hedge trimmer or projector as easily as a Zipcar or Santander bike from your local ‘self-serve rental kiosk'. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.libraryofthings.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://www.twitter.com/libraryofthings"
+    },
+    {
+      "type": "facebook",
+      "url": "http://facebook.com/library.of.things"
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Online Rental",
+    "Social Good",
+    "Retailtech"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/sophia-wyatt-1",
+      "name": "Sophia Wyatt",
+      "avatar": "https://photos.angel.co/users/8090548-medium_jpg?1531390292",
+      "bioHtml": "co-founder Library of Things, previously strategist at Engine. "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7084468",
+    "angelListUrl": "https://angel.co/company/library-of-things-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Front-end developer for circular economy",
+      "description": "What you’ll be doing\nDeveloping software that enables super smooth & rewarding borrowing\n- Taking wireframes and designs through to live code\n- Writing clean React & Typescript code to power our Web Apps\n- Styling it all up using SCSS & css modules\n- Integrating our Web Apps with our physical kiosks in sites across London & the UK\n- Writing GraphQL servers which pull together payment providers, databases, and other APIs\n- Writing unit and integration tests for both frontend and backend code\n- Deploying multiple times a day using our CI pipelines\n- Getting involved in other tech decisions e.g. data, analytics, marketing & borrower support. \n- Following technological trends & developments, keeping an ear to the ground for innovations we can embrace at Library of Things.\n- Growing your skills and knowledge\n- Helping to shape how Library of Things evolves\n- Reducing people’s need to buy things they rarely use!\n\n\nEssential skills: \n- Minimum 1-2 years experience working in React & Javascript or Typescript.\n- A good understanding of HTML and CSS.\n- Some knowledge of unit testing \n- Worked with GraphQL APIs and/or REST APIs\n- Collaborative \n- Used to working in an agile manner\n- A proactive problem solver\n- Self-starting & able to work independently\n- Passion for the circular economy, sharing & the Library of Things mission!\n\nDesirable:\n- A love of the outdoors!\n- Experience of working with either e-commerce or booking systems\n- Used Docker, containers, AWS, CI tools or other similar tech\n- Up for travelling between London and Bristol occasionally",
+      "descriptionHtml": "<p>What you’ll be doing<br>\nDeveloping software that enables super smooth &amp; rewarding borrowing</p>\n\n<ul>\n<li>Taking wireframes and designs through to live code</li>\n<li>Writing clean React &amp; Typescript code to power our Web Apps</li>\n<li>Styling it all up using SCSS &amp; css modules</li>\n<li>Integrating our Web Apps with our physical kiosks in sites across London &amp; the UK</li>\n<li>Writing GraphQL servers which pull together payment providers, databases, and other APIs</li>\n<li>Writing unit and integration tests for both frontend and backend code</li>\n<li>Deploying multiple times a day using our CI pipelines</li>\n<li>Getting involved in other tech decisions e.g. data, analytics, marketing &amp; borrower support. </li>\n<li>Following technological trends &amp; developments, keeping an ear to the ground for innovations we can embrace at Library of Things.</li>\n<li>Growing your skills and knowledge</li>\n<li>Helping to shape how Library of Things evolves</li>\n<li>Reducing people’s need to buy things they rarely use!</li>\n</ul>\n\n<p>Essential skills: </p>\n\n<ul>\n<li>Minimum 1-2 years experience working in React &amp; Javascript or Typescript.</li>\n<li>A good understanding of HTML and CSS.</li>\n<li>Some knowledge of unit testing </li>\n<li>Worked with GraphQL APIs and/or REST APIs</li>\n<li>Collaborative </li>\n<li>Used to working in an agile manner</li>\n<li>A proactive problem solver</li>\n<li>Self-starting &amp; able to work independently</li>\n<li>Passion for the circular economy, sharing &amp; the Library of Things mission!</li>\n</ul>\n\n<p>Desirable:</p>\n\n<ul>\n<li>A love of the outdoors!</li>\n<li>Experience of working with either e-commerce or booking systems</li>\n<li>Used Docker, containers, AWS, CI tools or other similar tech</li>\n<li>Up for travelling between London and Bristol occasionally</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Bristol"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "SCSS / SASS",
+        "REST APIs",
+        "TypeScript",
+        "Docker",
+        "Unit Testing",
+        "Integration Testing",
+        "React.js",
+        "React/GraphQL"
+      ],
+      "payment": {
+        "salary": "£25k – £40k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/sophia-wyatt-1",
+        "name": "Sophia Wyatt",
+        "avatar": "https://photos.angel.co/users/8090548-medium_jpg?1531390292"
+      },
+      "refs": {
+        "angelListId": "597128",
+        "angelListUrl": "https://angel.co/company/library-of-things-1/jobs/597128-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "name": "ev.energy",
+  "avatar": "https://photos.angel.co/startups/i/6240365-22f025154402626fb95f9084f5ad47d0-medium_jpg.jpg?buster=1535701805",
+  "slogan": "Simple, green and cheap energy services and software for electric vehicles",
+  "description": "ev.energy is helping consumers charge their EVs in the most cost effective and least carbon intense way possible, whilst saving them money! We partner with energy companies such as Igloo Energy, Rolec Services and ESB to deliver tariffs and products which integrate smartly with electric vehicle and their chargers.\n\nWe’re a small and nimble team but we already serve electricity companies and their customers across the world with pilots ongoing in Europe and North America.\n\nSince we were incorporated last year, we’ve grown from 0 to 2000+ users, raised a funding round, collaborated with 15+ energy companies and saved over 5 tonnes of CO2. We are a member of the Free Electrons 2019 cohort, were part of Microsoft’s first AI for Good cohort and are currently part of IDEA London. We recently also won the Free Electrons 2019 accelerator, and being awarded the title of “Free Electrons World’s Best Energy Startup” in 2019.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://ev.energy"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Energy",
+    "Clean Energy",
+    "Electric Vehicles",
+    "Mobile Application"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/chris-darby-2",
+      "name": "Chris Darby",
+      "avatar": "https://photos.angel.co/users/3869609-medium_jpg?1474280996",
+      "bioHtml": "CTO and Cofounder of ev.energy. Former Venture Architect at <a href=\"https://angel.co/company/bcgdv\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">BCGDV</span></a> &amp; Associate <a href=\"https://angel.co/company/bcg\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">BCG</span></a>. Engineering at Imperial College London"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/nick-woolley",
+      "name": "Nick Woolley",
+      "avatar": "https://photos.angel.co/users/8297068-medium_jpg?1535702635",
+      "bioHtml": "CEO &amp; co-founder of ev.energy. Prior tech founder of Kudos Web Solutions; Consultant for 3 years at BCG; Strategy Manager at National Grid; Engineer by training"
+    },
+    {
+      "title": "Software Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/tamsynjennifer",
+      "name": "Tamsyn Jennifer Mathew",
+      "avatar": "https://photos.angel.co/users/8587383-medium_jpg?1542125628",
+      "bioHtml": "Artist / Self Taught Coder: \nReact Native, \nReact Navigation, \nAWS ( Amplify, AppSync, Cognito )\n\nAdobe CC (Illustrator, InDesign, Photoshop), Sketch"
+    },
+    {
+      "title": "Founder",
+      "role": "Employee",
+      "url": "https://angel.co/u/nick-woolley",
+      "name": "Nick Woolley",
+      "avatar": "https://photos.angel.co/users/8297068-medium_jpg?1535702635",
+      "bioHtml": "CEO &amp; co-founder of ev.energy. Prior tech founder of Kudos Web Solutions; Consultant for 3 years at BCG; Strategy Manager at National Grid; Engineer by training"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6240365",
+    "angelListUrl": "https://angel.co/company/ev-energy"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Python Developer",
+      "description": "We're looking for you to join our team as a React Native developer supporting the CTO directly on the React Native apps we make for car owners, as well as the React dashboards and admin panels we provide to energy companies, car companies and charge point manufacturers that we work with. You'll be joining a group of 8 passionate engineers, designers and strategists (even our CEO writes code!) mostly based in London at IDEA London (on Wilson Street near Old Street station). \n\nYou will be responsible for taking new features and bug fixes from specification all the way through to delivery in the app store, listening to customer feedback and collaborating with other technical and design team members to create delightful user experiences. As part of an agile product team, you'd be mucking in to the ideation, specification and prioritisation of the startup product development.\n\nIn the coming 3-6 months our key objectives are:\n* Internationalisation and localisation of our platform for different currencies\n* Enabling support for multiple EVs & chargers per user account\n* Adding 'charging on the go' so our customers never run out of power",
+      "descriptionHtml": "<p>We&#39;re looking for you to join our team as a React Native developer supporting the CTO directly on the React Native apps we make for car owners, as well as the React dashboards and admin panels we provide to energy companies, car companies and charge point manufacturers that we work with. You&#39;ll be joining a group of 8 passionate engineers, designers and strategists (even our CEO writes code!) mostly based in London at IDEA London (on Wilson Street near Old Street station). </p>\n\n<p>You will be responsible for taking new features and bug fixes from specification all the way through to delivery in the app store, listening to customer feedback and collaborating with other technical and design team members to create delightful user experiences. As part of an agile product team, you&#39;d be mucking in to the ideation, specification and prioritisation of the startup product development.</p>\n\n<p>In the coming 3-6 months our key objectives are:</p>\n\n<ul>\n<li>Internationalisation and localisation of our platform for different currencies</li>\n<li>Enabling support for multiple EVs &amp; chargers per user account</li>\n<li>Adding &#39;charging on the go&#39; so our customers never run out of power</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "United Kingdom"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "SQL",
+        "Django",
+        "PostgreSQL",
+        "Python/Django/Flask"
+      ],
+      "payment": {
+        "salary": "£40k – £55k",
+        "equity": "0.5% – 0.5%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/chris-darby-2",
+        "name": "Chris Darby",
+        "avatar": "https://photos.angel.co/users/3869609-medium_jpg?1474280996"
+      },
+      "refs": {
+        "angelListId": "598625",
+        "angelListUrl": "https://angel.co/company/ev-energy/jobs/598625-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Sparkk App",
+  "avatar": "https://photos.angel.co/startups/i/6865329-b619bee9899c0f54d442dd7728f89d57-medium_jpg.jpg?buster=1554134785",
+  "slogan": "Social entertainment platform",
+  "description": "Discovery event platform helping people to connect through experiences.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://Sparkk App Ltd"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile Application"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/clementfrey",
+      "name": "Clément Frey",
+      "avatar": "https://photos.angel.co/users/8677935-medium_jpg?1544130403",
+      "bioHtml": "Founder Sparkk App  • Worked at <a href=\"https://angel.co/company/inmobi\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">InMobi</span></a>, <a href=\"https://angel.co/company/celtra\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Celtra</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6865329",
+    "angelListUrl": "https://angel.co/company/sparkk-app-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "iOS Developer / CTO",
+      "description": "Working on a new social entertainment platform, I am looking for an iOS developer to join me on this exciting project and potentially become my co-founder.\n\nPriority will be to finish developing the app (design is pretty much finalised and some code has been written) and work on the server side of things (ideally with python or ruby).\n\nOn the long term, I am looking for someone who can take ownership of the technical aspects of the business and drive things forward.",
+      "descriptionHtml": "<p>Working on a new social entertainment platform, I am looking for an iOS developer to join me on this exciting project and potentially become my co-founder.</p>\n\n<p>Priority will be to finish developing the app (design is pretty much finalised and some code has been written) and work on the server side of things (ideally with python or ruby).</p>\n\n<p>On the long term, I am looking for someone who can take ownership of the technical aspects of the business and drive things forward.</p>\n",
+      "position": "cofounder",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "iOS Development",
+        "Backend Development"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "15.0% – 30.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/clementfrey",
+        "name": "Clément Frey",
+        "avatar": "https://photos.angel.co/users/8677935-medium_jpg?1544130403"
+      },
+      "refs": {
+        "angelListId": "530736",
+        "angelListUrl": "https://angel.co/company/sparkk-app-1/jobs/530736-"
+      }
+    }
+  ]
+}

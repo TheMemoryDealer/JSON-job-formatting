@@ -1,0 +1,124 @@
+{
+  "name": "CybSafe",
+  "avatar": "https://photos.angel.co/startups/i/4609759-1e00962dcca6a25a4e1b94e4ac34ccc3-medium_jpg.jpg?buster=1582507144",
+  "slogan": "A B2B SaaS cyber security tech company addressing the human aspect of cybersecurity",
+  "description": "CybSafe improves cyber security behaviours and attitudes, and get the data you need to measure and report on impact",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.cybsafe.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://blog.cybsafe.com/"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@cybsafe"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/10551016/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Cyber Security",
+    "Information Security",
+    "Technology",
+    "SaaS",
+    "Psychology"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/oz-alashe",
+      "name": "Oz Alashe",
+      "avatar": "https://photos.angel.co/users/6888843-medium_jpg?1504693584",
+      "bioHtml": "CEO at CybSafe"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/kyle-baird-1",
+      "name": "Kyle Baird",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at CybSafe, ARX Maritime. Experience with Business Analysis, Competitor Analysis, Delphi. Went to Edinburgh University, University of Edinburgh"
+    },
+    {
+      "title": "Customer Success Executive",
+      "role": "Employee",
+      "url": "https://angel.co/u/jessie-belle-auguste",
+      "name": "Jessie belle Auguste",
+      "avatar": "https://photos.angel.co/users/8776946-medium_jpg?1580124867",
+      "bioHtml": "Worked at CybSafe. Experience with Bilingual, English, Education"
+    },
+    {
+      "title": "CTO",
+      "role": "Employee",
+      "url": "https://angel.co/u/jonathan-webster",
+      "name": "Jonathan Webster",
+      "avatar": "https://photos.angel.co/users/25434-medium_jpg?1504691726",
+      "bioHtml": "CTO at cybsafe.com, passion for the web, Imperial Alumni"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4609759",
+    "angelListUrl": "https://angel.co/company/cybsafe"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "DevSecOps Engineer",
+      "description": "We’re looking for a talented DevOps Engineer who understands the web and loves to do what we do. You will work with the Engineering team to work on our leading cyber security awareness platform and reporting to the Chief Technology Officer.  \n\nWe like people who stay ahead of the curve with new technologies and patterns, and use their experience bring their best work to the team here at CybSafe. Our perfect candidate is passionate about the concepts and skills they will bring to the team, with an openness to share these talents for the benefit of the team and culture. \n\nWe’d like you to have a passion for efficiency and identifying ways in which you can use your talent to help all members of the team. You champion the end users, always striving to deliver the best experience for the hundreds of thousands of people you reach.\n\nWe’d also like you to be enthusiastic and have a positive attitude even when asked to do things outside of your job description and skill set. Importantly, we’d like you to have the ability to stay organised and thrive in a fast-paced start-up environment with strong attention to detail.\nWe are 21st century thinkers and so are you. You will join an exciting and vibrant team, contributing vision and input that will steer the company for years to come.",
+      "descriptionHtml": "<p>We’re looking for a talented DevOps Engineer who understands the web and loves to do what we do. You will work with the Engineering team to work on our leading cyber security awareness platform and reporting to the Chief Technology Officer.  </p>\n\n<p>We like people who stay ahead of the curve with new technologies and patterns, and use their experience bring their best work to the team here at CybSafe. Our perfect candidate is passionate about the concepts and skills they will bring to the team, with an openness to share these talents for the benefit of the team and culture. </p>\n\n<p>We’d like you to have a passion for efficiency and identifying ways in which you can use your talent to help all members of the team. You champion the end users, always striving to deliver the best experience for the hundreds of thousands of people you reach.</p>\n\n<p>We’d also like you to be enthusiastic and have a positive attitude even when asked to do things outside of your job description and skill set. Importantly, we’d like you to have the ability to stay organised and thrive in a fast-paced start-up environment with strong attention to detail.<br>\nWe are 21st century thinkers and so are you. You will join an exciting and vibrant team, contributing vision and input that will steer the company for years to come.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Amazon Web Services",
+        "Docker",
+        "AWS",
+        "RESTful API Development",
+        "Docker / Docker Compose / Kubernetes"
+      ],
+      "payment": {
+        "salary": "£60k – £70k"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/jonathan-webster",
+        "name": "Jonathan Webster",
+        "avatar": "https://photos.angel.co/users/25434-medium_jpg?1504691726"
+      },
+      "refs": {
+        "angelListId": "281677",
+        "angelListUrl": "https://angel.co/company/cybsafe/jobs/281677-"
+      }
+    }
+  ]
+}

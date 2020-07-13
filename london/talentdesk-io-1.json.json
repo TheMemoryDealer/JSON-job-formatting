@@ -1,0 +1,107 @@
+{
+  "name": "TalentDesk.io",
+  "avatar": "https://photos.angel.co/startups/i/7006032-dea0a318fe2c7e54d8628811166627e3-medium_jpg.jpg?buster=1560510383",
+  "slogan": "Your go to platform for everything freelance",
+  "description": "TalentDesk.io is a Freelancer Management System that allows enterprises to onboard, project manage and pay their freelancers in an efficient and scalable way.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://talentdesk.io/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Technology"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Product",
+      "role": "Employee",
+      "url": "https://angel.co/u/sadaf-hashemzadeh-1",
+      "name": "Sadaf Hashemzadeh",
+      "avatar": "https://photos.angel.co/users/10152417-medium_jpg?1571670586",
+      "bioHtml": ""
+    },
+    {
+      "title": "Head of Marketing",
+      "role": "Employee",
+      "url": "https://angel.co/u/richa-dayal",
+      "name": "Richa Dayal",
+      "avatar": "https://photos.angel.co/users/1500549-medium_jpg?1580072862",
+      "bioHtml": "Marketing Lead at TalentDesk.io in London. Revolutionising the remote work/freelancer management space. Ex-Happy Marketer &amp; Lookout. "
+    },
+    {
+      "title": "CTO",
+      "role": "Employee",
+      "url": "https://angel.co/u/sotirios-michalakos",
+      "name": "Sotirios Michalakos",
+      "avatar": "https://photos.angel.co/users/6397974-medium_jpg?1565699053",
+      "bioHtml": "A CTO who loves the challenges posed by the intriguing start-up ecosystem"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7006032",
+    "angelListUrl": "https://angel.co/company/talentdesk-io-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full-stack Developer - Remote",
+      "description": "Are you a full-stack developer with 3+ years of experience working with NodeJs and React on challenging projects, ideally in a fast paced startup environment? \n\nLots of developers have the tech stack we require but your approach to your work is what will make this a success!\n\n- We are looking for someone who loves building software that people genuinely love using\n- Pays attention to every little detail that can make clients feel excited about your software\n- Works with people that appreciate knowledge sharing in order to promote self-development\n- Wants to be part of a dynamic, experienced team that values getting things done while helping others getting things done\n- Ambitious, hungry and keen to begin a new chapter in your career\n\nIf you feel like this is you then read on!\n\n**Who we are**\nTalentDesk.io offers a cloud solution that helps companies from SMB through to Enterprises manage and grow their freelance workforce. With a strong emphasis on project management and regulatory compliance, the platform makes it easy to manage multiple projects while removing the hassle of payments.\n\n**Who backs us**\nWe are part of PeoplePerHour.com, UK’s leading freelancer marketplace with over 12 years of experience in the freelance industry. With 1 in 3 people currently working freelance, and the expectation that this will increase to 1 in 2 by 2025, we strongly believe this is the future of work and it will fundamentally change the way companies operate and think about the way they discover and use talent.\n\n**Our Tech Stack**\nThis is an outline of our current tech:\n- Clean,  test-driven isomorphic codebase build using async ES6/ES7\n- NodeJS backend built using ExpressJS\n- ReactJS frontend with a Redux-based data-flow layer and styles managed via SASS\n- Code bundling via the Webpack module bundler\n- CircleCI for CI/CD\n- MySQL, Redis and Elasticsearch data-stores\n- Micro-services packaged as docker containers and deployed on kubernetes\n\n**Your skillset**\nAs a full-stack engineer, you will:\n- Work with ExpressJS and React/Redux together with a curious and experienced team of Senior Engineers\n- Ensure your solutions are well designed and appropriately load-tested\n- Keep pushing the limits in JavaScript, Node.js, React, ELK and more\n- Ensure you and your teammates are following best development practices Share your knowledge and learn from your teammates\n\nMoreover, you should:\n- Embrace agile principles\n- Think analytically and methodically with high attention to detail\n- Act like an owner and be selfless while being accountable and goal oriented; in short, get things done!\n- Value honest feedback and constantly try to raise the bar.\n- Be proud of the code you produce. Admittedly, nothing is perfect and so refactoring is your friend. You always like to leave the code better than you found it, in fact, it's how you code every day.\n\n**Perks**\nA few of the many perks of joining the TalentDesk.io team:\n- Competitive salary with an annual pay review\n- Equity depending on the level of position - we are in this together, right?\n- Flexible work\n- Days off - We encourage breaks and freshness so we expect you to be with your loved ones on your birthday and name day! Oh and those important school days where you want to be with your children!\n- Work with great colleagues of excellent calibre and ambition that code for fun!\n\nIf you feel you have the right skillset and attitude to tick all of these boxes please reach out and let's talk!\n\n*We are quite flexible about location and working hours; however, for inter-team synchronization purposes, we require some overlap with our regular business working hours (UTC+02:00/EET).",
+      "descriptionHtml": "<p>Are you a full-stack developer with 3+ years of experience working with NodeJs and React on challenging projects, ideally in a fast paced startup environment? </p>\n\n<p>Lots of developers have the tech stack we require but your approach to your work is what will make this a success!</p>\n\n<ul>\n<li>We are looking for someone who loves building software that people genuinely love using</li>\n<li>Pays attention to every little detail that can make clients feel excited about your software</li>\n<li>Works with people that appreciate knowledge sharing in order to promote self-development</li>\n<li>Wants to be part of a dynamic, experienced team that values getting things done while helping others getting things done</li>\n<li>Ambitious, hungry and keen to begin a new chapter in your career</li>\n</ul>\n\n<p>If you feel like this is you then read on!</p>\n\n<p><strong>Who we are</strong><br>\nTalentDesk.io offers a cloud solution that helps companies from SMB through to Enterprises manage and grow their freelance workforce. With a strong emphasis on project management and regulatory compliance, the platform makes it easy to manage multiple projects while removing the hassle of payments.</p>\n\n<p><strong>Who backs us</strong><br>\nWe are part of PeoplePerHour.com, UK’s leading freelancer marketplace with over 12 years of experience in the freelance industry. With 1 in 3 people currently working freelance, and the expectation that this will increase to 1 in 2 by 2025, we strongly believe this is the future of work and it will fundamentally change the way companies operate and think about the way they discover and use talent.</p>\n\n<p><strong>Our Tech Stack</strong><br>\nThis is an outline of our current tech:</p>\n\n<ul>\n<li>Clean,  test-driven isomorphic codebase build using async ES6/ES7</li>\n<li>NodeJS backend built using ExpressJS</li>\n<li>ReactJS frontend with a Redux-based data-flow layer and styles managed via SASS</li>\n<li>Code bundling via the Webpack module bundler</li>\n<li>CircleCI for CI/CD</li>\n<li>MySQL, Redis and Elasticsearch data-stores</li>\n<li>Micro-services packaged as docker containers and deployed on kubernetes</li>\n</ul>\n\n<p><strong>Your skillset</strong><br>\nAs a full-stack engineer, you will:</p>\n\n<ul>\n<li>Work with ExpressJS and React/Redux together with a curious and experienced team of Senior Engineers</li>\n<li>Ensure your solutions are well designed and appropriately load-tested</li>\n<li>Keep pushing the limits in JavaScript, Node.js, React, ELK and more</li>\n<li>Ensure you and your teammates are following best development practices Share your knowledge and learn from your teammates</li>\n</ul>\n\n<p>Moreover, you should:</p>\n\n<ul>\n<li>Embrace agile principles</li>\n<li>Think analytically and methodically with high attention to detail</li>\n<li>Act like an owner and be selfless while being accountable and goal oriented; in short, get things done!</li>\n<li>Value honest feedback and constantly try to raise the bar.</li>\n<li>Be proud of the code you produce. Admittedly, nothing is perfect and so refactoring is your friend. You always like to leave the code better than you found it, in fact, it&#39;s how you code every day.</li>\n</ul>\n\n<p><strong>Perks</strong><br>\nA few of the many perks of joining the TalentDesk.io team:</p>\n\n<ul>\n<li>Competitive salary with an annual pay review</li>\n<li>Equity depending on the level of position - we are in this together, right?</li>\n<li>Flexible work</li>\n<li>Days off - We encourage breaks and freshness so we expect you to be with your loved ones on your birthday and name day! Oh and those important school days where you want to be with your children!</li>\n<li>Work with great colleagues of excellent calibre and ambition that code for fun!</li>\n</ul>\n\n<p>If you feel you have the right skillset and attitude to tick all of these boxes please reach out and let&#39;s talk!</p>\n\n<p>*We are quite flexible about location and working hours; however, for inter-team synchronization purposes, we require some overlap with our regular business working hours (UTC+02:00/EET).</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe"
+      ],
+      "skills": [],
+      "payment": {
+        "salary": "$40k – $70k"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/sotirios-michalakos",
+        "name": "Sotirios Michalakos",
+        "avatar": "https://photos.angel.co/users/6397974-medium_jpg?1565699053"
+      },
+      "refs": {
+        "angelListId": "607402",
+        "angelListUrl": "https://angel.co/company/talentdesk-io-1/jobs/607402-"
+      }
+    }
+  ]
+}

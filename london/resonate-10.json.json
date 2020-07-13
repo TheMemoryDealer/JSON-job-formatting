@@ -1,0 +1,115 @@
+{
+  "name": "MyResonance",
+  "avatar": "https://photos.angel.co/startups/i/6783654-3b1708bd632a2fc837c1943516825da6-medium_jpg.jpg?buster=1586191194",
+  "slogan": "We help companies enable employee-led social & environmental impact",
+  "description": "MyResonance is a tech for good start-up, helping companies create employee-led social & environmental impact.\n\nWe support companies in the creation of workplace cultures where giving back to teammates and non-profits is the norm and sustainability really is business as usual.\n\nTo enable this change we’re building a digital platform for progressive companies big and small that want to make a real impact in the world and believe that change comes from their people. \n\nOur inclusive team encompasses expertise across a range of areas from Video Games (EA Games & Peak) to Financial Services (BlackRock & Deutsche Bank) helping bring about a new democratised vector for change.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.myresonance.io"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/myresonance_io"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/resonateio/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Technology"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/bertrand-lamarque",
+      "name": "Bertrand Lamarque",
+      "avatar": "https://photos.angel.co/users/487677-medium_jpg?1463735697",
+      "bioHtml": "Worked at <a href=\"https://angel.co/company/peak-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Peak</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/luke-baker-1",
+      "name": "Luke Baker",
+      "avatar": "https://photos.angel.co/users/2108050-medium_jpg?1506100001",
+      "bioHtml": "Co-founder &amp; CEO <a href=\"https://angel.co/company/resonate-10\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">MyResonance</span></a> • Worked at <a href=\"https://angel.co/company/blackrock\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">BlackRock</span></a>, <a href=\"https://angel.co/company/deutsche-bank\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Deutsche Bank</span></a>  • Cut teeth at start-up as CRO at <a href=\"https://angel.co/company/intros-at\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Grip</span></a> "
+    },
+    {
+      "title": "CTO",
+      "role": "Employee",
+      "url": "https://angel.co/u/bertrand-lamarque-1",
+      "name": "Bertrand Lamarque",
+      "avatar": "https://photos.angel.co/users/5173196-medium_jpg?1479921346",
+      "bioHtml": "Worked at Peak, Playfish."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6783654",
+    "angelListUrl": "https://angel.co/company/resonate-10"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "**About the job**\r\n\r\n**What you'll do**\r\n\r\nYou will join the team as our first hire and working with the two founders on our tech for good platform and the various integration of it (Slack/Teams).\r\n\r\n**What you'll be doing**\r\n\r\n* Developing our consumer-facing and internal tools\r\n* Working across our backend and frontend.\r\n* Developing and maintaining our accessibility-first design system from the ground up.\r\n* Collaborating with our designer on user research, and working with other members of the team to understand their needs for internal tools.\r\n* Collaborating on the development of our design / engineering / product team processes.\r\n* We're a small company and it's often all hands on deck. There's a good chance you'll occasionally be helping with things beyond your role.\r\n\r\n**Skillset wise**\r\n\r\nYou are proficient in backend and frontend development, with a preference from frontend development and technologies. You will have experience developing large and complex web applications and building high throughput systems with microservices and/or event-driven architectures and both relational and non-relational databases.\r\n\r\n**Personality wise**\r\n\r\nYou're a fire-starter who can clearly demonstrate your ability to be proactive without direct supervision, leading project from idea to completion.\r\nYou believe that tech can be an element to build a better world and understand the value of the project. \r\nYou're flexible and adaptable, to changing situations and responsibilities, and can work on many projects simultaneously.\r\n\r\n**Hiring process**\r\n\r\nBetween one to two hours call with the two founders. \r\nWe will ask you to show us and explain some code and project you are proud of. \r\n\r\n**Some technologies we use**\r\n\r\nReact, Redux, Node.js, DynamoDB, MySql, Docker, AWS\r\n\r\n**About Us**\r\n\r\nMyResonance is a tech for good start-up (pending B-corp).\r\nWe help companies foster employee-led social &amp; environmental impact. We drive real impact and change at the heart of organisations by empowering employees around the social and environmental impacts of their companies.\r\nOur technology allows employees and companies to understand their impact on people and planet whilst avoiding green washing.\r\nThe co-founders have over 15 years experience leading dev’t teams within video game companies (EA Games, Peak) as well as 10 years across leading financial institutions (BlackRock, Deutsche Bank).\r\n\r\n**About Our Products**\r\n\r\nMyResonance is reimagining social and environmental impact within companies. Our product sits between the traditional CSR platforms and company internal communication platforms.\r\nMyResonance main KPI is employee engagement, therefore our product integrates with what employees use day-in-day-out, platforms like Slack, Microsoft Teams and Github.\r\nWe also provide a web platform providing an engaging way for employees to see both their and their companies impact. The platform provides a first of it’s kind Cultural Currency that is transferable between users and donatable to charities of their choice.\r\n\r\n**What we offer**\r\n\r\nFollowing the closing of our pre-seed funding round you will be joining the team as our first technical hire.\r\nSalary between 40-50K with equity depending on experience.\r\nWeekly team lunches\r\nWork at the Natwest Fintech Accelerator in the heart of Angel, Islington (London) (post Co-vid)\r\n\r\n\r\nWe’re serious about creating a company that is an equal opportunities employer. As a result we are determined to ensure that no applicant or employee receives less favourable treatment on the grounds of gender, age, disability, religion, belief, sexual orientation, marital status, or race, or is disadvantaged by conditions or requirements which cannot be shown to be justifiable.\r\n\r\n\r\n**FAQ**\r\n\r\nQ: Are you open to remote work?\r\nA: Yes, we are very flexible with remote work. To facilitate cooperation we are limiting our team's timezones to UTC (London time) to UTC+2 (Eastern European time).\r\nQ: Is this a full-time role?\r\nA: Yes. We're are not looking for contractors or freelancers\r\nQ: What does the interviewing process look like?\r\nA: You will have video calls with each of us and then the two of us together. We don't believe in white board interview. We will ask that you show us some code that you wrote and are proud of and explain it to us.\r\nQ: I don't know Node.js/React, should I apply anyway?\r\nA: We believe a good engineer can pick up any new technology in a reasonable amount of time. You need to show a strong desire to grow and learn.",
+      "descriptionHtml": "<p><strong>About the job</strong></p>\n\n<p><strong>What you&#39;ll do</strong></p>\n\n<p>You will join the team as our first hire and working with the two founders on our tech for good platform and the various integration of it (Slack/Teams).</p>\n\n<p><strong>What you&#39;ll be doing</strong></p>\n\n<ul>\n<li>Developing our consumer-facing and internal tools</li>\n<li>Working across our backend and frontend.</li>\n<li>Developing and maintaining our accessibility-first design system from the ground up.</li>\n<li>Collaborating with our designer on user research, and working with other members of the team to understand their needs for internal tools.</li>\n<li>Collaborating on the development of our design / engineering / product team processes.</li>\n<li>We&#39;re a small company and it&#39;s often all hands on deck. There&#39;s a good chance you&#39;ll occasionally be helping with things beyond your role.</li>\n</ul>\n\n<p><strong>Skillset wise</strong></p>\n\n<p>You are proficient in backend and frontend development, with a preference from frontend development and technologies. You will have experience developing large and complex web applications and building high throughput systems with microservices and/or event-driven architectures and both relational and non-relational databases.</p>\n\n<p><strong>Personality wise</strong></p>\n\n<p>You&#39;re a fire-starter who can clearly demonstrate your ability to be proactive without direct supervision, leading project from idea to completion.<br>\nYou believe that tech can be an element to build a better world and understand the value of the project. <br>\nYou&#39;re flexible and adaptable, to changing situations and responsibilities, and can work on many projects simultaneously.</p>\n\n<p><strong>Hiring process</strong></p>\n\n<p>Between one to two hours call with the two founders. <br>\nWe will ask you to show us and explain some code and project you are proud of. </p>\n\n<p><strong>Some technologies we use</strong></p>\n\n<p>React, Redux, Node.js, DynamoDB, MySql, Docker, AWS</p>\n\n<p><strong>About Us</strong></p>\n\n<p>MyResonance is a tech for good start-up (pending B-corp).<br>\nWe help companies foster employee-led social &amp; environmental impact. We drive real impact and change at the heart of organisations by empowering employees around the social and environmental impacts of their companies.<br>\nOur technology allows employees and companies to understand their impact on people and planet whilst avoiding green washing.<br>\nThe co-founders have over 15 years experience leading dev’t teams within video game companies (EA Games, Peak) as well as 10 years across leading financial institutions (BlackRock, Deutsche Bank).</p>\n\n<p><strong>About Our Products</strong></p>\n\n<p>MyResonance is reimagining social and environmental impact within companies. Our product sits between the traditional CSR platforms and company internal communication platforms.<br>\nMyResonance main KPI is employee engagement, therefore our product integrates with what employees use day-in-day-out, platforms like Slack, Microsoft Teams and Github.<br>\nWe also provide a web platform providing an engaging way for employees to see both their and their companies impact. The platform provides a first of it’s kind Cultural Currency that is transferable between users and donatable to charities of their choice.</p>\n\n<p><strong>What we offer</strong></p>\n\n<p>Following the closing of our pre-seed funding round you will be joining the team as our first technical hire.<br>\nSalary between 40-50K with equity depending on experience.<br>\nWeekly team lunches<br>\nWork at the Natwest Fintech Accelerator in the heart of Angel, Islington (London) (post Co-vid)</p>\n\n<p>We’re serious about creating a company that is an equal opportunities employer. As a result we are determined to ensure that no applicant or employee receives less favourable treatment on the grounds of gender, age, disability, religion, belief, sexual orientation, marital status, or race, or is disadvantaged by conditions or requirements which cannot be shown to be justifiable.</p>\n\n<p><strong>FAQ</strong></p>\n\n<p>Q: Are you open to remote work?<br>\nA: Yes, we are very flexible with remote work. To facilitate cooperation we are limiting our team&#39;s timezones to UTC (London time) to UTC+2 (Eastern European time).<br>\nQ: Is this a full-time role?<br>\nA: Yes. We&#39;re are not looking for contractors or freelancers<br>\nQ: What does the interviewing process look like?<br>\nA: You will have video calls with each of us and then the two of us together. We don&#39;t believe in white board interview. We will ask that you show us some code that you wrote and are proud of and explain it to us.<br>\nQ: I don&#39;t know Node.js/React, should I apply anyway?<br>\nA: We believe a good engineer can pick up any new technology in a reasonable amount of time. You need to show a strong desire to grow and learn.</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Western Europe"
+      ],
+      "skills": [
+        "CSS",
+        "Node.js",
+        "SCSS / SASS",
+        "AWS",
+        "ReactJS",
+        "Next JS"
+      ],
+      "payment": {
+        "salary": "£40k – £50k",
+        "equity": "0.2% – 0.5%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/bertrand-lamarque-1",
+        "name": "Bertrand Lamarque",
+        "avatar": "https://photos.angel.co/users/5173196-medium_jpg?1479921346"
+      },
+      "refs": {
+        "angelListId": "774007",
+        "angelListUrl": "https://angel.co/company/resonate-10/jobs/774007-"
+      }
+    }
+  ]
+}

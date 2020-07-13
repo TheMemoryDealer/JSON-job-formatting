@@ -1,0 +1,129 @@
+{
+  "name": "Sampler",
+  "avatar": "https://photos.angel.co/startups/i/7235311-cf0f6c65b32b5779bf68a0eb540d9651-medium_jpg.jpg?buster=1589635533",
+  "slogan": "We build tools that empower anyone to collect and work with data",
+  "description": "We believe the availability of great data-sets determines the potential impact machine learning can have on the world. So we’re building tools that make capturing well structured data more accessible to all.\n\nEmpowering the creator to make a beautiful piece of generative art, helping the early-stage start up build a robust ML model for elderly fall detection, and enabling large engineering teams to crowdsource a data set of street signs in Germany. We are shortening the gap between an idea and an intelligent experience or creation. Let’s help creators, technologists, and businesses of all sizes not be held back by the lack of well structured data. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://sampler.ai"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/samplerai"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/playgroundai/about/?viewasmember=true"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "United States",
+    "Europe"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": [
+      {
+        "type": "Pre-Seed",
+        "closedAt": 1577836800,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/aaronabentheuer",
+      "name": "Aaron Abentheuer",
+      "avatar": "https://photos.angel.co/users/10085286-medium_jpg?1579186656",
+      "bioHtml": "founder playground·ai, previously designer at ideo"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/gabriel-mitchell-2",
+      "name": "Gabriel Mitchell",
+      "avatar": "https://photos.angel.co/users/10085249-medium_jpg?1570282148",
+      "bioHtml": "founder Sampler • formerly design lead <a href=\"https://angel.co/company/ideo\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">IDEO</span></a>, user experience  <span><span class=\"at_symbol\">@</span><span class=\"at_name\">RGA</span></span> Manhattan. <a href=\"https://angel.co/carnegie-mellon-university\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Carnegie Mellon University</span></a> "
+    }
+  ],
+  "perks": [
+    {
+      "category": "work_from_home",
+      "title": "Work-from-home-friendly"
+    },
+    {
+      "category": "equity",
+      "title": "Equity benefits"
+    },
+    {
+      "category": "generous_vacation",
+      "title": "Generous vacation"
+    },
+    {
+      "category": "company_meals",
+      "title": "Company meals"
+    },
+    {
+      "category": "pet_friendly",
+      "title": "Pet-friendly office"
+    }
+  ],
+  "refs": {
+    "angelListId": "7235311",
+    "angelListUrl": "https://angel.co/company/playgroundai"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer / Data Scientist",
+      "description": "We are looking for a software engineer to join us to help define and build out the first version of our web product. This is a contract roll that will run over the spring of 2020. We are looking for engineers who have are excited about building web applications and APIs. There is an option for this to turn into a full-time position at the end of the contract.\n\nIf you have experience with React (Next.JS is a plus), building progressive web-apps, building out APIs (to interface with mobile applications and embedded hardware) and are excited to work within a product-focussed team of designers and developers we would love to have you apply. \n\nSince our products aim to make machine learning and data tangible and accessible to the many, let us know if you have worked (or experimented) with machine learning and data science.\n\n*This is a role for an individual only — we are not looking for agencies or recruiters. Thank you!*",
+      "descriptionHtml": "<p>We are looking for a software engineer to join us to help define and build out the first version of our web product. This is a contract roll that will run over the spring of 2020. We are looking for engineers who have are excited about building web applications and APIs. There is an option for this to turn into a full-time position at the end of the contract.</p>\n\n<p>If you have experience with React (Next.JS is a plus), building progressive web-apps, building out APIs (to interface with mobile applications and embedded hardware) and are excited to work within a product-focussed team of designers and developers we would love to have you apply. </p>\n\n<p>Since our products aim to make machine learning and data tangible and accessible to the many, let us know if you have worked (or experimented) with machine learning and data science.</p>\n\n<p><em>This is a role for an individual only — we are not looking for agencies or recruiters. Thank you!</em></p>\n",
+      "position": "contract",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [
+        "Europe",
+        "North America"
+      ],
+      "skills": [],
+      "payment": {
+        "salary": "£90k – £117k",
+        "equity": "0.0% – 0.1%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/gabriel-mitchell-2",
+        "name": "Gabriel Mitchell",
+        "avatar": "https://photos.angel.co/users/10085249-medium_jpg?1570282148"
+      },
+      "refs": {
+        "angelListId": "698494",
+        "angelListUrl": "https://angel.co/company/playgroundai/jobs/698494-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "name": "KIISA",
+  "avatar": "https://photos.angel.co/startups/i/6871770-5b45655e1384a6851a750383203f2b4e-medium_jpg.jpg?buster=1554558770",
+  "slogan": "KIISA develops and curates African & Diaspora art through creative global platforms",
+  "description": "KIISA aims to produce unique content and disseminate knowledge of the Contemporary African art market via our website, newsletters, press and social media platforms.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.kiisaart.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Art",
+    "Artists Globally",
+    "Artist Management"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/freda-isingoma",
+      "name": "Freda Isingoma",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6871770",
+    "angelListUrl": "https://angel.co/company/kiisa"
+  },
+  "jobs": [
+    {
+      "role": "Marketing",
+      "title": "Researcher",
+      "description": "We need someone to research and collate all the current art infrastructure across Africa and the Diaspora including Europe, UK, US, South America and the Caribbean. \r\n\r\nThis will include a list of galleries, museums, art fairs, auctions houses etc.",
+      "descriptionHtml": "<p>We need someone to research and collate all the current art infrastructure across Africa and the Diaspora including Europe, UK, US, South America and the Caribbean. </p>\n\n<p>This will include a list of galleries, museums, art fairs, auctions houses etc.</p>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/freda-isingoma",
+        "name": "Freda Isingoma",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "534008",
+        "angelListUrl": "https://angel.co/company/kiisa/jobs/534008-"
+      }
+    }
+  ]
+}

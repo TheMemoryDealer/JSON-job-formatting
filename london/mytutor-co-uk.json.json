@@ -1,0 +1,173 @@
+{
+  "name": "MyTutor",
+  "avatar": "https://photos.angel.co/startups/i/882538-91a06ac9df669be282355a016122db17-medium_jpg.jpg?buster=1560321163",
+  "slogan": "One-to-one online tuition with high-performing university students",
+  "description": "MyTutor is the UK’s leading platform for online tuition, and we’re on a mission to empower each learner with the expertise they need to reach their potential. Through our highly-engaged tutor community and interactive Online Lesson Space, we envision a future where any student can access high quality one-to-one support.\n\nWith the growing demand for personalised education, tutoring has become a £2bn market in the UK alone. Against this backdrop, MyTutor has become one of the fastest-growing and best-funded EdTech businesses in Europe. To date, we’ve worked with over 20,000 families, 400 schools and raised over £10m from a mix of respected institutional and angel investors.\n\nWe’re a fun and passionate team of 40 in a shared office in Shoreditch. Our diverse team have previously worked at GoCardless, Lyst, Goldman Sachs, TeachFirst and BCG. As a whole we’re proactive, close-knit and easy to get along with.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.mytutor.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.mytutor.co.uk/blog/"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/mytutor"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/mytutoruk/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/mytutor.co.uk"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Education",
+    "Technology",
+    "Tutoring",
+    "Education Technology"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 15567166,
+    "rounds": [
+      {
+        "type": "Series B",
+        "closedAt": 1529798400,
+        "valuation": 0
+      },
+      {
+        "type": "Series A",
+        "closedAt": 1495584000,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1444867200,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "Managing Director, Schools",
+      "role": "Founder",
+      "url": "https://angel.co/u/jameshsgrant",
+      "name": "James Grant",
+      "avatar": "https://photos.angel.co/users/1475122-medium_jpg?1506585740",
+      "bioHtml": "Co-founder at MyTutor - revolutionising one-to-one tuition."
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/bertie-hubbard",
+      "name": "Bertie Hubbard",
+      "avatar": "https://photos.angel.co/users/667566-medium_jpg?1409302155",
+      "bioHtml": "Founder MyTutor • Worked at <a href=\"https://angel.co/company/goldman-sachs\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Goldman Sachs</span></a>, <a href=\"https://angel.co/company/partners-capital\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Partners Capital</span></a> • Studied at <a href=\"https://angel.co/durham-university-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Durham University</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/miranda-mccarthy-2",
+      "name": "Miranda McCarthy",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/madeleine-oldham-1",
+      "name": "Madeleine Oldham",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/claudia-hosu-2",
+      "name": "Claudia Hosu",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "882538",
+    "angelListUrl": "https://angel.co/company/mytutor-co-uk"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "DevOps Engineer (Perm)",
+      "description": "Description\n\nMyTutor is on a mission to make life-changing one-to-one learning more accessible. Our use of data, including a matching algorithm driven by machine learning, helps us to optimise education matches based on personality, aspirations and areas of expertise.\n\nOur current tech stack is a Java/MySQL backend hosted in AWS. Our front end is transitioning to React.js. We are 50+ people (and growing) in a bright open plan office in the heart of Shoreditch close to Spitalfields market and Brick Lane.\n\nWe’re looking for an experienced Devops engineer with AWS cloud computing experience to support the local development team with deployment pipeline improvements. Being curious about and comfortable with complex code transition is essential to this role, as is being language agnostic.\n\nResponsibilities\n\n- Apply cloud/AWS computing skills to deploy upgrades and fixes\n- Design, develop and maintain cloud computing infrastructure (AWS)\n- Release of software to test and production environments.\n- Supporting the tech team in releasing software to test and production environments.\n- Maintenance of code repository (e.g. GitHub)\n- Creation and maintenance of continuous integration (QA automation on code commits) & continuous delivery pipelines (automated releases) to both existing servers and microservice architectures.\n- Analyse and update test architecture to be as cost-effective and performant as possible (e.g. reserved instances vs. on demand vs. spot instance).\n- Support the tech team in provisioning new environments for testing and development, ensuring the solutions are easy to instigate and cost-effective to use.\n- Working with the tech team to automate processes wherever possible.\n- Working with the tech team on cloud-based software architecture design to better use existing AWS functionality and reduce DIY code.\n- Day to day support and maintenance of production infrastructure for security, reliability, performance, cost and scalability\n- Providing production support on a rota\n- Provisioning of production infrastructure as the business scales, both up and down.\n- Active performance monitor and configuration of alerting\n\nSkills you may already have\n\n- You have 5+ years experience as a DevOps Engineer or equivalent software-engineering role.\n- You have been a tech lead before in your area of expertise\nSolid experience with AWS (3+ years) - CloudFormation, CodePipeline, RDS, EC2, CloudFront, SNS, SQS\n- Infrastructure-as-code and automating the heck out of everything is your philosophy\n- You possess mentoring experience with specific examples\n- Experience with J2EE production systems and applications servers (maybe JBoss/ Wildfly)\n- You have experience in network, server, and application-status monitoring.\n- Familiarity with development in Java-based backend microservice or serverless technologies (Spring Boot, AWS Lambda, etc)\n- Experience with integration tools: Bitbucket, GIT, Bamboo, Jenkins, CodePipeline, DroneCI, Docker etc.\n- You can work independently and as part of a cross-functional team.\n\n\nBenefits\n\nWork in an always learning organisation\nAbility to influence the technology stack and engineering practices in the direction you want\nHelping to improve the educational outcomes of thousands of young people\nOpportunity to work autonomously and make use of your creative flair\nA bright open plan office in the heart of shoreditch close to a vibe of spitalfield market and brick lane\nTuesday Breakfasts, Team lunches, Friday socials and regular team events & outings\n25 days holiday (plus public holidays)\nCycle to Work scheme and tech acquisition schemes\nA flexible work-from-home policy and option for flexible working hours\nPension according to statutory requirements - at a 3% employer and 5% employee rate\n\n\nMyTutor is committed to creating an inclusive workplace with an EDI (Equality, Diversity and Inclusion) committee who host regular events to make sure we live up to those values. We are proud to be an equal opportunity employer, and all applicants will be considered.",
+      "descriptionHtml": "<p>Description</p>\n\n<p>MyTutor is on a mission to make life-changing one-to-one learning more accessible. Our use of data, including a matching algorithm driven by machine learning, helps us to optimise education matches based on personality, aspirations and areas of expertise.</p>\n\n<p>Our current tech stack is a Java/MySQL backend hosted in AWS. Our front end is transitioning to React.js. We are 50+ people (and growing) in a bright open plan office in the heart of Shoreditch close to Spitalfields market and Brick Lane.</p>\n\n<p>We’re looking for an experienced Devops engineer with AWS cloud computing experience to support the local development team with deployment pipeline improvements. Being curious about and comfortable with complex code transition is essential to this role, as is being language agnostic.</p>\n\n<p>Responsibilities</p>\n\n<ul>\n<li>Apply cloud/AWS computing skills to deploy upgrades and fixes</li>\n<li>Design, develop and maintain cloud computing infrastructure (AWS)</li>\n<li>Release of software to test and production environments.</li>\n<li>Supporting the tech team in releasing software to test and production environments.</li>\n<li>Maintenance of code repository (e.g. GitHub)</li>\n<li>Creation and maintenance of continuous integration (QA automation on code commits) &amp; continuous delivery pipelines (automated releases) to both existing servers and microservice architectures.</li>\n<li>Analyse and update test architecture to be as cost-effective and performant as possible (e.g. reserved instances vs. on demand vs. spot instance).</li>\n<li>Support the tech team in provisioning new environments for testing and development, ensuring the solutions are easy to instigate and cost-effective to use.</li>\n<li>Working with the tech team to automate processes wherever possible.</li>\n<li>Working with the tech team on cloud-based software architecture design to better use existing AWS functionality and reduce DIY code.</li>\n<li>Day to day support and maintenance of production infrastructure for security, reliability, performance, cost and scalability</li>\n<li>Providing production support on a rota</li>\n<li>Provisioning of production infrastructure as the business scales, both up and down.</li>\n<li>Active performance monitor and configuration of alerting</li>\n</ul>\n\n<p>Skills you may already have</p>\n\n<ul>\n<li>You have 5+ years experience as a DevOps Engineer or equivalent software-engineering role.</li>\n<li>You have been a tech lead before in your area of expertise\nSolid experience with AWS (3+ years) - CloudFormation, CodePipeline, RDS, EC2, CloudFront, SNS, SQS</li>\n<li>Infrastructure-as-code and automating the heck out of everything is your philosophy</li>\n<li>You possess mentoring experience with specific examples</li>\n<li>Experience with J2EE production systems and applications servers (maybe JBoss/ Wildfly)</li>\n<li>You have experience in network, server, and application-status monitoring.</li>\n<li>Familiarity with development in Java-based backend microservice or serverless technologies (Spring Boot, AWS Lambda, etc)</li>\n<li>Experience with integration tools: Bitbucket, GIT, Bamboo, Jenkins, CodePipeline, DroneCI, Docker etc.</li>\n<li>You can work independently and as part of a cross-functional team.</li>\n</ul>\n\n<p>Benefits</p>\n\n<p>Work in an always learning organisation<br>\nAbility to influence the technology stack and engineering practices in the direction you want<br>\nHelping to improve the educational outcomes of thousands of young people<br>\nOpportunity to work autonomously and make use of your creative flair<br>\nA bright open plan office in the heart of shoreditch close to a vibe of spitalfield market and brick lane<br>\nTuesday Breakfasts, Team lunches, Friday socials and regular team events &amp; outings<br>\n25 days holiday (plus public holidays)<br>\nCycle to Work scheme and tech acquisition schemes<br>\nA flexible work-from-home policy and option for flexible working hours<br>\nPension according to statutory requirements - at a 3% employer and 5% employee rate</p>\n\n<p>MyTutor is committed to creating an inclusive workplace with an EDI (Equality, Diversity and Inclusion) committee who host regular events to make sure we live up to those values. We are proud to be an equal opportunity employer, and all applicants will be considered.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "AWS/EC2/ELB/S3/DynamoDB",
+        "AWS CloudFormation",
+        "AWS"
+      ],
+      "payment": {
+        "salary": "£70k – £80k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/claudia-hosu-2",
+        "name": "Claudia Hosu",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "608930",
+        "angelListUrl": "https://angel.co/company/mytutor-co-uk/jobs/608930-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Java Software Engineer (Perm)",
+      "description": "MyTutor is on a mission to make life-changing one-to-one learning more accessible. Our use of data, including a matching algorithm driven by machine learning, helps us to optimise education matches based on personality, aspirations and areas of expertise.\n\nOur current tech stack is a Java/MySQL backend hosted in AWS. Our front end is transitioning to React.js. We are 50+ people (and growing) in a bright open plan office in the heart of Shoreditch close to Spitalfields market and Brick Lane.\n\nWe’re looking for an experienced software engineer with Java microservice back end software development experience to help us create a scalable components/apps/microservices based architecture. Being curious about and comfortable with complex code transition is essential to this role, as is being language agnostic.\n\nSkills you may already have\n\n- Experience working as a software engineer in a high-paced, high-change environment\n- Experience with J2EE systems (Java Core, Hibernate, JPA, Liquibase, web app servers - JBoss/ Wildfly)\n- Experience with integration tools: Bitbucket, GIT, Bamboo, Jenkins, DroneCI, Docker etc.\n- Experience with cloud computing (AWS, Google Cloud)\n- Some experience with  relational or NoSQL database development (MySQL, Mongo, ElasticSearch, etc)\n- Familiarity with development in Java-based backend microservice or serverless technologies (Spring Boot, Drop Wizard, AWS Lambda, etc)\n- Comfortable working in an environment aiming to be agile Scrum\n- Experience working with inherited codebases and creating entirely new greenfield projects\n\nResponsibilities\n\nBuild new product functionality \nImplement new backend according to our tech strategy\nWork with Product Owners to refine stories and explore technology challenges with them early\nResearch new technologies, methodologies and ideas that can improve the organisation\nWork with cross-functional teams to ensure quality throughout the software development lifecycle\nBuild good relationships with key stakeholders, who embrace challenges to their requirements and develop an understanding of the technology these relate to\nContribute constructively in improving agile practices\n\nBenefits\n\nWork in an always learning organisation\nAbility to influence the technology stack and engineering practices in the direction you want\nHelping to improve the educational outcomes of thousands of young people\nOpportunity to work autonomously and make use of your creative flair\nA bright open plan office in the heart of shoreditch close to a vibe of spitalfield market and brick lane\nTuesday Breakfasts, Team lunches, Friday socials and regular team events & outings\n25 days holiday (plus public holidays)\nCycle to Work scheme and tech acquisition schemes\nA flexible work-from-home policy and option for flexible working hours\nPension according to statutory requirements - at a 3% employer and 5% employee rate",
+      "descriptionHtml": "<p>MyTutor is on a mission to make life-changing one-to-one learning more accessible. Our use of data, including a matching algorithm driven by machine learning, helps us to optimise education matches based on personality, aspirations and areas of expertise.</p>\n\n<p>Our current tech stack is a Java/MySQL backend hosted in AWS. Our front end is transitioning to React.js. We are 50+ people (and growing) in a bright open plan office in the heart of Shoreditch close to Spitalfields market and Brick Lane.</p>\n\n<p>We’re looking for an experienced software engineer with Java microservice back end software development experience to help us create a scalable components/apps/microservices based architecture. Being curious about and comfortable with complex code transition is essential to this role, as is being language agnostic.</p>\n\n<p>Skills you may already have</p>\n\n<ul>\n<li>Experience working as a software engineer in a high-paced, high-change environment</li>\n<li>Experience with J2EE systems (Java Core, Hibernate, JPA, Liquibase, web app servers - JBoss/ Wildfly)</li>\n<li>Experience with integration tools: Bitbucket, GIT, Bamboo, Jenkins, DroneCI, Docker etc.</li>\n<li>Experience with cloud computing (AWS, Google Cloud)</li>\n<li>Some experience with  relational or NoSQL database development (MySQL, Mongo, ElasticSearch, etc)</li>\n<li>Familiarity with development in Java-based backend microservice or serverless technologies (Spring Boot, Drop Wizard, AWS Lambda, etc)</li>\n<li>Comfortable working in an environment aiming to be agile Scrum</li>\n<li>Experience working with inherited codebases and creating entirely new greenfield projects</li>\n</ul>\n\n<p>Responsibilities</p>\n\n<p>Build new product functionality <br>\nImplement new backend according to our tech strategy<br>\nWork with Product Owners to refine stories and explore technology challenges with them early<br>\nResearch new technologies, methodologies and ideas that can improve the organisation<br>\nWork with cross-functional teams to ensure quality throughout the software development lifecycle<br>\nBuild good relationships with key stakeholders, who embrace challenges to their requirements and develop an understanding of the technology these relate to<br>\nContribute constructively in improving agile practices</p>\n\n<p>Benefits</p>\n\n<p>Work in an always learning organisation<br>\nAbility to influence the technology stack and engineering practices in the direction you want<br>\nHelping to improve the educational outcomes of thousands of young people<br>\nOpportunity to work autonomously and make use of your creative flair<br>\nA bright open plan office in the heart of shoreditch close to a vibe of spitalfield market and brick lane<br>\nTuesday Breakfasts, Team lunches, Friday socials and regular team events &amp; outings<br>\n25 days holiday (plus public holidays)<br>\nCycle to Work scheme and tech acquisition schemes<br>\nA flexible work-from-home policy and option for flexible working hours<br>\nPension according to statutory requirements - at a 3% employer and 5% employee rate</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£65k – £80k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/claudia-hosu-2",
+        "name": "Claudia Hosu",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "681172",
+        "angelListUrl": "https://angel.co/company/mytutor-co-uk/jobs/681172-"
+      }
+    }
+  ]
+}

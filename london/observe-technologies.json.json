@@ -1,0 +1,116 @@
+{
+  "name": "Observe Technologies",
+  "avatar": "https://photos.angel.co/startups/i/3823102-fb0406d4a5dcb34bb9866ca8d4c763e9-medium_jpg.jpg?buster=1496136137",
+  "slogan": "Optimising fish farms",
+  "description": "The product uses M.L and C.V to give farmers a better understanding how to feed their fish: the largest cost of producing a fish and a large pollutant to the oceans if the feed is not eaten. The machine learning learning and the computer vision work in tandem to suggest the optimal amount to feed, health flagging and other alerts.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://observe.tech"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Machine Learning",
+    "Computer Vision",
+    "Aquaculture",
+    "Ocean Economy"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/pieter-fabry",
+      "name": "Pieter Fabry",
+      "avatar": "https://photos.angel.co/users/2440395-medium_jpg?1506421742",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/observe-technologies\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Observe Technologies</span></a> • MIT 35 Under 35 • Worked at <a href=\"https://angel.co/company/zentrick\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Zentrick</span></a>, <a href=\"https://angel.co/company/national-university-of-singapore-2\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">National University of Singapore</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/h_rishi",
+      "name": "Hemang Rishi",
+      "avatar": "https://photos.angel.co/users/5992302-medium_jpg?1489759795",
+      "bioHtml": "CEO at Observe Technologies, Electrical Engineer, Computer Vision, Robotics"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/ivan-makeev-1",
+      "name": "Ivan Makeev",
+      "avatar": "https://photos.angel.co/users/2974675-medium_jpg?1470085186",
+      "bioHtml": "Applied research scientist (PhD), practical problem solver with strong math background. Broad expertise in computer vision, deep learning."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "3823102",
+    "angelListUrl": "https://angel.co/company/observe-technologies"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Engineer",
+      "description": "We are looking for someone to join our software to help us revolutionise aquaculture: source of 1/3rd of the worlds protein source. We are building many outputs of our systems and we are looking for someone who thrives in high paced dynamic environments to join our team and will enjoy working with an ai company.\n\nWork with our core development team to help us build out a RESTful cloud server. The server and infrastructures will be used to manage data streams coming from multiple locally deployed computer into our cloud databases. The data uploaded is from SQL tables and images.\n\nSkills:\n - Node / Flask\n - AWS (S3, EC2)\n - MySQL\n - Docker\n\n\nResponsibilities:\n - Work with the team to design the best architecture for the job\n - Come up with a scalable solution capable of relatively high traffic\n - Cloud Security in mind\n - Robust and tested final solution",
+      "descriptionHtml": "<p>We are looking for someone to join our software to help us revolutionise aquaculture: source of 1/3rd of the worlds protein source. We are building many outputs of our systems and we are looking for someone who thrives in high paced dynamic environments to join our team and will enjoy working with an ai company.</p>\n\n<p>Work with our core development team to help us build out a RESTful cloud server. The server and infrastructures will be used to manage data streams coming from multiple locally deployed computer into our cloud databases. The data uploaded is from SQL tables and images.</p>\n\n<p>Skills:</p>\n\n<ul>\n<li>Node / Flask</li>\n<li>AWS (S3, EC2)</li>\n<li>MySQL</li>\n<li>Docker</li>\n</ul>\n\n<p>Responsibilities:</p>\n\n<ul>\n<li>Work with the team to design the best architecture for the job</li>\n<li>Come up with a scalable solution capable of relatively high traffic</li>\n<li>Cloud Security in mind</li>\n<li>Robust and tested final solution</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "SQL",
+        "Cloud Computing",
+        "Node.js",
+        "Web Development",
+        "Distributed Systems",
+        "AWS/EC2/ELB/S3/DynamoDB",
+        "Python/Django/Flask"
+      ],
+      "payment": {
+        "salary": "$60k – $80k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/pieter-fabry",
+        "name": "Pieter Fabry",
+        "avatar": "https://photos.angel.co/users/2440395-medium_jpg?1506421742"
+      },
+      "refs": {
+        "angelListId": "256409",
+        "angelListUrl": "https://angel.co/company/observe-technologies/jobs/256409-"
+      }
+    }
+  ]
+}

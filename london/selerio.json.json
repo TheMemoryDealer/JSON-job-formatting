@@ -1,0 +1,104 @@
+{
+  "name": "Selerio",
+  "avatar": "https://photos.angel.co/startups/i/3823251-e2a9c94a1aa1429f216b299335ca71de-medium_jpg.jpg?buster=1524569866",
+  "slogan": "Selerio is an AI start-up spin-out from Cambridge University doing live 3D reconstruction",
+  "description": "Our product is an SDK that provides smart 3D anchors in an AR scene. E.g., You can replace existing objects with virtual ones, occlude virtual objects in the physical world, and much more!",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://selerio.io"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/selerio"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Video",
+    "Artificial Intelligence",
+    "Computer Vision",
+    "Augmented Reality"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/ftghis",
+      "name": "Ghislain Tasse",
+      "avatar": "https://photos.angel.co/users/5961418-medium_jpg?1489761469",
+      "bioHtml": "Innovative, driven and friendly."
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/flora-tasse",
+      "name": "Flora Tasse",
+      "avatar": "https://photos.angel.co/users/5992210-medium_jpg?1489763728",
+      "bioHtml": "Co-founder &amp; CTO <a href=\"https://angel.co/company/selerio\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Selerio</span></a> • PhD @ University of Cambridge • 2014 Google Doctoral Fellow •  Worked at <a href=\"https://angel.co/company/google\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Google</span></a>, <a href=\"https://angel.co/company/microsoft\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Microsoft</span></a>, <a href=\"https://angel.co/company/inria\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">INRIA</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "3823251",
+    "angelListUrl": "https://angel.co/company/selerio"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Computer Vision Researcher (PhD)",
+      "description": "We are hiring a Computer Vision Researcher, with research experience in scene understanding problems such as semantic segmentation, depth estimation, and object tracking.\n\nSelerio is bringing 3D scene understanding to mobile devices to help our camera \"see\" and power truly magical 3D AR experiences. \n\nIf you are into incredibly hard problems and interested in shaping the future of Vision & AR, join us now!",
+      "descriptionHtml": "<p>We are hiring a Computer Vision Researcher, with research experience in scene understanding problems such as semantic segmentation, depth estimation, and object tracking.</p>\n\n<p>Selerio is bringing 3D scene understanding to mobile devices to help our camera &quot;see&quot; and power truly magical 3D AR experiences. </p>\n\n<p>If you are into incredibly hard problems and interested in shaping the future of Vision &amp; AR, join us now!</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Machine Learning",
+        "Computer Vision"
+      ],
+      "payment": {
+        "salary": "£50k – £65k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/flora-tasse",
+        "name": "Flora Tasse",
+        "avatar": "https://photos.angel.co/users/5992210-medium_jpg?1489763728"
+      },
+      "refs": {
+        "angelListId": "222454",
+        "angelListUrl": "https://angel.co/company/selerio/jobs/222454-"
+      }
+    }
+  ]
+}

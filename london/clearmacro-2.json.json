@@ -1,0 +1,131 @@
+{
+  "name": "ClearMacro",
+  "avatar": "https://photos.angel.co/startups/i/7635040-637b9a3a6a4fce686ae3ae160617be13-medium_jpg.jpg?buster=1587136774",
+  "slogan": "",
+  "description": "CM provides institutional investors with a front-office software/service solution that processes rapidly changing data/information into live investment signals.  It makes decision-making easier, helps improve portfolio returns, expands the user’s investment coverage, and increases the transparency and consistency over time of their decision-making.\n\nWe believe institutional investors are navigating a number of key trends: pressure on fees and cost structure and exponential growth in available data but limited ability to leverage it effectively. CM was created to provide investors with a viable data strategy to ensure that data provides a performance edge and not a cost.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.clearmacro.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/5360636"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "London",
+    "Greater London",
+    "City of London",
+    "London"
+  ],
+  "marketTags": [
+    "Fin Tech"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/eve-xu",
+      "name": "Eve Xu",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7635040",
+    "angelListUrl": "https://angel.co/company/clearmacro-2"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Azure Service Engineer",
+      "description": "About ClearMacro: Based in London, but with members of the team in multiple locations, we are an early stage tech company in the asset and wealth management space. We are building cutting edge tools designed to improve the way that active professional investors go about making investment decisions.\r\n\r\nWe are now starting to scale our operations, requiring a number of new hires, among them an Azure Service Engineer. The role is London based, reports directly to the CTO and will involve working with the IT, QA, Development and Product Teams to support our ClearENGINE platform and related applications. These applications are designed and developed for the Azure Platform as Software as a Service (SaaS) applications.\r\n\r\nThe Azure Server Engineer will have two primary responsibilities in this environment:\r\n\r\n• Deploy, administer, support, and troubleshoot our applications in Azure.\r\n\r\n• Guide the Software Development Life Cycle (SDLC) for the environment, primarily the promotion and deployment of code through the SDLC. This includes writing and managing all the automation and deployment scripts for this process.\r\n\r\nEssential Tasks, Duties, and Responsibilities:\r\n\r\n• Compiling software and packaging builds using standard Microsoft tools.\r\n\r\n• Implementing smoke tests into the build process.\r\n\r\n• Work with developers to identify, debug, and resolve build or deployment issues.\r\n\r\n• Develop, manage and execute automation processes for the environment.\r\n\r\n• Manage and maintain all Azure resources.\r\n\r\n• Debug and troubleshoot performance issues of all applications.\r\n\r\n• Guide technical teams on best practices of the SDLC process.\r\n\r\nProfile:\r\n\r\nWe are looking for an individual that is keen to work in a start-up (we stress at the outset a start-up is very different to a mature corporate environment). It requires someone that will enjoy the challenge of helping accelerate our growth, expected to ramp up post a major strategic investment. To that end, we identify the following specialized knowledge and skills as being essential:\r\n\r\n• A team player with excellent written and verbal communication skills and strong organizational skills. Must have a service-oriented attitude with excellent problem solving and analytical skills. Ability to work independently, self-motivated, and highly focused.\r\n\r\n• Ability to thrive in a changing environment. Ability to manage multiple projects with multiple priorities.\r\n\r\n• A strong understanding of the software development lifecycle and software development methodologies (requirements gathering, analysis and design, development tools, version control, testing and QA, and deployment).\r\n\r\n• Well-honed skills and expert understanding of Software Configuration Management (SCM). Ability to perform complex SCM tasks and ability to mentor or train others in the configuration management effort\r\n\r\n• Possesses expertise in one or more of the following or similar areas:\r\n\r\no Azure Platform and Infrastructure as a Service resources.\r\n\r\no Azure DevOps (boards, pipelines, repos, test plans, artefacts).\r\n\r\no Windows Server administration and configuration knowledge.\r\n\r\no Software engineering or programming.\r\n\r\no Windows and PowerShell Scripting.\r\n\r\n• Excellent interpersonal skills",
+      "descriptionHtml": "<p>About ClearMacro: Based in London, but with members of the team in multiple locations, we are an early stage tech company in the asset and wealth management space. We are building cutting edge tools designed to improve the way that active professional investors go about making investment decisions.</p>\n\n<p>We are now starting to scale our operations, requiring a number of new hires, among them an Azure Service Engineer. The role is London based, reports directly to the CTO and will involve working with the IT, QA, Development and Product Teams to support our ClearENGINE platform and related applications. These applications are designed and developed for the Azure Platform as Software as a Service (SaaS) applications.</p>\n\n<p>The Azure Server Engineer will have two primary responsibilities in this environment:</p>\n\n<p>• Deploy, administer, support, and troubleshoot our applications in Azure.</p>\n\n<p>• Guide the Software Development Life Cycle (SDLC) for the environment, primarily the promotion and deployment of code through the SDLC. This includes writing and managing all the automation and deployment scripts for this process.</p>\n\n<p>Essential Tasks, Duties, and Responsibilities:</p>\n\n<p>• Compiling software and packaging builds using standard Microsoft tools.</p>\n\n<p>• Implementing smoke tests into the build process.</p>\n\n<p>• Work with developers to identify, debug, and resolve build or deployment issues.</p>\n\n<p>• Develop, manage and execute automation processes for the environment.</p>\n\n<p>• Manage and maintain all Azure resources.</p>\n\n<p>• Debug and troubleshoot performance issues of all applications.</p>\n\n<p>• Guide technical teams on best practices of the SDLC process.</p>\n\n<p>Profile:</p>\n\n<p>We are looking for an individual that is keen to work in a start-up (we stress at the outset a start-up is very different to a mature corporate environment). It requires someone that will enjoy the challenge of helping accelerate our growth, expected to ramp up post a major strategic investment. To that end, we identify the following specialized knowledge and skills as being essential:</p>\n\n<p>• A team player with excellent written and verbal communication skills and strong organizational skills. Must have a service-oriented attitude with excellent problem solving and analytical skills. Ability to work independently, self-motivated, and highly focused.</p>\n\n<p>• Ability to thrive in a changing environment. Ability to manage multiple projects with multiple priorities.</p>\n\n<p>• A strong understanding of the software development lifecycle and software development methodologies (requirements gathering, analysis and design, development tools, version control, testing and QA, and deployment).</p>\n\n<p>• Well-honed skills and expert understanding of Software Configuration Management (SCM). Ability to perform complex SCM tasks and ability to mentor or train others in the configuration management effort</p>\n\n<p>• Possesses expertise in one or more of the following or similar areas:</p>\n\n<p>o Azure Platform and Infrastructure as a Service resources.</p>\n\n<p>o Azure DevOps (boards, pipelines, repos, test plans, artefacts).</p>\n\n<p>o Windows Server administration and configuration knowledge.</p>\n\n<p>o Software engineering or programming.</p>\n\n<p>o Windows and PowerShell Scripting.</p>\n\n<p>• Excellent interpersonal skills</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Software Engineering",
+        "Programming",
+        "Windows Server Administration",
+        "Azure DevOps"
+      ],
+      "payment": {
+        "salary": "£55k – £70k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/eve-xu",
+        "name": "Eve Xu",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "802408",
+        "angelListUrl": "https://angel.co/company/clearmacro-2/jobs/802408-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Investment Data Analyst",
+      "description": "About ClearMacro:\r\nBased in London, we are an early stage technology company in the asset management space. We are building cutting edge tools and data sets designed to improve the way that active professional investors go about making investment decisions.\r\n\r\nHaving just closed a major funding round, we are now starting to scale our operations, requiring several new hires, among them a Data Analyst. The role is London based and will be focused on both maintaining our existing applications and exploring how traditional and alt data sets can be used to optimize investment decision-making processes (with a heavy emphasis on the macro area).\r\n \r\n Specific projects will include:\r\n•\tData quality and data anomaly inspection.\r\n•\tBuild &amp; optimize data pipelines for Investment Product Design team in python.\r\n•\tDesign and development of data integrity framework processes.\r\n•\tData optimization - reviewing the data content of all signals and upgrading where possible.\r\n•\tSignal Design - identifying new information categories for additional ClearMacro signals.\r\n•\tSignal Marketing - generating relevant marketing content promoting the value of CM data and signals.\r\n\r\nProfile:\r\n•\tEnthusiastic professional, with finance or business background and interest in capital markets, data and technology.\r\n•\tPython &amp; SQL skills essential.\r\n\r\nWe would expect the following from you:\r\n•\tA keen interest in the application of data to investment decision-making and a robust understanding of data science techniques and applications.\r\n•\tSystematic review of potential data outliers and communication of findings.\r\n•\tProvide support to Quantitative Development Team and Investment Product Design team whenever support is needed. \r\n•\tSuper communication skills – both written and oral.\r\n•\tCreativity: the role will involve proactively developing new product ideas and enhancements.\r\n•\tA strong interest in macro / economics / strategy / algo trading.\r\n•\tA can-do attitude - can make decisions as well as take instructions, sharing ideas that you believe will add to the culture and company efficiency.\r\n\r\nWhat can you expect from us?\r\n•\tBeing a company transitioning from start-up to the first phase of growth – there will be many opportunities to both use and expand your skills and range.\r\n•\tAn open culture that encourages sharing of ideas.\r\n•\tGoals and deliverables focused - flexibility around how this is achieved.\r\n•\tCompetitive remuneration package.",
+      "descriptionHtml": "<p>About ClearMacro:<br>\nBased in London, we are an early stage technology company in the asset management space. We are building cutting edge tools and data sets designed to improve the way that active professional investors go about making investment decisions.</p>\n\n<p>Having just closed a major funding round, we are now starting to scale our operations, requiring several new hires, among them a Data Analyst. The role is London based and will be focused on both maintaining our existing applications and exploring how traditional and alt data sets can be used to optimize investment decision-making processes (with a heavy emphasis on the macro area).</p>\n\n<p>Specific projects will include:<br>\n• Data quality and data anomaly inspection.<br>\n• Build &amp; optimize data pipelines for Investment Product Design team in python.<br>\n• Design and development of data integrity framework processes.<br>\n• Data optimization - reviewing the data content of all signals and upgrading where possible.<br>\n• Signal Design - identifying new information categories for additional ClearMacro signals.<br>\n• Signal Marketing - generating relevant marketing content promoting the value of CM data and signals.</p>\n\n<p>Profile:<br>\n• Enthusiastic professional, with finance or business background and interest in capital markets, data and technology.<br>\n• Python &amp; SQL skills essential.</p>\n\n<p>We would expect the following from you:<br>\n• A keen interest in the application of data to investment decision-making and a robust understanding of data science techniques and applications.<br>\n• Systematic review of potential data outliers and communication of findings.<br>\n• Provide support to Quantitative Development Team and Investment Product Design team whenever support is needed. <br>\n• Super communication skills – both written and oral.<br>\n• Creativity: the role will involve proactively developing new product ideas and enhancements.<br>\n• A strong interest in macro / economics / strategy / algo trading.<br>\n• A can-do attitude - can make decisions as well as take instructions, sharing ideas that you believe will add to the culture and company efficiency.</p>\n\n<p>What can you expect from us?<br>\n• Being a company transitioning from start-up to the first phase of growth – there will be many opportunities to both use and expand your skills and range.<br>\n• An open culture that encourages sharing of ideas.<br>\n• Goals and deliverables focused - flexibility around how this is achieved.<br>\n• Competitive remuneration package.</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Greater London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "SQL"
+      ],
+      "payment": {
+        "salary": "£30k – £45k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/eve-xu",
+        "name": "Eve Xu",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "807032",
+        "angelListUrl": "https://angel.co/company/clearmacro-2/jobs/807032-"
+      }
+    }
+  ]
+}

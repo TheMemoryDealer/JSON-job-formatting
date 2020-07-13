@@ -1,0 +1,135 @@
+{
+  "name": "Lifebit",
+  "avatar": "https://photos.angel.co/startups/i/4325912-57da47574e3a8322739f8566f6a27291-medium_jpg.jpg?buster=1520958749",
+  "slogan": "We carve our own path. So can you",
+  "description": "Lifebit is pushing forward the frontiers of health and knowledge by democratising access to, and powering analyses of, omics big data. We are the pioneers revolutionising bioinformatics and biomedical data analysis.\n\nOur product, Lifebit CloudOS, is the world’s first federated genomics platform for unified, secure research over distributed big data. With best-in-class UI/UX, seamless integration with open-source tools, powerful cohort browser, and advanced AI, Lifebit CloudOS allows all researchers, whether novice or advanced, to easily run complex analyses and generate breakthrough insights fast.\n\nTop tier pharmaceutical organisations, global research institutes, and bioinformatics companies the world over are deploying Lifebit CloudOS. In April 2020 we closed our Series A funding round with tremendous support from new and previous investors. Based in London, UK, Lifebit is a diverse team spanning Europe and North America, with each person empowered and involved in every aspect of the business. \n\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://lifebit.ai/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/lifebitai"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Biotechnology",
+    "Genomics",
+    "Bioinformatics",
+    "Software"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 10500000,
+    "rounds": [
+      {
+        "type": "Series A",
+        "closedAt": 1588204800,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1531958400,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CTO/CSO",
+      "role": "Founder",
+      "url": "https://angel.co/u/pablo-prieto-barja",
+      "name": "Pablo Prieto Barja",
+      "avatar": "https://photos.angel.co/users/6845778-medium_jpg?1503751069",
+      "bioHtml": ""
+    },
+    {
+      "title": "CEO & Co-Founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/maria-chatzou",
+      "name": "Dr. Maria Chatzou",
+      "avatar": "https://photos.angel.co/users/6622874-medium_jpg?1518708045",
+      "bioHtml": "Co-founder &amp; CEO Lifebit, PhD in Biomedicine, MSc in Bioinformatics and Machine Learning, BSc in Computer Science and Biomedical Informatics "
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/adam-popeck-2",
+      "name": "Adam Popeck",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "",
+      "role": "Employee",
+      "url": "https://angel.co/u/margaridagsl",
+      "name": "Margarida Garcia",
+      "avatar": "https://photos.angel.co/users/960468-medium_jpg?1473714197",
+      "bioHtml": "Currently:⏳• Past: COO @lifebit_AI • Fundraising&amp;Ops @ObjectBox_io • Associate <a href=\"https://angel.co/company/techstars\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Techstars</span></a> • VP of Developer Relations @srcd_ • Head of Company Operations <a href=\"https://angel.co/company/tyba\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Tyba</span></a>"
+    },
+    {
+      "title": "Scientific and Technical Content Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/claire-alix-zapata-garin",
+      "name": "Claire-Alix Zapata Garin",
+      "avatar": "https://photos.angel.co/users/7862563-medium_jpg?1526288155",
+      "bioHtml": "PhD in Biomedicine"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4325912",
+    "angelListUrl": "https://angel.co/company/lifebit-ai"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Bioinformatician",
+      "description": "At Lifebit, we carve our own path. So can you.\n\nWe're open source pioneers, innovators changing the world. Our driving mission: to revolutionise bioinformatics and biomedical data analysis forever.\n\nOur product, Lifebit CloudOS, is the world’s first federated genomics platform for unified, secure research over distributed big data. No one on the planet has anything close. Think best-in-class UI/UX, seamless integration with open-source tools, powerful cohort browser, advanced AI. We’re leading the industry and leaving competitors in the dust. We intend to keep it that way.\n\nBecause while we know our technology is unmatched, we also know we can keep making it greater. That’s why we need more superstars like you - to help take us to incredible new heights. (Plus, we’ve got some really big plans afoot...)\n\nIf you share our commitment to open source, bioinformatics, big big data, Machine Learning, and AI we want to hear from you **today.**\n\n**As a Bioinformatician in our team, you will:**\n\n- Build required pipelines for batch analysis\n- Build and understand bioinformatics pipelines and monitoring\n- Provide upgrades, patches and maintenance of pipelines \n- Provide professional bioinformatics customer support assistance\n- Provide best practices support on building customer bioinformatics solutions\n- Engage with Lifebit clients and keep them excited about our products and services\n- Gather insights and experiences from every project and client to feed it to the rest of the team\n- Help and train team members and collaborators working with Lifebit products and services\n- Keep up to date with best practices and latest developments in bioinformatics data analysis areas\n\n**Requirements**\n\nWe are looking for pioneering Bioinformaticians to join our team today. Please view these role requirements as just an indication of what we’re looking for - sometimes the perfect candidate is far more or less experienced than we anticipated. If you think that might be your case, please reach out and let us know!\n\nYou have demonstrable knowledge and experience in bioinformatics, specifically you have experience in:\n\n- Running pipelines over Nextflow, CWL or WDL\n- Using workflow containers, including Docker and Singularity\n- Running workflow over HPC\n- Cloud systems (regardless of platform)\n- Data analysis on Python, Pandas or R\n- Creating interactive applications either through Python, R Shiny or similar frameworks\n\nAdditionally, we are looking for candidates who:\n\n- Have strong communication skills, both oral and written, with attention to detail\n- Can develop strong relationships with a range of stakeholders\n- Are able to organise and structure biomedical information, and be outcome oriented\n- Have experience with population genetics, genome-wide association studies\n\n**Benefits**\n\nWhat we offer in return:\n\n- Competitive salary and generous stock options\n- 25 days of annual leave plus the usual public holidays\n- Monthly team activities\n- Conferences, events and training resources (Data science, AI, cloud, any tech stack, painting, origami, you pick!) - we offer £1,000 a year to each person for personal development)\n- International and diverse team\n- Exposure to problems and applications in the cloud, data analysis, ML, life sciences and big data fields\n\n### About \n\nLifebit is on the cutting edge of the biotechnology revolution. In April 2020 we closed our [Series A](https://tech.eu/brief/lifebit-series-a/) funding round with tremendous support from new and existing investors. Based in London, UK, Lifebit is a diverse team spanning Europe and North America, with each person empowered and involved in every aspect of the business.\n\n“Best open source tech stack you’ll find! We’re collaborating every day with the most pioneering organisations on the planet, the smartest people who are leading and redefining bioinformatics. I could not imagine being anywhere else.”   \n*~Dr. Claire-Alix Zapata, Head of Scientific Content, Lifebit*\n\n“Our leadership team lives and breathes our mission. Nowhere else can you be part of the decision making process on DAY ONE. Extreme ownership!”\n\n*~ Filippo Abbondanza, Bioinformatic Solution Architect, Lifebit*\n\nHere’s your chance to lead, to design, to own. To create.\n\nGet in touch today\n\n**Please note - Keeping safe and healthy in workplace is important at any time, but even more so in times like these. Therefore due to Covid-19 all staff members are now working remotely until further notice. Our hiring process is no exception - to protect you, our hiring team and others around, we will be arranging remote interviews with the successful candidates**\n\n",
+      "descriptionHtml": "<p>At Lifebit, we carve our own path. So can you.</p>\n\n<p>We&#39;re open source pioneers, innovators changing the world. Our driving mission: to revolutionise bioinformatics and biomedical data analysis forever.</p>\n\n<p>Our product, Lifebit CloudOS, is the world’s first federated genomics platform for unified, secure research over distributed big data. No one on the planet has anything close. Think best-in-class UI/UX, seamless integration with open-source tools, powerful cohort browser, advanced AI. We’re leading the industry and leaving competitors in the dust. We intend to keep it that way.</p>\n\n<p>Because while we know our technology is unmatched, we also know we can keep making it greater. That’s why we need more superstars like you - to help take us to incredible new heights. (Plus, we’ve got some really big plans afoot...)</p>\n\n<p>If you share our commitment to open source, bioinformatics, big big data, Machine Learning, and AI we want to hear from you <strong>today.</strong></p>\n\n<p><strong>As a Bioinformatician in our team, you will:</strong></p>\n\n<ul>\n<li>Build required pipelines for batch analysis</li>\n<li>Build and understand bioinformatics pipelines and monitoring</li>\n<li>Provide upgrades, patches and maintenance of pipelines </li>\n<li>Provide professional bioinformatics customer support assistance</li>\n<li>Provide best practices support on building customer bioinformatics solutions</li>\n<li>Engage with Lifebit clients and keep them excited about our products and services</li>\n<li>Gather insights and experiences from every project and client to feed it to the rest of the team</li>\n<li>Help and train team members and collaborators working with Lifebit products and services</li>\n<li>Keep up to date with best practices and latest developments in bioinformatics data analysis areas</li>\n</ul>\n\n<p><strong>Requirements</strong></p>\n\n<p>We are looking for pioneering Bioinformaticians to join our team today. Please view these role requirements as just an indication of what we’re looking for - sometimes the perfect candidate is far more or less experienced than we anticipated. If you think that might be your case, please reach out and let us know!</p>\n\n<p>You have demonstrable knowledge and experience in bioinformatics, specifically you have experience in:</p>\n\n<ul>\n<li>Running pipelines over Nextflow, CWL or WDL</li>\n<li>Using workflow containers, including Docker and Singularity</li>\n<li>Running workflow over HPC</li>\n<li>Cloud systems (regardless of platform)</li>\n<li>Data analysis on Python, Pandas or R</li>\n<li>Creating interactive applications either through Python, R Shiny or similar frameworks</li>\n</ul>\n\n<p>Additionally, we are looking for candidates who:</p>\n\n<ul>\n<li>Have strong communication skills, both oral and written, with attention to detail</li>\n<li>Can develop strong relationships with a range of stakeholders</li>\n<li>Are able to organise and structure biomedical information, and be outcome oriented</li>\n<li>Have experience with population genetics, genome-wide association studies</li>\n</ul>\n\n<p><strong>Benefits</strong></p>\n\n<p>What we offer in return:</p>\n\n<ul>\n<li>Competitive salary and generous stock options</li>\n<li>25 days of annual leave plus the usual public holidays</li>\n<li>Monthly team activities</li>\n<li>Conferences, events and training resources (Data science, AI, cloud, any tech stack, painting, origami, you pick!) - we offer £1,000 a year to each person for personal development)</li>\n<li>International and diverse team</li>\n<li>Exposure to problems and applications in the cloud, data analysis, ML, life sciences and big data fields</li>\n</ul>\n<h3>About</h3>\n<p>Lifebit is on the cutting edge of the biotechnology revolution. In April 2020 we closed our <a href=\"https://tech.eu/brief/lifebit-series-a/\" target=\"_blank\" rel=\"nofollow\">Series A</a> funding round with tremendous support from new and existing investors. Based in London, UK, Lifebit is a diverse team spanning Europe and North America, with each person empowered and involved in every aspect of the business.</p>\n\n<p>“Best open source tech stack you’ll find! We’re collaborating every day with the most pioneering organisations on the planet, the smartest people who are leading and redefining bioinformatics. I could not imagine being anywhere else.”<br><br>\n<em>~Dr. Claire-Alix Zapata, Head of Scientific Content, Lifebit</em></p>\n\n<p>“Our leadership team lives and breathes our mission. Nowhere else can you be part of the decision making process on DAY ONE. Extreme ownership!”</p>\n\n<p><em>~ Filippo Abbondanza, Bioinformatic Solution Architect, Lifebit</em></p>\n\n<p>Here’s your chance to lead, to design, to own. To create.</p>\n\n<p>Get in touch today</p>\n\n<p><strong>Please note - Keeping safe and healthy in workplace is important at any time, but even more so in times like these. Therefore due to Covid-19 all staff members are now working remotely until further notice. Our hiring process is no exception - to protect you, our hiring team and others around, we will be arranging remote interviews with the successful candidates</strong></p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£30k – £45k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/adam-popeck-2",
+        "name": "Adam Popeck",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "822698",
+        "angelListUrl": "https://angel.co/company/lifebit-ai/jobs/822698-"
+      }
+    }
+  ]
+}

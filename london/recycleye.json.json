@@ -1,0 +1,78 @@
+{
+  "name": "Recycleye",
+  "avatar": "https://photos.angel.co/startups/i/7532324-f372b033b4c179e04a5a073a06e64029-medium_jpg.jpg?buster=1583181089",
+  "slogan": "AI-powered waste sorting & analytics",
+  "description": "Recycleye is the multi-award winning pioneer in computer vision applied to the recycling industry and is part of Microsoft AI for Good. We detect material level data from images of waste, provide metrics on purity levels, and build novel robotic sorting solutions.\n\nWe deploy deep learning models to the edge, optimise performance, and create feedback loops. Every additional % improvement in performance we obtain saves thousands of tons of waste from going to landfill! Join our team if you want to accelerate the world’s transition towards a circular economy.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://recycleye.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/recycleye"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/28441915/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Computer Vision",
+    "Robotics",
+    "Cloud Computing",
+    "Internet of Things"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/victor-dewulf",
+      "name": "Victor Dewulf",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/peter-hedley-2",
+      "name": "Peter Hedley",
+      "avatar": "https://photos.angel.co/users/10825842-medium_jpg?1583181640",
+      "bioHtml": "CTO <a href=\"https://angel.co/company/recycleye\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Recycleye</span></a> - Background in computer vision and data science. Enjoy hacking."
+    },
+    {
+      "title": "Data Analyst",
+      "role": "Employee",
+      "url": "https://angel.co/u/oliver-osborne-1",
+      "name": "Oliver Osborne",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7532324",
+    "angelListUrl": "https://angel.co/company/recycleye"
+  },
+  "jobs": []
+}

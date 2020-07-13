@@ -1,0 +1,96 @@
+{
+  "name": "Sagacity Solutions",
+  "avatar": "https://photos.angel.co/startups/i/7418931-690b4eb3736be4b85c082e0a16e7d9ec-medium_jpg.jpg?buster=1579099837",
+  "slogan": "Offering data solutions for companies",
+  "description": "We offer a number of various products and services\n- Data Analysis\n- Value Based Management\n- Data Cleansing\n- Project Management",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://sagacitysolutions.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Business Services",
+    "Big Data",
+    "Consulting",
+    "Project Management",
+    "Big Data Analytics"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/salim-khalifa",
+      "name": "Salim Khalifa",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7418931",
+    "angelListUrl": "https://angel.co/company/sagacity-solutions-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Junior Information Security Analyst",
+      "description": "You will have the main responsibility of assisting the Information Security Manager with the\nmanagement of the ISMS and IT. You will have strong organisation and planning skills. Ideally,\nalthough not essential, your administrative skills will have been developed in a similar position. You\nwill have strong MS Office skills and will be very comfortable using MS Word, Excel, Outlook and\nPowerPoint. Candidates should be able to adapt to working in a small team, where priorities can\nchange rapidly as Sagacity develops new processes and procedures to bring greater structure and\noperational rigor.\nYou must have excellent communication skills, both written and oral, and be very comfortable\ninteracting with all people at all levels across the Sagacity team and with our Client contacts.",
+      "descriptionHtml": "<p>You will have the main responsibility of assisting the Information Security Manager with the<br>\nmanagement of the ISMS and IT. You will have strong organisation and planning skills. Ideally,<br>\nalthough not essential, your administrative skills will have been developed in a similar position. You<br>\nwill have strong MS Office skills and will be very comfortable using MS Word, Excel, Outlook and<br>\nPowerPoint. Candidates should be able to adapt to working in a small team, where priorities can<br>\nchange rapidly as Sagacity develops new processes and procedures to bring greater structure and<br>\noperational rigor.<br>\nYou must have excellent communication skills, both written and oral, and be very comfortable<br>\ninteracting with all people at all levels across the Sagacity team and with our Client contacts.</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Information Security",
+        "Cyber Security"
+      ],
+      "payment": {
+        "salary": "£18k – £23k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/salim-khalifa",
+        "name": "Salim Khalifa",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "697625",
+        "angelListUrl": "https://angel.co/company/sagacity-solutions-1/jobs/697625-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "name": "MotaWord",
+  "avatar": "https://photos.angel.co/startups/i/590087-a3ec4fdf05f0e13c66bcac57de9a620a-medium_jpg.jpg?buster=1519652413",
+  "slogan": "The world's fastest business translation platform",
+  "description": "MotaWord is the world’s fastest human translation platform. Our system enables vetted, highly-qualified translators to collaborate on the cloud simultaneously and translate documents in record short times, in 90+ languages. \n\nClients upload documents in any format to MotaWord's award winning website and get the translation back in their email within minutes, without going through the excruciating and highly unreliable effort to find a suitable translator. Clients can track large projects real-time, online, 24/7.\n\nMotaWord is bringing together the world's translators, opening up possibilities by providing work to anyone with the right skills and an internet connection, and building an innovative community based on collaborative translation.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.motaword.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.motaword.com/blog"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/motaword"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/motaword/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/motaword"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "New York City",
+    "Paris",
+    "London",
+    "Istanbul",
+    "Izmir"
+  ],
+  "marketTags": [
+    "Translation",
+    "Digital Media",
+    "Business Services"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/oytun-tez",
+      "name": "Oytun Tez",
+      "avatar": "https://photos.angel.co/users/583729-medium_jpg?1519661865",
+      "bioHtml": "Co-founder, CTO <a href=\"https://angel.co/company/motaword\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">MotaWord</span></a>"
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/evren-ay",
+      "name": "Evren M. Ay",
+      "avatar": "https://photos.angel.co/users/980646-medium_jpg?1422284884",
+      "bioHtml": "Evren is a tinkerer, collaborator, polyglot, technology-enthusiast, father and gentleman farmer. After 9 years in translation industry he launched MotaWord."
+    },
+    {
+      "title": "Software Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/kaandemirel",
+      "name": "Kaan Demirel",
+      "avatar": "https://photos.angel.co/users/4047401-medium_jpg?1475598273",
+      "bioHtml": ""
+    },
+    {
+      "title": "Content Writer",
+      "role": "Employee",
+      "url": "https://angel.co/u/kali-june-faulwetter",
+      "name": "Kali June Faulwetter",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Creative Director",
+      "role": "Employee",
+      "url": "https://angel.co/u/efe-karasahin",
+      "name": "Efe Karasahin",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "590087",
+    "angelListUrl": "https://angel.co/company/motaword"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Software Engineer - Primarily Mobile",
+      "description": "Here at MotaWord, we work hard to build the world’s fastest, lowest-cost, cloud-based and collaborative business translation platform. We provide translation service in 90 languages, 55 countries and through the work of over 17 thousand translators.\n\nWe generate data on the client side and on the vendor side, we learn through process experimentation and work on building algorithms that can replace human project managers on translation projects.\n\nWe allow our clients to order translation service through our award winning website, mobile apps, our solid API, multiple plug-ins and extensions and we want to grow that. As we want to speed up and provide our solutions to the translation ecosystem in an even faster and better way, we are looking for talented software developers.\n\nWe want you to join our team where we enjoy the freedom to innovate with a variety of technologies in a truly international entourage.\n\nYou will utilize your programming and software design skills to design and maintain the most intuitive mobile applications for our customers and translators. If you are a resourceful team player who does not shy away from taking responsibility in all stages of development for a new venture, we want to meet you.\n\nOur HQ is located in New York City, but we are wizards of remote-working also. We document everything and hold impromptu Google Hangouts meetings any time of the day to bring our teams closer to target.\n\n# Technologies\n- TypeScript\n- Latest versions of react, react-redux, react-native\n- Private packages on npmjs\n- OpenAPI SDKs\n- Websockets for real-time collaboration\n\nWe are a highly interactive group, so you will feel free to contribute in any stage and aspect of the development. We have two core values that we expect from our colleagues: research and learn from each other. We truly enjoy helping each other out, as long as you do your homework.\n\n# Responsibilities\n- Develop new features for all aspects of our mobile app, from real-time collaborative translation experience to smart and intuitive workflows for our customers\n- Maintain the current code base and refactor it as we go along\n- Ensure cross-platform compatibility, usability and responsiveness of the design both for iOS and Android operating systems for phones and tablets\n- Allocate a few hours a day to work in New York timezone\n- Come up with enhancements and brand new ideas (you will otherwise get bored, no?)\n\nOur startup environment requires an imaginative thinker with the ability to work independently and the ability to collaborate effectively with other team members. Yes, we are looking for jacks of all trades.\n\n# Candidate Requirements\n- Possess a friendly and can-do attitude – as a small, remote team, we want to work with people who are very communicative and constructive\n- You are passionate about software development (Follow blogs? Answer questions on SO? Have a Twitter account following tech industry leaders? Good!)\n- Excellent command of TypeScript/JavaScript ES 6, React, React Native, iOS and Android development and build flows (we at times may need platform native programming on top of React Native)\n- Not a stranger to real-time and collaborative software; and Swagger/OpenAPI\n- You are willing to work on conceptualizing and designing software, starting from an abstract idea, and orchestrating all elements in the platform to come up with the best solution\n- You have ideas and/or are opinionated about code organization, scalability and sustainability\n- Proficiency in English sufficient to be able to communicate with our team\n- A desire to constantly develop new skills, ready to roll up sleeves to dive in our API (“Education is the kindling of a flame, not the filling of a vessel.” ― Plutarch)\n\nIf you are interested in working with us, just send an email introducing yourself to info@motaword.com",
+      "descriptionHtml": "<p>Here at MotaWord, we work hard to build the world’s fastest, lowest-cost, cloud-based and collaborative business translation platform. We provide translation service in 90 languages, 55 countries and through the work of over 17 thousand translators.</p>\n\n<p>We generate data on the client side and on the vendor side, we learn through process experimentation and work on building algorithms that can replace human project managers on translation projects.</p>\n\n<p>We allow our clients to order translation service through our award winning website, mobile apps, our solid API, multiple plug-ins and extensions and we want to grow that. As we want to speed up and provide our solutions to the translation ecosystem in an even faster and better way, we are looking for talented software developers.</p>\n\n<p>We want you to join our team where we enjoy the freedom to innovate with a variety of technologies in a truly international entourage.</p>\n\n<p>You will utilize your programming and software design skills to design and maintain the most intuitive mobile applications for our customers and translators. If you are a resourceful team player who does not shy away from taking responsibility in all stages of development for a new venture, we want to meet you.</p>\n\n<p>Our HQ is located in New York City, but we are wizards of remote-working also. We document everything and hold impromptu Google Hangouts meetings any time of the day to bring our teams closer to target.</p>\n<h3>Technologies</h3>\n<ul>\n<li>TypeScript</li>\n<li>Latest versions of react, react-redux, react-native</li>\n<li>Private packages on npmjs</li>\n<li>OpenAPI SDKs</li>\n<li>Websockets for real-time collaboration</li>\n</ul>\n\n<p>We are a highly interactive group, so you will feel free to contribute in any stage and aspect of the development. We have two core values that we expect from our colleagues: research and learn from each other. We truly enjoy helping each other out, as long as you do your homework.</p>\n<h3>Responsibilities</h3>\n<ul>\n<li>Develop new features for all aspects of our mobile app, from real-time collaborative translation experience to smart and intuitive workflows for our customers</li>\n<li>Maintain the current code base and refactor it as we go along</li>\n<li>Ensure cross-platform compatibility, usability and responsiveness of the design both for iOS and Android operating systems for phones and tablets</li>\n<li>Allocate a few hours a day to work in New York timezone</li>\n<li>Come up with enhancements and brand new ideas (you will otherwise get bored, no?)</li>\n</ul>\n\n<p>Our startup environment requires an imaginative thinker with the ability to work independently and the ability to collaborate effectively with other team members. Yes, we are looking for jacks of all trades.</p>\n<h3>Candidate Requirements</h3>\n<ul>\n<li>Possess a friendly and can-do attitude – as a small, remote team, we want to work with people who are very communicative and constructive</li>\n<li>You are passionate about software development (Follow blogs? Answer questions on SO? Have a Twitter account following tech industry leaders? Good!)</li>\n<li>Excellent command of TypeScript/JavaScript ES 6, React, React Native, iOS and Android development and build flows (we at times may need platform native programming on top of React Native)</li>\n<li>Not a stranger to real-time and collaborative software; and Swagger/OpenAPI</li>\n<li>You are willing to work on conceptualizing and designing software, starting from an abstract idea, and orchestrating all elements in the platform to come up with the best solution</li>\n<li>You have ideas and/or are opinionated about code organization, scalability and sustainability</li>\n<li>Proficiency in English sufficient to be able to communicate with our team</li>\n<li>A desire to constantly develop new skills, ready to roll up sleeves to dive in our API (“Education is the kindling of a flame, not the filling of a vessel.” ― Plutarch)</li>\n</ul>\n\n<p>If you are interested in working with us, just send an email introducing yourself to <a href=\"mailto:info@motaword.com\" target=\"_blank\" rel=\"nofollow\">info@motaword.com</a></p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "New York City",
+        "Turkey",
+        "Paris"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe",
+        "Turkey"
+      ],
+      "skills": [
+        "Mobile Development",
+        "iOS Development",
+        "React.js",
+        "Android Application Development",
+        "React Native"
+      ],
+      "payment": {
+        "salary": "$18k – $24k"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Founder",
+        "url": "https://angel.co/u/oytun-tez",
+        "name": "Oytun Tez",
+        "avatar": "https://photos.angel.co/users/583729-medium_jpg?1519661865"
+      },
+      "refs": {
+        "angelListId": "624207",
+        "angelListUrl": "https://angel.co/company/motaword/jobs/624207-"
+      }
+    }
+  ]
+}

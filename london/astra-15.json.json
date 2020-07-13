@@ -1,0 +1,94 @@
+{
+  "name": "Astra",
+  "avatar": "https://photos.angel.co/startups/i/7042734-e08b57234516a3c5dca8e7e4d6148510-medium_jpg.jpg?buster=1562237008",
+  "slogan": "Help do something good with the internet....",
+  "description": "We are developing a website that will be a first in its kind, an easy to use and fully functional lost and found service. Ambitions are big, we want this to be a global platform, and we need a website that can scale for that. This should be the first port of call for anyone who has lost something.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.website.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Website"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/charlie-vb",
+      "name": "Charlie VB",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7042734",
+    "angelListUrl": "https://angel.co/company/astra-15"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Head of Development",
+      "description": "Your role will be to develop the website, including all activities necessary to achieve the desired functionality. \n\nYou will lead on all coding exercises, as well as contributing significantly on the overall design of the platform. \n\nYour input will be greatly appreciated on marketing activities including SEO and social media marketing strategy.",
+      "descriptionHtml": "<p>Your role will be to develop the website, including all activities necessary to achieve the desired functionality. </p>\n\n<p>You will lead on all coding exercises, as well as contributing significantly on the overall design of the platform. </p>\n\n<p>Your input will be greatly appreciated on marketing activities including SEO and social media marketing strategy.</p>\n",
+      "position": "internship",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "Greater London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Software Engineering",
+        "Web Design",
+        "Coding",
+        "Web Development"
+      ],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/charlie-vb",
+        "name": "Charlie VB",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "584296",
+        "angelListUrl": "https://angel.co/company/astra-15/jobs/584296-"
+      }
+    }
+  ]
+}

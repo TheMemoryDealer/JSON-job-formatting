@@ -1,0 +1,141 @@
+{
+  "name": "Financial Times",
+  "avatar": "https://photos.angel.co/startups/i/7393212-b74b4a3a3126e1856ca620da54007543-medium_jpg.jpg?buster=1578052920",
+  "slogan": "One of the world’s leading business news organisations",
+  "description": "In FT Tech we develop products like FT.com, our award-winning website and one of the fastest news sites in the world. We are firm supporters of open source and develop more and more of our projects in the open every day. Some of our most widely used OSS are Polyfill.io and Origami. \nWe are hundreds of developers, but our teams are small, self-governing and multi-disciplined, empowered to choose our own tech stack and to continuously deploy our software, sometimes hundreds of times a day.\n\nOur projects are widely varied in scale and scope -- you could chose to work on anything from an internal bot with a couple of hundred users to a system with 4.2 billion requests per month -- using microservices, machine learning, augmented reality, and more.\n\nOur ideal candidate will bring a unique point of view to the work that we do. We don't hire for team fit, we hire for team betterment; diverse perspectives help us build a great product, and even better teams.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.ft.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "Hong Kong",
+    "New York City",
+    "Singapore",
+    "London",
+    "Sofia",
+    "Manila"
+  ],
+  "marketTags": [
+    "Digital Media",
+    "News",
+    "Journalism"
+  ],
+  "employees": "SIZE_1001_5000",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/talent-team-7",
+      "name": "Talent Team",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7393212",
+    "angelListUrl": "https://angel.co/company/financial-times-2"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Software Engineer - FT.com",
+      "description": "About the team\n\nThe FT.com team works on our award winning website, iOS and Android apps.\n\nWe are a multi-disciplinary, co-located team. We value transparency, accountability, shared responsibility and teamwork. We’re focused on our users and the FT’s mission to provide engaging world-class journalism.\n\nMost Engineers work across the entire stack, although many have expertise with particular technologies and domains, for example client-side, performance, accessibility, building APIs, security and integration. We deploy to production many times a day and have full ownership of releases, the tools we use and site reliability.\n\nWhat you’ll work on\n\n● develop new features for FT.com and our applications using modern web technologies\n\n● Collaborate with Product Owners and UX Designers, contributing ideas to help achieve our company-wide goals\n\n● Maintain our high standards for web performance, security and accessibility\n\n● Help improve the way we work and the tools we use\n\nThe technology Here’s a list of things we use a lot. It’s not exhaustive, but gives you a taste of what our stack and tools look like:\n\n● Node.js; Heroku; AWS: Mainly Lambda, Kinesis, Dynamo\n\n● ElasticSearch; Neo4j; Redis; GraphQL\n\n● Handlebars; Sass; Webpack; Preact\n\n● Fastly and VCL\n\n● Github; CircleCI; Sentry\n\n● Graphite; Grafana, Splunk\n\nWe don’t expect you to have worked with all of these, it will be a bonus for us if you have worked with some of them.\n\nTo find out more you can read about how we route traffic on FT.com and have a look at the code we make public on GitHub. You can also get an insight into how we work from our FT Product & Technology Medium publication.\n\nAbout you Your core skill set and expertise is web development and you're enthusiastic about contributing to all parts of the process. Our ideal candidate will bring a unique point of view to the work that we do. We firmly believe that diverse perspectives help us create a great product and enhance the team.\n\nCharacteristics we value\n\n● Action-oriented and pragmatic\n\n● Strong problem solving skills\n\n● Attention to detail\n\n● Being collaborative\n\n● Enjoy learning\n\n● A love of the web, a passion for performance and commitment to accessibility\n\n● An understanding of design and UX principles\n\n● You don’t need to rely on a framework to get things done, and you prefer the tools that are good enough for your use case\n\nThe hiring process We understand that tech interviews are often stressful for no good reason, so we designed our interview process to be rigorous but friendly. We don’t do whiteboard coding or peer over your shoulder when you’re writing code.\n\nWe’re committed to equality and diversity in the tech industry, so we’ll be especially happy to see applications from underrepresented backgrounds. We encourage this for example by considering part time roles and flexible working hours as well as tuning the hiring process to promoting diversity.\n\nWhat it’s like to work for us FT.com has over thirty Developers working in small cross-functional teams with opportunities to rotate to other teams.\n\nWe ensure Engineers have the tools they need - people are free to choose the OS and device type that suits them, and we encourage exploration of new tools and techniques. We support informal knowledge sharing alongside more formal training opportunities.\n\nBenefits We have many great benefits. Some standout ones are:\n\n● Competitive salary and bonus scheme\n\n● 25 days of leave, increasing to 30 after two years\n\n● Pension plan, company doubling your contribution\n\n● Other schemes include: Flexidays, childcare vouchers, give as you earn, cycle to work, travel loans, healthcare, dental, life assurance, gym membership and local business discounts.",
+      "descriptionHtml": "<p>About the team</p>\n\n<p>The FT.com team works on our award winning website, iOS and Android apps.</p>\n\n<p>We are a multi-disciplinary, co-located team. We value transparency, accountability, shared responsibility and teamwork. We’re focused on our users and the FT’s mission to provide engaging world-class journalism.</p>\n\n<p>Most Engineers work across the entire stack, although many have expertise with particular technologies and domains, for example client-side, performance, accessibility, building APIs, security and integration. We deploy to production many times a day and have full ownership of releases, the tools we use and site reliability.</p>\n\n<p>What you’ll work on</p>\n\n<p>● develop new features for FT.com and our applications using modern web technologies</p>\n\n<p>● Collaborate with Product Owners and UX Designers, contributing ideas to help achieve our company-wide goals</p>\n\n<p>● Maintain our high standards for web performance, security and accessibility</p>\n\n<p>● Help improve the way we work and the tools we use</p>\n\n<p>The technology Here’s a list of things we use a lot. It’s not exhaustive, but gives you a taste of what our stack and tools look like:</p>\n\n<p>● Node.js; Heroku; AWS: Mainly Lambda, Kinesis, Dynamo</p>\n\n<p>● ElasticSearch; Neo4j; Redis; GraphQL</p>\n\n<p>● Handlebars; Sass; Webpack; Preact</p>\n\n<p>● Fastly and VCL</p>\n\n<p>● Github; CircleCI; Sentry</p>\n\n<p>● Graphite; Grafana, Splunk</p>\n\n<p>We don’t expect you to have worked with all of these, it will be a bonus for us if you have worked with some of them.</p>\n\n<p>To find out more you can read about how we route traffic on FT.com and have a look at the code we make public on GitHub. You can also get an insight into how we work from our FT Product &amp; Technology Medium publication.</p>\n\n<p>About you Your core skill set and expertise is web development and you&#39;re enthusiastic about contributing to all parts of the process. Our ideal candidate will bring a unique point of view to the work that we do. We firmly believe that diverse perspectives help us create a great product and enhance the team.</p>\n\n<p>Characteristics we value</p>\n\n<p>● Action-oriented and pragmatic</p>\n\n<p>● Strong problem solving skills</p>\n\n<p>● Attention to detail</p>\n\n<p>● Being collaborative</p>\n\n<p>● Enjoy learning</p>\n\n<p>● A love of the web, a passion for performance and commitment to accessibility</p>\n\n<p>● An understanding of design and UX principles</p>\n\n<p>● You don’t need to rely on a framework to get things done, and you prefer the tools that are good enough for your use case</p>\n\n<p>The hiring process We understand that tech interviews are often stressful for no good reason, so we designed our interview process to be rigorous but friendly. We don’t do whiteboard coding or peer over your shoulder when you’re writing code.</p>\n\n<p>We’re committed to equality and diversity in the tech industry, so we’ll be especially happy to see applications from underrepresented backgrounds. We encourage this for example by considering part time roles and flexible working hours as well as tuning the hiring process to promoting diversity.</p>\n\n<p>What it’s like to work for us FT.com has over thirty Developers working in small cross-functional teams with opportunities to rotate to other teams.</p>\n\n<p>We ensure Engineers have the tools they need - people are free to choose the OS and device type that suits them, and we encourage exploration of new tools and techniques. We support informal knowledge sharing alongside more formal training opportunities.</p>\n\n<p>Benefits We have many great benefits. Some standout ones are:</p>\n\n<p>● Competitive salary and bonus scheme</p>\n\n<p>● 25 days of leave, increasing to 30 after two years</p>\n\n<p>● Pension plan, company doubling your contribution</p>\n\n<p>● Other schemes include: Flexidays, childcare vouchers, give as you earn, cycle to work, travel loans, healthcare, dental, life assurance, gym membership and local business discounts.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Redis",
+        "Heroku",
+        "Neo4J",
+        "Ruby on Rails",
+        "AWS/EC2/ELB/S3/DynamoDB",
+        "Amazon Kinesis",
+        "ElasticSearch ",
+        "AWS",
+        "NodeJS"
+      ],
+      "payment": {
+        "salary": "£51k – £76k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/talent-team-7",
+        "name": "Talent Team",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "690358",
+        "angelListUrl": "https://angel.co/company/financial-times-2/jobs/690358-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Software Engineer - Internal Products",
+      "description": "*Your FT Tech Career*\nWe firmly believe that the success of our products and teams is strictly tied to the success of our people. In FT Tech we invest in you as an individual at every step of your career, supporting your professional growth as well as your personal development.\n\nMost engineers that move into senior tech leadership positions in FT Technology every year have started out in more junior roles. Throughout their FT careers they’ve acquired not just the technical skills required for complex new challenges, but also the professional and social skills to support the development of newer junior members.\n\nAs part of FT Tech you will have access to all of the support and tools you need to have a successful, growing career with us, as well as those you may want to leverage to support the growth of others around you.\n\nYou will also have the opportunity and our support to attend (and speak at, if you’re inclined) world-renowned tech conferences to further develop your skills every year. Furthermore, you’ll have access to fully funded professional certifications, internal and external workshops and tech talks.\n\n*Our Culture*\nWe are passionate about building technical solutions to ultimately enable the highest quality of journalism. As a team we believe trusted high quality journalism plays an important role in a post-truth, post-fact world.\n\nWe are a vibrant and diverse group of people from different backgrounds, and with different interests outside of tech. There are over 2,200 employees across our offices (London, Sofia, New York, Manila, Tokyo, Hong Kong), and we are deeply committed to furthering equality and diversity, not just in our organization, but in the wider tech industry. FT is part of the Tech Talent Charter, where we have committed to reaching gender parity within the Product & Technology department by 2022.\n\nWe make it our priority to provide the most flexible conditions for everyone, including flexible working hours, the capacity to work from home when needed, part-time flexibility for almost all our roles (from junior to director), a 35-hour work week, 10% time and more.\n\nWe have very active communities which you are welcome to participate in such as FT Women, FT Embrace (our BAME network), Proud FT, and ad-hoc social events such as regular board games and quiz nights, netball, rounders and football.\n\n*Open Roles*\nSenior engineers often lead them or projects within them:\n\nSenior 1 Engineer\nAs a Senior 1 engineer you improve the performance of those around you. This could be through official responsibilities such as line managing or tech leading, or through unofficial means such as mentoring or regular pairing. As a S1 engineer you enjoy tackling complex technical problems, and articulating your approach to your team. You thrive on being responsible for work outside of your immediate delivery team and manage that work effectively against your team’s priorities. Your require very little oversight beyond high level direction.\n\nSenior 2 Engineer\nAs a Senior 2 engineer you are known for your leadership and influence well beyond yourself. This influence could be through tech leading, line managing, mentoring, or leading projects outside of your day-to-day work. As a Senior 2 engineer, you thrive on seeing ill-defined or difficult projects through to completion. You are great at spotting issues and helping your team navigate them. You also have a deep technical understanding and willingness to help others for a particular technology or product.\n\n*The team: Internal Products*\nOur team is Internal Products, one of the five FT Technology Groups. Our mission is to enable our peers (in tech and beyond) to do their best work. We do this in a variety of ways: finding a team the right tool for the job, helping them automate the most tedious parts of their work so they can invest in the valuable tasks they truly care about, discovering new ways in which to bring value to the business, and more.\n\nWe are made up of the following feature teams in 2020:\n\nIncubate: Seed a handful of innovative projects every year that may turn into The Next Big Thing. 2020 is centered around automation.\n\nEnvoy: Envoy is a platform that customises a user’s journey on FT.com, enabling tailored experiences to drive engagement. It also weaves together the user experience across devices.\n\nDigital Newsroom: Develop a set of modern applications for our Editorial staff to author, edit and publish thousands of news articles every week\n\nEmail Platform: Our email platform serves the roughly 8 million emails that are sent every week to our customers who subscribe to our content. The team also develop internal front-end tools for our journalists and editors.\n\nAds: The Ads team maintain the platform through which our ads are booked, paid for and served both onto FT.com and to the printed paper.\n\nDevX: Our developer experience team are constantly finding ways to make the work of the rest of our engineers easier and more satisfying.\n\nCRM: Our CRM Team look after our Salesforce platform and the different applications used by our Sales and Marketing teams.\n\nCMS: Develop and maintain our publishing platform through which editorial content is sent to newspaper printers every day.\n\nPeople Tech: Builds and orchestrates systems that handle staff data at the FT, including our HR systems.\n\nMost of our dev work happens in Node, but you don't need specific experience in JS to join us. We believe programming skills are highly transferable. Are you proficient in another programming language and want to switch to node? Join us! We'll support you in the transition in any role.\n\n\nMore on what it's like to work in Internal Products and a video about working at the FT.\n\n*The hiring process*\nWe understand that tech interviews are often stressful for no good reason, so we designed our interview process to be rigorous but friendly (we won’t expect you to reverse a binary tree on a whiteboard or peer over your shoulder when you’re writing code). We’re committed to furthering equality and diversity in the tech industry, so we’ll be especially happy to see applications from underrepresented backgrounds.\n\n*Benefits*\nAll of our employees, regardless of contract status, enjoy flexible working hours, including the possibility to work from home when needed.\n\nBenefits of our permanent roles also include:\n\n- Work-life balance: Flexible hours, work from home when you need\n- 25 days holiday increases to 30 days after 2 years\n- Triple pension: For every £1 you put towards your pension the FT put £2, up to  6% of your salary (8% over 45)\n- Conference, travel and training budget. We frequently attend and often sponsor conferences like JSConfEU, LeadDev, FFConf...\n- Friendly, vibrant and sociable team of 250+\n- Shared parental leave\n- Kit of your choice - Dell, MacBook Pro or Chromebook\n- Subsidised gym membership at Nuffield Health City\n- FT matches your charitable donations up to £500 every year\n- Free premium subscription to ft.com\n- Private healthcare & subsidised dental scheme\n- Season ticket loan\n- Cycle to work scheme",
+      "descriptionHtml": "<p><em>Your FT Tech Career</em><br>\nWe firmly believe that the success of our products and teams is strictly tied to the success of our people. In FT Tech we invest in you as an individual at every step of your career, supporting your professional growth as well as your personal development.</p>\n\n<p>Most engineers that move into senior tech leadership positions in FT Technology every year have started out in more junior roles. Throughout their FT careers they’ve acquired not just the technical skills required for complex new challenges, but also the professional and social skills to support the development of newer junior members.</p>\n\n<p>As part of FT Tech you will have access to all of the support and tools you need to have a successful, growing career with us, as well as those you may want to leverage to support the growth of others around you.</p>\n\n<p>You will also have the opportunity and our support to attend (and speak at, if you’re inclined) world-renowned tech conferences to further develop your skills every year. Furthermore, you’ll have access to fully funded professional certifications, internal and external workshops and tech talks.</p>\n\n<p><em>Our Culture</em><br>\nWe are passionate about building technical solutions to ultimately enable the highest quality of journalism. As a team we believe trusted high quality journalism plays an important role in a post-truth, post-fact world.</p>\n\n<p>We are a vibrant and diverse group of people from different backgrounds, and with different interests outside of tech. There are over 2,200 employees across our offices (London, Sofia, New York, Manila, Tokyo, Hong Kong), and we are deeply committed to furthering equality and diversity, not just in our organization, but in the wider tech industry. FT is part of the Tech Talent Charter, where we have committed to reaching gender parity within the Product &amp; Technology department by 2022.</p>\n\n<p>We make it our priority to provide the most flexible conditions for everyone, including flexible working hours, the capacity to work from home when needed, part-time flexibility for almost all our roles (from junior to director), a 35-hour work week, 10% time and more.</p>\n\n<p>We have very active communities which you are welcome to participate in such as FT Women, FT Embrace (our BAME network), Proud FT, and ad-hoc social events such as regular board games and quiz nights, netball, rounders and football.</p>\n\n<p><em>Open Roles</em><br>\nSenior engineers often lead them or projects within them:</p>\n\n<p>Senior 1 Engineer<br>\nAs a Senior 1 engineer you improve the performance of those around you. This could be through official responsibilities such as line managing or tech leading, or through unofficial means such as mentoring or regular pairing. As a S1 engineer you enjoy tackling complex technical problems, and articulating your approach to your team. You thrive on being responsible for work outside of your immediate delivery team and manage that work effectively against your team’s priorities. Your require very little oversight beyond high level direction.</p>\n\n<p>Senior 2 Engineer<br>\nAs a Senior 2 engineer you are known for your leadership and influence well beyond yourself. This influence could be through tech leading, line managing, mentoring, or leading projects outside of your day-to-day work. As a Senior 2 engineer, you thrive on seeing ill-defined or difficult projects through to completion. You are great at spotting issues and helping your team navigate them. You also have a deep technical understanding and willingness to help others for a particular technology or product.</p>\n\n<p><em>The team: Internal Products</em><br>\nOur team is Internal Products, one of the five FT Technology Groups. Our mission is to enable our peers (in tech and beyond) to do their best work. We do this in a variety of ways: finding a team the right tool for the job, helping them automate the most tedious parts of their work so they can invest in the valuable tasks they truly care about, discovering new ways in which to bring value to the business, and more.</p>\n\n<p>We are made up of the following feature teams in 2020:</p>\n\n<p>Incubate: Seed a handful of innovative projects every year that may turn into The Next Big Thing. 2020 is centered around automation.</p>\n\n<p>Envoy: Envoy is a platform that customises a user’s journey on FT.com, enabling tailored experiences to drive engagement. It also weaves together the user experience across devices.</p>\n\n<p>Digital Newsroom: Develop a set of modern applications for our Editorial staff to author, edit and publish thousands of news articles every week</p>\n\n<p>Email Platform: Our email platform serves the roughly 8 million emails that are sent every week to our customers who subscribe to our content. The team also develop internal front-end tools for our journalists and editors.</p>\n\n<p>Ads: The Ads team maintain the platform through which our ads are booked, paid for and served both onto FT.com and to the printed paper.</p>\n\n<p>DevX: Our developer experience team are constantly finding ways to make the work of the rest of our engineers easier and more satisfying.</p>\n\n<p>CRM: Our CRM Team look after our Salesforce platform and the different applications used by our Sales and Marketing teams.</p>\n\n<p>CMS: Develop and maintain our publishing platform through which editorial content is sent to newspaper printers every day.</p>\n\n<p>People Tech: Builds and orchestrates systems that handle staff data at the FT, including our HR systems.</p>\n\n<p>Most of our dev work happens in Node, but you don&#39;t need specific experience in JS to join us. We believe programming skills are highly transferable. Are you proficient in another programming language and want to switch to node? Join us! We&#39;ll support you in the transition in any role.</p>\n\n<p>More on what it&#39;s like to work in Internal Products and a video about working at the FT.</p>\n\n<p><em>The hiring process</em><br>\nWe understand that tech interviews are often stressful for no good reason, so we designed our interview process to be rigorous but friendly (we won’t expect you to reverse a binary tree on a whiteboard or peer over your shoulder when you’re writing code). We’re committed to furthering equality and diversity in the tech industry, so we’ll be especially happy to see applications from underrepresented backgrounds.</p>\n\n<p><em>Benefits</em><br>\nAll of our employees, regardless of contract status, enjoy flexible working hours, including the possibility to work from home when needed.</p>\n\n<p>Benefits of our permanent roles also include:</p>\n\n<ul>\n<li>Work-life balance: Flexible hours, work from home when you need</li>\n<li>25 days holiday increases to 30 days after 2 years</li>\n<li>Triple pension: For every £1 you put towards your pension the FT put £2, up to  6% of your salary (8% over 45)</li>\n<li>Conference, travel and training budget. We frequently attend and often sponsor conferences like JSConfEU, LeadDev, FFConf...</li>\n<li>Friendly, vibrant and sociable team of 250+</li>\n<li>Shared parental leave</li>\n<li>Kit of your choice - Dell, MacBook Pro or Chromebook</li>\n<li>Subsidised gym membership at Nuffield Health City</li>\n<li>FT matches your charitable donations up to £500 every year</li>\n<li>Free premium subscription to ft.com</li>\n<li>Private healthcare &amp; subsidised dental scheme</li>\n<li>Season ticket loan</li>\n<li>Cycle to work scheme</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "Javascript",
+        "Ruby",
+        "NodeJS"
+      ],
+      "payment": {
+        "salary": "$51k – $76k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/talent-team-7",
+        "name": "Talent Team",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "690366",
+        "angelListUrl": "https://angel.co/company/financial-times-2/jobs/690366-"
+      }
+    }
+  ]
+}

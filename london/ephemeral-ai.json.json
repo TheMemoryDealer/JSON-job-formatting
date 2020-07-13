@@ -1,0 +1,92 @@
+{
+  "name": "Ephemeral.ai",
+  "avatar": "https://photos.angel.co/startups/i/6376187-2036967596acf4b11b39b13b236d79ad-medium_jpg.jpg?buster=1538408176",
+  "slogan": "",
+  "description": "Millions follow social media content creators: bloggers and vloggers they love and trust. Product recommendations from credible content creators influence purchasing decisions, so it's important that brands engage and be a part of these conversations. Influencer marketing is the practice of marketing via social influencers:\n\n1. Influencers are incentivised to provide authentic product reviews and promote brands they actually like in order to establish credibility with their consumer audience.\n2. Consumers can make better informed buying decisions following influencers whose opinions they trust vs. paid advertisements.\n3. Brands that address customer needs with great products can grow quickly via authentic word of mouth.\n\nTo help drive this positive change, we provide tools that enable brands to more easily work with influencers. Our mission is to make ephemeral social media content easily collected, accessible, and useful for brands and agencies. \n\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.ephemeral.ai"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "San Francisco"
+  ],
+  "marketTags": [],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Founder",
+      "role": "Employee",
+      "url": "https://angel.co/u/ryanlee",
+      "name": "Ryan Lee",
+      "avatar": "https://photos.angel.co/users/1065559-medium_jpg?1480475855",
+      "bioHtml": "Founder, Ephemeral.ai // Previous: Chief Data Scientist <a href=\"https://angel.co/company/tribe-dynamics\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Tribe Dynamics</span></a>, Grad Computational Science <a href=\"https://angel.co/company/harvard\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Harvard</span></a> University, APMM Intern <a href=\"https://angel.co/company/google\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Google</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6376187",
+    "angelListUrl": "https://angel.co/company/ephemeral-ai"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "Co-Founder, Growth",
+      "description": "Join the business as a non-technical co-founder. Bring our technology to new customers and help grow the business from the ground up.",
+      "descriptionHtml": "<p>Join the business as a non-technical co-founder. Bring our technology to new customers and help grow the business from the ground up.</p>\n",
+      "position": "cofounder",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "San Francisco",
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Sales and Marketing"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "35.0% – 50.0%"
+      },
+      "recruiter": {
+        "title": "Founder",
+        "role": "Employee",
+        "url": "https://angel.co/u/ryanlee",
+        "name": "Ryan Lee",
+        "avatar": "https://photos.angel.co/users/1065559-medium_jpg?1480475855"
+      },
+      "refs": {
+        "angelListId": "435532",
+        "angelListUrl": "https://angel.co/company/ephemeral-ai/jobs/435532-"
+      }
+    }
+  ]
+}

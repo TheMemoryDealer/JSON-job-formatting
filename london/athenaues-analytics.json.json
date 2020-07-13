@@ -1,0 +1,97 @@
+{
+  "name": "Athenaues Analytics",
+  "avatar": "https://photos.angel.co/startups/i/7010141-8026d24a1908a6df9d2df793dcde0dc1-medium_jpg.jpg?buster=1560769480",
+  "slogan": "Helping Law firms become efficient",
+  "description": "The customer is anyone who wants a patent, for their invention.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.linkedin.com/company/14838735/admin/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Teaching STEM Concepts",
+    "Legal Tech"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/shrey-pathak",
+      "name": "Shrey Pathak",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7010141",
+    "angelListUrl": "https://angel.co/company/athenaues-analytics"
+  },
+  "jobs": [
+    {
+      "role": "Designer",
+      "title": "Computer Engineer + Data Scientist",
+      "description": "Both co-founder have technical backgrounds and have worked at high profile law firms, both in the US and the UK. We are growing rapidly and are looking to hire an experienced computer engineer + data scientist to join our team.\n\nThis is a unique opportunity as you will not only be able to contribute/build the system, but also file (and hopefully obtain) a patent (both co-founders have extensive experience in patent drafting, filing, and prosecution).",
+      "descriptionHtml": "<p>Both co-founder have technical backgrounds and have worked at high profile law firms, both in the US and the UK. We are growing rapidly and are looking to hire an experienced computer engineer + data scientist to join our team.</p>\n\n<p>This is a unique opportunity as you will not only be able to contribute/build the system, but also file (and hopefully obtain) a patent (both co-founders have extensive experience in patent drafting, filing, and prosecution).</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Computer Vision",
+        "UI/UX Design",
+        "Data Analyst",
+        "Machine Learning, Python, Deep Learning, AI, Angularjs, NLP.",
+        "Image Recognition, Transfer Learning, Neural Style Transfer, CNN"
+      ],
+      "payment": {
+        "salary": "£1k – £50k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/shrey-pathak",
+        "name": "Shrey Pathak",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "574230",
+        "angelListUrl": "https://angel.co/company/athenaues-analytics/jobs/574230-"
+      }
+    }
+  ]
+}

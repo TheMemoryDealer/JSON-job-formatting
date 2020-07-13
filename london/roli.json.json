@@ -1,0 +1,167 @@
+{
+  "name": "ROLI",
+  "avatar": "https://photos.angel.co/startups/i/277654-9696d414f49d2277c985387f8b6b7619-medium_jpg.jpg?buster=1589469877",
+  "slogan": "We are a multidisciplinary team of makers who are creating the musical instruments of the future",
+  "description": "ROLI is a London-based music technology company with a mission to extend the joy of music creation to everyone. ROLI BLOCKS and NOISE are a new, modular music creation system that lets anyone shape music through easy-to-learn gestures on powerful devices that connect together. The award-winning Seaboard RISE and Seaboard GRAND instruments — adopted by world-renowned artists like Stevie Wonder and Meghan Trainor — are an evolution of the piano keyboard that open new dimensions of expression. Professionals and people who have never played an instrument are making music in new ways through ROLI’s ever-growing ecosystem of Connected Music products.  \n\nROLI has raised over $50 million from leading investors including Foundry Group, Balderton Capital, and Founders Fund as well as Universal Music Group. “The most important company in music technology right now” (Music Tech magazine).",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://roli.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://roli.com/stories"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/weareroli"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "New York City"
+  ],
+  "marketTags": [
+    "Music",
+    "Hardware + Software",
+    "Hardware",
+    "Content Creators",
+    "Musical Instruments",
+    "Software"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 43500000,
+    "rounds": [
+      {
+        "type": "Series B",
+        "closedAt": 1462320000,
+        "valuation": 0
+      },
+      {
+        "type": "Series A",
+        "closedAt": 1412812800,
+        "valuation": 0
+      },
+      {
+        "type": "Series A",
+        "closedAt": 1400630400,
+        "valuation": null
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/roland-lamb",
+      "name": "Roland Lamb",
+      "avatar": "https://photos.angel.co/users/613497-medium_jpg?1405691958",
+      "bioHtml": "Designer, Entrepreneur, Musician. Inventor of the Seaboard. Founder <a href=\"https://angel.co/company/roli\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">ROLI</span></a>"
+    },
+    {
+      "title": "Talent Team ",
+      "role": "Employee",
+      "url": "https://angel.co/u/mimi-smith-2",
+      "name": "Mimi Smith",
+      "avatar": "https://photos.angel.co/users/8625051-medium_jpg?1542882125",
+      "bioHtml": "1/2 of the ROLI Talent Team. We&#39;re growing our incredibly talented team!"
+    },
+    {
+      "title": "Head of Talent",
+      "role": "Employee",
+      "url": "https://angel.co/u/sarah-kosar",
+      "name": "Sarah Kosar",
+      "avatar": "https://graph.facebook.com/10112466409781754/picture?type=large",
+      "bioHtml": "Head of Talent at <a href=\"https://angel.co/company/roli\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">ROLI</span></a> and previously worked at <a href=\"https://angel.co/company/visualdna\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">VisualDNA</span></a> • Studied at <a href=\"https://angel.co/pennsylvania-state-university\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Pennsylvania State University</span></a>, <a href=\"https://angel.co/royal-central-school-of-speech-and-drama\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Royal Central School Of Speech And Drama</span></a>"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/lukasz-kozakiewicz",
+      "name": "Lukasz Kozakiewicz",
+      "avatar": "https://photos.angel.co/users/4942327-medium_jpg?1490135872",
+      "bioHtml": "Experienced software developer with passion for music.Worked on cross-platform projects (macOS,iOS,Android,Windows) in C,C++(11/14),Obj-C,Java. An avid learner."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "277654",
+    "angelListUrl": "https://angel.co/company/roli"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Backend Developer",
+      "description": "“Working on the web team at ROLI is a chance to work with some of the best people in the industry. It also offers the opportunity to work in an exciting cross-disciplinary environment where we push the boundaries of what can be done with music and technology across multiple platforms.”\n\n- Angus Keith, Senior Product Owner \n\nROLI is looking for a Senior Backend Developer to lead the development of ROLI’s websites and APIs.\n\nAs Senior Backend Developer at ROLI, you will be part of the Web Team and dedicated to maintaining and constantly improving our online experiences. \n\nWorking primarily with JavaScript, in close collaboration with other engineers and designers, you will be developing the highest quality products for our online ecosystem. As a team we communicate a lot, support each other, fight fires and value each other’s opinions.\n\nWorking in a company with bold ambitions, and the calibre of talent required to deliver them, offers a unique opportunity to define and build the future platforms needed to elevate ROLI onto the global stage. \n\nThis is a unique opportunity to be a part of a disruptive category of music making devices we are creating called ‘Connected Music’ - a network of hardware and software, platform and developer products that will revolutionise how music is made.\n\nWhat you’ll do:\n\n-Lead the backend development for ROLI on our Node.js / React stack\n-Work closely with developers and designers to ensure and improve coherence, consistency and general excellence across our codebase and websites\n-Be actively involved in developing the back-end infrastructure and integrations that keep our websites running\n-Work with stakeholders across ROLI to create and deploy new platform features\n-Be a mentor to others through code reviews, encouragement and pair programming\n\nWhat you’ll need:\n\n-Advanced Node.js, API and database architecture\n-A high bar for code quality and automated tests and continuous delivery\n-Competent with SQL and NoSQL databases\n-An ability to work autonomously and independently\n-Excellent communication skills\n-Superb and demonstrable time-management skills and the ability to work independently\n-Excellent interpersonal skills and the ability to work effectively with employees at all levels\n\nBonus points:\n\n-Experience with MongoDB\n-Familiarity with authentication systems (JWT, OAuth)\n\nROLI offers:\n\n-The opportunity to work with the leading minds within technology, hardware, and music creation to directly impact the way we create and interact with music\n-A range of meaningful benefits including:\n-Following probation, a competitive health care cash plan\n-A company pension scheme\n-23 days holiday with 2 additional social impact days and the standard 8 statutory holiday days\n-20 hours per year dedicated to volunteering within the local community\n-‘Lending Library’ of all ROLI products\n-Team member discounts on ROLI products\n-Wellness programme including fortnightly massages, weekly guided meditation and yoga\n-Apple laptop and relevant software licenses for your role and beyond\n-Generous Parental Leave policy\n-Frequent friends and family events\n-A great working environment, featuring daily complimentary homemade vegetarian lunches as well as fresh baked bread, limitless home­made GOLDnola\n-A dedicated company-wide Hack Day every four weeks to expand your skill­s\n-The opportunity to create your own “4pm” class to skillshare both your technical and creative skill sets with other ROLI team members\n-A generous bike-to-work scheme plus in-house bike storage  \n-A competitive salary according to your level of experience\n\nTo learn more about us and our culture, check out:\n\nLumi: Our illuminated keyboard and interactive app \nProfile on ROLI Culture in FT Sifted\nLife at ROLI\nSee the Seaboard in action\nSongmaker kit with Marco Parisi\nBLOCKS the modular music studio\nBalderton Podcast - ROLI's company culture & building a unique team\nPharrell joins the team!\n@ROLICareers\n@vegetarianatwork on Instagram\n\nROLI wholeheartedly believes that difference stimulates a healthy and productive environment, as well as positively impact the products we create. We actively encourage diversity of background and perspective, and as an Equal Opportunities Employer, we oppose all forms of unlawful or unfair discrimination in all of our employment related processes and matters.",
+      "descriptionHtml": "<p>“Working on the web team at ROLI is a chance to work with some of the best people in the industry. It also offers the opportunity to work in an exciting cross-disciplinary environment where we push the boundaries of what can be done with music and technology across multiple platforms.”</p>\n\n<ul>\n<li>Angus Keith, Senior Product Owner </li>\n</ul>\n\n<p>ROLI is looking for a Senior Backend Developer to lead the development of ROLI’s websites and APIs.</p>\n\n<p>As Senior Backend Developer at ROLI, you will be part of the Web Team and dedicated to maintaining and constantly improving our online experiences. </p>\n\n<p>Working primarily with JavaScript, in close collaboration with other engineers and designers, you will be developing the highest quality products for our online ecosystem. As a team we communicate a lot, support each other, fight fires and value each other’s opinions.</p>\n\n<p>Working in a company with bold ambitions, and the calibre of talent required to deliver them, offers a unique opportunity to define and build the future platforms needed to elevate ROLI onto the global stage. </p>\n\n<p>This is a unique opportunity to be a part of a disruptive category of music making devices we are creating called ‘Connected Music’ - a network of hardware and software, platform and developer products that will revolutionise how music is made.</p>\n\n<p>What you’ll do:</p>\n\n<p>-Lead the backend development for ROLI on our Node.js / React stack<br>\n-Work closely with developers and designers to ensure and improve coherence, consistency and general excellence across our codebase and websites<br>\n-Be actively involved in developing the back-end infrastructure and integrations that keep our websites running<br>\n-Work with stakeholders across ROLI to create and deploy new platform features<br>\n-Be a mentor to others through code reviews, encouragement and pair programming</p>\n\n<p>What you’ll need:</p>\n\n<p>-Advanced Node.js, API and database architecture<br>\n-A high bar for code quality and automated tests and continuous delivery<br>\n-Competent with SQL and NoSQL databases<br>\n-An ability to work autonomously and independently<br>\n-Excellent communication skills<br>\n-Superb and demonstrable time-management skills and the ability to work independently<br>\n-Excellent interpersonal skills and the ability to work effectively with employees at all levels</p>\n\n<p>Bonus points:</p>\n\n<p>-Experience with MongoDB<br>\n-Familiarity with authentication systems (JWT, OAuth)</p>\n\n<p>ROLI offers:</p>\n\n<p>-The opportunity to work with the leading minds within technology, hardware, and music creation to directly impact the way we create and interact with music<br>\n-A range of meaningful benefits including:<br>\n-Following probation, a competitive health care cash plan<br>\n-A company pension scheme<br>\n-23 days holiday with 2 additional social impact days and the standard 8 statutory holiday days<br>\n-20 hours per year dedicated to volunteering within the local community<br>\n-‘Lending Library’ of all ROLI products<br>\n-Team member discounts on ROLI products<br>\n-Wellness programme including fortnightly massages, weekly guided meditation and yoga<br>\n-Apple laptop and relevant software licenses for your role and beyond<br>\n-Generous Parental Leave policy<br>\n-Frequent friends and family events<br>\n-A great working environment, featuring daily complimentary homemade vegetarian lunches as well as fresh baked bread, limitless home­made GOLDnola<br>\n-A dedicated company-wide Hack Day every four weeks to expand your skill­s<br>\n-The opportunity to create your own “4pm” class to skillshare both your technical and creative skill sets with other ROLI team members<br>\n-A generous bike-to-work scheme plus in-house bike storage<br><br>\n-A competitive salary according to your level of experience</p>\n\n<p>To learn more about us and our culture, check out:</p>\n\n<p>Lumi: Our illuminated keyboard and interactive app <br>\nProfile on ROLI Culture in FT Sifted<br>\nLife at ROLI<br>\nSee the Seaboard in action<br>\nSongmaker kit with Marco Parisi<br>\nBLOCKS the modular music studio<br>\nBalderton Podcast - ROLI&#39;s company culture &amp; building a unique team<br>\nPharrell joins the team!<br>\n@ROLICareers<br>\n@vegetarianatwork on Instagram</p>\n\n<p>ROLI wholeheartedly believes that difference stimulates a healthy and productive environment, as well as positively impact the products we create. We actively encourage diversity of background and perspective, and as an Equal Opportunities Employer, we oppose all forms of unlawful or unfair discrimination in all of our employment related processes and matters.</p>\n",
+      "position": "contract",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£60k – £80k"
+      },
+      "recruiter": {
+        "title": "Talent Team ",
+        "role": "Employee",
+        "url": "https://angel.co/u/mimi-smith-2",
+        "name": "Mimi Smith",
+        "avatar": "https://photos.angel.co/users/8625051-medium_jpg?1542882125"
+      },
+      "refs": {
+        "angelListId": "592026",
+        "angelListUrl": "https://angel.co/company/roli/jobs/592026-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "React Native Developer (Contract)",
+      "description": "**Please apply via our website: https://grnh.se/ab8b7ebb1**\n\n“Working on the web team at ROLI is a chance to work with some of the best people in the industry. It also offers the opportunity to work in an exciting cross-disciplinary environment where we push the boundaries of what can be done with music and technology across multiple platforms.” \n\n- Angus Keith, Senior Product Owner\n\nROLI is looking for an experienced React Native Developer to work on the LUMI Music App to help drive this revolutionary experience to launch. Please note that this will be a 5 week contract. \n\nLUMI is about to change the way that people play and learn music, it's an illuminated keyboard and interactive app that lets everyone be more musical in minutes. Everything is connected by light and colour. The user follows the colours in the app and the lights on the keyboard. Our innovative app allows the user to pick songs and decide how they want to play them, whether that’s learning through our graded interactive lessons or creating songs in jam mode. \n\nAs a React Native developer at ROLI, you will be part of the LUMI product team. Working in a company with bold ambitions, and the calibre of talent required to deliver them, we offer a unique opportunity to execute the roadmap for one of our most exciting new products. \n\nWhat you’ll do:\n- Work on the LUMI Music App product team\n- Liaise closely with the designers and other developers to deliver consistently high quality user interfaces\n- Attend daily stand-ups and contribute to team planning sessions\n\nWhat you’ll need:\n- Proven experience with React Native\n- Significant experience using CSS to build responsive layouts, animations and dynamic interactions \n- An advanced knowledge of javascript\n- A passion for delivering high quality user experiences \n- An excellent eye for detail and consistency\n- Experience working with RESTful APIs\n- Considerable experience in a professional app development environment\n- An ability to work autonomously and independently\n- Excellent communication skills\n- Experience working with agile methodologies\n\nBonus points:\n- Experience with Android and/or iOS native development as a bonus\n- Experience with Styled Components and Pose\n- Experience with Unity or C++\n- A passion for music and/or music technology \n- An interest in gaming",
+      "descriptionHtml": "<p><strong>Please apply via our website: <a href=\"https://grnh.se/ab8b7ebb1\" target=\"_blank\" rel=\"nofollow\">https://grnh.se/ab8b7ebb1</a></strong></p>\n\n<p>“Working on the web team at ROLI is a chance to work with some of the best people in the industry. It also offers the opportunity to work in an exciting cross-disciplinary environment where we push the boundaries of what can be done with music and technology across multiple platforms.” </p>\n\n<ul>\n<li>Angus Keith, Senior Product Owner</li>\n</ul>\n\n<p>ROLI is looking for an experienced React Native Developer to work on the LUMI Music App to help drive this revolutionary experience to launch. Please note that this will be a 5 week contract. </p>\n\n<p>LUMI is about to change the way that people play and learn music, it&#39;s an illuminated keyboard and interactive app that lets everyone be more musical in minutes. Everything is connected by light and colour. The user follows the colours in the app and the lights on the keyboard. Our innovative app allows the user to pick songs and decide how they want to play them, whether that’s learning through our graded interactive lessons or creating songs in jam mode. </p>\n\n<p>As a React Native developer at ROLI, you will be part of the LUMI product team. Working in a company with bold ambitions, and the calibre of talent required to deliver them, we offer a unique opportunity to execute the roadmap for one of our most exciting new products. </p>\n\n<p>What you’ll do:</p>\n\n<ul>\n<li>Work on the LUMI Music App product team</li>\n<li>Liaise closely with the designers and other developers to deliver consistently high quality user interfaces</li>\n<li>Attend daily stand-ups and contribute to team planning sessions</li>\n</ul>\n\n<p>What you’ll need:</p>\n\n<ul>\n<li>Proven experience with React Native</li>\n<li>Significant experience using CSS to build responsive layouts, animations and dynamic interactions </li>\n<li>An advanced knowledge of javascript</li>\n<li>A passion for delivering high quality user experiences </li>\n<li>An excellent eye for detail and consistency</li>\n<li>Experience working with RESTful APIs</li>\n<li>Considerable experience in a professional app development environment</li>\n<li>An ability to work autonomously and independently</li>\n<li>Excellent communication skills</li>\n<li>Experience working with agile methodologies</li>\n</ul>\n\n<p>Bonus points:</p>\n\n<ul>\n<li>Experience with Android and/or iOS native development as a bonus</li>\n<li>Experience with Styled Components and Pose</li>\n<li>Experience with Unity or C++</li>\n<li>A passion for music and/or music technology </li>\n<li>An interest in gaming</li>\n</ul>\n",
+      "position": "contract",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "React Native"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Talent Team ",
+        "role": "Employee",
+        "url": "https://angel.co/u/mimi-smith-2",
+        "name": "Mimi Smith",
+        "avatar": "https://photos.angel.co/users/8625051-medium_jpg?1542882125"
+      },
+      "refs": {
+        "angelListId": "661721",
+        "angelListUrl": "https://angel.co/company/roli/jobs/661721-"
+      }
+    }
+  ]
+}

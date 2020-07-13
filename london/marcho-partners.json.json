@@ -1,0 +1,98 @@
+{
+  "name": "Marcho Partners",
+  "avatar": "https://photos.angel.co/startups/i/6509723-2bfe33a481f73e785702bc2e6012b3bc-medium_jpg.jpg?buster=1540729858",
+  "slogan": "Global public impact tech investment fund",
+  "description": "We are building a global technology investment fund focusing on investing in publicly-traded tech companies based outside of the US and China (ie in all other countries... Europe, Canada, Middle East, India, S America, Japan, SE Asia, etc).\n\nOur first office is located in London, and we are actively recruiting for our Paris office also.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://none"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Consumer Internet",
+    "Enterprise Software",
+    "Investment Management",
+    "Technology"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/carl-anderson-10",
+      "name": "Carl Anderson",
+      "avatar": "https://photos.angel.co/users/8531257-medium_jpg?1541856902",
+      "bioHtml": "Founder and CIO of Marcho Partners -- a global public equities technology fund."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6509723",
+    "angelListUrl": "https://angel.co/company/marcho-partners"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Investment analyst",
+      "description": "The investment analyst will work on the investment team to help source, diligence, and debate investment ideas with the rest of the team.  The candidate does not need to have a finance or investment background, but needs to have a high-level of intellectual horsepower and the ability to make and support investment recommendations based on where he/she thinks the world will be in the future.",
+      "descriptionHtml": "<p>The investment analyst will work on the investment team to help source, diligence, and debate investment ideas with the rest of the team.  The candidate does not need to have a finance or investment background, but needs to have a high-level of intellectual horsepower and the ability to make and support investment recommendations based on where he/she thinks the world will be in the future.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Paris"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Information Technology",
+        "Strategic Thinking"
+      ],
+      "payment": {
+        "salary": "£100k – £160k",
+        "equity": "1.0% – 5.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/carl-anderson-10",
+        "name": "Carl Anderson",
+        "avatar": "https://photos.angel.co/users/8531257-medium_jpg?1541856902"
+      },
+      "refs": {
+        "angelListId": "449274",
+        "angelListUrl": "https://angel.co/company/marcho-partners/jobs/449274-"
+      },
+      "postedAt": 1589659449274
+    }
+  ]
+}

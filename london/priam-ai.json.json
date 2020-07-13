@@ -1,0 +1,112 @@
+{
+  "name": "Priam AI",
+  "avatar": "https://photos.angel.co/startups/i/7338391-8d409ec110fd18e9a43fce8c9233c02c-medium_jpg.jpg?buster=1574790847",
+  "slogan": "AI for insuretech",
+  "description": "The product Hecuba is a platform that is designed to mitigate, report and detect altered digital content - image, audio, video, text- at scale from multiple sources of data either in streaming (real time) or batch mode (semi real-time).",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.priam.ai"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "Boston",
+    "Houston",
+    "Seattle",
+    "San Francisco",
+    "London",
+    "New York",
+    "Cambridge"
+  ],
+  "marketTags": [
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Computer Vision",
+    "Data Privacy"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/james-ro-2",
+      "name": "James Ro",
+      "avatar": "https://photos.angel.co/users/10304610-medium_jpg?1576828386",
+      "bioHtml": "I am an architect with a passion for AI and ML. I have build my own career doing quant trading and ready for the next challenge."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7338391",
+    "angelListUrl": "https://angel.co/company/priam-ai"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Big Data Platform Engineer",
+      "description": "About us:\nWe're looking for a Big Data Platform Engineer who will help us shape our team, drive the company to the next level, and have the most direct influence on our success.\n\nYour Tasks\n\nYou will be part of a self-organized, cross-functional team building a software platform (both Big Data orchestration & APIs)\nSince our team is currently being developed from scratch, we need pragmatic developers with a Full Stack mindset\nYou are not only our 'code', you take responsibility for the whole product your team delivers\nYou are curious and figure out how things work and how they should work for your product\nYou bring your core expertise, but are open to getting your hands dirty with back end, DevOps, QA, and software architecture\nYou have a problem-solving attitude\nYou help your team choose the right tools and technologies for your application, which will run either on baremetal or on a cloud environment\n\n\nInitial projects include:\n* Workflow Orchestration: A fully managed workflow orchestration service that empowers data owners to author, test, schedule, and monitor pipelines.\n* Batch and Streaming: Infrastructure to run both batch and streaming data processing pipelines\n* Event Streams: A fully managed system to empower engineers to ingest, process and analyze event streams in real-time\n* ETL/ELT: transform data in real time or batch\n* Big Database: design and deploy big database for search\n* ML at scale: deploy GPU clusters for inference at scale.\n\nAbout you:\n* You have led and scaled teams teams that have built data infrastructure for data engineering and/or machine learning teams.\n* You optimize for impact over progress and love getting stuff done (GSD/AWS)\n* You care about software and are proud of what you do; to you it’s more than a job.\n* You have a commanding grasp of Spark, Kubernetes, networking and distributed systems and strong programming skills and CS fundamentals. However, a formal CS degree is not required.\n\nWhat you will do:\n* Lead and mentor a small team of engineers that will build systems to empower our data engineers and data scientists\n* Set the technical direction of the data infrastructure team at the 1+ year horizon\n\nRequirements:\nYou will have to be a U.S. citizen with eligibility to work on U.S. military DOD contracts or similars.\nPlease do not apply if you are not eligible.\n\n-----\nPriam is an Equal Opportunity Employer and considers applicants for employment without regard to race, color, religion, sex, orientation, national origin, age, disability, genetics or any other basis forbidden under federal, state, or local law.",
+      "descriptionHtml": "<p>About us:<br>\nWe&#39;re looking for a Big Data Platform Engineer who will help us shape our team, drive the company to the next level, and have the most direct influence on our success.</p>\n\n<p>Your Tasks</p>\n\n<p>You will be part of a self-organized, cross-functional team building a software platform (both Big Data orchestration &amp; APIs)<br>\nSince our team is currently being developed from scratch, we need pragmatic developers with a Full Stack mindset<br>\nYou are not only our &#39;code&#39;, you take responsibility for the whole product your team delivers<br>\nYou are curious and figure out how things work and how they should work for your product<br>\nYou bring your core expertise, but are open to getting your hands dirty with back end, DevOps, QA, and software architecture<br>\nYou have a problem-solving attitude<br>\nYou help your team choose the right tools and technologies for your application, which will run either on baremetal or on a cloud environment</p>\n\n<p>Initial projects include:</p>\n\n<ul>\n<li>Workflow Orchestration: A fully managed workflow orchestration service that empowers data owners to author, test, schedule, and monitor pipelines.</li>\n<li>Batch and Streaming: Infrastructure to run both batch and streaming data processing pipelines</li>\n<li>Event Streams: A fully managed system to empower engineers to ingest, process and analyze event streams in real-time</li>\n<li>ETL/ELT: transform data in real time or batch</li>\n<li>Big Database: design and deploy big database for search</li>\n<li>ML at scale: deploy GPU clusters for inference at scale.</li>\n</ul>\n\n<p>About you:</p>\n\n<ul>\n<li>You have led and scaled teams teams that have built data infrastructure for data engineering and/or machine learning teams.</li>\n<li>You optimize for impact over progress and love getting stuff done (GSD/AWS)</li>\n<li>You care about software and are proud of what you do; to you it’s more than a job.</li>\n<li>You have a commanding grasp of Spark, Kubernetes, networking and distributed systems and strong programming skills and CS fundamentals. However, a formal CS degree is not required.</li>\n</ul>\n\n<p>What you will do:</p>\n\n<ul>\n<li>Lead and mentor a small team of engineers that will build systems to empower our data engineers and data scientists</li>\n<li>Set the technical direction of the data infrastructure team at the 1+ year horizon</li>\n</ul>\n\n<p>Requirements:<br>\nYou will have to be a U.S. citizen with eligibility to work on U.S. military DOD contracts or similars.<br>\nPlease do not apply if you are not eligible.</p>\n\n<hr>\n\n<p>Priam is an Equal Opportunity Employer and considers applicants for employment without regard to race, color, religion, sex, orientation, national origin, age, disability, genetics or any other basis forbidden under federal, state, or local law.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "Boston",
+        "Houston",
+        "Seattle"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "North America"
+      ],
+      "skills": [
+        "Kafka",
+        "AWS/EC2/ELB/S3/DynamoDB",
+        "AWS Cloud Services",
+        "Google Cloud Platform",
+        "Apache Spark",
+        "Docker / Docker Compose / Kubernetes",
+        "Keras, Tensorflow",
+        "Nvidia-Docker"
+      ],
+      "payment": {
+        "salary": "$100k – $150k",
+        "equity": "0.5% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/james-ro-2",
+        "name": "James Ro",
+        "avatar": "https://photos.angel.co/users/10304610-medium_jpg?1576828386"
+      },
+      "refs": {
+        "angelListId": "688074",
+        "angelListUrl": "https://angel.co/company/priam-ai/jobs/688074-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "name": "Big Pixel Studios",
+  "avatar": "https://photos.angel.co/startups/i/6919849-06b05f6f19d718dfa6453af8ce053a93-medium_jpg.jpg?buster=1556793471",
+  "slogan": "Big Pixel​​ is a small studio making big games with unmistakable character",
+  "description": "At Big Pixel we are dedicated to creating exciting games for millions of Rick and Morty fans, and we are in a unique position to grow quickly.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.bigpixelstudios.co.uk/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Games",
+    "Mobile Games",
+    "Casual Games",
+    "Game"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/big-pixel-studios-1",
+      "name": "Angel Gutierrez",
+      "avatar": "https://photos.angel.co/users/9305826-medium_jpg?1557307326",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6919849",
+    "angelListUrl": "https://angel.co/company/big-pixel-studios"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Backend Developer",
+      "description": "Join Big Pixel, a small studio making big games with unmistakable character.\n\nAs the creators of Pocket Mortys, we’re dedicated to making exciting games for millions of Rick and Morty fans.\n\nBased in Shoreditch, London, we’re on the lookout for talented and motivated individuals to play a major role in the continued success of Pocket Mortys and the development of new mobile titles.\n\nRole:\n- You’ll implement gameplay logic and features for networked mobile games. \n- You’ll design, implement and optimise live-op services to ensure games can be continually updated with new content and seasonal events. \n- You’ll bring a creative approach to overcome challenges in areas including security, scalability, validation and real-time networking.\n\nMain Responsibilities:\n- Develop backend game logic and services with C# and Node.js\n- Create tools to improve our development pipeline as necessary to maximise our ability to deliver features and content to players\n- Take part in all aspects of the sprint lifecycle, from feature design and planning through implementation , launch and live operations support\n- Monitor health and performance of features as they go live, debug and quickly resolve server and database issues on games in production\n- Working collaboratively within the games team to create new ideas, content and features within the games\n\nEssential:\n- Experience with Rest applications\n- Experience with Cloud architecture (AWS)\n- Experience in developing complex web or networked applications\n- Experience of Node.js\n\nDesirable:\n- Experience with C#\n- Experience with RabbitMQ, PostgreSQL, Redis or similar\n- Experience with Docker & Kubernetes\n- Experience with real-time multiplayer\n- Understanding of architectures, approaches and challenges with regards to multiplayer games\n- Fan of pop culture, Rick and Morty, adult humour\n\nBenefits:\n- High-profile and popular IP - Rick and Morty\n- Industry-leading bonus scheme\n- Double-matched pension scheme\n- Generous benefits package (health, dental, fitness, to name a few)\n- Part of the WarnerMedia family, including HBO, CNN, TNT, Cartoon Network and Adult Swim Games",
+      "descriptionHtml": "<p>Join Big Pixel, a small studio making big games with unmistakable character.</p>\n\n<p>As the creators of Pocket Mortys, we’re dedicated to making exciting games for millions of Rick and Morty fans.</p>\n\n<p>Based in Shoreditch, London, we’re on the lookout for talented and motivated individuals to play a major role in the continued success of Pocket Mortys and the development of new mobile titles.</p>\n\n<p>Role:</p>\n\n<ul>\n<li>You’ll implement gameplay logic and features for networked mobile games. </li>\n<li>You’ll design, implement and optimise live-op services to ensure games can be continually updated with new content and seasonal events. </li>\n<li>You’ll bring a creative approach to overcome challenges in areas including security, scalability, validation and real-time networking.</li>\n</ul>\n\n<p>Main Responsibilities:</p>\n\n<ul>\n<li>Develop backend game logic and services with C# and Node.js</li>\n<li>Create tools to improve our development pipeline as necessary to maximise our ability to deliver features and content to players</li>\n<li>Take part in all aspects of the sprint lifecycle, from feature design and planning through implementation , launch and live operations support</li>\n<li>Monitor health and performance of features as they go live, debug and quickly resolve server and database issues on games in production</li>\n<li>Working collaboratively within the games team to create new ideas, content and features within the games</li>\n</ul>\n\n<p>Essential:</p>\n\n<ul>\n<li>Experience with Rest applications</li>\n<li>Experience with Cloud architecture (AWS)</li>\n<li>Experience in developing complex web or networked applications</li>\n<li>Experience of Node.js</li>\n</ul>\n\n<p>Desirable:</p>\n\n<ul>\n<li>Experience with C#</li>\n<li>Experience with RabbitMQ, PostgreSQL, Redis or similar</li>\n<li>Experience with Docker &amp; Kubernetes</li>\n<li>Experience with real-time multiplayer</li>\n<li>Understanding of architectures, approaches and challenges with regards to multiplayer games</li>\n<li>Fan of pop culture, Rick and Morty, adult humour</li>\n</ul>\n\n<p>Benefits:</p>\n\n<ul>\n<li>High-profile and popular IP - Rick and Morty</li>\n<li>Industry-leading bonus scheme</li>\n<li>Double-matched pension scheme</li>\n<li>Generous benefits package (health, dental, fitness, to name a few)</li>\n<li>Part of the WarnerMedia family, including HBO, CNN, TNT, Cartoon Network and Adult Swim Games</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£45k – £65k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/big-pixel-studios-1",
+        "name": "Angel Gutierrez",
+        "avatar": "https://photos.angel.co/users/9305826-medium_jpg?1557307326"
+      },
+      "refs": {
+        "angelListId": "548504",
+        "angelListUrl": "https://angel.co/company/big-pixel-studios/jobs/548504-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Backend Developer (Contract)",
+      "description": "Join Big Pixel, a small studio making big games with unmistakable character.\n\nAs the creators of Pocket Mortys, we’re dedicated to making exciting games for millions of Rick and Morty fans.\n\nBased in Shoreditch, London, we’re on the lookout for talented and motivated individuals to play a major role in the continued success of Pocket Mortys and the development of new mobile titles.\n\nRole:\n- You’ll implement gameplay logic and features for networked mobile games. \n- You’ll design, implement and optimise live-op services to ensure games can be continually updated with new content and seasonal events. \n- You’ll bring a creative approach to overcome challenges in areas including security, scalability, validation and real-time networking.\n\nMain Responsibilities:\n- Develop backend game logic and services with C# and Node.js\n- Create tools to improve our development pipeline as necessary to maximise our ability to deliver features and content to players\n- Take part in all aspects of the sprint lifecycle, from feature design and planning through implementation , launch and live operations support\n- Monitor health and performance of features as they go live, debug and quickly resolve server and database issues on games in production\n- Working collaboratively within the games team to create new ideas, content and features within the games\n\nEssential:\n- Experience with Rest applications\n- Experience with Cloud architecture (AWS)\n- Experience in developing complex web or networked applications\n- Knowledge of Node.js\n\nDesirable:\n- Experience with C#\n- Experience with RabbitMQ, PostgreSQL, Redis or similar\n- Experience with Docker & Kubernetes\n- Experience with real-time multiplayer\n- Understanding of architectures, approaches and challenges with regards to multiplayer games\n- Fan of pop culture, Rick and Morty, adult humour\n\nBenefits:\n- High-profile and popular IP - Rick and Morty\n- Industry-leading bonus scheme\n- Double-matched pension scheme\n- Generous benefits package (health, dental, fitness, to name a few)\n- Part of the WarnerMedia family, including HBO, CNN, TNT, Cartoon Network and Adult Swim Games",
+      "descriptionHtml": "<p>Join Big Pixel, a small studio making big games with unmistakable character.</p>\n\n<p>As the creators of Pocket Mortys, we’re dedicated to making exciting games for millions of Rick and Morty fans.</p>\n\n<p>Based in Shoreditch, London, we’re on the lookout for talented and motivated individuals to play a major role in the continued success of Pocket Mortys and the development of new mobile titles.</p>\n\n<p>Role:</p>\n\n<ul>\n<li>You’ll implement gameplay logic and features for networked mobile games. </li>\n<li>You’ll design, implement and optimise live-op services to ensure games can be continually updated with new content and seasonal events. </li>\n<li>You’ll bring a creative approach to overcome challenges in areas including security, scalability, validation and real-time networking.</li>\n</ul>\n\n<p>Main Responsibilities:</p>\n\n<ul>\n<li>Develop backend game logic and services with C# and Node.js</li>\n<li>Create tools to improve our development pipeline as necessary to maximise our ability to deliver features and content to players</li>\n<li>Take part in all aspects of the sprint lifecycle, from feature design and planning through implementation , launch and live operations support</li>\n<li>Monitor health and performance of features as they go live, debug and quickly resolve server and database issues on games in production</li>\n<li>Working collaboratively within the games team to create new ideas, content and features within the games</li>\n</ul>\n\n<p>Essential:</p>\n\n<ul>\n<li>Experience with Rest applications</li>\n<li>Experience with Cloud architecture (AWS)</li>\n<li>Experience in developing complex web or networked applications</li>\n<li>Knowledge of Node.js</li>\n</ul>\n\n<p>Desirable:</p>\n\n<ul>\n<li>Experience with C#</li>\n<li>Experience with RabbitMQ, PostgreSQL, Redis or similar</li>\n<li>Experience with Docker &amp; Kubernetes</li>\n<li>Experience with real-time multiplayer</li>\n<li>Understanding of architectures, approaches and challenges with regards to multiplayer games</li>\n<li>Fan of pop culture, Rick and Morty, adult humour</li>\n</ul>\n\n<p>Benefits:</p>\n\n<ul>\n<li>High-profile and popular IP - Rick and Morty</li>\n<li>Industry-leading bonus scheme</li>\n<li>Double-matched pension scheme</li>\n<li>Generous benefits package (health, dental, fitness, to name a few)</li>\n<li>Part of the WarnerMedia family, including HBO, CNN, TNT, Cartoon Network and Adult Swim Games</li>\n</ul>\n",
+      "position": "contract",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/big-pixel-studios-1",
+        "name": "Angel Gutierrez",
+        "avatar": "https://photos.angel.co/users/9305826-medium_jpg?1557307326"
+      },
+      "refs": {
+        "angelListId": "548521",
+        "angelListUrl": "https://angel.co/company/big-pixel-studios/jobs/548521-"
+      }
+    }
+  ]
+}

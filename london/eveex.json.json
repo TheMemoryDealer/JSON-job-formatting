@@ -1,0 +1,86 @@
+{
+  "name": "Eveex",
+  "avatar": "https://photos.angel.co/startups/i/81404-b5380e95ea06d45ff62150d17b4d92ea-medium_jpg.jpg?buster=1333739914",
+  "slogan": "Connecting retailers with their local customers through their mobile device",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://eveex.com"
+    },
+    {
+      "type": "blog",
+      "url": "http://www.tumblr.com/blog/eveex"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/eveex"
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Local Commerce",
+    "Mobile Commerce"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [],
+  "perks": [],
+  "refs": {
+    "angelListId": "81404",
+    "angelListUrl": "https://angel.co/company/eveex"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "AR Mobile Developer / CTO",
+      "description": "We are an early stage startup that has the ambition to shape commerce (online &amp; offline) through augmented reality and AI technologies.\r\n\r\nWe are looking for an experienced ios developer with good experience of augmented reality technologies. The right candidate will have an interest to take responsibility of a CTO later on ( but this is mandatory). \r\n\r\nThe first couple of months, only a few hours a week will be needed to lead other developers and set up the right technical foundation.\r\n\r\nThe ideal candidate will actively write code, manage other developers and mainly he will have:\r\n\r\n- A strong desire to be apart of an entrepreneurial adventure.\r\n\r\n                     We have a great vision that we are extremely passionate about and very determinate to make this journey as successful as possible.\r\n\r\nAt this stage, it’s crucial for us to hire a resilient and perseverant developer who’s keen to build something great with great people as the main priority.\r\n\r\n- Experience &amp; passion for immersive technologies and/or e-commerce would be a great advantage.\r\n\r\nIf you are based in London &amp; interested to discuss further, please get in touch.",
+      "descriptionHtml": "<p>We are an early stage startup that has the ambition to shape commerce (online &amp; offline) through augmented reality and AI technologies.</p>\n\n<p>We are looking for an experienced ios developer with good experience of augmented reality technologies. The right candidate will have an interest to take responsibility of a CTO later on ( but this is mandatory). </p>\n\n<p>The first couple of months, only a few hours a week will be needed to lead other developers and set up the right technical foundation.</p>\n\n<p>The ideal candidate will actively write code, manage other developers and mainly he will have:</p>\n\n<ul>\n<li><p>A strong desire to be apart of an entrepreneurial adventure.</p>\n\n<p>We have a great vision that we are extremely passionate about and very determinate to make this journey as successful as possible.</p></li>\n</ul>\n\n<p>At this stage, it’s crucial for us to hire a resilient and perseverant developer who’s keen to build something great with great people as the main priority.</p>\n\n<ul>\n<li>Experience &amp; passion for immersive technologies and/or e-commerce would be a great advantage.</li>\n</ul>\n\n<p>If you are based in London &amp; interested to discuss further, please get in touch.</p>\n",
+      "position": "cofounder",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "C++",
+        "Software Development",
+        "Augmented Reality",
+        "Software Architecture",
+        "Artificial Intelligence",
+        "Unity3D",
+        "AWS",
+        "Swift/Objective C/iOS/Xcode",
+        "Csharp"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "10.0% – 20.0%"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "829324",
+        "angelListUrl": "https://angel.co/company/eveex/jobs/829324-"
+      }
+    }
+  ]
+}

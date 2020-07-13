@@ -1,0 +1,203 @@
+{
+  "name": "flatfair",
+  "avatar": "https://photos.angel.co/startups/i/3921855-6d4386b7ba44728451df64ab66f314d1-medium_jpg.jpg?buster=1491226522",
+  "slogan": "flatfair is a proptech startup on a mission to become the first digital tenancy mediator",
+  "description": "Tenancy deposits are a pain...\n\nThat's why we have partnered with industry leaders to build a product that would not have been possible 5 years ago, the flatbond - simple, affordable and secure alternative to tenancy deposits. \n\nAfter several months of development, we are ready to market and have just entered into negotiations with some of the largest letting agents in the UK. \n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.flatfair.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Smart Cities",
+    "Technology",
+    "Property Management",
+    "Communications Software"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/franz-dorr",
+      "name": "Franz Dörr",
+      "avatar": "https://photos.angel.co/users/2341945-medium_jpg?1465469781",
+      "bioHtml": "-"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/daniel-jeczmien",
+      "name": "Daniel Jeczmien",
+      "avatar": "https://photos.angel.co/users/3255001-medium_jpg?1485792835",
+      "bioHtml": "Founder / XGoogler / Marketing Consultant - \nFounder <a href=\"https://angel.co/company/flatfair\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">flatfair</span></a> • Worked at <a href=\"https://angel.co/company/google\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Google</span></a>, <a href=\"https://angel.co/company/criteo\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Criteo</span></a>, <a href=\"https://angel.co/company/american-express\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">American Express</span></a>, <a href=\"https://angel.co/company/liniad\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Liniad</span></a> "
+    },
+    {
+      "title": "CTO",
+      "role": "Employee",
+      "url": "https://angel.co/u/bartosz-alksnin",
+      "name": "Bartosz Alksnin",
+      "avatar": "https://photos.angel.co/users/923756-medium_jpg?1419351775",
+      "bioHtml": "CTO"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/daniel-jeczmien",
+      "name": "Daniel Jeczmien",
+      "avatar": "https://photos.angel.co/users/3255001-medium_jpg?1485792835",
+      "bioHtml": "Founder / XGoogler / Marketing Consultant - \nFounder <a href=\"https://angel.co/company/flatfair\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">flatfair</span></a> • Worked at <a href=\"https://angel.co/company/google\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Google</span></a>, <a href=\"https://angel.co/company/criteo\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Criteo</span></a>, <a href=\"https://angel.co/company/american-express\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">American Express</span></a>, <a href=\"https://angel.co/company/liniad\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Liniad</span></a> "
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/franz-dorr",
+      "name": "Franz Dörr",
+      "avatar": "https://photos.angel.co/users/2341945-medium_jpg?1465469781",
+      "bioHtml": "-"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "3921855",
+    "angelListUrl": "https://angel.co/company/flatfair"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full-Stack Software Engineer (Scaling Start-Up)",
+      "description": "This is a unique opportunity to join a founding team and impact every renter in the UK through exciting and highly rewarding work.\n\nJoin us on our mission to create a world of deposit FREE renting!\n\n\nWe expect more people renting than ever before. That’s why we believe renting should be more affordable and accessible. We are a young and innovative startup company solving an affordability problem by offering deposit-free renting to millions of Tenants across the UK - with lots more exciting stuff to come.\n\nWe have built a core team and a product we are proud of, raised significant start capital and partnered with UK's largest independent letting agency.\n\nWe're building our engineering team of two to six in the coming months and looking to hire two full stack developers. \n\nFocus of the Role:\n\nDay to day, you will be working on our core product: a dashboard used by tenants, landlords and agents to manage their tenancies. We’re a small company – as an engineer you'll be able to work directly with everyone on the team. You’ll have a chance to learn a lot not only about engineering but also about every detail of growing a young business. We love open source, we want to give back to the community so in addition to your standard holiday allowance you can take extra days of to contribute to your favourite open source projects.\n\nTech Stack:\n\nOur project started as a django monolith. Initially we build all our views in pure HTML, CSS & JavaScript. Since then we’ve introduced Vue.js. We define our infrastructure using terraform and deploy to AWS, store data in postgres, use circleci for CI. Apart from our core app we're deploying services written in node.js using AWS Lambda  On a usual day you can expect to:\n\nKey Responsibilities:\n\nWork in a small team of developers and designers to build our core platform\nWrite HTML, CSS and JavaScript\nContribute to our django backend \nCreate new services written in node.js\nCollaborate with the team and help to decide how to improve our product\nThink how to improve the way we work, iterate on the process and tools to make sure we take advantage of best practices and technology\nIterate and optimise products based on feedback and data analytics\nTake ownership of your project by designing, building, maintaining and iterating new features and new products.\n\nRequirements\n\nThe skills and experience you’ll likely have:\n\nRelevant experience working in a Full-Stack role\nStrong knowledge of Javascript, HTML and CSS\nInterest in learning about backend and/or devops\nKnowledge of unit and functional testing\n\nWhats in it for you:\n\nWe offer the following benefits to all our employees (not to mention a fantastic work environment, inspiring colleagues and a ton of fun):\nStock options\nCompetitive salary (reviewed every year)\nFlexible working hours\n25 days paid annual leave\nWeekly team lunch\nOpen kitchen with complimentary tea, coffee and snacks\nWorkplace pension scheme\nRegular social events\nThe IT/hardware you need to get the job done\nLearning and development allowance for conferences or courses\nDedicated time to contribute to open source\nAwesome pet-friendly office in central London\n\nInterview Process\n\nOur interview process consists of an initial phone screen, a take-home code test, and a half-day on-site interview. We promise not to ask you any brain teasers or trick questions, and we won't make you code on a whiteboard!",
+      "descriptionHtml": "<p>This is a unique opportunity to join a founding team and impact every renter in the UK through exciting and highly rewarding work.</p>\n\n<p>Join us on our mission to create a world of deposit FREE renting!</p>\n\n<p>We expect more people renting than ever before. That’s why we believe renting should be more affordable and accessible. We are a young and innovative startup company solving an affordability problem by offering deposit-free renting to millions of Tenants across the UK - with lots more exciting stuff to come.</p>\n\n<p>We have built a core team and a product we are proud of, raised significant start capital and partnered with UK&#39;s largest independent letting agency.</p>\n\n<p>We&#39;re building our engineering team of two to six in the coming months and looking to hire two full stack developers. </p>\n\n<p>Focus of the Role:</p>\n\n<p>Day to day, you will be working on our core product: a dashboard used by tenants, landlords and agents to manage their tenancies. We’re a small company – as an engineer you&#39;ll be able to work directly with everyone on the team. You’ll have a chance to learn a lot not only about engineering but also about every detail of growing a young business. We love open source, we want to give back to the community so in addition to your standard holiday allowance you can take extra days of to contribute to your favourite open source projects.</p>\n\n<p>Tech Stack:</p>\n\n<p>Our project started as a django monolith. Initially we build all our views in pure HTML, CSS &amp; JavaScript. Since then we’ve introduced Vue.js. We define our infrastructure using terraform and deploy to AWS, store data in postgres, use circleci for CI. Apart from our core app we&#39;re deploying services written in node.js using AWS Lambda  On a usual day you can expect to:</p>\n\n<p>Key Responsibilities:</p>\n\n<p>Work in a small team of developers and designers to build our core platform<br>\nWrite HTML, CSS and JavaScript<br>\nContribute to our django backend <br>\nCreate new services written in node.js<br>\nCollaborate with the team and help to decide how to improve our product<br>\nThink how to improve the way we work, iterate on the process and tools to make sure we take advantage of best practices and technology<br>\nIterate and optimise products based on feedback and data analytics<br>\nTake ownership of your project by designing, building, maintaining and iterating new features and new products.</p>\n\n<p>Requirements</p>\n\n<p>The skills and experience you’ll likely have:</p>\n\n<p>Relevant experience working in a Full-Stack role<br>\nStrong knowledge of Javascript, HTML and CSS<br>\nInterest in learning about backend and/or devops<br>\nKnowledge of unit and functional testing</p>\n\n<p>Whats in it for you:</p>\n\n<p>We offer the following benefits to all our employees (not to mention a fantastic work environment, inspiring colleagues and a ton of fun):<br>\nStock options<br>\nCompetitive salary (reviewed every year)<br>\nFlexible working hours<br>\n25 days paid annual leave<br>\nWeekly team lunch<br>\nOpen kitchen with complimentary tea, coffee and snacks<br>\nWorkplace pension scheme<br>\nRegular social events<br>\nThe IT/hardware you need to get the job done<br>\nLearning and development allowance for conferences or courses<br>\nDedicated time to contribute to open source<br>\nAwesome pet-friendly office in central London</p>\n\n<p>Interview Process</p>\n\n<p>Our interview process consists of an initial phone screen, a take-home code test, and a half-day on-site interview. We promise not to ask you any brain teasers or trick questions, and we won&#39;t make you code on a whiteboard!</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "City of London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Object Oriented Programming",
+        "Full Stack Experience",
+        "Front-End Frameworks"
+      ],
+      "payment": {
+        "salary": "£40k – £60k"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "486371",
+        "angelListUrl": "https://angel.co/company/flatfair/jobs/486371-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Front-End Developer",
+      "description": "This is a unique opportunity to join a founding team and impact every renter in the UK through exciting and highly rewarding work.\n\nJoin us on our mission to create a world of deposit FREE renting!\n\nWe are looking for two Frontend Developers to help us build amazing experiences for our Tenants, Landlords and Agents. \n\nFocus of the Role:\n\nOn your day to day you will be working on our core product, a dashboard used by tenants, landlords and agents to manage their tenancies. We’re a small company, as an engineer you'd be able to work directly with everyone on the team. You’ll have a chance to learn a lot not only about engineering but also about every detail of growing a young business. We love open source, we want to give back to the community so in addition to your standard holiday allowance you can take extra days of to contribute to your favourite open source projects.\n\nTech Stack:\n\nOur project started as a django monolith. Initially we build all our views in pure html, css & js. Since then we’ve introduced Vue.js. We’ve used it to rebuild some existing elements of the portal and we are using it for all of new features. On an usual day you can expect to:\n\nKey Responsibilities:\n\nWork in a small team of developers and designers to build our core platform\nWrite HTML, CSS and JavaScript\nCollaborate with the team and help to decide how to improve our product\nIterate and optimising products based on feedback and data analytics.\nTake ownership of your project\nLearn with support of senior colleagues, we’ll assist you whether you want to specialise or try out new things\n\nRequirements\nThe skills and experience you’ll likely have:\n\nRelevant experience working in a frontend role with a modern js framework (react, angular, vue.js, ember) \nSolid knowledge of javascript, html and css\nYou know good UX and visual design when you see it.\nBasic knowledge of unit and functional testing - we're here to help, tests don't need to be scary if they're for you now\n\nWhats in it for you:\n\nWe offer the following benefits to all our employees (not to mention a fantastic work environment, inspiring colleagues and a ton of fun):\n\nStock options\n\nCompetitive salary reviewed every 6 months\nChoose your own equipment\nFollow motivating career path, we value growth from within and encourage people to step-up\nFlexible working hours, we embrace the occasional remote work\n25 paid holiday days\nWeekly team lunch\nSnacks and fruits\nWorkplace pension scheme\nRegular socials events\nLearning budget for conferences or courses\nDedicated time to contribute to open source\n\nInterview Process\n\nOur interview process consists of an initial phone screen, a take-home code test, and a half-day on-site interview. We promise not to ask you any brain teasers or trick questions, and we won't make you code on a whiteboard!",
+      "descriptionHtml": "<p>This is a unique opportunity to join a founding team and impact every renter in the UK through exciting and highly rewarding work.</p>\n\n<p>Join us on our mission to create a world of deposit FREE renting!</p>\n\n<p>We are looking for two Frontend Developers to help us build amazing experiences for our Tenants, Landlords and Agents. </p>\n\n<p>Focus of the Role:</p>\n\n<p>On your day to day you will be working on our core product, a dashboard used by tenants, landlords and agents to manage their tenancies. We’re a small company, as an engineer you&#39;d be able to work directly with everyone on the team. You’ll have a chance to learn a lot not only about engineering but also about every detail of growing a young business. We love open source, we want to give back to the community so in addition to your standard holiday allowance you can take extra days of to contribute to your favourite open source projects.</p>\n\n<p>Tech Stack:</p>\n\n<p>Our project started as a django monolith. Initially we build all our views in pure html, css &amp; js. Since then we’ve introduced Vue.js. We’ve used it to rebuild some existing elements of the portal and we are using it for all of new features. On an usual day you can expect to:</p>\n\n<p>Key Responsibilities:</p>\n\n<p>Work in a small team of developers and designers to build our core platform<br>\nWrite HTML, CSS and JavaScript<br>\nCollaborate with the team and help to decide how to improve our product<br>\nIterate and optimising products based on feedback and data analytics.<br>\nTake ownership of your project<br>\nLearn with support of senior colleagues, we’ll assist you whether you want to specialise or try out new things</p>\n\n<p>Requirements<br>\nThe skills and experience you’ll likely have:</p>\n\n<p>Relevant experience working in a frontend role with a modern js framework (react, angular, vue.js, ember) <br>\nSolid knowledge of javascript, html and css<br>\nYou know good UX and visual design when you see it.<br>\nBasic knowledge of unit and functional testing - we&#39;re here to help, tests don&#39;t need to be scary if they&#39;re for you now</p>\n\n<p>Whats in it for you:</p>\n\n<p>We offer the following benefits to all our employees (not to mention a fantastic work environment, inspiring colleagues and a ton of fun):</p>\n\n<p>Stock options</p>\n\n<p>Competitive salary reviewed every 6 months<br>\nChoose your own equipment<br>\nFollow motivating career path, we value growth from within and encourage people to step-up<br>\nFlexible working hours, we embrace the occasional remote work<br>\n25 paid holiday days<br>\nWeekly team lunch<br>\nSnacks and fruits<br>\nWorkplace pension scheme<br>\nRegular socials events<br>\nLearning budget for conferences or courses<br>\nDedicated time to contribute to open source</p>\n\n<p>Interview Process</p>\n\n<p>Our interview process consists of an initial phone screen, a take-home code test, and a half-day on-site interview. We promise not to ask you any brain teasers or trick questions, and we won&#39;t make you code on a whiteboard!</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "City of London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Javascript Frameworks",
+        "Vue.Js"
+      ],
+      "payment": {
+        "salary": "$40k – $60k"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "486378",
+        "angelListUrl": "https://angel.co/company/flatfair/jobs/486378-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Business Development Manager",
+      "description": "This is a unique opportunity to join a founding team and impact every renter in the UK through exciting and highly rewarding work. \n\nJoin us on our mission to create a world of deposit FREE renting!\n\nFlatfair is the UK’s fastest growing deposit alternative. Our mission is to make renting more affordable and accessible by offering deposit-free renting to millions of tenants across the UK, whilst still protecting landlords. Quite simply, we believe that better letting makes for better living.\n\nWe expect more people renting than ever before. That’s why we believe renting should be more affordable and accessible. We are a young and innovative startup company solving an affordability problem by offering deposit-free renting to millions of Tenants across the UK - with lots more exciting stuff to come.\n\nWe have built a core team and a product we are proud of, raised significant start capital and partnered with UK's largest independent letting agency.\n\nAs a Business Development Manager, you will closely work with our Commercial Director and the flatfair management team with one primary goal: to help flatfair meet its ambitious growth targets. You will be expected to help develop new business while sustaining the company’s culture and dynamic working environment.\n\nRequirements\nFocus of the role?\n\nDeveloping new and innovative ways to help grow flatfair through strategic partnerships \nWork across cross-functional teams to further develop your assigned agencies\nIdentifying, attracting, negotiating and launching partnerships with complex and influential companies that Flatfair needs to build functionality and brand awareness\nUse data to analyse success; predicting and managing evolution of our relationships – building and fostering deep relationships with partner executives, their customer CxOs and Flatfair leaders\nDefining, reviewing and agreeing to a clear set of priorities, joint initiatives and roadmap with our largest partners\nDelivering against assigned quarterly targets on new and existing business \nFocus on an outstanding sales experience to flatfair's top managed agencies, strategic business partners and suppliers.\n\nKey responsibilities?\n\nOwning and strengthening primary agency, partners and suppliers relationships from executive C/B-level down to specific account teams\nBeing an ongoing thought partner for agencies, partners and suppliers by leading on strategic initiatives and high level planning\nDeveloping a go-to-market strategy in order to optimise flatfair’s solutions, technologies and products to help customers transform – working with these alliance partners in developing unique solutions that leverage their unique talents and go-to-market skills\nMentoring team members, guiding their immediate and long-term direction and results. Working collaboratively with the rest of Flatfair team in delivering long-term value through these partnerships.\n\nThe skills and experience you’ll likely have?\n\nExperience in sales or marketing at an real-estate agency, property holding group, technology or proptech firm\nAbility to speak and write in English fluently and idiomatically\nExperience in managing complex, multi-stakeholders and service based solutions\nPreferably a BA/BS degree or equivalent practical experience\n\nWhats in it for you?\n\nWe offer the following benefits to all Flatfair employees\n\nStock options\nCompetitive salary reviewed every year\nChoose your own equipment\nFollow motivating career path, we value growth from within and encourage people to step-up\nFlexible working hours, we embrace the occasional remote work\n25 paid holiday days\nWeekly team lunch\nSnacks and fruits\nWorkplace pension scheme\nRegular socials events\nLearning budget for conferences or courses",
+      "descriptionHtml": "<p>This is a unique opportunity to join a founding team and impact every renter in the UK through exciting and highly rewarding work. </p>\n\n<p>Join us on our mission to create a world of deposit FREE renting!</p>\n\n<p>Flatfair is the UK’s fastest growing deposit alternative. Our mission is to make renting more affordable and accessible by offering deposit-free renting to millions of tenants across the UK, whilst still protecting landlords. Quite simply, we believe that better letting makes for better living.</p>\n\n<p>We expect more people renting than ever before. That’s why we believe renting should be more affordable and accessible. We are a young and innovative startup company solving an affordability problem by offering deposit-free renting to millions of Tenants across the UK - with lots more exciting stuff to come.</p>\n\n<p>We have built a core team and a product we are proud of, raised significant start capital and partnered with UK&#39;s largest independent letting agency.</p>\n\n<p>As a Business Development Manager, you will closely work with our Commercial Director and the flatfair management team with one primary goal: to help flatfair meet its ambitious growth targets. You will be expected to help develop new business while sustaining the company’s culture and dynamic working environment.</p>\n\n<p>Requirements<br>\nFocus of the role?</p>\n\n<p>Developing new and innovative ways to help grow flatfair through strategic partnerships <br>\nWork across cross-functional teams to further develop your assigned agencies<br>\nIdentifying, attracting, negotiating and launching partnerships with complex and influential companies that Flatfair needs to build functionality and brand awareness<br>\nUse data to analyse success; predicting and managing evolution of our relationships – building and fostering deep relationships with partner executives, their customer CxOs and Flatfair leaders<br>\nDefining, reviewing and agreeing to a clear set of priorities, joint initiatives and roadmap with our largest partners<br>\nDelivering against assigned quarterly targets on new and existing business <br>\nFocus on an outstanding sales experience to flatfair&#39;s top managed agencies, strategic business partners and suppliers.</p>\n\n<p>Key responsibilities?</p>\n\n<p>Owning and strengthening primary agency, partners and suppliers relationships from executive C/B-level down to specific account teams<br>\nBeing an ongoing thought partner for agencies, partners and suppliers by leading on strategic initiatives and high level planning<br>\nDeveloping a go-to-market strategy in order to optimise flatfair’s solutions, technologies and products to help customers transform – working with these alliance partners in developing unique solutions that leverage their unique talents and go-to-market skills<br>\nMentoring team members, guiding their immediate and long-term direction and results. Working collaboratively with the rest of Flatfair team in delivering long-term value through these partnerships.</p>\n\n<p>The skills and experience you’ll likely have?</p>\n\n<p>Experience in sales or marketing at an real-estate agency, property holding group, technology or proptech firm<br>\nAbility to speak and write in English fluently and idiomatically<br>\nExperience in managing complex, multi-stakeholders and service based solutions<br>\nPreferably a BA/BS degree or equivalent practical experience</p>\n\n<p>Whats in it for you?</p>\n\n<p>We offer the following benefits to all Flatfair employees</p>\n\n<p>Stock options<br>\nCompetitive salary reviewed every year<br>\nChoose your own equipment<br>\nFollow motivating career path, we value growth from within and encourage people to step-up<br>\nFlexible working hours, we embrace the occasional remote work<br>\n25 paid holiday days<br>\nWeekly team lunch<br>\nSnacks and fruits<br>\nWorkplace pension scheme<br>\nRegular socials events<br>\nLearning budget for conferences or courses</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Sales",
+        "Real Estate"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "487845",
+        "angelListUrl": "https://angel.co/company/flatfair/jobs/487845-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Account Manager",
+      "description": "This is a unique opportunity to join a founding team and impact every renter in the UK through exciting and highly rewarding work. \n\nJoin us on our mission to create a world of deposit FREE renting!\n\nFlatfair is the UK’s fastest growing deposit alternative. Our mission is to make renting more affordable and accessible by offering deposit-free renting to millions of tenants across the UK, whilst still protecting landlords. Quite simply, we believe that better letting makes for better living.\n\nWe expect more people renting than ever before. That’s why we believe renting should be more affordable and accessible. We are a young and innovative startup company solving an affordability problem by offering deposit-free renting to millions of Tenants across the UK - with lots more exciting stuff to come.\n\nWe have built a core team and a product we are proud of, raised significant start capital and partnered with UK's largest independent letting agency.\n\nWithin our Accounts team you will partners closely with some of the largest landlords and agencies across the UK to develop a new renting experience that puts the tenant at its core. We're uniquely situated to help shape how these companies grow their businesses in the digital age. You will closely work with our commercial director with one primary goal: to help flatfair’s clients meet their ambitious growth targets. You would be expected to help develop new business while sustaining the company’s culture and dynamic working environment.\n\nThis role is perfect for someone with account management and operations experience who has a passion to work for a startup with ambitious goals.\n\nRequirements\n\nFocus of the role?\n\nAcquiring and managing our key accounts to drive distribution and adoption of our products\nHelping to define and create key processes by understanding our business methods and our customer needs\nHelping to acquire, onboard deliver training and service new and existing partners (estate agents & build-to-rent operators)\nInputting feedback to tech teams to ensure flatfair is delivering industry leading products\nHandling key accounts to ensure maximum take-up of flatfair products by partner’s landlords and renters by providing constant support & consultation\nKey responsibilities?\n\nMaintaining and nurturing business relationships with stakeholders  to ensure continuity of business growth\nDelivering expert support with a focus on outstanding customer experience\nDeveloping and improving process to help the business grow at scale\nAssisting with training of new property partners to make them enthusiastic & knowledgeable about the benefits we bring\nStepping up to ensure targets are met and processes are improved\n\nThe skills and experience you’ll likely have?\n\nInterest in the property or property tech industry \nAbility to speak and write in English idiomatically\nBackground in sales, account management or consulting\nPassion for disruptive startups \n\nWhat’s in it for you:\n\nWe offer the following benefits to all Flatfair employees\n\nStock options\nCompetitive salary reviewed every year\nChoose your own equipment\nFollow motivating career path, we value growth from within and encourage people to step-up\nFlexible working hours, we embrace the occasional remote work\n25 paid holiday days\nWeekly team lunch\nSnacks and fruits\nWorkplace pension scheme\nRegular socials events\nLearning budget for conferences or courses",
+      "descriptionHtml": "<p>This is a unique opportunity to join a founding team and impact every renter in the UK through exciting and highly rewarding work. </p>\n\n<p>Join us on our mission to create a world of deposit FREE renting!</p>\n\n<p>Flatfair is the UK’s fastest growing deposit alternative. Our mission is to make renting more affordable and accessible by offering deposit-free renting to millions of tenants across the UK, whilst still protecting landlords. Quite simply, we believe that better letting makes for better living.</p>\n\n<p>We expect more people renting than ever before. That’s why we believe renting should be more affordable and accessible. We are a young and innovative startup company solving an affordability problem by offering deposit-free renting to millions of Tenants across the UK - with lots more exciting stuff to come.</p>\n\n<p>We have built a core team and a product we are proud of, raised significant start capital and partnered with UK&#39;s largest independent letting agency.</p>\n\n<p>Within our Accounts team you will partners closely with some of the largest landlords and agencies across the UK to develop a new renting experience that puts the tenant at its core. We&#39;re uniquely situated to help shape how these companies grow their businesses in the digital age. You will closely work with our commercial director with one primary goal: to help flatfair’s clients meet their ambitious growth targets. You would be expected to help develop new business while sustaining the company’s culture and dynamic working environment.</p>\n\n<p>This role is perfect for someone with account management and operations experience who has a passion to work for a startup with ambitious goals.</p>\n\n<p>Requirements</p>\n\n<p>Focus of the role?</p>\n\n<p>Acquiring and managing our key accounts to drive distribution and adoption of our products<br>\nHelping to define and create key processes by understanding our business methods and our customer needs<br>\nHelping to acquire, onboard deliver training and service new and existing partners (estate agents &amp; build-to-rent operators)<br>\nInputting feedback to tech teams to ensure flatfair is delivering industry leading products<br>\nHandling key accounts to ensure maximum take-up of flatfair products by partner’s landlords and renters by providing constant support &amp; consultation<br>\nKey responsibilities?</p>\n\n<p>Maintaining and nurturing business relationships with stakeholders  to ensure continuity of business growth<br>\nDelivering expert support with a focus on outstanding customer experience<br>\nDeveloping and improving process to help the business grow at scale<br>\nAssisting with training of new property partners to make them enthusiastic &amp; knowledgeable about the benefits we bring<br>\nStepping up to ensure targets are met and processes are improved</p>\n\n<p>The skills and experience you’ll likely have?</p>\n\n<p>Interest in the property or property tech industry <br>\nAbility to speak and write in English idiomatically<br>\nBackground in sales, account management or consulting<br>\nPassion for disruptive startups </p>\n\n<p>What’s in it for you:</p>\n\n<p>We offer the following benefits to all Flatfair employees</p>\n\n<p>Stock options<br>\nCompetitive salary reviewed every year<br>\nChoose your own equipment<br>\nFollow motivating career path, we value growth from within and encourage people to step-up<br>\nFlexible working hours, we embrace the occasional remote work<br>\n25 paid holiday days<br>\nWeekly team lunch<br>\nSnacks and fruits<br>\nWorkplace pension scheme<br>\nRegular socials events<br>\nLearning budget for conferences or courses</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Sales",
+        "Account Management",
+        "Property"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "487852",
+        "angelListUrl": "https://angel.co/company/flatfair/jobs/487852-"
+      }
+    }
+  ]
+}

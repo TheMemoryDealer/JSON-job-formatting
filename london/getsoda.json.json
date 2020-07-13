@@ -1,0 +1,159 @@
+{
+  "name": "Soda",
+  "avatar": "https://photos.angel.co/startups/i/5451104-e803fe9ec873706547409db0fe1f29e4-medium_jpg.jpg?buster=1548088576",
+  "slogan": "",
+  "description": "Soda is in private Beta",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.getsoda.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/getsoda"
+    },
+    {
+      "type": "facebook",
+      "url": "http://facebook.com/getsoda"
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Global"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1517443200,
+        "valuation": 3800000
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "Co-Founder, Chairman",
+      "role": "Founder",
+      "url": "https://angel.co/u/paul-curley-3",
+      "name": "Paul Curley",
+      "avatar": "https://photos.angel.co/users/7617604-medium_jpg?1523985726",
+      "bioHtml": "10 years managing top flight Global International Rugby Union Players and Coaches. Manager of talent. Contracts. Sponsorship, Endorsements etc."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/oliver-de-montfalcon",
+      "name": "Oliver de Montfalcon",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/celinehelenev",
+      "name": "Céline Vandycke",
+      "avatar": "https://photos.angel.co/users/8517309-medium_jpg?1542900549",
+      "bioHtml": "Attained a Bachelors of Law  focused on French &amp; European law from Exeter University followed by a Master of Science focused on Luxury Management &amp; Marketing\n"
+    },
+    {
+      "title": "CMO",
+      "role": "Employee",
+      "url": "https://angel.co/u/scottmckenna",
+      "name": "Scott McKenna",
+      "avatar": "https://photos.angel.co/users/7760773-medium_jpg?1523982047",
+      "bioHtml": "Current CMO <a href=\"https://angel.co/company/getsoda\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Soda</span></a> \nFormer OG <a href=\"https://angel.co/company/facebook\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Facebook</span></a> "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5451104",
+    "angelListUrl": "https://angel.co/company/getsoda"
+  },
+  "jobs": [
+    {
+      "role": "Designer",
+      "title": "Senior Designer",
+      "description": "As our senior designer you will be responsible for overseeing and executing design of our UI as well as our on-going marketing collateral. You will be an integral part of both the marketing and developer team, playing a key role in our product and marketing design.\n\nWHAT YOU NEED\n\nAn excellent sense of visual and user interface design.\nProficient in Sketch, Photoshop, Illustrator.\nProficient in designing for both Mobile and Web.\nExperience with mobile-first designs.\nExperience with responsive design.\nExperience with using Invision.\nKeeping up to date with the latest developments in UI Design/Trends.\nSelf starter who is comfortable working in a fast paced environment.\n\nBENEFITS\n\nWe’re a team of entrepreneurs, we love what we do and it’s reflected in our company culture. Apart from a competitive salary and an opportunity to learn as you earn, you’ll also be part of our vibrant office culture.\nYou’ll get all the latest tools and equipment you need to excel in your position.\nWe also value time outside of the office and we believe it’s important that we have fun together, which is why we arrange weekly Friday after work beers on the house!\nFree drinks and snacks!",
+      "descriptionHtml": "<p>As our senior designer you will be responsible for overseeing and executing design of our UI as well as our on-going marketing collateral. You will be an integral part of both the marketing and developer team, playing a key role in our product and marketing design.</p>\n\n<p>WHAT YOU NEED</p>\n\n<p>An excellent sense of visual and user interface design.<br>\nProficient in Sketch, Photoshop, Illustrator.<br>\nProficient in designing for both Mobile and Web.<br>\nExperience with mobile-first designs.<br>\nExperience with responsive design.<br>\nExperience with using Invision.<br>\nKeeping up to date with the latest developments in UI Design/Trends.<br>\nSelf starter who is comfortable working in a fast paced environment.</p>\n\n<p>BENEFITS</p>\n\n<p>We’re a team of entrepreneurs, we love what we do and it’s reflected in our company culture. Apart from a competitive salary and an opportunity to learn as you earn, you’ll also be part of our vibrant office culture.<br>\nYou’ll get all the latest tools and equipment you need to excel in your position.<br>\nWe also value time outside of the office and we believe it’s important that we have fun together, which is why we arrange weekly Friday after work beers on the house!<br>\nFree drinks and snacks!</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Graphic Design",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Sketch",
+        "UI Design"
+      ],
+      "payment": {
+        "salary": "£35k – £40k"
+      },
+      "recruiter": {
+        "title": "CMO",
+        "role": "Employee",
+        "url": "https://angel.co/u/scottmckenna",
+        "name": "Scott McKenna",
+        "avatar": "https://photos.angel.co/users/7760773-medium_jpg?1523982047"
+      },
+      "refs": {
+        "angelListId": "369350",
+        "angelListUrl": "https://angel.co/company/getsoda/jobs/369350-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Frontend Developer",
+      "description": "As our Frontend Developer, you will be an integral part of the team taking full control transforming mockup designs into front-end code. We expect curiosity, creativity and quality, and will give you the freedom to do your magic!\n\nWHAT YOU NEED  \n\nProficient in coding for both Mobile and Web \nExperience with mobile-first design \nExperience with responsive design \nCreating wireframes \nGood understanding of HTML & CSS \nAn understanding of Gulp/Grunt \nJavascript Experience \nAgile Experience Experience with a Javascript framework \nBonus points if you have used Angular 4.x\n\nBENEFITS\n\nWe’re a team of entrepreneurs, we love what we do and it’s reflected in our company culture. Apart from a competitive salary and an opportunity to learn as you earn, you’ll also be part of our vibrant office culture.\n\nYou’ll get all the latest tools and equipment you need to excel in your position.  \n\nWe also value time outside of the office and we believe it’s important that we have fun together, which is why we arrange weekly Friday after work beers on the house!\n\nFree drinks and snacks!",
+      "descriptionHtml": "<p>As our Frontend Developer, you will be an integral part of the team taking full control transforming mockup designs into front-end code. We expect curiosity, creativity and quality, and will give you the freedom to do your magic!</p>\n\n<p>WHAT YOU NEED  </p>\n\n<p>Proficient in coding for both Mobile and Web <br>\nExperience with mobile-first design <br>\nExperience with responsive design <br>\nCreating wireframes <br>\nGood understanding of HTML &amp; CSS <br>\nAn understanding of Gulp/Grunt <br>\nJavascript Experience <br>\nAgile Experience Experience with a Javascript framework <br>\nBonus points if you have used Angular 4.x</p>\n\n<p>BENEFITS</p>\n\n<p>We’re a team of entrepreneurs, we love what we do and it’s reflected in our company culture. Apart from a competitive salary and an opportunity to learn as you earn, you’ll also be part of our vibrant office culture.</p>\n\n<p>You’ll get all the latest tools and equipment you need to excel in your position.  </p>\n\n<p>We also value time outside of the office and we believe it’s important that we have fun together, which is why we arrange weekly Friday after work beers on the house!</p>\n\n<p>Free drinks and snacks!</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Agile",
+        "HTML5 & CSS3",
+        "AngularJS"
+      ],
+      "payment": {
+        "salary": "$25k – $50k"
+      },
+      "recruiter": {
+        "title": "Co-Founder, Chairman",
+        "role": "Founder",
+        "url": "https://angel.co/u/paul-curley-3",
+        "name": "Paul Curley",
+        "avatar": "https://photos.angel.co/users/7617604-medium_jpg?1523985726"
+      },
+      "refs": {
+        "angelListId": "374110",
+        "angelListUrl": "https://angel.co/company/getsoda/jobs/374110-"
+      }
+    }
+  ]
+}

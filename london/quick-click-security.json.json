@@ -1,0 +1,92 @@
+{
+  "name": "Quick Click Security",
+  "avatar": "https://photos.angel.co/startups/i/6947803-2d89c53e2b41a6505cdb0f63e6b373e0-medium_jpg.jpg?buster=1557946298",
+  "slogan": "CTO needed for Online Recruitment Platform for Security Industry",
+  "description": "The product at the moment is an online recruitment tool.  You are able to create a professional profile, advertise and apply for jobs, advertise and book training courses - soon you will be able to book security online and test your skills through online training videos.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.quickclicksecurity.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Security",
+    "Marketplaces",
+    "Social Media Platforms",
+    "Recruiting"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/houdah-al-hakim",
+      "name": "Houdah Al-Hakim",
+      "avatar": "https://photos.angel.co/users/9375329-medium_jpg?1557946559",
+      "bioHtml": "Founder at Quick Click Security"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6947803",
+    "angelListUrl": "https://angel.co/company/quick-click-security"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "CTO",
+      "description": "To manage outsourced developers and/or help with backend development -\nRecruit and manage UX/UI\nTo manage next phase developments and potentially complete overhaul",
+      "descriptionHtml": "<p>To manage outsourced developers and/or help with backend development -<br>\nRecruit and manage UX/UI<br>\nTo manage next phase developments and potentially complete overhaul</p>\n",
+      "position": "cofounder",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/houdah-al-hakim",
+        "name": "Houdah Al-Hakim",
+        "avatar": "https://photos.angel.co/users/9375329-medium_jpg?1557946559"
+      },
+      "refs": {
+        "angelListId": "556199",
+        "angelListUrl": "https://angel.co/company/quick-click-security/jobs/556199-"
+      }
+    }
+  ]
+}

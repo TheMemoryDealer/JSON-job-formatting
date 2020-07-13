@@ -1,0 +1,106 @@
+{
+  "name": "Alva Health",
+  "avatar": "https://photos.angel.co/startups/i/7427565-2b73c97517b600aa52725e1404067d4d-medium_jpg.jpg?buster=1579456986",
+  "slogan": "Digital healthcare service for menopause",
+  "description": "Digital healthcare service supporting women through menopause with evidence-based information, advice and treatment.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://withalva.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Healthcare",
+    "Digital Health",
+    "Healthcare Services"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Co-founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/annie-coleridge",
+      "name": "Annie Coleridge",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Co-founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/philefstat",
+      "name": "Phil Efstathiou",
+      "avatar": "https://photos.angel.co/users/1039225-medium_jpg?1579034302",
+      "bioHtml": "Co-founder of Alva Health"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7427565",
+    "angelListUrl": "https://angel.co/company/alva-health"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full-stack Software Engineer",
+      "description": "Alva supports women through menopause with evidence-based information, assessment and treatment. Our mission is to reduce menopause suffering and help all women live longer in good health.\r\n\r\n[Full description\r\n](https://www.notion.so/withalva/Full-stack-Software-Engineer-a665bf0803424436bc7b344d72eb49e5)\r\n### What you'll be doing\r\n\r\n- Developing our consumer-facing and internal products as part of a small product team.\r\n- Working across our backend and frontend.\r\n- Developing and maintaining our accessibility-first design system from the ground up.\r\n- Collaborating with our designer on user research, and working with other members of the team to understand their needs for internal tools.\r\n- Collaborating on the development of our design / engineering / product team processes.\r\n- We're a small company and it's often all hands on deck. There's a good chance you'll occasionally be helping with things beyond your role like customer support.\r\n\r\n### What we're looking for\r\n\r\nAn engineer who has **some or all of** the following:\r\n\r\n- Significant experience working on consumer-facing products.\r\n- Great communication skills; the ability to breakdown problems, explain work, and relay information in ways that help everyone move forward with a shared understanding.\r\n- Deep understanding of and experience working with Javascript. We work with Typescript and it's great if you already have experience with it, but it's not required.\r\n- Proficiency with GraphQL, Node.js, and relational databases.\r\n- Experience working with modern frontend frameworks and patterns. We use Vue.js, but it's fine if you've never used it.\r\n- Strong understanding of security best practices.\r\n- A passion for treating internal tools with the same respect and effort as consumer-facing products.\r\n- An eagerness to be actively involved in the whole product development process, not just your domain. We need everyone to think and problem solve like product managers.\r\n- Familiarity with accessibility best practices, and an accessibility-first mindset.\r\n- Empathy for all stakeholders in challenging engineering problems.\r\n- A sustainable engineering mindset - decisions made with the long-term in mind.\r\n- Attention to detail and a desire to raise the bar.\r\n- A passion for company culture and the conviction to contribute to it.\r\n- At this time we can only offer roles to people who have the right to live and work in the UK.",
+      "descriptionHtml": "<p>Alva supports women through menopause with evidence-based information, assessment and treatment. Our mission is to reduce menopause suffering and help all women live longer in good health.</p>\n\n<p><a href=\"https://www.notion.so/withalva/Full-stack-Software-Engineer-a665bf0803424436bc7b344d72eb49e5\" target=\"_blank\" rel=\"nofollow\">Full description<br>\n</a></p>\n<h3>What you&#39;ll be doing</h3>\n<ul>\n<li>Developing our consumer-facing and internal products as part of a small product team.</li>\n<li>Working across our backend and frontend.</li>\n<li>Developing and maintaining our accessibility-first design system from the ground up.</li>\n<li>Collaborating with our designer on user research, and working with other members of the team to understand their needs for internal tools.</li>\n<li>Collaborating on the development of our design / engineering / product team processes.</li>\n<li>We&#39;re a small company and it&#39;s often all hands on deck. There&#39;s a good chance you&#39;ll occasionally be helping with things beyond your role like customer support.</li>\n</ul>\n<h3>What we&#39;re looking for</h3>\n<p>An engineer who has <strong>some or all of</strong> the following:</p>\n\n<ul>\n<li>Significant experience working on consumer-facing products.</li>\n<li>Great communication skills; the ability to breakdown problems, explain work, and relay information in ways that help everyone move forward with a shared understanding.</li>\n<li>Deep understanding of and experience working with Javascript. We work with Typescript and it&#39;s great if you already have experience with it, but it&#39;s not required.</li>\n<li>Proficiency with GraphQL, Node.js, and relational databases.</li>\n<li>Experience working with modern frontend frameworks and patterns. We use Vue.js, but it&#39;s fine if you&#39;ve never used it.</li>\n<li>Strong understanding of security best practices.</li>\n<li>A passion for treating internal tools with the same respect and effort as consumer-facing products.</li>\n<li>An eagerness to be actively involved in the whole product development process, not just your domain. We need everyone to think and problem solve like product managers.</li>\n<li>Familiarity with accessibility best practices, and an accessibility-first mindset.</li>\n<li>Empathy for all stakeholders in challenging engineering problems.</li>\n<li>A sustainable engineering mindset - decisions made with the long-term in mind.</li>\n<li>Attention to detail and a desire to raise the bar.</li>\n<li>A passion for company culture and the conviction to contribute to it.</li>\n<li>At this time we can only offer roles to people who have the right to live and work in the UK.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Node.js",
+        "PostgreSQL",
+        "TypeScript",
+        "Vue.Js"
+      ],
+      "payment": {
+        "salary": "£50k – £60k",
+        "equity": "0.5% – 1.0%"
+      },
+      "recruiter": {
+        "title": "Co-founder",
+        "role": "Founder",
+        "url": "https://angel.co/u/philefstat",
+        "name": "Phil Efstathiou",
+        "avatar": "https://photos.angel.co/users/1039225-medium_jpg?1579034302"
+      },
+      "refs": {
+        "angelListId": "768541",
+        "angelListUrl": "https://angel.co/company/alva-health/jobs/768541-"
+      }
+    }
+  ]
+}

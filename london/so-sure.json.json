@@ -1,0 +1,192 @@
+{
+  "name": "so-sure",
+  "avatar": "https://photos.angel.co/startups/i/1212157-f6290c30e6e51f3982a90f764efbe63d-medium_jpg.jpg?buster=1500113534",
+  "slogan": "Restoring consumer trust in insurance by taking it back to its 17th century roots ",
+  "description": "We provide consumers with insurance that is:\n- amazing if you need us (<3days fulfilment vs 4-18days by competition) \n- up to 80% money back, every year, if you don't need us. \n\nWe do so by taking insurance back to its 17th century roots, when incentives were aligned across the value chain and customers got money back when there were no claims. \n\nOur ambitions are global and across consumers lines and we started by addressing the £1bn UK cell phone insurance market. Next year we are launching a new line in the UK and looking at international expansion",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://wearesosure.com/?site=uk"
+    },
+    {
+      "type": "blog",
+      "url": "https://wearesosure.com/blog/"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@wearesosure"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/wearesosure/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company-beta/10458210/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Insurance",
+    "Insurtech"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 3500000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1530057600,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/dylan-bourguignon",
+      "name": "Dylan Bourguignon",
+      "avatar": "https://photos.angel.co/users/1225344-medium_jpg?1500115173",
+      "bioHtml": "Founder of so-sure\nPreviously:\n- co-founder of Cycle Syndicate and Growth 365\n- private equity investor in insurance\n"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/elliot-mitchell-6",
+      "name": "Elliot Mitchell",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Head of Product",
+      "role": "Employee",
+      "url": "https://angel.co/u/charles-f-roels",
+      "name": "Charles F. Roels",
+      "avatar": "https://photos.angel.co/users/1344693-medium_jpg?1435594061",
+      "bioHtml": "Experienced Head of Product. Worked at so-sure, Memrise, OneDome, Secret Escapes, Wooshii, We7/blinkbox, Vodafone, Three UK. MBA Henley Business School."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/julien-champagne-1",
+      "name": "Julien Champagne",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "1212157",
+    "angelListUrl": "https://angel.co/company/so-sure"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "VP Engineering /CTO",
+      "description": "We are looking for an enthusiastic and hands on VP Engineering , who will lead our tech team in scaling our business across new products and geographies.\n\nYou will be reporting to the CEO and  leading a team of 5 developers (1 front end, 2 back end, 2 apps), but will not hesitate to get involved where needed from code-level support to safeguarding the availability of our service, thus ensuring security of database and dataflow with different value chain partners and designing the software infrastructure for growth. \n\nYou will be comfortable deciding on architecture as well as managing an effective development and deployment process and understand the value of testing. You will get to contribute fundamentally to the direction of the product and strategy of the business, as part of the senior management team.\nYou must have strong analytical and troubleshooting skills, fluency in coding, good communication skills, and most of all enthusiasm for tackling the challenges of balancing the business benefits of rapid development with safeguarding the stability of the service. And everything your team builds keeps the end user experience in mind. In the short term, you will be hands-on, resolving data reconciliation issues arising as well as problem shooting and back-end development in PHP (30% of time). \n\nYou will have responsibility for all technical aspects and technological resources of the business including budget control and the recruitment of additional development personnel, whom you will lead. \nThis role is especially suited to someone who wants to be part of the senior management team and influence the direction of the company.\n\n*Upcoming projects*\nMachine learning for automation of processes in fraud detection and claims\nVR/AR opportunity with our next insurance line \nRefactoring to support mutiple insurance lines\n\n*Tech stack*\nPHP (Symfony3), Javascript, MongoDB, AWS, HTML5 & CSS3\n\t\n\n*Experience*\nLeadership\nLed the technological strategy/architecture to meet the business needs as it expands across insurance lines and new geographies\nRecruiting and leading development teams \nManaging competing priorities and not hesitating to seek direction from Head of Product\n \n\nTechnical\nLaunching new products, APIs and working with partnerships\nLed a team of at least 5 people\nPayment knowledge \nUnderstand the constraints of regulation and GDPR\nOpen source frameworks\nFocus on testing whether unit or functional\nWorked with no SQL database\n\n*Must have*\nExperience: at least 10 years work experience.\nStartup: led the tech team in a startup at Series A stage\nAnalytical: deep analytical skills developed with top tier strategy consultancies, with a focus on insurance\nHands-on: ready to roll-up sleeves and get things done when needed.\nDevelopment: PHP Symfony experience\nLeadership: you should be able to motivate a group of committed, smart people to consistently deliver their best work, while doing the best work of your career. \nOrganisation: fantastical organisational skills and ability to prioritise\n \n*Our Culture*\nOur first tenet is ‘do the right thing for the customer’ , the second is ‘do the right thing for your team member’. We have a collaborative and supportive culture. While we work hard as in any startup, we provide a competitive package and flexible working hours, and we will give you the tools and support you so you can be the best.",
+      "descriptionHtml": "<p>We are looking for an enthusiastic and hands on VP Engineering , who will lead our tech team in scaling our business across new products and geographies.</p>\n\n<p>You will be reporting to the CEO and  leading a team of 5 developers (1 front end, 2 back end, 2 apps), but will not hesitate to get involved where needed from code-level support to safeguarding the availability of our service, thus ensuring security of database and dataflow with different value chain partners and designing the software infrastructure for growth. </p>\n\n<p>You will be comfortable deciding on architecture as well as managing an effective development and deployment process and understand the value of testing. You will get to contribute fundamentally to the direction of the product and strategy of the business, as part of the senior management team.<br>\nYou must have strong analytical and troubleshooting skills, fluency in coding, good communication skills, and most of all enthusiasm for tackling the challenges of balancing the business benefits of rapid development with safeguarding the stability of the service. And everything your team builds keeps the end user experience in mind. In the short term, you will be hands-on, resolving data reconciliation issues arising as well as problem shooting and back-end development in PHP (30% of time). </p>\n\n<p>You will have responsibility for all technical aspects and technological resources of the business including budget control and the recruitment of additional development personnel, whom you will lead. <br>\nThis role is especially suited to someone who wants to be part of the senior management team and influence the direction of the company.</p>\n\n<p><em>Upcoming projects</em><br>\nMachine learning for automation of processes in fraud detection and claims<br>\nVR/AR opportunity with our next insurance line <br>\nRefactoring to support mutiple insurance lines</p>\n\n<p><em>Tech stack</em><br>\nPHP (Symfony3), Javascript, MongoDB, AWS, HTML5 &amp; CSS3</p>\n\n<p><em>Experience</em><br>\nLeadership<br>\nLed the technological strategy/architecture to meet the business needs as it expands across insurance lines and new geographies<br>\nRecruiting and leading development teams <br>\nManaging competing priorities and not hesitating to seek direction from Head of Product</p>\n\n<p>Technical<br>\nLaunching new products, APIs and working with partnerships<br>\nLed a team of at least 5 people<br>\nPayment knowledge <br>\nUnderstand the constraints of regulation and GDPR<br>\nOpen source frameworks<br>\nFocus on testing whether unit or functional<br>\nWorked with no SQL database</p>\n\n<p><em>Must have</em><br>\nExperience: at least 10 years work experience.<br>\nStartup: led the tech team in a startup at Series A stage<br>\nAnalytical: deep analytical skills developed with top tier strategy consultancies, with a focus on insurance<br>\nHands-on: ready to roll-up sleeves and get things done when needed.<br>\nDevelopment: PHP Symfony experience<br>\nLeadership: you should be able to motivate a group of committed, smart people to consistently deliver their best work, while doing the best work of your career. <br>\nOrganisation: fantastical organisational skills and ability to prioritise</p>\n\n<p><em>Our Culture</em><br>\nOur first tenet is ‘do the right thing for the customer’ , the second is ‘do the right thing for your team member’. We have a collaborative and supportive culture. While we work hard as in any startup, we provide a competitive package and flexible working hours, and we will give you the tools and support you so you can be the best.</p>\n",
+      "position": "full-time",
+      "experience": 10,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "PHP",
+        "Javascript",
+        "MongoDB",
+        "Leadership",
+        "Full Stack Development",
+        "AWS"
+      ],
+      "payment": {
+        "salary": "£60k – £80k",
+        "equity": "0.0% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/dylan-bourguignon",
+        "name": "Dylan Bourguignon",
+        "avatar": "https://photos.angel.co/users/1225344-medium_jpg?1500115173"
+      },
+      "refs": {
+        "angelListId": "519184",
+        "angelListUrl": "https://angel.co/company/so-sure/jobs/519184-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Head of Growth",
+      "description": "so-sure is a tech start up on a mission to disrupt the greedy and untrustworthy insurance industry.\n \nThe first vertical so-sure is tackling, is mobile phone insurance and we are going to soon be expanding lines into home insurance.  \n \nWe are looking for a Head of Growth.  This role is in our growing team of 12 in our London office (Aldgate East), this role reports into the CEO. \n\n\nRole\nYou will own the paid performance of the business, balancing the need for growth with the need for effectiveness, especially in CPA. You will provide a relentless focus on metrics and data driven decision making, combined with a killer marketing instinct and gut-feel that makes you a success. Together with the senior management team, you will also be involved in guiding the wider performance of so-sure, helping to shape the direction of the business as it goes through the next stage of its growth. A series-A investment round, expansion into a new geography and a new insurance consumer line (home/contents) to be launched in the latter half of the year.\n\nYour experience will be current and forward thinking including success-tracking of marketing strategies, marketing communications, particularly in a referral based program, development and implementation of initiatives for lead generation and conversion within a CRM, public relations activities plus working with product management. You will also coordinate with the other functions of the organisation at strategic and tactical levels, the main one being customer service, and credibility building.\n\nYou are to be aware of the Company’s turnover and P&L targets and be aware of how the individual P&Ls feed into this.\n\nResponsibilities\nManaging all paid media activity and budget allocation across paid search, SEO, paid social and other channels\nDriving growth through organic channels\nDefining channel strategies and managing a continuous, meticulously planned and documented testing plan with an focus on measurement and analysis\nDelivering consistent channel growth and performance improvements, against key metrics and company targets\nDevising messaging to resonate with customer emotions\nForecasting and deep diving into channel performance, process and operations to identify opportunities and constantly optimise spend and ROI\nDeveloping segmentation and personalisation strategies based on customer profiling, purchase cycle and churn analysis\nLeading a team digital performance agencies\nBuilding the performance marketing infrastructure, such as reporting, process necessary to support growth\nManage and drive the customer service team with the customer service manager\nOwn the marketing budget\n\n\nRequirements\nWorked in a B2C digital startup, ideally from seed through a VC-backed series A round and beyond\nA proven Performance Marketer, deeply familiar with best practice and performance management of marketing channels\n7 years+ of digital marketing experience, highly effective communicator able to clearly present complex and data rich proposals, both in written and verbal form - happy to present to the board and other stakeholders on a regular basis\nFamiliar  with traditional digital marketing tools (e.g. Google Ads, Google Analytics, Facebook Ads, Funnel analytics tools, Mixpanel) \nGood excel abilities and comfortability with business intelligence tools, ability to develop formulas and build reports with a meticulous attention to detail\nPrevious experience managing a team but ready to be sleeves rolled up\nCustomer service experience a bonus\nPrior use of Hubspot and Intercom will be advantageous\n\nAbout you\nTop notch organisational skills and proven ability to manage an agenda of projects and initiatives in a fast paced environment.\nEnjoy a challenge with a can do attitude; if something needs to happen, you find a way\nProactive with willingness to roll up sleeves and hunger to learn and develop\nAgility to understand the trade-offs between perfection and ‘good-enough’\nStrong interpersonal communication skills; you have to be able to communicate with, educate and get along with the team and outside the team.\n\nRECRUITMENT AGENCES PLEASE ABSTAIN.",
+      "descriptionHtml": "<p>so-sure is a tech start up on a mission to disrupt the greedy and untrustworthy insurance industry.</p>\n\n<p>The first vertical so-sure is tackling, is mobile phone insurance and we are going to soon be expanding lines into home insurance.  </p>\n\n<p>We are looking for a Head of Growth.  This role is in our growing team of 12 in our London office (Aldgate East), this role reports into the CEO. </p>\n\n<p>Role<br>\nYou will own the paid performance of the business, balancing the need for growth with the need for effectiveness, especially in CPA. You will provide a relentless focus on metrics and data driven decision making, combined with a killer marketing instinct and gut-feel that makes you a success. Together with the senior management team, you will also be involved in guiding the wider performance of so-sure, helping to shape the direction of the business as it goes through the next stage of its growth. A series-A investment round, expansion into a new geography and a new insurance consumer line (home/contents) to be launched in the latter half of the year.</p>\n\n<p>Your experience will be current and forward thinking including success-tracking of marketing strategies, marketing communications, particularly in a referral based program, development and implementation of initiatives for lead generation and conversion within a CRM, public relations activities plus working with product management. You will also coordinate with the other functions of the organisation at strategic and tactical levels, the main one being customer service, and credibility building.</p>\n\n<p>You are to be aware of the Company’s turnover and P&amp;L targets and be aware of how the individual P&amp;Ls feed into this.</p>\n\n<p>Responsibilities<br>\nManaging all paid media activity and budget allocation across paid search, SEO, paid social and other channels<br>\nDriving growth through organic channels<br>\nDefining channel strategies and managing a continuous, meticulously planned and documented testing plan with an focus on measurement and analysis<br>\nDelivering consistent channel growth and performance improvements, against key metrics and company targets<br>\nDevising messaging to resonate with customer emotions<br>\nForecasting and deep diving into channel performance, process and operations to identify opportunities and constantly optimise spend and ROI<br>\nDeveloping segmentation and personalisation strategies based on customer profiling, purchase cycle and churn analysis<br>\nLeading a team digital performance agencies<br>\nBuilding the performance marketing infrastructure, such as reporting, process necessary to support growth<br>\nManage and drive the customer service team with the customer service manager<br>\nOwn the marketing budget</p>\n\n<p>Requirements<br>\nWorked in a B2C digital startup, ideally from seed through a VC-backed series A round and beyond<br>\nA proven Performance Marketer, deeply familiar with best practice and performance management of marketing channels<br>\n7 years+ of digital marketing experience, highly effective communicator able to clearly present complex and data rich proposals, both in written and verbal form - happy to present to the board and other stakeholders on a regular basis<br>\nFamiliar  with traditional digital marketing tools (e.g. Google Ads, Google Analytics, Facebook Ads, Funnel analytics tools, Mixpanel) <br>\nGood excel abilities and comfortability with business intelligence tools, ability to develop formulas and build reports with a meticulous attention to detail<br>\nPrevious experience managing a team but ready to be sleeves rolled up<br>\nCustomer service experience a bonus<br>\nPrior use of Hubspot and Intercom will be advantageous</p>\n\n<p>About you<br>\nTop notch organisational skills and proven ability to manage an agenda of projects and initiatives in a fast paced environment.<br>\nEnjoy a challenge with a can do attitude; if something needs to happen, you find a way<br>\nProactive with willingness to roll up sleeves and hunger to learn and develop<br>\nAgility to understand the trade-offs between perfection and ‘good-enough’<br>\nStrong interpersonal communication skills; you have to be able to communicate with, educate and get along with the team and outside the team.</p>\n\n<p>RECRUITMENT AGENCES PLEASE ABSTAIN.</p>\n",
+      "position": "full-time",
+      "experience": 10,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Marketing Strategy",
+        "Growth Hacking",
+        "Growth Marketing"
+      ],
+      "payment": {
+        "salary": "£65k – £85k",
+        "equity": "% – 0.5%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/dylan-bourguignon",
+        "name": "Dylan Bourguignon",
+        "avatar": "https://photos.angel.co/users/1225344-medium_jpg?1500115173"
+      },
+      "refs": {
+        "angelListId": "537930",
+        "angelListUrl": "https://angel.co/company/so-sure/jobs/537930-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Junior Backend Developer",
+      "description": "Application Closing Date: 13/04/2020\r\n\r\nRequired experience:\r\n* Degree in Computer Science or equivalent qualification\r\n* Minimum 1 year NodeJS\r\n* Minimum 1 year Symfony &amp; Doctrine\r\n* MongoDB\r\n* MySQL\r\n* Linux servers\r\n* AWS Dev Ops (EC2, RDS, Aurora, CredStash, Auto Scaling Groups, Route53, CloudFront, Lambda, S3)\r\n* Strong understanding of microservice architecture\r\n* Terraform\r\n* Ansible\r\n* PHP - Symfony/Doctrine\r\n\r\nBonus experience but not required:\r\n* Multi-lingual\r\n* Adaptive to working on a Windows, Mac or Linux development environment\r\n* Docker\r\n* Vagrant\r\n\r\nYou’ll be working within a small tech team at an InsureTech startup based in central London. We are a phone insurance company aiming at providing a premium phone insurance service, boasting a 72 hour turnaround time for phone replacement.\r\n\r\nOur typical day operates from 9am - 6pm with a friendly and sociable atmosphere. In return, we require workers to be at the best of their game alongside a highly dynamic and well-disciplined team of developers maximizing output.\r\n\r\nResponsibilities:\r\n* Supporting and maintaining the legacy system\r\n* Reimplementing existing features in a microservice environment\r\n* Development of new features including, but not limited to; claims, monthly financial reconciliation, report generating, AB tests\r\n* Technical support for the customer support department",
+      "descriptionHtml": "<p>Application Closing Date: 13/04/2020</p>\n\n<p>Required experience:</p>\n\n<ul>\n<li>Degree in Computer Science or equivalent qualification</li>\n<li>Minimum 1 year NodeJS</li>\n<li>Minimum 1 year Symfony &amp; Doctrine</li>\n<li>MongoDB</li>\n<li>MySQL</li>\n<li>Linux servers</li>\n<li>AWS Dev Ops (EC2, RDS, Aurora, CredStash, Auto Scaling Groups, Route53, CloudFront, Lambda, S3)</li>\n<li>Strong understanding of microservice architecture</li>\n<li>Terraform</li>\n<li>Ansible</li>\n<li>PHP - Symfony/Doctrine</li>\n</ul>\n\n<p>Bonus experience but not required:</p>\n\n<ul>\n<li>Multi-lingual</li>\n<li>Adaptive to working on a Windows, Mac or Linux development environment</li>\n<li>Docker</li>\n<li>Vagrant</li>\n</ul>\n\n<p>You’ll be working within a small tech team at an InsureTech startup based in central London. We are a phone insurance company aiming at providing a premium phone insurance service, boasting a 72 hour turnaround time for phone replacement.</p>\n\n<p>Our typical day operates from 9am - 6pm with a friendly and sociable atmosphere. In return, we require workers to be at the best of their game alongside a highly dynamic and well-disciplined team of developers maximizing output.</p>\n\n<p>Responsibilities:</p>\n\n<ul>\n<li>Supporting and maintaining the legacy system</li>\n<li>Reimplementing existing features in a microservice environment</li>\n<li>Development of new features including, but not limited to; claims, monthly financial reconciliation, report generating, AB tests</li>\n<li>Technical support for the customer support department</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£28k – £28k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/elliot-mitchell-6",
+        "name": "Elliot Mitchell",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "757412",
+        "angelListUrl": "https://angel.co/company/so-sure/jobs/757412-"
+      }
+    }
+  ]
+}

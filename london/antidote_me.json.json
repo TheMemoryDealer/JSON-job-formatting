@@ -1,0 +1,133 @@
+{
+  "name": "Antidote.me",
+  "avatar": "https://photos.angel.co/startups/i/52532-eef0bd77564b1ccc9b5d95dc121c9d23-medium_jpg.jpg?buster=1474407676",
+  "slogan": "Transforming the way patients connect with medical research",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://antidote.me"
+    },
+    {
+      "type": "blog",
+      "url": "https://antidote.me/blog/"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/antidote_me"
+    },
+    {
+      "type": "facebook",
+      "url": "http://www.facebook.com/antidote.me"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/antidote.me"
+    },
+    {
+      "type": "productHunt",
+      "url": "https://www.producthunt.com/posts/antidote"
+    }
+  ],
+  "locations": [
+    "London",
+    "New York City"
+  ],
+  "marketTags": [
+    "Internet",
+    "Health Care Information Technology",
+    "Search",
+    "Pharmaceuticals"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 17900000,
+    "rounds": [
+      {
+        "type": "Series B",
+        "closedAt": 1423180800,
+        "valuation": 0
+      },
+      {
+        "type": "Series A",
+        "closedAt": 1367971200,
+        "valuation": null
+      },
+      {
+        "type": "",
+        "closedAt": 1319760000,
+        "valuation": null
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/pablo-graiver",
+      "name": "Pablo Graiver",
+      "avatar": "https://photos.angel.co/users/629198-medium_jpg?1463994100",
+      "bioHtml": ""
+    },
+    {
+      "title": "Talent Consultant",
+      "role": "Employee",
+      "url": "https://angel.co/u/jamescpeters",
+      "name": "James Peters",
+      "avatar": "https://photos.angel.co/users/438588-medium_jpg?1585760814",
+      "bioHtml": "Leadership Sourcer, AR/VR, Blockchain at Facebook"
+    },
+    {
+      "title": "Head of HR",
+      "role": "Employee",
+      "url": "https://angel.co/u/joanna-anderson-1",
+      "name": "Joanna Anderson",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at Antidote.me"
+    },
+    {
+      "title": "Clinical Director",
+      "role": "Employee",
+      "url": "https://angel.co/u/tylertrueg",
+      "name": "Tyler Trueg",
+      "avatar": "https://photos.angel.co/users/1971650-medium_jpg?1531186557",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "52532",
+    "angelListUrl": "https://angel.co/company/antidote_me"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Software Engineer (Backend)",
+      "description": "Interested in joining an organisation that is being recognised for the evolution of its products and the impact this has on clinical trial recruitment?\r\n\r\nHere at Antidote, we dare to change the status quo when it comes to helping match patients to clinical trials. We aim to accelerate the breakthroughs of new treatments by bridging the gap between medical research and the people who need them.\r\n\r\nOur technology platform is key to this and we want exceptional, highly motivated engineers to join us as we enter our next phase of growth. This is an exciting time to join a company that has an ambitious couple of years ahead.\r\n\r\n**The Role**\r\n\r\nYou will join a small existing team of Backend engineers focused on designing and building data-driven platforms and products.\r\n\r\nWe have a busy year ahead, so you’ll need to be able to get up to speed quickly and be comfortable in a start-up environment.\r\n\r\nYou will put customers first, be technically-minded and creative, passionate about what you do. In addition, you should be excited to help us fulfill our mission to transform medical research, for good by building elite products and services.\r\n\r\n**Responsibilities**\r\n\r\nIn the next 12 months:\r\n\r\nYou will be responsible for the design, development, modification and maintenance of all aspects of the Antidote platform. Our entire service is built Python 3, Flask, GCP, Kubernetes at React.js. The role involves working closely with the Product team to design and build novel datasets and products.\r\n\r\n**Specific responsibilities will include:**\r\n\r\n* Designing and delivering new platform capabilities specifically around data analysis and insights.\r\n* Designing and implementing cloud infrastructure to power the Antidote platform.\r\n* Providing accurate timing estimates on work.\r\n* Building reusable code and libraries for future use.\r\n* Integrating our platform with 3rd party services to extend capabilities.\r\n* Requirements\r\n* A wealth of commercial experience in a Python environment, ideally including current experience in Python 3.\r\n* Experience building Restful APIs using Python and SQL.\r\n* Strong data modelling and SQL skills.\r\n* Hands-on experience building a high-traffic consumer web product or application, such as online banking, e-commerce, gaming, or an online marketplace.\r\n* A strong sense of urgency.\r\n* Excellent communication skills.\r\n* Dedication to delivering high-quality work in product-focused teams.\r\n\r\n**We’d be excited if you have any of the below:**\r\n\r\nExperience in a start-up company\r\nExperience of, or interest in, high-performance Python strategies.\r\nExperience with Google Cloud Platform, Docker and Kubernetes.\r\nKnowledge of, or interest in, statistics and machine learning.\r\nExperience in search or information retrieval, including ontology management.\r\n\r\n**Benefits**\r\n* Competitive salary\r\n* Stock options\r\n* Generous leave\r\n* Your birthday off\r\n* Flexible working\r\n* Central location in Covent Garden, London\r\n* Gourmet coffee\r\n* Fresh snacks\r\n* Fresh fruit weekly\r\n* Gym membership allowance\r\n* Performance-related end of year bonus",
+      "descriptionHtml": "<p>Interested in joining an organisation that is being recognised for the evolution of its products and the impact this has on clinical trial recruitment?</p>\n\n<p>Here at Antidote, we dare to change the status quo when it comes to helping match patients to clinical trials. We aim to accelerate the breakthroughs of new treatments by bridging the gap between medical research and the people who need them.</p>\n\n<p>Our technology platform is key to this and we want exceptional, highly motivated engineers to join us as we enter our next phase of growth. This is an exciting time to join a company that has an ambitious couple of years ahead.</p>\n\n<p><strong>The Role</strong></p>\n\n<p>You will join a small existing team of Backend engineers focused on designing and building data-driven platforms and products.</p>\n\n<p>We have a busy year ahead, so you’ll need to be able to get up to speed quickly and be comfortable in a start-up environment.</p>\n\n<p>You will put customers first, be technically-minded and creative, passionate about what you do. In addition, you should be excited to help us fulfill our mission to transform medical research, for good by building elite products and services.</p>\n\n<p><strong>Responsibilities</strong></p>\n\n<p>In the next 12 months:</p>\n\n<p>You will be responsible for the design, development, modification and maintenance of all aspects of the Antidote platform. Our entire service is built Python 3, Flask, GCP, Kubernetes at React.js. The role involves working closely with the Product team to design and build novel datasets and products.</p>\n\n<p><strong>Specific responsibilities will include:</strong></p>\n\n<ul>\n<li>Designing and delivering new platform capabilities specifically around data analysis and insights.</li>\n<li>Designing and implementing cloud infrastructure to power the Antidote platform.</li>\n<li>Providing accurate timing estimates on work.</li>\n<li>Building reusable code and libraries for future use.</li>\n<li>Integrating our platform with 3rd party services to extend capabilities.</li>\n<li>Requirements</li>\n<li>A wealth of commercial experience in a Python environment, ideally including current experience in Python 3.</li>\n<li>Experience building Restful APIs using Python and SQL.</li>\n<li>Strong data modelling and SQL skills.</li>\n<li>Hands-on experience building a high-traffic consumer web product or application, such as online banking, e-commerce, gaming, or an online marketplace.</li>\n<li>A strong sense of urgency.</li>\n<li>Excellent communication skills.</li>\n<li>Dedication to delivering high-quality work in product-focused teams.</li>\n</ul>\n\n<p><strong>We’d be excited if you have any of the below:</strong></p>\n\n<p>Experience in a start-up company<br>\nExperience of, or interest in, high-performance Python strategies.<br>\nExperience with Google Cloud Platform, Docker and Kubernetes.<br>\nKnowledge of, or interest in, statistics and machine learning.<br>\nExperience in search or information retrieval, including ontology management.</p>\n\n<p><strong>Benefits</strong></p>\n\n<ul>\n<li>Competitive salary</li>\n<li>Stock options</li>\n<li>Generous leave</li>\n<li>Your birthday off</li>\n<li>Flexible working</li>\n<li>Central location in Covent Garden, London</li>\n<li>Gourmet coffee</li>\n<li>Fresh snacks</li>\n<li>Fresh fruit weekly</li>\n<li>Gym membership allowance</li>\n<li>Performance-related end of year bonus</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Flask",
+        "Kubernetes",
+        "GCP"
+      ],
+      "payment": {
+        "salary": "£60k – £75k",
+        "equity": "0.0% – 0.1%"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "760492",
+        "angelListUrl": "https://angel.co/company/antidote_me/jobs/760492-"
+      }
+    }
+  ]
+}

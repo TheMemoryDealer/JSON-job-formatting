@@ -1,0 +1,193 @@
+{
+  "name": "Interlay",
+  "avatar": "https://photos.angel.co/startups/i/7549840-a86e7bc4e67c09761011f0386e5dc3ec-medium_jpg.jpg?buster=1583829805",
+  "slogan": "Use any digital asset on any blockchain platform. Fast. Secure. Trustless",
+  "description": "At Interlay, we envision a future where permissioned and permissionless blockchains, regardless of design and purpose, can seamlessly connect and interact. Specifically, the open-source XCLAIM framework allows users to move assets across public/permissionless blockchains such as Bitcoin and Ethereum in a trustless manner. Enterprises, on the other hand, can utilize XCLAIM to execute settlements across different permissioned ledgers, choosing from a palette of possible trust models based on use case and required security. \n\nWe are a team of PhD candidates from Imperial College London, who have been working and publishing on blockchain security, interoperability and game theoretic principles for the past 4-5 years. As such, at Interlay we take a research-driven approach: our product designs are bleeding-edge tech but are also backed by peer-reviewed, top-tier scientific publications. \n\nCheck out our code at: https://gitlab.com/interlay",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.interlay.io/"
+    },
+    {
+      "type": "blog",
+      "url": "https://medium.com/interlay"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/interlayhq"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/interlay/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Tokyo",
+    "Vienna"
+  ],
+  "marketTags": [
+    "Blockchains",
+    "Finance Technology"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/alexei-zamyatin",
+      "name": "Alexei Zamyatin",
+      "avatar": "https://photos.angel.co/users/10858383-medium_jpg?1583831350",
+      "bioHtml": "Co-founder at Interlay. PhD at Imperial College London. Researcher and software engineer, working on blockchain security."
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/dominik_",
+      "name": "Dominik Harz",
+      "avatar": "https://photos.angel.co/users/5917201-medium_jpg?1583829521",
+      "bioHtml": "Co-founder at Interlay. PhD at Imperial College London. Trying to understand why agents do what they do."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7549840",
+    "angelListUrl": "https://angel.co/company/interlay"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer (Rust/Substrate) - Full time",
+      "description": "We are looking for a (senior) software engineer to help us implement a bridge from Bitcoin to Polkadot, one of the largest industry blockchain projects in the space. The bridge is being implemented in Rust (using the Substrate framework), following a detailed specification of XCLAIM - developed in close collaboration with Parity and the Web3 Foundation. The entire codebase and specification is open source.\r\n\r\nYour task is to implement the Bitcoin bridge on Polkadot in Rust/Substrate, including modules for verifying the Bitcoin blockchain and creating/managing Bitcoin-backed assets. You will need to have an excellent understanding of Rust best practices and experience with writing production-ready software. Apart from development work, you will have the opportunity to closely work with us on advancing the state of blockchain interoperability, contributing to research on novel cryptographic protocols for efficient blockchain light clients and interoperable payment channels.\r\n\r\n*Full time remote, in London (UK), Vienna (Austria), or Tokyo (Japan).*\r\n\r\n**What you will do**\r\n* Build a Rust (Substrate) bridge for creating Bitcoin-backed assets on Polkadot\r\n* Build backend services that can interact with Bitcoin and Polkadot\r\n* Contribute to other open-source projects that we integrate with\r\n* Help design new protocols for blockchain interoperability\r\n* Work in close collaboration with the founders on project planning and strategic technical decisions\r\n\r\n**What you bring**\r\n* Experience in creating and deploying production-ready applications\r\n* Passion for secure software (specifically in Rust)\r\n* Desire to learn and work with bleeding-edge technology\r\n* Strategic decision making and analytical skills for long-term technological decisions\r\n* BSc/MSc degree in Computer Science or a related field, or equivalent experience\r\n* Proficiency in English (and/or German)\r\n\r\n**\"Nice to have\"**\r\n* In-depth understanding of Bitcoin (consensus, data structures, security model)\r\n* Prior experience with the Substrate Rust framework\r\n* Prior experience with Solidity or Vyper (Ethereum)\r\n\r\n**Benefits and Perks**\r\n* Stock options\r\n* Remote working\r\n* Travel to international blockchain conferences\r\n* Allowance for a co-working space\r\n* Yearly retreat\r\n\r\n\r\n**About Interlay**\r\nAt Interlay, we envision a future where permissioned and permissionless blockchains, regardless of design and purpose, can seamlessly connect and interact. Our goal is to enable users and businesses to easily use their preferred digital currency across all blockchain platforms: in DeFi loans, on decentralized exchanges, as payments in layer-2 protocols, or to interact with application-specific ledgers on Polkadot and Cosmos.\r\n\r\nWe are building a trustless blockchain interoperability layer, stemming from cutting-edge research: XCLAIM, the first framework for financially trustless blockchain interoperability. We are a young team of leading experts in blockchain security and interoperability and have been hacking and producing top tier research in the blockchain space for the past 5 years. We are distributed across London (UK), Vienna (Austria), and Tokyo (Japan).",
+      "descriptionHtml": "<p>We are looking for a (senior) software engineer to help us implement a bridge from Bitcoin to Polkadot, one of the largest industry blockchain projects in the space. The bridge is being implemented in Rust (using the Substrate framework), following a detailed specification of XCLAIM - developed in close collaboration with Parity and the Web3 Foundation. The entire codebase and specification is open source.</p>\n\n<p>Your task is to implement the Bitcoin bridge on Polkadot in Rust/Substrate, including modules for verifying the Bitcoin blockchain and creating/managing Bitcoin-backed assets. You will need to have an excellent understanding of Rust best practices and experience with writing production-ready software. Apart from development work, you will have the opportunity to closely work with us on advancing the state of blockchain interoperability, contributing to research on novel cryptographic protocols for efficient blockchain light clients and interoperable payment channels.</p>\n\n<p><em>Full time remote, in London (UK), Vienna (Austria), or Tokyo (Japan).</em></p>\n\n<p><strong>What you will do</strong></p>\n\n<ul>\n<li>Build a Rust (Substrate) bridge for creating Bitcoin-backed assets on Polkadot</li>\n<li>Build backend services that can interact with Bitcoin and Polkadot</li>\n<li>Contribute to other open-source projects that we integrate with</li>\n<li>Help design new protocols for blockchain interoperability</li>\n<li>Work in close collaboration with the founders on project planning and strategic technical decisions</li>\n</ul>\n\n<p><strong>What you bring</strong></p>\n\n<ul>\n<li>Experience in creating and deploying production-ready applications</li>\n<li>Passion for secure software (specifically in Rust)</li>\n<li>Desire to learn and work with bleeding-edge technology</li>\n<li>Strategic decision making and analytical skills for long-term technological decisions</li>\n<li>BSc/MSc degree in Computer Science or a related field, or equivalent experience</li>\n<li>Proficiency in English (and/or German)</li>\n</ul>\n\n<p><strong>&quot;Nice to have&quot;</strong></p>\n\n<ul>\n<li>In-depth understanding of Bitcoin (consensus, data structures, security model)</li>\n<li>Prior experience with the Substrate Rust framework</li>\n<li>Prior experience with Solidity or Vyper (Ethereum)</li>\n</ul>\n\n<p><strong>Benefits and Perks</strong></p>\n\n<ul>\n<li>Stock options</li>\n<li>Remote working</li>\n<li>Travel to international blockchain conferences</li>\n<li>Allowance for a co-working space</li>\n<li>Yearly retreat</li>\n</ul>\n\n<p><strong>About Interlay</strong><br>\nAt Interlay, we envision a future where permissioned and permissionless blockchains, regardless of design and purpose, can seamlessly connect and interact. Our goal is to enable users and businesses to easily use their preferred digital currency across all blockchain platforms: in DeFi loans, on decentralized exchanges, as payments in layer-2 protocols, or to interact with application-specific ledgers on Polkadot and Cosmos.</p>\n\n<p>We are building a trustless blockchain interoperability layer, stemming from cutting-edge research: XCLAIM, the first framework for financially trustless blockchain interoperability. We are a young team of leading experts in blockchain security and interoperability and have been hacking and producing top tier research in the blockchain space for the past 5 years. We are distributed across London (UK), Vienna (Austria), and Tokyo (Japan).</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Tokyo",
+        "Vienna"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "United Kingdom"
+      ],
+      "skills": [
+        "Software Engineering",
+        "Bitcoin",
+        "Blockchain",
+        "Rust​",
+        "Solidity (Ethereum)"
+      ],
+      "payment": {
+        "salary": "£45k – £62k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Founder",
+        "url": "https://angel.co/u/alexei-zamyatin",
+        "name": "Alexei Zamyatin",
+        "avatar": "https://photos.angel.co/users/10858383-medium_jpg?1583831350"
+      },
+      "refs": {
+        "angelListId": "753226",
+        "angelListUrl": "https://angel.co/company/interlay/jobs/753226-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer (Solidity/Ethereum) - Full time",
+      "description": "We are looking for a (senior) software engineer to help us implement a bridge from Bitcoin to Ethereum. The bridge is being implemented in Solidity, following a detailed specification of XCLAIM. The entire codebase and specification is open source.\r\n\r\nYour task is to implement the Bitcoin bridge on Ethereum in Solidity/Vyper, including modules for verifying the Bitcoin blockchain and creating/managing Bitcoin-backed assets. You will need to have an excellent understanding of Solidity / Ethereum smart contract best practices and experience with writing production-ready software. Apart from development work, you will have the opportunity to closely work with us on advancing the state of blockchain interoperability, contributing to research on novel cryptographic protocols for efficient blockchain light clients and interoperable payment channels.\r\n\r\n*Full time remote, in London (UK), Vienna (Austria), or Tokyo (Japan).*\r\n\r\n**What you will do**\r\n* Build a Solidity / Vyper bridge for creating Bitcoin-backed assets on Ethereum\r\n* Build backend services that can interact with Bitcoin and Ethereu\r\n* Contribute to other open-source projects that we integrate with\r\n* Help design new protocols for blockchain interoperability\r\n* Work in close collaboration with the founders on project planning and strategic technical decisions\r\n\r\n**What you bring**\r\n* Experience in creating and deploying production-ready applications\r\n* Passion for secure software (specifically in Solidity/Vyper)\r\n* Desire to learn and work with bleeding-edge technology\r\n* Strategic decision making and analytical skills for long-term technological decisions\r\n* BSc/MSc degree in Computer Science or a related field, or equivalent experience\r\n* Proficiency in English (and/or German)\r\n\r\n**\"Nice to have\"**\r\n* In-depth understanding of Bitcoin (consensus, data structures, security model)\r\n* In-depth understanding of Ethereum (consensus, data structures, security model)\r\n* Experience with smart contract security audits and tools\r\n* Knowledge about DeFi protocols\r\n\r\n**Benefits and Perks**\r\n* Stock options\r\n* Remote working\r\n* Travel to international blockchain conferences\r\n* Allowance for a co-working space\r\n* Yearly retreat\r\n\r\n\r\n**About Interlay**\r\nAt Interlay, we envision a future where permissioned and permissionless blockchains, regardless of design and purpose, can seamlessly connect and interact. Our goal is to enable users and businesses to easily use their preferred digital currency across all blockchain platforms: in DeFi loans, on decentralized exchanges, as payments in layer-2 protocols, or to interact with application-specific ledgers on Polkadot and Cosmos.\r\n\r\nWe are building a trustless blockchain interoperability layer, stemming from cutting-edge research: XCLAIM, the first framework for financially trustless blockchain interoperability. We are a young team of leading experts in blockchain security and interoperability and have been hacking and producing top tier research in the blockchain space for the past 5 years. We are distributed across London (UK), Vienna (Austria), and Tokyo (Japan).",
+      "descriptionHtml": "<p>We are looking for a (senior) software engineer to help us implement a bridge from Bitcoin to Ethereum. The bridge is being implemented in Solidity, following a detailed specification of XCLAIM. The entire codebase and specification is open source.</p>\n\n<p>Your task is to implement the Bitcoin bridge on Ethereum in Solidity/Vyper, including modules for verifying the Bitcoin blockchain and creating/managing Bitcoin-backed assets. You will need to have an excellent understanding of Solidity / Ethereum smart contract best practices and experience with writing production-ready software. Apart from development work, you will have the opportunity to closely work with us on advancing the state of blockchain interoperability, contributing to research on novel cryptographic protocols for efficient blockchain light clients and interoperable payment channels.</p>\n\n<p><em>Full time remote, in London (UK), Vienna (Austria), or Tokyo (Japan).</em></p>\n\n<p><strong>What you will do</strong></p>\n\n<ul>\n<li>Build a Solidity / Vyper bridge for creating Bitcoin-backed assets on Ethereum</li>\n<li>Build backend services that can interact with Bitcoin and Ethereu</li>\n<li>Contribute to other open-source projects that we integrate with</li>\n<li>Help design new protocols for blockchain interoperability</li>\n<li>Work in close collaboration with the founders on project planning and strategic technical decisions</li>\n</ul>\n\n<p><strong>What you bring</strong></p>\n\n<ul>\n<li>Experience in creating and deploying production-ready applications</li>\n<li>Passion for secure software (specifically in Solidity/Vyper)</li>\n<li>Desire to learn and work with bleeding-edge technology</li>\n<li>Strategic decision making and analytical skills for long-term technological decisions</li>\n<li>BSc/MSc degree in Computer Science or a related field, or equivalent experience</li>\n<li>Proficiency in English (and/or German)</li>\n</ul>\n\n<p><strong>&quot;Nice to have&quot;</strong></p>\n\n<ul>\n<li>In-depth understanding of Bitcoin (consensus, data structures, security model)</li>\n<li>In-depth understanding of Ethereum (consensus, data structures, security model)</li>\n<li>Experience with smart contract security audits and tools</li>\n<li>Knowledge about DeFi protocols</li>\n</ul>\n\n<p><strong>Benefits and Perks</strong></p>\n\n<ul>\n<li>Stock options</li>\n<li>Remote working</li>\n<li>Travel to international blockchain conferences</li>\n<li>Allowance for a co-working space</li>\n<li>Yearly retreat</li>\n</ul>\n\n<p><strong>About Interlay</strong><br>\nAt Interlay, we envision a future where permissioned and permissionless blockchains, regardless of design and purpose, can seamlessly connect and interact. Our goal is to enable users and businesses to easily use their preferred digital currency across all blockchain platforms: in DeFi loans, on decentralized exchanges, as payments in layer-2 protocols, or to interact with application-specific ledgers on Polkadot and Cosmos.</p>\n\n<p>We are building a trustless blockchain interoperability layer, stemming from cutting-edge research: XCLAIM, the first framework for financially trustless blockchain interoperability. We are a young team of leading experts in blockchain security and interoperability and have been hacking and producing top tier research in the blockchain space for the past 5 years. We are distributed across London (UK), Vienna (Austria), and Tokyo (Japan).</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Tokyo",
+        "Vienna"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "United Kingdom"
+      ],
+      "skills": [
+        "Software Engineering",
+        "Bitcoin",
+        "Solidity",
+        "Blockchain",
+        "Ethereum Parity/Geth/Web3py/Vyper"
+      ],
+      "payment": {
+        "salary": "£45k – £62k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Founder",
+        "url": "https://angel.co/u/alexei-zamyatin",
+        "name": "Alexei Zamyatin",
+        "avatar": "https://photos.angel.co/users/10858383-medium_jpg?1583831350"
+      },
+      "refs": {
+        "angelListId": "753229",
+        "angelListUrl": "https://angel.co/company/interlay/jobs/753229-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "VP Operations",
+      "description": "We are looking for a VP of Operations with a strong legal background. The perfect candidate for the position has worked in a FinTech business before and has experience in growing a company under consideration of legal and regulatory requirements. You will help us navigate the possibilities of financial products with a focus on crypto derivatives. At the same time, you will conduct market research and support the founders in their tasks to maintain connections with partners and customers.\r\n\r\nYou will join a young team that works on the forefront of blockchain interoperability. Our technology allows creating trustless assets that enable new types of financial products. We established a position of technological leadership that we maintain by pushing the boundaries of current technology. We are looking for someone that can help us transform our technological advantage into a successful and compliant product.\r\n\r\n*Full-time and preferably based in the UK*\r\n\r\n**What you will do**\r\n\r\n* Work together with the founders to revise and optimise the company’s strategy and product offerings with your prior experience in financial products\r\n* Lead the assessment of compliance requirements for financial products and, where necessary, work together with our legal team to achieve this\r\n* Provide guidance on IP/copyright and open-source strategies\r\n* Proactively develop and analyse business models for strategic decision making\r\n* Establish and optimize internal processes and provide tooling to help us maintain a lean and flexible working environment\r\n* Support our partner and customer relationship management\r\n\r\n**What you bring**\r\n\r\n* At least 5 years of professional experience in finance and/or FinTech\r\n* A deep understanding of regulatory and legal requirements in finance\r\n* Experience with patents, IP rights, and open-source strategies and \r\n* You get things done - a proven track record of successfully executed finance projects and business models\r\n* An understanding of decentralized business models and experience with involving partners to create a successful business\r\n* Ability to analyse problems quantitatively using tools like G Suite tools, spreadsheets, SQL and Python\r\n\r\n**“Nice to have”**\r\n* A degree in law from a top-tier university\r\n* Prior experience in cryptocurrency-based trading platforms\r\n\r\n**Benefits and Perks**\r\n\r\n* Stock options\r\n* Remote working\r\n* Travel to international blockchain conferences\r\n* 30-day vacation\r\n* Allowance for a co-working space\r\n* Yearly retreat\r\n\r\n**About Interlay**\r\n\r\nAt Interlay, we envision a future where permissioned and permissionless blockchains, regardless of design and purpose, can seamlessly connect and interact. Our goal is to enable users and businesses to easily use their preferred digital currency across all blockchain platforms: in DeFi loans, on decentralized exchanges, as payments in layer-2 protocols, or to interact with application-specific ledgers on Polkadot and Cosmos.\r\n\r\nWe are building a trustless blockchain interoperability layer, stemming from cutting-edge research: XCLAIM, the first framework for financially trustless blockchain interoperability. We are a young team of leading experts in blockchain security and interoperability and have been hacking and producing top tier research in the blockchain space for the past 5 years. We are distributed across the UK, Vienna (Austria), and Tokyo (Japan).",
+      "descriptionHtml": "<p>We are looking for a VP of Operations with a strong legal background. The perfect candidate for the position has worked in a FinTech business before and has experience in growing a company under consideration of legal and regulatory requirements. You will help us navigate the possibilities of financial products with a focus on crypto derivatives. At the same time, you will conduct market research and support the founders in their tasks to maintain connections with partners and customers.</p>\n\n<p>You will join a young team that works on the forefront of blockchain interoperability. Our technology allows creating trustless assets that enable new types of financial products. We established a position of technological leadership that we maintain by pushing the boundaries of current technology. We are looking for someone that can help us transform our technological advantage into a successful and compliant product.</p>\n\n<p><em>Full-time and preferably based in the UK</em></p>\n\n<p><strong>What you will do</strong></p>\n\n<ul>\n<li>Work together with the founders to revise and optimise the company’s strategy and product offerings with your prior experience in financial products</li>\n<li>Lead the assessment of compliance requirements for financial products and, where necessary, work together with our legal team to achieve this</li>\n<li>Provide guidance on IP/copyright and open-source strategies</li>\n<li>Proactively develop and analyse business models for strategic decision making</li>\n<li>Establish and optimize internal processes and provide tooling to help us maintain a lean and flexible working environment</li>\n<li>Support our partner and customer relationship management</li>\n</ul>\n\n<p><strong>What you bring</strong></p>\n\n<ul>\n<li>At least 5 years of professional experience in finance and/or FinTech</li>\n<li>A deep understanding of regulatory and legal requirements in finance</li>\n<li>Experience with patents, IP rights, and open-source strategies and </li>\n<li>You get things done - a proven track record of successfully executed finance projects and business models</li>\n<li>An understanding of decentralized business models and experience with involving partners to create a successful business</li>\n<li>Ability to analyse problems quantitatively using tools like G Suite tools, spreadsheets, SQL and Python</li>\n</ul>\n\n<p><strong>“Nice to have”</strong></p>\n\n<ul>\n<li>A degree in law from a top-tier university</li>\n<li>Prior experience in cryptocurrency-based trading platforms</li>\n</ul>\n\n<p><strong>Benefits and Perks</strong></p>\n\n<ul>\n<li>Stock options</li>\n<li>Remote working</li>\n<li>Travel to international blockchain conferences</li>\n<li>30-day vacation</li>\n<li>Allowance for a co-working space</li>\n<li>Yearly retreat</li>\n</ul>\n\n<p><strong>About Interlay</strong></p>\n\n<p>At Interlay, we envision a future where permissioned and permissionless blockchains, regardless of design and purpose, can seamlessly connect and interact. Our goal is to enable users and businesses to easily use their preferred digital currency across all blockchain platforms: in DeFi loans, on decentralized exchanges, as payments in layer-2 protocols, or to interact with application-specific ledgers on Polkadot and Cosmos.</p>\n\n<p>We are building a trustless blockchain interoperability layer, stemming from cutting-edge research: XCLAIM, the first framework for financially trustless blockchain interoperability. We are a young team of leading experts in blockchain security and interoperability and have been hacking and producing top tier research in the blockchain space for the past 5 years. We are distributed across the UK, Vienna (Austria), and Tokyo (Japan).</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "United Kingdom"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe",
+        "Japan",
+        "United Kingdom",
+        "Austria"
+      ],
+      "skills": [
+        "Finance",
+        "Business Operations",
+        "Legal",
+        "Blockchain",
+        "Decentralized Finance (DeFi)"
+      ],
+      "payment": {
+        "salary": "£48k – £60k",
+        "equity": "2.0% – 4.5%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/dominik_",
+        "name": "Dominik Harz",
+        "avatar": "https://photos.angel.co/users/5917201-medium_jpg?1583829521"
+      },
+      "refs": {
+        "angelListId": "804436",
+        "angelListUrl": "https://angel.co/company/interlay/jobs/804436-"
+      }
+    }
+  ]
+}

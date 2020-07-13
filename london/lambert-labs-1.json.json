@@ -1,0 +1,97 @@
+{
+  "name": "Lambert Labs",
+  "avatar": "https://photos.angel.co/startups/i/6581306-aa3eb7e46179bb633d8707b6fb89bb32-medium_jpg.jpg?buster=1542300609",
+  "slogan": "Software Development Agency",
+  "description": "We are a boutique Python-focused software development agency that builds digital products for a variety of clients across different verticals. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.lambertlabs.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://lambertlabs.com/blog/"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/lambertlabs"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/lambertlabs/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/lambertlabs/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Software"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/george-lambert-4",
+      "name": "George Lambert",
+      "avatar": "https://photos.angel.co/users/7550166-medium_jpg?1524819968",
+      "bioHtml": "Founder at Lambert Labs"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/guy-king-1",
+      "name": "Guy King",
+      "avatar": "https://photos.angel.co/users/8603513-medium_jpg?1553617616",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6581306",
+    "angelListUrl": "https://angel.co/company/lambert-labs-1"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Data Manager",
+      "description": "Software development agency Lambert Labs is looking for an enthusiastic part-time Data Manager for an initial 6-month contract, starting ASAP. There is a strong chance that the contract will become a permanent part-time (or even full time) role. There is also a possibility that the Data Manager may have opportunities to take on Product Management work in the future too. \n\nLambert Labs was founded in April 2017. We build end-to-end digital solutions for multiple clients across a range of industries and verticals. Our services are in demand – we have worked with 15+ clients in the last year, and our team size now stands at 6. \n\nWe have a large quantity of data that needs to be cleaned and validated/deduplicated an ongoing basis. Some of this is done programmatically but some of it is completed manually. We have a team of Software Developers carrying out the programmatic cleansing and a team of Virtual Assistants doing the manual work. You will sit somewhere in between the two teams and carry out the following tasks:\n\n* review the Virtual Assistants’ work on an ongoing basis\n* manage the Virtual Assistants and help them wherever possible\n* liaise with the Software Development team to make improvements to the data cleansing process \n\nOur main criteria for hiring for this role is that you are bright and have an eye for detail. There are, however, a few specific things that might make you a good fit for this role:\n\n* familiarity working with a remote team\n* experience with Google Sheets/Excel\n* experience with the WordPress admin panel\n\nWe are relatively flexible as to how/when the Data Manager works as long as you spend some time working from our office in Earls Court. \n\nDuring the course of the contract you will have significant opportunities to develop your skills. You will:\n\n* become an expert with the Google Suite: Gmail, Sheets, Docs, Calendar, Hangouts, Google Apps Script\n* learn how to use Atlassian’s suite of products, including Jira and Confluence\n\nOther benefits include:\n\n* weekly team lunch\n* training budget\n* your choice of tech setup\n\nPlease include an up to date version of your CV in your application.",
+      "descriptionHtml": "<p>Software development agency Lambert Labs is looking for an enthusiastic part-time Data Manager for an initial 6-month contract, starting ASAP. There is a strong chance that the contract will become a permanent part-time (or even full time) role. There is also a possibility that the Data Manager may have opportunities to take on Product Management work in the future too. </p>\n\n<p>Lambert Labs was founded in April 2017. We build end-to-end digital solutions for multiple clients across a range of industries and verticals. Our services are in demand – we have worked with 15+ clients in the last year, and our team size now stands at 6. </p>\n\n<p>We have a large quantity of data that needs to be cleaned and validated/deduplicated an ongoing basis. Some of this is done programmatically but some of it is completed manually. We have a team of Software Developers carrying out the programmatic cleansing and a team of Virtual Assistants doing the manual work. You will sit somewhere in between the two teams and carry out the following tasks:</p>\n\n<ul>\n<li>review the Virtual Assistants’ work on an ongoing basis</li>\n<li>manage the Virtual Assistants and help them wherever possible</li>\n<li>liaise with the Software Development team to make improvements to the data cleansing process </li>\n</ul>\n\n<p>Our main criteria for hiring for this role is that you are bright and have an eye for detail. There are, however, a few specific things that might make you a good fit for this role:</p>\n\n<ul>\n<li>familiarity working with a remote team</li>\n<li>experience with Google Sheets/Excel</li>\n<li>experience with the WordPress admin panel</li>\n</ul>\n\n<p>We are relatively flexible as to how/when the Data Manager works as long as you spend some time working from our office in Earls Court. </p>\n\n<p>During the course of the contract you will have significant opportunities to develop your skills. You will:</p>\n\n<ul>\n<li>become an expert with the Google Suite: Gmail, Sheets, Docs, Calendar, Hangouts, Google Apps Script</li>\n<li>learn how to use Atlassian’s suite of products, including Jira and Confluence</li>\n</ul>\n\n<p>Other benefits include:</p>\n\n<ul>\n<li>weekly team lunch</li>\n<li>training budget</li>\n<li>your choice of tech setup</li>\n</ul>\n\n<p>Please include an up to date version of your CV in your application.</p>\n",
+      "position": "contract",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£20k – £30k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/george-lambert-4",
+        "name": "George Lambert",
+        "avatar": "https://photos.angel.co/users/7550166-medium_jpg?1524819968"
+      },
+      "refs": {
+        "angelListId": "458992",
+        "angelListUrl": "https://angel.co/company/lambert-labs-1/jobs/458992-"
+      }
+    }
+  ]
+}

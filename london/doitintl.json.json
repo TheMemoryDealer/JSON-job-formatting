@@ -1,0 +1,400 @@
+{
+  "name": "DoiT International",
+  "avatar": "https://photos.angel.co/startups/i/7136590-56b48d9af5ba4ca9a67def7d32840031-medium_jpg.jpg?buster=1566722150",
+  "slogan": "Helping companies to adopt Google, AWS and Azure Cloud!",
+  "description": "At DoiT International we tackle complex problems of scale which are sometimes unique to internet-scale customers while using our expertise in resolving problems, coding, algorithms, complexity analysis, and large-scale system design.\n\nDriven by highly-experienced, senior-level customer reliability engineers, DoiT International is a leading go-to innovation team that can help you make the cloud yours.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.doit-intl.com/"
+    },
+    {
+      "type": "blog",
+      "url": "https://blog.doit-intl.com/"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/doitint"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/doit.international/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/doit-/?originalsubdomain=il"
+    },
+    {
+      "type": "productHunt",
+      "url": "https://www.producthunt.com/posts/reoptimize"
+    }
+  ],
+  "locations": [
+    "Tel Aviv-Yafo",
+    "Santa Clara",
+    "Santa Monica",
+    "New York City",
+    "Melbourne",
+    "Austin",
+    "London",
+    "Paris",
+    "Berlin"
+  ],
+  "marketTags": [
+    "Cloud Computing",
+    "Cloud Data Services",
+    "Cloud Infrastructure",
+    "Cloud Management",
+    "Consulting"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 100000000,
+    "rounds": [
+      {
+        "type": "Series A",
+        "closedAt": 1572393600,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/yoav-toussia-cohen",
+      "name": "Yoav Toussia Cohen",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Founder & GM",
+      "role": "Founder",
+      "url": "https://angel.co/u/vadimska",
+      "name": "Vadim Solovey",
+      "avatar": "https://photos.angel.co/users/829063-medium_jpg?1572263251",
+      "bioHtml": ""
+    },
+    {
+      "title": "Global Recruitment Manager",
+      "role": "Founder",
+      "url": "https://angel.co/u/lital-ben-porat",
+      "name": "Lital Ben Porat",
+      "avatar": "https://photos.angel.co/users/3500394-medium_jpg?1472718410",
+      "bioHtml": "A dynamic Recruitment &amp; HR Executive within startup companies, with a strong business orientation. Building global winning teams is my passion!"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/brittney-robertson",
+      "name": "Brittney Robertson",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Dev Team Leader",
+      "role": "Employee",
+      "url": "https://angel.co/u/shahar-frank",
+      "name": "Shahar Frank",
+      "avatar": "https://photos.angel.co/users/3252333-medium_jpg?1471672886",
+      "bioHtml": "As a graduate of Computer Science at the Academic College Tel-Aviv - Jaffa back in 1998 I was recruited to work as a developer.\n\n Even at the starting point..."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/vadimska",
+      "name": "Vadim Solovey",
+      "avatar": "https://photos.angel.co/users/829063-medium_jpg?1572263251",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [
+    {
+      "category": "healthcare",
+      "title": "Healthcare Insurance"
+    },
+    {
+      "category": "retirement",
+      "title": "Pension plan"
+    },
+    {
+      "category": "pet_friendly",
+      "title": "Dog friendly offices"
+    },
+    {
+      "category": "work_from_home",
+      "title": "Work-from-home friendly"
+    }
+  ],
+  "refs": {
+    "angelListId": "7136590",
+    "angelListUrl": "https://angel.co/company/doitintl"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Cloud Architect (Core)",
+      "description": "Cloud Engineering is what you get when you treat operations and data as if it’s a software problem. Our mission is to architect, build, secure and provide for the software and systems behind all of our customer’s services, with an ever-watchful eye on their availability, latency, performance, and capacity.\n\nThis is an unusual job, unlike others in the industry. Like traditional operations groups, we design, help to build and guide how to keep important, revenue-critical systems up and running despite downtimes, traffic outages, and configuration problems. Unlike traditional operations groups, we often have an ability and authority to fix, extend, and scale the system to keep it working and harden it against all the vagaries of the internet. We hire people from both systems and software backgrounds. Strong candidates will have experience with both.\n\nAs Senior Cloud Architect on our team, you will have the opportunity to tackle the complex problems of scale which are sometimes unique to our customers while using your expertise in resolving problems, complexity analysis and large-scale system design.\n\nThis is a hands-on technical expert role with a high potential for learning new things and creating new experiences. If you are a positive-thinking, versatile technical leader who has that kind of i-want-to-know-everything drive, and you thrive in a fast-paced, startup-like environment, we want you on-board with our all-star winning team.\n\nOur culture of diversity, intellectual curiosity, problem solving and openness is key to its success. Our organization brings together people with a wide variety of backgrounds, experiences and perspectives. We encourage them to collaborate, think big and take risks in a blame-free environment. We promote self-direction to work on meaningful projects, while we also strive to create an environment that provides the support and mentorship needed to learn and grow.\n\nRequirements:\n\n- BS degree in Computer Science or related technical field involving systems engineering (e.g., physics or mathematics), or equivalent practical experience.\n- Experience in one or more of the following: C, C++, Java, Python, Go, Perl, Ruby or shell scripting.\n- Experience with Unix/Linux operating systems internals and administration (e.g., filesystems, inodes, system calls) or networking (e.g., TCP/IP, routing, network topologies and hardware, SDN).\n- Expertise in designing, analyzing and troubleshooting large-scale distributed systems.\n- Systematic problem-solving approach, coupled with strong communication skills and a sense of ownership and drive.\n- Ability to debug and optimize code and automate routine tasks.",
+      "descriptionHtml": "<p>Cloud Engineering is what you get when you treat operations and data as if it’s a software problem. Our mission is to architect, build, secure and provide for the software and systems behind all of our customer’s services, with an ever-watchful eye on their availability, latency, performance, and capacity.</p>\n\n<p>This is an unusual job, unlike others in the industry. Like traditional operations groups, we design, help to build and guide how to keep important, revenue-critical systems up and running despite downtimes, traffic outages, and configuration problems. Unlike traditional operations groups, we often have an ability and authority to fix, extend, and scale the system to keep it working and harden it against all the vagaries of the internet. We hire people from both systems and software backgrounds. Strong candidates will have experience with both.</p>\n\n<p>As Senior Cloud Architect on our team, you will have the opportunity to tackle the complex problems of scale which are sometimes unique to our customers while using your expertise in resolving problems, complexity analysis and large-scale system design.</p>\n\n<p>This is a hands-on technical expert role with a high potential for learning new things and creating new experiences. If you are a positive-thinking, versatile technical leader who has that kind of i-want-to-know-everything drive, and you thrive in a fast-paced, startup-like environment, we want you on-board with our all-star winning team.</p>\n\n<p>Our culture of diversity, intellectual curiosity, problem solving and openness is key to its success. Our organization brings together people with a wide variety of backgrounds, experiences and perspectives. We encourage them to collaborate, think big and take risks in a blame-free environment. We promote self-direction to work on meaningful projects, while we also strive to create an environment that provides the support and mentorship needed to learn and grow.</p>\n\n<p>Requirements:</p>\n\n<ul>\n<li>BS degree in Computer Science or related technical field involving systems engineering (e.g., physics or mathematics), or equivalent practical experience.</li>\n<li>Experience in one or more of the following: C, C++, Java, Python, Go, Perl, Ruby or shell scripting.</li>\n<li>Experience with Unix/Linux operating systems internals and administration (e.g., filesystems, inodes, system calls) or networking (e.g., TCP/IP, routing, network topologies and hardware, SDN).</li>\n<li>Expertise in designing, analyzing and troubleshooting large-scale distributed systems.</li>\n<li>Systematic problem-solving approach, coupled with strong communication skills and a sense of ownership and drive.</li>\n<li>Ability to debug and optimize code and automate routine tasks.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "Austin"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Cloud Computing",
+        "Software Architecture",
+        "Linux",
+        "DevOps",
+        "Consulting",
+        "Architect",
+        "AWS Cloud Services",
+        "Microsoft Azure",
+        "Google Cloud Platform"
+      ],
+      "payment": {
+        "salary": "$120k – $175k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/brittney-robertson",
+        "name": "Brittney Robertson",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "610487",
+        "angelListUrl": "https://angel.co/company/doitintl/jobs/610487-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Cloud Architect (Core)",
+      "description": "Customer Reliability Engineering is what you get when you treat operations and as if it’s a software problem. Our mission is to architect, build, secure and provide for the software and systems behind all of our customer’s services, with an ever-watchful eye on their availability, latency, performance, and capacity.\n\nThis is an unusual job, unlike others in the industry. Like traditional operations groups, we design, build and help to keep important, revenue-critical systems up and running despite downtimes, traffic outages, and configuration problems.\n\nUnlike traditional operations groups, we often have an ability and authority to fix, extend, and scale the code to keep it working and harden it against all the vagaries of the internet. We hire people from both systems and software backgrounds. Strong candidates will have experience with both.\n\nAs a Customer Reliability Engineer on our team, you will have the opportunity to tackle the complex problems of scale which are sometimes unique to our customers while using your expertise in resolving problems, coding, algorithms, complexity analysis and large-scale system design.\n\nThis is a hands-on technical expert role with a high potential for learning new things and creating new experiences. If you are a positive-thinking, versatile technical leader who has that kind of i-want-to-know-everything drive, and you thrive in a fast-paced, startup-like environment, we want you on-board with our all-star winning team.\n\nCRE's culture of diversity, intellectual curiosity, problem-solving and openness is key to its success. Our organization brings together people with a wide variety of backgrounds, experiences and perspectives. We encourage them to collaborate, think big and take risks in a blame-free environment. We promote self-direction to work on meaningful projects, while we also strive to create an environment that provides the support and mentorship needed to learn and grow.\n\nRequirements:\n\n- BS degree in Computer Science or related technical field involving systems engineering (e.g., physics or mathematics), or equivalent practical experience.\n- Experience in one or more of the following: C, C++, Java, Python, Go, Perl, Ruby or shell scripting.\n- Experience with Unix/Linux operating systems internals and administration (e.g., filesystems, inodes, system calls) or networking (e.g., TCP/IP, routing, network topologies and hardware, SDN).\n- Expertise in designing, analyzing and troubleshooting large-scale distributed systems.\n- Systematic problem-solving approach, coupled with strong communication skills and a sense of ownership and drive.\n- Ability to debug and optimize code and automate routine tasks.",
+      "descriptionHtml": "<p>Customer Reliability Engineering is what you get when you treat operations and as if it’s a software problem. Our mission is to architect, build, secure and provide for the software and systems behind all of our customer’s services, with an ever-watchful eye on their availability, latency, performance, and capacity.</p>\n\n<p>This is an unusual job, unlike others in the industry. Like traditional operations groups, we design, build and help to keep important, revenue-critical systems up and running despite downtimes, traffic outages, and configuration problems.</p>\n\n<p>Unlike traditional operations groups, we often have an ability and authority to fix, extend, and scale the code to keep it working and harden it against all the vagaries of the internet. We hire people from both systems and software backgrounds. Strong candidates will have experience with both.</p>\n\n<p>As a Customer Reliability Engineer on our team, you will have the opportunity to tackle the complex problems of scale which are sometimes unique to our customers while using your expertise in resolving problems, coding, algorithms, complexity analysis and large-scale system design.</p>\n\n<p>This is a hands-on technical expert role with a high potential for learning new things and creating new experiences. If you are a positive-thinking, versatile technical leader who has that kind of i-want-to-know-everything drive, and you thrive in a fast-paced, startup-like environment, we want you on-board with our all-star winning team.</p>\n\n<p>CRE&#39;s culture of diversity, intellectual curiosity, problem-solving and openness is key to its success. Our organization brings together people with a wide variety of backgrounds, experiences and perspectives. We encourage them to collaborate, think big and take risks in a blame-free environment. We promote self-direction to work on meaningful projects, while we also strive to create an environment that provides the support and mentorship needed to learn and grow.</p>\n\n<p>Requirements:</p>\n\n<ul>\n<li>BS degree in Computer Science or related technical field involving systems engineering (e.g., physics or mathematics), or equivalent practical experience.</li>\n<li>Experience in one or more of the following: C, C++, Java, Python, Go, Perl, Ruby or shell scripting.</li>\n<li>Experience with Unix/Linux operating systems internals and administration (e.g., filesystems, inodes, system calls) or networking (e.g., TCP/IP, routing, network topologies and hardware, SDN).</li>\n<li>Expertise in designing, analyzing and troubleshooting large-scale distributed systems.</li>\n<li>Systematic problem-solving approach, coupled with strong communication skills and a sense of ownership and drive.</li>\n<li>Ability to debug and optimize code and automate routine tasks.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "New York City"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Cloud Computing",
+        "DevOps",
+        "Consulting",
+        "AWS Cloud Services",
+        "Google Cloud Platform"
+      ],
+      "payment": {
+        "salary": "$150k – $230k"
+      },
+      "recruiter": {
+        "title": "Global Recruitment Manager",
+        "role": "Founder",
+        "url": "https://angel.co/u/lital-ben-porat",
+        "name": "Lital Ben Porat",
+        "avatar": "https://photos.angel.co/users/3500394-medium_jpg?1472718410"
+      },
+      "refs": {
+        "angelListId": "610496",
+        "angelListUrl": "https://angel.co/company/doitintl/jobs/610496-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Cloud Architect (Core)",
+      "description": "Customer Reliability Engineering is what you get when you treat operations and as if it’s a software problem. Our mission is to architect, build, secure and provide for the software and systems behind all of our customer’s services, with an ever-watchful eye on their availability, latency, performance, and capacity.\n\nThis is an unusual job, unlike others in the industry. Like traditional operations groups, we design, build and help to keep important, revenue-critical systems up and running despite downtimes, traffic outages, and configuration problems.\n\nUnlike traditional operations groups, we often have an ability and authority to fix, extend, and scale the code to keep it working and harden it against all the vagaries of the internet. We hire people from both systems and software backgrounds. Strong candidates will have experience with both.\n\nAs a Customer Reliability Engineer on our team, you will have the opportunity to tackle the complex problems of scale which are sometimes unique to our customers while using your expertise in resolving problems, coding, algorithms, complexity analysis and large-scale system design.\n\nThis is a hands-on technical expert role with a high potential for learning new things and creating new experiences. If you are a positive-thinking, versatile technical leader who has that kind of i-want-to-know-everything drive, and you thrive in a fast-paced, startup-like environment, we want you on-board with our all-star winning team.\n\nCRE's culture of diversity, intellectual curiosity, problem-solving and openness is key to its success. Our organization brings together people with a wide variety of backgrounds, experiences and perspectives. We encourage them to collaborate, think big and take risks in a blame-free environment. We promote self-direction to work on meaningful projects, while we also strive to create an environment that provides the support and mentorship needed to learn and grow.\n\nRequirements:\n- BS degree in Computer Science or related technical field involving systems engineering (e.g., physics or mathematics), or equivalent practical experience.\n- Experience in one or more of the following: C, C++, Java, Python, Go, Perl, Ruby or shell scripting.\n- Experience with Unix/Linux operating systems internals and administration (e.g., filesystems, inodes, system calls) or networking (e.g., TCP/IP, routing, network topologies and hardware, SDN).\n- Expertise in designing, analyzing and troubleshooting large-scale distributed systems.\n- Systematic problem-solving approach, coupled with strong communication skills and a sense of ownership and drive.\n- Ability to debug and optimize code and automate routine tasks.",
+      "descriptionHtml": "<p>Customer Reliability Engineering is what you get when you treat operations and as if it’s a software problem. Our mission is to architect, build, secure and provide for the software and systems behind all of our customer’s services, with an ever-watchful eye on their availability, latency, performance, and capacity.</p>\n\n<p>This is an unusual job, unlike others in the industry. Like traditional operations groups, we design, build and help to keep important, revenue-critical systems up and running despite downtimes, traffic outages, and configuration problems.</p>\n\n<p>Unlike traditional operations groups, we often have an ability and authority to fix, extend, and scale the code to keep it working and harden it against all the vagaries of the internet. We hire people from both systems and software backgrounds. Strong candidates will have experience with both.</p>\n\n<p>As a Customer Reliability Engineer on our team, you will have the opportunity to tackle the complex problems of scale which are sometimes unique to our customers while using your expertise in resolving problems, coding, algorithms, complexity analysis and large-scale system design.</p>\n\n<p>This is a hands-on technical expert role with a high potential for learning new things and creating new experiences. If you are a positive-thinking, versatile technical leader who has that kind of i-want-to-know-everything drive, and you thrive in a fast-paced, startup-like environment, we want you on-board with our all-star winning team.</p>\n\n<p>CRE&#39;s culture of diversity, intellectual curiosity, problem-solving and openness is key to its success. Our organization brings together people with a wide variety of backgrounds, experiences and perspectives. We encourage them to collaborate, think big and take risks in a blame-free environment. We promote self-direction to work on meaningful projects, while we also strive to create an environment that provides the support and mentorship needed to learn and grow.</p>\n\n<p>Requirements:</p>\n\n<ul>\n<li>BS degree in Computer Science or related technical field involving systems engineering (e.g., physics or mathematics), or equivalent practical experience.</li>\n<li>Experience in one or more of the following: C, C++, Java, Python, Go, Perl, Ruby or shell scripting.</li>\n<li>Experience with Unix/Linux operating systems internals and administration (e.g., filesystems, inodes, system calls) or networking (e.g., TCP/IP, routing, network topologies and hardware, SDN).</li>\n<li>Expertise in designing, analyzing and troubleshooting large-scale distributed systems.</li>\n<li>Systematic problem-solving approach, coupled with strong communication skills and a sense of ownership and drive.</li>\n<li>Ability to debug and optimize code and automate routine tasks.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "Santa Clara"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Cloud Computing",
+        "Software Architecture",
+        "DevOps",
+        "Consulting",
+        "Architect",
+        "AWS Cloud Services",
+        "Google Cloud Platform"
+      ],
+      "payment": {
+        "salary": "$150k – $230k"
+      },
+      "recruiter": {
+        "title": "Global Recruitment Manager",
+        "role": "Founder",
+        "url": "https://angel.co/u/lital-ben-porat",
+        "name": "Lital Ben Porat",
+        "avatar": "https://photos.angel.co/users/3500394-medium_jpg?1472718410"
+      },
+      "refs": {
+        "angelListId": "610504",
+        "angelListUrl": "https://angel.co/company/doitintl/jobs/610504-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Cloud Architect (Data)",
+      "description": "As a Senior Cloud Architect (Data), you will guide customers on how to ingest, store, process, analyze and explore/visualize data on the Google Cloud, Amazon Web Services and Microsoft Azure. You will guide on data migrations and transformational tasks, and with customers to design large-scale data processing systems, develop data pipelines optimized for scaling, and help to troubleshoot potential platform issues.\n\nIn this role you are the architect working with our most strategic customers. Together with the team you will guide customer implementation of Cloud technologies through: architecture guidance, best practices, data migration, capacity planning, implementation, troubleshooting, monitoring and much more.\n\nWe help customers to transform and evolve their business through the use of cloud global network, web-scale data centers and software infrastructure. As part of an entrepreneurial team in this rapidly growing business, you will help shape the future of businesses of all sizes use technology to connect with customers.\n\nResponsibilities:\n\n- Act as a trusted technical advisor to customers and solve complex data challenges.\n- Create and deliver best practices recommendations, tutorials, blog articles, sample code, and technical presentations adapting to different levels of key business and technical stakeholders.\n- Communicate effectively via video conferencing for meetings, technical reviews and onsite delivery activities.\n\nRequirements:\n\n- BA/BS degree in Computer Science, Mathematics or related technical field, or equivalent practical experience.\n- Experience with data processing software (such as Hadoop, Spark, Pig, Hive) and with data processing algorithms (MapReduce, Spark).\n- Experience in writing software in one or more languages such as Java, C++, Python, Go and/or R.\n- Experience working data warehouses, including data warehouse technical architectures, infrastructure components, ETL/ELT and reporting/analytic tools and environments.\n- Experience architecting, developing software, or internet scale production-grade Big Data solutions in virtualized environments such as Amazon Web Services, Azure and Google Cloud.\n- Experience working with big data, information retrieval, data mining or machine learning as well as experience in building multi-tier high availability applications with modern web technologies (such as NoSQL, MongoDB, SparkML, Tensorflow)",
+      "descriptionHtml": "<p>As a Senior Cloud Architect (Data), you will guide customers on how to ingest, store, process, analyze and explore/visualize data on the Google Cloud, Amazon Web Services and Microsoft Azure. You will guide on data migrations and transformational tasks, and with customers to design large-scale data processing systems, develop data pipelines optimized for scaling, and help to troubleshoot potential platform issues.</p>\n\n<p>In this role you are the architect working with our most strategic customers. Together with the team you will guide customer implementation of Cloud technologies through: architecture guidance, best practices, data migration, capacity planning, implementation, troubleshooting, monitoring and much more.</p>\n\n<p>We help customers to transform and evolve their business through the use of cloud global network, web-scale data centers and software infrastructure. As part of an entrepreneurial team in this rapidly growing business, you will help shape the future of businesses of all sizes use technology to connect with customers.</p>\n\n<p>Responsibilities:</p>\n\n<ul>\n<li>Act as a trusted technical advisor to customers and solve complex data challenges.</li>\n<li>Create and deliver best practices recommendations, tutorials, blog articles, sample code, and technical presentations adapting to different levels of key business and technical stakeholders.</li>\n<li>Communicate effectively via video conferencing for meetings, technical reviews and onsite delivery activities.</li>\n</ul>\n\n<p>Requirements:</p>\n\n<ul>\n<li>BA/BS degree in Computer Science, Mathematics or related technical field, or equivalent practical experience.</li>\n<li>Experience with data processing software (such as Hadoop, Spark, Pig, Hive) and with data processing algorithms (MapReduce, Spark).</li>\n<li>Experience in writing software in one or more languages such as Java, C++, Python, Go and/or R.</li>\n<li>Experience working data warehouses, including data warehouse technical architectures, infrastructure components, ETL/ELT and reporting/analytic tools and environments.</li>\n<li>Experience architecting, developing software, or internet scale production-grade Big Data solutions in virtualized environments such as Amazon Web Services, Azure and Google Cloud.</li>\n<li>Experience working with big data, information retrieval, data mining or machine learning as well as experience in building multi-tier high availability applications with modern web technologies (such as NoSQL, MongoDB, SparkML, Tensorflow)</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "Austin"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Hadoop",
+        "Cloud Computing",
+        "Big Data",
+        "DevOps",
+        "Amazon Elastic MapReduce",
+        "Microsoft Azure",
+        "Google Cloud Platform",
+        "AWS",
+        "Hadoop/Hive/Spark/Scala/MLlib"
+      ],
+      "payment": {
+        "salary": "$150k – $230k"
+      },
+      "recruiter": {
+        "title": "Global Recruitment Manager",
+        "role": "Founder",
+        "url": "https://angel.co/u/lital-ben-porat",
+        "name": "Lital Ben Porat",
+        "avatar": "https://photos.angel.co/users/3500394-medium_jpg?1472718410"
+      },
+      "refs": {
+        "angelListId": "610491",
+        "angelListUrl": "https://angel.co/company/doitintl/jobs/610491-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Cloud Architect (Data)",
+      "description": "As a  Engineer (), you will guide customers on how to ingest, store, process, analyze and explore/visualize on the Google . You will work on migrations and transformational tasks, and with customers to design large-scale processing systems, develop pipelines optimized for scaling, and troubleshoot potential platform issues.\n\nIn this role, you are the engineer working with our most strategic Google  customers. Together with the team, you will support customer implementation of Google  products through: architecture guidance, best practices,  migration, capacity planning, implementation, troubleshooting, monitoring and much more.\n\nThe Google  team helps customers transform and evolve their business through the use of Google’s global network, web-scale centers and software infrastructure. As part of an entrepreneurial team in this rapidly growing business, you will help shape the future of businesses of all sizes use technology to connect with customers.\n\nResponsibilities:\n- Act as a trusted technical advisor to customers and solve complex Big challenges.\n- Create and deliver best practices recommendations, tutorials, blog articles, sample code, and technical presentations adapting to different levels of key business and technical stakeholders.\n- Communicate effectively via video conferencing for meetings, technical reviews and onsite delivery activities.\n- Travel up to 30% of the time.\n\nRequirements:\n- BA/BS degree in Computer Science, Mathematics or related technical field, or equivalent practical experience.\n- Experience with processing software (such as Hadoop, Spark, Pig, Hive) and with processing algorithms (MapReduce, Spark).\n- Experience in writing software in one or more languages such as Java, C++, Python, Go and/or R.\n- Experience working warehouses, including warehouse technical architectures, infrastructure components, ETL/ELT and reporting/analytic tools and environments.\n- Experience architecting, developing software, or internet scale production-grade Big solutions in virtualized environments such as Amazon Web Services, Azure and Google .\n- Experience working with big, information retrieval,  mining or machine learning as well as experience in building multi-tier high availability applications with modern web technologies (such as NoSQL, MongoDB, SparkML, Tensorflow)",
+      "descriptionHtml": "<p>As a  Engineer (), you will guide customers on how to ingest, store, process, analyze and explore/visualize on the Google . You will work on migrations and transformational tasks, and with customers to design large-scale processing systems, develop pipelines optimized for scaling, and troubleshoot potential platform issues.</p>\n\n<p>In this role, you are the engineer working with our most strategic Google  customers. Together with the team, you will support customer implementation of Google  products through: architecture guidance, best practices,  migration, capacity planning, implementation, troubleshooting, monitoring and much more.</p>\n\n<p>The Google  team helps customers transform and evolve their business through the use of Google’s global network, web-scale centers and software infrastructure. As part of an entrepreneurial team in this rapidly growing business, you will help shape the future of businesses of all sizes use technology to connect with customers.</p>\n\n<p>Responsibilities:</p>\n\n<ul>\n<li>Act as a trusted technical advisor to customers and solve complex Big challenges.</li>\n<li>Create and deliver best practices recommendations, tutorials, blog articles, sample code, and technical presentations adapting to different levels of key business and technical stakeholders.</li>\n<li>Communicate effectively via video conferencing for meetings, technical reviews and onsite delivery activities.</li>\n<li>Travel up to 30% of the time.</li>\n</ul>\n\n<p>Requirements:</p>\n\n<ul>\n<li>BA/BS degree in Computer Science, Mathematics or related technical field, or equivalent practical experience.</li>\n<li>Experience with processing software (such as Hadoop, Spark, Pig, Hive) and with processing algorithms (MapReduce, Spark).</li>\n<li>Experience in writing software in one or more languages such as Java, C++, Python, Go and/or R.</li>\n<li>Experience working warehouses, including warehouse technical architectures, infrastructure components, ETL/ELT and reporting/analytic tools and environments.</li>\n<li>Experience architecting, developing software, or internet scale production-grade Big solutions in virtualized environments such as Amazon Web Services, Azure and Google .</li>\n<li>Experience working with big, information retrieval,  mining or machine learning as well as experience in building multi-tier high availability applications with modern web technologies (such as NoSQL, MongoDB, SparkML, Tensorflow)</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "New York City"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Hadoop",
+        "Cloud Computing",
+        "Big Data",
+        "Amazon Elastic MapReduce",
+        "AWS Cloud Services",
+        "Google Cloud Platform",
+        "Apache Spark"
+      ],
+      "payment": {
+        "salary": "$150k – $230k"
+      },
+      "recruiter": {
+        "title": "Global Recruitment Manager",
+        "role": "Founder",
+        "url": "https://angel.co/u/lital-ben-porat",
+        "name": "Lital Ben Porat",
+        "avatar": "https://photos.angel.co/users/3500394-medium_jpg?1472718410"
+      },
+      "refs": {
+        "angelListId": "610499",
+        "angelListUrl": "https://angel.co/company/doitintl/jobs/610499-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Cloud Architect (Data)",
+      "description": "As a  Engineer (), you will guide customers on how to ingest, store, process, analyze and explore/visualize on the Google . You will work on migrations and transformational tasks, and with customers to design large-scale processing systems, develop pipelines optimized for scaling, and troubleshoot potential platform issues.\n\nIn this role, you are the engineer working with our most strategic Google  customers. Together with the team, you will support customer implementation of Google  products through: architecture guidance, best practices,  migration, capacity planning, implementation, troubleshooting, monitoring and much more.\n\nThe Google  team helps customers transform and evolve their business through the use of Google’s global network, web-scale centers and software infrastructure. As part of an entrepreneurial team in this rapidly growing business, you will help shape the future of businesses of all sizes use technology to connect with customers.\n\nResponsibilities:\n- Act as a trusted technical advisor to customers and solve complex Big challenges.\n- Create and deliver best practices recommendations, tutorials, blog articles, sample code, and technical presentations adapting to different levels of key business and technical stakeholders.\n- Communicate effectively via video conferencing for meetings, technical reviews and onsite delivery activities.\n\nRequirements:\n- BA/BS degree in Computer Science, Mathematics or related technical field, or equivalent practical experience.\n- Experience with processing software (such as Hadoop, Spark, Pig, Hive) and with processing algorithms (MapReduce, Spark).\n- Experience in writing software in one or more languages such as Java, C++, Python, Go and/or R.\n- Experience working warehouses, including warehouse technical architectures, infrastructure components, ETL/ELT and reporting/analytic tools and environments.\n- Experience architecting, developing software, or internet scale production-grade Big solutions in virtualized environments such as Amazon Web Services, Azure and Google .\n- Experience working with big, information retrieval,  mining or machine learning as well as experience in building multi-tier high availability applications with modern web technologies (such as NoSQL, MongoDB, SparkML, Tensorflow)",
+      "descriptionHtml": "<p>As a  Engineer (), you will guide customers on how to ingest, store, process, analyze and explore/visualize on the Google . You will work on migrations and transformational tasks, and with customers to design large-scale processing systems, develop pipelines optimized for scaling, and troubleshoot potential platform issues.</p>\n\n<p>In this role, you are the engineer working with our most strategic Google  customers. Together with the team, you will support customer implementation of Google  products through: architecture guidance, best practices,  migration, capacity planning, implementation, troubleshooting, monitoring and much more.</p>\n\n<p>The Google  team helps customers transform and evolve their business through the use of Google’s global network, web-scale centers and software infrastructure. As part of an entrepreneurial team in this rapidly growing business, you will help shape the future of businesses of all sizes use technology to connect with customers.</p>\n\n<p>Responsibilities:</p>\n\n<ul>\n<li>Act as a trusted technical advisor to customers and solve complex Big challenges.</li>\n<li>Create and deliver best practices recommendations, tutorials, blog articles, sample code, and technical presentations adapting to different levels of key business and technical stakeholders.</li>\n<li>Communicate effectively via video conferencing for meetings, technical reviews and onsite delivery activities.</li>\n</ul>\n\n<p>Requirements:</p>\n\n<ul>\n<li>BA/BS degree in Computer Science, Mathematics or related technical field, or equivalent practical experience.</li>\n<li>Experience with processing software (such as Hadoop, Spark, Pig, Hive) and with processing algorithms (MapReduce, Spark).</li>\n<li>Experience in writing software in one or more languages such as Java, C++, Python, Go and/or R.</li>\n<li>Experience working warehouses, including warehouse technical architectures, infrastructure components, ETL/ELT and reporting/analytic tools and environments.</li>\n<li>Experience architecting, developing software, or internet scale production-grade Big solutions in virtualized environments such as Amazon Web Services, Azure and Google .</li>\n<li>Experience working with big, information retrieval,  mining or machine learning as well as experience in building multi-tier high availability applications with modern web technologies (such as NoSQL, MongoDB, SparkML, Tensorflow)</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "Santa Clara"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Hadoop",
+        "Cloud Computing",
+        "Big Data",
+        "DevOps",
+        "Amazon Elastic MapReduce",
+        "Reliability",
+        "AWS Cloud Services",
+        "Google Cloud Platform",
+        "Apache Spark"
+      ],
+      "payment": {
+        "salary": "$150k – $230k"
+      },
+      "recruiter": {
+        "title": "Global Recruitment Manager",
+        "role": "Founder",
+        "url": "https://angel.co/u/lital-ben-porat",
+        "name": "Lital Ben Porat",
+        "avatar": "https://photos.angel.co/users/3500394-medium_jpg?1472718410"
+      },
+      "refs": {
+        "angelListId": "610500",
+        "angelListUrl": "https://angel.co/company/doitintl/jobs/610500-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Staff Cloud Architect, Berlin",
+      "description": "In Cloud Engineering, we collaborate and connect with customers that love technology as much as we do. Our team interacts with developers and operations specialists across the globe both at 1:1 meetings as well as online, and advocates for Google Cloud and Amazon Web Services. Our focus is on supporting tech companies who build applications and businesses on these platforms. Not afraid to be hands-on, you might write sample code, author client libraries, working with strategic partners to facilitate and organize our developer communities.\r\n\r\nAs a Staff Cloud Architect, you will connect with our clients and speak externally about cutting-edge technologies on conference panels, meetups, and on blogs. Your work will foster a community of developers integrating with Google and AWS technologies and will help drive strategy around Cloud Engineering. You might appear on our YouTube channels, podcasts, training, or support channels to troubleshoot and debug technical problems encountered by our clients. In collaboration with our partner's teams, you will improve products by conveying feedback from developers, reviewing and contributing to API designs, writing production-ready code, and testing new features.\r\n\r\nResponsibilities:\r\n\r\n- Build and manage the local team of Cloud Architects specializing in container orchestration, cyber-security, data and analytics, machine learning.\r\n- Advocate for our clients and influence our strategy by working with product, marketing, and other cross-functional teams.\r\n- Improve and standardize client experience. Educate clients on best practices of effective integration with Google &amp; AWS products.\r\n- Provide 1:1 support for our clients on social and open source software platforms. Help clients design integrations, fix bugs and solve problems at scale.\r\n- Work on the core source code of our products and identify, reproduce, and/or fix issues that are affecting our users\r\n\r\nMinimum qualifications:\r\n- Bachelor’s degree in Computer Science or equivalent practical experience.\r\n- 4 years of experience as a software engineer, developer, or equivalent technical experience.\r\n- Experience in technical consulting or client-facing capacity.\r\n- Experience working with JavaScript, Java, Kotlin, PHP, Python, Ruby, Node.js, Go, .NET, WASM, CSS, HTML, iOS, C++, Mobile Games tech, Android and/or Mobile App development.\r\n- Experience with large group communications and presentations.\r\n- Experience working in a consultant capacity or a track record of helping fellow developers.",
+      "descriptionHtml": "<p>In Cloud Engineering, we collaborate and connect with customers that love technology as much as we do. Our team interacts with developers and operations specialists across the globe both at 1:1 meetings as well as online, and advocates for Google Cloud and Amazon Web Services. Our focus is on supporting tech companies who build applications and businesses on these platforms. Not afraid to be hands-on, you might write sample code, author client libraries, working with strategic partners to facilitate and organize our developer communities.</p>\n\n<p>As a Staff Cloud Architect, you will connect with our clients and speak externally about cutting-edge technologies on conference panels, meetups, and on blogs. Your work will foster a community of developers integrating with Google and AWS technologies and will help drive strategy around Cloud Engineering. You might appear on our YouTube channels, podcasts, training, or support channels to troubleshoot and debug technical problems encountered by our clients. In collaboration with our partner&#39;s teams, you will improve products by conveying feedback from developers, reviewing and contributing to API designs, writing production-ready code, and testing new features.</p>\n\n<p>Responsibilities:</p>\n\n<ul>\n<li>Build and manage the local team of Cloud Architects specializing in container orchestration, cyber-security, data and analytics, machine learning.</li>\n<li>Advocate for our clients and influence our strategy by working with product, marketing, and other cross-functional teams.</li>\n<li>Improve and standardize client experience. Educate clients on best practices of effective integration with Google &amp; AWS products.</li>\n<li>Provide 1:1 support for our clients on social and open source software platforms. Help clients design integrations, fix bugs and solve problems at scale.</li>\n<li>Work on the core source code of our products and identify, reproduce, and/or fix issues that are affecting our users</li>\n</ul>\n\n<p>Minimum qualifications:</p>\n\n<ul>\n<li>Bachelor’s degree in Computer Science or equivalent practical experience.</li>\n<li>4 years of experience as a software engineer, developer, or equivalent technical experience.</li>\n<li>Experience in technical consulting or client-facing capacity.</li>\n<li>Experience working with JavaScript, Java, Kotlin, PHP, Python, Ruby, Node.js, Go, .NET, WASM, CSS, HTML, iOS, C++, Mobile Games tech, Android and/or Mobile App development.</li>\n<li>Experience with large group communications and presentations.</li>\n<li>Experience working in a consultant capacity or a track record of helping fellow developers.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 7,
+      "visaSponsorship": false,
+      "locations": [
+        "Berlin"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Germany"
+      ],
+      "skills": [
+        "Management",
+        "Cloud Computing",
+        "Leadership",
+        "Amazon Web Services",
+        "Google Cloud Platform",
+        "AWS",
+        "GCP"
+      ],
+      "payment": {
+        "salary": "€130k – €200k"
+      },
+      "recruiter": {
+        "title": "Global Recruitment Manager",
+        "role": "Founder",
+        "url": "https://angel.co/u/lital-ben-porat",
+        "name": "Lital Ben Porat",
+        "avatar": "https://photos.angel.co/users/3500394-medium_jpg?1472718410"
+      },
+      "refs": {
+        "angelListId": "751143",
+        "angelListUrl": "https://angel.co/company/doitintl/jobs/751143-"
+      }
+    }
+  ]
+}

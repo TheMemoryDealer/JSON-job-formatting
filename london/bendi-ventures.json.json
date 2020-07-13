@@ -1,0 +1,122 @@
+{
+  "name": "Bendi Ventures",
+  "avatar": "https://photos.angel.co/startups/i/5388163-3420a621b1860bf8ee69dd2f1a4cb42b-medium_jpg.jpg?buster=1541017844",
+  "slogan": "Peer-to-peer experiences marketplace",
+  "description": "The word “Bendi” comes from the pronunciation of the Chinese characters for the word “Local” (本地, Běndì). Bendi aims to become the OpenTable and Airbnb for local live events, activities and experiences. We aim to not only provide a low-cost mobile and online solution for Hosts to manage their experiences, but also a diverse marketplace for Guests to discover fun and unique experiences in whatever city they are in. \n\nThe Bendi app is a mobile-first platform designed to help people (Guests) discover unique peer-to-peer experiences hosted by local people (Hosts) in their city. The mobile app allows verified Hosts to create and manage experiences, set their available dates and determine their own prices (all at zero up front cost). Guests can discover exciting and unique experiences in their city and book them on the app. Bendi enables Hosts to monetise their skills or passions whenever they choose, and Guests can enjoy a truly unique experience. \n",
+  "links": [
+    {
+      "type": "website",
+      "url": ""
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/justinho",
+      "name": "Justin Ho",
+      "avatar": "https://photos.angel.co/users/7561654-medium_jpg?1541365831",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/bendi-ventures\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Bendi Ventures</span></a> "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5388163",
+    "angelListUrl": "https://angel.co/company/bendi-ventures"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "Co-Founder & CTO",
+      "description": "Lead the engineering effort at Bendi Ventures!\nExperience in P2P or B2B2C mobile platforms is desirable.",
+      "descriptionHtml": "<p>Lead the engineering effort at Bendi Ventures!<br>\nExperience in P2P or B2B2C mobile platforms is desirable.</p>\n",
+      "position": "cofounder",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary",
+        "equity": "10.0% – 20.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/justinho",
+        "name": "Justin Ho",
+        "avatar": "https://photos.angel.co/users/7561654-medium_jpg?1541365831"
+      },
+      "refs": {
+        "angelListId": "352747",
+        "angelListUrl": "https://angel.co/company/bendi-ventures/jobs/352747-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Co-Founder & Head of Community & Growth",
+      "description": "At Bendi, we’re on a mission to build an intuitive native mobile app to help\npeople discover fun and unique peer-to-peer local experiences.\n\nAs the Head of Community & Growth, you will lead the growth of our community (Hosts & Guests). Bendi is a new and emerging marketplace and you will be expected to employ different methods of growth hacking, entering into early partnerships and following up on cold leads. \n\nExperience in P2P or B2B2C mobile platforms is desirable.",
+      "descriptionHtml": "<p>At Bendi, we’re on a mission to build an intuitive native mobile app to help<br>\npeople discover fun and unique peer-to-peer local experiences.</p>\n\n<p>As the Head of Community &amp; Growth, you will lead the growth of our community (Hosts &amp; Guests). Bendi is a new and emerging marketplace and you will be expected to employ different methods of growth hacking, entering into early partnerships and following up on cold leads. </p>\n\n<p>Experience in P2P or B2B2C mobile platforms is desirable.</p>\n",
+      "position": "cofounder",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Product Management",
+        "Community Development",
+        "Growth Hacking"
+      ],
+      "payment": {
+        "salary": "No salary",
+        "equity": "10.0% – 20.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/justinho",
+        "name": "Justin Ho",
+        "avatar": "https://photos.angel.co/users/7561654-medium_jpg?1541365831"
+      },
+      "refs": {
+        "angelListId": "372778",
+        "angelListUrl": "https://angel.co/company/bendi-ventures/jobs/372778-"
+      }
+    }
+  ]
+}

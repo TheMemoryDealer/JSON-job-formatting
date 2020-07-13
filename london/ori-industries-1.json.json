@@ -1,0 +1,402 @@
+{
+  "name": "Ori Industries",
+  "avatar": "https://photos.angel.co/startups/i/6240300-347e9725157007ace4f14b131fa8468d-medium_jpg.jpg?buster=1558542168",
+  "slogan": "We’re building the future of cloud infrastructure ",
+  "description": "Our team is laying the foundations for a one-of-a-kind federated cloud that developers will use to build the most innovative applications of the future.\n\nBy empowering network owners to build, distribute and manage their edge computing resources, we’re powering a new generation of cutting-edge deployments for industry verticals like gaming, finance and industrial IoT.\n\n\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://ori.co"
+    },
+    {
+      "type": "blog",
+      "url": "http://medium.com/from-the-edge"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@ori_edge"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/ori-edge/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Telecommunications",
+    "Software",
+    "Cloud Computing"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 4000000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1580774400,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1548806400,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "VP People & Operations",
+      "role": "Founder",
+      "url": "https://angel.co/u/melissa-dore",
+      "name": "Melissa Doré",
+      "avatar": "https://photos.angel.co/users/4797154-medium_jpg?1548197486",
+      "bioHtml": "Operations at Ori Industries, francophone — usually found drowning in turtlenecks and browser tabs."
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/mahdi-yahya",
+      "name": "Mahdi Yahya",
+      "avatar": "https://photos.angel.co/users/6543856-medium_jpg?1497285166",
+      "bioHtml": "Angel investor, &amp; founder of one of the Middle East&#39;s largest telecoms companies. Investment interests: art, design, VR, communications, emerging tech, media."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/therese-stowell",
+      "name": "Therese Stowell",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/jack-hughes-13",
+      "name": "Jack Hughes",
+      "avatar": "https://photos.angel.co/users/11045483-medium_jpg?1587631430",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/claudia-beresford",
+      "name": "Claudia Beresford",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [
+    {
+      "category": "equity",
+      "title": "We value partnership"
+    },
+    {
+      "category": "healthcare",
+      "title": "We care about your health"
+    },
+    {
+      "category": "work_from_home",
+      "title": "Everybody is different"
+    },
+    {
+      "category": "parental_leave",
+      "title": "Family comes first"
+    },
+    {
+      "category": "generous_vacation",
+      "title": "Time to reflect & explore"
+    },
+    {
+      "category": "retirement",
+      "title": "Preparing for your future"
+    },
+    {
+      "category": "miscellaneous",
+      "title": "We know everyone loves shiny new tech"
+    },
+    {
+      "category": "professional_development",
+      "title": "We are readers & gamers"
+    },
+    {
+      "category": "miscellaneous",
+      "title": "Not the stay at home type?"
+    }
+  ],
+  "refs": {
+    "angelListId": "6240300",
+    "angelListUrl": "https://angel.co/company/ori-industries-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Distributed Systems Engineer - Security",
+      "description": "**So, why should you want to work with us?** 🤷‍\r\n\r\n\r\nTo support our remote-first, engineering-led culture, we hold communication in high esteem, and prioritise both diversity and collaboration. Regardless of where you are located in the world, we promise to provide an environment of total freedom that enables you to evolve, thrive and create. \r\n\r\n*We want you to:* \r\n\r\n\r\nSpeak your mind and be controversial.\r\nWork from whenever and wherever.\r\nExperiment and be ambitious. \r\nTake time off. Think and reflect as long as you want. \r\nContinuously learn. Expand your knowledge. \r\nAnd challenge approaches while suggesting better ones.\r\n\r\n**And what does a Distributed Systems Engineer at Ori do, exactly?** 🔍\r\n\r\n\r\nx Ensure software is designed and implemented for quality, robustness and scale\r\nx Support Ori and the rest of the product development team in resolving challenges\r\nx Take ownership and responsibility of production-ready code and security services\r\nx Contribute to and ensure the completion of code development so that product releases reach general availability on time\r\n\r\n**To succeed in this role, we'd want you to have:** ✅\r\n\r\nx The ability to track record solving and an understanding of distributed systems challenges\r\nx Experience with using Open Source technologies in production-ready services within the realm of cloud, PaaS/IaaS, containerization and distributed computing\r\nx Experience designing, building, shipping and maintaining backend distributed systems\r\nx Hands-on experience working with large scale web or cloud architectures \r\nx Continued development experience: writing resilient code, tests and debugging issues\r\nx A strong grasp of secure architectural and programming principles\r\nx Experience with Go or similar languages (Java, C/C++) \r\nx Expertise in automation and orchestration of containers\r\nx Working knowledge with Kubernetes or similar systems (Swarm, Nomad)\r\n\r\n**And if you join, you’d receive all of these benefits** 🙌\r\n\r\nTax-incentive share options in Ori \r\n32 paid holiday days a year, including UK public holidays\r\nAccess to private health insurance and UK CycleScheme\r\nYearly tickets to theatre, cinema &amp; music events \r\nA generous personal budget for tech, learning, books &amp; games\r\n\r\n*Interested? Ping over your CV, Github profile or any other relevant work you want to share.*\r\n\r\nWe believe diversity and inclusion make us a better company, and we embrace equal employment opportunity. We are committed to building a team that represents a variety of backgrounds, opinions and skills.",
+      "descriptionHtml": "<p><strong>So, why should you want to work with us?</strong> 🤷‍</p>\n\n<p>To support our remote-first, engineering-led culture, we hold communication in high esteem, and prioritise both diversity and collaboration. Regardless of where you are located in the world, we promise to provide an environment of total freedom that enables you to evolve, thrive and create. </p>\n\n<p><em>We want you to:</em> </p>\n\n<p>Speak your mind and be controversial.<br>\nWork from whenever and wherever.<br>\nExperiment and be ambitious. <br>\nTake time off. Think and reflect as long as you want. <br>\nContinuously learn. Expand your knowledge. <br>\nAnd challenge approaches while suggesting better ones.</p>\n\n<p><strong>And what does a Distributed Systems Engineer at Ori do, exactly?</strong> 🔍</p>\n\n<p>x Ensure software is designed and implemented for quality, robustness and scale<br>\nx Support Ori and the rest of the product development team in resolving challenges<br>\nx Take ownership and responsibility of production-ready code and security services<br>\nx Contribute to and ensure the completion of code development so that product releases reach general availability on time</p>\n\n<p><strong>To succeed in this role, we&#39;d want you to have:</strong> ✅</p>\n\n<p>x The ability to track record solving and an understanding of distributed systems challenges<br>\nx Experience with using Open Source technologies in production-ready services within the realm of cloud, PaaS/IaaS, containerization and distributed computing<br>\nx Experience designing, building, shipping and maintaining backend distributed systems<br>\nx Hands-on experience working with large scale web or cloud architectures <br>\nx Continued development experience: writing resilient code, tests and debugging issues<br>\nx A strong grasp of secure architectural and programming principles<br>\nx Experience with Go or similar languages (Java, C/C++) <br>\nx Expertise in automation and orchestration of containers<br>\nx Working knowledge with Kubernetes or similar systems (Swarm, Nomad)</p>\n\n<p><strong>And if you join, you’d receive all of these benefits</strong> 🙌</p>\n\n<p>Tax-incentive share options in Ori <br>\n32 paid holiday days a year, including UK public holidays<br>\nAccess to private health insurance and UK CycleScheme<br>\nYearly tickets to theatre, cinema &amp; music events <br>\nA generous personal budget for tech, learning, books &amp; games</p>\n\n<p><em>Interested? Ping over your CV, Github profile or any other relevant work you want to share.</em></p>\n\n<p>We believe diversity and inclusion make us a better company, and we embrace equal employment opportunity. We are committed to building a team that represents a variety of backgrounds, opinions and skills.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe",
+        "North America"
+      ],
+      "skills": [
+        "Networking",
+        "Cloud Computing",
+        "Distributed Systems",
+        "Virtualization",
+        "Go (Golang)",
+        "Kubernetes"
+      ],
+      "payment": {
+        "salary": "£55k – £75k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": "VP People & Operations",
+        "role": "Founder",
+        "url": "https://angel.co/u/melissa-dore",
+        "name": "Melissa Doré",
+        "avatar": "https://photos.angel.co/users/4797154-medium_jpg?1548197486"
+      },
+      "refs": {
+        "angelListId": "638104",
+        "angelListUrl": "https://angel.co/company/ori-industries-1/jobs/638104-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Head of Marketing",
+      "description": "**So, why should you want to work with us?** 🤷‍\r\n\r\nTo support our remote-first, engineering-led culture, we hold communication in high esteem, and prioritise both diversity and collaboration. Regardless of where you are located in the world, we promise to provide an environment of total freedom that enables you to evolve, thrive and create. \r\n\r\n*We want you to:* \r\n\r\nSpeak your mind and be controversial.\r\nWork from whenever and wherever.\r\nExperiment and be ambitious. \r\nTake time off. Think and reflect as long as you want. \r\nContinuously learn. Expand your knowledge. \r\nAnd challenge approaches while suggesting better ones.\r\n\r\n**And what does a Marketing Lead at Ori do, exactly?** 🔍\r\n\r\nThis role demands a driven and strategic individual who excels at adapting, and thrives on new challenges. You will be responsible for designing, developing and deploying marketing and communications initiatives to drive brand reach, stakeholder engagement and customer acquisition.\r\n\r\nx Developing and executing a clear digital strategy \r\nx Creating a solid network of strategic partnerships while building and managing external relationships with network and developer groups\r\nx Identifying, designing and coordinating campaigns around key industry opportunities\r\nx Managing our marketing budget and staying ahead of growth hacker trends\r\nx Running cross-channel digital campaigns and creating content for multiple platforms\r\nx Managing CRM, communications and customer engagement techniques\r\nx Defining, testing, tracking and evaluating engagement initiatives with reporting insights \r\n\r\n**To succeed in this role, we'd want you to have:** ✅\r\n\r\nx Strong knowledge of the telecommunications industry, the cloud computing space and developer ecosystems \r\nx Creative and analytical capabilities\r\nx Experience in market research and data analysis methods\r\nx Outstanding communication skills and interpersonal abilities\r\nx Excited to travel and able to work independently and autonomously\r\nx True grit\r\n\r\n**And if you join, you’d receive all of these benefits** 🙌\r\n\r\nTax-incentive share options in Ori\r\n32 paid holiday days a year, including UK public holidays\r\nAccess to private health insurance and UK CycleScheme\r\nYearly tickets to theatre, cinema &amp; music events\r\nA generous personal budget for tech, learning, books &amp; games\r\n\r\n*Send CVs and references to careers@ori.co.*\r\n\r\nWe believe diversity and inclusion make us a better company, and we embrace equal employment opportunity. We are committed to building a team that represents a variety of backgrounds, opinions and skills.",
+      "descriptionHtml": "<p><strong>So, why should you want to work with us?</strong> 🤷‍</p>\n\n<p>To support our remote-first, engineering-led culture, we hold communication in high esteem, and prioritise both diversity and collaboration. Regardless of where you are located in the world, we promise to provide an environment of total freedom that enables you to evolve, thrive and create. </p>\n\n<p><em>We want you to:</em> </p>\n\n<p>Speak your mind and be controversial.<br>\nWork from whenever and wherever.<br>\nExperiment and be ambitious. <br>\nTake time off. Think and reflect as long as you want. <br>\nContinuously learn. Expand your knowledge. <br>\nAnd challenge approaches while suggesting better ones.</p>\n\n<p><strong>And what does a Marketing Lead at Ori do, exactly?</strong> 🔍</p>\n\n<p>This role demands a driven and strategic individual who excels at adapting, and thrives on new challenges. You will be responsible for designing, developing and deploying marketing and communications initiatives to drive brand reach, stakeholder engagement and customer acquisition.</p>\n\n<p>x Developing and executing a clear digital strategy <br>\nx Creating a solid network of strategic partnerships while building and managing external relationships with network and developer groups<br>\nx Identifying, designing and coordinating campaigns around key industry opportunities<br>\nx Managing our marketing budget and staying ahead of growth hacker trends<br>\nx Running cross-channel digital campaigns and creating content for multiple platforms<br>\nx Managing CRM, communications and customer engagement techniques<br>\nx Defining, testing, tracking and evaluating engagement initiatives with reporting insights </p>\n\n<p><strong>To succeed in this role, we&#39;d want you to have:</strong> ✅</p>\n\n<p>x Strong knowledge of the telecommunications industry, the cloud computing space and developer ecosystems <br>\nx Creative and analytical capabilities<br>\nx Experience in market research and data analysis methods<br>\nx Outstanding communication skills and interpersonal abilities<br>\nx Excited to travel and able to work independently and autonomously<br>\nx True grit</p>\n\n<p><strong>And if you join, you’d receive all of these benefits</strong> 🙌</p>\n\n<p>Tax-incentive share options in Ori<br>\n32 paid holiday days a year, including UK public holidays<br>\nAccess to private health insurance and UK CycleScheme<br>\nYearly tickets to theatre, cinema &amp; music events<br>\nA generous personal budget for tech, learning, books &amp; games</p>\n\n<p><em>Send CVs and references to <a href=\"mailto:careers@ori.co\" target=\"_blank\" rel=\"nofollow\">careers@ori.co</a>.</em></p>\n\n<p>We believe diversity and inclusion make us a better company, and we embrace equal employment opportunity. We are committed to building a team that represents a variety of backgrounds, opinions and skills.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Communications",
+        "Strategic Planning",
+        "Market Research",
+        "Digital Marketing",
+        "Marketing Communications",
+        "Marketing Management"
+      ],
+      "payment": {
+        "salary": "£45k – £55k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": "VP People & Operations",
+        "role": "Founder",
+        "url": "https://angel.co/u/melissa-dore",
+        "name": "Melissa Doré",
+        "avatar": "https://photos.angel.co/users/4797154-medium_jpg?1548197486"
+      },
+      "refs": {
+        "angelListId": "530021",
+        "angelListUrl": "https://angel.co/company/ori-industries-1/jobs/530021-"
+      }
+    },
+    {
+      "role": "Designer",
+      "title": "Product Designer",
+      "description": "We’re building the next generation of cloud. Immersive online experiences, self driving cars, remote surgery… that’s what we’re enabling with our edge cloud platform. Want to help shape that future? \r\n\r\nWe’re looking for an experienced product designer who has worked in a hands on design role delivering modern software into production. You’ll work with your team and across teams to drive a deep understanding of the customer, deliver great user experiences, and design processes and frameworks to enable learning and co-creation. \r\nYou have deep empathy for users and a passion for uncovering and solving their problems. You are a systems thinker who can untangle chaos and lead teams through that process. You are comfortable learning new technologies and are excited about leveraging technology to help customers. \r\n\r\n**Our Promises**\r\n\r\n• We are strong advocates for design. We’re there to support you, whether it’s tackling complex customer discovery, learning new technologies, developing new skills, leading teams through a new process. \r\n• We’re committed to kindness, collaboration, transparency. \r\n• We’re continuously learning and improving. Bring your ideas, ambitions, experiments. \r\n\r\n**Your Responsibilities**\r\n\r\n* Research, collate and synthesize user needs to help conceive, define, test and evolve solutions\r\n* Design compelling, valuable user experiences at all stages of the customer journey, from learning about the product to onboarding to advanced usage\r\n* Create both internal and customer facing prototypes for communication and feedback\r\n* Help to validate and refine product direction from micro (user stories and usability) to macro (roadmap and strategy) by gathering feedback from users\r\n* Develop new frameworks, design practices and methods for tackling challenges to accelerate delivery\r\n* Work collaboratively with engineering, marketing, and product management to drive strategic product outcomes \r\n* Bring a systems-thinking lens to the conversation\r\n* Conduct and be familiar with a variety of generative and evaluative research methods\r\n* Finds creative ways to continuously learn from customers \r\n* Help identify new opportunities to solve valuable customer problems\r\n* Craft user-centered artifacts to align teams around the broader user experience\r\n* Advocate, mentor, and educate on the benefits of design thinking to product teams and new designers alike\r\n* Design and facilitate co-creation design workshops\r\n* Execute clean UI designs in close collaboration with developers\r\n\r\n**What we expect**\r\n\r\n* Human centered approach to product and service design, from research and insight generation to concept to deliverable\r\n* A portfolio that shows you've worked on challenging projects across all steps of the design process: research, prototyping, service design and UX best practices.\r\n* Ability to iterate quickly and refine while prioritising tasks\r\n* Experience in user research, ability to analyse data &amp; validate before designing solutions\r\n* Exceptional communication skills and the ability to clearly explain design concepts  \r\n* Strong understanding of responsive design and a strong grasp of digital trends\r\n\r\n*We believe diversity and inclusion make us a better company, and we embrace equal employment opportunity. We are committed to building a team that represents a variety of backgrounds, opinions and skills.*",
+      "descriptionHtml": "<p>We’re building the next generation of cloud. Immersive online experiences, self driving cars, remote surgery… that’s what we’re enabling with our edge cloud platform. Want to help shape that future? </p>\n\n<p>We’re looking for an experienced product designer who has worked in a hands on design role delivering modern software into production. You’ll work with your team and across teams to drive a deep understanding of the customer, deliver great user experiences, and design processes and frameworks to enable learning and co-creation. <br>\nYou have deep empathy for users and a passion for uncovering and solving their problems. You are a systems thinker who can untangle chaos and lead teams through that process. You are comfortable learning new technologies and are excited about leveraging technology to help customers. </p>\n\n<p><strong>Our Promises</strong></p>\n\n<p>• We are strong advocates for design. We’re there to support you, whether it’s tackling complex customer discovery, learning new technologies, developing new skills, leading teams through a new process. <br>\n• We’re committed to kindness, collaboration, transparency. <br>\n• We’re continuously learning and improving. Bring your ideas, ambitions, experiments. </p>\n\n<p><strong>Your Responsibilities</strong></p>\n\n<ul>\n<li>Research, collate and synthesize user needs to help conceive, define, test and evolve solutions</li>\n<li>Design compelling, valuable user experiences at all stages of the customer journey, from learning about the product to onboarding to advanced usage</li>\n<li>Create both internal and customer facing prototypes for communication and feedback</li>\n<li>Help to validate and refine product direction from micro (user stories and usability) to macro (roadmap and strategy) by gathering feedback from users</li>\n<li>Develop new frameworks, design practices and methods for tackling challenges to accelerate delivery</li>\n<li>Work collaboratively with engineering, marketing, and product management to drive strategic product outcomes </li>\n<li>Bring a systems-thinking lens to the conversation</li>\n<li>Conduct and be familiar with a variety of generative and evaluative research methods</li>\n<li>Finds creative ways to continuously learn from customers </li>\n<li>Help identify new opportunities to solve valuable customer problems</li>\n<li>Craft user-centered artifacts to align teams around the broader user experience</li>\n<li>Advocate, mentor, and educate on the benefits of design thinking to product teams and new designers alike</li>\n<li>Design and facilitate co-creation design workshops</li>\n<li>Execute clean UI designs in close collaboration with developers</li>\n</ul>\n\n<p><strong>What we expect</strong></p>\n\n<ul>\n<li>Human centered approach to product and service design, from research and insight generation to concept to deliverable</li>\n<li>A portfolio that shows you&#39;ve worked on challenging projects across all steps of the design process: research, prototyping, service design and UX best practices.</li>\n<li>Ability to iterate quickly and refine while prioritising tasks</li>\n<li>Experience in user research, ability to analyse data &amp; validate before designing solutions</li>\n<li>Exceptional communication skills and the ability to clearly explain design concepts<br></li>\n<li>Strong understanding of responsive design and a strong grasp of digital trends</li>\n</ul>\n\n<p><em>We believe diversity and inclusion make us a better company, and we embrace equal employment opportunity. We are committed to building a team that represents a variety of backgrounds, opinions and skills.</em></p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£50k – £70k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": "Operations ",
+        "role": "Employee",
+        "url": "https://angel.co/u/nicholas-sopuch-1",
+        "name": "Nicholas Sopuch",
+        "avatar": "https://photos.angel.co/users/10853760-medium_jpg?1583752186"
+      },
+      "refs": {
+        "angelListId": "811033",
+        "angelListUrl": "https://angel.co/company/ori-industries-1/jobs/811033-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Senior Product Manager",
+      "description": "We’re building the next generation of cloud. Immersive online experiences, self driving cars, remote surgery… that’s what we’re enabling with our edge cloud platform. Want to help shape that future? \r\n\r\nWe’re looking for an experienced lean/agile practitioner who has worked in a hands on product role delivering modern software into production. You enjoy helping your team make progress in the face of hard problems and ambiguity. You are thrilled when your team’s software delights your customer and you have a gift for doing so. You are comfortable learning new technologies and are excited about finding opportunities in emerging markets. \r\n\r\n**Our Promises**\r\n\r\n• We know this job is hard. We’re there to support you, whether it’s learning new technologies, making decisions with imperfect information, developing new skills, working through knotty problems. \r\n• We’re committed to kindness, collaboration, transparency. \r\n• We’re continuously learning and improving. Bring your ideas, ambitions, experiments. \r\n \r\n**Responsibilities**\r\n\r\n• Driving positive, measurable customer and business outcomes \r\n• Collaboratively defining and driving product strategy, vision and roadmap \r\n• Keeping your understanding of the edge cloud ecosystem, markets, and competition current\r\n• Working within a balanced team to drive product definition, design and prototyping process to discover customer problems and create valuable, desirable and feasible solutions\r\n• Defining experiments, measuring success metrics and using data to inform decisions\r\n• Helping innovate and iterate on agile PM processes \r\n• Collaboratively defining and prioritizing a backlog for your product that continuously delivers measurable value towards the vision\r\n• Actively engaging customers and partners to inform product direction and to evangelize the product\r\n• Working at a team level with engineers and designers in figuring out what to work on next, and writing and accepting user stories\r\n• Bringing clarity where there is uncertainty, managing risk and continuously delivering value\r\n\r\n**Requirements**\r\n\r\n• Domain expert in product management with a strong background delivering excellent user experiences\r\n• Firm grasp of agile development, rapid prototyping and lean UX methodologies\r\n• Track record as a Product Manager/Product Owner and working with Agile/Lean methodologies\r\n• Excellent problem solving, prioritisation and communication skills\r\n• Understanding how technological components come together\r\n• Successful application of a rapid, iterative, experimental approach to product development\r\n• Commercial acumen; data-driven decision-maker\r\n• Proven experience delivering large scale cloud-based services and deployments\r\n• Excellent communication skills, pragmatic, comfortable liaising across teams\r\n• Advanced organisation, planning and prioritisation skills\r\n\r\n*We believe diversity and inclusion make us a better company, and we embrace equal employment opportunity. We are committed to building a team that represents a variety of backgrounds, opinions and skills.*",
+      "descriptionHtml": "<p>We’re building the next generation of cloud. Immersive online experiences, self driving cars, remote surgery… that’s what we’re enabling with our edge cloud platform. Want to help shape that future? </p>\n\n<p>We’re looking for an experienced lean/agile practitioner who has worked in a hands on product role delivering modern software into production. You enjoy helping your team make progress in the face of hard problems and ambiguity. You are thrilled when your team’s software delights your customer and you have a gift for doing so. You are comfortable learning new technologies and are excited about finding opportunities in emerging markets. </p>\n\n<p><strong>Our Promises</strong></p>\n\n<p>• We know this job is hard. We’re there to support you, whether it’s learning new technologies, making decisions with imperfect information, developing new skills, working through knotty problems. <br>\n• We’re committed to kindness, collaboration, transparency. <br>\n• We’re continuously learning and improving. Bring your ideas, ambitions, experiments. </p>\n\n<p><strong>Responsibilities</strong></p>\n\n<p>• Driving positive, measurable customer and business outcomes <br>\n• Collaboratively defining and driving product strategy, vision and roadmap <br>\n• Keeping your understanding of the edge cloud ecosystem, markets, and competition current<br>\n• Working within a balanced team to drive product definition, design and prototyping process to discover customer problems and create valuable, desirable and feasible solutions<br>\n• Defining experiments, measuring success metrics and using data to inform decisions<br>\n• Helping innovate and iterate on agile PM processes <br>\n• Collaboratively defining and prioritizing a backlog for your product that continuously delivers measurable value towards the vision<br>\n• Actively engaging customers and partners to inform product direction and to evangelize the product<br>\n• Working at a team level with engineers and designers in figuring out what to work on next, and writing and accepting user stories<br>\n• Bringing clarity where there is uncertainty, managing risk and continuously delivering value</p>\n\n<p><strong>Requirements</strong></p>\n\n<p>• Domain expert in product management with a strong background delivering excellent user experiences<br>\n• Firm grasp of agile development, rapid prototyping and lean UX methodologies<br>\n• Track record as a Product Manager/Product Owner and working with Agile/Lean methodologies<br>\n• Excellent problem solving, prioritisation and communication skills<br>\n• Understanding how technological components come together<br>\n• Successful application of a rapid, iterative, experimental approach to product development<br>\n• Commercial acumen; data-driven decision-maker<br>\n• Proven experience delivering large scale cloud-based services and deployments<br>\n• Excellent communication skills, pragmatic, comfortable liaising across teams<br>\n• Advanced organisation, planning and prioritisation skills</p>\n\n<p><em>We believe diversity and inclusion make us a better company, and we embrace equal employment opportunity. We are committed to building a team that represents a variety of backgrounds, opinions and skills.</em></p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£75k – £85k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": "Operations ",
+        "role": "Employee",
+        "url": "https://angel.co/u/nicholas-sopuch-1",
+        "name": "Nicholas Sopuch",
+        "avatar": "https://photos.angel.co/users/10853760-medium_jpg?1583752186"
+      },
+      "refs": {
+        "angelListId": "804554",
+        "angelListUrl": "https://angel.co/company/ori-industries-1/jobs/804554-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Site-Reliability Engineer (SRE)",
+      "description": "**Hey there, we’re Ori Industries!** 👋 \r\n\r\nAt Ori, we’re building the future of cloud infrastructure, called the Ori Global Edge (OGE). \r\n\r\nOur team is laying the foundations for the next-generation cloud that developers will use to build the most innovative applications of the future. \r\nWe empower network owners to build, distribute and manage their edge computing resources and create the tools for a new generation of cutting-edge deployments for industry verticals like gaming, finance and industrial IoT.\r\n\r\n**Day-to-day, an Ori Site-Reliability Engineer will:**\r\n\r\n- Use diverse set of infrastructure (Public Cloud, Private/on-prem Cloud and baremetal) to build a highly-distributed and scalable platform and confidently provision the resources using infrastructure-as-code technology, such as Terraform\r\n- Use Cloud Native technology, such as Kubernetes and Prometheus, to provision, manage and monitor our internal infrastructure, networks and applications\r\n- Confidently work, manage and diagnose issues with Kubernetes at all levels (Network, Infrastructure, Operational)\r\n- Understanding of Unix/Linux operating systems internals and administration\r\n- Build software and automation to reduce toil, improve stability and increase scalability of OGE, in languages such as Go and Python\r\n- Build observability systems, alerts and playbooks to allow streamlined access to current system stability and execution on current issues\r\n- Build upon a solid understanding of networking (VLANs, BGP, TCP/IP, Firewalls/policy)\r\n- Understand and build upon security considerations from the edge to the cloud and how they contribute to the stability of our platform\r\n- Contribute to open-source environments\r\n\r\n**You should apply if:**\r\n\r\n- You think the work we’re doing is exciting!\r\n- You’re familiar with some of the technologies noted above\r\n- You want to help build, scale and operate the next generation of cloud, supporting a product that will power the next generation of technology\r\n- You’re keen to learn more about new technologies and the inner workings of the infrastructure and networks our technological world is built on\r\n- You’re comfortable working in a team and being collaborative across teams\r\n- You're happy to explain to your colleagues the finer details of your work\r\n- You're happy to coach/mentor more junior colleagues as you gain confidence in skills and technologies\r\n-You want to be part of a team which strives for open communication, kindness and empathy\r\n\r\n**Where we work:**\r\n\r\nWe are a remote-first organisation and support working from any location. However, we do have a London office based in Bermondsey, if you would prefer to work from our office location. We will support where possible if you are relocating, and offer visa sponsorship for certain positions. \r\n\r\n**Interview Process:**\r\n\r\nPhone Interview (~30 mins)\r\n\r\nEngineering Interview (~1-2 hours)\r\n\r\nLeadership Interview: Chat with a member of the engineering leadership team (30-60 mins)\r\n\r\n**Also if you join, you’d receive all of these benefits** 🙌\r\n\r\n- A competitive salary ranging from £45,000 to £120,000 per year (depending on experience)\r\n \t\r\n- Tax-incentive share options in Ori \r\n \t\r\n- 32 paid holiday days a year, including UK public holidays\r\n \t\r\n- Access to private health insurance and CycleScheme (UK residents only)\r\n \t\r\n- Yearly tickets to theatre, cinema &amp; music events \r\n \t\r\n- A generous personal budget for tech, learning, cultural activities, books &amp; games\r\n\r\nInterested? Ping over your CV, Github profile or any other relevant work you want to share.\r\n\r\nWe believe diversity and inclusion make us a better company, and we embrace equal employment opportunity. We are committed to building a team that represents a variety of backgrounds, opinions and skills.",
+      "descriptionHtml": "<p><strong>Hey there, we’re Ori Industries!</strong> 👋 </p>\n\n<p>At Ori, we’re building the future of cloud infrastructure, called the Ori Global Edge (OGE). </p>\n\n<p>Our team is laying the foundations for the next-generation cloud that developers will use to build the most innovative applications of the future. <br>\nWe empower network owners to build, distribute and manage their edge computing resources and create the tools for a new generation of cutting-edge deployments for industry verticals like gaming, finance and industrial IoT.</p>\n\n<p><strong>Day-to-day, an Ori Site-Reliability Engineer will:</strong></p>\n\n<ul>\n<li>Use diverse set of infrastructure (Public Cloud, Private/on-prem Cloud and baremetal) to build a highly-distributed and scalable platform and confidently provision the resources using infrastructure-as-code technology, such as Terraform</li>\n<li>Use Cloud Native technology, such as Kubernetes and Prometheus, to provision, manage and monitor our internal infrastructure, networks and applications</li>\n<li>Confidently work, manage and diagnose issues with Kubernetes at all levels (Network, Infrastructure, Operational)</li>\n<li>Understanding of Unix/Linux operating systems internals and administration</li>\n<li>Build software and automation to reduce toil, improve stability and increase scalability of OGE, in languages such as Go and Python</li>\n<li>Build observability systems, alerts and playbooks to allow streamlined access to current system stability and execution on current issues</li>\n<li>Build upon a solid understanding of networking (VLANs, BGP, TCP/IP, Firewalls/policy)</li>\n<li>Understand and build upon security considerations from the edge to the cloud and how they contribute to the stability of our platform</li>\n<li>Contribute to open-source environments</li>\n</ul>\n\n<p><strong>You should apply if:</strong></p>\n\n<ul>\n<li>You think the work we’re doing is exciting!</li>\n<li>You’re familiar with some of the technologies noted above</li>\n<li>You want to help build, scale and operate the next generation of cloud, supporting a product that will power the next generation of technology</li>\n<li>You’re keen to learn more about new technologies and the inner workings of the infrastructure and networks our technological world is built on</li>\n<li>You’re comfortable working in a team and being collaborative across teams</li>\n<li>You&#39;re happy to explain to your colleagues the finer details of your work</li>\n<li>You&#39;re happy to coach/mentor more junior colleagues as you gain confidence in skills and technologies\n-You want to be part of a team which strives for open communication, kindness and empathy</li>\n</ul>\n\n<p><strong>Where we work:</strong></p>\n\n<p>We are a remote-first organisation and support working from any location. However, we do have a London office based in Bermondsey, if you would prefer to work from our office location. We will support where possible if you are relocating, and offer visa sponsorship for certain positions. </p>\n\n<p><strong>Interview Process:</strong></p>\n\n<p>Phone Interview (~30 mins)</p>\n\n<p>Engineering Interview (~1-2 hours)</p>\n\n<p>Leadership Interview: Chat with a member of the engineering leadership team (30-60 mins)</p>\n\n<p><strong>Also if you join, you’d receive all of these benefits</strong> 🙌</p>\n\n<ul>\n<li><p>A competitive salary ranging from £45,000 to £120,000 per year (depending on experience)</p></li>\n<li><p>Tax-incentive share options in Ori </p></li>\n<li><p>32 paid holiday days a year, including UK public holidays</p></li>\n<li><p>Access to private health insurance and CycleScheme (UK residents only)</p></li>\n<li><p>Yearly tickets to theatre, cinema &amp; music events </p></li>\n<li><p>A generous personal budget for tech, learning, cultural activities, books &amp; games</p></li>\n</ul>\n\n<p>Interested? Ping over your CV, Github profile or any other relevant work you want to share.</p>\n\n<p>We believe diversity and inclusion make us a better company, and we embrace equal employment opportunity. We are committed to building a team that represents a variety of backgrounds, opinions and skills.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe"
+      ],
+      "skills": [
+        "Cloud Computing",
+        "Virtualization",
+        "Puppet",
+        "Chef",
+        "Ansible",
+        "Go (Golang)",
+        "Terraform",
+        "Infrastructure as code"
+      ],
+      "payment": {
+        "salary": "0.1% – 0.5%",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": "VP People & Operations",
+        "role": "Founder",
+        "url": "https://angel.co/u/melissa-dore",
+        "name": "Melissa Doré",
+        "avatar": "https://photos.angel.co/users/4797154-medium_jpg?1548197486"
+      },
+      "refs": {
+        "angelListId": "626693",
+        "angelListUrl": "https://angel.co/company/ori-industries-1/jobs/626693-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer (all levels)",
+      "description": "**Hey there, we’re Ori Industries!** 👋 \r\n\r\nAt Ori, we’re building the future of cloud infrastructure. Our team is laying the foundations for the next-generation cloud that developers will use to build the most innovative applications of the future.\r\n\r\nWe empower network owners to build, distribute and manage their edge computing resources and create the tools for a new generation of cutting-edge deployments for industry verticals like gaming, finance and industrial IoT.\r\n\r\n**Day-to-day, an Ori Software Engineer will:**\r\n\r\nx Code predominantly in Go (therefore experience with Go, or a similar language, is a must)\r\nx Develop and use Cloud and baremetal infrastructure\r\nx Build upon a solid understanding of Kubernetes as a container orchestrator\r\nx Confidently work with Kubernetes at all levels (App developer, Operator, internal developer, etc)\r\nx Develop on and within Kubernetes (using Controllers, CRDs, etc.)\r\nx Build on experience of Cloud Native technologies (such as Prometheus)\r\nx  Comfortably contribute to open-source environments\r\n\r\n**You should apply if:**\r\n\r\nx You think the work we’re doing is exciting!\r\nx You’re familiar with some of the technologies noted above\r\nx You want to help build, scale and operate the next generation of cloud,  supporting a product that will power the next generation of technology\r\nx You’re keen to learn more about new technologies and the inner workings of the infrastructure and networks our technological world is built on\r\nx You’re comfortable working in a team and being collaborative across teams\r\nx You are happy to explain to your colleagues the finer details of your work\r\nx You are happy to coach/mentor more junior colleagues as you gain confidence in skills and technologies\r\nx You want to be part of a team which strives for open communication, kindness and empathy\r\n\r\n**Where we work:**\r\n\r\nWe are a remote-first organisation and support working from any location. However, we do have a London office, based in Bermondsey, if you would prefer to work from our office location. We will support where possible if you are relocating, and offer visa sponsorship for certain positions. \r\n\r\n**Interview Process:**\r\n\r\nx Phone Interview (~30 mins)\r\nx Coding Task (3-6 Hours) \r\nx Engineering Interview around Task and Design Questions (~1 hour)\r\nx Leadership Interview: Chat with a member of the engineering leadership team (30-60 mins)\r\n\r\n**Also if you join, you’d receive all of these benefits** 🙌\r\n\r\nx A competitive salary ranging from £45,000 to £100,000 per year (depending on experience)\r\nx Tax-incentive share options in Ori \r\nx 32 paid holiday days a year, including UK public holidays\r\nx Access to private health insurance and CycleScheme (UK residents only)\r\nx Yearly tickets to theatre, cinema &amp; music events \r\nx A generous personal budget for tech, learning, cultural activities, books &amp; games\r\n\r\n**Interested? Ping over your CV, Github profile or any other relevant work you want to share.**\r\n\r\nWe believe diversity and inclusion make us a better company, and we embrace equal employment opportunity. We are committed to building a team that represents a variety of backgrounds, opinions and skills.",
+      "descriptionHtml": "<p><strong>Hey there, we’re Ori Industries!</strong> 👋 </p>\n\n<p>At Ori, we’re building the future of cloud infrastructure. Our team is laying the foundations for the next-generation cloud that developers will use to build the most innovative applications of the future.</p>\n\n<p>We empower network owners to build, distribute and manage their edge computing resources and create the tools for a new generation of cutting-edge deployments for industry verticals like gaming, finance and industrial IoT.</p>\n\n<p><strong>Day-to-day, an Ori Software Engineer will:</strong></p>\n\n<p>x Code predominantly in Go (therefore experience with Go, or a similar language, is a must)<br>\nx Develop and use Cloud and baremetal infrastructure<br>\nx Build upon a solid understanding of Kubernetes as a container orchestrator<br>\nx Confidently work with Kubernetes at all levels (App developer, Operator, internal developer, etc)<br>\nx Develop on and within Kubernetes (using Controllers, CRDs, etc.)<br>\nx Build on experience of Cloud Native technologies (such as Prometheus)<br>\nx  Comfortably contribute to open-source environments</p>\n\n<p><strong>You should apply if:</strong></p>\n\n<p>x You think the work we’re doing is exciting!<br>\nx You’re familiar with some of the technologies noted above<br>\nx You want to help build, scale and operate the next generation of cloud,  supporting a product that will power the next generation of technology<br>\nx You’re keen to learn more about new technologies and the inner workings of the infrastructure and networks our technological world is built on<br>\nx You’re comfortable working in a team and being collaborative across teams<br>\nx You are happy to explain to your colleagues the finer details of your work<br>\nx You are happy to coach/mentor more junior colleagues as you gain confidence in skills and technologies<br>\nx You want to be part of a team which strives for open communication, kindness and empathy</p>\n\n<p><strong>Where we work:</strong></p>\n\n<p>We are a remote-first organisation and support working from any location. However, we do have a London office, based in Bermondsey, if you would prefer to work from our office location. We will support where possible if you are relocating, and offer visa sponsorship for certain positions. </p>\n\n<p><strong>Interview Process:</strong></p>\n\n<p>x Phone Interview (~30 mins)<br>\nx Coding Task (3-6 Hours) <br>\nx Engineering Interview around Task and Design Questions (~1 hour)<br>\nx Leadership Interview: Chat with a member of the engineering leadership team (30-60 mins)</p>\n\n<p><strong>Also if you join, you’d receive all of these benefits</strong> 🙌</p>\n\n<p>x A competitive salary ranging from £45,000 to £100,000 per year (depending on experience)<br>\nx Tax-incentive share options in Ori <br>\nx 32 paid holiday days a year, including UK public holidays<br>\nx Access to private health insurance and CycleScheme (UK residents only)<br>\nx Yearly tickets to theatre, cinema &amp; music events <br>\nx A generous personal budget for tech, learning, cultural activities, books &amp; games</p>\n\n<p><strong>Interested? Ping over your CV, Github profile or any other relevant work you want to share.</strong></p>\n\n<p>We believe diversity and inclusion make us a better company, and we embrace equal employment opportunity. We are committed to building a team that represents a variety of backgrounds, opinions and skills.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": true,
+      "locations": [
+        "London",
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "Europe"
+      ],
+      "skills": [
+        "Software Development",
+        "Cloud Computing",
+        "Telecommunications",
+        "Docker",
+        "Go (Golang)",
+        "Microservices",
+        "Kubernetes"
+      ],
+      "payment": {
+        "salary": "£45k – £100k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": "VP People & Operations",
+        "role": "Founder",
+        "url": "https://angel.co/u/melissa-dore",
+        "name": "Melissa Doré",
+        "avatar": "https://photos.angel.co/users/4797154-medium_jpg?1548197486"
+      },
+      "refs": {
+        "angelListId": "566175",
+        "angelListUrl": "https://angel.co/company/ori-industries-1/jobs/566175-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Technical Writer",
+      "description": "**So, why should you want to work with us?** 🤷‍\r\n\r\nTo support our remote-first, engineering-led culture, we hold communication in high esteem, and prioritise both diversity and collaboration. Regardless of where you are located in the world, we promise to provide an environment of total freedom that enables you to evolve, thrive and create.\r\n\r\n*We want you to:*\r\n\r\nSpeak your mind and be controversial.\r\nWork from whenever and wherever.\r\nExperiment and be ambitious.\r\nTake time off. Think and reflect as long as you want.\r\nContinuously learn. Expand your knowledge.\r\nAnd challenge approaches while suggesting better ones.\r\n\r\n**And what does a Technical Writer at Ori do, exactly?** 🔍\r\n\r\nx Build robust advocacy processes &amp; drive the expansion of developer-focused strategies \r\nx Prototype new projects &amp; technical integrations between our platform &amp; ecosystem tools \r\nx Reduce complexity by delivering new APIs, tooling &amp; tutorials to improve the developer experience\r\nx Collaborate internally on the product roadmap, market positioning &amp; messaging\r\nx Support the Product team in helping to analyse, update, re-design &amp; craft compelling developer experiences for new developers engaging with our product\r\nx Participate as a regular attendee, panellist &amp; keynote speaker at technology conferences\r\nx Build developer relationships and keep up with emerging technologies, frameworks, open-source and cloud services, identifying relevant influencers and engaging with them\r\nx Curate existing documentation, performing periodic reviews, triage user feedback, track bug reports &amp; determine priorities for remedial work\r\nx Produce content for a variety of platforms, from blog posts to podcasts &amp; cheat-sheets, maintaining a strong, meaningful presence for developers &amp; network operators\r\nx Support in the creation of customer-facing product documentation that can be used across a range of audiences both technical and non-technical, delivering compelling presentations, product demos, technical blogs &amp; discussions to drive adoption \r\nx Own our developer console, developer tools and documentation experiences and contribute to the inception of new releases, features and customer feedback\r\nx Design demos, webinars, white papers and tutorials to demonstrate emerging technologies &amp; industry developments, and develop documentation for experienced technical users\r\nx Internal sales enablement through appropriate documentation and ad hoc training support where necessary\r\n\r\n**And if you join, you’d receive all of these benefits** 🙌\r\n\r\nTax-incentive share options in Ori\r\n32 paid holiday days a year, including UK public holidays\r\nAccess to private health insurance and UK CycleScheme\r\nYearly tickets to theatre, cinema &amp; music events\r\nA generous personal budget for tech, learning, books &amp; games\r\n\r\n*Interested? Ping over your CV, Github profile or any other relevant work you want to share.*\r\n\r\nWe believe diversity and inclusion make us a better company, and we embrace equal employment opportunity. We are committed to building a team that represents a variety of backgrounds, opinions and skills.",
+      "descriptionHtml": "<p><strong>So, why should you want to work with us?</strong> 🤷‍</p>\n\n<p>To support our remote-first, engineering-led culture, we hold communication in high esteem, and prioritise both diversity and collaboration. Regardless of where you are located in the world, we promise to provide an environment of total freedom that enables you to evolve, thrive and create.</p>\n\n<p><em>We want you to:</em></p>\n\n<p>Speak your mind and be controversial.<br>\nWork from whenever and wherever.<br>\nExperiment and be ambitious.<br>\nTake time off. Think and reflect as long as you want.<br>\nContinuously learn. Expand your knowledge.<br>\nAnd challenge approaches while suggesting better ones.</p>\n\n<p><strong>And what does a Technical Writer at Ori do, exactly?</strong> 🔍</p>\n\n<p>x Build robust advocacy processes &amp; drive the expansion of developer-focused strategies <br>\nx Prototype new projects &amp; technical integrations between our platform &amp; ecosystem tools <br>\nx Reduce complexity by delivering new APIs, tooling &amp; tutorials to improve the developer experience<br>\nx Collaborate internally on the product roadmap, market positioning &amp; messaging<br>\nx Support the Product team in helping to analyse, update, re-design &amp; craft compelling developer experiences for new developers engaging with our product<br>\nx Participate as a regular attendee, panellist &amp; keynote speaker at technology conferences<br>\nx Build developer relationships and keep up with emerging technologies, frameworks, open-source and cloud services, identifying relevant influencers and engaging with them<br>\nx Curate existing documentation, performing periodic reviews, triage user feedback, track bug reports &amp; determine priorities for remedial work<br>\nx Produce content for a variety of platforms, from blog posts to podcasts &amp; cheat-sheets, maintaining a strong, meaningful presence for developers &amp; network operators<br>\nx Support in the creation of customer-facing product documentation that can be used across a range of audiences both technical and non-technical, delivering compelling presentations, product demos, technical blogs &amp; discussions to drive adoption <br>\nx Own our developer console, developer tools and documentation experiences and contribute to the inception of new releases, features and customer feedback<br>\nx Design demos, webinars, white papers and tutorials to demonstrate emerging technologies &amp; industry developments, and develop documentation for experienced technical users<br>\nx Internal sales enablement through appropriate documentation and ad hoc training support where necessary</p>\n\n<p><strong>And if you join, you’d receive all of these benefits</strong> 🙌</p>\n\n<p>Tax-incentive share options in Ori<br>\n32 paid holiday days a year, including UK public holidays<br>\nAccess to private health insurance and UK CycleScheme<br>\nYearly tickets to theatre, cinema &amp; music events<br>\nA generous personal budget for tech, learning, books &amp; games</p>\n\n<p><em>Interested? Ping over your CV, Github profile or any other relevant work you want to share.</em></p>\n\n<p>We believe diversity and inclusion make us a better company, and we embrace equal employment opportunity. We are committed to building a team that represents a variety of backgrounds, opinions and skills.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "United Kingdom"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Product Marketing",
+        "Public Speaking",
+        "Presentation Skills",
+        "Communication Skills",
+        "Documentation",
+        "Developer Advocate",
+        "Developer Tools",
+        "Sales Enablement",
+        "Technical Writing"
+      ],
+      "payment": {
+        "salary": "£55k – £65k",
+        "equity": "0.01% – 0.02%"
+      },
+      "recruiter": {
+        "title": "VP People & Operations",
+        "role": "Founder",
+        "url": "https://angel.co/u/melissa-dore",
+        "name": "Melissa Doré",
+        "avatar": "https://photos.angel.co/users/4797154-medium_jpg?1548197486"
+      },
+      "refs": {
+        "angelListId": "722862",
+        "angelListUrl": "https://angel.co/company/ori-industries-1/jobs/722862-"
+      }
+    }
+  ]
+}

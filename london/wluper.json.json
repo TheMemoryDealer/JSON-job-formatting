@@ -1,0 +1,134 @@
+{
+  "name": "Wluper",
+  "avatar": "https://photos.angel.co/startups/i/2954415-cb3983625e8c376662765868f5cd49a7-medium_jpg.jpg?buster=1510939763",
+  "slogan": "Creating real Conversational AI",
+  "description": "Teaching machines to understand natural language is extremely complex and is considered the holy grail in the field of Artificial Intelligence. Extracting and providing relevant and useful information from the right places is even more challenging and with current approaches ultimately impossible to scale. \n\nWe're at the intersection of Natural Language Processing and Knowledge Base creation, and aim to bring them together by leveraging state-of-the-art deep learning.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://wluper.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/wluper_"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://linkedin.com/company/wluper_"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Natural Language Processing"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 1450000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1542844800,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1499040000,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/nikolai_",
+      "name": "Nikolai Rozanov",
+      "avatar": "https://photos.angel.co/users/5483752-medium_jpg?1551731720",
+      "bioHtml": "Co-Founder &amp; CTO <a href=\"https://angel.co/company/wluper\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Wluper</span></a> | Mathematics <a href=\"https://angel.co/imperial-college-london-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Imperial College London</span></a> &amp; Machine Learning <a href=\"https://angel.co/ucl\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Ucl</span></a> | Science and Technology enthusiast"
+    },
+    {
+      "title": "COO",
+      "role": "Founder",
+      "url": "https://angel.co/u/maurice_",
+      "name": "Maurice von Sturm",
+      "avatar": "https://photos.angel.co/users/4831398-medium_jpg?1526220333",
+      "bioHtml": "Co-Founder &amp; COO <a href=\"https://angel.co/company/wluper\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Wluper</span></a> "
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/bahraynian",
+      "name": "Hami Bahraynian",
+      "avatar": "https://photos.angel.co/users/4806014-medium_jpg?1574985728",
+      "bioHtml": "Co-Founder &amp; CEO <a href=\"https://angel.co/company/wluper\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Wluper</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/bingbing-zhang",
+      "name": "Bingbing Zhang",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "2954415",
+    "angelListUrl": "https://angel.co/company/wluper"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Head of Natural Language Processing",
+      "description": "We are looking for a Head of NLP to join our team in London.\n\nAs a member of the core team you will be responsible for leading the research and implementation efforts. You will be involved from concept, all the way through deployment, and taking part in the complete engineering life-cycle, where you have significant influence on our overall strategy by helping define system features, drive the system architecture, and spearhead best practices. You will be supported by NLP engineers and the CTO, and be able to hire out a team in the future.\n\nThe role entails enhancing the NLP pipeline system ranging from Dialogue State Representation, Dialogue Management to Knowledge Base creation. Exploring state-of-the-art Machine Learning algorithms and researching novel methods will be at the core - both probabilistic and frequentist. This is an opportunity to work on one of the most challenging, exciting and innovative fields in recent years, build a large-scale distributed cutting-edge Machine Learning system, release open source implementations and publish academic research.\n\nBasic skills:\n- PhD in Machine Learning, NLP, Knowledge Extraction, Information Retrieval, or related field\n- 3-5+ years academic and/or industry experience in Natural Language Processing, deep learning for NLP, or related fields\n- Proficiency in Machine Learning frameworks such as Tensorflow and/or Pytorch\n- Hands-on experience in building real world dialogue and NLP systems\n- Skilled in Unix environments and Python using Sklearn, pandas, NumPy etc.\n- Excellent oral and written communication skills with both technical and non-technical peers\n- Ability to design and execute on the research agenda with desired outcomes of promising methods for future integration into production\n\nPreferred skills (nice-to-haves):\n-Proficient in mathematical fundamentals of ML: supervised and unsupervised methods, generative and discriminative models, scalable (approximate) inference\n- Understanding of design for scalability, performance and reliability\n- Track record of publications in leading NLP and/or ML conferences\n- Hands-on experience in leading and motivating engineering teams\n- Competent with popular NLP frameworks e.g. PyText, AllenNLP, NLTK, spaCy",
+      "descriptionHtml": "<p>We are looking for a Head of NLP to join our team in London.</p>\n\n<p>As a member of the core team you will be responsible for leading the research and implementation efforts. You will be involved from concept, all the way through deployment, and taking part in the complete engineering life-cycle, where you have significant influence on our overall strategy by helping define system features, drive the system architecture, and spearhead best practices. You will be supported by NLP engineers and the CTO, and be able to hire out a team in the future.</p>\n\n<p>The role entails enhancing the NLP pipeline system ranging from Dialogue State Representation, Dialogue Management to Knowledge Base creation. Exploring state-of-the-art Machine Learning algorithms and researching novel methods will be at the core - both probabilistic and frequentist. This is an opportunity to work on one of the most challenging, exciting and innovative fields in recent years, build a large-scale distributed cutting-edge Machine Learning system, release open source implementations and publish academic research.</p>\n\n<p>Basic skills:</p>\n\n<ul>\n<li>PhD in Machine Learning, NLP, Knowledge Extraction, Information Retrieval, or related field</li>\n<li>3-5+ years academic and/or industry experience in Natural Language Processing, deep learning for NLP, or related fields</li>\n<li>Proficiency in Machine Learning frameworks such as Tensorflow and/or Pytorch</li>\n<li>Hands-on experience in building real world dialogue and NLP systems</li>\n<li>Skilled in Unix environments and Python using Sklearn, pandas, NumPy etc.</li>\n<li>Excellent oral and written communication skills with both technical and non-technical peers</li>\n<li>Ability to design and execute on the research agenda with desired outcomes of promising methods for future integration into production</li>\n</ul>\n\n<p>Preferred skills (nice-to-haves):<br>\n-Proficient in mathematical fundamentals of ML: supervised and unsupervised methods, generative and discriminative models, scalable (approximate) inference</p>\n\n<ul>\n<li>Understanding of design for scalability, performance and reliability</li>\n<li>Track record of publications in leading NLP and/or ML conferences</li>\n<li>Hands-on experience in leading and motivating engineering teams</li>\n<li>Competent with popular NLP frameworks e.g. PyText, AllenNLP, NLTK, spaCy</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Machine Learning",
+        "Natural Language Processing",
+        "Natural Language Understanding",
+        "Deep Learning",
+        "Dialogue Systems"
+      ],
+      "payment": {
+        "salary": "£70k – £90k",
+        "equity": "2.0% – 3.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/bahraynian",
+        "name": "Hami Bahraynian",
+        "avatar": "https://photos.angel.co/users/4806014-medium_jpg?1574985728"
+      },
+      "refs": {
+        "angelListId": "514742",
+        "angelListUrl": "https://angel.co/company/wluper/jobs/514742-"
+      },
+      "postedAt": 1589658514742
+    }
+  ]
+}

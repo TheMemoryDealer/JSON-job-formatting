@@ -1,0 +1,197 @@
+{
+  "name": "wollit",
+  "avatar": "https://photos.angel.co/startups/i/752827-a34a0a4a5b91948d49ca742886bf0665-medium_jpg.jpg?buster=1559821274",
+  "slogan": "We are a fintech dedicated to radically improving the lives of the modern workforce",
+  "description": "Wollit is a fintech dedicated to radically improving the financial wellbeing of people in flexible work. We have raised capital from top technology investors in the UK and one of the world's largest banks.\n\nWe use cutting-edge technology and lashings of innovation to create affordable, ethical and transformative products that make life better for flexible workers.\n\nOur first product, the Wollit Income Promise, is an income stability tool that enables people to take home the same amount every month - even if their hours and earnings fluctuate. But we're not stopping there. We plan to disrupt any area of finance where flexible workers don't have access to the services they need and deserve.\n\nIf you thrive in a fast-paced, high-energy, mission-driven environment - our small but rapidly growing team may be just the place for you!",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://wollit.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/wollit"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/wollit/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Financial Services",
+    "Consumer Lending",
+    "SaaS",
+    "Health and Wellness"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/p/liad",
+      "name": "Liad Shababo",
+      "avatar": "https://photos.angel.co/users/3925-medium_jpg?1513246150",
+      "bioHtml": "Founder wollit.\n\nPreviously Founder Shoply (acq. AGR Group Plc), doof &amp; MoneyGaming (acq. GameAccount Plc)"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/marianne-pearson",
+      "name": "Marianne Pearson",
+      "avatar": "https://photos.angel.co/users/2727159-medium_jpg?1469742900",
+      "bioHtml": "I have bioinformatics, operations, and logistical skills, and lots of experience working in start ups (currently at prop-tech/fintech/sales and marketing)"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/lucy-woolfenden",
+      "name": "lucy woolfenden",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/toby-de-havilland-1",
+      "name": "Toby de Havilland",
+      "avatar": "https://photos.angel.co/users/10362952-medium_jpg?1576074852",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "752827",
+    "angelListUrl": "https://angel.co/company/wollit-financial-wellbeing"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full stack engineer - Node, Javascript, Typescript",
+      "description": "Kings Cross, London\nSalary dependent on skills and experience\n\n\nAbout us\n\nWe are a fintech dedicated to radically improving the lives of the modern workforce. We use cutting-edge technology and creative thinking to develop transformative products that boost financial and personal wellbeing. \n\nOur mission is to disrupt all areas of finance where flexible workers don’t have access to the products and services they need and deserve. We have raised capital from top technology investors in the UK and one of the world’s largest banks.\n\n\nAbout the role\n\nWe’re looking for a senior developer who wants to build cutting edge applications in Node & Typescript.  You’ll be working in a small, agile team focused on architecting and building our backend microservices. \n\nYou’ll spend your time coding and helping to build the team whilst having input on technical process and decision making - being a lead contributor in our projects and shaping the architecture of our services.\n\n\nOur Tech\n\nOur stack includes (but is not limited to): Node, Typescript, Docker & Kubernetes, MongoDB, NativeScript, MoleculerJS.\n\nWe also believe that automated-testing and peer-reviewed code are required to deliver good software and are always looking for ways to improve our process.\n\n\nMust Have Skills\n\n- Node\n- Typescript\n- Relational / NoSQL databases\n- Docker\n- Unit, integration & e2e testing\n- Understand SOLID design principles\n- Good Git etiquette\n- HTML5, CSS, SASS / PostCSS / Webpack\n\n\nBonus Skills\n\n- Kubernetes\n- Experience developing mobile applications\n- Experience building microservices\n- React native or Nativescript\n- ‘Nix system administration\n- Understanding of functional CSS, BEM etc\n\n\nAbout you\n\n- You like building things (and fixing things that aren’t quite right).\n- You know how to code, but you can also communicate and work as part of a team.\n- You’re willing to admit you don’t know something and ask for help.\n- You are comfortable working in a fast-moving agile environment\n- You can coordinate, prioritise and manage multiple diverse tasks - simultaneously\n\n\nLogistics\n\nWe offer a competitive salary dependent on skills and experience, plus stock options and other benefits. The application process consists of a short phone interview and a technical test to complete in your own time, followed by an on-site interview with the team at our London office.",
+      "descriptionHtml": "<p>Kings Cross, London<br>\nSalary dependent on skills and experience</p>\n\n<p>About us</p>\n\n<p>We are a fintech dedicated to radically improving the lives of the modern workforce. We use cutting-edge technology and creative thinking to develop transformative products that boost financial and personal wellbeing. </p>\n\n<p>Our mission is to disrupt all areas of finance where flexible workers don’t have access to the products and services they need and deserve. We have raised capital from top technology investors in the UK and one of the world’s largest banks.</p>\n\n<p>About the role</p>\n\n<p>We’re looking for a senior developer who wants to build cutting edge applications in Node &amp; Typescript.  You’ll be working in a small, agile team focused on architecting and building our backend microservices. </p>\n\n<p>You’ll spend your time coding and helping to build the team whilst having input on technical process and decision making - being a lead contributor in our projects and shaping the architecture of our services.</p>\n\n<p>Our Tech</p>\n\n<p>Our stack includes (but is not limited to): Node, Typescript, Docker &amp; Kubernetes, MongoDB, NativeScript, MoleculerJS.</p>\n\n<p>We also believe that automated-testing and peer-reviewed code are required to deliver good software and are always looking for ways to improve our process.</p>\n\n<p>Must Have Skills</p>\n\n<ul>\n<li>Node</li>\n<li>Typescript</li>\n<li>Relational / NoSQL databases</li>\n<li>Docker</li>\n<li>Unit, integration &amp; e2e testing</li>\n<li>Understand SOLID design principles</li>\n<li>Good Git etiquette</li>\n<li>HTML5, CSS, SASS / PostCSS / Webpack</li>\n</ul>\n\n<p>Bonus Skills</p>\n\n<ul>\n<li>Kubernetes</li>\n<li>Experience developing mobile applications</li>\n<li>Experience building microservices</li>\n<li>React native or Nativescript</li>\n<li>‘Nix system administration</li>\n<li>Understanding of functional CSS, BEM etc</li>\n</ul>\n\n<p>About you</p>\n\n<ul>\n<li>You like building things (and fixing things that aren’t quite right).</li>\n<li>You know how to code, but you can also communicate and work as part of a team.</li>\n<li>You’re willing to admit you don’t know something and ask for help.</li>\n<li>You are comfortable working in a fast-moving agile environment</li>\n<li>You can coordinate, prioritise and manage multiple diverse tasks - simultaneously</li>\n</ul>\n\n<p>Logistics</p>\n\n<p>We offer a competitive salary dependent on skills and experience, plus stock options and other benefits. The application process consists of a short phone interview and a technical test to complete in your own time, followed by an on-site interview with the team at our London office.</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Android",
+        "MongoDB",
+        "Node.js",
+        "iOS Development",
+        "TypeScript",
+        "Docker",
+        "Microservices",
+        "Kubernetes"
+      ],
+      "payment": {
+        "salary": "£50k – £70k",
+        "equity": "0.2% – 1.5%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/toby-de-havilland-1",
+        "name": "Toby de Havilland",
+        "avatar": "https://photos.angel.co/users/10362952-medium_jpg?1576074852"
+      },
+      "refs": {
+        "angelListId": "679032",
+        "angelListUrl": "https://angel.co/company/wollit-financial-wellbeing/jobs/679032-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Backend Developer - Node, Typescript, Javascript",
+      "description": "About us\n\nWe are a fintech dedicated to radically improving the lives of the modern workforce. We use cutting-edge technology and creative thinking to develop transformative products that boost financial and personal wellbeing.\n\nOur mission is to disrupt all areas of finance where flexible workers don’t have access to the products and services they need and deserve. We have raised capital from top technology investors in the UK and one of the world’s largest banks.\n\nAbout the role\n\nWe’re looking for a senior backend developer who wants to build cutting edge applications in Node & Typescript. You’ll be working in a small, agile team focused on architecting and building our backend microservices.\n\nYou’ll spend your time coding and helping to build the team whilst having input on technical process and decision making - being a lead contributor in our projects and shaping the architecture of our services.\n\nOur Tech\n\nOur stack includes (but is not limited to): Node, Typescript, Docker & Kubernetes, MongoDB, NativeScript, MoleculerJS.\n\nWe also believe that automated-testing and peer-reviewed code are required to deliver good software and are always looking for ways to improve our process.\n\nMust Have Skills\n\nNode\nJavascript + Typescript\nRelational / NoSQL databases\nDocker\nUnit, integration & e2e testing\nUnderstand SOLID design principles\nGood Git etiquette\nBonus Skills\n\nKubernetes\nExperience building microservices\n‘Nix system administration\nAbout you\n\nYou like building things (and fixing things that aren’t quite right).\nYou know how to code, but you can also communicate and work as part of a team.\nYou’re willing to admit you don’t know something and ask for help.\nYou are comfortable working in a fast-moving agile environment\nYou can coordinate, prioritise and manage multiple diverse tasks simultaneously\nLogistics\n\nWe offer a competitive salary dependent on skills and experience, plus stock options and other benefits. The application process consists of a short phone interview followed by on-site interviews with the team at our London office.\n\nGet in touch and send an email to careers@wollit.com 🎉",
+      "descriptionHtml": "<p>About us</p>\n\n<p>We are a fintech dedicated to radically improving the lives of the modern workforce. We use cutting-edge technology and creative thinking to develop transformative products that boost financial and personal wellbeing.</p>\n\n<p>Our mission is to disrupt all areas of finance where flexible workers don’t have access to the products and services they need and deserve. We have raised capital from top technology investors in the UK and one of the world’s largest banks.</p>\n\n<p>About the role</p>\n\n<p>We’re looking for a senior backend developer who wants to build cutting edge applications in Node &amp; Typescript. You’ll be working in a small, agile team focused on architecting and building our backend microservices.</p>\n\n<p>You’ll spend your time coding and helping to build the team whilst having input on technical process and decision making - being a lead contributor in our projects and shaping the architecture of our services.</p>\n\n<p>Our Tech</p>\n\n<p>Our stack includes (but is not limited to): Node, Typescript, Docker &amp; Kubernetes, MongoDB, NativeScript, MoleculerJS.</p>\n\n<p>We also believe that automated-testing and peer-reviewed code are required to deliver good software and are always looking for ways to improve our process.</p>\n\n<p>Must Have Skills</p>\n\n<p>Node<br>\nJavascript + Typescript<br>\nRelational / NoSQL databases<br>\nDocker<br>\nUnit, integration &amp; e2e testing<br>\nUnderstand SOLID design principles<br>\nGood Git etiquette<br>\nBonus Skills</p>\n\n<p>Kubernetes<br>\nExperience building microservices<br>\n‘Nix system administration<br>\nAbout you</p>\n\n<p>You like building things (and fixing things that aren’t quite right).<br>\nYou know how to code, but you can also communicate and work as part of a team.<br>\nYou’re willing to admit you don’t know something and ask for help.<br>\nYou are comfortable working in a fast-moving agile environment<br>\nYou can coordinate, prioritise and manage multiple diverse tasks simultaneously<br>\nLogistics</p>\n\n<p>We offer a competitive salary dependent on skills and experience, plus stock options and other benefits. The application process consists of a short phone interview followed by on-site interviews with the team at our London office.</p>\n\n<p>Get in touch and send an email to <a href=\"mailto:careers@wollit.com\" target=\"_blank\" rel=\"nofollow\">careers@wollit.com</a> 🎉</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Node.js",
+        "TypeScript",
+        "Docker"
+      ],
+      "payment": {
+        "salary": "£50k – £70k",
+        "equity": "0.25% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/toby-de-havilland-1",
+        "name": "Toby de Havilland",
+        "avatar": "https://photos.angel.co/users/10362952-medium_jpg?1576074852"
+      },
+      "refs": {
+        "angelListId": "706403",
+        "angelListUrl": "https://angel.co/company/wollit-financial-wellbeing/jobs/706403-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Frontend Developer - Typescript, Javascript",
+      "description": "About us\n\nWe are a fintech dedicated to radically improving the lives of the modern workforce. We use cutting-edge technology and creative thinking to develop transformative products that boost financial and personal wellbeing.\n\nOur mission is to disrupt all areas of finance where flexible workers don’t have access to the products and services they need and deserve. We have raised capital from top technology investors in the UK and one of the world’s largest banks.\n\nAbout the role\n\nWe’re looking for a senior frontend developer who wants to build cutting edge applications in Javascript & Typescript. You’ll be working in a small, agile team focused on architecting and building our websites and mobile applications.\n\nYou’ll spend your time coding and helping to build the team whilst having input on technical process and decision making - being a lead contributor in our projects and shaping the architecture of our projects.\n\nWe believe that automated-testing and peer-reviewed code are required to deliver good software and are always looking for ways to improve our process.\n\nMust Have Skills\n\nJavascript + Typescript\nProficient in one of React, Vue, Angular or Svelte\nUnit, integration & e2e testing\nGood Git etiquette\nWeback, Babel\nSass, Postcss\nBonus Skills\n\nExperience developing iOS & Android applications\nExperience with ReactNative or Nativescript\nUnderstanding of functional CSS, BEM etc\nAbout you\n\nYou like building things (and fixing things that aren’t quite right).\nYou know how to code, but you can also communicate and work as part of a team.\nYou’re willing to admit you don’t know something and ask for help.\nYou are comfortable working in a fast-moving agile environment\nYou can coordinate, prioritise and manage multiple diverse tasks simultaneously\nLogistics\n\nWe offer a competitive salary dependent on skills and experience, plus stock options and other benefits. The application process consists of a short phone interview followed by on-site interviews with the team at our London office.\n\nGet in touch and send an email to careers@wollit.com 🎉",
+      "descriptionHtml": "<p>About us</p>\n\n<p>We are a fintech dedicated to radically improving the lives of the modern workforce. We use cutting-edge technology and creative thinking to develop transformative products that boost financial and personal wellbeing.</p>\n\n<p>Our mission is to disrupt all areas of finance where flexible workers don’t have access to the products and services they need and deserve. We have raised capital from top technology investors in the UK and one of the world’s largest banks.</p>\n\n<p>About the role</p>\n\n<p>We’re looking for a senior frontend developer who wants to build cutting edge applications in Javascript &amp; Typescript. You’ll be working in a small, agile team focused on architecting and building our websites and mobile applications.</p>\n\n<p>You’ll spend your time coding and helping to build the team whilst having input on technical process and decision making - being a lead contributor in our projects and shaping the architecture of our projects.</p>\n\n<p>We believe that automated-testing and peer-reviewed code are required to deliver good software and are always looking for ways to improve our process.</p>\n\n<p>Must Have Skills</p>\n\n<p>Javascript + Typescript<br>\nProficient in one of React, Vue, Angular or Svelte<br>\nUnit, integration &amp; e2e testing<br>\nGood Git etiquette<br>\nWeback, Babel<br>\nSass, Postcss<br>\nBonus Skills</p>\n\n<p>Experience developing iOS &amp; Android applications<br>\nExperience with ReactNative or Nativescript<br>\nUnderstanding of functional CSS, BEM etc<br>\nAbout you</p>\n\n<p>You like building things (and fixing things that aren’t quite right).<br>\nYou know how to code, but you can also communicate and work as part of a team.<br>\nYou’re willing to admit you don’t know something and ask for help.<br>\nYou are comfortable working in a fast-moving agile environment<br>\nYou can coordinate, prioritise and manage multiple diverse tasks simultaneously<br>\nLogistics</p>\n\n<p>We offer a competitive salary dependent on skills and experience, plus stock options and other benefits. The application process consists of a short phone interview followed by on-site interviews with the team at our London office.</p>\n\n<p>Get in touch and send an email to <a href=\"mailto:careers@wollit.com\" target=\"_blank\" rel=\"nofollow\">careers@wollit.com</a> 🎉</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "HTML/CSS/Javascript",
+        "TypeScript"
+      ],
+      "payment": {
+        "salary": "£40k – £70k",
+        "equity": "0.25% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/toby-de-havilland-1",
+        "name": "Toby de Havilland",
+        "avatar": "https://photos.angel.co/users/10362952-medium_jpg?1576074852"
+      },
+      "refs": {
+        "angelListId": "706398",
+        "angelListUrl": "https://angel.co/company/wollit-financial-wellbeing/jobs/706398-"
+      }
+    }
+  ]
+}

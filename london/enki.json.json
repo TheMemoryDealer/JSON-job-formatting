@@ -1,0 +1,179 @@
+{
+  "name": "Enki",
+  "avatar": "https://photos.angel.co/startups/i/667561-d5acfddafc6bba6aaa31a95094bbfc59-medium_jpg.jpg?buster=1436988723",
+  "slogan": "Mentorship at scale",
+  "description": "Enki combines remote experts with software to enable mentorship at scale.\n\nWe offer professionals and teams on-demand, customized and super-efficient training in data, automation and productivity tools.\n\nBy leveraging software and data, the cost is a fraction of alternatives like consultants, internal processes, or letting employees learn themselves.\n\nEnki are a team of growth and data experts that have built companies with over $100m in revenues before.\n\nhttps://enki.com\n\nWe've also built a community of over 1 million professionals through our bite-sized mobile learning app and open-source learning curriculum. These are informing our training algorithms, learner experience, and curriculum used across the platform.\n\nhttps://enki.com/android\nhttps://enki.com/ios\nhttps://github.com/enkidevs/curriculum",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://enki.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://blog.enki.com"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/enkidevs"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": "https://www.producthunt.com/posts/enki"
+    }
+  ],
+  "locations": [
+    "San Francisco",
+    "London",
+    "Los Angeles"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Mobile Enterprise",
+    "Education",
+    "Enterprise Software",
+    "Training",
+    "Corporate Training"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 1500000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1538179200,
+        "valuation": 11000000
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/p/kirill",
+      "name": "Kirill Makharinsky",
+      "avatar": "https://photos.angel.co/users/2206-medium_jpg?1446149684",
+      "bioHtml": "Founder and CEO of Enki. Previously Co-founder Emerging Travel &amp; Quid (both $40m net rev/year &amp; growing), Data Analytics at Slide ($182M exit), Maths at Oxford."
+    },
+    {
+      "title": "Head of Growth",
+      "role": "Employee",
+      "url": "https://angel.co/u/artemkubatkin",
+      "name": "Artem 'Tim' Kubatkin",
+      "avatar": "https://photos.angel.co/users/392422-medium_jpg?1587181054",
+      "bioHtml": "head of growth <a href=\"https://angel.co/company/enki\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Enki</span></a> / 1x human / 2x founder"
+    },
+    {
+      "title": "Senior Software Developer",
+      "role": "Employee",
+      "url": "https://angel.co/u/buruiana-catalin",
+      "name": "Cătălin Buruiană",
+      "avatar": "https://photos.angel.co/users/1740371-medium_jpg?1448281421",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/ana-maria-dumitrascu",
+      "name": "Ana Maria Dumitrascu",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "667561",
+    "angelListUrl": "https://angel.co/company/enki"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Enki instructor",
+      "description": "This position is perfect for those that want to leverage their dev or data skills, but also want to actively develop their customer development and product skills.\r\n\r\nEnki instructors are the human part of the courses that Enki offers teams and companies.\r\n\r\nhttps://enkicamp.com\r\n\r\nYou'll be:\r\n\r\n- Guiding and unblocking learners as they work through our courses\r\n- Reviewing and giving constructive feedback on their exercises, with the help of our suite of instructor tools\r\n- Initiating discussions on Slack with the cohort to maximize learning\r\n- Doing occasional video calls with learners to discuss thorny topics\r\n- Helping learners apply their knowledge to their work as effectively as possible\r\n- Doing any product and development work as appropriate to iterate on the learner experience and instructor tools.\r\n\r\nIn your application, please mention which of the below you're experienced enough in to mentor others in:\r\n- SQL\r\n- Python\r\n- BI tools: Looker, Tableau, Mode\r\n- Data Analysis / DataViz\r\n- Spreadsheets\r\n- Airtable\r\n- Webflow\r\n- Zapier\r\n- Bubble\r\n- Shopify\r\n- Salesforce\r\n- Stripe\r\n- Hubspot",
+      "descriptionHtml": "<p>This position is perfect for those that want to leverage their dev or data skills, but also want to actively develop their customer development and product skills.</p>\n\n<p>Enki instructors are the human part of the courses that Enki offers teams and companies.</p>\n\n<p><a href=\"https://enkicamp.com\" target=\"_blank\" rel=\"nofollow\">https://enkicamp.com</a></p>\n\n<p>You&#39;ll be:</p>\n\n<ul>\n<li>Guiding and unblocking learners as they work through our courses</li>\n<li>Reviewing and giving constructive feedback on their exercises, with the help of our suite of instructor tools</li>\n<li>Initiating discussions on Slack with the cohort to maximize learning</li>\n<li>Doing occasional video calls with learners to discuss thorny topics</li>\n<li>Helping learners apply their knowledge to their work as effectively as possible</li>\n<li>Doing any product and development work as appropriate to iterate on the learner experience and instructor tools.</li>\n</ul>\n\n<p>In your application, please mention which of the below you&#39;re experienced enough in to mentor others in:</p>\n\n<ul>\n<li>SQL</li>\n<li>Python</li>\n<li>BI tools: Looker, Tableau, Mode</li>\n<li>Data Analysis / DataViz</li>\n<li>Spreadsheets</li>\n<li>Airtable</li>\n<li>Webflow</li>\n<li>Zapier</li>\n<li>Bubble</li>\n<li>Shopify</li>\n<li>Salesforce</li>\n<li>Stripe</li>\n<li>Hubspot</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Business Development",
+        "Data Analysis",
+        "SQL",
+        "Highly Organized",
+        "Communication Skills",
+        "Data Science",
+        "Constructive Feedback",
+        "Bias for Action",
+        "Friendly Personality"
+      ],
+      "payment": {
+        "salary": "$50k – $80k",
+        "equity": "0.05% – 0.2%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/p/kirill",
+        "name": "Kirill Makharinsky",
+        "avatar": "https://photos.angel.co/users/2206-medium_jpg?1446149684"
+      },
+      "refs": {
+        "angelListId": "629133",
+        "angelListUrl": "https://angel.co/company/enki/jobs/629133-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Sales & Customer Success lead",
+      "description": "Enki is looking for its first full-time sales lead.\r\n\r\nThis position is perfect for those that have had success in sales and customer success in a fast-growing company, and now want to take the next step in terms of responsibility and leadership.\r\n\r\nEnki's products have grown through word of mouth and referrals only; and now we're looking to build a sales and customer success team to help more companies benefit from our enterprise solution.\r\n\r\nYou'll be:\r\n\r\n- Identifying and prioritizing the partners which would benefit from our enterprise solution most\r\n- Leading conversations and interviews with employees and managers at potential partner companies\r\n- Leading our efforts to ensure our partners are making the most of our products\r\n- Managing our outbound &amp; referral campaigns as well as our inbound leads\r\n- Writing specs to design and improve our sales and marketing materials\r\n- Helping with business development and partnership work as appropriate\r\n\r\nIn your application, please mention if and how familiar you are with BI tools and the data market in general (including any previous work you've done with them in the context of sales or otherwise).",
+      "descriptionHtml": "<p>Enki is looking for its first full-time sales lead.</p>\n\n<p>This position is perfect for those that have had success in sales and customer success in a fast-growing company, and now want to take the next step in terms of responsibility and leadership.</p>\n\n<p>Enki&#39;s products have grown through word of mouth and referrals only; and now we&#39;re looking to build a sales and customer success team to help more companies benefit from our enterprise solution.</p>\n\n<p>You&#39;ll be:</p>\n\n<ul>\n<li>Identifying and prioritizing the partners which would benefit from our enterprise solution most</li>\n<li>Leading conversations and interviews with employees and managers at potential partner companies</li>\n<li>Leading our efforts to ensure our partners are making the most of our products</li>\n<li>Managing our outbound &amp; referral campaigns as well as our inbound leads</li>\n<li>Writing specs to design and improve our sales and marketing materials</li>\n<li>Helping with business development and partnership work as appropriate</li>\n</ul>\n\n<p>In your application, please mention if and how familiar you are with BI tools and the data market in general (including any previous work you&#39;ve done with them in the context of sales or otherwise).</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": true,
+      "locations": [
+        "Los Angeles",
+        "San Francisco",
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Business Development",
+        "Data Analysis",
+        "Sales",
+        "Pipeline Management",
+        "Customer Relationship Management",
+        "Customer Success",
+        "Pipeline Development",
+        "Business Intelligence Tools"
+      ],
+      "payment": {
+        "salary": "$70k – $150k",
+        "equity": "0.1% – 0.8%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/p/kirill",
+        "name": "Kirill Makharinsky",
+        "avatar": "https://photos.angel.co/users/2206-medium_jpg?1446149684"
+      },
+      "refs": {
+        "angelListId": "821124",
+        "angelListUrl": "https://angel.co/company/enki/jobs/821124-"
+      }
+    }
+  ]
+}

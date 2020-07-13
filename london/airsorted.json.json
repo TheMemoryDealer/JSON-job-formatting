@@ -1,0 +1,149 @@
+{
+  "name": "Airsorted",
+  "avatar": "https://photos.angel.co/startups/i/672147-69934ade497360d334f72f9e88b3f479-medium_jpg.jpg?buster=1510745965",
+  "slogan": "A global platform to make sharing your home, easy",
+  "description": "Airsorted makes Airbnb hassle-free for hosts",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://airsorted.uk"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/airsorted"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/airsorted/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/9295016/"
+    },
+    {
+      "type": "productHunt",
+      "url": "https://www.producthunt.com/posts/airsorted"
+    }
+  ],
+  "locations": [
+    "London",
+    "Dublin"
+  ],
+  "marketTags": [
+    "Sharing Economy",
+    "Property Management",
+    "Real Estate Technology",
+    "Property"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1464652800,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1448928000,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1433116800,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "Co-founder, Chief Sales Officer",
+      "role": "Founder",
+      "url": "https://angel.co/u/tom-jones-16",
+      "name": "Tom Jones",
+      "avatar": "https://photos.angel.co/users/1381103-medium_jpg?1439934625",
+      "bioHtml": ""
+    },
+    {
+      "title": "COO",
+      "role": "Founder",
+      "url": "https://angel.co/u/daniel-f-scott",
+      "name": "Daniel F. Scott",
+      "avatar": "https://photos.angel.co/users/1381102-medium_jpg?1436805693",
+      "bioHtml": ""
+    },
+    {
+      "title": "CEO and Founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/james-jenkins-yates",
+      "name": "James Jenkins-Yates",
+      "avatar": "https://photos.angel.co/users/662553-medium_jpg?1469196056",
+      "bioHtml": "Founder and CEO <a href=\"https://angel.co/company/airsorted\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Airsorted</span></a> • Worked at <a href=\"https://angel.co/company/techstars\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Techstars</span></a>, <a href=\"https://angel.co/company/deutsche-bank\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Deutsche Bank</span></a>, <a href=\"https://angel.co/company/ubs\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">UBS</span></a> • Studied at <a href=\"https://angel.co/lancaster-university\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Lancaster University</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/marco-spada-2",
+      "name": "Marco Spada",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/alex-zaloga-1",
+      "name": "Alex Zaloga",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at Airsorted"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/georgina-colton",
+      "name": "Georgina Colton",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "672147",
+    "angelListUrl": "https://angel.co/company/airsorted"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Python Developer",
+      "description": "Technology is fundamental to our work in looking after the homes of thousands of hosts across multiple cities worldwide in addition to ensuring hotel-quality stays for their guest.  We are Airsorted - we make home-sharing hassle-free. We are here to solve the problem that home sharing is not accessible for many homeowners, who don’t have the time or the expertise. Catering for our hosts means that we hold responsibility for a multitude of customers on behalf of them - these also include their guests, cleaners and account managers. We create each product with customer types in mind, and tailor these to solve their problems so that their time with us is as easy and intuitive as possible. We try to automate things wherever possible, but only if it's suitable - tech is brilliant, but we understand its limitations and try to work with them in every way we can. Our mission is to build a global platform that makes it easy for everyone to share their home.  **What will you be doing ** We’re building Airsorted using Python 3, React, React Native, Flask, SQLAlchemy, PostgreSQL and Redis.  We care about agile principles and use good practices from Scrum and Kanban, but are not married to any single methodology. We pride ourselves in quality and collaboration. Every change we want to make to production code has to pass Continuous Integration and Peer Code Reviews before it can be merged in. This ensures that - for the majority of the time - we can run Continuous Deployment smoothly. It also allows us to deploy features and progress quickly, as well as identify potential bugs before they are deployed. We work in squads are autonomous and make their own decisions on what to build (based on company goals), how to build it, and how to work together.   **So what is your background like?**  You have experience and interest working across the full stack: from creating client side SPAs to developing Restful API.  \n**Essential skills:**  \n- Experience with Python \n- Experience with Flask, Django or other modern web framework\n- Experience with relational databases, preferably PostgreSQL\n\n**Nice to have:**\n\n- Experience with at least one modern front end framework, React, Angular, Next.js or Vue.js would be awesome\n- Experience with Ruby\n- Experience with Pandas\n- Experience with AWS\n\n**Extra Details:**\n\nThis is a Business to Business contract role, however we do treat all of our team in Krakow like full time employee's with benefits that include below:\n\n- **Salary** - Competitive monthly contract rates depending on experience\n- **26 paid holiday days ** – plus bank holidays and an extra day off on your birthday (because who wants to work on their birthday)\n- **Airbnb allowance** – take a well-deserved break at an Airbnb property, on us\n- **Enhanced Parental Leave** – Family comes first. We offer great parental leave to spend time with your new child, regardless of your gender\n- **Career development** – unique opportunities to learn and progress in one of the UK’s leading startups\n- **Enviable company culture** – we’ve put time into getting our work culture just right. Regular team social events, company-wide recognition of outstanding work, free snacks and drinks every day – we’ve got it all\n- **Pawternity leave** – work from home for a week when you get a new pet, to help them settle in!\n- **Travel - ** This role is part of a split team between Krakow and London so their is travel opportunities to visit our wonderful HQ in London! As a part of the interview process we will fly you to London for the final stage to meet the team here!\n\n \n\n \n\n",
+      "descriptionHtml": "<p>Technology is fundamental to our work in looking after the homes of thousands of hosts across multiple cities worldwide in addition to ensuring hotel-quality stays for their guest.  We are Airsorted - we make home-sharing hassle-free. We are here to solve the problem that home sharing is not accessible for many homeowners, who don’t have the time or the expertise. Catering for our hosts means that we hold responsibility for a multitude of customers on behalf of them - these also include their guests, cleaners and account managers. We create each product with customer types in mind, and tailor these to solve their problems so that their time with us is as easy and intuitive as possible. We try to automate things wherever possible, but only if it&#39;s suitable - tech is brilliant, but we understand its limitations and try to work with them in every way we can. Our mission is to build a global platform that makes it easy for everyone to share their home.  <strong>What will you be doing ** We’re building Airsorted using Python 3, React, React Native, Flask, SQLAlchemy, PostgreSQL and Redis.  We care about agile principles and use good practices from Scrum and Kanban, but are not married to any single methodology. We pride ourselves in quality and collaboration. Every change we want to make to production code has to pass Continuous Integration and Peer Code Reviews before it can be merged in. This ensures that - for the majority of the time - we can run Continuous Deployment smoothly. It also allows us to deploy features and progress quickly, as well as identify potential bugs before they are deployed. We work in squads are autonomous and make their own decisions on what to build (based on company goals), how to build it, and how to work together.   **So what is your background like?</strong>  You have experience and interest working across the full stack: from creating client side SPAs to developing Restful API.<br><br>\n<strong>Essential skills:</strong>  </p>\n\n<ul>\n<li>Experience with Python </li>\n<li>Experience with Flask, Django or other modern web framework</li>\n<li>Experience with relational databases, preferably PostgreSQL</li>\n</ul>\n\n<p><strong>Nice to have:</strong></p>\n\n<ul>\n<li>Experience with at least one modern front end framework, React, Angular, Next.js or Vue.js would be awesome</li>\n<li>Experience with Ruby</li>\n<li>Experience with Pandas</li>\n<li>Experience with AWS</li>\n</ul>\n\n<p><strong>Extra Details:</strong></p>\n\n<p>This is a Business to Business contract role, however we do treat all of our team in Krakow like full time employee&#39;s with benefits that include below:</p>\n\n<ul>\n<li><strong>Salary</strong> - Competitive monthly contract rates depending on experience</li>\n<li>*<em>26 paid holiday days *</em> – plus bank holidays and an extra day off on your birthday (because who wants to work on their birthday)</li>\n<li><strong>Airbnb allowance</strong> – take a well-deserved break at an Airbnb property, on us</li>\n<li><strong>Enhanced Parental Leave</strong> – Family comes first. We offer great parental leave to spend time with your new child, regardless of your gender</li>\n<li><strong>Career development</strong> – unique opportunities to learn and progress in one of the UK’s leading startups</li>\n<li><strong>Enviable company culture</strong> – we’ve put time into getting our work culture just right. Regular team social events, company-wide recognition of outstanding work, free snacks and drinks every day – we’ve got it all</li>\n<li><strong>Pawternity leave</strong> – work from home for a week when you get a new pet, to help them settle in!</li>\n<li>*<em>Travel - *</em> This role is part of a split team between Krakow and London so their is travel opportunities to visit our wonderful HQ in London! As a part of the interview process we will fly you to London for the final stage to meet the team here!</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "Kraków"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£3k – £4k"
+      },
+      "recruiter": {
+        "title": "Head of People",
+        "role": "Employee",
+        "url": "https://angel.co/u/anna-roe-1",
+        "name": "Anna Roe",
+        "avatar": "https://photos.angel.co/users/7376903-medium_jpg?1516107715"
+      },
+      "refs": {
+        "angelListId": "516220",
+        "angelListUrl": "https://angel.co/company/airsorted/jobs/516220-"
+      }
+    }
+  ]
+}

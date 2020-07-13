@@ -1,0 +1,251 @@
+{
+  "name": "Qudini",
+  "avatar": "https://photos.angel.co/startups/i/131698-fd9bf811f395409648f963c915c8e609-medium_jpg.jpg?buster=1481303160",
+  "slogan": "Customer Experience Management Software for service based businesses",
+  "description": "Qudini offers a virtual queue and appointment management platform. \n\nWe allow businesses to more efficiently manage their customers waiting service, whilst keeping them informed and engaged by SMS and smartphone communication as they wait.\n\nIt is a B2B SaaS platform sold to retailers, restaurants, health services and the public sector.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.qudini.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.qudini.com/blog"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@qudini"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Retail",
+    "Restaurants",
+    "Leisure",
+    "Healthcare"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 313952,
+    "rounds": [
+      {
+        "type": "",
+        "closedAt": 1395619200,
+        "valuation": null
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1340755200,
+        "valuation": null
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/fraser-hardy",
+      "name": "Fraser Hardy",
+      "avatar": "https://photos.angel.co/users/188665-medium_jpg?1405556297",
+      "bioHtml": "Founder Qudini • Studied at <a href=\"https://angel.co/university-of-plymouth\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Plymouth</span></a> and <a href=\"https://angel.co/london-metropolitan-university\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">London Metropolitan University</span></a> "
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/imogen-wethered",
+      "name": "Imogen Wethered",
+      "avatar": "https://photos.angel.co/users/188642-medium_jpg?1481302445",
+      "bioHtml": "CEO and co-founder of Qudini• Studied Creative Communications and Entrepreneurship at School of Communication Arts 2.0. BA degree <a href=\"https://angel.co/university-of-bristol\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Bristol</span></a>"
+    },
+    {
+      "title": "Head of Product",
+      "role": "Employee",
+      "url": "https://angel.co/u/rjd203",
+      "name": "Robert Drury",
+      "avatar": "https://photos.angel.co/users/1126048-medium_jpg?1560544764",
+      "bioHtml": "Agile software product manager and Certified Scrum Owner, with 19 years experience across recruitment, fundraising, ecommerce, finance &amp; retail products."
+    },
+    {
+      "title": "Mobile Developer",
+      "role": "Employee",
+      "url": "https://angel.co/u/benoit-pasquier",
+      "name": "Benoit Pasquier",
+      "avatar": "https://photos.angel.co/users/707910-medium_jpg?1444080178",
+      "bioHtml": "iOS developer at Qudini. Worked for @holi_motion and writer @ConnectedStuff on #IoT."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/fraser-hardy",
+      "name": "Fraser Hardy",
+      "avatar": "https://photos.angel.co/users/188665-medium_jpg?1405556297",
+      "bioHtml": "Founder Qudini • Studied at <a href=\"https://angel.co/university-of-plymouth\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Plymouth</span></a> and <a href=\"https://angel.co/london-metropolitan-university\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">London Metropolitan University</span></a> "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "131698",
+    "angelListUrl": "https://angel.co/company/qudini"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Data Engineer",
+      "description": "We are a fast-growing technology company that offer an innovative B2B Customer Experience SaaS solution. We work primarily with the enterprise retail market, but also have clients in: health care, local government, hospitality and entertainment/leisure. We work with significant global brands, including O2, Telefonica global and House of Fraser.\n\nWe are growing our energetic and ambitious team, and looking for individuals who are driven, dynamic and keen to make an impact within a small business. We value people with a high-growth mind-set and innovative vision, individuals who are also analytical in their approach and keen to learn and be challenged.\n\nWe're looking for highly driven and innovative data engineer who can take our data to the next level, allowing our customers and our teams to quickly get the results they're looking for.\n\nWe use AWS Data Pipelines, Python, Lambda, Redshift, Linux, Docker and Periscope at present, but are always open to new ways to improve the process and performance of our systems. We have a keen interest in realtime data processing and machine learning too.\n\nQudini's platform processes around 2million transactions per month at the moment and this is growing at a rapid rate, you'll be key to the continued success of this platform and be able to work across teams.\n\nRequirements\n\nRequired:\n\n* Experience with SQL (MySQL, Postgres) is a must\n* Strong experience with AWS, specifically Lambda and Redshift (we can provide training if needed)\n* Experience in designing data warehouse schema's and pipelines along with ETL routines.\n* Should know the difference between a fact's and dimension's\n* Strong Python knowledge\n* Comfortable with all aspects of data, and able to provide suggestions on how to make improvements to existing processes and ensure quality.\n* Expereince leading a team of developers/data engineers\n* 5+ Years software/data engineering experience\n* BSc/MSc in Computer Science\n\nEssential Qualities:\n\n* Excellent communication skills\n* You need to be well organised, punctual, detailed and accurate, can work quickly to tight deadlines\n* Most importantly have the passion to be part of creating new and exciting projects\n* Multitasking ability\n\n\nNice to have:\n\n* Experience in developing web applications (Java, JS)\n* Front-end web development (Angular.js/React.js)\n\nBenefits\n\nYou'll receive a competitive salary and benefits package and the chance to be a integral part of a rapidly growing startup. Regular team drinks, time to attend training and conferences. Be part of the buzzing London technology scene.",
+      "descriptionHtml": "<p>We are a fast-growing technology company that offer an innovative B2B Customer Experience SaaS solution. We work primarily with the enterprise retail market, but also have clients in: health care, local government, hospitality and entertainment/leisure. We work with significant global brands, including O2, Telefonica global and House of Fraser.</p>\n\n<p>We are growing our energetic and ambitious team, and looking for individuals who are driven, dynamic and keen to make an impact within a small business. We value people with a high-growth mind-set and innovative vision, individuals who are also analytical in their approach and keen to learn and be challenged.</p>\n\n<p>We&#39;re looking for highly driven and innovative data engineer who can take our data to the next level, allowing our customers and our teams to quickly get the results they&#39;re looking for.</p>\n\n<p>We use AWS Data Pipelines, Python, Lambda, Redshift, Linux, Docker and Periscope at present, but are always open to new ways to improve the process and performance of our systems. We have a keen interest in realtime data processing and machine learning too.</p>\n\n<p>Qudini&#39;s platform processes around 2million transactions per month at the moment and this is growing at a rapid rate, you&#39;ll be key to the continued success of this platform and be able to work across teams.</p>\n\n<p>Requirements</p>\n\n<p>Required:</p>\n\n<ul>\n<li>Experience with SQL (MySQL, Postgres) is a must</li>\n<li>Strong experience with AWS, specifically Lambda and Redshift (we can provide training if needed)</li>\n<li>Experience in designing data warehouse schema&#39;s and pipelines along with ETL routines.</li>\n<li>Should know the difference between a fact&#39;s and dimension&#39;s</li>\n<li>Strong Python knowledge</li>\n<li>Comfortable with all aspects of data, and able to provide suggestions on how to make improvements to existing processes and ensure quality.</li>\n<li>Expereince leading a team of developers/data engineers</li>\n<li>5+ Years software/data engineering experience</li>\n<li>BSc/MSc in Computer Science</li>\n</ul>\n\n<p>Essential Qualities:</p>\n\n<ul>\n<li>Excellent communication skills</li>\n<li>You need to be well organised, punctual, detailed and accurate, can work quickly to tight deadlines</li>\n<li>Most importantly have the passion to be part of creating new and exciting projects</li>\n<li>Multitasking ability</li>\n</ul>\n\n<p>Nice to have:</p>\n\n<ul>\n<li>Experience in developing web applications (Java, JS)</li>\n<li>Front-end web development (Angular.js/React.js)</li>\n</ul>\n\n<p>Benefits</p>\n\n<p>You&#39;ll receive a competitive salary and benefits package and the chance to be a integral part of a rapidly growing startup. Regular team drinks, time to attend training and conferences. Be part of the buzzing London technology scene.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/fraser-hardy",
+        "name": "Fraser Hardy",
+        "avatar": "https://photos.angel.co/users/188665-medium_jpg?1405556297"
+      },
+      "refs": {
+        "angelListId": "674398",
+        "angelListUrl": "https://angel.co/company/qudini/jobs/674398-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "DevOps Engineer",
+      "description": "We're looking for a talented DevOps engineer. You'll be continually improving\nsoftware deployments, monitoring systems, building CI and CD pipelines, and\nmore. This role will suit someone that has previously worked in a DevOps or\nSRE-related area, and who is now looking to challenge themselves at scale. We\nstrive to offer highly-available services that clients can trust to remain\navailable the vast majority of the time.\n\nRequirements\n\nOur current infrastructure follows modern principles throughout: autoscaling\nresources, immutable images, treating servers \"as cattle rather than pets\",\nautomating as much setup as possible, ensuring infrastructure code is as well\naudited and rigorously peer-reviewed as application code, and\nusing centralised logging and monitoring. Our company was very much\n\"cloud-native\" from the beginning.\n\nOur newer applications are container-native, being deployed via container\norchestration tools. Elastic Container Service from Amazon Web Services is used,\nand we are strongly considering Kubernetes as Elastic Kubernetes Service matures\nover the next year. You will be key in directing this transition.\n\nA strong understanding of Linux, AWS, and software-defined networks will be\nneeded, as well as the basics of containers and container-orchestration\ntechnology. Many scripts in our infrastructure are written in Python 3.5\nonwards, but we're fine with someone with skills in other languages who is\nwilling to learn Python 3.\n\nTerraform and Ansible 2 make up our provisioning tools for infrastructure and\nservers respectively. We don't expect previous knowledge in those specific\ntechnologies, but do want experience in some set of Configuration Management and\ninfrastructure provisioning tools, e.g. Chef, Puppet, and CloudFormation.\n\nTo summarise the expected skills and experiences:\n\n* Linux\n* AWS\n* Docker\n* Some container orchestration experience, e.g. Kubernetes, ECS, or Docker Swarm\nKubernetes, ECS, or Docker Swarm.\n* Python 3, or knowledge of another language and the desire to learn Python 3 on\nthe job.\n* Configuration management tools e.g. Ansible, Puppet, Chef, or Fabric.\n* Infrastructure provisioning tools e.g. Terraform or Cloud Formation.\n\nWe look forward to hearing from you!\n\nBenefits\n\nYou'll receive a competitive salary and benefits package and the chance to be a integral part of a rapidly growing startup. Regular team drinks, time to attend training and conferences. Be part of the buzzing London technology scene.",
+      "descriptionHtml": "<p>We&#39;re looking for a talented DevOps engineer. You&#39;ll be continually improving<br>\nsoftware deployments, monitoring systems, building CI and CD pipelines, and<br>\nmore. This role will suit someone that has previously worked in a DevOps or<br>\nSRE-related area, and who is now looking to challenge themselves at scale. We<br>\nstrive to offer highly-available services that clients can trust to remain<br>\navailable the vast majority of the time.</p>\n\n<p>Requirements</p>\n\n<p>Our current infrastructure follows modern principles throughout: autoscaling<br>\nresources, immutable images, treating servers &quot;as cattle rather than pets&quot;,<br>\nautomating as much setup as possible, ensuring infrastructure code is as well<br>\naudited and rigorously peer-reviewed as application code, and<br>\nusing centralised logging and monitoring. Our company was very much<br>\n&quot;cloud-native&quot; from the beginning.</p>\n\n<p>Our newer applications are container-native, being deployed via container<br>\norchestration tools. Elastic Container Service from Amazon Web Services is used,<br>\nand we are strongly considering Kubernetes as Elastic Kubernetes Service matures<br>\nover the next year. You will be key in directing this transition.</p>\n\n<p>A strong understanding of Linux, AWS, and software-defined networks will be<br>\nneeded, as well as the basics of containers and container-orchestration<br>\ntechnology. Many scripts in our infrastructure are written in Python 3.5<br>\nonwards, but we&#39;re fine with someone with skills in other languages who is<br>\nwilling to learn Python 3.</p>\n\n<p>Terraform and Ansible 2 make up our provisioning tools for infrastructure and<br>\nservers respectively. We don&#39;t expect previous knowledge in those specific<br>\ntechnologies, but do want experience in some set of Configuration Management and<br>\ninfrastructure provisioning tools, e.g. Chef, Puppet, and CloudFormation.</p>\n\n<p>To summarise the expected skills and experiences:</p>\n\n<ul>\n<li>Linux</li>\n<li>AWS</li>\n<li>Docker</li>\n<li>Some container orchestration experience, e.g. Kubernetes, ECS, or Docker Swarm\nKubernetes, ECS, or Docker Swarm.</li>\n<li>Python 3, or knowledge of another language and the desire to learn Python 3 on\nthe job.</li>\n<li>Configuration management tools e.g. Ansible, Puppet, Chef, or Fabric.</li>\n<li>Infrastructure provisioning tools e.g. Terraform or Cloud Formation.</li>\n</ul>\n\n<p>We look forward to hearing from you!</p>\n\n<p>Benefits</p>\n\n<p>You&#39;ll receive a competitive salary and benefits package and the chance to be a integral part of a rapidly growing startup. Regular team drinks, time to attend training and conferences. Be part of the buzzing London technology scene.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/fraser-hardy",
+        "name": "Fraser Hardy",
+        "avatar": "https://photos.angel.co/users/188665-medium_jpg?1405556297"
+      },
+      "refs": {
+        "angelListId": "674399",
+        "angelListUrl": "https://angel.co/company/qudini/jobs/674399-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Front-end Developer (React.js)",
+      "description": "We are hiring an experienced front end developer to join our ever-growing development team and to work on our web application, the main desktop platform used by our clients. Your role will involve development of completely new functionality, prototype projects and also contributing to our existing product and helping to maintain it.\n\nYou will be a key member of our development team and will work alongside our company founders and the product design team in designing innovative new features for the platform, and then will be working alongside our backend development team for implementation of these features. You will also be able to share ideas with the company’s mobile developers who will at times be implementing similar features into our mobile applications.\n\nWe search for someone with an eye for design and an understanding of how to develop functionality that will provide an excellent user experience for our users. You will be skilled at developing intuitive and robust user interfaces using Angular.JS, and ensuring responsive, cross platform, cross browser support.\n\nRequirements\n\nFront End Developer Required Skills:\n\n\n* Strong HTML5 knowledge.\n* Javascript (Angular JS/ React )\n* HTML\n* CSS\n* Strong SASS knowledge\n* Focus on responsive web development\n* Building pixel perfect UI from designs, and ability to work closely with UI Designer. A keen eye for usability and UX.\n\n\nExperience with:\n* Gulp/Grunt\n* Bower\n* NPM\n* Karma\n* Protractor\n* Sketch/Photoshop/Fireworks\n\n\nReact Native or React experience is a big bonus. Our front end is mostly Angular.js however we've started a new project with React Native.\n\nEssential Qualities:\n* Excellent communication skills\n* You need to be well organised, punctual, detailed and accurate, can work quickly to tight deadlines\n* Most importantly have the passion to be part of creating new and exciting projects\n* Multitasking ability\n\n\nClosing Date: 28th Feb 2018\n\nSalary: £35-65000 per year DOE\n\nBenefits\n\nYou'll receive a competitive salary and benefits package and the chance to be a integral part of a rapidly growing startup. Regular team drinks, time to attend training and conferences. Be part of the buzzing London technology scene.\n\n\nQudini is an official Tier 2 visa sponsor",
+      "descriptionHtml": "<p>We are hiring an experienced front end developer to join our ever-growing development team and to work on our web application, the main desktop platform used by our clients. Your role will involve development of completely new functionality, prototype projects and also contributing to our existing product and helping to maintain it.</p>\n\n<p>You will be a key member of our development team and will work alongside our company founders and the product design team in designing innovative new features for the platform, and then will be working alongside our backend development team for implementation of these features. You will also be able to share ideas with the company’s mobile developers who will at times be implementing similar features into our mobile applications.</p>\n\n<p>We search for someone with an eye for design and an understanding of how to develop functionality that will provide an excellent user experience for our users. You will be skilled at developing intuitive and robust user interfaces using Angular.JS, and ensuring responsive, cross platform, cross browser support.</p>\n\n<p>Requirements</p>\n\n<p>Front End Developer Required Skills:</p>\n\n<ul>\n<li>Strong HTML5 knowledge.</li>\n<li>Javascript (Angular JS/ React )</li>\n<li>HTML</li>\n<li>CSS</li>\n<li>Strong SASS knowledge</li>\n<li>Focus on responsive web development</li>\n<li>Building pixel perfect UI from designs, and ability to work closely with UI Designer. A keen eye for usability and UX.</li>\n</ul>\n\n<p>Experience with:</p>\n\n<ul>\n<li>Gulp/Grunt</li>\n<li>Bower</li>\n<li>NPM</li>\n<li>Karma</li>\n<li>Protractor</li>\n<li>Sketch/Photoshop/Fireworks</li>\n</ul>\n\n<p>React Native or React experience is a big bonus. Our front end is mostly Angular.js however we&#39;ve started a new project with React Native.</p>\n\n<p>Essential Qualities:</p>\n\n<ul>\n<li>Excellent communication skills</li>\n<li>You need to be well organised, punctual, detailed and accurate, can work quickly to tight deadlines</li>\n<li>Most importantly have the passion to be part of creating new and exciting projects</li>\n<li>Multitasking ability</li>\n</ul>\n\n<p>Closing Date: 28th Feb 2018</p>\n\n<p>Salary: £35-65000 per year DOE</p>\n\n<p>Benefits</p>\n\n<p>You&#39;ll receive a competitive salary and benefits package and the chance to be a integral part of a rapidly growing startup. Regular team drinks, time to attend training and conferences. Be part of the buzzing London technology scene.</p>\n\n<p>Qudini is an official Tier 2 visa sponsor</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/fraser-hardy",
+        "name": "Fraser Hardy",
+        "avatar": "https://photos.angel.co/users/188665-medium_jpg?1405556297"
+      },
+      "refs": {
+        "angelListId": "674400",
+        "angelListUrl": "https://angel.co/company/qudini/jobs/674400-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Lead Developer (Java / Full stack)",
+      "description": "Qudini are looking for an experienced lead developer to join their growing team based in Shoreditch, London. We are a B2B SaaS platform providing queue and appointment management systems for clients ranging from large enterprises to independent restaurants. Out system handles over 1.5 million customers per month and is growing as we expand internationally.\n\n\nThe role is primarily backend development in Java 8, but many of our team are able to work across the stack so if you have an interest in frontend development then this is a bonus but not a solid requirement (or front-end is Angular.js but moving to React.js). You should have experience in leading a team but should still be very hands on. We'd expect approximately 80/20 split between hands on coding vs other leadership tasks, but with the opportunity to progress further into managment.\n\n\nYou should have a proven track record of working on large scale applications and be able to work quickly and efficiently to deliver quality code to meet both internal and client deadlines. You'll work closely with the CTO and business, with an agile team of developers to drive forward our cloud web application. Working closely with the product team to build greenfield projects and also to continually improve the platform to meet the demands of a rapidly growing user base.\n\nWe're always on the lookout for new technology and new ways of working to improve and grow the company. Innovation is a big part of Qudini and you shouldn't be afraid to suggest changes.\n\n\nRequirements\n\n* Strong back­end application experience:\n** Java (Java 8)\n** Play Framework or Spring Reactive (WebFlux) (or similar frameworks)\n** MySQL, JPA/Hibernate\n** RESTful API’s, swagger, GraphQL\n** Highly responsive concurrent web services\n\n* Front­-end development experience nice to have:\n** HTML5/CSS/SASS\n** React / Angular.js\n** Gulp, Bower\n\n* Experience with Cloud hosted applications:\n** AWS and Linux experience\n** Memcached, RDS\n\n* Knowledge of Continuous Delivery and Automated Testing\n** Bamboo/Jenkins\n** Must have experience with JUnit, Protractor, Phantom.js, Selenium (or similar)\n** SonarQube\n\n* Knowledge of current trends and best practices in front­end and back­end architecture, including performance, accessibility and usability\n\n* Experience working in Agile/Scrum DevOps teams is essential. Jira, confluence (or similar)\n* Team lead experience is a must. As a senior, knowledge sharing will be expected as will participating in code reviews. You should be a hands-on coder and an effective people manager.\n\n\nSalary: £50-70000 per year DOE\n\nBenefits\n\nYou'll receive a competitive salary and benefits package and the chance to be a integral part of a rapidly growing startup. Regular team drinks, time to attend training and conferences. Be part of the buzzing London technology scene.",
+      "descriptionHtml": "<p>Qudini are looking for an experienced lead developer to join their growing team based in Shoreditch, London. We are a B2B SaaS platform providing queue and appointment management systems for clients ranging from large enterprises to independent restaurants. Out system handles over 1.5 million customers per month and is growing as we expand internationally.</p>\n\n<p>The role is primarily backend development in Java 8, but many of our team are able to work across the stack so if you have an interest in frontend development then this is a bonus but not a solid requirement (or front-end is Angular.js but moving to React.js). You should have experience in leading a team but should still be very hands on. We&#39;d expect approximately 80/20 split between hands on coding vs other leadership tasks, but with the opportunity to progress further into managment.</p>\n\n<p>You should have a proven track record of working on large scale applications and be able to work quickly and efficiently to deliver quality code to meet both internal and client deadlines. You&#39;ll work closely with the CTO and business, with an agile team of developers to drive forward our cloud web application. Working closely with the product team to build greenfield projects and also to continually improve the platform to meet the demands of a rapidly growing user base.</p>\n\n<p>We&#39;re always on the lookout for new technology and new ways of working to improve and grow the company. Innovation is a big part of Qudini and you shouldn&#39;t be afraid to suggest changes.</p>\n\n<p>Requirements</p>\n\n<ul>\n<li><p>Strong back­end application experience:<br>\n** Java (Java 8)<br>\n** Play Framework or Spring Reactive (WebFlux) (or similar frameworks)<br>\n** MySQL, JPA/Hibernate<br>\n** RESTful API’s, swagger, GraphQL<br>\n** Highly responsive concurrent web services</p></li>\n<li><p>Front­-end development experience nice to have:<br>\n** HTML5/CSS/SASS<br>\n** React / Angular.js<br>\n** Gulp, Bower</p></li>\n<li><p>Experience with Cloud hosted applications:<br>\n** AWS and Linux experience<br>\n** Memcached, RDS</p></li>\n<li><p>Knowledge of Continuous Delivery and Automated Testing<br>\n** Bamboo/Jenkins<br>\n** Must have experience with JUnit, Protractor, Phantom.js, Selenium (or similar)<br>\n** SonarQube</p></li>\n<li><p>Knowledge of current trends and best practices in front­end and back­end architecture, including performance, accessibility and usability</p></li>\n<li><p>Experience working in Agile/Scrum DevOps teams is essential. Jira, confluence (or similar)</p></li>\n<li><p>Team lead experience is a must. As a senior, knowledge sharing will be expected as will participating in code reviews. You should be a hands-on coder and an effective people manager.</p></li>\n</ul>\n\n<p>Salary: £50-70000 per year DOE</p>\n\n<p>Benefits</p>\n\n<p>You&#39;ll receive a competitive salary and benefits package and the chance to be a integral part of a rapidly growing startup. Regular team drinks, time to attend training and conferences. Be part of the buzzing London technology scene.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/fraser-hardy",
+        "name": "Fraser Hardy",
+        "avatar": "https://photos.angel.co/users/188665-medium_jpg?1405556297"
+      },
+      "refs": {
+        "angelListId": "674401",
+        "angelListUrl": "https://angel.co/company/qudini/jobs/674401-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Developer (Java / Full stack)",
+      "description": "Qudini are looking for an experienced developer to join their growing team based in Shoreditch, London. We are a B2B SaaS platform providing queue and appointment management systems for clients ranging from large enterprises to independent restaurants. Out system handles over 1.5 million customers per month and is growing as we expand internationally.\n\n\nThe role is primarily backend development in Java 8, but many of our team are able to work across the stack so if you have an interest in frontend development then this is a bonus but not a solid requirement (or front-end is Angular.js but moving to React.js)\n\n\nYou should have a proven track record of working on large scale applications and be able to work quickly and efficiently to deliver quality code to meet both internal and client deadlines. You'll work closely with the CTO and business, with an agile team of developers to drive forward our cloud web application. Working closely with the product team to build greenfield projects and also to continually improve the platform to meet the demands of a rapidly growing user base.\n\nWe're always on the lookout for new technology and new ways of working to improve and grow the company. Innovation is a big part of Qudini and you shouldn't be afraid to suggest changes.\n\n\nRequirements\n\n* Strong back­end application experience:\n** Java (Java 8)\n** Play Framework or Spring Reactive (WebFlux) (or similar frameworks)\n** MySQL, JPA/Hibernate\n** RESTful API’s, swagger\n** Highly responsive concurrent web services\n\n* Front­-end development experience nice to have:\n** HTML5/CSS/SASS\n** React / Angular.js\n** Gulp, Bower\n\n* Experience with Cloud hosted applications:\n** AWS and Linux experience\n** Memcached, RDS\n\n* Knowledge of Continuous Delivery and Automated Testing\n** Bamboo/Jenkins\n** Must have experience with JUnit, Protractor, Phantom.js, Selenium (or similar)\n** SonarQube\n\n* Knowledge of current trends and best practices in front­end and back­end architecture, including performance, accessibility and usability\n\n* Experience working in Agile/Scrum DevOps teams is essential. Jira, confluence (or similar)\n* Team lead experience is a nice to have. The chance to mentor more junior team members. As a senior, knowledge sharing will be expected as will participating in code reviews. You should be a hands-on coder and an effective people manager.\n\n\nSalary: £35-65000 per year DOE\n\nBenefits\n\nYou'll receive a competitive salary and benefits package and the chance to be a integral part of a rapidly growing startup. Regular team drinks, time to attend training and conferences. Be part of the buzzing London technology scene.\n\n\nQudini is an official Tier 2 visa sponsor",
+      "descriptionHtml": "<p>Qudini are looking for an experienced developer to join their growing team based in Shoreditch, London. We are a B2B SaaS platform providing queue and appointment management systems for clients ranging from large enterprises to independent restaurants. Out system handles over 1.5 million customers per month and is growing as we expand internationally.</p>\n\n<p>The role is primarily backend development in Java 8, but many of our team are able to work across the stack so if you have an interest in frontend development then this is a bonus but not a solid requirement (or front-end is Angular.js but moving to React.js)</p>\n\n<p>You should have a proven track record of working on large scale applications and be able to work quickly and efficiently to deliver quality code to meet both internal and client deadlines. You&#39;ll work closely with the CTO and business, with an agile team of developers to drive forward our cloud web application. Working closely with the product team to build greenfield projects and also to continually improve the platform to meet the demands of a rapidly growing user base.</p>\n\n<p>We&#39;re always on the lookout for new technology and new ways of working to improve and grow the company. Innovation is a big part of Qudini and you shouldn&#39;t be afraid to suggest changes.</p>\n\n<p>Requirements</p>\n\n<ul>\n<li><p>Strong back­end application experience:<br>\n** Java (Java 8)<br>\n** Play Framework or Spring Reactive (WebFlux) (or similar frameworks)<br>\n** MySQL, JPA/Hibernate<br>\n** RESTful API’s, swagger<br>\n** Highly responsive concurrent web services</p></li>\n<li><p>Front­-end development experience nice to have:<br>\n** HTML5/CSS/SASS<br>\n** React / Angular.js<br>\n** Gulp, Bower</p></li>\n<li><p>Experience with Cloud hosted applications:<br>\n** AWS and Linux experience<br>\n** Memcached, RDS</p></li>\n<li><p>Knowledge of Continuous Delivery and Automated Testing<br>\n** Bamboo/Jenkins<br>\n** Must have experience with JUnit, Protractor, Phantom.js, Selenium (or similar)<br>\n** SonarQube</p></li>\n<li><p>Knowledge of current trends and best practices in front­end and back­end architecture, including performance, accessibility and usability</p></li>\n<li><p>Experience working in Agile/Scrum DevOps teams is essential. Jira, confluence (or similar)</p></li>\n<li><p>Team lead experience is a nice to have. The chance to mentor more junior team members. As a senior, knowledge sharing will be expected as will participating in code reviews. You should be a hands-on coder and an effective people manager.</p></li>\n</ul>\n\n<p>Salary: £35-65000 per year DOE</p>\n\n<p>Benefits</p>\n\n<p>You&#39;ll receive a competitive salary and benefits package and the chance to be a integral part of a rapidly growing startup. Regular team drinks, time to attend training and conferences. Be part of the buzzing London technology scene.</p>\n\n<p>Qudini is an official Tier 2 visa sponsor</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/fraser-hardy",
+        "name": "Fraser Hardy",
+        "avatar": "https://photos.angel.co/users/188665-medium_jpg?1405556297"
+      },
+      "refs": {
+        "angelListId": "674402",
+        "angelListUrl": "https://angel.co/company/qudini/jobs/674402-"
+      }
+    }
+  ]
+}

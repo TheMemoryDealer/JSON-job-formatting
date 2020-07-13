@@ -1,0 +1,91 @@
+{
+  "name": "Glowble",
+  "avatar": "https://photos.angel.co/startups/i/6875190-143b6b31cb33ed83e5deae5d5fd75466-medium_jpg.jpg?buster=1554827522",
+  "slogan": "Where bright talent goes global",
+  "description": "Glowble is a website / app that democratises the scouting process for sportspeople all over the world and celebrates the social side of the clubs we love.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://glowble.co (under development)"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Social Media",
+    "Sports",
+    "Technology"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/garethnicholas",
+      "name": "Gareth Nicholas",
+      "avatar": "https://photos.angel.co/users/9190521-medium_jpg?1554827639",
+      "bioHtml": "Ex- Yahoo marketer looking to create something cool of his own"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6875190",
+    "angelListUrl": "https://angel.co/company/glowble"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "Technical Co-Founder",
+      "description": "I need a Woz to my Steve. Preferably you will have an interest in sport and social networking and will be looking to create something great that can scale. \n\nKnowledge of full stack development needed including mobile and understanding of wider network infrastructure would be great.",
+      "descriptionHtml": "<p>I need a Woz to my Steve. Preferably you will have an interest in sport and social networking and will be looking to create something great that can scale. </p>\n\n<p>Knowledge of full stack development needed including mobile and understanding of wider network infrastructure would be great.</p>\n",
+      "position": "cofounder",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/garethnicholas",
+        "name": "Gareth Nicholas",
+        "avatar": "https://photos.angel.co/users/9190521-medium_jpg?1554827639"
+      },
+      "refs": {
+        "angelListId": "535415",
+        "angelListUrl": "https://angel.co/company/glowble/jobs/535415-"
+      }
+    }
+  ]
+}

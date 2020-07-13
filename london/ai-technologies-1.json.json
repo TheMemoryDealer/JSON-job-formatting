@@ -1,0 +1,124 @@
+{
+  "name": "AI Technologies",
+  "avatar": "https://photos.angel.co/startups/i/4805481-aea58b5e6bb2c79049cd3a5c74d83020-medium_jpg.jpg?buster=1538268424",
+  "slogan": "Effective solutions to complex problems",
+  "description": "We are a firm dedicated to empower startups and more established companies to untap the potential of artificial intelligence solutions in their business. In the life span of a company it may occur that the team lack of the complete skillset to solve complex problems and the normally extended time to overcome the difficulties can hinder the success of the company itself. In these scenarios, AI technologies offers an immediate impact solution within a short timeframe from the first consultation.\nCouple of clients we worked on:\n\neezylife.com: An app to recommend evening venues (restaurants, bars..) based on the personality of the users rather than the 'best rating' as it in the most used platform at the moment (tripadvisor, opentable etc.) We developed the matching system between the user and the venues.\nbreakr: An app that allows users to exchange voice messages with minimum interaction with the phone. We designed and implemented the voice detection.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.aitechnologies.co"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/11272112/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Technology"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/andrea-isoni",
+      "name": "Andrea Isoni",
+      "avatar": "https://photos.angel.co/users/829314-medium_jpg?1508435483",
+      "bioHtml": "<a href=\"https://angel.co/company/ai-technologies-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">AI Technologies</span></a> • Worked at <a href=\"https://angel.co/company/intros-at\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Grip</span></a>, <a href=\"https://angel.co/company/vaix\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">VAIX</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4805481",
+    "angelListUrl": "https://angel.co/company/ai-technologies-1"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "ML engineer",
+      "description": "AI Technologies is looking for a machine learning practitioner who enjoys to make sense of data and to come up with smart model which really exploits the data potential.\n\nWe are going to work in an exciting project to assess specific malicious behaviours on network systems.\n\nThe successful candidate will have already hands on experience with Python, machine learning, object oriented programming procedures (preferably in Python) and excellent communication skills to interact with the client in the most efficient way.",
+      "descriptionHtml": "<p>AI Technologies is looking for a machine learning practitioner who enjoys to make sense of data and to come up with smart model which really exploits the data potential.</p>\n\n<p>We are going to work in an exciting project to assess specific malicious behaviours on network systems.</p>\n\n<p>The successful candidate will have already hands on experience with Python, machine learning, object oriented programming procedures (preferably in Python) and excellent communication skills to interact with the client in the most efficient way.</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Machine Learning"
+      ],
+      "payment": {
+        "salary": "£35k – £50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/andrea-isoni",
+        "name": "Andrea Isoni",
+        "avatar": "https://photos.angel.co/users/829314-medium_jpg?1508435483"
+      },
+      "refs": {
+        "angelListId": "400551",
+        "angelListUrl": "https://angel.co/company/ai-technologies-1/jobs/400551-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Big data consultant",
+      "description": "AI Technologies is looking for a machine learning practitioner who enjoys working on big data as much as making sense of it.\n\nWe are going to work in an exciting project with a corporate client to within their own data infrastructure.\n\nThe successful candidate will have already hands on experience with SQL, and  Big Data technologies (like pyspark) and excellent communication skills to interact with the client in the most efficient way.\n\n\n\nIdeally available by August  (flexibility on the starting day possible).",
+      "descriptionHtml": "<p>AI Technologies is looking for a machine learning practitioner who enjoys working on big data as much as making sense of it.</p>\n\n<p>We are going to work in an exciting project with a corporate client to within their own data infrastructure.</p>\n\n<p>The successful candidate will have already hands on experience with SQL, and  Big Data technologies (like pyspark) and excellent communication skills to interact with the client in the most efficient way.</p>\n\n<p>Ideally available by August  (flexibility on the starting day possible).</p>\n",
+      "position": "contract",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "SQL",
+        "Pyspark"
+      ],
+      "payment": {
+        "salary": "£70k – £90k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/andrea-isoni",
+        "name": "Andrea Isoni",
+        "avatar": "https://photos.angel.co/users/829314-medium_jpg?1508435483"
+      },
+      "refs": {
+        "angelListId": "585775",
+        "angelListUrl": "https://angel.co/company/ai-technologies-1/jobs/585775-"
+      }
+    }
+  ]
+}

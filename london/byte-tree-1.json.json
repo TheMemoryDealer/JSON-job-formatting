@@ -1,0 +1,98 @@
+{
+  "name": "Byte Tree",
+  "avatar": "https://photos.angel.co/startups/i/7341541-54322123d89f6ea0545c97e493977e8a-medium_jpg.jpg?buster=1574941103",
+  "slogan": "Enhancing Visibility of Blockchain Networks",
+  "description": "ByteTree has built a first-of-its-kind live data terminal for tracking digital asset networks in real time. The ByteTree terminal enables professional investors and funds to conduct due diligence on crypto-asset networks, fulfilling their fiduciary responsibly as well as managing their position size in keeping with the state of the market. Our network data is available to researchers, investors and traders through our API, on a freemium model. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://bytetree.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Blockchains",
+    "Fin Tech",
+    "Databases"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/james-bennett-25",
+      "name": "James Bennett",
+      "avatar": "https://photos.angel.co/users/6659926-medium_jpg?1572625057",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7341541",
+    "angelListUrl": "https://angel.co/company/byte-tree-1"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Back-end developer / DBA (Database administrator)",
+      "description": "ByteTree are recruiting a back-end developer to enhance their data quality and governance procedures. We are looking for an enthusiastic and energetic individual with proven talent and a willingness to adapt and learn new skills. The ideal candidate is excited by the opportunities to learn and diversify, contributing to a fast-paced and agile development environment. \r\n\r\nThis position is full time and will report to the Head of Development and Operations. \r\n\r\nLocation: London, United Kingdom (remote considered) \r\n\r\nResponsibilities:\r\nYour responsibilities will include: \r\n\r\n-\tWorking with the team to find and develop innovative methods for optimising, testing and qualifying our big data, real-time, time-series datasets.\r\n-\tHelping the team manage and develop our MongoDB infrastructure.\r\n-\tUtilise and develop existing tools to monitor and maintain the quality of our data.\r\n-\tDeep integration testing. Writing code to test the effect and effectiveness of new data feeds, optimising database structure for product development.\r\n-\tWork with our development team to write data quality and code testing procedures (data anomaly detection and manual checks).  \r\n-\tData governance and data quality KPIs, document workflow and audit trails.\r\n-\tEnsure internal data computations and transformations align with best practice.\r\n-\tHelping to define, develop and document our customer API.\r\n\r\nBasic Qualifications\r\n-\tBachelor’s Degree in Computer Science, Data Science, Information Systems (or an equivalent) – Talented non graduates welcome to apply.\r\n-\tMinimum of two years software development experience as a backend developer\r\n-\tStrong start-up spirit, ownership and high integrity are a must. \r\n\r\nTechnical Qualifications\r\n-\tMust be fluent in Javascript/node.js and related tools at ES6 or higher level\r\n-\tMust have strong experience with MongoDB at Enterprise level (including clustering and sharding)\r\n-\tExpected to be an Agile Practitioner – and in particular have experience of Test Driven Development (TDD) and CI/CD\r\n-\tExpected to have enthusiasm for blockchain and DLT technology\r\n-\tExpected to have developed with containerised Docker environments\r\n-\tExpected to have used git in a Team environment\r\n-\tExpected to have used Markdown\r\n-\tExpected to have some experience with AWS services.\r\n-\tBonus points for experience with AWS ECS and Fargate, but we use many other services\r\n-\tBonus points for experience in API Definition and related Tools - e.g. swagger, apiary, graphql\r\n-\tBonus points for having developed with Web Sockets (socket.io) and Cote node.js library",
+      "descriptionHtml": "<p>ByteTree are recruiting a back-end developer to enhance their data quality and governance procedures. We are looking for an enthusiastic and energetic individual with proven talent and a willingness to adapt and learn new skills. The ideal candidate is excited by the opportunities to learn and diversify, contributing to a fast-paced and agile development environment. </p>\n\n<p>This position is full time and will report to the Head of Development and Operations. </p>\n\n<p>Location: London, United Kingdom (remote considered) </p>\n\n<p>Responsibilities:<br>\nYour responsibilities will include: </p>\n\n<ul>\n<li>  Working with the team to find and develop innovative methods for optimising, testing and qualifying our big data, real-time, time-series datasets.</li>\n<li>  Helping the team manage and develop our MongoDB infrastructure.</li>\n<li>  Utilise and develop existing tools to monitor and maintain the quality of our data.</li>\n<li>  Deep integration testing. Writing code to test the effect and effectiveness of new data feeds, optimising database structure for product development.</li>\n<li>  Work with our development team to write data quality and code testing procedures (data anomaly detection and manual checks).<br></li>\n<li>  Data governance and data quality KPIs, document workflow and audit trails.</li>\n<li>  Ensure internal data computations and transformations align with best practice.</li>\n<li>  Helping to define, develop and document our customer API.</li>\n</ul>\n\n<p>Basic Qualifications</p>\n\n<ul>\n<li>  Bachelor’s Degree in Computer Science, Data Science, Information Systems (or an equivalent) – Talented non graduates welcome to apply.</li>\n<li>  Minimum of two years software development experience as a backend developer</li>\n<li>  Strong start-up spirit, ownership and high integrity are a must. </li>\n</ul>\n\n<p>Technical Qualifications</p>\n\n<ul>\n<li>  Must be fluent in Javascript/node.js and related tools at ES6 or higher level</li>\n<li>  Must have strong experience with MongoDB at Enterprise level (including clustering and sharding)</li>\n<li>  Expected to be an Agile Practitioner – and in particular have experience of Test Driven Development (TDD) and CI/CD</li>\n<li>  Expected to have enthusiasm for blockchain and DLT technology</li>\n<li>  Expected to have developed with containerised Docker environments</li>\n<li>  Expected to have used git in a Team environment</li>\n<li>  Expected to have used Markdown</li>\n<li>  Expected to have some experience with AWS services.</li>\n<li>  Bonus points for experience with AWS ECS and Fargate, but we use many other services</li>\n<li>  Bonus points for experience in API Definition and related Tools - e.g. swagger, apiary, graphql</li>\n<li>  Bonus points for having developed with Web Sockets (socket.io) and Cote node.js library</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "MongoDB",
+        "Node.js",
+        "API",
+        "Agile"
+      ],
+      "payment": {
+        "salary": "£45k – £50k",
+        "equity": "0.0% – 0.5%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/james-bennett-25",
+        "name": "James Bennett",
+        "avatar": "https://photos.angel.co/users/6659926-medium_jpg?1572625057"
+      },
+      "refs": {
+        "angelListId": "672632",
+        "angelListUrl": "https://angel.co/company/byte-tree-1/jobs/672632-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "name": "Optimal",
+  "avatar": "https://photos.angel.co/startups/i/3741005-a054f2b34a9cfd485d41a092a04bfbb4-medium_jpg.jpg?buster=1525368107",
+  "slogan": "Deploying fully autonomous greenhouses outside every city on earth",
+  "description": "We are a collection of engineers from Palantir, DeepMind, Oxford University and Cambridge University, on a mission to grow safer, healthier food by deploying fully autonomous greenhouses outside every city on earth.\n\nHigh-tech greenhouses are key to our agricultural future - for improving human nutrition and for securing our food system against climate change and population growth. We are doing everything we can to accelerate the deployment of new farms around the world.\n\nWe are backed by leading deep technology VC funds, including Founders Fund, who backed companies such as SpaceX, Palantir and Square from the start.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://optimal.ag/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/optimal-labs"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Agriculture"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/david-hunter-7",
+      "name": "David Hunter",
+      "avatar": "https://photos.angel.co/users/818881-medium_jpg?1588663250",
+      "bioHtml": "Founder/CEO <a href=\"https://angel.co/company/optimal-labs\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Optimal</span></a> | We&#39;re hiring!"
+    },
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/joao-abrantes-1",
+      "name": "João Abrantes",
+      "avatar": "https://photos.angel.co/users/1633646-medium_jpg?1525469458",
+      "bioHtml": "Applied Reinforcement Learning Consultant. Machine Learning and Robotics research at <a href=\"https://angel.co/epfl-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">EPFL</span></a> ."
+    },
+    {
+      "title": "Senior Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/ben-gazzard",
+      "name": "Ben Gazzard",
+      "avatar": "https://photos.angel.co/users/2719977-medium_jpg?1570616736",
+      "bioHtml": "Currently a Senior Engineer at Optimal, previously six years as a FDE at Palantir and before that Netcraft. Worked with Java, Spark, Python, Typescript, React."
+    },
+    {
+      "title": "Senior Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/graeme-morrison-1",
+      "name": "Graeme Morrison",
+      "avatar": "https://photos.angel.co/users/8490505-medium_jpg?1546701650",
+      "bioHtml": "Senior Engineer <a href=\"https://angel.co/company/optimal-labs\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Optimal</span></a>. PhD <a href=\"https://angel.co/university-of-cambridge\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Cambridge</span></a>."
+    },
+    {
+      "title": "Employee",
+      "role": "Employee",
+      "url": "https://angel.co/u/stevan-boljevic",
+      "name": "Stevan Boljevic",
+      "avatar": "https://photos.angel.co/users/7964667-medium_jpg?1528391423",
+      "bioHtml": "Chief of Staff <a href=\"https://angel.co/company/optimal-labs\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Optimal</span></a>. \nPPE <a href=\"https://angel.co/university-of-oxford-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Oxford</span></a>. Ex <a href=\"https://angel.co/company/goldman-sachs\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Goldman Sachs</span></a>."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "3741005",
+    "angelListUrl": "https://angel.co/company/optimal-labs"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Lead Software Engineer",
+      "description": "MISSION\n\nOur mission is to grow safer, healthier food by deploying fully autonomous greenhouses outside every city on earth.\n\nHigh-tech greenhouses are key to our agricultural future - for improving human nutrition and to secure our food system against climate change and population growth. We are doing everything we can to accelerate the deployment of new farms around the world and are well on our way following successful in-field trials of our prototype control system and having reached a partnership agreement to access 25% of the world’s greenhouses.\n\nFind out more about our mission in this 2 min video: https://youtu.be/LDJ_QdUaap4.\n\n\n\nTEAM\n\nWe are an ambitious mission-focussed team with backgrounds from Palantir, DeepMind, Oxford University and Cambridge University. We are backed by leading deep technology VC funds, including Founders Fund, who backed companies such as SpaceX, Palantir and Square from the start.\n\n\n\n\nROLE\n\nExcellent software engineering is central to our mission.\n\nThe software engineering team at Optimal is responsible for delivering the infrastructure on top of which we provide autonomous growing services to high-tech greenhouses around the world. They develop the core platform which is used by our growers, on-the-ground personnel, and the Advanced Control Team. They are essential to the success of the business scaling globally.\n\nAs a lead software engineer at Optimal, you will work closely with highly technical and non-technical users to figure out what needs to be built to meet company objectives, and how to build it. You should be able to own the whole software engineering lifecycle: from design, through development, to deployment. You will be responsible for deploying infrastructure into the field and ensuring that it works.\n\nHowever, we aren’t building everything from scratch. You should be able to identify when an existing commercial or open-source solution can be used to meet a requirement and integrate that into our platform.\n\nYou should be able to bring expertise in at least two of these areas:\n\n* Architecting cloud infrastructure for controlling and monitoring greenhouses autonomously.\n* Building interfaces with onsite environment sensors and controllers - and connecting them to Optimal.\n* Implementing user interfaces that allow growers and other team members to monitor, control and intervene.\n* Creating mobile tools to streamline in-field data collection.\n\nTechnologies we use today:\n\n* Our backend is entirely Python on top of BigQuery, SQL and Redis storage layers.\n* UI’s are built in JavaScript with Node.JS.\n* We continuously deploy our software to Google Cloud Platform using standard build tools like Terraform and CircleCI.\n\nOur technology stack isn’t set in stone. You will bring your own experiences and knowledge to improve it.\n\n\n\n\nRequirements\n\n* Strong engineering background in fields such as Computer Science, Mathematics, and Physics.\n* Several years of relevant experience.\n* Ability to lead a small team of highly-capable engineers.\n* Experience with several of: RESTful API’s, embedded systems, cloud infrastructure, test automation, front-end frameworks, storage frameworks, distributed and parallel systems, CI/CD infrastructure and containerisation.\n* Strong developer with demonstrated proficiency in at least one general purpose programming language. Good working knowledge of Python.\n* Ability to collaborate and empathise with a variety of individuals. You can iterate with users and non-technical stakeholders and understand how your technical decisions impact them and the longer term growth of the platform.\n* Demonstrated ability to learn and work independently and make decisions with minimal supervision\n* Able to thrive in a fast paced startup environment",
+      "descriptionHtml": "<p>MISSION</p>\n\n<p>Our mission is to grow safer, healthier food by deploying fully autonomous greenhouses outside every city on earth.</p>\n\n<p>High-tech greenhouses are key to our agricultural future - for improving human nutrition and to secure our food system against climate change and population growth. We are doing everything we can to accelerate the deployment of new farms around the world and are well on our way following successful in-field trials of our prototype control system and having reached a partnership agreement to access 25% of the world’s greenhouses.</p>\n\n<p>Find out more about our mission in this 2 min video: <a href=\"https://youtu.be/LDJ_QdUaap4\" target=\"_blank\" rel=\"nofollow\">https://youtu.be/LDJ_QdUaap4</a>.</p>\n\n<p>TEAM</p>\n\n<p>We are an ambitious mission-focussed team with backgrounds from Palantir, DeepMind, Oxford University and Cambridge University. We are backed by leading deep technology VC funds, including Founders Fund, who backed companies such as SpaceX, Palantir and Square from the start.</p>\n\n<p>ROLE</p>\n\n<p>Excellent software engineering is central to our mission.</p>\n\n<p>The software engineering team at Optimal is responsible for delivering the infrastructure on top of which we provide autonomous growing services to high-tech greenhouses around the world. They develop the core platform which is used by our growers, on-the-ground personnel, and the Advanced Control Team. They are essential to the success of the business scaling globally.</p>\n\n<p>As a lead software engineer at Optimal, you will work closely with highly technical and non-technical users to figure out what needs to be built to meet company objectives, and how to build it. You should be able to own the whole software engineering lifecycle: from design, through development, to deployment. You will be responsible for deploying infrastructure into the field and ensuring that it works.</p>\n\n<p>However, we aren’t building everything from scratch. You should be able to identify when an existing commercial or open-source solution can be used to meet a requirement and integrate that into our platform.</p>\n\n<p>You should be able to bring expertise in at least two of these areas:</p>\n\n<ul>\n<li>Architecting cloud infrastructure for controlling and monitoring greenhouses autonomously.</li>\n<li>Building interfaces with onsite environment sensors and controllers - and connecting them to Optimal.</li>\n<li>Implementing user interfaces that allow growers and other team members to monitor, control and intervene.</li>\n<li>Creating mobile tools to streamline in-field data collection.</li>\n</ul>\n\n<p>Technologies we use today:</p>\n\n<ul>\n<li>Our backend is entirely Python on top of BigQuery, SQL and Redis storage layers.</li>\n<li>UI’s are built in JavaScript with Node.JS.</li>\n<li>We continuously deploy our software to Google Cloud Platform using standard build tools like Terraform and CircleCI.</li>\n</ul>\n\n<p>Our technology stack isn’t set in stone. You will bring your own experiences and knowledge to improve it.</p>\n\n<p>Requirements</p>\n\n<ul>\n<li>Strong engineering background in fields such as Computer Science, Mathematics, and Physics.</li>\n<li>Several years of relevant experience.</li>\n<li>Ability to lead a small team of highly-capable engineers.</li>\n<li>Experience with several of: RESTful API’s, embedded systems, cloud infrastructure, test automation, front-end frameworks, storage frameworks, distributed and parallel systems, CI/CD infrastructure and containerisation.</li>\n<li>Strong developer with demonstrated proficiency in at least one general purpose programming language. Good working knowledge of Python.</li>\n<li>Ability to collaborate and empathise with a variety of individuals. You can iterate with users and non-technical stakeholders and understand how your technical decisions impact them and the longer term growth of the platform.</li>\n<li>Demonstrated ability to learn and work independently and make decisions with minimal supervision</li>\n<li>Able to thrive in a fast paced startup environment</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Software Engineering",
+        "Python",
+        "Javascript",
+        "Back-End Development",
+        "Cloud Computing",
+        "Node.js",
+        "Distributed Systems",
+        "Front-End Development",
+        "Embedded Systems",
+        "Full Stack Development",
+        "Backend Development",
+        "Frontend Development",
+        "Test Automation",
+        "IoT",
+        "React.js"
+      ],
+      "payment": {
+        "salary": "£70k – £95k",
+        "equity": "1.0% – 2.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/david-hunter-7",
+        "name": "David Hunter",
+        "avatar": "https://photos.angel.co/users/818881-medium_jpg?1588663250"
+      },
+      "refs": {
+        "angelListId": "690357",
+        "angelListUrl": "https://angel.co/company/optimal-labs/jobs/690357-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Modelling and Control Engineer - Advanced Control Team",
+      "description": "MISSION\n\nOur mission is to grow safer, healthier food by deploying fully autonomous greenhouses outside every city on earth.\n\nHigh-tech greenhouses are key to our agricultural future - for improving human nutrition and for securing our food system against climate change and population growth. We are doing everything we can to accelerate the deployment of new farms around the world and are well on our way following successful in-field trials of our prototype control system and having reached a partnership agreement to access 25% of the world’s greenhouses.\n\nFind out more about our mission in this 2 min video: https://youtu.be/LDJ_QdUaap4.\n\nTEAM\n\nWe are an ambitious mission-focussed team with backgrounds from Palantir, DeepMind, Oxford and Cambridge. We are backed by leading deep technology VC funds, including Founders Fund, who backed companies such as SpaceX, Palantir and Square from the start.\n\nROLE\n\nOur belief is that the next step-change in productivity for agriculture will come from the automatic control of large-scale greenhouses. We think that modern control methods can have a major impact on productivity, whilst minimising the energy inputs required to grow crops.\n\nAs a modelling and control engineer at Optimal you will be directly responsible for the development of models and control algorithms that will run in the most advanced greenhouses in the world. By joining us at this early stage you will have a significant impact on the journey we take, the problems we tackle, and the team we build.\n\nThis role is aimed at an engineer who is looking to step up and play a fundamental role in delivering a product at a fast growing startup. \n\nCORE RESPONSIBILITIES\n\n-Rapidly develop models of dynamical systems from first principles.\n-Write efficient optimisation code to maximise crop yield and quality while minimising energy consumption and carbon emissions.\n-Apply modern control theory to push the performance of our control systems; combining control and machine learning approaches where appropriate.\n-Write clean, well structured Python/Tensorflow code to help us scale to multiple greenhouses around the world.\n-Develop sophisticated monitoring algorithms to detect anomalies in time series sensor data.\n\nExtra credit\n- Knowledge of or interest in plant biology.",
+      "descriptionHtml": "<p>MISSION</p>\n\n<p>Our mission is to grow safer, healthier food by deploying fully autonomous greenhouses outside every city on earth.</p>\n\n<p>High-tech greenhouses are key to our agricultural future - for improving human nutrition and for securing our food system against climate change and population growth. We are doing everything we can to accelerate the deployment of new farms around the world and are well on our way following successful in-field trials of our prototype control system and having reached a partnership agreement to access 25% of the world’s greenhouses.</p>\n\n<p>Find out more about our mission in this 2 min video: <a href=\"https://youtu.be/LDJ_QdUaap4\" target=\"_blank\" rel=\"nofollow\">https://youtu.be/LDJ_QdUaap4</a>.</p>\n\n<p>TEAM</p>\n\n<p>We are an ambitious mission-focussed team with backgrounds from Palantir, DeepMind, Oxford and Cambridge. We are backed by leading deep technology VC funds, including Founders Fund, who backed companies such as SpaceX, Palantir and Square from the start.</p>\n\n<p>ROLE</p>\n\n<p>Our belief is that the next step-change in productivity for agriculture will come from the automatic control of large-scale greenhouses. We think that modern control methods can have a major impact on productivity, whilst minimising the energy inputs required to grow crops.</p>\n\n<p>As a modelling and control engineer at Optimal you will be directly responsible for the development of models and control algorithms that will run in the most advanced greenhouses in the world. By joining us at this early stage you will have a significant impact on the journey we take, the problems we tackle, and the team we build.</p>\n\n<p>This role is aimed at an engineer who is looking to step up and play a fundamental role in delivering a product at a fast growing startup. </p>\n\n<p>CORE RESPONSIBILITIES</p>\n\n<p>-Rapidly develop models of dynamical systems from first principles.<br>\n-Write efficient optimisation code to maximise crop yield and quality while minimising energy consumption and carbon emissions.<br>\n-Apply modern control theory to push the performance of our control systems; combining control and machine learning approaches where appropriate.<br>\n-Write clean, well structured Python/Tensorflow code to help us scale to multiple greenhouses around the world.<br>\n-Develop sophisticated monitoring algorithms to detect anomalies in time series sensor data.</p>\n\n<p>Extra credit</p>\n\n<ul>\n<li>Knowledge of or interest in plant biology.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Control Systems",
+        "Feedback Control Systems",
+        "Mathematical Optimization",
+        "Mathematical Modelling"
+      ],
+      "payment": {
+        "salary": "£45k – £60k",
+        "equity": "0.0% – 0.75%"
+      },
+      "recruiter": {
+        "title": "Senior Engineer",
+        "role": "Employee",
+        "url": "https://angel.co/u/richard-mason-10",
+        "name": "Richard Mason",
+        "avatar": "https://photos.angel.co/users/5560805-medium_jpg?1485364525"
+      },
+      "refs": {
+        "angelListId": "688904",
+        "angelListUrl": "https://angel.co/company/optimal-labs/jobs/688904-"
+      }
+    },
+    {
+      "role": "Other",
+      "title": "Senior Modelling and Control Engineer - Advanced Control Team",
+      "description": "MISSION\n\nOur mission is to grow safer, healthier food by deploying fully autonomous greenhouses outside every city on earth.\n\nHigh-tech greenhouses are key to our agricultural future - for improving human nutrition and for securing our food system against climate change and population growth. We are doing everything we can to accelerate the deployment of new farms around the world and are well on our way following successful in-field trials of our prototype control system and having reached a partnership agreement to access 25% of the world’s greenhouses.\n\nFind out more about our mission in this 2 min video: https://youtu.be/LDJ_QdUaap4.\n\nTEAM\n\nWe are an ambitious mission-focussed team with backgrounds from Palantir, DeepMind, Oxford and Cambridge. We are backed by leading deep technology VC funds, including Founders Fund, who backed companies such as SpaceX, Palantir and Square from the start.\n\nROLE\n\nOur belief is that the next step-change in productivity for agriculture will come from the automatic control of large-scale greenhouses. We think that modern control methods can have a major impact on productivity, whilst minimising the energy inputs required to grow crops. \n\nAs a modelling and control engineer at Optimal you will be directly responsible for the development of control algorithms that will run in the most advanced greenhouses in the world. By joining us at this early stage you will  have a significant impact on the journey we take, the problems we tackle, and the team we build. \n\nThis role is aimed at an engineer who is looking to step up and play a fundamental role in delivering a product at a fast growing startup. The ideal candidate would have a track record of maturing prototypes into precision engineered products.\n\nCORE RESPONSIBILITIES\n\n-Rapidly develop models of dynamical systems from first principles.\n-Write efficient optimisation code to maximise crop yield and quality while minimising energy consumption and carbon emissions.\n-Apply modern control theory to push the performance of our control systems; combining control and machine learning approaches where appropriate. \n-Write clean, well structured Python/Tensorflow code to help us scale to multiple greenhouses around the world.\n-Develop sophisticated monitoring algorithms to detect anomalies in time series sensor data.\n\nExtra credit\n- Knowledge of or interest in plant biology.",
+      "descriptionHtml": "<p>MISSION</p>\n\n<p>Our mission is to grow safer, healthier food by deploying fully autonomous greenhouses outside every city on earth.</p>\n\n<p>High-tech greenhouses are key to our agricultural future - for improving human nutrition and for securing our food system against climate change and population growth. We are doing everything we can to accelerate the deployment of new farms around the world and are well on our way following successful in-field trials of our prototype control system and having reached a partnership agreement to access 25% of the world’s greenhouses.</p>\n\n<p>Find out more about our mission in this 2 min video: <a href=\"https://youtu.be/LDJ_QdUaap4\" target=\"_blank\" rel=\"nofollow\">https://youtu.be/LDJ_QdUaap4</a>.</p>\n\n<p>TEAM</p>\n\n<p>We are an ambitious mission-focussed team with backgrounds from Palantir, DeepMind, Oxford and Cambridge. We are backed by leading deep technology VC funds, including Founders Fund, who backed companies such as SpaceX, Palantir and Square from the start.</p>\n\n<p>ROLE</p>\n\n<p>Our belief is that the next step-change in productivity for agriculture will come from the automatic control of large-scale greenhouses. We think that modern control methods can have a major impact on productivity, whilst minimising the energy inputs required to grow crops. </p>\n\n<p>As a modelling and control engineer at Optimal you will be directly responsible for the development of control algorithms that will run in the most advanced greenhouses in the world. By joining us at this early stage you will  have a significant impact on the journey we take, the problems we tackle, and the team we build. </p>\n\n<p>This role is aimed at an engineer who is looking to step up and play a fundamental role in delivering a product at a fast growing startup. The ideal candidate would have a track record of maturing prototypes into precision engineered products.</p>\n\n<p>CORE RESPONSIBILITIES</p>\n\n<p>-Rapidly develop models of dynamical systems from first principles.<br>\n-Write efficient optimisation code to maximise crop yield and quality while minimising energy consumption and carbon emissions.<br>\n-Apply modern control theory to push the performance of our control systems; combining control and machine learning approaches where appropriate. <br>\n-Write clean, well structured Python/Tensorflow code to help us scale to multiple greenhouses around the world.<br>\n-Develop sophisticated monitoring algorithms to detect anomalies in time series sensor data.</p>\n\n<p>Extra credit</p>\n\n<ul>\n<li>Knowledge of or interest in plant biology.</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Optimization",
+        "Control Systems",
+        "Data Science",
+        "Control Theory",
+        "TensorFlow"
+      ],
+      "payment": {
+        "salary": "£60k – £80k",
+        "equity": "0.0% – 1.5%"
+      },
+      "recruiter": {
+        "title": "Senior Engineer",
+        "role": "Employee",
+        "url": "https://angel.co/u/richard-mason-10",
+        "name": "Richard Mason",
+        "avatar": "https://photos.angel.co/users/5560805-medium_jpg?1485364525"
+      },
+      "refs": {
+        "angelListId": "375284",
+        "angelListUrl": "https://angel.co/company/optimal-labs/jobs/375284-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Software Engineer",
+      "description": "MISSION\n\nOur mission is to grow safer, healthier food by deploying fully autonomous greenhouses outside every city on earth.\n\nHigh-tech greenhouses are key to our agricultural future - for improving human nutrition and to secure our food system against climate change and population growth. We are doing everything we can to accelerate the deployment of new farms around the world and are well on our way following successful in-field trials of our prototype control system and having reached a partnership agreement to access 25% of the world’s greenhouses.\n\nFind out more about our mission in this 2 min video: https://youtu.be/LDJ_QdUaap4.\n\n\n\n\nTEAM\n\nWe are an ambitious mission-focussed team with backgrounds from Palantir, DeepMind, Oxford University and Cambridge University. We are backed by leading deep technology VC funds, including Founders Fund, who backed companies such as SpaceX, Palantir and Square from the start.\n\n\n\n\nROLE\n\nExcellent software engineering is central to our mission.\n\nThe software engineering team at Optimal is responsible for delivering the infrastructure on top of which we provide autonomous growing services to high-tech greenhouses around the world. They develop the core platform which is used by our growers, on-the-ground personnel, and the Advanced Control Team. They are essential to the success of the business scaling globally.\n\nAs a senior software engineer at Optimal, you will work closely with highly technical and non-technical users to figure out what needs to be built to meet company objectives, and how to build it. You should be able to own the whole software engineering lifecycle: from design, through development, to deployment. You will be responsible for deploying infrastructure into the field and ensuring that it works.\n\nHowever, we aren’t building everything from scratch. You should be able to identify when an existing commercial or open-source solution can be used to meet a requirement and integrate that into our platform.\n\nYou should be able to bring expertise in at least two of these areas:\n\n* Architecting cloud infrastructure for controlling and monitoring greenhouses autonomously.\n* Building interfaces with onsite environment sensors and controllers - and connecting them to Optimal.\n* Implementing user interfaces that allow growers and other team members to monitor, control and intervene.\n* Creating mobile tools to streamline in-field data collection.\n\nTechnologies we use today:\n\n* Our backend is entirely Python on top of BigQuery, SQL and Redis storage layers.\n* UI’s are built in JavaScript with Node.JS.\n* We continuously deploy our software to Google Cloud Platform using standard build tools like Terraform and CircleCI.\n\nOur technology stack isn’t set in stone. You will bring your own experiences and knowledge to improve it.\n\n\n\n\nRequirements\n\n\n* Strong engineering background in fields such as Computer Science, Mathematics, and Physics.\n* Several years of relevant experience.\n* Experience with several of: RESTful API’s, embedded systems, cloud infrastructure, test automation, front-end frameworks, storage frameworks, distributed and parallel systems, CI/CD infrastructure and containerisation.\n* Strong developer with demonstrated proficiency in at least one general purpose programming language. Good working knowledge of Python.\n* Ability to collaborate and empathise with a variety of individuals. You can iterate with users and non-technical stakeholders and understand how your technical decisions impact them and the longer term growth of the platform.\n* Demonstrated ability to learn and work independently and make decisions with minimal supervision\n* Able to thrive in a fast paced startup environment",
+      "descriptionHtml": "<p>MISSION</p>\n\n<p>Our mission is to grow safer, healthier food by deploying fully autonomous greenhouses outside every city on earth.</p>\n\n<p>High-tech greenhouses are key to our agricultural future - for improving human nutrition and to secure our food system against climate change and population growth. We are doing everything we can to accelerate the deployment of new farms around the world and are well on our way following successful in-field trials of our prototype control system and having reached a partnership agreement to access 25% of the world’s greenhouses.</p>\n\n<p>Find out more about our mission in this 2 min video: <a href=\"https://youtu.be/LDJ_QdUaap4\" target=\"_blank\" rel=\"nofollow\">https://youtu.be/LDJ_QdUaap4</a>.</p>\n\n<p>TEAM</p>\n\n<p>We are an ambitious mission-focussed team with backgrounds from Palantir, DeepMind, Oxford University and Cambridge University. We are backed by leading deep technology VC funds, including Founders Fund, who backed companies such as SpaceX, Palantir and Square from the start.</p>\n\n<p>ROLE</p>\n\n<p>Excellent software engineering is central to our mission.</p>\n\n<p>The software engineering team at Optimal is responsible for delivering the infrastructure on top of which we provide autonomous growing services to high-tech greenhouses around the world. They develop the core platform which is used by our growers, on-the-ground personnel, and the Advanced Control Team. They are essential to the success of the business scaling globally.</p>\n\n<p>As a senior software engineer at Optimal, you will work closely with highly technical and non-technical users to figure out what needs to be built to meet company objectives, and how to build it. You should be able to own the whole software engineering lifecycle: from design, through development, to deployment. You will be responsible for deploying infrastructure into the field and ensuring that it works.</p>\n\n<p>However, we aren’t building everything from scratch. You should be able to identify when an existing commercial or open-source solution can be used to meet a requirement and integrate that into our platform.</p>\n\n<p>You should be able to bring expertise in at least two of these areas:</p>\n\n<ul>\n<li>Architecting cloud infrastructure for controlling and monitoring greenhouses autonomously.</li>\n<li>Building interfaces with onsite environment sensors and controllers - and connecting them to Optimal.</li>\n<li>Implementing user interfaces that allow growers and other team members to monitor, control and intervene.</li>\n<li>Creating mobile tools to streamline in-field data collection.</li>\n</ul>\n\n<p>Technologies we use today:</p>\n\n<ul>\n<li>Our backend is entirely Python on top of BigQuery, SQL and Redis storage layers.</li>\n<li>UI’s are built in JavaScript with Node.JS.</li>\n<li>We continuously deploy our software to Google Cloud Platform using standard build tools like Terraform and CircleCI.</li>\n</ul>\n\n<p>Our technology stack isn’t set in stone. You will bring your own experiences and knowledge to improve it.</p>\n\n<p>Requirements</p>\n\n<ul>\n<li>Strong engineering background in fields such as Computer Science, Mathematics, and Physics.</li>\n<li>Several years of relevant experience.</li>\n<li>Experience with several of: RESTful API’s, embedded systems, cloud infrastructure, test automation, front-end frameworks, storage frameworks, distributed and parallel systems, CI/CD infrastructure and containerisation.</li>\n<li>Strong developer with demonstrated proficiency in at least one general purpose programming language. Good working knowledge of Python.</li>\n<li>Ability to collaborate and empathise with a variety of individuals. You can iterate with users and non-technical stakeholders and understand how your technical decisions impact them and the longer term growth of the platform.</li>\n<li>Demonstrated ability to learn and work independently and make decisions with minimal supervision</li>\n<li>Able to thrive in a fast paced startup environment</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Software Engineering",
+        "Python",
+        "Javascript",
+        "Back-End Development",
+        "Cloud Computing",
+        "Node.js",
+        "Distributed Systems",
+        "Front-End Development",
+        "Embedded Systems",
+        "Full Stack Development",
+        "Backend Development",
+        "Frontend Development",
+        "Test Automation",
+        "IoT",
+        "React.js"
+      ],
+      "payment": {
+        "salary": "£60k – £85k",
+        "equity": "0.5% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/david-hunter-7",
+        "name": "David Hunter",
+        "avatar": "https://photos.angel.co/users/818881-medium_jpg?1588663250"
+      },
+      "refs": {
+        "angelListId": "690348",
+        "angelListUrl": "https://angel.co/company/optimal-labs/jobs/690348-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "MISSION\n\nOur mission is to grow safer, healthier food by deploying fully autonomous greenhouses outside every city on earth.\n\nHigh-tech greenhouses are key to our agricultural future - for improving human nutrition and to secure our food system against climate change and population growth. We are doing everything we can to accelerate the deployment of new farms around the world and are well on our way following successful in-field trials of our prototype control system and having reached a partnership agreement to access 25% of the world’s greenhouses.\n\nFind out more about our mission in this 2 min video: https://youtu.be/LDJ_QdUaap4.\n\n\n\n\nTEAM\n\nWe are an ambitious mission-focussed team with backgrounds from Palantir, DeepMind, Oxford University and Cambridge University. We are backed by leading deep technology VC funds, including Founders Fund, who backed companies such as SpaceX, Palantir and Square from the start.\n\n\n\n\nROLE\n\nExcellent software engineering is central to our mission.\n\nThe software engineering team at Optimal is responsible for delivering the infrastructure on top of which we provide autonomous growing services to high-tech greenhouses around the world. They develop the core platform which is used by our growers, on-the-ground personnel, and the Advanced Control Team. They are essential to the success of the business scaling globally.\n\nAs a software engineer at Optimal, you will work closely with highly technical and non-technical users to figure out what needs to be built to meet company objectives, and how to build it. You should be able to own the whole software engineering lifecycle: from design, through development, to deployment. You will be responsible for deploying infrastructure into the field and ensuring that it works.\n\nHowever, we aren’t building everything from scratch. You should be able to identify when an existing commercial or open-source solution can be used to meet a requirement and integrate that into our platform.\n\nYou should be able to bring expertise in at least two of these areas:\n\n* Architecting cloud infrastructure for controlling and monitoring greenhouses autonomously.\n* Building interfaces with onsite environment sensors and controllers - and connecting them to Optimal.\n* Implementing user interfaces that allow growers and other team members to monitor, control and intervene.\n* Creating mobile tools to streamline in-field data collection.\n\nTechnologies we use today:\n\n* Our backend is entirely Python on top of BigQuery, SQL and Redis storage layers.\n* UI’s are built in JavaScript with Node.JS.\n* We continuously deploy our software to Google Cloud Platform using standard build tools like Terraform and CircleCI.\n\nOur technology stack isn’t set in stone. You will bring your own experiences and knowledge to improve it.\n\n\n\n\nRequirements\n\n\n* Strong engineering background in fields such as Computer Science, Mathematics, and Physics.\n* Experience with several of: RESTful API’s, embedded systems, cloud infrastructure, test automation, front-end frameworks, storage frameworks, distributed and parallel systems, CI/CD infrastructure and containerisation.\n* Strong developer with demonstrated proficiency in at least one general purpose programming language. Good working knowledge of Python.\n* Ability to collaborate and empathise with a variety of individuals. You can iterate with users and non-technical stakeholders and understand how your technical decisions impact them and the longer term growth of the platform.\n* Demonstrated ability to learn and work independently and make decisions with minimal supervision\n* Able to thrive in a fast paced startup environment",
+      "descriptionHtml": "<p>MISSION</p>\n\n<p>Our mission is to grow safer, healthier food by deploying fully autonomous greenhouses outside every city on earth.</p>\n\n<p>High-tech greenhouses are key to our agricultural future - for improving human nutrition and to secure our food system against climate change and population growth. We are doing everything we can to accelerate the deployment of new farms around the world and are well on our way following successful in-field trials of our prototype control system and having reached a partnership agreement to access 25% of the world’s greenhouses.</p>\n\n<p>Find out more about our mission in this 2 min video: <a href=\"https://youtu.be/LDJ_QdUaap4\" target=\"_blank\" rel=\"nofollow\">https://youtu.be/LDJ_QdUaap4</a>.</p>\n\n<p>TEAM</p>\n\n<p>We are an ambitious mission-focussed team with backgrounds from Palantir, DeepMind, Oxford University and Cambridge University. We are backed by leading deep technology VC funds, including Founders Fund, who backed companies such as SpaceX, Palantir and Square from the start.</p>\n\n<p>ROLE</p>\n\n<p>Excellent software engineering is central to our mission.</p>\n\n<p>The software engineering team at Optimal is responsible for delivering the infrastructure on top of which we provide autonomous growing services to high-tech greenhouses around the world. They develop the core platform which is used by our growers, on-the-ground personnel, and the Advanced Control Team. They are essential to the success of the business scaling globally.</p>\n\n<p>As a software engineer at Optimal, you will work closely with highly technical and non-technical users to figure out what needs to be built to meet company objectives, and how to build it. You should be able to own the whole software engineering lifecycle: from design, through development, to deployment. You will be responsible for deploying infrastructure into the field and ensuring that it works.</p>\n\n<p>However, we aren’t building everything from scratch. You should be able to identify when an existing commercial or open-source solution can be used to meet a requirement and integrate that into our platform.</p>\n\n<p>You should be able to bring expertise in at least two of these areas:</p>\n\n<ul>\n<li>Architecting cloud infrastructure for controlling and monitoring greenhouses autonomously.</li>\n<li>Building interfaces with onsite environment sensors and controllers - and connecting them to Optimal.</li>\n<li>Implementing user interfaces that allow growers and other team members to monitor, control and intervene.</li>\n<li>Creating mobile tools to streamline in-field data collection.</li>\n</ul>\n\n<p>Technologies we use today:</p>\n\n<ul>\n<li>Our backend is entirely Python on top of BigQuery, SQL and Redis storage layers.</li>\n<li>UI’s are built in JavaScript with Node.JS.</li>\n<li>We continuously deploy our software to Google Cloud Platform using standard build tools like Terraform and CircleCI.</li>\n</ul>\n\n<p>Our technology stack isn’t set in stone. You will bring your own experiences and knowledge to improve it.</p>\n\n<p>Requirements</p>\n\n<ul>\n<li>Strong engineering background in fields such as Computer Science, Mathematics, and Physics.</li>\n<li>Experience with several of: RESTful API’s, embedded systems, cloud infrastructure, test automation, front-end frameworks, storage frameworks, distributed and parallel systems, CI/CD infrastructure and containerisation.</li>\n<li>Strong developer with demonstrated proficiency in at least one general purpose programming language. Good working knowledge of Python.</li>\n<li>Ability to collaborate and empathise with a variety of individuals. You can iterate with users and non-technical stakeholders and understand how your technical decisions impact them and the longer term growth of the platform.</li>\n<li>Demonstrated ability to learn and work independently and make decisions with minimal supervision</li>\n<li>Able to thrive in a fast paced startup environment</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Software Engineering",
+        "Python",
+        "Javascript",
+        "Back-End Development",
+        "Cloud Computing",
+        "Node.js",
+        "Distributed Systems",
+        "Front-End Development",
+        "Embedded Systems",
+        "Full Stack Development",
+        "Backend Development",
+        "Frontend Development",
+        "Test Automation",
+        "IoT",
+        "React.js"
+      ],
+      "payment": {
+        "salary": "£50k – £70k",
+        "equity": "0.1% – 0.5%"
+      },
+      "recruiter": {
+        "title": "CEO",
+        "role": "Founder",
+        "url": "https://angel.co/u/david-hunter-7",
+        "name": "David Hunter",
+        "avatar": "https://photos.angel.co/users/818881-medium_jpg?1588663250"
+      },
+      "refs": {
+        "angelListId": "690356",
+        "angelListUrl": "https://angel.co/company/optimal-labs/jobs/690356-"
+      }
+    }
+  ]
+}

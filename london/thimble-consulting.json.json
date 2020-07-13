@@ -1,0 +1,177 @@
+{
+  "name": "Thimble Consulting",
+  "avatar": "https://photos.angel.co/startups/i/7104122-36db3c9044ddf41b58665dbc6ba5a478-medium_jpg.jpg?buster=1564823804",
+  "slogan": "Helping businesses build software better",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.thimble.dev"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Enterprise Software",
+    "Ecommerce",
+    "Payments",
+    "Logistics"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/katherine-bowler",
+      "name": "Katherine Bowler",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at Thimble Consulting"
+    },
+    {
+      "title": "Founder",
+      "role": "Employee",
+      "url": "https://angel.co/u/joshua-balloch",
+      "name": "Joshua Balloch",
+      "avatar": "https://photos.angel.co/users/560133-medium_jpg?1491560779",
+      "bioHtml": "Experienced Software Consultant. Founder @ Thimble"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7104122",
+    "angelListUrl": "https://angel.co/company/thimble-consulting"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "As a Software Engineer at Thimble, you’ll be paired with a more senior engineer on a client project. You’ll focus more on your core role as a software developer, embedded into the client team to work to build features and build out their product roadmap. You'll have the support of your pair and the rest of the Thimble team as you learn and grow. \n\nYou’ll also engage with your client as a consultant, gaining exposure to stakeholders and the business side of a project, and working with the senior engineer on a project to ensure its success.",
+      "descriptionHtml": "<p>As a Software Engineer at Thimble, you’ll be paired with a more senior engineer on a client project. You’ll focus more on your core role as a software developer, embedded into the client team to work to build features and build out their product roadmap. You&#39;ll have the support of your pair and the rest of the Thimble team as you learn and grow. </p>\n\n<p>You’ll also engage with your client as a consultant, gaining exposure to stakeholders and the business side of a project, and working with the senior engineer on a project to ensure its success.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Javascript",
+        "SQL",
+        "Ruby",
+        "Ruby on Rails"
+      ],
+      "payment": {
+        "salary": "£45k – £65k"
+      },
+      "recruiter": {
+        "title": "Founder",
+        "role": "Employee",
+        "url": "https://angel.co/u/joshua-balloch",
+        "name": "Joshua Balloch",
+        "avatar": "https://photos.angel.co/users/560133-medium_jpg?1491560779"
+      },
+      "refs": {
+        "angelListId": "601494",
+        "angelListUrl": "https://angel.co/company/thimble-consulting/jobs/601494-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Software Engineer",
+      "description": "As a Senior Software Engineer at Thimble, your core role will be as a software developer on a client project, embedded into the client team to work to build features and build out their product roadmap. \n\nYou’ll also engage with your client as a consultant, connecting with stakeholders and the business side of a project, and working with the senior engineer on a project to ensure its success.\n\nYou will be expected to be able to work autonomously and play a leadership role on the technical aspects of a project, helping clients find solutions to deeper technical problems and guiding how their systems and architecture should evolve.\n\nYou'll have the support of your pair and the rest of the Thimble team as you learn and grow.",
+      "descriptionHtml": "<p>As a Senior Software Engineer at Thimble, your core role will be as a software developer on a client project, embedded into the client team to work to build features and build out their product roadmap. </p>\n\n<p>You’ll also engage with your client as a consultant, connecting with stakeholders and the business side of a project, and working with the senior engineer on a project to ensure its success.</p>\n\n<p>You will be expected to be able to work autonomously and play a leadership role on the technical aspects of a project, helping clients find solutions to deeper technical problems and guiding how their systems and architecture should evolve.</p>\n\n<p>You&#39;ll have the support of your pair and the rest of the Thimble team as you learn and grow.</p>\n",
+      "position": "full-time",
+      "experience": 6,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Javascript",
+        "Node.js",
+        "Ruby",
+        "Ruby on Rails"
+      ],
+      "payment": {
+        "salary": "£65k – £85k"
+      },
+      "recruiter": {
+        "title": "Founder",
+        "role": "Employee",
+        "url": "https://angel.co/u/joshua-balloch",
+        "name": "Joshua Balloch",
+        "avatar": "https://photos.angel.co/users/560133-medium_jpg?1491560779"
+      },
+      "refs": {
+        "angelListId": "601495",
+        "angelListUrl": "https://angel.co/company/thimble-consulting/jobs/601495-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Junior Software Engineer",
+      "description": "As a Junior Software Engineer at Thimble, you’ll be paired with a more senior engineer on a client project. You’ll focus more on your core role as a software developer, embedded into the client team to work to build features and build out their product roadmap. You'll have the support of your pair and the rest of the Thimble team as you learn and grow. \n\nYou’ll also engage with your client as a consultant, gaining exposure to stakeholders and the business side of a project, and working with the senior engineer on a project to ensure its success.",
+      "descriptionHtml": "<p>As a Junior Software Engineer at Thimble, you’ll be paired with a more senior engineer on a client project. You’ll focus more on your core role as a software developer, embedded into the client team to work to build features and build out their product roadmap. You&#39;ll have the support of your pair and the rest of the Thimble team as you learn and grow. </p>\n\n<p>You’ll also engage with your client as a consultant, gaining exposure to stakeholders and the business side of a project, and working with the senior engineer on a project to ensure its success.</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Javascript",
+        "SQL",
+        "Node.js",
+        "Ruby",
+        "Ruby on Rails"
+      ],
+      "payment": {
+        "salary": "£30k – £45k"
+      },
+      "recruiter": {
+        "title": "Founder",
+        "role": "Employee",
+        "url": "https://angel.co/u/joshua-balloch",
+        "name": "Joshua Balloch",
+        "avatar": "https://photos.angel.co/users/560133-medium_jpg?1491560779"
+      },
+      "refs": {
+        "angelListId": "601496",
+        "angelListUrl": "https://angel.co/company/thimble-consulting/jobs/601496-"
+      }
+    }
+  ]
+}

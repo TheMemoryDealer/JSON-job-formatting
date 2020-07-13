@@ -1,0 +1,126 @@
+{
+  "name": "Causaly",
+  "avatar": "https://photos.angel.co/startups/i/4947592-7ea6867d5e6fc3eb4d9dbf2968e20017-medium_jpg.jpg?buster=1569710553",
+  "slogan": "Machine-reading platform for Biomedicine and Healthcare",
+  "description": "We are developing the world’s biggest data platform for Cause and Effect evidence in Biomedicine using AI Machine-Reading technology. \n\nSee here why we love what we do:\nhttps://www.causaly.com/blog/advancing-clinical-with-ai-hemorrhagic-disease-of-newborn-5d3c445719515e0017f558bb\n\nThe technology is self-developed and proprietary, powering a massive Biomedical Causal Knowledge Graph. It helps researchers and decision-makers to discover insights from 30,000,000 academic publications, in minutes. Causaly is used by Pharmaceutical companies and Academia in Research and Commercial departments, for Drug Discovery and Drug Safety.\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.causaly.com"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.causaly.com/blog"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/causalyai"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/causaly-inc/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Athens"
+  ],
+  "marketTags": [
+    "Pharmaceuticals",
+    "Healthcare",
+    "Bioinformatics"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 4800000,
+    "rounds": [
+      {
+        "type": "Series A",
+        "closedAt": 1573776000,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/artur-saudabayev",
+      "name": "Artur Saudabayev",
+      "avatar": "https://photos.angel.co/users/4788584-medium_jpg?1569848700",
+      "bioHtml": "Co-Founder and CTO of Causaly. Building the worlds biggest Cause &amp; Effect evidence platform for Biomedicine. Intelligent systems, knowledge discovery, ML "
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/yiannis-kiachopoulos",
+      "name": "Yiannis Kiachopoulos",
+      "avatar": "https://photos.angel.co/users/4514984-medium_jpg?1476777408",
+      "bioHtml": "Co-Founder, computational linguistics &lt;3, Graph databases, building causal model of the world starting with Biomedicine"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/noelle-baquiche",
+      "name": "Noelle Baquiche",
+      "avatar": "https://photos.angel.co/users/1848345-medium_jpg?1458308646",
+      "bioHtml": "Head of Growth <a href=\"https://angel.co/company/seedlegals\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">SeedLegals</span></a>"
+    },
+    {
+      "title": "Head of Operations",
+      "role": "Employee",
+      "url": "https://angel.co/u/jasmin-ghoul",
+      "name": "Jasmin Ghoul",
+      "avatar": "https://photos.angel.co/users/1871538-medium_jpg?1566425955",
+      "bioHtml": "Head of Operations/ Ex-Google/ Startup Coach &amp; Mentor "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4947592",
+    "angelListUrl": "https://angel.co/company/causaly"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior NLP / Computational Linguist Engineer (Information Extraction)",
+      "description": "**Snapshot**\nThis is a rare opportunity for people who want to solve complex problems and be part of the development of a cutting edge, transformative knowledge product. Causaly is a VC backed startup working on a technology for **Biomedical Cause & Effect Discovery** and **Epidemiology data extraction,** empowering researchers and decision makers to quickly find causal evidence and generate insights from vast amounts of documents. Having already processed tens of millions of academic publications (and “reading” more than a hundred thousand new papers every month), our **machine-reading platform** turns** free-flow text into causal knowledge graphs and descriptive data structures** and applies machine learning to surface new knowledge.\n\n\nWe are looking for engineers who will take the development of our NLP pipelines to the next level. This specific opening implies work with predominantly rule based systems and initial acquisition of the existing codebase of an information extraction module(s) to get ownership quickly.\n\n\n\n**The role**\nWe’re looking for independent and self-confident individuals who enjoy solving complex NLP problems, get motivated by seeing their work’s direct impact on growing customer base and want to apply their strategic mind to ground-breaking AI technology.\n\nYou’ll be working closely with the CTO and Product Owner, joining a close-knit team of highly committed and bright people. You are a resilient engineer, experienced in information extraction and thrive in a fast-paced complex environment.\n\n\n**Responsibilities**\n* Work predominantly with rule-based systems\n* **Understand solutions aimed at the development of our NLP pipelines using all aspects of information extraction, text processing and text understanding including design, architecture, algorithms, correctness, and performance**\n* Be able to inherit and develop further an existing codebase for particular information extraction modules\n* Work with a Computational Linguist Product Manager, iteratively engineering and implementing algorithm and linguistic rule improvements. The role requires working with large volumes of data to identify patterns for language modeling and to be able to efficiently evaluate outcomes of each such iteration before passing it for QA.\n* Strong focus on quality and performance based design\n* Staying up to date with the state of the art in information extraction and general NLP methods and techniques\n\n**About you**\n*Minimum Qualifications:*\n\n* Ph.D in NLP or Computational Linguistics or equivalent experience (MSc with 4+ years of research experience)\n* Strong programming/software engineering background enabling rapid codebase acquisition and scalable development\n* Fluency in fundamental NLP pipeline algorithms and tools (e.g. preprocessing and normalization, POS, dependency parsing, NER)\n* Experience with common NLP and Machine Learning libraries (e.g. nltk, spacy, scikit-learn)\n* Fluency with at least one of the modern distributed ML frameworks (e.g. TensorFlow, PyTorch)\n* Experience in dealing with a vast amount of textual data (optimization, performance enhancement)\n* Ability to drive technical projects autonomously and work in a diverse and collaborative environment\n* Proficiency in Python or similar scripting language\n\n*Preferred Qualifications:* \n* Empirical research experience in natural language processing and machine learning ideally in the biomedical domain with a focus on information extraction*\n\n\n**What’s on offer:**\n* Competitive Salary \n* Share option, we’re all in this together and you too shall own a small part of the company \n* Health care insurance \n* Pension contribution \n* Individual training budget for professional development\n* Plenty of opportunity to take on more responsibility as we grow and equity option package\n* Be part of a multinational, diverse and exceptional early team that builds a transformative knowledge product with the potential to have real impact\n* Individual training budget for professional development\n* Regular team outings\n* Annual team retreat to secret destination \n* Easily accessible office in the heart of Angel, Islington (right by the station)\n* Free coffee and tea (because you can’t be a startup without caffeine)\n\n*Causaly welcomes applications from all backgrounds. We are committed to diversity regardless of gender, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation or gender identity. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know.*",
+      "descriptionHtml": "<p><strong>Snapshot</strong><br>\nThis is a rare opportunity for people who want to solve complex problems and be part of the development of a cutting edge, transformative knowledge product. Causaly is a VC backed startup working on a technology for <strong>Biomedical Cause &amp; Effect Discovery</strong> and <strong>Epidemiology data extraction,</strong> empowering researchers and decision makers to quickly find causal evidence and generate insights from vast amounts of documents. Having already processed tens of millions of academic publications (and “reading” more than a hundred thousand new papers every month), our <strong>machine-reading platform</strong> turns** free-flow text into causal knowledge graphs and descriptive data structures** and applies machine learning to surface new knowledge.</p>\n\n<p>We are looking for engineers who will take the development of our NLP pipelines to the next level. This specific opening implies work with predominantly rule based systems and initial acquisition of the existing codebase of an information extraction module(s) to get ownership quickly.</p>\n\n<p><strong>The role</strong><br>\nWe’re looking for independent and self-confident individuals who enjoy solving complex NLP problems, get motivated by seeing their work’s direct impact on growing customer base and want to apply their strategic mind to ground-breaking AI technology.</p>\n\n<p>You’ll be working closely with the CTO and Product Owner, joining a close-knit team of highly committed and bright people. You are a resilient engineer, experienced in information extraction and thrive in a fast-paced complex environment.</p>\n\n<p><strong>Responsibilities</strong></p>\n\n<ul>\n<li>Work predominantly with rule-based systems</li>\n<li><strong>Understand solutions aimed at the development of our NLP pipelines using all aspects of information extraction, text processing and text understanding including design, architecture, algorithms, correctness, and performance</strong></li>\n<li>Be able to inherit and develop further an existing codebase for particular information extraction modules</li>\n<li>Work with a Computational Linguist Product Manager, iteratively engineering and implementing algorithm and linguistic rule improvements. The role requires working with large volumes of data to identify patterns for language modeling and to be able to efficiently evaluate outcomes of each such iteration before passing it for QA.</li>\n<li>Strong focus on quality and performance based design</li>\n<li>Staying up to date with the state of the art in information extraction and general NLP methods and techniques</li>\n</ul>\n\n<p><strong>About you</strong><br>\n<em>Minimum Qualifications:</em></p>\n\n<ul>\n<li>Ph.D in NLP or Computational Linguistics or equivalent experience (MSc with 4+ years of research experience)</li>\n<li>Strong programming/software engineering background enabling rapid codebase acquisition and scalable development</li>\n<li>Fluency in fundamental NLP pipeline algorithms and tools (e.g. preprocessing and normalization, POS, dependency parsing, NER)</li>\n<li>Experience with common NLP and Machine Learning libraries (e.g. nltk, spacy, scikit-learn)</li>\n<li>Fluency with at least one of the modern distributed ML frameworks (e.g. TensorFlow, PyTorch)</li>\n<li>Experience in dealing with a vast amount of textual data (optimization, performance enhancement)</li>\n<li>Ability to drive technical projects autonomously and work in a diverse and collaborative environment</li>\n<li>Proficiency in Python or similar scripting language</li>\n</ul>\n\n<p><em>Preferred Qualifications:</em> </p>\n\n<ul>\n<li>Empirical research experience in natural language processing and machine learning ideally in the biomedical domain with a focus on information extraction*</li>\n</ul>\n\n<p><strong>What’s on offer:</strong></p>\n\n<ul>\n<li>Competitive Salary </li>\n<li>Share option, we’re all in this together and you too shall own a small part of the company </li>\n<li>Health care insurance </li>\n<li>Pension contribution </li>\n<li>Individual training budget for professional development</li>\n<li>Plenty of opportunity to take on more responsibility as we grow and equity option package</li>\n<li>Be part of a multinational, diverse and exceptional early team that builds a transformative knowledge product with the potential to have real impact</li>\n<li>Individual training budget for professional development</li>\n<li>Regular team outings</li>\n<li>Annual team retreat to secret destination </li>\n<li>Easily accessible office in the heart of Angel, Islington (right by the station)</li>\n<li>Free coffee and tea (because you can’t be a startup without caffeine)</li>\n</ul>\n\n<p><em>Causaly welcomes applications from all backgrounds. We are committed to diversity regardless of gender, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation or gender identity. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know.</em></p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Computational Linguistics",
+        "NLP"
+      ],
+      "payment": {
+        "salary": "£50k – £75k",
+        "equity": "0.1% – 0.2%"
+      },
+      "recruiter": {
+        "title": "Head of Operations",
+        "role": "Employee",
+        "url": "https://angel.co/u/jasmin-ghoul",
+        "name": "Jasmin Ghoul",
+        "avatar": "https://photos.angel.co/users/1871538-medium_jpg?1566425955"
+      },
+      "refs": {
+        "angelListId": "740522",
+        "angelListUrl": "https://angel.co/company/causaly/jobs/740522-"
+      }
+    }
+  ]
+}

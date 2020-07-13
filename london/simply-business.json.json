@@ -1,0 +1,143 @@
+{
+  "name": "Simply Business",
+  "avatar": "https://photos.angel.co/startups/i/145408-54f49d3d72ef08b2b5629f6a93747a03-medium_jpg.jpg?buster=1518775657",
+  "slogan": "Customer-Centric Insurance for Businesses and Landlords",
+  "description": "Simply Business exists to make significant positive changes to the insurance industry.\n\nAs insurance is an industry heavily focused on tradition rather than innovation; Simply Business goes against the industry grain by doing the exact opposite.\n\nIn addition to pioneering the use of mobile tech for insurance, we've built a digital brokerage platform with the customer's interests at the forefront. Customers can purchase the best-suited policy without being misled or confused by insurance jargon.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.simplybusiness.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": "http://tech.simplybusiness.co.uk"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@SimplyBusiness"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Insurance",
+    "Software",
+    "Brokers"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/shahed-hussain-1",
+      "name": "Shahed Hussain",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/megan-grondin",
+      "name": "Megan Grondin",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/ollie-coker",
+      "name": "Ollie Coker ",
+      "avatar": "https://photos.angel.co/users/8511215-medium_jpg?1578672903",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "145408",
+    "angelListUrl": "https://angel.co/company/simply-business"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Software Engineer",
+      "description": "We are a Fin-tech company with an awesome team of technical entrepreneurs and due to a period of growth we are looking for more of the same to join the business/family.\n\nWhat we offer is the opportunity to work with likeminded individuals with an amazing culture that resonates across the whole business, Awesome tech teams, amazing people and we are actively looking for more of the same now and in the new year. \n\n* Extensive commercial experience with Ruby\n* Commercial projects with Rails is great but not essential\n* TDD advocate, lives and breathes test practises\n* Up to date on industry trends and can effectively give examples and discuss",
+      "descriptionHtml": "<p>We are a Fin-tech company with an awesome team of technical entrepreneurs and due to a period of growth we are looking for more of the same to join the business/family.</p>\n\n<p>What we offer is the opportunity to work with likeminded individuals with an amazing culture that resonates across the whole business, Awesome tech teams, amazing people and we are actively looking for more of the same now and in the new year. </p>\n\n<ul>\n<li>Extensive commercial experience with Ruby</li>\n<li>Commercial projects with Rails is great but not essential</li>\n<li>TDD advocate, lives and breathes test practises</li>\n<li>Up to date on industry trends and can effectively give examples and discuss</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Ruby",
+        "TDD",
+        "Ruby on Rails",
+        "React.js",
+        "AWS"
+      ],
+      "payment": {
+        "salary": "£65k – £70k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/ellis-richards-1",
+        "name": "Ellis Richards",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "451989",
+        "angelListUrl": "https://angel.co/company/simply-business/jobs/451989-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "DevOps Engineer",
+      "description": "Simply Business is a new type of insurance company, using all of the above  to create the best possible insurance experience for small businesses and self-employed people.\n\nWe love working here, and have even taken the number one spot in the  Sunday Times Best Company To Work For 2015 and 16 lists; we’ve stopped entering now to focus on a few bigger projects, but you get the idea.\nIt’s a great place to work.\n\nOur people are our most important asset, so we focus on building a working  life that helps us thrive, not stick. Join us and you’ll be part of our journey  to creating something even better, for our customers and ourselves.\n\nYou will help bring us closer to our DevOps nirvana and contribute to our Platform as a Service and DevOps culture (test driven infrastructure, automate everything, self-service tooling).\n\nWe are product driven, not project driven. Our PaaS built on cloud infrastructure is our product and the rest of the business our customers.\n\nYou will be hands on in creating solutions to build and automate environments for production use. You understand the need to build scalable, auditable, reproducible and usable infrastructure.\n\nYou are security minded and endorse chaos engineering along with the approach of “you build it, you run it” and “you break it, you fix it”.\n\nYou will be required to be part of the on call rota.\n\nWe are 100% hosted at AWS (and attended the most recent re:Invent) and in the middle of working with our product teams to migrate their applications to a Jenkins/Docker/Ansible/CloudFormation driven, region agnostic, blue-green automated deployment pipeline; this offers both AMIs and Docker images for deployment to our respective AWS EC2 and ECS production environment.\n\nIn front of this we offer a self-service load balancing solution along with a DSL-based approach for creating and managing our subdomains with regards to DNS, SSL certificates, traffic manager routing and monitoring.\n\nThis framework is all done as Infrastructure as Code including integrations of other AWS services (e.g. RDS, S3), with a focus on providing the guardrails for immutable systems and making it as self-service as possible for the Product Teams.\n\nWe work in a timely, prioritised and start small manner. We look at the highest pain points for both dev and ops and work backwards. We continuously re-evaluate using the right tool for the DevOps job and making abstraction easy.\nTo add some flavour, here are a few tasters of current and upcoming workload.....\nMoving our 3TB+ production database to a cloud managed service.\nLaunching our Platform as a Service worldwide across any AWS region.\nMigrating our biggest, baddest app to our brand new PaaS.  \nContinuing to iterate on the bootstrapping to get any new application up and running in production.\nExtending our PaaS based on feedback from our Engineer product teams (Lambda? EKS? Fargate?).\nTaking our platform global.\nSkills we need......\nLinux systems administration.\nConfiguration management tools such as Puppet, Ansible, Chef, or any other.\nExperience with continuous delivery / provisioning / deployment.\nBuilding and managing production public-facing sites.\nNetworking skills.\nFamiliarity with concepts such as ‘infrastructure as code’ and ‘tools not rules’.\nStrong programming skills (in any language).\nSkills we'd like......\nExperience of cloud hosting such as AWS, Azure or Google Cloud Platform.\nExperience with hosting internet applications - DNS, load balancing, internet protocols, SSL etc...\nExperience of monitoring tools such as Pingdom, New Relic, Threat Stack and Datadog.\nExperience of logging tools such as ELK.\nExperience of SSO tools.\nExperience of simple secrets management.\nExperience of container technologies such as Docker.\nExperience of serverless technologies such as Lambda.\nExperience of TDD.\nWhat are the benefits?\n\nBenefits:\n\nThe ‘core’ stuff\nSome of these will kick in once you’re confirmed in post, but here’s the summary:\n• a salary that reflects your experience, our pay policy and the market we’re in from your first day, generous annual leave\n• life assurance (financial cover for your family, should the worst happen)\n• a cash plan to reimburse your everyday medical expenses\n• an extra day off if you get married or move house\n• an automatic enrollment pension (employer-matched at 5%) \n\nThe fun stuff\nPassed probation? Time to pick and mix from things like:\n• a full gym membership\n• private medical insurance\n• extra days annual leave\n• shopping vouchers\n• dental insurance\n• travel insurance\n\nBut there’s so much more to Simply Business than insurance and memberships. We also commit to flexible working options, smart working (our offices are kitted out for you to work when and how you choose), cycle to work, eye test vouchers, and season ticket loan schemes, and we have a handy online form to put in any training or conference requests.",
+      "descriptionHtml": "<p>Simply Business is a new type of insurance company, using all of the above  to create the best possible insurance experience for small businesses and self-employed people.</p>\n\n<p>We love working here, and have even taken the number one spot in the  Sunday Times Best Company To Work For 2015 and 16 lists; we’ve stopped entering now to focus on a few bigger projects, but you get the idea.<br>\nIt’s a great place to work.</p>\n\n<p>Our people are our most important asset, so we focus on building a working  life that helps us thrive, not stick. Join us and you’ll be part of our journey  to creating something even better, for our customers and ourselves.</p>\n\n<p>You will help bring us closer to our DevOps nirvana and contribute to our Platform as a Service and DevOps culture (test driven infrastructure, automate everything, self-service tooling).</p>\n\n<p>We are product driven, not project driven. Our PaaS built on cloud infrastructure is our product and the rest of the business our customers.</p>\n\n<p>You will be hands on in creating solutions to build and automate environments for production use. You understand the need to build scalable, auditable, reproducible and usable infrastructure.</p>\n\n<p>You are security minded and endorse chaos engineering along with the approach of “you build it, you run it” and “you break it, you fix it”.</p>\n\n<p>You will be required to be part of the on call rota.</p>\n\n<p>We are 100% hosted at AWS (and attended the most recent re:Invent) and in the middle of working with our product teams to migrate their applications to a Jenkins/Docker/Ansible/CloudFormation driven, region agnostic, blue-green automated deployment pipeline; this offers both AMIs and Docker images for deployment to our respective AWS EC2 and ECS production environment.</p>\n\n<p>In front of this we offer a self-service load balancing solution along with a DSL-based approach for creating and managing our subdomains with regards to DNS, SSL certificates, traffic manager routing and monitoring.</p>\n\n<p>This framework is all done as Infrastructure as Code including integrations of other AWS services (e.g. RDS, S3), with a focus on providing the guardrails for immutable systems and making it as self-service as possible for the Product Teams.</p>\n\n<p>We work in a timely, prioritised and start small manner. We look at the highest pain points for both dev and ops and work backwards. We continuously re-evaluate using the right tool for the DevOps job and making abstraction easy.<br>\nTo add some flavour, here are a few tasters of current and upcoming workload.....<br>\nMoving our 3TB+ production database to a cloud managed service.<br>\nLaunching our Platform as a Service worldwide across any AWS region.<br>\nMigrating our biggest, baddest app to our brand new PaaS.<br><br>\nContinuing to iterate on the bootstrapping to get any new application up and running in production.<br>\nExtending our PaaS based on feedback from our Engineer product teams (Lambda? EKS? Fargate?).<br>\nTaking our platform global.<br>\nSkills we need......<br>\nLinux systems administration.<br>\nConfiguration management tools such as Puppet, Ansible, Chef, or any other.<br>\nExperience with continuous delivery / provisioning / deployment.<br>\nBuilding and managing production public-facing sites.<br>\nNetworking skills.<br>\nFamiliarity with concepts such as ‘infrastructure as code’ and ‘tools not rules’.<br>\nStrong programming skills (in any language).<br>\nSkills we&#39;d like......<br>\nExperience of cloud hosting such as AWS, Azure or Google Cloud Platform.<br>\nExperience with hosting internet applications - DNS, load balancing, internet protocols, SSL etc...<br>\nExperience of monitoring tools such as Pingdom, New Relic, Threat Stack and Datadog.<br>\nExperience of logging tools such as ELK.<br>\nExperience of SSO tools.<br>\nExperience of simple secrets management.<br>\nExperience of container technologies such as Docker.<br>\nExperience of serverless technologies such as Lambda.<br>\nExperience of TDD.<br>\nWhat are the benefits?</p>\n\n<p>Benefits:</p>\n\n<p>The ‘core’ stuff<br>\nSome of these will kick in once you’re confirmed in post, but here’s the summary:<br>\n• a salary that reflects your experience, our pay policy and the market we’re in from your first day, generous annual leave<br>\n• life assurance (financial cover for your family, should the worst happen)<br>\n• a cash plan to reimburse your everyday medical expenses<br>\n• an extra day off if you get married or move house<br>\n• an automatic enrollment pension (employer-matched at 5%) </p>\n\n<p>The fun stuff<br>\nPassed probation? Time to pick and mix from things like:<br>\n• a full gym membership<br>\n• private medical insurance<br>\n• extra days annual leave<br>\n• shopping vouchers<br>\n• dental insurance<br>\n• travel insurance</p>\n\n<p>But there’s so much more to Simply Business than insurance and memberships. We also commit to flexible working options, smart working (our offices are kitted out for you to work when and how you choose), cycle to work, eye test vouchers, and season ticket loan schemes, and we have a handy online form to put in any training or conference requests.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£50k – £75k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/ollie-coker",
+        "name": "Ollie Coker ",
+        "avatar": "https://photos.angel.co/users/8511215-medium_jpg?1578672903"
+      },
+      "refs": {
+        "angelListId": "510651",
+        "angelListUrl": "https://angel.co/company/simply-business/jobs/510651-"
+      }
+    }
+  ]
+}

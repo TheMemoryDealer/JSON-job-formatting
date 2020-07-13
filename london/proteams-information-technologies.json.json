@@ -1,0 +1,99 @@
+{
+  "name": "Proteams Information Technologies",
+  "avatar": "https://photos.angel.co/startups/i/1192614-e15cce3484205337d7a6ebd83fc567d5-medium_jpg.jpg?buster=1477574769",
+  "slogan": "Software Development & Consulting",
+  "description": ".",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.proteams.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/proteams.it/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/proteams-it"
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Enterprise Software",
+    "Mobile",
+    "Consulting"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Managing Director",
+      "role": "Founder",
+      "url": "https://angel.co/u/fatih-sokmen",
+      "name": "Fatih S.",
+      "avatar": "https://photos.angel.co/users/988828-medium_jpg?1450250072",
+      "bioHtml": "Software Engineer • Founder <a href=\"https://angel.co/company/proteams-information-technologies\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Proteams Information Technologies</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "1192614",
+    "angelListUrl": "https://angel.co/company/proteams-information-technologies"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Junior iOS Developer (Part time - Remote - 20 Hours pw)",
+      "description": "-- UK Based Candidates Only --\n\nThis is a remote job and you can apply and work from any where in UK. This could be suitable for uni students or someone wants to have experience in a real world projects)\n\nWe are looking for an Junior/Mid level iOS developer to work on our mobile application products using the latest versions of iOS and be able to show links to apps currently live in the iTunes App Store. Someone with a desire to learn new skills and enjoys keeping up to date with the latest technologies and researching how they can be used to address real world problems.\n\nYou can apply and work from any where in UK ( Remote working)\n\nKey Skills\n\nAt least 1 year hands on experience working on iOS application development (personel/hobby projects are also considered)\nExperience in iOS development with Swift on XCode\nExcellent verbal / written communication skills\nDesired Skills\n\nExperience of using RESTful web services, and third-party API integration’s (Firebase and MapBox is a plus)\nExperience in Git (GitHub)\nBenefits\n\nHolidays\nPension scheme\nFlexible working hours (manage your own time) and working from home. You can manage your own time.\nHave the freedom to experiment with the latest tech and help guide our mobile tech stack\nBespoke learning plans and training materials",
+      "descriptionHtml": "<p>-- UK Based Candidates Only --</p>\n\n<p>This is a remote job and you can apply and work from any where in UK. This could be suitable for uni students or someone wants to have experience in a real world projects)</p>\n\n<p>We are looking for an Junior/Mid level iOS developer to work on our mobile application products using the latest versions of iOS and be able to show links to apps currently live in the iTunes App Store. Someone with a desire to learn new skills and enjoys keeping up to date with the latest technologies and researching how they can be used to address real world problems.</p>\n\n<p>You can apply and work from any where in UK ( Remote working)</p>\n\n<p>Key Skills</p>\n\n<p>At least 1 year hands on experience working on iOS application development (personel/hobby projects are also considered)<br>\nExperience in iOS development with Swift on XCode<br>\nExcellent verbal / written communication skills<br>\nDesired Skills</p>\n\n<p>Experience of using RESTful web services, and third-party API integration’s (Firebase and MapBox is a plus)<br>\nExperience in Git (GitHub)<br>\nBenefits</p>\n\n<p>Holidays<br>\nPension scheme<br>\nFlexible working hours (manage your own time) and working from home. You can manage your own time.<br>\nHave the freedom to experiment with the latest tech and help guide our mobile tech stack<br>\nBespoke learning plans and training materials</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "United Kingdom"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "United Kingdom"
+      ],
+      "skills": [
+        "iOS Development",
+        "Xcode",
+        "REST",
+        "Swift",
+        "Mapbox"
+      ],
+      "payment": {
+        "salary": "£12k – £14k"
+      },
+      "recruiter": {
+        "title": "Managing Director",
+        "role": "Founder",
+        "url": "https://angel.co/u/fatih-sokmen",
+        "name": "Fatih S.",
+        "avatar": "https://photos.angel.co/users/988828-medium_jpg?1450250072"
+      },
+      "refs": {
+        "angelListId": "633593",
+        "angelListUrl": "https://angel.co/company/proteams-information-technologies/jobs/633593-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "name": "Taskee",
+  "avatar": "https://photos.angel.co/startups/i/4978108-5e7da13131ba10a70795edd5f78e8a3f-medium_jpg.jpg?buster=1511805643",
+  "slogan": "Find local university students to do tasks around the home and garden",
+  "description": "Users post a task they want completed - for example, a cleaner at 3pm on Thursday. This task gets sent out (as notification) to workers in the area. If the worker is willing and able to complete the job, they apply. The task poster then selects one of the applicants based on their feedback from previous jobs, their profile photos and descriptions as well as their hourly rate (which they have pre-selected for that type of work).\n\nOnce the task is complete, the worker enters how many hours they did and an invoice is generated for the task poster. Payment is made automatically using their pre-authorised card, unless there is an issue with the work.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.taskee.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mobile",
+    "Sharing Economy",
+    "Part Time Jobs",
+    "Mobile Application"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/hector-mason",
+      "name": "Hector Mason",
+      "avatar": "https://photos.angel.co/users/1584079-medium_jpg?1492334982",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/taskee\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Taskee</span></a> • Worked at <a href=\"https://angel.co/company/crowdcube\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Crowdcube</span></a>, <a href=\"https://angel.co/company/monzo\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Monzo Bank</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4978108",
+    "angelListUrl": "https://angel.co/company/taskee"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Developer/Cofounder",
+      "description": "Looking for someone who can develop a responsive web app for Taskee. I have the designs already but need both front-end and back-end built. The app matches users based on locations so developer would need experience working with this. Also need a feedback and messaging system built (again, I already have designs for this). The app will require a payment system like Mangopay. Developer must have considerable experience - I have already worked with two sets of developers who have struggled with this brief so please only apply if you are very confident you can complete this job!\n\nApp Description:\n\nUsers post a task they want completed - for example, a cleaner at 3pm on Thursday. This task gets sent out (as notification) to workers in the area. If the worker is willing and able to complete the job, they apply. The task poster then selects one of the applicants based on their feedback from previous jobs, their profile photos and descriptions as well as their hourly rate (which they have pre-selected for that type of work).\n\nOnce the task is complete, the worker enters how many hours they did and an invoice is generated for the task poster. Payment is made automatically using their pre-authorised card, unless there is an issue with the work. Feedback from both parties is then collected.",
+      "descriptionHtml": "<p>Looking for someone who can develop a responsive web app for Taskee. I have the designs already but need both front-end and back-end built. The app matches users based on locations so developer would need experience working with this. Also need a feedback and messaging system built (again, I already have designs for this). The app will require a payment system like Mangopay. Developer must have considerable experience - I have already worked with two sets of developers who have struggled with this brief so please only apply if you are very confident you can complete this job!</p>\n\n<p>App Description:</p>\n\n<p>Users post a task they want completed - for example, a cleaner at 3pm on Thursday. This task gets sent out (as notification) to workers in the area. If the worker is willing and able to complete the job, they apply. The task poster then selects one of the applicants based on their feedback from previous jobs, their profile photos and descriptions as well as their hourly rate (which they have pre-selected for that type of work).</p>\n\n<p>Once the task is complete, the worker enters how many hours they did and an invoice is generated for the task poster. Payment is made automatically using their pre-authorised card, unless there is an issue with the work. Feedback from both parties is then collected.</p>\n",
+      "position": "cofounder",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Location Based Services",
+        "Mobile Development",
+        "Web Applications",
+        "API",
+        "Application Development"
+      ],
+      "payment": {
+        "salary": "£0k – £5k",
+        "equity": "15.0% – 30.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/hector-mason",
+        "name": "Hector Mason",
+        "avatar": "https://photos.angel.co/users/1584079-medium_jpg?1492334982"
+      },
+      "refs": {
+        "angelListId": "303580",
+        "angelListUrl": "https://angel.co/company/taskee/jobs/303580-"
+      }
+    }
+  ]
+}

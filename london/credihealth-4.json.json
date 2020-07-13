@@ -1,0 +1,98 @@
+{
+  "name": "CrediHealth",
+  "avatar": "https://photos.angel.co/startups/i/7660740-8f29e3e8f4faefeb966b9c5cd98d9d97-medium_jpg.jpg?buster=1588152693",
+  "slogan": "A market place for dietary supplements",
+  "description": "A one-stop shop expert reviewed, selectively curated, and personalized dietary supplement products",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://credihealth.myshopify.com/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "E-Commerce",
+    "Health and Wellness",
+    "Dietary Supplements",
+    "Healthcare"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/ahmad-salah-2",
+      "name": "Ahmed Ibrahim",
+      "avatar": "https://photos.angel.co/users/7742926-medium_jpg?1556535447",
+      "bioHtml": "I am a growth and acquisitions product manager for an e-comm D2C startup "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7660740",
+    "angelListUrl": "https://angel.co/company/credihealth-4"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "Co-founder (Food/nutrition science)",
+      "description": "**Interest**\r\n- Nutrition, Healthcare, Wellness\r\n\r\n**Background**\r\nEssential \r\n- Undergraduate degree in bio-chemistry, biology, chemistry or a related field \r\n- 2-5 years consulting/banking or clinical/research experience\r\n\r\nDesirable\r\n- PhD/Post-doc in a related field",
+      "descriptionHtml": "<p><strong>Interest</strong></p>\n\n<ul>\n<li>Nutrition, Healthcare, Wellness</li>\n</ul>\n\n<p><strong>Background</strong><br>\nEssential </p>\n\n<ul>\n<li>Undergraduate degree in bio-chemistry, biology, chemistry or a related field </li>\n<li>2-5 years consulting/banking or clinical/research experience</li>\n</ul>\n\n<p>Desirable</p>\n\n<ul>\n<li>PhD/Post-doc in a related field</li>\n</ul>\n",
+      "position": "cofounder",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Graphic Design",
+        "Copywriting",
+        "Merchandising",
+        "Content Marketing",
+        "Brand Management"
+      ],
+      "payment": {
+        "salary": "No salary"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/ahmad-salah-2",
+        "name": "Ahmed Ibrahim",
+        "avatar": "https://photos.angel.co/users/7742926-medium_jpg?1556535447"
+      },
+      "refs": {
+        "angelListId": "807415",
+        "angelListUrl": "https://angel.co/company/credihealth-4/jobs/807415-"
+      }
+    }
+  ]
+}

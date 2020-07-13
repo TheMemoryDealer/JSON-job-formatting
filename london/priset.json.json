@@ -1,0 +1,93 @@
+{
+  "name": "Priset",
+  "avatar": "https://photos.angel.co/startups/i/6160639-b52012683c275308be927962a87da46b-medium_jpg.jpg?buster=1534242192",
+  "slogan": "Personal stylist online",
+  "description": "A personalised shopping destination for women to quicker find fashion items matched for their unique body and style with the help of artificial intelligence and style advisors. \n\nBeta version launching in September is specifically targeting key audiences ( as petite, tall and curvy woman ) which are having most concerns of shopping online. ",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://priset.co"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "E-Commerce",
+    "Artificial Intelligence",
+    "Fashion Tech",
+    "Fashion"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/austina-povilaityte-1",
+      "name": "austina povilaityte",
+      "avatar": "https://photos.angel.co/users/8225119-medium_jpg?1534241633",
+      "bioHtml": "Digital marketing expert. Growth hacker. Entrepreneur​ mindset."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6160639",
+    "angelListUrl": "https://angel.co/company/priset"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Co-Founder / Tech lead",
+      "description": "Priset is a personalised shopping destination for women to quicker find fashion items that match their body shape and style with the help of artificial intelligence and style advisors. \n\nWe have the vision to be a learning PERSONAL SHOPPER online platform in the UK serving almost £6.2 bn market. \n\nCurrently, we are in beta version and planning a public launch in September. \n\nLooking for an experienced full stack developer, who would believe in this product as much as founding team and could supervise it on equity base until seed investment stage.",
+      "descriptionHtml": "<p>Priset is a personalised shopping destination for women to quicker find fashion items that match their body shape and style with the help of artificial intelligence and style advisors. </p>\n\n<p>We have the vision to be a learning PERSONAL SHOPPER online platform in the UK serving almost £6.2 bn market. </p>\n\n<p>Currently, we are in beta version and planning a public launch in September. </p>\n\n<p>Looking for an experienced full stack developer, who would believe in this product as much as founding team and could supervise it on equity base until seed investment stage.</p>\n",
+      "position": "cofounder",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "No salary",
+        "equity": "10.0% – 15.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/austina-povilaityte-1",
+        "name": "austina povilaityte",
+        "avatar": "https://photos.angel.co/users/8225119-medium_jpg?1534241633"
+      },
+      "refs": {
+        "angelListId": "412053",
+        "angelListUrl": "https://angel.co/company/priset/jobs/412053-"
+      }
+    }
+  ]
+}

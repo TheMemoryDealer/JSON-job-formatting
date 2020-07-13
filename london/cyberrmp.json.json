@@ -1,0 +1,206 @@
+{
+  "name": "CyberRMP",
+  "avatar": "https://photos.angel.co/startups/i/6703944-31fa53ab8e3c50f839e653d4caa7492f-medium_jpg.jpg?buster=1545754228",
+  "slogan": "We help organisations to find their cyber risk score",
+  "description": "CyberRMP let’s organisations to find the cyber risk score at project team levels and at organisation level and also work with organisation to increase security awareness through gamification assessments.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://cyberrmp.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Cyber Security",
+    "Risk Management",
+    "Cloud Security",
+    "Security"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/chaitanya-d-6",
+      "name": "Chaitanya d",
+      "avatar": "https://photos.angel.co/users/8735818-medium_jpg?1545754428",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/cyberrmp\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">CyberRMP</span></a>, <a href=\"https://angel.co/company/vihik-cabs\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Vihik Cabs</span></a> • Worked at <a href=\"https://angel.co/company/infosys-technologies\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Infosys Technologies</span></a>, <a href=\"https://angel.co/company/hsbc-bank\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">HSBC BANK</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6703944",
+    "angelListUrl": "https://angel.co/company/cyberrmp"
+  },
+  "jobs": [
+    {
+      "role": "Management",
+      "title": "CISO",
+      "description": "1) Should have understanding of cloud security.\n2) Should have understanding of cyber security frameworks.\n3) Should have Finance/Insurance/Transportation experience.",
+      "descriptionHtml": "<p>1) Should have understanding of cloud security.<br>\n2) Should have understanding of cyber security frameworks.<br>\n3) Should have Finance/Insurance/Transportation experience.</p>\n",
+      "position": "cofounder",
+      "experience": 10,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "Risk Management",
+        "Cloud Security",
+        "Cyber Security",
+        "Docker",
+        "Microsoft Azure",
+        "Google Cloud Platform",
+        "Apigee",
+        "AWS",
+        "Kubernetes"
+      ],
+      "payment": {
+        "salary": "£100k – £120k",
+        "equity": "1.0% – 3.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/chaitanya-d-6",
+        "name": "Chaitanya d",
+        "avatar": "https://photos.angel.co/users/8735818-medium_jpg?1545754428"
+      },
+      "refs": {
+        "angelListId": "478096",
+        "angelListUrl": "https://angel.co/company/cyberrmp/jobs/478096-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "DevSecops Lead",
+      "description": "",
+      "descriptionHtml": "",
+      "position": "contract",
+      "experience": 10,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Docker",
+        "Microsoft Azure",
+        "Google Cloud Platform",
+        "Apigee",
+        "AWS",
+        "Kubernetes"
+      ],
+      "payment": {
+        "salary": "$60k – $80k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/chaitanya-d-6",
+        "name": "Chaitanya d",
+        "avatar": "https://photos.angel.co/users/8735818-medium_jpg?1545754428"
+      },
+      "refs": {
+        "angelListId": "478123",
+        "angelListUrl": "https://angel.co/company/cyberrmp/jobs/478123-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Penetration Tester",
+      "description": "Key responsibilities: \nDevelop, validate and assure threat models\nValidate authentication and authorisation flows eg SAMLv2, OIDC, RBC/ABAC\nTargeted abuse of modern languages and frameworks\nMulti-vendor cloud control validation (AWS, GCP and Azure)\nDevelop automated assurance frameworks and libraries to assure workloads at build and runtime (DevOps and multi-cloud workloads)\nScale usage of automated vulnerability assessment tools by feature teams\nMentor junior engineers to build their skills and contribution levels\nValidate security engineering patterns and designs to 'shift-left' security assurance\nMentor feature teams to improve code quality and delivered technical debt\nRequired skills: \n7+ years penetration testing experience\nAgile, DevOps and CI/CD experience essential\nThreat modelling, security research or software engineering experience highly regarded\nWorking knowledge of cloud security service design approaches and concepts is preferable (Azure, AWS or GCP)\nGIAC, OSCP or CEH certifications",
+      "descriptionHtml": "<p>Key responsibilities: <br>\nDevelop, validate and assure threat models<br>\nValidate authentication and authorisation flows eg SAMLv2, OIDC, RBC/ABAC<br>\nTargeted abuse of modern languages and frameworks<br>\nMulti-vendor cloud control validation (AWS, GCP and Azure)<br>\nDevelop automated assurance frameworks and libraries to assure workloads at build and runtime (DevOps and multi-cloud workloads)<br>\nScale usage of automated vulnerability assessment tools by feature teams<br>\nMentor junior engineers to build their skills and contribution levels<br>\nValidate security engineering patterns and designs to &#39;shift-left&#39; security assurance<br>\nMentor feature teams to improve code quality and delivered technical debt<br>\nRequired skills: <br>\n7+ years penetration testing experience<br>\nAgile, DevOps and CI/CD experience essential<br>\nThreat modelling, security research or software engineering experience highly regarded<br>\nWorking knowledge of cloud security service design approaches and concepts is preferable (Azure, AWS or GCP)<br>\nGIAC, OSCP or CEH certifications</p>\n",
+      "position": "full-time",
+      "experience": 7,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Identity and Access Management",
+        "Security",
+        "Docker",
+        "Microsoft Azure",
+        "AWS",
+        "Kubernetes",
+        "GCP"
+      ],
+      "payment": {
+        "salary": "$70k – $80k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/chaitanya-d-6",
+        "name": "Chaitanya d",
+        "avatar": "https://photos.angel.co/users/8735818-medium_jpg?1545754428"
+      },
+      "refs": {
+        "angelListId": "518338",
+        "angelListUrl": "https://angel.co/company/cyberrmp/jobs/518338-"
+      }
+    },
+    {
+      "role": "Sales",
+      "title": "Sales operations manager",
+      "description": "",
+      "descriptionHtml": "",
+      "position": "cofounder",
+      "experience": 10,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£40k – £55k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/chaitanya-d-6",
+        "name": "Chaitanya d",
+        "avatar": "https://photos.angel.co/users/8735818-medium_jpg?1545754428"
+      },
+      "refs": {
+        "angelListId": "478122",
+        "angelListUrl": "https://angel.co/company/cyberrmp/jobs/478122-"
+      }
+    }
+  ]
+}

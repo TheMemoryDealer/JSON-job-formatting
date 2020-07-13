@@ -1,0 +1,99 @@
+{
+  "name": "EnMovi",
+  "avatar": "https://photos.angel.co/startups/i/7445510-9cb73e7185a51347ef6e4a2a992394b9-medium_jpg.jpg?buster=1580099904",
+  "slogan": "Medical wearable sensors",
+  "description": "We designed and developed wearable sensors, for tracking how well patients are recovering after surgery. Our devices connected devices track how well the post surgery exercises and therapy is going sending real time data to the cloud for analytics.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://enmovi.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Medical Devices",
+    "Wearables",
+    "Bluetooth "
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/eryk-sokolowski",
+      "name": "Eryk Sokolowski",
+      "avatar": "https://photos.angel.co/users/5617278-medium_jpg?1485790273",
+      "bioHtml": "Worked for 3 Companies, \nNow I run my own business and I am looking for new opportunities to grow!"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7445510",
+    "angelListUrl": "https://angel.co/company/enmovi"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Embedded Software Engineer",
+      "description": "Responsibilities:\n-Conceptualising and developing software architectures and documenting those requirements to a high standard\n-Developing high-quality, well-documented, tested code and contributing to development reviews to maintain standards and release processes across the team\n-Supporting the current code base and implementing new features / bug fixes found during production ramp up.\n-Interfacing with Asian contract manufacturers regarding production issues during set up and early trials.\n-Setting up software development, testing and deployment processes that will support regulatory requirements.\n-Proactively seeking improvements to the current system\n-Working with early hardware prototypes, supporting their bring ups and debugging.\n-Testing and documenting development work to a high standard, while maintaining an audit trail and revision history of the work. \n-Conducting review and signoffs of new code releases.\nBuilding out the team and mentoring junior developers.\n\n\nQualifications:\n-Minimum Bachelor's degree in engineering with 5-10 years of development.\n-Experience specific to medical devices is advantageous (IEC 62304). \n-Working knowledge of code development for regulated markets  such as Automotive or Aerospace in absence medical experience is required.\n-Excellent knowledge of C language for embedded targets.\n-Experience with wearables or small consumer products, with track record of delivering projects to manufacturing.\n-Experience developing code for battery powered and resource constrained devices (ARM Cortex-M series).\n-Experience with short range wireless networks consumer standards (preferably BLE Nordic based chip or ANT, ZigBee...).\n-Good understanding of and previous experience with sensors such as IMU’s, PPG, ECG for motion or body vitals.\n-Experience  of embedding high level code containing auto generated algorithms (e.g. Matlab/Simulink) into an embedded target.\n-Good knowledge of C++, Python for tooling development.\n-Good knowledge of development process tools like JIRA and GIT versioning system\n-Experience with using lab equipment such as oscilloscopes, power supplies, logic analysers and being able to design correct testing procedures using those tools.\n-Must be authorized to work in the United Kingdom",
+      "descriptionHtml": "<p>Responsibilities:<br>\n-Conceptualising and developing software architectures and documenting those requirements to a high standard<br>\n-Developing high-quality, well-documented, tested code and contributing to development reviews to maintain standards and release processes across the team<br>\n-Supporting the current code base and implementing new features / bug fixes found during production ramp up.<br>\n-Interfacing with Asian contract manufacturers regarding production issues during set up and early trials.<br>\n-Setting up software development, testing and deployment processes that will support regulatory requirements.<br>\n-Proactively seeking improvements to the current system<br>\n-Working with early hardware prototypes, supporting their bring ups and debugging.<br>\n-Testing and documenting development work to a high standard, while maintaining an audit trail and revision history of the work. <br>\n-Conducting review and signoffs of new code releases.<br>\nBuilding out the team and mentoring junior developers.</p>\n\n<p>Qualifications:<br>\n-Minimum Bachelor&#39;s degree in engineering with 5-10 years of development.<br>\n-Experience specific to medical devices is advantageous (IEC 62304). <br>\n-Working knowledge of code development for regulated markets  such as Automotive or Aerospace in absence medical experience is required.<br>\n-Excellent knowledge of C language for embedded targets.<br>\n-Experience with wearables or small consumer products, with track record of delivering projects to manufacturing.<br>\n-Experience developing code for battery powered and resource constrained devices (ARM Cortex-M series).<br>\n-Experience with short range wireless networks consumer standards (preferably BLE Nordic based chip or ANT, ZigBee...).<br>\n-Good understanding of and previous experience with sensors such as IMU’s, PPG, ECG for motion or body vitals.<br>\n-Experience  of embedding high level code containing auto generated algorithms (e.g. Matlab/Simulink) into an embedded target.<br>\n-Good knowledge of C++, Python for tooling development.<br>\n-Good knowledge of development process tools like JIRA and GIT versioning system<br>\n-Experience with using lab equipment such as oscilloscopes, power supplies, logic analysers and being able to design correct testing procedures using those tools.<br>\n-Must be authorized to work in the United Kingdom</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Glasgow"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Bluetooth",
+        "Debugging",
+        "Medical Devices",
+        "Microprocessors",
+        "Embedded C/C++"
+      ],
+      "payment": {
+        "salary": "£35k – £65k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/eryk-sokolowski",
+        "name": "Eryk Sokolowski",
+        "avatar": "https://photos.angel.co/users/5617278-medium_jpg?1485790273"
+      },
+      "refs": {
+        "angelListId": "706291",
+        "angelListUrl": "https://angel.co/company/enmovi/jobs/706291-"
+      }
+    }
+  ]
+}

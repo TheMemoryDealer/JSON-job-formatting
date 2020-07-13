@@ -1,0 +1,171 @@
+{
+  "name": "HoloMeeting",
+  "avatar": "https://photos.angel.co/startups/i/6771817-e2a041e28d36b1611b89ebe30fb7de5c-medium_jpg.jpg?buster=1549284966",
+  "slogan": "HoloMeeting, a Mixed Reality remote collaboration solution",
+  "description": "HoloMeeting is a remote collaboration solving the problem of remote collaboration. \n\nUsing HoloMeeting, you can collaborate across geographical boundaries while it feels like you are in the same physical room.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://holomeeting.io"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Europe"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/kazendi",
+      "name": "Maximilian Doelle",
+      "avatar": "https://photos.angel.co/users/5323233-medium_jpg?1489384545",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/kazendi-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Kazendi</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/laky-yang-1",
+      "name": "Laky Yang",
+      "avatar": "https://photos.angel.co/users/9854833-medium_jpg?1567106038",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6771817",
+    "angelListUrl": "https://angel.co/company/holomeeting"
+  },
+  "jobs": [
+    {
+      "role": "Designer",
+      "title": "Senior Technical Artist",
+      "description": "No applicants will be evaluated without applying to the following link: https://hire.withgoogle.com/public/jobs/kazendicom/view/P_AAAAABlAAAnIuWIevVXXrL \n\nThis role requires an experienced software engineer who knows how to lead junior developers and consistently meet company goals. We are a small team, you're the person that gets the job done. If there is a bug thrown, you fix it. In this role you will need to evaluate the highest priority problems and provide solutions through strategic thinking. A \"can-do\" attitude will take you a long way!\n\nResponsibilities, including but not limited to: \nDevelopment of ultra-fast, massively scalable, highly available holographic meeting solution built on top of Photon \nImplementation of security \"best practices” to keep user data secure \nWorking with designers, client engineering, and production teams to achieve goals \nMentoring and managing junior developers\n\nRequirements: \n5+ years Unity experience in a professional development team (we don't count self study^^) \nVirtual Reality or Augmented Reality experience (ideally Microsoft HoloLens) \nStrong .NET/C# \nPhoton Networking \nExperience working with cloud-based systems and/or local servers including, but not limited to: web-based protocols, REST APIs, and sockets \nBS in Computer Science\n\nPreferred: \niOS/Android \nC++ skills (e.g. calling C++ DLLs from within Unity) \nAzure\n\nSkills\nGit, UI/UX Design, Unity, Technical Art\nCompensation\n£20k – £40k \nNo equity\nVisa Sponsorship\nNot available",
+      "descriptionHtml": "<p>No applicants will be evaluated without applying to the following link: <a href=\"https://hire.withgoogle.com/public/jobs/kazendicom/view/P_AAAAABlAAAnIuWIevVXXrL\" target=\"_blank\" rel=\"nofollow\">https://hire.withgoogle.com/public/jobs/kazendicom/view/P_AAAAABlAAAnIuWIevVXXrL</a> </p>\n\n<p>This role requires an experienced software engineer who knows how to lead junior developers and consistently meet company goals. We are a small team, you&#39;re the person that gets the job done. If there is a bug thrown, you fix it. In this role you will need to evaluate the highest priority problems and provide solutions through strategic thinking. A &quot;can-do&quot; attitude will take you a long way!</p>\n\n<p>Responsibilities, including but not limited to: <br>\nDevelopment of ultra-fast, massively scalable, highly available holographic meeting solution built on top of Photon <br>\nImplementation of security &quot;best practices” to keep user data secure <br>\nWorking with designers, client engineering, and production teams to achieve goals <br>\nMentoring and managing junior developers</p>\n\n<p>Requirements: <br>\n5+ years Unity experience in a professional development team (we don&#39;t count self study^^) <br>\nVirtual Reality or Augmented Reality experience (ideally Microsoft HoloLens) <br>\nStrong .NET/C# <br>\nPhoton Networking <br>\nExperience working with cloud-based systems and/or local servers including, but not limited to: web-based protocols, REST APIs, and sockets <br>\nBS in Computer Science</p>\n\n<p>Preferred: <br>\niOS/Android <br>\nC++ skills (e.g. calling C++ DLLs from within Unity) <br>\nAzure</p>\n\n<p>Skills<br>\nGit, UI/UX Design, Unity, Technical Art<br>\nCompensation<br>\n£20k – £40k <br>\nNo equity<br>\nVisa Sponsorship<br>\nNot available</p>\n",
+      "position": "contract",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Git",
+        "UI/UX Design",
+        "Unity",
+        "Technical Art"
+      ],
+      "payment": {
+        "salary": "£20k – £40k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/kazendi",
+        "name": "Maximilian Doelle",
+        "avatar": "https://photos.angel.co/users/5323233-medium_jpg?1489384545"
+      },
+      "refs": {
+        "angelListId": "498703",
+        "angelListUrl": "https://angel.co/company/holomeeting/jobs/498703-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Unity Developer",
+      "description": "No applicants will be evaluated without applying through the following link: \nhttps://hire.withgoogle.com/public/jobs/kazendicom/view/P_AAAAABlAAAnJ77w7dRW5jz\n\nThis role requires an experienced software engineer who knows how to lead junior developers and consistently meet company goals. We are a small team, you're the person that gets the job done. If there is a bug thrown, you fix it. In this role you will need to evaluate the highest priority problems and provide solutions through strategic thinking. A \"can-do\" attitude will take you a long way!\n\nResponsibilities, including but not limited to: \nDevelopment of ultra-fast, massively scalable, highly available holographic meeting solution built on top of Photon \nImplementation of security \"best practices” to keep user data secure \nWorking with designers, client engineering, and production teams to achieve goals \nMentoring and managing junior developers\n\nRequirements: \n5+ years Unity experience in a professional development team (we don't count self study^^) \nVirtual Reality or Augmented Reality experience (ideally Microsoft HoloLens) \nStrong .NET/C# \nPhoton Networking \nExperience working with cloud-based systems and/or local servers including, but not limited to: web-based protocols, REST APIs, and sockets \nBS in Computer Science\n\nPreferred: \niOS/Android \nC++ skills (e.g. calling C++ DLLs from within Unity) \nAzure\n\n\nPLEASE APPLY THROUGH THIS LINK: https://hire.withgoogle.com/public/jobs/kazendicom/view/P_AAAAABlAAAnJ77w7dRW5jz?trackingTag=angelList",
+      "descriptionHtml": "<p>No applicants will be evaluated without applying through the following link: <br>\n<a href=\"https://hire.withgoogle.com/public/jobs/kazendicom/view/P_AAAAABlAAAnJ77w7dRW5jz\" target=\"_blank\" rel=\"nofollow\">https://hire.withgoogle.com/public/jobs/kazendicom/view/P_AAAAABlAAAnJ77w7dRW5jz</a></p>\n\n<p>This role requires an experienced software engineer who knows how to lead junior developers and consistently meet company goals. We are a small team, you&#39;re the person that gets the job done. If there is a bug thrown, you fix it. In this role you will need to evaluate the highest priority problems and provide solutions through strategic thinking. A &quot;can-do&quot; attitude will take you a long way!</p>\n\n<p>Responsibilities, including but not limited to: <br>\nDevelopment of ultra-fast, massively scalable, highly available holographic meeting solution built on top of Photon <br>\nImplementation of security &quot;best practices” to keep user data secure <br>\nWorking with designers, client engineering, and production teams to achieve goals <br>\nMentoring and managing junior developers</p>\n\n<p>Requirements: <br>\n5+ years Unity experience in a professional development team (we don&#39;t count self study^^) <br>\nVirtual Reality or Augmented Reality experience (ideally Microsoft HoloLens) <br>\nStrong .NET/C# <br>\nPhoton Networking <br>\nExperience working with cloud-based systems and/or local servers including, but not limited to: web-based protocols, REST APIs, and sockets <br>\nBS in Computer Science</p>\n\n<p>Preferred: <br>\niOS/Android <br>\nC++ skills (e.g. calling C++ DLLs from within Unity) <br>\nAzure</p>\n\n<p>PLEASE APPLY THROUGH THIS LINK: <a href=\"https://hire.withgoogle.com/public/jobs/kazendicom/view/P_AAAAABlAAAnJ77w7dRW5jz?trackingTag=angelList\" target=\"_blank\" rel=\"nofollow\">https://hire.withgoogle.com/public/jobs/kazendicom/view/P_AAAAABlAAAnJ77w7dRW5jz?trackingTag=angelList</a></p>\n",
+      "position": "contract",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "Remote"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "C++",
+        "Unity3D",
+        "Virtual Reality",
+        "HoloLens"
+      ],
+      "payment": {
+        "salary": "£30k – £70k",
+        "equity": "0.0% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/kazendi",
+        "name": "Maximilian Doelle",
+        "avatar": "https://photos.angel.co/users/5323233-medium_jpg?1489384545"
+      },
+      "refs": {
+        "angelListId": "498705",
+        "angelListUrl": "https://angel.co/company/holomeeting/jobs/498705-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Video Streaming Programmer C/C++/C#",
+      "description": "We are looking for a highly motivated video streaming expert to join us in our mission to transform how humans work and collaborate together in Mixed Reality.\n\nIn this role, you are responsible for developing the video streaming part of HoloMeeting. You will make sure that we have high quality video on all Windows devices (e.g. HoloLens, Immersive Mixed Reality, Surface Hub, etc.), including old hardware. You are leveraging low level audio Media Foundation, open source libraries (FFMPEG) or others to reduce latency, reduce bandwidth and increase quality even on mobile connections. \n\nYou will be involved in new video features, e.g. implementing remote inking (world space to canvas transformation), SSC-HEVC and others.\n\n\nResponsibilities, including but not limited to:\nDevelopment of low-latency video streaming\nImplementation of latest streaming technologies (Salsify, etc.)\nImplementation of latest codecs (HEVC, VP9, etc.)\n\nRequirements:\n3+ years video programming experience \nDeep knowledge of low level APIs (Media Foundation, etc.) \nC++ video programming\nStrong C#/.NET skills \nGood understanding of streaming containers.\n\nPreferred:\nIdeally knowledge of Unity game engine\nIdeally good knowledge of C \nPhoton Networking\nExperience working with cloud-based systems and/or local servers including, but not limited to: web-based protocols, REST APIs, and sockets\nWebRTC\n\n\nWork Environment\nWe are a startup and this job operates in a remote environment. Candidates should have flexible working hours to accommodate this role and the company growth. We do not intend to work longer than necessary, however, we are looking for people who get things done when necessary.",
+      "descriptionHtml": "<p>We are looking for a highly motivated video streaming expert to join us in our mission to transform how humans work and collaborate together in Mixed Reality.</p>\n\n<p>In this role, you are responsible for developing the video streaming part of HoloMeeting. You will make sure that we have high quality video on all Windows devices (e.g. HoloLens, Immersive Mixed Reality, Surface Hub, etc.), including old hardware. You are leveraging low level audio Media Foundation, open source libraries (FFMPEG) or others to reduce latency, reduce bandwidth and increase quality even on mobile connections. </p>\n\n<p>You will be involved in new video features, e.g. implementing remote inking (world space to canvas transformation), SSC-HEVC and others.</p>\n\n<p>Responsibilities, including but not limited to:<br>\nDevelopment of low-latency video streaming<br>\nImplementation of latest streaming technologies (Salsify, etc.)<br>\nImplementation of latest codecs (HEVC, VP9, etc.)</p>\n\n<p>Requirements:<br>\n3+ years video programming experience <br>\nDeep knowledge of low level APIs (Media Foundation, etc.) <br>\nC++ video programming<br>\nStrong C#/.NET skills <br>\nGood understanding of streaming containers.</p>\n\n<p>Preferred:<br>\nIdeally knowledge of Unity game engine<br>\nIdeally good knowledge of C <br>\nPhoton Networking<br>\nExperience working with cloud-based systems and/or local servers including, but not limited to: web-based protocols, REST APIs, and sockets<br>\nWebRTC</p>\n\n<p>Work Environment<br>\nWe are a startup and this job operates in a remote environment. Candidates should have flexible working hours to accommodate this role and the company growth. We do not intend to work longer than necessary, however, we are looking for people who get things done when necessary.</p>\n",
+      "position": "contract",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "C++",
+        "Unity3D",
+        "Video Streaming",
+        "H264 Video codec"
+      ],
+      "payment": {
+        "salary": "$50k – $130k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/kazendi",
+        "name": "Maximilian Doelle",
+        "avatar": "https://photos.angel.co/users/5323233-medium_jpg?1489384545"
+      },
+      "refs": {
+        "angelListId": "574181",
+        "angelListUrl": "https://angel.co/company/holomeeting/jobs/574181-"
+      }
+    }
+  ]
+}

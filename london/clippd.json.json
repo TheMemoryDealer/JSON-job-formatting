@@ -1,0 +1,118 @@
+{
+  "name": "Clippd",
+  "avatar": "https://photos.angel.co/startups/i/7457881-a629ea049baf3a1052624bde9acff282-medium_jpg.jpg?buster=1580471497",
+  "slogan": "Strava for Golf (and more..)",
+  "description": "Clippd puts every golfer's performance data onto a single platform, enriches the information and turns it into invaluable insights that will transform the way golfers play, coaches teach, and ultimately the way that golfers around the world interact with every element of the game they love.\n\nClippd pulls data from multiple technologies and delivers clear causal links that shine a bright light on the way a player plays the game. For the first time, golfers around the world will be able to truly understand their golfing DNA and see the true context of any given shot where data is created - driving range, teaching bay, indoor simulator or on-course.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.clippd.io"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Global"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/ed-crossman",
+      "name": "Ed Crossman",
+      "avatar": "https://photos.angel.co/users/6808927-medium_jpg?1554131110",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/clippd\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Clippd</span></a>, worked @nextwavepartners, grad <a href=\"https://angel.co/university-of-oxford-1\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Oxford</span></a> "
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/piers-parnell",
+      "name": "Piers Parnell",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/piers-parnell",
+      "name": "Piers Parnell",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/david-ford-28",
+      "name": "David Ford",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7457881",
+    "angelListUrl": "https://angel.co/company/clippd"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior full stack developer",
+      "description": "We are looking for an ambitious senior full stack developer to work alongside the founders and with our CTO. You’ll be responsible for developing solutions to challenging problems, ranging from creating the architecture of data structures for mass data collection, to presenting data analytics in intuitive ways on web and mobile. You will know when to follow best practice and when to pave your own way. You’re an independent thinker whose instinct is to ask “why”, and who loves getting into the weeds of a task. Finally, we want team players who think about and prioritise the company’s goals.",
+      "descriptionHtml": "<p>We are looking for an ambitious senior full stack developer to work alongside the founders and with our CTO. You’ll be responsible for developing solutions to challenging problems, ranging from creating the architecture of data structures for mass data collection, to presenting data analytics in intuitive ways on web and mobile. You will know when to follow best practice and when to pave your own way. You’re an independent thinker whose instinct is to ask “why”, and who loves getting into the weeds of a task. Finally, we want team players who think about and prioritise the company’s goals.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "TypeScript",
+        "Swift"
+      ],
+      "payment": {
+        "salary": "£50k – £80k",
+        "equity": "0.25% – 0.75%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/ed-crossman",
+        "name": "Ed Crossman",
+        "avatar": "https://photos.angel.co/users/6808927-medium_jpg?1554131110"
+      },
+      "refs": {
+        "angelListId": "712018",
+        "angelListUrl": "https://angel.co/company/clippd/jobs/712018-"
+      }
+    }
+  ]
+}

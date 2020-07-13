@@ -1,0 +1,131 @@
+{
+  "name": "Boden",
+  "avatar": "https://photos.angel.co/startups/i/6630141-8b3b99152646fff38604147d1e046a98-medium_jpg.jpg?buster=1543576371",
+  "slogan": "The winning formula? Fun + Style = Joy",
+  "description": "In 1991, eight just-right shirts went from Johnnie Boden’s kitchen table and out into the wider world. We’ve now outgrown Johnnie’s kitchen and are based at the significantly larger Boden House, in glamour-lite North Acton (that’s in West London in case it’s not on your radar). Plus, we’ve got a gigantic warehouse in Leicester, an American office in a trendy part of Boston. Altogether, more than 1000 of us create clothes that are timeless and tasteful, British and bold. Not only are we the recipients of a 30% staff discount, subsidised gym and a generous clothing allowance, but we start each day with free tea, coffee and toast. Perks are all well and good, but Boden is also a brand that values committed and creative thinkers and wants to help develop their skills. \nThe results are impressive; we’re a business with a turnover of £250 million (and growing), more than 1.7 million customers worldwide and our staff are happy and motivated. The winning formula? Fun + Style = Joy.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.boden.co.uk"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/bodenclothing"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/JohnnieBoden/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/boden"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Retail",
+    "Fashion",
+    "Ecommerce"
+  ],
+  "employees": "SIZE_1001_5000",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/mun-7",
+      "name": "Munira Ali",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": " I&#39;m a big foodie, enjoys travelling to unknown locations, GOT fan and curious cat I mean Leo"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6630141",
+    "angelListUrl": "https://angel.co/company/boden-2"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "SOFTWARE ENGINEER",
+      "description": "DESCRIPTION\n \n\nThe Boden Story part II\n\n \n\nFounded in 1991 by Johnnie Boden, and famous for our catalogue, our vision is to bring joy to our customers around the world, surprising and delighting them in all that we do. We have grown steadily over the last 27 years, and now sell our brand of stylish and colourful clothes to our 1.8m customers. With a turnover of £350M across our three main markets in the UK, US and Germany, we are profitable, privately owned and financially stable. It is certainly a very exciting time for you to become part of Boden!\n\nWe are now embarking on part II of our story, investing in people, technology and the workplace to drive our future growth. Last year we opened a fantastic new distribution centre in Leicester, and this January we moved into our amazing new offices in West London. We are rebuilding our digital platform, and putting in new Merchandising and Retail systems to support our growth. We want to deliver amazing customer experiences, grow our reach, and shape the Boden of tomorrow, whilst always living our values inside out: Style, Brave, Charming & Witty, British and Trustworthy.\n\n \n\n \n\nWhere you fit in\n\n \n\nWe believe in the DevOps culture; you and your team will support the changes you make all the way through to operating successfully in production at scale.\n\nWe are looking for smart, energetic, and entrepreneurial individuals who are passionate about making a difference and helping us improve our engineering and agile practices. You enjoy sharing knowledge, working closely within the teams. Also, you value testing and reproducibility, as well as figuring out the best way to build systems that are maintainable and easy to comprehend.\n\nYou will be hands on, collaborative, a great software engineer passionate about customer experiences and the technology industry.\n\n \n\n \n\nHow we shape the Boden of tomorrow\n\n \n\nWe are creating an SOA running in AWS, using IAC and CI to push our changes out through CD pipelines. Our systems will share common APIs utilising Microservices. Currently we are using AWS Lambda, RDS and ECS to deploy applications, and infrastructure tooling due to its simplicity. However, in the future we are considering Kubernetes when scale and complexity warrants it.\n\n \n\nExperience and skills required\n\n \n\n- Minimum of 5 years’ experience designing and building scalable solutions\n\n- Experience of 2nd/3rd line support or development for bespoke applications based on the Microsoft Windows architecture (SQL, C#.Net etc.)\n\n- SOA experience ideally using nServiceBus or similar.\n\n- SQL Server 2008/2012 Strong SQL Knowledge with experiencing writing and debugging complex stored procedures\n\n- Great analytical skills and a sense of the ‘bigger picture’\n\n- Experience of developing enterprise level databases\n\n- Exposure to agile working practises, in particular; Kanban, stand up’s\n\n \n\n \n\nDesirable experience and skills required\n\n \n\n- Knowledge of the full Microsoft .NET framework (C#) and how to use it to build web applications is extremely advantageous\n\n- Experience working with at least one testing framework\n\n- Exposure to non-relational database technologies e.g. MongoDB\n\n- Knowledge of SSRS & SSAS is desirable\n\n- Cloud (AWS/Azure)\n\n- Jira or similar tools\n\n \n\nThe way we work\n\nWe make Boden fun, fulfilling and rewarding place to work where people realise their full potential. At Boden we are dedicated to the growth and development of our people and teams. We have a training program which enables our people to drive their own success and reach their full potential",
+      "descriptionHtml": "<p>DESCRIPTION</p>\n\n<p>The Boden Story part II</p>\n\n<p>Founded in 1991 by Johnnie Boden, and famous for our catalogue, our vision is to bring joy to our customers around the world, surprising and delighting them in all that we do. We have grown steadily over the last 27 years, and now sell our brand of stylish and colourful clothes to our 1.8m customers. With a turnover of £350M across our three main markets in the UK, US and Germany, we are profitable, privately owned and financially stable. It is certainly a very exciting time for you to become part of Boden!</p>\n\n<p>We are now embarking on part II of our story, investing in people, technology and the workplace to drive our future growth. Last year we opened a fantastic new distribution centre in Leicester, and this January we moved into our amazing new offices in West London. We are rebuilding our digital platform, and putting in new Merchandising and Retail systems to support our growth. We want to deliver amazing customer experiences, grow our reach, and shape the Boden of tomorrow, whilst always living our values inside out: Style, Brave, Charming &amp; Witty, British and Trustworthy.</p>\n\n<p>Where you fit in</p>\n\n<p>We believe in the DevOps culture; you and your team will support the changes you make all the way through to operating successfully in production at scale.</p>\n\n<p>We are looking for smart, energetic, and entrepreneurial individuals who are passionate about making a difference and helping us improve our engineering and agile practices. You enjoy sharing knowledge, working closely within the teams. Also, you value testing and reproducibility, as well as figuring out the best way to build systems that are maintainable and easy to comprehend.</p>\n\n<p>You will be hands on, collaborative, a great software engineer passionate about customer experiences and the technology industry.</p>\n\n<p>How we shape the Boden of tomorrow</p>\n\n<p>We are creating an SOA running in AWS, using IAC and CI to push our changes out through CD pipelines. Our systems will share common APIs utilising Microservices. Currently we are using AWS Lambda, RDS and ECS to deploy applications, and infrastructure tooling due to its simplicity. However, in the future we are considering Kubernetes when scale and complexity warrants it.</p>\n\n<p>Experience and skills required</p>\n\n<ul>\n<li><p>Minimum of 5 years’ experience designing and building scalable solutions</p></li>\n<li><p>Experience of 2nd/3rd line support or development for bespoke applications based on the Microsoft Windows architecture (SQL, C#.Net etc.)</p></li>\n<li><p>SOA experience ideally using nServiceBus or similar.</p></li>\n<li><p>SQL Server 2008/2012 Strong SQL Knowledge with experiencing writing and debugging complex stored procedures</p></li>\n<li><p>Great analytical skills and a sense of the ‘bigger picture’</p></li>\n<li><p>Experience of developing enterprise level databases</p></li>\n<li><p>Exposure to agile working practises, in particular; Kanban, stand up’s</p></li>\n</ul>\n\n<p>Desirable experience and skills required</p>\n\n<ul>\n<li><p>Knowledge of the full Microsoft .NET framework (C#) and how to use it to build web applications is extremely advantageous</p></li>\n<li><p>Experience working with at least one testing framework</p></li>\n<li><p>Exposure to non-relational database technologies e.g. MongoDB</p></li>\n<li><p>Knowledge of SSRS &amp; SSAS is desirable</p></li>\n<li><p>Cloud (AWS/Azure)</p></li>\n<li><p>Jira or similar tools</p></li>\n</ul>\n\n<p>The way we work</p>\n\n<p>We make Boden fun, fulfilling and rewarding place to work where people realise their full potential. At Boden we are dedicated to the growth and development of our people and teams. We have a training program which enables our people to drive their own success and reach their full potential</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Application Support",
+        "Microsoft .NET"
+      ],
+      "payment": {
+        "salary": "£40k – £50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/mun-7",
+        "name": "Munira Ali",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "465629",
+        "angelListUrl": "https://angel.co/company/boden-2/jobs/465629-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Software Developer",
+      "description": "DESCRIPTION\nFounded in 1991 by Johnnie Boden, and famous for our catalogue, our vision is to bring joy to our customers around the world, surprising and delighting them in all that we do. We have grown steadily over the last 27 years, and now sell our brand of stylish and colourful clothes to our 1.8m customers. With a turnover of £350M across our three main markets in the UK, US and Germany, we are profitable, privately owned and financially stable. It is certainly a very exciting time for you to become part of Boden!\n\nWe are now embarking on part II of our story, investing in people, technology and the workplace to drive our future growth. Last year we opened a fantastic new distribution centre in Leicester, and this January we moved into our amazing new offices in West London. We are rebuilding our digital platform, and putting in new Merchandising and Retail systems to support our growth. We want to  deliver amazing customer experiences,  grow our reach, and  shape the Boden of tomorrow, whilst always living our values inside out:  Style,  Brave,  Charming & Witty,  British and Trustworthy.\n\n \n\n \n\nWhere you fit in\n\n \n\nWe believe in the DevOps culture; you and your team will support the changes you make all the way through to operating successfully in production at scale.\n\nWe are looking for smart, energetic, and entrepreneurial individuals who are passionate about making a difference and helping us improve our engineering and agile practices. You enjoy sharing knowledge, working closely within the teams. Also, you value testing and reproducibility, as well as figuring out the best way to build systems that are maintainable and easy to comprehend.\n\nYou will be hands on, collaborative, a great Technical Lead passionate about customer experiences and the technology industry.\n\n \n\nHow we shape the Boden of tomorrow\n\n \n\nWe are creating an SOA running in AWS, using IAC and CI to push our changes out through CD pipelines. Our systems will share common APIs utilising Microservices. Currently we are using AWS Lambda, RDS and ECS to deploy applications, and infrastructure tooling due to its simplicity. However, in the future we are considering Kubernetes when scale and complexity warrants it.\n\n \n\nExperience needed\n\n- Extensive experience designing and building scalable solutions\n\n- Solid commercial .NET experience (c#)\n\n- SOA experience ideally using nServiceBus or similar.\n\n- SQL Server 2008/2012 including building complex stored procedures\n\nDesirable skills include:\n\n- Experience working with at least one testing framework\n\n- Exposure to non-relational database technologies e.g. MongoDB\n\n- Cloud (AWS/Azure)\n\n \n\nThe way we work\n\nWe make Boden fun, fulfilling and rewarding place to work where people realise their full potential. At Boden we are dedicated to the growth and development of our people and teams. We have a training program which enables our people to drive their own success and reach their full potential",
+      "descriptionHtml": "<p>DESCRIPTION<br>\nFounded in 1991 by Johnnie Boden, and famous for our catalogue, our vision is to bring joy to our customers around the world, surprising and delighting them in all that we do. We have grown steadily over the last 27 years, and now sell our brand of stylish and colourful clothes to our 1.8m customers. With a turnover of £350M across our three main markets in the UK, US and Germany, we are profitable, privately owned and financially stable. It is certainly a very exciting time for you to become part of Boden!</p>\n\n<p>We are now embarking on part II of our story, investing in people, technology and the workplace to drive our future growth. Last year we opened a fantastic new distribution centre in Leicester, and this January we moved into our amazing new offices in West London. We are rebuilding our digital platform, and putting in new Merchandising and Retail systems to support our growth. We want to  deliver amazing customer experiences,  grow our reach, and  shape the Boden of tomorrow, whilst always living our values inside out:  Style,  Brave,  Charming &amp; Witty,  British and Trustworthy.</p>\n\n<p>Where you fit in</p>\n\n<p>We believe in the DevOps culture; you and your team will support the changes you make all the way through to operating successfully in production at scale.</p>\n\n<p>We are looking for smart, energetic, and entrepreneurial individuals who are passionate about making a difference and helping us improve our engineering and agile practices. You enjoy sharing knowledge, working closely within the teams. Also, you value testing and reproducibility, as well as figuring out the best way to build systems that are maintainable and easy to comprehend.</p>\n\n<p>You will be hands on, collaborative, a great Technical Lead passionate about customer experiences and the technology industry.</p>\n\n<p>How we shape the Boden of tomorrow</p>\n\n<p>We are creating an SOA running in AWS, using IAC and CI to push our changes out through CD pipelines. Our systems will share common APIs utilising Microservices. Currently we are using AWS Lambda, RDS and ECS to deploy applications, and infrastructure tooling due to its simplicity. However, in the future we are considering Kubernetes when scale and complexity warrants it.</p>\n\n<p>Experience needed</p>\n\n<ul>\n<li><p>Extensive experience designing and building scalable solutions</p></li>\n<li><p>Solid commercial .NET experience (c#)</p></li>\n<li><p>SOA experience ideally using nServiceBus or similar.</p></li>\n<li><p>SQL Server 2008/2012 including building complex stored procedures</p></li>\n</ul>\n\n<p>Desirable skills include:</p>\n\n<ul>\n<li><p>Experience working with at least one testing framework</p></li>\n<li><p>Exposure to non-relational database technologies e.g. MongoDB</p></li>\n<li><p>Cloud (AWS/Azure)</p></li>\n</ul>\n\n<p>The way we work</p>\n\n<p>We make Boden fun, fulfilling and rewarding place to work where people realise their full potential. At Boden we are dedicated to the growth and development of our people and teams. We have a training program which enables our people to drive their own success and reach their full potential</p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Software Development",
+        "DevOps",
+        "Agile",
+        "Google Cloud Platform",
+        "Application Support",
+        "Production support",
+        "Microsoft .NET"
+      ],
+      "payment": {
+        "salary": "£50k – £60k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/mun-7",
+        "name": "Munira Ali",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "466221",
+        "angelListUrl": "https://angel.co/company/boden-2/jobs/466221-"
+      }
+    }
+  ]
+}

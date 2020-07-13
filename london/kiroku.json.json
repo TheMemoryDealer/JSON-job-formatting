@@ -1,0 +1,164 @@
+{
+  "name": "Kiroku",
+  "avatar": "https://photos.angel.co/startups/i/5120149-787b5b24fb7fb3e6746115719af8c16c-medium_jpg.jpg?buster=1571058290",
+  "slogan": "Automatically generating notes from spoken language",
+  "description": "Kiroku is changing the way computers understand conversational language. We believe that speech to text is not enough, and the next step is speech to meaning. Our first product can listen to a conversation between a dentist and a patient during a dental appointment and automatically generate the clinical notes. \n\nWe are backed by Entrepreneur First and some of the biggest names in both the startup and NLP ecosystems.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.trykiroku.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/trykiroku/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/kiroku/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Natural Language Processing",
+    "Digital Health"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CTO and co-founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/jayshah14",
+      "name": "Jay Shah",
+      "avatar": "https://photos.angel.co/users/7328751-medium_jpg?1515072468",
+      "bioHtml": "CTO &amp; Co-Founder at @kiroku-1 "
+    },
+    {
+      "title": "CEO and co-founder",
+      "role": "Founder",
+      "url": "https://angel.co/u/hannah-burrow",
+      "name": "Hannah Burrow",
+      "avatar": "https://photos.angel.co/users/6994780-medium_jpg?1516963250",
+      "bioHtml": "Cofounder and CEO, Kiroku\nBacked by Entrepreneur First"
+    },
+    {
+      "title": "CEO and co-founder",
+      "role": "Employee",
+      "url": "https://angel.co/u/hannah-burrow",
+      "name": "Hannah Burrow",
+      "avatar": "https://photos.angel.co/users/6994780-medium_jpg?1516963250",
+      "bioHtml": "Cofounder and CEO, Kiroku\nBacked by Entrepreneur First"
+    },
+    {
+      "title": "Product Designer",
+      "role": "Employee",
+      "url": "https://angel.co/u/suparchie",
+      "name": "Archie Hicklin",
+      "avatar": "https://photos.angel.co/users/1299933-medium_jpg?1539362491",
+      "bioHtml": ""
+    },
+    {
+      "title": "Customer Developer",
+      "role": "Employee",
+      "url": "https://angel.co/u/zaeem-jafri",
+      "name": "Zaeem Jafri",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5120149",
+    "angelListUrl": "https://angel.co/company/kiroku"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer (Front-end)",
+      "description": "Your Role\n-----------------------\n* Working in a growing engineering team, and working closely with the CTO and product designer.\n* Designing and developing new product features.\n* Support other team members through code reviews and continuous feedback\n* Opportunity to develop into a role to lead an engineering team.\n\nRequirements\n------------------------\n* 2+ years experience in frontend development\n* Good Javascript(React), CSS and HTML skills\n* In-depth knowledge of browsers and their behaviour \n* Passionate about user experience\n* Experience with test frameworks (e.g. jest, Enzyme)\n* Understanding of RESTful services and service-oriented architecture\n* Willing to wear many hats. We are an early company with a small team, we all have to be adaptive to what needs to be done on a given day.\n* Enthusiastic and eager to learn.\n* Experience or interest in tech startups\n\nResponsibilities\n------------------------\n* Happy to take ownership and responsibility for the area you are working on.\n* Happy to question processes and make suggestions when you see an opportunity for improvement.\n* Share and document knowledge and best practices for front end development\n* Contribute to the overall success of the team and reaching business targets\n* Keen to contribute to the direction of the company, big team player.\n\nBenefits\n------------------------\n* £40K - £50K salary depending on experience\n* 25 days holiday\n* Company contributory pension scheme\n* 1-day work from home per week\n* Regular company and social outings\n* Brand new MacBook (Laptop) supplied when joining\n* Co-working space which offers breakfast on Mondays, cake on Wednesdays and booze on Fridays\n* Opportunity to contribute to growth to an early-stage startup, and building a base technical infrastructure.\n* Fun, friendly and collaborative startup office environment\n* Great Moorgate location\n\nTechnologies we use\n---------------------------\nReactJS, Python, GitLab, Firebase, GCP, Cloud Storage, Digital Ocean, Raspberry Pi (and many other new and shiny things!)\n\nEqual Opportunity Statement\n-----------------------------------\nKiroku is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.",
+      "descriptionHtml": "<h3>Your Role</h3>\n<ul>\n<li>Working in a growing engineering team, and working closely with the CTO and product designer.</li>\n<li>Designing and developing new product features.</li>\n<li>Support other team members through code reviews and continuous feedback</li>\n<li>Opportunity to develop into a role to lead an engineering team.</li>\n</ul>\n<h3>Requirements</h3>\n<ul>\n<li>2+ years experience in frontend development</li>\n<li>Good Javascript(React), CSS and HTML skills</li>\n<li>In-depth knowledge of browsers and their behaviour </li>\n<li>Passionate about user experience</li>\n<li>Experience with test frameworks (e.g. jest, Enzyme)</li>\n<li>Understanding of RESTful services and service-oriented architecture</li>\n<li>Willing to wear many hats. We are an early company with a small team, we all have to be adaptive to what needs to be done on a given day.</li>\n<li>Enthusiastic and eager to learn.</li>\n<li>Experience or interest in tech startups</li>\n</ul>\n<h3>Responsibilities</h3>\n<ul>\n<li>Happy to take ownership and responsibility for the area you are working on.</li>\n<li>Happy to question processes and make suggestions when you see an opportunity for improvement.</li>\n<li>Share and document knowledge and best practices for front end development</li>\n<li>Contribute to the overall success of the team and reaching business targets</li>\n<li>Keen to contribute to the direction of the company, big team player.</li>\n</ul>\n<h3>Benefits</h3>\n<ul>\n<li>£40K - £50K salary depending on experience</li>\n<li>25 days holiday</li>\n<li>Company contributory pension scheme</li>\n<li>1-day work from home per week</li>\n<li>Regular company and social outings</li>\n<li>Brand new MacBook (Laptop) supplied when joining</li>\n<li>Co-working space which offers breakfast on Mondays, cake on Wednesdays and booze on Fridays</li>\n<li>Opportunity to contribute to growth to an early-stage startup, and building a base technical infrastructure.</li>\n<li>Fun, friendly and collaborative startup office environment</li>\n<li>Great Moorgate location</li>\n</ul>\n<h3>Technologies we use</h3>\n<p>ReactJS, Python, GitLab, Firebase, GCP, Cloud Storage, Digital Ocean, Raspberry Pi (and many other new and shiny things!)</p>\n<h3>Equal Opportunity Statement</h3>\n<p>Kiroku is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Start-Ups",
+        "React.js"
+      ],
+      "payment": {
+        "salary": "£40k – £50k",
+        "equity": "0.25% – 0.5%"
+      },
+      "recruiter": {
+        "title": "CTO and co-founder",
+        "role": "Founder",
+        "url": "https://angel.co/u/jayshah14",
+        "name": "Jay Shah",
+        "avatar": "https://photos.angel.co/users/7328751-medium_jpg?1515072468"
+      },
+      "refs": {
+        "angelListId": "649777",
+        "angelListUrl": "https://angel.co/company/kiroku/jobs/649777-"
+      }
+    },
+    {
+      "role": "Marketing",
+      "title": "Digital Marketing Executive",
+      "description": "**About Kiroku**\nWe are building technologies which automate the less rewarding parts of work, so a professional's expertise can shine. We are focusing on dentistry first, where dentists currently spend about a quarter of their day on admin.\n\nOur team is our best asset. We work with smart and driven people, who all enjoy a huge degree of responsibility and independence in structuring their work.\n\nYou would be our first solely marketing hire.\n\n**About you**\n- You have a minimum of two years experience marketing a B2C platform-based business and executing growth and community strategies.\n- Have experience running inbound campaigns, managing a content calendar, and building and nurturing an audience.\n- Have experience with PPC (Facebook, Google), building strong Facebook LLA's, landing page A/B testing and optimisation. And are comfortable with an analytical, data-led marketing approach to maximise campaign performance.\n- Are a strong communicator who is easily able to present findings to the team and suggest actionable insights.\n- Have a proven track record of generating quality inbound leads, turning them into paying customers and improving lifetime value.\n- Are highly organised and have great attention to detail.\n- Can quickly become accustomed to new technology and processes.\n- Have a passion for our product and company mission.\n- Have the right to live and work in the UK.\n\n**Responsibilities**\n- You will contribute to revenue generated from both new and existing customers by developing effective lead generation, inbound marketing, conversion optimisation and user communications campaigns.\n- Run experiments, analyse and evaluate campaign performance to identify actionable areas of improvement, optimise performance and deliver best possible reach and ROI.\n- Work closely with our developers and designer to develop creatives.\n- Work closely with our developers and designer to run split tests on our website.\n- Work closely with contractors on exciting creative projects (videos, illustrations etc.)\n- Build engagement through email marketing campaigns.\n- Plan and execute powerful inbound campaigns via social media.\n- Plan and execute community events, and collaborate with leading industry partners.\n- Track and analyse website traffic flow using Google Analytics and provide regular performance reports.\n- Dominate our niche in SERPs with keyword planning and research.\n- Attain KPI's from Google Analytics, Segment and other tools to reduce bounce rate and improve conversion.\n- Work with our Customer Success team to analyse user behaviour, build workflows and run transactional email campaigns.\n- Constant research & experimentation of several strategies in order to increase ROI.\n\n**Benefits**\n- £35K - £45K salary depending on experience\n- Equity 0.1-0.4\n- 25 days holiday plus a day of holiday on your birthday\n- Company contributory pension scheme\n- 1-day work from home per week\n- Regular company and social outings\n- Brand new MacBook (Laptop) supplied when joining\n- Co-working space which offers unlimited barista coffee, breakfast on Mondays, yoga and meditation classes and booze from 3pm every day\n- Opportunity to contribute to growth to an early-stage startup, and building a base technical infrastructure.\n- Fun, friendly and collaborative startup office environment\n- Great Moorgate location\n\n**Equal Opportunity Statement**\nKiroku is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.",
+      "descriptionHtml": "<p><strong>About Kiroku</strong><br>\nWe are building technologies which automate the less rewarding parts of work, so a professional&#39;s expertise can shine. We are focusing on dentistry first, where dentists currently spend about a quarter of their day on admin.</p>\n\n<p>Our team is our best asset. We work with smart and driven people, who all enjoy a huge degree of responsibility and independence in structuring their work.</p>\n\n<p>You would be our first solely marketing hire.</p>\n\n<p><strong>About you</strong></p>\n\n<ul>\n<li>You have a minimum of two years experience marketing a B2C platform-based business and executing growth and community strategies.</li>\n<li>Have experience running inbound campaigns, managing a content calendar, and building and nurturing an audience.</li>\n<li>Have experience with PPC (Facebook, Google), building strong Facebook LLA&#39;s, landing page A/B testing and optimisation. And are comfortable with an analytical, data-led marketing approach to maximise campaign performance.</li>\n<li>Are a strong communicator who is easily able to present findings to the team and suggest actionable insights.</li>\n<li>Have a proven track record of generating quality inbound leads, turning them into paying customers and improving lifetime value.</li>\n<li>Are highly organised and have great attention to detail.</li>\n<li>Can quickly become accustomed to new technology and processes.</li>\n<li>Have a passion for our product and company mission.</li>\n<li>Have the right to live and work in the UK.</li>\n</ul>\n\n<p><strong>Responsibilities</strong></p>\n\n<ul>\n<li>You will contribute to revenue generated from both new and existing customers by developing effective lead generation, inbound marketing, conversion optimisation and user communications campaigns.</li>\n<li>Run experiments, analyse and evaluate campaign performance to identify actionable areas of improvement, optimise performance and deliver best possible reach and ROI.</li>\n<li>Work closely with our developers and designer to develop creatives.</li>\n<li>Work closely with our developers and designer to run split tests on our website.</li>\n<li>Work closely with contractors on exciting creative projects (videos, illustrations etc.)</li>\n<li>Build engagement through email marketing campaigns.</li>\n<li>Plan and execute powerful inbound campaigns via social media.</li>\n<li>Plan and execute community events, and collaborate with leading industry partners.</li>\n<li>Track and analyse website traffic flow using Google Analytics and provide regular performance reports.</li>\n<li>Dominate our niche in SERPs with keyword planning and research.</li>\n<li>Attain KPI&#39;s from Google Analytics, Segment and other tools to reduce bounce rate and improve conversion.</li>\n<li>Work with our Customer Success team to analyse user behaviour, build workflows and run transactional email campaigns.</li>\n<li>Constant research &amp; experimentation of several strategies in order to increase ROI.</li>\n</ul>\n\n<p><strong>Benefits</strong></p>\n\n<ul>\n<li>£35K - £45K salary depending on experience</li>\n<li>Equity 0.1-0.4</li>\n<li>25 days holiday plus a day of holiday on your birthday</li>\n<li>Company contributory pension scheme</li>\n<li>1-day work from home per week</li>\n<li>Regular company and social outings</li>\n<li>Brand new MacBook (Laptop) supplied when joining</li>\n<li>Co-working space which offers unlimited barista coffee, breakfast on Mondays, yoga and meditation classes and booze from 3pm every day</li>\n<li>Opportunity to contribute to growth to an early-stage startup, and building a base technical infrastructure.</li>\n<li>Fun, friendly and collaborative startup office environment</li>\n<li>Great Moorgate location</li>\n</ul>\n\n<p><strong>Equal Opportunity Statement</strong><br>\nKiroku is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "Greater London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "PPC",
+        "B2C Marketing"
+      ],
+      "payment": {
+        "salary": "£35k – £45k",
+        "equity": "0.1% – 0.4%"
+      },
+      "recruiter": {
+        "title": "CEO and co-founder",
+        "role": "Employee",
+        "url": "https://angel.co/u/hannah-burrow",
+        "name": "Hannah Burrow",
+        "avatar": "https://photos.angel.co/users/6994780-medium_jpg?1516963250"
+      },
+      "refs": {
+        "angelListId": "731541",
+        "angelListUrl": "https://angel.co/company/kiroku/jobs/731541-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "name": "Toshi Technologies",
+  "avatar": "https://photos.angel.co/startups/i/2746953-fa4b6b9629430ccccd7e642e1cbd20c7-medium_jpg.jpg?buster=1483099787",
+  "slogan": "Luxury Services. London. Stealth mode",
+  "description": "Stealth Mode startup.  London. Luxury Services.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.toshi.co"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1476489600,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/stuart-amos-1",
+      "name": "Stuart Amos",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/sojin-lee",
+      "name": "Sojin Lee",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/p/xenophin",
+      "name": "Xen Lategan",
+      "avatar": "https://photos.angel.co/users/45044-medium_jpg?1405469224",
+      "bioHtml": "Ex-Googler, Ex-CTO for News Corporation.  Founder at <a href=\"https://angel.co/company/ophin\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Ophin</span></a> Ventures. I advise &amp; invest in startups and advise boards of large tech, media, gaming companies."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/marine-sabbagha",
+      "name": "Marine Sabbagha",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Brand Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/lesley-choy-2",
+      "name": "Lesley Choy",
+      "avatar": "https://photos.angel.co/users/9095589-medium_jpg?1565905511",
+      "bioHtml": "Working at Toshi Technologies"
+    },
+    {
+      "title": "Experience Senior Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/rodolphe-servy",
+      "name": "Rodolphe Servy",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Luxury Customer Experience Manager"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "2746953",
+    "angelListUrl": "https://angel.co/company/toshi-technologies"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "TOSHI is a dynamic early stage fashion technology start-up based in London. We are looking to transform the online shopping experience by offering a pioneering service, where an experienced Personal Fashion Assistant brings a customer’s choice of high-end fashion directly to them, at their convenience, in the comfort of their own home. Basic pinning and fitting services are also offered to ensure the perfect fit and TOSHI will take away any items the customer doesn’t want. No more lengthy returns procedures.\n \nWe’ve got ambitious plans at TOSHI, and as such, we’re looking for an exceptional engineer to add to our existing team of two to help support and scale out our technology. We’re launching in a new location towards the end of 2019 and are undergoing a high growth phase building out our existing APIs and working on a number of greenfield projects.\n\nResponsibilities: \n- Work as part of a full stack engineering team to develop solutions to ensure optimal experiences for our customers, TOSHI assistants, and brand partners. \n- Utilise a variety of backend technologies to build scalable products. \n- The tech team structure is very flat, you'll take part in key decisions related to how we undertake new projects. \n- You'll gather requirements and scope out projects with the wider TOSHI team. \n\nRequirements: \n- Pride in readable, well-designed, well-tested software \n- 3 or more years professional experience writing web-based applications in any language, and a willingness to quickly get up to speed on our stack (Ruby/Rails, React utilizing TypeScript, Heroku and AWS) \n- Experience with TDD and CI environments (RSpec for Ruby, Jest & Enzyme for TS, CircleCI for CI) - Experience with relational databases (PostGreSQL) and key-value stores (Memcache, Redis) \n- Ability to multi-task, organize, and prioritize work \n- Support, test and deploy new products and features \n\nNice to haves: \n- Experience with web architecture at scale(AWS, GCP, Heroku) . \n- Experience at a high growth startup. \n- Rails/SQL performance tuning. \n\nBenefits: \n- Fantastic exposure to scaling a tech team at a unique pace. \n- Huge impact on company direction and growth. \n- A competitive salary that grows alongside the company. \n- Flexible working - the tech team currently works one day a week from home.\n\nSalary £40-£60k DOE",
+      "descriptionHtml": "<p>TOSHI is a dynamic early stage fashion technology start-up based in London. We are looking to transform the online shopping experience by offering a pioneering service, where an experienced Personal Fashion Assistant brings a customer’s choice of high-end fashion directly to them, at their convenience, in the comfort of their own home. Basic pinning and fitting services are also offered to ensure the perfect fit and TOSHI will take away any items the customer doesn’t want. No more lengthy returns procedures.</p>\n\n<p>We’ve got ambitious plans at TOSHI, and as such, we’re looking for an exceptional engineer to add to our existing team of two to help support and scale out our technology. We’re launching in a new location towards the end of 2019 and are undergoing a high growth phase building out our existing APIs and working on a number of greenfield projects.</p>\n\n<p>Responsibilities: </p>\n\n<ul>\n<li>Work as part of a full stack engineering team to develop solutions to ensure optimal experiences for our customers, TOSHI assistants, and brand partners. </li>\n<li>Utilise a variety of backend technologies to build scalable products. </li>\n<li>The tech team structure is very flat, you&#39;ll take part in key decisions related to how we undertake new projects. </li>\n<li>You&#39;ll gather requirements and scope out projects with the wider TOSHI team. </li>\n</ul>\n\n<p>Requirements: </p>\n\n<ul>\n<li>Pride in readable, well-designed, well-tested software </li>\n<li>3 or more years professional experience writing web-based applications in any language, and a willingness to quickly get up to speed on our stack (Ruby/Rails, React utilizing TypeScript, Heroku and AWS) </li>\n<li>Experience with TDD and CI environments (RSpec for Ruby, Jest &amp; Enzyme for TS, CircleCI for CI) - Experience with relational databases (PostGreSQL) and key-value stores (Memcache, Redis) </li>\n<li>Ability to multi-task, organize, and prioritize work </li>\n<li>Support, test and deploy new products and features </li>\n</ul>\n\n<p>Nice to haves: </p>\n\n<ul>\n<li>Experience with web architecture at scale(AWS, GCP, Heroku) . </li>\n<li>Experience at a high growth startup. </li>\n<li>Rails/SQL performance tuning. </li>\n</ul>\n\n<p>Benefits: </p>\n\n<ul>\n<li>Fantastic exposure to scaling a tech team at a unique pace. </li>\n<li>Huge impact on company direction and growth. </li>\n<li>A competitive salary that grows alongside the company. </li>\n<li>Flexible working - the tech team currently works one day a week from home.</li>\n</ul>\n\n<p>Salary £40-£60k DOE</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "PostgreSQL",
+        "Ruby on Rails",
+        "React.js",
+        "AWS"
+      ],
+      "payment": {
+        "salary": "£40k – £60k"
+      },
+      "recruiter": {
+        "title": "Brand Manager",
+        "role": "Employee",
+        "url": "https://angel.co/u/lesley-choy-2",
+        "name": "Lesley Choy",
+        "avatar": "https://photos.angel.co/users/9095589-medium_jpg?1565905511"
+      },
+      "refs": {
+        "angelListId": "587803",
+        "angelListUrl": "https://angel.co/company/toshi-technologies/jobs/587803-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Experience Manager",
+      "description": "TOSHI is a dynamic early stage fashion technology start-up based in London. We are looking to transform the online shopping experience by offering a luxury service, where an experienced Personal Fashion Assistant brings a customer’s choice of high-end fashion directly to them, at their convenience. Basic pinning and fitting services are also offered to ensure the perfect fit and TOSHI will take away any items the customer doesn’t want. No more lengthy returns procedures.\n \nAt TOSHI, we’ve got bigger ambitions and will be launching in New York later this year. We are looking to for an exceptional Experience Manager based in New York to hire, train and manage our Assistant Network as well as work with our partner Brands in providing a premium service on their behalf. This will be a critical role in a fast-growing company.\n \nResponsibilities:\n- Lead the TOSHI Assistant Program. Hire, on-board, train and manage future TOSHI assistants;\n- Become the primary point of contact for fashion brands partners. Run TOSHI product training session, daily communication and support services;\n- Manage customer enquiries to ensure a luxury experience; \n- Support the Assistant team by attending customer appointments subject to business demand\n- Report and work closely with the Experience Senior Manager in London.\n \nRequirements:\n- Previous management and recruitment retail experience \n- Exceptional customer service skills and the ability to exceed expectations for a demanding client base\n- Interest in luxury fashion \n- Current and up-to-date trend information \n- Availability to work flexible hours\n- Strong desire to learn more about the luxury fashion retail world and apply these new outcomes on a daily basis\n- Positive attitude and ability to use own initiative to solve problems quickly and efficiently\n- Polished, neat and well-groomed appearance\n- The ability to engage with different nationalities and personalities\n- English language proficiency, eligible to work in the US\n\nBenefits:\n- Fantastic exposure to scaling an experience team at a unique pace\n- Huge impact on company direction and growth\n- A competitive salary that grows alongside the company\n- A chance to build and manage your own team of TOSHI assistants!",
+      "descriptionHtml": "<p>TOSHI is a dynamic early stage fashion technology start-up based in London. We are looking to transform the online shopping experience by offering a luxury service, where an experienced Personal Fashion Assistant brings a customer’s choice of high-end fashion directly to them, at their convenience. Basic pinning and fitting services are also offered to ensure the perfect fit and TOSHI will take away any items the customer doesn’t want. No more lengthy returns procedures.</p>\n\n<p>At TOSHI, we’ve got bigger ambitions and will be launching in New York later this year. We are looking to for an exceptional Experience Manager based in New York to hire, train and manage our Assistant Network as well as work with our partner Brands in providing a premium service on their behalf. This will be a critical role in a fast-growing company.</p>\n\n<p>Responsibilities:</p>\n\n<ul>\n<li>Lead the TOSHI Assistant Program. Hire, on-board, train and manage future TOSHI assistants;</li>\n<li>Become the primary point of contact for fashion brands partners. Run TOSHI product training session, daily communication and support services;</li>\n<li>Manage customer enquiries to ensure a luxury experience; </li>\n<li>Support the Assistant team by attending customer appointments subject to business demand</li>\n<li>Report and work closely with the Experience Senior Manager in London.</li>\n</ul>\n\n<p>Requirements:</p>\n\n<ul>\n<li>Previous management and recruitment retail experience </li>\n<li>Exceptional customer service skills and the ability to exceed expectations for a demanding client base</li>\n<li>Interest in luxury fashion </li>\n<li>Current and up-to-date trend information </li>\n<li>Availability to work flexible hours</li>\n<li>Strong desire to learn more about the luxury fashion retail world and apply these new outcomes on a daily basis</li>\n<li>Positive attitude and ability to use own initiative to solve problems quickly and efficiently</li>\n<li>Polished, neat and well-groomed appearance</li>\n<li>The ability to engage with different nationalities and personalities</li>\n<li>English language proficiency, eligible to work in the US</li>\n</ul>\n\n<p>Benefits:</p>\n\n<ul>\n<li>Fantastic exposure to scaling an experience team at a unique pace</li>\n<li>Huge impact on company direction and growth</li>\n<li>A competitive salary that grows alongside the company</li>\n<li>A chance to build and manage your own team of TOSHI assistants!</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "New York City"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Management",
+        "Customer Service",
+        "Retail",
+        "Fashion",
+        "Customer Experience"
+      ],
+      "payment": {
+        "salary": "$35k – $50k"
+      },
+      "recruiter": {
+        "title": "Brand Manager",
+        "role": "Employee",
+        "url": "https://angel.co/u/lesley-choy-2",
+        "name": "Lesley Choy",
+        "avatar": "https://photos.angel.co/users/9095589-medium_jpg?1565905511"
+      },
+      "refs": {
+        "angelListId": "587912",
+        "angelListUrl": "https://angel.co/company/toshi-technologies/jobs/587912-"
+      }
+    }
+  ]
+}

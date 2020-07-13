@@ -1,0 +1,105 @@
+{
+  "name": "Contact",
+  "avatar": "https://photos.angel.co/startups/i/7470514-8f67982abaab2f073d8329b9a828c868-medium_jpg.jpg?buster=1580925245",
+  "slogan": "Market network for models",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://contact.agency"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Fashion"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/reuben-selby",
+      "name": "Reuben Selby",
+      "avatar": "https://photos.angel.co/users/8206700-medium_jpg?1533815510",
+      "bioHtml": "Founder @ Contact"
+    },
+    {
+      "title": "CTO",
+      "role": "Employee",
+      "url": "https://angel.co/u/josh-mcmillan-2",
+      "name": "Josh McMillan",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7470514",
+    "angelListUrl": "https://angel.co/company/contact-17"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer (Frontend)",
+      "description": "We're looking for a mid-level frontend engineer to join the team at Contact (https://contact.agency/). \n\n## What is Contact?\n\nWe're a marketplace that allows models to find work easily, and be booked directly without being represented by a traditional modelling agency. We currently represent about 120 models globally, and large brands including Nike, Vogue and Ellesse all book models through our platform.\n\n## What will I be working on?\n\nContact's engineering \"footprint\" spans across three main codebases:\n\n- The web product (built with TypeScript and React), which allows folks to book models and manage the lifecycle of any work they offer said models, and\n- A native application (built with TypeScript and React Native) that allows models to accept / reject work, and manage any jobs they've been booked on\n- An API (built with Ruby on Rails) that handles all the business logic that's necessary for Contact to function, serving up a JSON:API-based REST API and some basic admin tooling\n\nIn this role, you'll be primarily working on our web product, working with product managers, designers and other engineers to define and build new features and epics.\n\nIn your first week, you'll ship code to production — pairing with another engineer on a relatively small feature to get you familiar with how we work and the product.\n\nAfter a month, we'll expect you to have taken ownership of a piece of our web product — working independently on functionality with occasional help from others.\n\nAfter a year, we'll expect you know our web product inside out, and be comfortable leading the development of large, cross-cutting features. At this point, we'd hope to be able to promote you to the next step on our engineering ladder, which is Senior Software Engineer.\n\n## Requirements\n\n- Strong understanding of key programming concepts\n- Significant experience writing HTML, CSS and JavaScript\n- Significant experience building applications with React\n- Familiarity with TypeScript\n- Familiarity with automated testing (Jest or similar)\n- Basic knowledge of Rails and/or any other server-side technologies\n- Familiarity with typical engineering team practices (sprints, planning, retrospectives, etc)\n- Desire to learn and grow, either as an individual contributor or manager\n- A strong sense of pragmatism, and the willingness to question things that don't look right\n\n## Salary\n\nThis role is banded between £40,000 and £50,000, depending on experience.\n\n## Benefits\n\n- 25 days annual leave, plus bank holidays\n- Ownership in the business via [EMI stock options](https://www.gov.uk/tax-employee-share-schemes/enterprise-management-incentives-emis)\n- Modern laptop (MacBook Pro / Air or Lenovo X1 Carbon) plus budget for additional hardware you need (monitors, keyboard, mouse, etc)\n- Gym membership\n- Regular team lunches\n- Dog-friendly office\n- Snacks, coffee, Friday drinks (with non-alcoholic options provided) — all the usual good stuff\n\n## Applying\n\nIf that all sounds good, email **josh@contact.agency** with your CV and we'll get in touch.\n\nOur interview process looks like this:\n\n- A 10-minute phone call with Josh, our CTO, to give you a bit more information about the role and learn a bit about what you've been working on recently\n- A (relatively straightforward) take-home technical test\n- An onsite interview lasting 3 hours, comprising of a pair programming exercise (based on your technical test), and a behavioural interview\n- An offer!",
+      "descriptionHtml": "<p>We&#39;re looking for a mid-level frontend engineer to join the team at Contact (<a href=\"https://contact.agency/\" target=\"_blank\" rel=\"nofollow\">https://contact.agency/</a>). </p>\n<h3>What is Contact?</h3>\n<p>We&#39;re a marketplace that allows models to find work easily, and be booked directly without being represented by a traditional modelling agency. We currently represent about 120 models globally, and large brands including Nike, Vogue and Ellesse all book models through our platform.</p>\n<h3>What will I be working on?</h3>\n<p>Contact&#39;s engineering &quot;footprint&quot; spans across three main codebases:</p>\n\n<ul>\n<li>The web product (built with TypeScript and React), which allows folks to book models and manage the lifecycle of any work they offer said models, and</li>\n<li>A native application (built with TypeScript and React Native) that allows models to accept / reject work, and manage any jobs they&#39;ve been booked on</li>\n<li>An API (built with Ruby on Rails) that handles all the business logic that&#39;s necessary for Contact to function, serving up a JSON:API-based REST API and some basic admin tooling</li>\n</ul>\n\n<p>In this role, you&#39;ll be primarily working on our web product, working with product managers, designers and other engineers to define and build new features and epics.</p>\n\n<p>In your first week, you&#39;ll ship code to production — pairing with another engineer on a relatively small feature to get you familiar with how we work and the product.</p>\n\n<p>After a month, we&#39;ll expect you to have taken ownership of a piece of our web product — working independently on functionality with occasional help from others.</p>\n\n<p>After a year, we&#39;ll expect you know our web product inside out, and be comfortable leading the development of large, cross-cutting features. At this point, we&#39;d hope to be able to promote you to the next step on our engineering ladder, which is Senior Software Engineer.</p>\n<h3>Requirements</h3>\n<ul>\n<li>Strong understanding of key programming concepts</li>\n<li>Significant experience writing HTML, CSS and JavaScript</li>\n<li>Significant experience building applications with React</li>\n<li>Familiarity with TypeScript</li>\n<li>Familiarity with automated testing (Jest or similar)</li>\n<li>Basic knowledge of Rails and/or any other server-side technologies</li>\n<li>Familiarity with typical engineering team practices (sprints, planning, retrospectives, etc)</li>\n<li>Desire to learn and grow, either as an individual contributor or manager</li>\n<li>A strong sense of pragmatism, and the willingness to question things that don&#39;t look right</li>\n</ul>\n<h3>Salary</h3>\n<p>This role is banded between £40,000 and £50,000, depending on experience.</p>\n<h3>Benefits</h3>\n<ul>\n<li>25 days annual leave, plus bank holidays</li>\n<li>Ownership in the business via <a href=\"https://www.gov.uk/tax-employee-share-schemes/enterprise-management-incentives-emis\" target=\"_blank\" rel=\"nofollow\">EMI stock options</a></li>\n<li>Modern laptop (MacBook Pro / Air or Lenovo X1 Carbon) plus budget for additional hardware you need (monitors, keyboard, mouse, etc)</li>\n<li>Gym membership</li>\n<li>Regular team lunches</li>\n<li>Dog-friendly office</li>\n<li>Snacks, coffee, Friday drinks (with non-alcoholic options provided) — all the usual good stuff</li>\n</ul>\n<h3>Applying</h3>\n<p>If that all sounds good, email <strong><a href=\"mailto:josh@contact.agency\" target=\"_blank\" rel=\"nofollow\">josh@contact.agency</a></strong> with your CV and we&#39;ll get in touch.</p>\n\n<p>Our interview process looks like this:</p>\n\n<ul>\n<li>A 10-minute phone call with Josh, our CTO, to give you a bit more information about the role and learn a bit about what you&#39;ve been working on recently</li>\n<li>A (relatively straightforward) take-home technical test</li>\n<li>An onsite interview lasting 3 hours, comprising of a pair programming exercise (based on your technical test), and a behavioural interview</li>\n<li>An offer!</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "HTML",
+        "CSS",
+        "TypeScript",
+        "React.js",
+        "React Native"
+      ],
+      "payment": {
+        "salary": "£40k – £50k",
+        "equity": "0.0% – 1.0%"
+      },
+      "recruiter": {
+        "title": "CTO",
+        "role": "Employee",
+        "url": "https://angel.co/u/josh-mcmillan-2",
+        "name": "Josh McMillan",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "714704",
+        "angelListUrl": "https://angel.co/company/contact-17/jobs/714704-"
+      }
+    }
+  ]
+}

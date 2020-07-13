@@ -1,0 +1,148 @@
+{
+  "name": "Atlas City",
+  "avatar": "https://photos.angel.co/startups/i/5023706-baf6b43ae339d0f525f47b2d4762ebc1-medium_jpg.jpg?buster=1574165079",
+  "slogan": "We build decentralised solutions for businesses",
+  "description": "Our DLT framework is unique compared to other DLT type platforms. it's intended to overcome the major barriers that people perceive with the current technology - such as scability, performance and lack of interoperability between the application, network and DLT protocol layer.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.atlascity.io"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/AtlasCity_io"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/atlas-city/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Blockchains"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/joanna-oliveiro-priestnall",
+      "name": "Joanna Oliveiro-Priestnall",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Worked at Atlas City Global Limited"
+    },
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/darren-oliveiro-priestnall-mbcs-citp-pgd-open",
+      "name": "Darren Oliveiro-Priestnall",
+      "avatar": "https://photos.angel.co/users/320203-medium_jpg?1463591813",
+      "bioHtml": "Founder Red Skies Limited"
+    },
+    {
+      "title": "Product Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/atlas-joseph",
+      "name": "Joseph Christopherson",
+      "avatar": "https://photos.angel.co/users/7236666-medium_jpg?1571931565",
+      "bioHtml": "Co-Founder, Associate Product Manager at Atlas City. Building the Catalyst Network."
+    },
+    {
+      "title": "",
+      "role": "Employee",
+      "url": "https://angel.co/u/akshat-adani",
+      "name": "Akshat Adani",
+      "avatar": "https://photos.angel.co/users/10344053-medium_jpg?1575642649",
+      "bioHtml": "Worked at Atlas City. Went to London Business School"
+    },
+    {
+      "title": "Head of Strategy",
+      "role": "Employee",
+      "url": "https://angel.co/u/uzair-qidwai",
+      "name": "Uzair Qidwai",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [
+    {
+      "category": "wellness",
+      "title": "Free Beer"
+    },
+    {
+      "category": "company_meals",
+      "title": "Free Tea & Coffee"
+    },
+    {
+      "category": "company_meals",
+      "title": "Free Breakfast"
+    }
+  ],
+  "refs": {
+    "angelListId": "5023706",
+    "angelListUrl": "https://angel.co/company/atlas-city"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Software Engineer",
+      "description": "· You will be working in senior or lead capacity within the engineering team on either the Catalyst core code base or one of the .NET or Mobile applications that connect to the Catalyst network\n\n· You will contribute to design as well as hands on coding activities\n\n· You will be comfortable working within an Agile Scrum process, taking responsibility for tasks and grooming the backlog of user stories for your product",
+      "descriptionHtml": "<p>· You will be working in senior or lead capacity within the engineering team on either the Catalyst core code base or one of the .NET or Mobile applications that connect to the Catalyst network</p>\n\n<p>· You will contribute to design as well as hands on coding activities</p>\n\n<p>· You will be comfortable working within an Agile Scrum process, taking responsibility for tasks and grooming the backlog of user stories for your product</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "City of London",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Git",
+        "SCRUM",
+        "Multi-Threaded Application Development",
+        "Agile",
+        "LINQ",
+        "TDD",
+        "Parallel Programming",
+        "Unit Testing",
+        "SOLID",
+        "Microsoft .NET",
+        ".NET Core"
+      ],
+      "payment": {
+        "salary": "£70k – £90k"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Employee",
+        "url": "https://angel.co/u/akshat-adani",
+        "name": "Akshat Adani",
+        "avatar": "https://photos.angel.co/users/10344053-medium_jpg?1575642649"
+      },
+      "refs": {
+        "angelListId": "677738",
+        "angelListUrl": "https://angel.co/company/atlas-city/jobs/677738-"
+      }
+    }
+  ]
+}

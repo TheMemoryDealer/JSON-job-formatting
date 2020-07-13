@@ -1,0 +1,150 @@
+{
+  "name": "Hack Partners",
+  "avatar": "https://photos.angel.co/startups/i/919249-6ddc5652c46f61b8277086373e0507f2-medium_jpg.jpg?buster=1472636631",
+  "slogan": "Driving innovation in the future's most critical industries",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://hackpartners.com/"
+    },
+    {
+      "type": "blog",
+      "url": "https://medium.com/@hackpartners"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/hackpartners"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/thehacktrain"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/hack-partners"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Technology",
+    "Transportation",
+    "Events",
+    "Infrastructure"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Chief Exec",
+      "role": "Founder",
+      "url": "https://angel.co/u/river-tam",
+      "name": "River Tamoor Baig",
+      "avatar": "https://photos.angel.co/users/266323-medium_jpg?1463305409",
+      "bioHtml": "Founder of <a href=\"https://angel.co/company/hack-partners\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Hack Partners</span></a> Worked at <a href=\"https://angel.co/company/dotforge\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">dotforge</span></a>  <a href=\"https://angel.co/company/nacue\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">NACUE</span></a> • Studied at <a href=\"https://angel.co/university-of-manchester\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Manchester</span></a>, <a href=\"https://angel.co/university-of-sheffield\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Sheffield</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/hack-partners-1",
+      "name": "Hack Partners",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "Chief Operating Officer",
+      "role": "Employee",
+      "url": "https://angel.co/u/haydon-bartlett-tasker",
+      "name": "Haydon Bartlett-Tasker",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "I build new businesses and ventures for a living."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "919249",
+    "angelListUrl": "https://angel.co/company/hack-partners"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Senior Data Scientist",
+      "description": "### **RECRUITERS ONLY SEND CVs IF YOU'RE WILLING TO AGREE TO £4K FIXED PRICE RECRUITMENT FEE.**### \r\n**Any other commercial proposal will be ignored**\r\n\r\n**Senior Data Scientist for Hack Partners (£50,000 - £70,000 depending on experience)**\r\n\r\nWe are a hybrid tech consulting company focused on driving forward innovation in overlooked high barriers industries like rail and infrastructure. Our flagship movement, the HackTrain has completely changed how innovation is carried out in rail, to date we have worked with every single major transport operator in the UK and are supported by the likes of the Department for Transport and Network Rail, two of the industry’s most important organisations.\r\n\r\nOur goal is to build a global technology and consultancy business that helps infrastructure and transport operators, train manufacturers, and asset owners utilise data more efficiently to improve operational performance that ultimately benefits passengers.\r\n\r\nWe are increasingly becoming the top choice within the transport industry for breakthrough level innovation. In order to scale and make an impact we need a world-class team to help us make a difference in critical but slow moving industries.\r\n\r\n**Are you the one who can forever change the transport and infrastructure industries forever?**\r\n\r\nYou will be at the heart of a truly unique movement that will have a massive impact within the UK economy. \r\n\r\nWe are looking for a Senior Data Scientist to lead the analysis, modelling and visualisation of signalling and train performance data with the aim of reducing train delays and improving network capacity (more trains on the UK railway network). To do so, you will work closely with the UK railway operational performance teams to extract valuable insights from previously unused data.\r\n\r\nAs a Senior Data Scientist you will be responsible for developing algorithms that merge, aggregate and visualise complex signalling &amp; train movement data, obtained from disparate sources.  To achieve this, you must be comfortable with big data cleaning, wrangling and visualisation, exploratory data analysis, network graphing and best software engineering practices. You will be expected to lead by example, mentoring and guiding the team and external clients alike. You will most likely be an accomplished data scientist with track record experience of working with different types of data but looking to take on a new challenge in a different industry and on an impactful project.  \r\n\r\n**Here are some examples of what you will be doing:**\r\n\r\n* Developing algorithms to reduce train delays and improving railway network capacity\r\n* Performing exploratory data analysis of train movement and signalling system data across the UK railway network. Designing experiments and interpret the results to draw detailed and actionable conclusions\r\n* Working closely with the railway operational performance teams to develop algorithms for extracting valuable insights from operational data\r\n* Working with our software engineers and data scientists on the team to rapidly build, test and deploy robust algorithms and data analytic solutions. \r\n\r\n**Skills and experience desired:\r\nEssential**\r\n* At least 3+ years research and development experience in industry or academia. Holding at least an MSc, and preferably a PhD in a scientific discipline such as Physics, Statistics, Computer Science or Mathematics\r\n* Substantial experience in data analysis, cleansing, wrangling, aggregation and visualisation with data science libraries such as pandas and numpy (3-5 years)\r\n* Substantial Experience working with data visualisation libraries such as matplotlib, seaborn, plotly, etc and understanding how to tell a story using data. (3-5 years)\r\n* Experience working with network graphing libraries such as networkx (1-2 years)\r\n* Experience optimising algorithms for speed and accuracy - plus working with libraries that make code run fast - i.e. numba\r\n* Experience working with large datasets and big data tools - i.e. Apache Spark/Scala - and/or task parallelisation libraries such as Dask\r\n* Understanding how to perform exploratory data analysis without losing focus or getting lost in detail / vast amounts of data\r\n* Good attention to detail; we want someone who enjoys making things great!\r\n* Prior work experience in an interdisciplinary team, preferably in both scientific research, prototyping and production environments.\r\n* Built and deployed data analytics and predictive solutions which are actively being used in an enterprise environment\r\n* Excellent presentation, written, and verbal communication skills. \r\n\r\n**Desirable**\r\n* Previously used data visualisation libraries/platforms such as Microsoft Power BI\r\n* Data Engineering experience on the cloud infrastructure – experience building data pipelines for processing live data feeds; familiarity with GCP.\r\n* Understanding of machine learning concepts and modelling principles\r\n* Experience leading data science projects / teams using software engineering best practices such as version control, OOP, unit testing, TDD, EDD, etc\r\n* Knowledge or working experience with R programming language\r\n\r\n**What do you get?**\r\nThe opportunity to fundamentally change and improve the transport industry.\r\nThe opportunity to engage with and work alongside our young innovators, key stakeholders in the transport and infrastructure industry.\r\nOpportunity to be a leader within an established startup with a strong brand.\r\n\r\n**About Hack Partners Culture**\r\n\r\nWe’re an incredibly diverse group of people with backgrounds in technology, startup investment, and events. We love what we do and also who we do it with. The team has a strong camaraderie with each other recognising that to achieve our vision we have to move forward together, not alone.\r\n\r\nIf we were to take the best traits of all of us and match them with what our culture is then we’d have to say:\r\n\r\nWe’re a team that makes the impossible possible. \r\nWhen we first started the company, nobody thought we’d be able to take a monolithic entity like the rail industry and get it to finally start investing in digital technology. After all, we were just outsiders who knew nothing about the industry. And that’s why we did it. We don’t flee from a hard fight, we walk towards it.\r\n\r\nWe’re energetic, transparent, and adaptive.\r\nThe work we do is very serious, but there’s no reason we can’t have any fun whilst doing it! Selfies, self-deprecating humour, and spicy food are the norm. We’re not precious about our own ideas and business models, we’ve evolved as an organisation several times over the last few years and are proud of it. This flexibility has kept us alive through pure revenue generation to date and moving forward, will help us grow the business.\r\n\r\nYou can find out more about us at: www.hackpartners.com",
+      "descriptionHtml": "<h3><strong>RECRUITERS ONLY SEND CVs IF YOU&#39;RE WILLING TO AGREE TO £4K FIXED PRICE RECRUITMENT FEE.</strong>###</h3>\n<p><strong>Any other commercial proposal will be ignored</strong></p>\n\n<p><strong>Senior Data Scientist for Hack Partners (£50,000 - £70,000 depending on experience)</strong></p>\n\n<p>We are a hybrid tech consulting company focused on driving forward innovation in overlooked high barriers industries like rail and infrastructure. Our flagship movement, the HackTrain has completely changed how innovation is carried out in rail, to date we have worked with every single major transport operator in the UK and are supported by the likes of the Department for Transport and Network Rail, two of the industry’s most important organisations.</p>\n\n<p>Our goal is to build a global technology and consultancy business that helps infrastructure and transport operators, train manufacturers, and asset owners utilise data more efficiently to improve operational performance that ultimately benefits passengers.</p>\n\n<p>We are increasingly becoming the top choice within the transport industry for breakthrough level innovation. In order to scale and make an impact we need a world-class team to help us make a difference in critical but slow moving industries.</p>\n\n<p><strong>Are you the one who can forever change the transport and infrastructure industries forever?</strong></p>\n\n<p>You will be at the heart of a truly unique movement that will have a massive impact within the UK economy. </p>\n\n<p>We are looking for a Senior Data Scientist to lead the analysis, modelling and visualisation of signalling and train performance data with the aim of reducing train delays and improving network capacity (more trains on the UK railway network). To do so, you will work closely with the UK railway operational performance teams to extract valuable insights from previously unused data.</p>\n\n<p>As a Senior Data Scientist you will be responsible for developing algorithms that merge, aggregate and visualise complex signalling &amp; train movement data, obtained from disparate sources.  To achieve this, you must be comfortable with big data cleaning, wrangling and visualisation, exploratory data analysis, network graphing and best software engineering practices. You will be expected to lead by example, mentoring and guiding the team and external clients alike. You will most likely be an accomplished data scientist with track record experience of working with different types of data but looking to take on a new challenge in a different industry and on an impactful project.  </p>\n\n<p><strong>Here are some examples of what you will be doing:</strong></p>\n\n<ul>\n<li>Developing algorithms to reduce train delays and improving railway network capacity</li>\n<li>Performing exploratory data analysis of train movement and signalling system data across the UK railway network. Designing experiments and interpret the results to draw detailed and actionable conclusions</li>\n<li>Working closely with the railway operational performance teams to develop algorithms for extracting valuable insights from operational data</li>\n<li>Working with our software engineers and data scientists on the team to rapidly build, test and deploy robust algorithms and data analytic solutions. </li>\n</ul>\n\n<p><strong>Skills and experience desired:<br>\nEssential</strong></p>\n\n<ul>\n<li>At least 3+ years research and development experience in industry or academia. Holding at least an MSc, and preferably a PhD in a scientific discipline such as Physics, Statistics, Computer Science or Mathematics</li>\n<li>Substantial experience in data analysis, cleansing, wrangling, aggregation and visualisation with data science libraries such as pandas and numpy (3-5 years)</li>\n<li>Substantial Experience working with data visualisation libraries such as matplotlib, seaborn, plotly, etc and understanding how to tell a story using data. (3-5 years)</li>\n<li>Experience working with network graphing libraries such as networkx (1-2 years)</li>\n<li>Experience optimising algorithms for speed and accuracy - plus working with libraries that make code run fast - i.e. numba</li>\n<li>Experience working with large datasets and big data tools - i.e. Apache Spark/Scala - and/or task parallelisation libraries such as Dask</li>\n<li>Understanding how to perform exploratory data analysis without losing focus or getting lost in detail / vast amounts of data</li>\n<li>Good attention to detail; we want someone who enjoys making things great!</li>\n<li>Prior work experience in an interdisciplinary team, preferably in both scientific research, prototyping and production environments.</li>\n<li>Built and deployed data analytics and predictive solutions which are actively being used in an enterprise environment</li>\n<li>Excellent presentation, written, and verbal communication skills. </li>\n</ul>\n\n<p><strong>Desirable</strong></p>\n\n<ul>\n<li>Previously used data visualisation libraries/platforms such as Microsoft Power BI</li>\n<li>Data Engineering experience on the cloud infrastructure – experience building data pipelines for processing live data feeds; familiarity with GCP.</li>\n<li>Understanding of machine learning concepts and modelling principles</li>\n<li>Experience leading data science projects / teams using software engineering best practices such as version control, OOP, unit testing, TDD, EDD, etc</li>\n<li>Knowledge or working experience with R programming language</li>\n</ul>\n\n<p><strong>What do you get?</strong><br>\nThe opportunity to fundamentally change and improve the transport industry.<br>\nThe opportunity to engage with and work alongside our young innovators, key stakeholders in the transport and infrastructure industry.<br>\nOpportunity to be a leader within an established startup with a strong brand.</p>\n\n<p><strong>About Hack Partners Culture</strong></p>\n\n<p>We’re an incredibly diverse group of people with backgrounds in technology, startup investment, and events. We love what we do and also who we do it with. The team has a strong camaraderie with each other recognising that to achieve our vision we have to move forward together, not alone.</p>\n\n<p>If we were to take the best traits of all of us and match them with what our culture is then we’d have to say:</p>\n\n<p>We’re a team that makes the impossible possible. <br>\nWhen we first started the company, nobody thought we’d be able to take a monolithic entity like the rail industry and get it to finally start investing in digital technology. After all, we were just outsiders who knew nothing about the industry. And that’s why we did it. We don’t flee from a hard fight, we walk towards it.</p>\n\n<p>We’re energetic, transparent, and adaptive.<br>\nThe work we do is very serious, but there’s no reason we can’t have any fun whilst doing it! Selfies, self-deprecating humour, and spicy food are the norm. We’re not precious about our own ideas and business models, we’ve evolved as an organisation several times over the last few years and are proud of it. This flexibility has kept us alive through pure revenue generation to date and moving forward, will help us grow the business.</p>\n\n<p>You can find out more about us at: <a href=\"http://www.hackpartners.com\" target=\"_blank\" rel=\"nofollow\">www.hackpartners.com</a></p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Data Science"
+      ],
+      "payment": {
+        "salary": "£50k – £70k"
+      },
+      "recruiter": {
+        "title": "Chief Exec",
+        "role": "Founder",
+        "url": "https://angel.co/u/river-tam",
+        "name": "River Tamoor Baig",
+        "avatar": "https://photos.angel.co/users/266323-medium_jpg?1463305409"
+      },
+      "refs": {
+        "angelListId": "812000",
+        "angelListUrl": "https://angel.co/company/hack-partners/jobs/812000-"
+      },
+      "postedAt": 1589658812000
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "**RECRUITERS ONLY SEND CVs IF YOU'RE WILLING TO AGREE TO £4K FIXED PRICE RECRUITMENT FEE.**\r\n\r\n**Please only apply if you currently live in the UK**\r\n\r\n**Fullstack Engineer for Hack Partners (£45,000 - £60,000 per annum)**\r\n\r\nWe are a hybrid tech consulting company focused on driving forward innovation in overlooked high barriers industries like rail and infrastructure. Our flagship movement, the HackTrain has completely changed how innovation is carried out in rail, to date we have worked with every single major transport operator in the UK and are supported by the likes of the Department for Transport and Network Rail, two of the industry’s most important organisations.\r\n\r\nOur goal is to build a global technology and consultancy business that helps the transport industry utilise data more efficiently to improve operational performance that ultimately benefits passengers.\r\n\r\nAre you the one who can change the transport industry forever?\r\n\r\nYou will be at the heart of a truly unique movement that will have a massive impact within the UK economy. \r\n\r\nTo achieve this, you must be comfortable with user-centred design, rapid product prototyping, machine learning, data processing and systems integration. As a senior figure in the organisation you will be expected to lead by example, mentoring and guiding both internal teams and clients alike. You will most likely be an accomplished developer with proven delivery and technology leadership experience retaining a passion for hands-on development, but looking to broaden your role and take on a new challenge.\r\n\r\n**Here are some examples of what you will be doing:**\r\nWrite and test code. Work with the team to refine and rewrite it as necessary\r\nWork closely with an Agile team of project managers, UI/UX designers, engineers and systems analysts to build rapidly build and deploy technology that will be used by rail professionals and passengers\r\nContinually update your own technical knowledge and skills based on project requirements\r\n\r\n**Skills and experience desired:**\r\nAble to work in a fast-paced and diverse environment and identify and learn new skills as they are required\r\nExperience with VueJS, React (strong in either one and some experience in the other)\r\nExperience with Python 3 and SQL\r\nExperience with cloud infrastructure providers such as GCP, AWS or Azure. A big plus is familiarity with GCP and data pipelines including: Cloud Functions, PubSub, Datastore, BigQuery, Cloud Storage, Compute Engine instances and Firebase services \r\nBasic knowledge of hardware, along with software integration aspects of a project \r\nAny knowledge of embedded linux, or experienced using desktop linux via terminal\r\nBonus\r\nTensorflow/Kafe and GPU acceleration\r\nSOAP APIs, STOMP protocol, NodeJS and Typescript\r\nIoT and audio/video processing\r\nEmbedded C/C++ experience\r\n \r\n**What do you get?**\r\nThe opportunity to fundamentally change and improve the transport industry.\r\nThe opportunity to engage with and work alongside our young innovators, key stakeholders in the transport and infrastructure industry.\r\nOpportunity to be a leader within an established startup with a strong brand.\r\n\r\n**About Hack Partners Culture**\r\nWe’re an incredibly diverse group of people with backgrounds in technology, startup investment, and events. We love what we do and also who we do it with. The team has a strong camaraderie with each other recognising that to achieve our vision we have to move forward together, not alone.\r\n\r\nIf we were to take the best traits of all of us and match them with what our culture is then we’d have to say:\r\n\r\nWe’re a team that makes the impossible possible. \r\nWhen we first started the company, nobody thought we’d be able to take a monolithic entity like the rail industry and get it to finally start investing in digital technology. After all, we were just outsiders who knew nothing about the industry. And that’s why we did it. We don’t flee from a hard fight, we walk towards it.\r\n\r\nWe’re energetic, transparent, and adaptive.\r\nThe work we do is very serious, but there’s no reason we can’t have any fun whilst doing it! Selfies, self-deprecating humour, and spicy food are the norm. We’re not precious about our own ideas and business models, we’ve evolved as an organisation several times over the last few years and are proud of it. This flexibility has kept us alive through pure revenue generation to date and moving forward, will help us grow the business.\r\n\r\nYou can find out more about us at: www.hackpartners.com",
+      "descriptionHtml": "<p><strong>RECRUITERS ONLY SEND CVs IF YOU&#39;RE WILLING TO AGREE TO £4K FIXED PRICE RECRUITMENT FEE.</strong></p>\n\n<p><strong>Please only apply if you currently live in the UK</strong></p>\n\n<p><strong>Fullstack Engineer for Hack Partners (£45,000 - £60,000 per annum)</strong></p>\n\n<p>We are a hybrid tech consulting company focused on driving forward innovation in overlooked high barriers industries like rail and infrastructure. Our flagship movement, the HackTrain has completely changed how innovation is carried out in rail, to date we have worked with every single major transport operator in the UK and are supported by the likes of the Department for Transport and Network Rail, two of the industry’s most important organisations.</p>\n\n<p>Our goal is to build a global technology and consultancy business that helps the transport industry utilise data more efficiently to improve operational performance that ultimately benefits passengers.</p>\n\n<p>Are you the one who can change the transport industry forever?</p>\n\n<p>You will be at the heart of a truly unique movement that will have a massive impact within the UK economy. </p>\n\n<p>To achieve this, you must be comfortable with user-centred design, rapid product prototyping, machine learning, data processing and systems integration. As a senior figure in the organisation you will be expected to lead by example, mentoring and guiding both internal teams and clients alike. You will most likely be an accomplished developer with proven delivery and technology leadership experience retaining a passion for hands-on development, but looking to broaden your role and take on a new challenge.</p>\n\n<p><strong>Here are some examples of what you will be doing:</strong><br>\nWrite and test code. Work with the team to refine and rewrite it as necessary<br>\nWork closely with an Agile team of project managers, UI/UX designers, engineers and systems analysts to build rapidly build and deploy technology that will be used by rail professionals and passengers<br>\nContinually update your own technical knowledge and skills based on project requirements</p>\n\n<p><strong>Skills and experience desired:</strong><br>\nAble to work in a fast-paced and diverse environment and identify and learn new skills as they are required<br>\nExperience with VueJS, React (strong in either one and some experience in the other)<br>\nExperience with Python 3 and SQL<br>\nExperience with cloud infrastructure providers such as GCP, AWS or Azure. A big plus is familiarity with GCP and data pipelines including: Cloud Functions, PubSub, Datastore, BigQuery, Cloud Storage, Compute Engine instances and Firebase services <br>\nBasic knowledge of hardware, along with software integration aspects of a project <br>\nAny knowledge of embedded linux, or experienced using desktop linux via terminal<br>\nBonus<br>\nTensorflow/Kafe and GPU acceleration<br>\nSOAP APIs, STOMP protocol, NodeJS and Typescript<br>\nIoT and audio/video processing<br>\nEmbedded C/C++ experience</p>\n\n<p><strong>What do you get?</strong><br>\nThe opportunity to fundamentally change and improve the transport industry.<br>\nThe opportunity to engage with and work alongside our young innovators, key stakeholders in the transport and infrastructure industry.<br>\nOpportunity to be a leader within an established startup with a strong brand.</p>\n\n<p><strong>About Hack Partners Culture</strong><br>\nWe’re an incredibly diverse group of people with backgrounds in technology, startup investment, and events. We love what we do and also who we do it with. The team has a strong camaraderie with each other recognising that to achieve our vision we have to move forward together, not alone.</p>\n\n<p>If we were to take the best traits of all of us and match them with what our culture is then we’d have to say:</p>\n\n<p>We’re a team that makes the impossible possible. <br>\nWhen we first started the company, nobody thought we’d be able to take a monolithic entity like the rail industry and get it to finally start investing in digital technology. After all, we were just outsiders who knew nothing about the industry. And that’s why we did it. We don’t flee from a hard fight, we walk towards it.</p>\n\n<p>We’re energetic, transparent, and adaptive.<br>\nThe work we do is very serious, but there’s no reason we can’t have any fun whilst doing it! Selfies, self-deprecating humour, and spicy food are the norm. We’re not precious about our own ideas and business models, we’ve evolved as an organisation several times over the last few years and are proud of it. This flexibility has kept us alive through pure revenue generation to date and moving forward, will help us grow the business.</p>\n\n<p>You can find out more about us at: <a href=\"http://www.hackpartners.com\" target=\"_blank\" rel=\"nofollow\">www.hackpartners.com</a></p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Greater London",
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Software Engineering",
+        "Linux",
+        "API",
+        "Internet of Things",
+        "Data Pipelines"
+      ],
+      "payment": {
+        "salary": "£45k – £60k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": "Chief Exec",
+        "role": "Founder",
+        "url": "https://angel.co/u/river-tam",
+        "name": "River Tamoor Baig",
+        "avatar": "https://photos.angel.co/users/266323-medium_jpg?1463305409"
+      },
+      "refs": {
+        "angelListId": "824322",
+        "angelListUrl": "https://angel.co/company/hack-partners/jobs/824322-"
+      },
+      "postedAt": 1589658824322
+    }
+  ]
+}

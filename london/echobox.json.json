@@ -1,0 +1,127 @@
+{
+  "name": "Echobox",
+  "avatar": "https://photos.angel.co/startups/i/305561-3f092355b2810935eee5ec2ba31a7a33-medium_jpg.jpg?buster=1486988500",
+  "slogan": "",
+  "description": "-",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.echobox.com"
+    },
+    {
+      "type": "blog",
+      "url": "http://www.medium.com/echobox"
+    },
+    {
+      "type": "twitter",
+      "url": "https://www.twitter.com/EchoboxHQ"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/EchoboxHQ"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/echobox"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Artificial Intelligence",
+    "Big Data",
+    "News",
+    "Digital Media"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 3400000,
+    "rounds": [
+      {
+        "type": "",
+        "closedAt": 1467676800,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/antoineamann",
+      "name": "Antoine Amann",
+      "avatar": "https://photos.angel.co/users/66587-medium_jpg?1493127006",
+      "bioHtml": "Founder/CEO <a href=\"https://angel.co/company/echobox\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Echobox</span></a> • Worked at <a href=\"https://angel.co/company/financial-times\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Financial Times</span></a> • Studied at <a href=\"https://angel.co/university-of-cambridge\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">University of Cambridge</span></a> • We&#39;re hiring http://ebx.sh/careers"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/lara-velho-1",
+      "name": "Lara Velho",
+      "avatar": "https://photos.angel.co/users/10002612-medium_jpg?1568815376",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/bart-walczak-1",
+      "name": "Bart Walczak",
+      "avatar": "https://photos.angel.co/users/9265877-medium_jpg?1556101228",
+      "bioHtml": ""
+    },
+    {
+      "title": "VP Strategic Development / Head of Business Development",
+      "role": "Employee",
+      "url": "https://angel.co/u/louis-daillencourt-1",
+      "name": "Louis Daillencourt",
+      "avatar": "https://photos.angel.co/users/7611982-medium_jpg?1521639146",
+      "bioHtml": "Humanities graduate with a track record in sales and product development. Passionate about the media and creative industries. Composer and multi-instrumentalist"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "305561",
+    "angelListUrl": "https://angel.co/company/echobox"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Software Engineer (London)",
+      "description": "You will work closely with our CTO to help meet the day to day business needs of Echobox by helping to coordinate the efforts and direction of the technical team. This includes planning, execution and delivery of the product roadmap, fixing technical problems, responding to customer questions and providing software development assistance to the Data Science team.\n\n\n\nKey Responsibilities:\n\nWork with our CTO to help meet the day to day business needs of Echobox.\nBe jointly responsible for the maintenance and quality of codebases and infrastructure.\nBe responsible for the planning, execution and delivery of the product roadmap.\nHelp transition prototypes developed by the Data Science team into highly available, scalable and performant end user products.\nCoordinate and coach other developers.\nBe part of an out-of-hours ‘on call’ rota in case of serious technical problems.\nAbout Echobox:\n\nWe are a fast-growing, research-driven company building an artificial intelligence that helps online publishers overcome the challenges they face every day. Using novel machine learning techniques, we are revolutionising the publishing industry and have a track record of building things that others have ruled out as impossible. Leading names from around the world rely on our product every day, including The Times, Le Monde, The Guardian, Vogue and many more.\n\nOur team is our best asset. We work with extremely smart and talented individuals, who all enjoy a high degree of responsibility and independence in structuring their work. \n\nDo you think you have what it takes to be part of Echobox? We'd love to hear from you.\n\nAbout our work:\n\nTo get a better insight into the kind of work we do, check out our open-source project on Github (https://ebx.sh/gh), our data showcases (https://showcase.echobox.com) and our YouTube content on Microservices (https://ebx.sh/microservices). \n\nRequirements\n\nMinimum Academic Qualifications:\n\n2.1 degree in a STEM subject from a top tier university.\nFluent written and spoken English.\nRequired Skills and Experience:\n\n2 years experience as a full-time developer in an OO language (e.g. Java, C#, C++).\nA good familiarity with Java (SE8+)\nAgile development (scrum, kanban, peer reviews etc)\nTDD & Continuous Integration\nDCVS\nAn ability and desire to learn new skills quickly\nGenuine passion for technology\nPreferred Skills:\n\nExperience leading a small software team, with strong project management skills.\nExperience with different types of database technologies.\nExperience designing and maintaining microservice based architectures.\nExperience utilising AWS services.\nExperience building RESTful web services.\nFamiliarity with common *nix command line tools.\nExperience working with React, CSS and HTML5.\nAn understanding of software security and common exploit methodologies\n\nBenefits:\n\nOur employees enjoy free breakfast every day, coffee, drinks and snacks all day, everyday. Every Wednesday, we order food for our weekly team lunches where everyone gets together for an hour of fun. We have monthly team events (dinner, bowling, karting, poker nights, board-games etc.) for our team to get to know each other outside of work. Professionally, we host in-house conferences and an annual summer camp for all our global employees who are flown to and hosted in London. We ensure that all our employees also get pension contributions, the latest tech, generous annual leave and an amazing office with a balcony overlooking Notting Hill.",
+      "descriptionHtml": "<p>You will work closely with our CTO to help meet the day to day business needs of Echobox by helping to coordinate the efforts and direction of the technical team. This includes planning, execution and delivery of the product roadmap, fixing technical problems, responding to customer questions and providing software development assistance to the Data Science team.</p>\n\n<p>Key Responsibilities:</p>\n\n<p>Work with our CTO to help meet the day to day business needs of Echobox.<br>\nBe jointly responsible for the maintenance and quality of codebases and infrastructure.<br>\nBe responsible for the planning, execution and delivery of the product roadmap.<br>\nHelp transition prototypes developed by the Data Science team into highly available, scalable and performant end user products.<br>\nCoordinate and coach other developers.<br>\nBe part of an out-of-hours ‘on call’ rota in case of serious technical problems.<br>\nAbout Echobox:</p>\n\n<p>We are a fast-growing, research-driven company building an artificial intelligence that helps online publishers overcome the challenges they face every day. Using novel machine learning techniques, we are revolutionising the publishing industry and have a track record of building things that others have ruled out as impossible. Leading names from around the world rely on our product every day, including The Times, Le Monde, The Guardian, Vogue and many more.</p>\n\n<p>Our team is our best asset. We work with extremely smart and talented individuals, who all enjoy a high degree of responsibility and independence in structuring their work. </p>\n\n<p>Do you think you have what it takes to be part of Echobox? We&#39;d love to hear from you.</p>\n\n<p>About our work:</p>\n\n<p>To get a better insight into the kind of work we do, check out our open-source project on Github (<a href=\"https://ebx.sh/gh\" target=\"_blank\" rel=\"nofollow\">https://ebx.sh/gh</a>), our data showcases (<a href=\"https://showcase.echobox.com\" target=\"_blank\" rel=\"nofollow\">https://showcase.echobox.com</a>) and our YouTube content on Microservices (<a href=\"https://ebx.sh/microservices\" target=\"_blank\" rel=\"nofollow\">https://ebx.sh/microservices</a>). </p>\n\n<p>Requirements</p>\n\n<p>Minimum Academic Qualifications:</p>\n\n<p>2.1 degree in a STEM subject from a top tier university.<br>\nFluent written and spoken English.<br>\nRequired Skills and Experience:</p>\n\n<p>2 years experience as a full-time developer in an OO language (e.g. Java, C#, C++).<br>\nA good familiarity with Java (SE8+)<br>\nAgile development (scrum, kanban, peer reviews etc)<br>\nTDD &amp; Continuous Integration<br>\nDCVS<br>\nAn ability and desire to learn new skills quickly<br>\nGenuine passion for technology<br>\nPreferred Skills:</p>\n\n<p>Experience leading a small software team, with strong project management skills.<br>\nExperience with different types of database technologies.<br>\nExperience designing and maintaining microservice based architectures.<br>\nExperience utilising AWS services.<br>\nExperience building RESTful web services.<br>\nFamiliarity with common *nix command line tools.<br>\nExperience working with React, CSS and HTML5.<br>\nAn understanding of software security and common exploit methodologies</p>\n\n<p>Benefits:</p>\n\n<p>Our employees enjoy free breakfast every day, coffee, drinks and snacks all day, everyday. Every Wednesday, we order food for our weekly team lunches where everyone gets together for an hour of fun. We have monthly team events (dinner, bowling, karting, poker nights, board-games etc.) for our team to get to know each other outside of work. Professionally, we host in-house conferences and an annual summer camp for all our global employees who are flown to and hosted in London. We ensure that all our employees also get pension contributions, the latest tech, generous annual leave and an amazing office with a balcony overlooking Notting Hill.</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "CSS",
+        "Machine Learning",
+        "HTML5"
+      ],
+      "payment": {
+        "salary": "£45k – £90k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/lara-velho-1",
+        "name": "Lara Velho",
+        "avatar": "https://photos.angel.co/users/10002612-medium_jpg?1568815376"
+      },
+      "refs": {
+        "angelListId": "632033",
+        "angelListUrl": "https://angel.co/company/echobox/jobs/632033-"
+      }
+    }
+  ]
+}

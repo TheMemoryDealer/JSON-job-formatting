@@ -1,0 +1,110 @@
+{
+  "name": "Outra",
+  "avatar": "https://photos.angel.co/startups/i/5352796-b961038c87787c930ba6c01aac4dd051-medium_jpg.jpg?buster=1519223496",
+  "slogan": "Helping brands harness the full power of connected data, insight and opinions",
+  "description": "We work with clients in two ways:\n\nOur industry leading data asset QUANTA\n\nOur data science engine VELOCITA\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://outra.co.uk/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Media",
+    "Market Research",
+    "Politics",
+    "Retail Technology",
+    "Insurance",
+    "Brand Marketing",
+    "Big Data Analytics",
+    "Property"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Data Science Lead",
+      "role": "Employee",
+      "url": "https://angel.co/u/josh-levy-kramer-1",
+      "name": "Josh Levy-Kramer",
+      "avatar": "https://photos.angel.co/users/7473992-medium_jpg?1519644814",
+      "bioHtml": ""
+    },
+    {
+      "title": "Client Data Science Lead",
+      "role": "Employee",
+      "url": "https://angel.co/u/emma-duckworth",
+      "name": "Emma Duckworth",
+      "avatar": "https://photos.angel.co/users/6549184-medium_jpg?1497386365",
+      "bioHtml": "A creative and experienced data scientist with a passion for solving problems with data, machine learning and technology."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5352796",
+    "angelListUrl": "https://angel.co/company/outra"
+  },
+  "jobs": [
+    {
+      "role": "Other",
+      "title": "Client Facing Junior & Senior Data Scientist",
+      "description": "Client Facing Data Scientist\n\nYour mission:\n\nStrive so that Outra use the best and most relevant Data Science and Machine Learning in its products and services. We are a rapidly growing business, at two years old we have 27 clients we are proud to work with. \n\nWe are looking for a candidate to use both cutting edge research and experience to ensure data science is embedded at the core of everything we do. We work with real-world challenges and datasets, and you will need to use your Data Science/AI expertise and creativity to solve these problems in a practical and scalable way. You will be called upon to assess possibilities, provide ideas and input into product design choices. This will involve understanding your customer (internal or external) needs and translating them into solutions. Our data science team has a diverse range of backgrounds including industry and academia, we are looking for candidates to add to and amplify the range of experience.\n\nYou will be encouraged to both do the necessary research to propose appropriate models/techniques and expected to have the necessary expertise to implement and train the models yourself. Where useful, you will not hesitate to employ classical machine learning methods, but we are enthusiastic at the idea of pushing the boundaries of deep learning and AI. To do this, you will be supported with both resources and time to research and learn about new developments in the industry. We work across a diverse range of industries, working with datasets including property, telecoms, transactional, satellite, opinion and web data. You will be excited to adapt to new sources and formats and comfortable working with big data. \n\nWhat you will be doing\n\n•\tLead and support Data Science/AI projects to create new data products. Providing direction and advice on data science and ML projects\n•\tAutomation: We aim to automate as much as we can, so that every person in the team can focus on the things that humans do best. As with all data science work, it will include analysis and reporting.\n•\tResearch and experiment with the latest data science and incorporate into Outra’s products and services.\n•\tWork with clients to understand their business problems and develop data driven solutions\n\nRequirements\n\n•\t4+ years of Python experience\n•\t2+ years commercial Data Science experience\n•\tA Degree in Computer Science, Mathematics, Physics, Statistics or other quantitative fields\n•\tStrong analytical mindset\n•\tFocus and ability to bring ideas from concept to delivery \n•\tA good understanding of different Machine Learning approaches with opinions on when to use them\n\nAdditional\n\n•\tPHD/ Masters degree in related subject\n•\tEnthusiasm for understanding and modelling human behaviour\n•\tStrong communication skills, the ability to explain complex processes and models to non-technical people\n\n\nSalary will vary depending on experience.",
+      "descriptionHtml": "<p>Client Facing Data Scientist</p>\n\n<p>Your mission:</p>\n\n<p>Strive so that Outra use the best and most relevant Data Science and Machine Learning in its products and services. We are a rapidly growing business, at two years old we have 27 clients we are proud to work with. </p>\n\n<p>We are looking for a candidate to use both cutting edge research and experience to ensure data science is embedded at the core of everything we do. We work with real-world challenges and datasets, and you will need to use your Data Science/AI expertise and creativity to solve these problems in a practical and scalable way. You will be called upon to assess possibilities, provide ideas and input into product design choices. This will involve understanding your customer (internal or external) needs and translating them into solutions. Our data science team has a diverse range of backgrounds including industry and academia, we are looking for candidates to add to and amplify the range of experience.</p>\n\n<p>You will be encouraged to both do the necessary research to propose appropriate models/techniques and expected to have the necessary expertise to implement and train the models yourself. Where useful, you will not hesitate to employ classical machine learning methods, but we are enthusiastic at the idea of pushing the boundaries of deep learning and AI. To do this, you will be supported with both resources and time to research and learn about new developments in the industry. We work across a diverse range of industries, working with datasets including property, telecoms, transactional, satellite, opinion and web data. You will be excited to adapt to new sources and formats and comfortable working with big data. </p>\n\n<p>What you will be doing</p>\n\n<p>• Lead and support Data Science/AI projects to create new data products. Providing direction and advice on data science and ML projects<br>\n• Automation: We aim to automate as much as we can, so that every person in the team can focus on the things that humans do best. As with all data science work, it will include analysis and reporting.<br>\n• Research and experiment with the latest data science and incorporate into Outra’s products and services.<br>\n• Work with clients to understand their business problems and develop data driven solutions</p>\n\n<p>Requirements</p>\n\n<p>• 4+ years of Python experience<br>\n• 2+ years commercial Data Science experience<br>\n• A Degree in Computer Science, Mathematics, Physics, Statistics or other quantitative fields<br>\n• Strong analytical mindset<br>\n• Focus and ability to bring ideas from concept to delivery <br>\n• A good understanding of different Machine Learning approaches with opinions on when to use them</p>\n\n<p>Additional</p>\n\n<p>• PHD/ Masters degree in related subject<br>\n• Enthusiasm for understanding and modelling human behaviour<br>\n• Strong communication skills, the ability to explain complex processes and models to non-technical people</p>\n\n<p>Salary will vary depending on experience.</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Data Visualization",
+        "Client Relations",
+        "Data Science",
+        "Problem Solving"
+      ],
+      "payment": {
+        "salary": "£40k – £90k",
+        "equity": "0.0% – 0.1%"
+      },
+      "recruiter": {
+        "title": "Client Data Science Lead",
+        "role": "Employee",
+        "url": "https://angel.co/u/emma-duckworth",
+        "name": "Emma Duckworth",
+        "avatar": "https://photos.angel.co/users/6549184-medium_jpg?1497386365"
+      },
+      "refs": {
+        "angelListId": "413165",
+        "angelListUrl": "https://angel.co/company/outra/jobs/413165-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "name": "Dazzle ai",
+  "avatar": "https://photos.angel.co/startups/i/6878302-fc4980dad25861e616a8d5941d29244f-medium_jpg.jpg?buster=1560275834",
+  "slogan": "revolutionise public transport using personalised conversations",
+  "description": "The Dazzle platform will enable deep insight into the preferences, context and needs of the individual user. It will then compare, collate, analyse and learn in order to orchestrate and personalise every conversation, taking the pain out of travel decisions, delivering a new transportation paradigm.\n\nOur technology will enable transport customers to have automated, natural language conversations using any digital channel, including those they already use in daily life to plan, book and manage their multimodal travel and take advantage of additional, highly relevant services.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://Www.dazzle.ai"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@dazzle_ai"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Marketplaces",
+    "Ticketing",
+    "Public Transportation"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/ed-hodges-1",
+      "name": "Ed Hodges",
+      "avatar": "https://photos.angel.co/users/5988665-medium_jpg?1489701794",
+      "bioHtml": "CEO at Dazzle.ai a conversational commerce platform delivering Mobility as a Service for Transport Operators. "
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/owen-day-3",
+      "name": "Owen Day",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/pete-shannon",
+      "name": "Pete Shannon",
+      "avatar": "https://photos.angel.co/users/9512652-medium_jpg?1560771060",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6878302",
+    "angelListUrl": "https://angel.co/company/dazzle-ai"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Backend Developer, all grades (www.dazzle.ai, £35-£65k)",
+      "description": "No applications from agencies will be accepted\n\nWho we are\nThe Dazzle team are set to revolutionise the customer experience for millions of transportation passengers using machine learning and personalised, automated conversations. \n\nWe’re a fully-funded startup with a rich development roadmap\nWe’ve already won multiple awards for our white-label conversational commerce platform, and fully intend to win many more\nWe’ve just completed the Wayra (O2/Telefonica) start-up accelerator \nWe’re well connected, with growing networks across our sector and beyond\nWe are ready to go big and we’re looking for people ready to make their mark\n\nWhy us\nThe atmosphere here is professional and focused but we’re still very much a startup. We are flexible, agile and we have huge energy to make a real impact, for our clients and end-users alike. Our values are influenced by our backgrounds at successful startups, big tech companies and premier consulting firms, all combined to create an approach which we feel works fantastically well. \n\nIf you’re interested in using your Java super-powers in playing a key, early role in the development of a truly customer-centric innovation, keep reading.\n\nOur Vision\nOur technology already enables transport customers to have automated, natural language conversations using any digital channel (such as WhatsApp, Alexa, FB Messenger, Google Assistant) to book and manage their multimodal travel really easily. This is a huge transformation in customer experience and opens up vast opportunities for transport providers.\n\nAs we progress, the Dazzle platform will enable deep insight into the preferences, context and needs of every individual end-user of our services. It will then compare, collate, analyse and learn in order to orchestrate and personalise every conversation, taking the pain out of travel decisions and delivering value-add products and services.\n\nHow we do things\n\nWe work in cross-functional product teams with bi-weekly sprints. \nYou can expect to work on a wide variety of technical solutions from user-facing applications to internal tools. \nWe take pride in the code we ship and aim to do all the right things (test driven development, code reviews, “leave it better than you found it”, etc) and expect you to contribute to the improvement of these development processes.\nWe have the whole company in one office to make sure we operate as a close-knit team. This means that everyone learns together and delivers together and it means that everyone can be close to, and contribute to, the pulse of the business.\n \nSome of the technologies we use: \nWe currently use Java (Netty, DL4J, Elasticsearch) to write our application code, Ansible to deploy and Javascript (MaterialUI, React.js, Redux.js, ES6, Webpack) on the frontend. Some of the services we use are Dialogflow, Amazon Alexa, Contentful, CloudFormation, Twilio. \n\nThe Role: \nYou will be joining a small, focused team working on our core server application. Some of the challenges we handle include: real-time monitoring of transit networks, development of in-house NLU services, integration with a mix of new external & legacy systems as well as refinement and optimisation of our journey search engine. \n\nWe are building to support millions of daily passengers, your work will see widespread production use.\n\nWe are recruiting for a range of seniority, so if you don’t have the full skill set that's okay, we can train you, however we do expect you to be competent in at least three of the below at an entry level.\n\nCandidate Experience:\nRequired experience:\nJava 8+\nBuilding RESTful Web Services\nGit or equivalent version control\nTest Driven Development\nWorking in an Agile/SCRUM development environment\nLinux on AWS\n\nBeneficial experience:\nBuild management through Gradle/Maven, Artifactory and Jenkins\nElasticsearch\nNetty\nDL4J\nNode/React \nSwagger\nAnsible/Docker\nExperience of Natural Language Understanding systems such as Amazon Lex\nUnderstanding of security (e.g. PCI-DSS)\nUnderstanding of Neural Networks \nWorking in a startup environment\n\nHow we interview \nWe start with a face-to-face meeting to get to know you and give you an introduction to the company to ensure everyone is happy with the fit.  If everyone wants to go further this will be followed by some simple coding challenges. If that goes well, there will be a final interview with the engineers and product managers you’ll be working with. \nYour interview will be centred around a pair programming exercise and we’ll also look for evidence of strong communication and team skills. We promise no brain teasers! Throughout the process you’ll meet a number of people including engineering leaders, fellow individual contributors and product managers. We’ll aim to get back to you the day after your interview with a final answer. \n\nPerks: \n10% of your time is for self-defined company projects\nAmazon Prime membership and an Echo\nCore hours \nCentral London location\n\nNo applications from agencies will be accepted",
+      "descriptionHtml": "<p>No applications from agencies will be accepted</p>\n\n<p>Who we are<br>\nThe Dazzle team are set to revolutionise the customer experience for millions of transportation passengers using machine learning and personalised, automated conversations. </p>\n\n<p>We’re a fully-funded startup with a rich development roadmap<br>\nWe’ve already won multiple awards for our white-label conversational commerce platform, and fully intend to win many more<br>\nWe’ve just completed the Wayra (O2/Telefonica) start-up accelerator <br>\nWe’re well connected, with growing networks across our sector and beyond<br>\nWe are ready to go big and we’re looking for people ready to make their mark</p>\n\n<p>Why us<br>\nThe atmosphere here is professional and focused but we’re still very much a startup. We are flexible, agile and we have huge energy to make a real impact, for our clients and end-users alike. Our values are influenced by our backgrounds at successful startups, big tech companies and premier consulting firms, all combined to create an approach which we feel works fantastically well. </p>\n\n<p>If you’re interested in using your Java super-powers in playing a key, early role in the development of a truly customer-centric innovation, keep reading.</p>\n\n<p>Our Vision<br>\nOur technology already enables transport customers to have automated, natural language conversations using any digital channel (such as WhatsApp, Alexa, FB Messenger, Google Assistant) to book and manage their multimodal travel really easily. This is a huge transformation in customer experience and opens up vast opportunities for transport providers.</p>\n\n<p>As we progress, the Dazzle platform will enable deep insight into the preferences, context and needs of every individual end-user of our services. It will then compare, collate, analyse and learn in order to orchestrate and personalise every conversation, taking the pain out of travel decisions and delivering value-add products and services.</p>\n\n<p>How we do things</p>\n\n<p>We work in cross-functional product teams with bi-weekly sprints. <br>\nYou can expect to work on a wide variety of technical solutions from user-facing applications to internal tools. <br>\nWe take pride in the code we ship and aim to do all the right things (test driven development, code reviews, “leave it better than you found it”, etc) and expect you to contribute to the improvement of these development processes.<br>\nWe have the whole company in one office to make sure we operate as a close-knit team. This means that everyone learns together and delivers together and it means that everyone can be close to, and contribute to, the pulse of the business.</p>\n\n<p>Some of the technologies we use: <br>\nWe currently use Java (Netty, DL4J, Elasticsearch) to write our application code, Ansible to deploy and Javascript (MaterialUI, React.js, Redux.js, ES6, Webpack) on the frontend. Some of the services we use are Dialogflow, Amazon Alexa, Contentful, CloudFormation, Twilio. </p>\n\n<p>The Role: <br>\nYou will be joining a small, focused team working on our core server application. Some of the challenges we handle include: real-time monitoring of transit networks, development of in-house NLU services, integration with a mix of new external &amp; legacy systems as well as refinement and optimisation of our journey search engine. </p>\n\n<p>We are building to support millions of daily passengers, your work will see widespread production use.</p>\n\n<p>We are recruiting for a range of seniority, so if you don’t have the full skill set that&#39;s okay, we can train you, however we do expect you to be competent in at least three of the below at an entry level.</p>\n\n<p>Candidate Experience:<br>\nRequired experience:<br>\nJava 8+<br>\nBuilding RESTful Web Services<br>\nGit or equivalent version control<br>\nTest Driven Development<br>\nWorking in an Agile/SCRUM development environment<br>\nLinux on AWS</p>\n\n<p>Beneficial experience:<br>\nBuild management through Gradle/Maven, Artifactory and Jenkins<br>\nElasticsearch<br>\nNetty<br>\nDL4J<br>\nNode/React <br>\nSwagger<br>\nAnsible/Docker<br>\nExperience of Natural Language Understanding systems such as Amazon Lex<br>\nUnderstanding of security (e.g. PCI-DSS)<br>\nUnderstanding of Neural Networks <br>\nWorking in a startup environment</p>\n\n<p>How we interview <br>\nWe start with a face-to-face meeting to get to know you and give you an introduction to the company to ensure everyone is happy with the fit.  If everyone wants to go further this will be followed by some simple coding challenges. If that goes well, there will be a final interview with the engineers and product managers you’ll be working with. <br>\nYour interview will be centred around a pair programming exercise and we’ll also look for evidence of strong communication and team skills. We promise no brain teasers! Throughout the process you’ll meet a number of people including engineering leaders, fellow individual contributors and product managers. We’ll aim to get back to you the day after your interview with a final answer. </p>\n\n<p>Perks: <br>\n10% of your time is for self-defined company projects<br>\nAmazon Prime membership and an Echo<br>\nCore hours <br>\nCentral London location</p>\n\n<p>No applications from agencies will be accepted</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Java",
+        "SCRUM"
+      ],
+      "payment": {
+        "salary": "£35k – £65k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/ed-hodges-1",
+        "name": "Ed Hodges",
+        "avatar": "https://photos.angel.co/users/5988665-medium_jpg?1489701794"
+      },
+      "refs": {
+        "angelListId": "538471",
+        "angelListUrl": "https://angel.co/company/dazzle-ai/jobs/538471-"
+      }
+    }
+  ]
+}

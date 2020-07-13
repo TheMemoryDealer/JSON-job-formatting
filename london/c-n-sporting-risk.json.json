@@ -1,0 +1,121 @@
+{
+  "name": "C&N Sporting Risk",
+  "avatar": "https://photos.angel.co/startups/i/6193769-b0feee9657e687f80772daf87fb43ef7-medium_jpg.jpg?buster=1534871931",
+  "slogan": "Sports Analytics",
+  "description": "C&N Sporting Risk is a sports analytics company that specialises in building predictive models in sport, primarily for football. The outputs of these models are deployed in a number of sectors, which include betting markets, the gaming sector, financial institutions and professional football.\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.sportingrisk.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Predictive Analytics"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/henry-newman",
+      "name": "Henry Newman",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6193769",
+    "angelListUrl": "https://angel.co/company/c-n-sporting-risk"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "C&N Sporting Risk is looking for a skilled and hungry software engineer and data scientist to join and add to the established team. The position is full time based in London.\n\nThe Company is currently looking for an individual in synchronising price feeds with live events feeds and data models, in order to generate specific outputs. Expertise working with bookmaker price feeds is desired, however not essential.\n\nExperience working with data feeds and API calls\nExperience working with middleware\nC# ASP.NET\nMicrosoft SQL\nCSS and HTML\nJSON\nJavascript\nWindows system administration (IIS)\n(Optional) Java Spring and Hibernate experience",
+      "descriptionHtml": "<p>C&amp;N Sporting Risk is looking for a skilled and hungry software engineer and data scientist to join and add to the established team. The position is full time based in London.</p>\n\n<p>The Company is currently looking for an individual in synchronising price feeds with live events feeds and data models, in order to generate specific outputs. Expertise working with bookmaker price feeds is desired, however not essential.</p>\n\n<p>Experience working with data feeds and API calls<br>\nExperience working with middleware<br>\nC# ASP.NET<br>\nMicrosoft SQL<br>\nCSS and HTML<br>\nJSON<br>\nJavascript<br>\nWindows system administration (IIS)<br>\n(Optional) Java Spring and Hibernate experience</p>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£36k – £50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/henry-newman",
+        "name": "Henry Newman",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "415402",
+        "angelListUrl": "https://angel.co/company/c-n-sporting-risk/jobs/415402-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Software Developer",
+      "description": "C&N Sporting Risk is looking for a driven individual to lead on the front end development of new products that it is building that are the outputs from the descriptive and predictive models for soccer that the company's data science team works on on a daily basis.\n\nCORE CAPABILITIES:\nThe ability to work in ASP.NET MVC in C#\n\nThe company is launching a new B2C betting focused website, and the individual would be responsible for the following:\n\n1. Implementation of the front end designs for the website.\n2. Implementation of the UI-UX elements for both the desktop and mobile site.\n3. Receiving and mapping the outputs from a price feed, live event feed and other APIs to ensure they are displayed and visible on the appropriate sections of the website.",
+      "descriptionHtml": "<p>C&amp;N Sporting Risk is looking for a driven individual to lead on the front end development of new products that it is building that are the outputs from the descriptive and predictive models for soccer that the company&#39;s data science team works on on a daily basis.</p>\n\n<p>CORE CAPABILITIES:<br>\nThe ability to work in ASP.NET MVC in C#</p>\n\n<p>The company is launching a new B2C betting focused website, and the individual would be responsible for the following:</p>\n\n<ol>\n<li>Implementation of the front end designs for the website.</li>\n<li>Implementation of the UI-UX elements for both the desktop and mobile site.</li>\n<li>Receiving and mapping the outputs from a price feed, live event feed and other APIs to ensure they are displayed and visible on the appropriate sections of the website.</li>\n</ol>\n",
+      "position": "full-time",
+      "experience": 0,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Self Motivated",
+        "Able to Work Independently"
+      ],
+      "payment": {
+        "salary": "£36k – £50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/henry-newman",
+        "name": "Henry Newman",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "415969",
+        "angelListUrl": "https://angel.co/company/c-n-sporting-risk/jobs/415969-"
+      }
+    }
+  ]
+}

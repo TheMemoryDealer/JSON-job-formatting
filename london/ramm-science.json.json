@@ -1,0 +1,98 @@
+{
+  "name": "RAMM Science",
+  "avatar": "https://photos.angel.co/startups/i/6118140-7ea85b7e9db967e5f6e4dbf2938909ba-medium_jpg.jpg?buster=1533657229",
+  "slogan": "RAMM Science is an (AI) and Blockchain enterprise software solutions company",
+  "description": "Our platforms include:\n\n-  RAMM DL - A Deep Learning Platform\n-  Hydra - Smart assets on the blockchain\n-  DeepPoint - Spatial Intelligence:  AI meets LiDAR\n-  Continuum - High performance numeric/scientific visualisation software",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://ramm.science/x/home/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Artificial Intelligence",
+    "Deep Learning",
+    "Machine Learning",
+    "Artificial Intelligence / Machine Learning"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/momin-hashmee",
+      "name": "Momin Hashmee",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6118140",
+    "angelListUrl": "https://angel.co/company/ramm-science"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Python Developer",
+      "description": "About Us\n\n\n\nRAMM Science is an Artificial Intelligence (AI) and Blockchain enterprise software solutions start-up. We believe in the ethical use of frontier technology to make business more efficient, create new markets, accelerate scientific discovery and help make the world a better place.\n\nWith large financial backing and customers across the globe, we are now entering a phase of rapid growth. As part of this growth, we are looking to expand our team with talented people who want to join us on our rocket ship! This is an exciting time to join the company, with a fantastic opportunity for personal and career progression.\n\n\nThe Role\n\n\n\nWe are looking for a senior developer to work on DeepPoint, our multi-sensory LiDAR and Camera security solution powered by Deep Learning. \n\n\nRequirements \n\n \n\nCoding:\n\n3+ Years experience with python\nHigh level of experience with numpy\nComfortable with Python2 and Python3 (we are 99% python3)\nExperience with django \nExperience with high performance python, distributed computing, IPC, multiprocessing, queues, buffers\nComfortable profiling and debugging deep performance issues\n  \n\nOperational:\n\nExcellent knowledge of git\nExcellent linux commandline knowledge\nExcellent system administration knowledge\nComfortable writing tests and using gitlab and CI system\nComfortable mentoring juniors and helping them grow\n \n\n Bonus but not essential:\n\n Experience with Cython and JIT compilation\nExperience / Knowledge of C\nExperience with Keras and Tensorflow\nHTML/CSS/Javascript proficiency\n\nBenefits \n\n\nSalary £60,000 - £80,000 (Depending on experience\nOffice Location – Google Offices, Ropemaker Street\nWorking hours – 9:00am – 5:00pm\nFlexible working = +/- 2hours (i.e. 7:00am – 3:00pm, 11:00am – 7:00pm)\nWorking from home – Optional every Friday\n25 days holiday\nAn additional day off on your birthday\nFREE lunch provided every Monday\nTraining & Development opportunities",
+      "descriptionHtml": "<p>About Us</p>\n\n<p>RAMM Science is an Artificial Intelligence (AI) and Blockchain enterprise software solutions start-up. We believe in the ethical use of frontier technology to make business more efficient, create new markets, accelerate scientific discovery and help make the world a better place.</p>\n\n<p>With large financial backing and customers across the globe, we are now entering a phase of rapid growth. As part of this growth, we are looking to expand our team with talented people who want to join us on our rocket ship! This is an exciting time to join the company, with a fantastic opportunity for personal and career progression.</p>\n\n<p>The Role</p>\n\n<p>We are looking for a senior developer to work on DeepPoint, our multi-sensory LiDAR and Camera security solution powered by Deep Learning. </p>\n\n<p>Requirements </p>\n\n<p>Coding:</p>\n\n<p>3+ Years experience with python<br>\nHigh level of experience with numpy<br>\nComfortable with Python2 and Python3 (we are 99% python3)<br>\nExperience with django <br>\nExperience with high performance python, distributed computing, IPC, multiprocessing, queues, buffers<br>\nComfortable profiling and debugging deep performance issues</p>\n\n<p>Operational:</p>\n\n<p>Excellent knowledge of git<br>\nExcellent linux commandline knowledge<br>\nExcellent system administration knowledge<br>\nComfortable writing tests and using gitlab and CI system<br>\nComfortable mentoring juniors and helping them grow</p>\n\n<p>Bonus but not essential:</p>\n\n<p>Experience with Cython and JIT compilation<br>\nExperience / Knowledge of C<br>\nExperience with Keras and Tensorflow<br>\nHTML/CSS/Javascript proficiency</p>\n\n<p>Benefits </p>\n\n<p>Salary £60,000 - £80,000 (Depending on experience<br>\nOffice Location – Google Offices, Ropemaker Street<br>\nWorking hours – 9:00am – 5:00pm<br>\nFlexible working = +/- 2hours (i.e. 7:00am – 3:00pm, 11:00am – 7:00pm)<br>\nWorking from home – Optional every Friday<br>\n25 days holiday<br>\nAn additional day off on your birthday<br>\nFREE lunch provided every Monday<br>\nTraining &amp; Development opportunities</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Django",
+        "Linux",
+        "Numpy",
+        "Gitlab"
+      ],
+      "payment": {
+        "salary": "£60k – £80k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/momin-hashmee",
+        "name": "Momin Hashmee",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "440469",
+        "angelListUrl": "https://angel.co/company/ramm-science/jobs/440469-"
+      }
+    }
+  ]
+}

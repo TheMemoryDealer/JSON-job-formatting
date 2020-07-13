@@ -1,0 +1,120 @@
+{
+  "name": "FULL FABRIC",
+  "avatar": "https://photos.angel.co/startups/i/85044-0babad2470a79af710f07716d7dc1eb5-medium_jpg.jpg?buster=1483469513",
+  "slogan": "Helping Top Universities Around the Globe Deliver a World-Class Education Experience",
+  "description": "Helping Top Universities Around the Globe Deliver a World-Class Education Experience",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://fullfabric.com"
+    },
+    {
+      "type": "blog",
+      "url": "http://fullfabric.com/blog"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/fullfabric"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Education",
+    "CRM",
+    "Data Integration",
+    "User Experience Design"
+  ],
+  "employees": "SIZE_11_50",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/tania-roquette",
+      "name": "Tania Roquette",
+      "avatar": "https://photos.angel.co/users/120514-medium_jpg?1464080844",
+      "bioHtml": "Marketing &amp; Sales Director at <a href=\"https://angel.co/company/full-fabric\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">FULL FABRIC</span></a>. Strong experience in the education industry."
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/luis_ca",
+      "name": "Luis Corrêa d'Almeida",
+      "avatar": "https://photos.angel.co/users/21509-medium_jpg?1405451287",
+      "bioHtml": "Founder at <a href=\"https://angel.co/company/full-fabric\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">FULL FABRIC</span></a>. I experiment on the Internet. I design experiences and develop solutions that solve real problems."
+    },
+    {
+      "title": "People and Culture Manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/ines-alves-4",
+      "name": "Inês Alves",
+      "avatar": "https://photos.angel.co/users/9189118-medium_jpg?1588599401",
+      "bioHtml": "Worked at FULL FABRIC"
+    },
+    {
+      "title": "Product manager",
+      "role": "Employee",
+      "url": "https://angel.co/u/nicholas-merican",
+      "name": "Nicholas Merican",
+      "avatar": "https://photos.angel.co/users/715290-medium_jpg?1502386882",
+      "bioHtml": "Product manager at FULL FABRIC, a student relationship management system for universities.  Aerospace engineering masters graduate, University of Bristol."
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "85044",
+    "angelListUrl": "https://angel.co/company/full-fabric"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Infrastructure Engineer",
+      "description": "We are looking for a **Freelance** Infrastructure Engineer \r\n\r\n⏱ Short-term project: Up to a month (part-time or full-time)\r\n💻 Skillset: AWS, Terraform, Ansible \r\n🌎 From anywhere in **Portugal**",
+      "descriptionHtml": "<p>We are looking for a <strong>Freelance</strong> Infrastructure Engineer </p>\n\n<p>⏱ Short-term project: Up to a month (part-time or full-time)<br>\n💻 Skillset: AWS, Terraform, Ansible <br>\n🌎 From anywhere in <strong>Portugal</strong></p>\n",
+      "position": "contract",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "Portugal"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Ansible",
+        "AWS",
+        "Terraform"
+      ],
+      "payment": {
+        "salary": "€30k – €40k"
+      },
+      "recruiter": {
+        "title": "People and Culture Manager",
+        "role": "Employee",
+        "url": "https://angel.co/u/ines-alves-4",
+        "name": "Inês Alves",
+        "avatar": "https://photos.angel.co/users/9189118-medium_jpg?1588599401"
+      },
+      "refs": {
+        "angelListId": "809587",
+        "angelListUrl": "https://angel.co/company/full-fabric/jobs/809587-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "name": "earwig",
+  "avatar": "https://photos.angel.co/startups/i/4164225-72a5d850355d30de46d4779e89955430-medium_jpg.jpg?buster=1566988387",
+  "slogan": "earwig is a worker voice platform empowering tradespeople to own their work culture",
+  "description": "earwig's mission is to give all workers the information and tools they need to fulfil their potential.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.earwigwork.com/"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/earwiggers/"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/in/harrisonmooreartist/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Construction"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 50000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1556668800,
+        "valuation": 333333
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1502409600,
+        "valuation": 67000
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/harrison-moore-1",
+      "name": "Harrison Moore",
+      "avatar": "https://photos.angel.co/users/6465558-medium_jpg?1576062965",
+      "bioHtml": "Founder of earwig. Electrician, artist, book lover. Entrepreneurial zeal and creative flare. Central Saint Martins (BA); Royal College of Art (MA)."
+    },
+    {
+      "title": "Finance",
+      "role": "Employee",
+      "url": "https://angel.co/u/pontus-denlew",
+      "name": "Pontus Denlew",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "COO earwig. Previous experience in Finance, Law &amp; Tech (Nomura Investment Bank, Norton Rose Fulbright, Bloomberg) MSc Finance &amp; Accounting Imperial College"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "4164225",
+    "angelListUrl": "https://angel.co/company/earwigwork"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Tech lead/co-founder wanted for UK's first professional home for construction temps",
+      "description": "Dear future tech lead/co-founder\r\n\r\nIf you’re happiest when building and testing often, if you’re looking to pursue both creative and entrepreneurial goals, if you’re out for your next opportunity to impact peoples' lives for the better, then we’d like to talk to you.\r\n\r\n### We are earwig and we are empowering tradespeople across the UK to unleash their potential\r\n\r\n**There's a communication problem in construction**. Tradespeople on temporary contracts (some 800,000+) are suffering from chronic job insecurity and poor working conditions with little power to effect change. 56% of construction firms use agency workers to plug gaps in and grow their workforce on demand. Firms use a multi-tier contracting structure where 1,500+ agencies sit between them and the workers.\r\n\r\nTo add an additional layer of complexity, these agencies outsource payroll and **vary drastically in terms of performance**. Poor worksite conditions and bad management combined with short job durations further exacerbate workers' insecurity.\r\n\r\n**Tradespeople don’t have the info they need to choose great jobs** (and avoid the worst), while firms don’t have the info they need to create great working conditions and attract talent.\r\n\r\nWe think this needs to be better because:\r\n1. 93% of 400 tradespeople we surveyed said the fragmentation worsens their job insecurity\r\n2. Firms have told us they’re losing £1 million a year per project on ‘worker churn’ and they don’t know how to stop it\r\n3. Construction affects everyone, shaping our built environment, influencing how we live and the quality of our lives\r\n\r\nThat's why we're building earwig: the UK’s first professional home for tradespeople on temporary contracts. Connected for the first time, workers search jobs and provide feedback about the performance of agencies, firms and worksites. By being given the tools to make their voices heard—sharing detailed, relevant reviews—and getting rewarded for helping each other via tools and training, a powerful incentive to join the platform is created.\r\n\r\nTo monetise, agencies and firms pay to claim their profiles, post jobs, access the reviews and benchmark against competitors. These powerful insights help firms audit their supply chains efficiently and promote their brand or worksite to attract and retain the best workers in the industry.\r\n\r\nWe know we’ve got a lot to learn but we have a clear mission and we’re committed to it. We’ve signed up almost 1,000 tradespeople, raised £50k from Bethnal Green Ventures and InnovationRCA, built an MVP, completed 55+ hours of 1-2-1 user-testing, landed paid pilots with two of the UK’s largest contractors and much more.\r\n\r\nWe're looking for someone to join our team as tech lead/co-founder. We have code but this will need to be rewritten so this is a green-field opportunity for you. Talking to people and running UX/problem/solution interviews is your bread and butter.\r\n\r\n### What you'll be leading\r\n\r\nDon’t worry if this is a step up for you. We know you’ve got what it takes.\r\n1. Determining our tech strategy\r\n2. Shaping ideas into tech designs and solutions\r\n3. Optimising our dev processes\r\n4. Steering our tech governance\r\n\r\nYou’re probably good at:\r\n1. Coding and building web and native apps\r\n2. Translating ideas between product strategy, design and software engineering\r\n3. Prototyping and iterating as a team\r\n4. Communicating the best technical direction\r\n\r\nWe’re a two-person team at the moment—one from construction and one from finance—and we work at InnovationRCA in Battersea, London. We’re ambitious, we care about people and we believe great teams are made not born.\r\n\r\nWe don’t mind remote working but you will need to meet us in London quite often.\r\n\r\nIf this sounds like you, get in touch, letting us know why you believe you’re the one.\r\n\r\nMany thanks\r\nHarrison Moore\r\nCEO\r\nharrison@earwigwork.com",
+      "descriptionHtml": "<p>Dear future tech lead/co-founder</p>\n\n<p>If you’re happiest when building and testing often, if you’re looking to pursue both creative and entrepreneurial goals, if you’re out for your next opportunity to impact peoples&#39; lives for the better, then we’d like to talk to you.</p>\n<h3>We are earwig and we are empowering tradespeople across the UK to unleash their potential</h3>\n<p><strong>There&#39;s a communication problem in construction</strong>. Tradespeople on temporary contracts (some 800,000+) are suffering from chronic job insecurity and poor working conditions with little power to effect change. 56% of construction firms use agency workers to plug gaps in and grow their workforce on demand. Firms use a multi-tier contracting structure where 1,500+ agencies sit between them and the workers.</p>\n\n<p>To add an additional layer of complexity, these agencies outsource payroll and <strong>vary drastically in terms of performance</strong>. Poor worksite conditions and bad management combined with short job durations further exacerbate workers&#39; insecurity.</p>\n\n<p><strong>Tradespeople don’t have the info they need to choose great jobs</strong> (and avoid the worst), while firms don’t have the info they need to create great working conditions and attract talent.</p>\n\n<p>We think this needs to be better because:</p>\n\n<ol>\n<li>93% of 400 tradespeople we surveyed said the fragmentation worsens their job insecurity</li>\n<li>Firms have told us they’re losing £1 million a year per project on ‘worker churn’ and they don’t know how to stop it</li>\n<li>Construction affects everyone, shaping our built environment, influencing how we live and the quality of our lives</li>\n</ol>\n\n<p>That&#39;s why we&#39;re building earwig: the UK’s first professional home for tradespeople on temporary contracts. Connected for the first time, workers search jobs and provide feedback about the performance of agencies, firms and worksites. By being given the tools to make their voices heard—sharing detailed, relevant reviews—and getting rewarded for helping each other via tools and training, a powerful incentive to join the platform is created.</p>\n\n<p>To monetise, agencies and firms pay to claim their profiles, post jobs, access the reviews and benchmark against competitors. These powerful insights help firms audit their supply chains efficiently and promote their brand or worksite to attract and retain the best workers in the industry.</p>\n\n<p>We know we’ve got a lot to learn but we have a clear mission and we’re committed to it. We’ve signed up almost 1,000 tradespeople, raised £50k from Bethnal Green Ventures and InnovationRCA, built an MVP, completed 55+ hours of 1-2-1 user-testing, landed paid pilots with two of the UK’s largest contractors and much more.</p>\n\n<p>We&#39;re looking for someone to join our team as tech lead/co-founder. We have code but this will need to be rewritten so this is a green-field opportunity for you. Talking to people and running UX/problem/solution interviews is your bread and butter.</p>\n<h3>What you&#39;ll be leading</h3>\n<p>Don’t worry if this is a step up for you. We know you’ve got what it takes.</p>\n\n<ol>\n<li>Determining our tech strategy</li>\n<li>Shaping ideas into tech designs and solutions</li>\n<li>Optimising our dev processes</li>\n<li>Steering our tech governance</li>\n</ol>\n\n<p>You’re probably good at:</p>\n\n<ol>\n<li>Coding and building web and native apps</li>\n<li>Translating ideas between product strategy, design and software engineering</li>\n<li>Prototyping and iterating as a team</li>\n<li>Communicating the best technical direction</li>\n</ol>\n\n<p>We’re a two-person team at the moment—one from construction and one from finance—and we work at InnovationRCA in Battersea, London. We’re ambitious, we care about people and we believe great teams are made not born.</p>\n\n<p>We don’t mind remote working but you will need to meet us in London quite often.</p>\n\n<p>If this sounds like you, get in touch, letting us know why you believe you’re the one.</p>\n\n<p>Many thanks<br>\nHarrison Moore<br>\nCEO<br>\n<a href=\"mailto:harrison@earwigwork.com\" target=\"_blank\" rel=\"nofollow\">harrison@earwigwork.com</a></p>\n",
+      "position": "cofounder",
+      "experience": 4,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£30k – £60k",
+        "equity": "5.0% – 20.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/harrison-moore-1",
+        "name": "Harrison Moore",
+        "avatar": "https://photos.angel.co/users/6465558-medium_jpg?1576062965"
+      },
+      "refs": {
+        "angelListId": "774420",
+        "angelListUrl": "https://angel.co/company/earwigwork/jobs/774420-"
+      }
+    }
+  ]
+}

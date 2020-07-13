@@ -1,0 +1,151 @@
+{
+  "name": "Decision Tech",
+  "avatar": "https://photos.angel.co/startups/i/6197974-12c48055a9433edd4138198386d79d59-medium_jpg.jpg?buster=1534947866",
+  "slogan": "We're a comparisons service provider",
+  "description": "We know that data is a seriously valuable asset, and unlocking the information it contains is at the heart of delivering a great service to our customers.\n\nWe design, build and utilise cloud-based, scalable, modular, microservice components – smart tech - to track, collect and analyse an enormous number of data points, giving us, and other businesses, insight on the entire purchasing process.\n\nWe can learn about what our customers are looking for, and why, and gain knowledge regarding the decision-making patterns followed.\n\nCoupled with the wealth of product and price data we receive from providers and companies both current and historic, our data architecture allows businesses the opportunity to identify valuable marketing, commercial, and customer trends. This critical data intelligence gives us - and our partners - the opportunity to make faster and smarter decisions for our businesses motivated by customer satisfaction and product monetisation.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://decision.tech/careers-at-decision-tech/"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "E-Commerce",
+    "Web Design",
+    "Software",
+    "Technology",
+    "Price Comparison",
+    "Web Development",
+    "Software Engineering",
+    "Website"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/chris-fitzpatrick-7",
+      "name": "Chris Fitzpatrick",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6197974",
+    "angelListUrl": "https://angel.co/company/decision-tech-3"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full Stack Developer",
+      "description": "Development Team Overview\r\n\r\nDecision Tech has a fun, fast paced and energetic culture. We follow the LEAN methodology, embrace ‘no-estimates’ and employ a highly skilled team of full stack Senior Developers. We adopt new technology and systemically remove technical debt. We focus on working software delivered to end users as our measure for success. We apply cutting edge KPI driven development practices while still upholding the principles of the Agile Manifesto and Test Driven Development practices. \r\n\r\nWe have ambitious plans for our price comparison products both improving our current online experiences and for new product verticals. We work to a flat structured team removing ego and status to quickly iterate, test, deploy and learn from our ideas. Our Developers build compelling user journeys and use technology to solve real comparison problems for our customers. \r\n\r\n\r\nYour role in the Dev Team\r\n\r\nAs a Developer in our Team you will be confident working anywhere in the dev stack. You will be surrounded by skilled and articulate technical peers to bounce ideas off. Perfect to help you gain experience to step up to a senior role. Our team encompasses integrated UX and Product specialist roles. The Team is constantly challenged to build the best products. You should have a passion for building sites that solve real problems for a user. You should be an articulate and driven individual. You need to be open to new approaches and feel comfortable supporting your opinions to your peers. Your friendly, professional and approachable demeanour make you easy to work with. You are a technologist, a people person, and passionate about writing great code. You relish solving complex problems and have an active say in growing the business.\r\n\r\nOur code\r\n\r\nMostly MVC.NET with some other technologies used where applicable. We host on AWS (VPC) and deploy several times daily through CI/CD. DevOps are handled on team. Our code base is thoroughly tested at 6 different levels including UI/HTML and JavaScript with minimal manual regression testing required. We use AngularJS to perform comparison in real time on the client’s browser. Our site is localised for 2 different territories. We use NoSQL data stores and leverage a service orientated architecture. Code is kept up to date and technical debt prioritised and removed. We use Git for source control and don’t allow feature branches! We are working on a development blog which will start raising the profile on some of these successes. We use every means possible to keep our developers focused on improving the product and not caught up in code spaghetti.\r\n\r\nThe keyword bit… Useful skills\r\nFull stack developer\r\nExperience with TDD, BDD and SOLID principles\r\nExperience of C# and the MVC framework.\r\nExperience with front end JavaScript technologies (AngularJS, JQuery or similar)\r\nStrong communication skills\r\nPragmatic approach and fast delivery of product\r\nKanban or Scrum or LEAN experience\r\nDesirable experience in customer facing web sites\r\nDesirable -Experience with Jasmine JS Unit testing\r\nDesirable -Knowledge of NoSQL databases\r\nCompany Overview\r\n\r\nDecision Tech is a performance marketing and data business. We generate high value, low cost leads for businesses and help customers choose the best products and services. \r\n\r\nWe operate a portfolio of products and digital brands to solve a range of consumer and advertiser problems; broadbandchoices.co.uk, which compares broadband and mobile packages, Sellmymobile.com, Comparemymobile.com and mobilephonechecker.co.uk which compare the best place to recycle your UK mobile phone. These brands are growing via our digital marketing, product and commercial monetization skills. \r\n\r\nOur lead comparison technology is also utilized by major brands such as Gocompare.com and Comparethemarket.com through our Partners network. \r\n\r\nWe are growing via acquisition, adding new businesses to our technology and marketing platform. It is an exciting time to join Decision Tech. \r\n\r\nOur ambitions are two-fold:\r\n\r\nFirstly, we have a crucial role in helping our customers make the most of their digital lives, from connectivity to entertainment packages and data management, it should be personalised and simple so you find the right solutions for you. \r\n\r\nSecondly, we connect our customers with service and hardware providers. We pride ourselves on introducing the right customers, at the right price. We’ve helped our customers to save hundreds of millions of pounds - a fact we are pretty proud of. \r\n\r\nWe are obsessed with performance. We want to match every single customer with the right provider, and, as we only get paid if our matches work we have an extra incentive to get it right, every time.\r\n\r\nPackage/Benefits:\r\n\r\n25 days holiday per year + bank holidays \r\nFree breakfast \r\nCompany Pension scheme \r\nPaid day off for your birthday \r\nFruit in the office \r\nAnnual season ticket loan \r\nSubsidised Gym membership \r\nFree massages \r\nChild Care voucher scheme \r\nMonthly Get Togethers \r\nFootball Club \r\nCycle to work scheme \r\nPS4 in our breakout area \r\nRunning Club Cinema Club",
+      "descriptionHtml": "<p>Development Team Overview</p>\n\n<p>Decision Tech has a fun, fast paced and energetic culture. We follow the LEAN methodology, embrace ‘no-estimates’ and employ a highly skilled team of full stack Senior Developers. We adopt new technology and systemically remove technical debt. We focus on working software delivered to end users as our measure for success. We apply cutting edge KPI driven development practices while still upholding the principles of the Agile Manifesto and Test Driven Development practices. </p>\n\n<p>We have ambitious plans for our price comparison products both improving our current online experiences and for new product verticals. We work to a flat structured team removing ego and status to quickly iterate, test, deploy and learn from our ideas. Our Developers build compelling user journeys and use technology to solve real comparison problems for our customers. </p>\n\n<p>Your role in the Dev Team</p>\n\n<p>As a Developer in our Team you will be confident working anywhere in the dev stack. You will be surrounded by skilled and articulate technical peers to bounce ideas off. Perfect to help you gain experience to step up to a senior role. Our team encompasses integrated UX and Product specialist roles. The Team is constantly challenged to build the best products. You should have a passion for building sites that solve real problems for a user. You should be an articulate and driven individual. You need to be open to new approaches and feel comfortable supporting your opinions to your peers. Your friendly, professional and approachable demeanour make you easy to work with. You are a technologist, a people person, and passionate about writing great code. You relish solving complex problems and have an active say in growing the business.</p>\n\n<p>Our code</p>\n\n<p>Mostly MVC.NET with some other technologies used where applicable. We host on AWS (VPC) and deploy several times daily through CI/CD. DevOps are handled on team. Our code base is thoroughly tested at 6 different levels including UI/HTML and JavaScript with minimal manual regression testing required. We use AngularJS to perform comparison in real time on the client’s browser. Our site is localised for 2 different territories. We use NoSQL data stores and leverage a service orientated architecture. Code is kept up to date and technical debt prioritised and removed. We use Git for source control and don’t allow feature branches! We are working on a development blog which will start raising the profile on some of these successes. We use every means possible to keep our developers focused on improving the product and not caught up in code spaghetti.</p>\n\n<p>The keyword bit… Useful skills<br>\nFull stack developer<br>\nExperience with TDD, BDD and SOLID principles<br>\nExperience of C# and the MVC framework.<br>\nExperience with front end JavaScript technologies (AngularJS, JQuery or similar)<br>\nStrong communication skills<br>\nPragmatic approach and fast delivery of product<br>\nKanban or Scrum or LEAN experience<br>\nDesirable experience in customer facing web sites<br>\nDesirable -Experience with Jasmine JS Unit testing<br>\nDesirable -Knowledge of NoSQL databases<br>\nCompany Overview</p>\n\n<p>Decision Tech is a performance marketing and data business. We generate high value, low cost leads for businesses and help customers choose the best products and services. </p>\n\n<p>We operate a portfolio of products and digital brands to solve a range of consumer and advertiser problems; broadbandchoices.co.uk, which compares broadband and mobile packages, Sellmymobile.com, Comparemymobile.com and mobilephonechecker.co.uk which compare the best place to recycle your UK mobile phone. These brands are growing via our digital marketing, product and commercial monetization skills. </p>\n\n<p>Our lead comparison technology is also utilized by major brands such as Gocompare.com and Comparethemarket.com through our Partners network. </p>\n\n<p>We are growing via acquisition, adding new businesses to our technology and marketing platform. It is an exciting time to join Decision Tech. </p>\n\n<p>Our ambitions are two-fold:</p>\n\n<p>Firstly, we have a crucial role in helping our customers make the most of their digital lives, from connectivity to entertainment packages and data management, it should be personalised and simple so you find the right solutions for you. </p>\n\n<p>Secondly, we connect our customers with service and hardware providers. We pride ourselves on introducing the right customers, at the right price. We’ve helped our customers to save hundreds of millions of pounds - a fact we are pretty proud of. </p>\n\n<p>We are obsessed with performance. We want to match every single customer with the right provider, and, as we only get paid if our matches work we have an extra incentive to get it right, every time.</p>\n\n<p>Package/Benefits:</p>\n\n<p>25 days holiday per year + bank holidays <br>\nFree breakfast <br>\nCompany Pension scheme <br>\nPaid day off for your birthday <br>\nFruit in the office <br>\nAnnual season ticket loan <br>\nSubsidised Gym membership <br>\nFree massages <br>\nChild Care voucher scheme <br>\nMonthly Get Togethers <br>\nFootball Club <br>\nCycle to work scheme <br>\nPS4 in our breakout area <br>\nRunning Club Cinema Club</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Holborn"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "CSS",
+        "C#",
+        "Ravendb",
+        "Mvc",
+        "AngularJS",
+        "Google Cloud Platform",
+        "AWS",
+        ".NET Core"
+      ],
+      "payment": {
+        "salary": "£40k – £65k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/chris-fitzpatrick-7",
+        "name": "Chris Fitzpatrick",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "415896",
+        "angelListUrl": "https://angel.co/company/decision-tech-3/jobs/415896-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Senior Full Stack Developer",
+      "description": "Decision Tech has a fun, fast paced and energetic culture. We follow the LEAN methodology, embrace ‘no-estimates’ and employ a highly skilled team of full stack Senior Developers. We adopt new technology and systemically remove technical debt. We focus on working software delivered to end users as our measure for success. We apply cutting edge KPI driven development practices while still upholding the principles of the Agile Manifesto and Test Driven Development practices. \n\nWe have ambitious plans for our price comparison products both improving our current online experiences and for new product verticals. We work to a flat structured team removing ego and status to quickly iterate, test, deploy and learn from our ideas. Our Developers build compelling user journeys and use technology to solve real comparison problems for our customers. \n\n\nYour role in the Dev Team\n\nAs a Developer in our Team you will be confident working anywhere in the dev stack. You will be surrounded by skilled and articulate technical peers to bounce ideas off. Our team encompasses integrated UX and Product specialist roles. The Team is constantly challenged to build the best products. You should have a passion for building sites that solve real problems for a user. You should be an articulate and driven individual. You need to be open to new approaches and feel comfortable supporting your opinions to your peers. Your friendly, professional and approachable demeanour make you easy to work with. You are a technologist, a people person, and passionate about writing great code. You relish solving complex problems and have an active say in growing the business.\n\nOur code\n\nMostly MVC.NET with some other technologies used where applicable. We host on AWS (VPC) and deploy several times daily through CI/CD. DevOps are handled on team. Our code base is thoroughly tested at 6 different levels including UI/HTML and JavaScript with minimal manual regression testing required. We use AngularJS to perform comparison in real time on the client’s browser. Our site is localised for 2 different territories. We use NoSQL data stores and leverage a service orientated architecture. Code is kept up to date and technical debt prioritised and removed. We use Git for source control and don’t allow feature branches! We are working on a development blog which will start raising the profile on some of these successes. We use every means possible to keep our developers focused on improving the product and not caught up in code spaghetti.\n\nThey keyword bit… Useful skills\nFull stack developer with 5 years professional experience\nAdvanced experience with TDD, BDD and SOLID principles\nAdvanced experience implementing Continuous Integration (TeamCity or similar)\nAdvanced experience of C# and the MVC framework.\nExperience with front end JavaScript technologies (AngularJS, JQuery or similar)\nProven experience in customer facing web sites\nStrong communication skills, with a track record of leadership, technical or man management\nPragmatic approach and fast delivery of product\nKanban or Scrum or LEAN experience\nDesirable -Experience with Jasmine JS Unit testing\nDesirable -Knowledge of NoSQL databases\nCompany Overview\n\nDecision Tech is a performance marketing and data business. We generate high value, low cost leads for businesses and help customers choose the best products and services. \n\nWe operate a portfolio of products and digital brands to solve a range of consumer and advertiser problems; broadbandchoices.co.uk, which compares broadband and mobile packages, Sellmymobile.com, Comparemymobile.com and mobilephonechecker.co.uk which compare the best place to recycle your UK mobile phone. These brands are growing via our digital marketing, product and commercial monetization skills. \n\nOur lead comparison technology is also utilized by major brands such as Gocompare.com and Comparethemarket.com through our Partners network. \n\nWe are growing via acquisition, adding new businesses to our technology and marketing platform. It is an exciting time to join Decision Tech. \n\nOur ambitions are two-fold:\n\nFirstly, we have a crucial role in helping our customers make the most of their digital lives, from connectivity to entertainment packages and data management, it should be personalised and simple so you find the right solutions for you. \n\nSecondly, we connect our customers with service and hardware providers. We pride ourselves on introducing the right customers, at the right price. We’ve helped our customers to save hundreds of millions of pounds - a fact we are pretty proud of. \n\nWe are obsessed with performance. We want to match every single customer with the right provider, and, as we only get paid if our matches work we have an extra incentive to get it right, every time.\n\nWe work hard to get the right people on board and have created an exceptional culture in which you can flourish. We celebrate fresh ideas, enthusiasm and motivation – and seek staff who will bring these qualities and more.\n\nPackage/Benefits:\n\n25 days holiday per year + bank holidays \nFree breakfast \nCompany Pension scheme \nPaid day off for your birthday \nFruit in the office \nAnnual season ticket loan \nSubsidised Gym membership \nFree massages \nChild Care voucher scheme \nMonthly Get Togethers \nFootball Club \nCycle to work scheme \nPS4 in our breakout area \nRunning Club \nCinema Club",
+      "descriptionHtml": "<p>Decision Tech has a fun, fast paced and energetic culture. We follow the LEAN methodology, embrace ‘no-estimates’ and employ a highly skilled team of full stack Senior Developers. We adopt new technology and systemically remove technical debt. We focus on working software delivered to end users as our measure for success. We apply cutting edge KPI driven development practices while still upholding the principles of the Agile Manifesto and Test Driven Development practices. </p>\n\n<p>We have ambitious plans for our price comparison products both improving our current online experiences and for new product verticals. We work to a flat structured team removing ego and status to quickly iterate, test, deploy and learn from our ideas. Our Developers build compelling user journeys and use technology to solve real comparison problems for our customers. </p>\n\n<p>Your role in the Dev Team</p>\n\n<p>As a Developer in our Team you will be confident working anywhere in the dev stack. You will be surrounded by skilled and articulate technical peers to bounce ideas off. Our team encompasses integrated UX and Product specialist roles. The Team is constantly challenged to build the best products. You should have a passion for building sites that solve real problems for a user. You should be an articulate and driven individual. You need to be open to new approaches and feel comfortable supporting your opinions to your peers. Your friendly, professional and approachable demeanour make you easy to work with. You are a technologist, a people person, and passionate about writing great code. You relish solving complex problems and have an active say in growing the business.</p>\n\n<p>Our code</p>\n\n<p>Mostly MVC.NET with some other technologies used where applicable. We host on AWS (VPC) and deploy several times daily through CI/CD. DevOps are handled on team. Our code base is thoroughly tested at 6 different levels including UI/HTML and JavaScript with minimal manual regression testing required. We use AngularJS to perform comparison in real time on the client’s browser. Our site is localised for 2 different territories. We use NoSQL data stores and leverage a service orientated architecture. Code is kept up to date and technical debt prioritised and removed. We use Git for source control and don’t allow feature branches! We are working on a development blog which will start raising the profile on some of these successes. We use every means possible to keep our developers focused on improving the product and not caught up in code spaghetti.</p>\n\n<p>They keyword bit… Useful skills<br>\nFull stack developer with 5 years professional experience<br>\nAdvanced experience with TDD, BDD and SOLID principles<br>\nAdvanced experience implementing Continuous Integration (TeamCity or similar)<br>\nAdvanced experience of C# and the MVC framework.<br>\nExperience with front end JavaScript technologies (AngularJS, JQuery or similar)<br>\nProven experience in customer facing web sites<br>\nStrong communication skills, with a track record of leadership, technical or man management<br>\nPragmatic approach and fast delivery of product<br>\nKanban or Scrum or LEAN experience<br>\nDesirable -Experience with Jasmine JS Unit testing<br>\nDesirable -Knowledge of NoSQL databases<br>\nCompany Overview</p>\n\n<p>Decision Tech is a performance marketing and data business. We generate high value, low cost leads for businesses and help customers choose the best products and services. </p>\n\n<p>We operate a portfolio of products and digital brands to solve a range of consumer and advertiser problems; broadbandchoices.co.uk, which compares broadband and mobile packages, Sellmymobile.com, Comparemymobile.com and mobilephonechecker.co.uk which compare the best place to recycle your UK mobile phone. These brands are growing via our digital marketing, product and commercial monetization skills. </p>\n\n<p>Our lead comparison technology is also utilized by major brands such as Gocompare.com and Comparethemarket.com through our Partners network. </p>\n\n<p>We are growing via acquisition, adding new businesses to our technology and marketing platform. It is an exciting time to join Decision Tech. </p>\n\n<p>Our ambitions are two-fold:</p>\n\n<p>Firstly, we have a crucial role in helping our customers make the most of their digital lives, from connectivity to entertainment packages and data management, it should be personalised and simple so you find the right solutions for you. </p>\n\n<p>Secondly, we connect our customers with service and hardware providers. We pride ourselves on introducing the right customers, at the right price. We’ve helped our customers to save hundreds of millions of pounds - a fact we are pretty proud of. </p>\n\n<p>We are obsessed with performance. We want to match every single customer with the right provider, and, as we only get paid if our matches work we have an extra incentive to get it right, every time.</p>\n\n<p>We work hard to get the right people on board and have created an exceptional culture in which you can flourish. We celebrate fresh ideas, enthusiasm and motivation – and seek staff who will bring these qualities and more.</p>\n\n<p>Package/Benefits:</p>\n\n<p>25 days holiday per year + bank holidays <br>\nFree breakfast <br>\nCompany Pension scheme <br>\nPaid day off for your birthday <br>\nFruit in the office <br>\nAnnual season ticket loan <br>\nSubsidised Gym membership <br>\nFree massages <br>\nChild Care voucher scheme <br>\nMonthly Get Togethers <br>\nFootball Club <br>\nCycle to work scheme <br>\nPS4 in our breakout area <br>\nRunning Club <br>\nCinema Club</p>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Holborn"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "CSS",
+        "C#",
+        "Kanban",
+        "Ravendb",
+        "Mvc",
+        "TDD",
+        "AngularJS",
+        "Google Cloud Platform",
+        "AWS",
+        "SASS/LESS",
+        "Paired Programming",
+        ".NET Core"
+      ],
+      "payment": {
+        "salary": "£65k – £75k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/chris-fitzpatrick-7",
+        "name": "Chris Fitzpatrick",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "415899",
+        "angelListUrl": "https://angel.co/company/decision-tech-3/jobs/415899-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Firedrop",
+  "avatar": "https://photos.angel.co/startups/i/1149544-d7a45172fc80b0536a09bb5f948b1ce3-medium_jpg.jpg?buster=1528238734",
+  "slogan": "Automating design using artificial intelligence",
+  "description": "We help companies to automate design processes, allowing creative and design teams to do more, at lower cost, in less time. We have developed a suite of proprietary A.I.-based technologies that can:\n\n- Automatically learn how to design according to a company's brand \n- Automatically generate variants of designs at scale \n- Automatically source and recommend creative assets \n- Automate and streamline the layers of process between designer and stakeholder\n\nOur technology has already helped companies achieved massive cost savings - into the hundreds of millions in some cases.\n\nWe work primarily with enterprise-scale businesses and larger SMEs in a diverse range of industries spanning FMCG multinationals through to creative marketing agencies. If there is a design component to the business, we can work with them.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://firedrop.ai"
+    },
+    {
+      "type": "blog",
+      "url": "https://blog.firedrop.ai"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/firedropai"
+    },
+    {
+      "type": "facebook",
+      "url": "https://facebook.com/firedropai"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/firedrop"
+    },
+    {
+      "type": "productHunt",
+      "url": "https://www.producthunt.com/posts/firedrop"
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Artificial Intelligence",
+    "Technology",
+    "Creative Industries"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Lead Developer",
+      "role": "Founder",
+      "url": "https://angel.co/u/lex-de-ruijter",
+      "name": "Lex de Ruijter",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "CEO",
+      "role": "Founder",
+      "url": "https://angel.co/u/marccrouch",
+      "name": "Marc Crouch",
+      "avatar": "https://photos.angel.co/users/2269098-medium_jpg?1525787911",
+      "bioHtml": "Founder <a href=\"https://angel.co/company/firedrop-ai\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Firedrop</span></a>, passionate about cutting edge technology, artificial intelligence and the application of technology to creative fields."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/firedrop-recruitment",
+      "name": "Firedrop Recruitment",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": "A.I. Director",
+      "role": "Employee",
+      "url": "https://angel.co/u/sagar-joglekar",
+      "name": "Sagar Joglekar",
+      "avatar": "https://photos.angel.co/users/2272959-medium_jpg?1493831369",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "1149544",
+    "angelListUrl": "https://angel.co/company/firedrop-ai"
+  },
+  "jobs": []
+}

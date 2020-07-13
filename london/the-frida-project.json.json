@@ -1,0 +1,123 @@
+{
+  "name": "The Frida Project",
+  "avatar": "https://photos.angel.co/startups/i/5478716-466182bde411bb67b819665e40f7558d-medium_jpg.jpg?buster=1542490261",
+  "slogan": "Join programs for emotional strength and self-development, guided by licensed therapists",
+  "description": "The Frida Project is a mobile app for wellbeing and personal development.\n\nWe offer online support group programs via our mobile app, which combine the benefits of peer support with the quality of professional guidance from certified therapists and life coaches. \n\nOur support groups match users into their perfect peer group for learning and personal growth, to be guided together by qualified professionals, over a 4 week programme.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.thefridaproject.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Mental Health",
+    "Health and Wellness",
+    "Corporate Wellness",
+    "Human Resources"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Co-Founder & CTO",
+      "role": "Founder",
+      "url": "https://angel.co/u/vrgimael",
+      "name": "Victor R Gimael",
+      "avatar": "https://photos.angel.co/users/7641645-medium_jpg?1534961596",
+      "bioHtml": "Co-Founder <a href=\"https://angel.co/company/codeleap\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">CodeLeap</span></a> "
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5478716",
+    "angelListUrl": "https://angel.co/company/the-frida-project"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Experienced data scientist / cyber security / backend python developer",
+      "description": "Did you know?\nApproximately 1 in 4 people in the UK will experience a mental health problem each year.  However, reports suggest that only 1 in 8 adults with a mental health condition are currently receiving treatment​.\n\nWhat we do:\nThe Frida Project is an online community for women's self-care and wellbeing. We provide online mental health support groups and workshops guided by professional therapists and coaches in specific areas (anxiety, stress, etc…).\n\nOur goal is to remove the stigma around mental health and self-care by creating a fun, relaxed and anonymous environment where people are encouraged to share their experiences and learn from each other in groups guided by certified professionals, while also making it more affordable so more people can benefit.\n\nHow we work:\n- We are a very agile, bureaucracy-free environment\n- We like people that have a lot of initiative and do things on their own\n- We love people that are passionate about what they do\n- We don’t believe in rigid working hours\n- We don’t really require that people come to our office either (but you kinda have to be around so we can have meetings and stuff)\n- We do, however, believe work must be fun! (VERY IMPORTANT)\n\nWhere we’re at:\nWe are currently a team of 4 young entrepreneurs, half of which being on the tech side. We only started operating about 6 months ago, but we’re growing fast and are looking to hire at least two more developers before the end of the year.\n\nThe role:\nWe need a very, very talented and competent software engineer to effectively take some of the CTOs responsibilities, mostly in managing and developing the backend (Python/Django) and making sure it works securely. You will play a key role in building important features that people use every day.\n\nWe’re ideally looking for a flexible developer that could also work on any of our tech areas (including front-end) and preferably has experience with cyber security and data science to improve the algorithms and analytics in the backend.\n\f\nMust have experience:\n- Cyber Security\n- Django\n- Python\n\nNice to have experience:\n- Data science & machine learning\n- Building analytics tools\n- JavaScript & web development\n- React-Native\n- Mobile development\n- Amazon Web Services\n- Agile (Kanban) workspaces\n- PostgreSQL\n\nLast words:\n- Must have the right to work in the UK\n- Position to start in October/November 2018 (negotiable)\n- Although the platform is designed for women we are open to applicants of any gender",
+      "descriptionHtml": "<p>Did you know?<br>\nApproximately 1 in 4 people in the UK will experience a mental health problem each year.  However, reports suggest that only 1 in 8 adults with a mental health condition are currently receiving treatment​.</p>\n\n<p>What we do:<br>\nThe Frida Project is an online community for women&#39;s self-care and wellbeing. We provide online mental health support groups and workshops guided by professional therapists and coaches in specific areas (anxiety, stress, etc…).</p>\n\n<p>Our goal is to remove the stigma around mental health and self-care by creating a fun, relaxed and anonymous environment where people are encouraged to share their experiences and learn from each other in groups guided by certified professionals, while also making it more affordable so more people can benefit.</p>\n\n<p>How we work:</p>\n\n<ul>\n<li>We are a very agile, bureaucracy-free environment</li>\n<li>We like people that have a lot of initiative and do things on their own</li>\n<li>We love people that are passionate about what they do</li>\n<li>We don’t believe in rigid working hours</li>\n<li>We don’t really require that people come to our office either (but you kinda have to be around so we can have meetings and stuff)</li>\n<li>We do, however, believe work must be fun! (VERY IMPORTANT)</li>\n</ul>\n\n<p>Where we’re at:<br>\nWe are currently a team of 4 young entrepreneurs, half of which being on the tech side. We only started operating about 6 months ago, but we’re growing fast and are looking to hire at least two more developers before the end of the year.</p>\n\n<p>The role:<br>\nWe need a very, very talented and competent software engineer to effectively take some of the CTOs responsibilities, mostly in managing and developing the backend (Python/Django) and making sure it works securely. You will play a key role in building important features that people use every day.</p>\n\n<p>We’re ideally looking for a flexible developer that could also work on any of our tech areas (including front-end) and preferably has experience with cyber security and data science to improve the algorithms and analytics in the backend.<br>\n\f<br>\nMust have experience:</p>\n\n<ul>\n<li>Cyber Security</li>\n<li>Django</li>\n<li>Python</li>\n</ul>\n\n<p>Nice to have experience:</p>\n\n<ul>\n<li>Data science &amp; machine learning</li>\n<li>Building analytics tools</li>\n<li>JavaScript &amp; web development</li>\n<li>React-Native</li>\n<li>Mobile development</li>\n<li>Amazon Web Services</li>\n<li>Agile (Kanban) workspaces</li>\n<li>PostgreSQL</li>\n</ul>\n\n<p>Last words:</p>\n\n<ul>\n<li>Must have the right to work in the UK</li>\n<li>Position to start in October/November 2018 (negotiable)</li>\n<li>Although the platform is designed for women we are open to applicants of any gender</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Django",
+        "Analytics",
+        "Cyber Security",
+        "Data Science"
+      ],
+      "payment": {
+        "salary": "£30k – £50k",
+        "equity": "0.0% – 3.0%"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "416018",
+        "angelListUrl": "https://angel.co/company/the-frida-project/jobs/416018-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "React-native / mobile / frontend developer",
+      "description": "Did you know?\nApproximately 1 in 4 people in the UK will experience a mental health problem each year.  However, reports suggest that only 1 in 8 adults with a mental health condition are currently receiving treatment​.\n\nWhat we do:\nThe Frida Project is an online community for women's self-care and wellbeing. We provide online mental health support groups and workshops guided by professional therapists and coaches in specific areas (anxiety, stress, etc…).\n\nOur goal is to remove the stigma around mental health and self-care by creating a fun, relaxed and anonymous environment where people are encouraged to share their experiences and learn from each other in groups guided by certified professionals, while also making it more affordable so more people can benefit.\n\nHow we work:\n- We are a very agile, bureaucracy-free environment\n- We like people that have a lot of initiative and do things on their own\n- We love people that are passionate about what they do\n- We don’t believe in rigid working hours\n- We don’t really require that people come to our office either (but you kinda have to be around so we can have meetings and stuff)\n- We do, however, believe work must be fun! (VERY IMPORTANT)\n\nWhere we’re at:\nWe are currently a team of 4 young entrepreneurs, half of which being on the tech side. We only started operating about 6 months ago, but we’re growing fast and are looking to hire at least two more developers before the end of the year.\n\nThe role:\nWe need a very talented and passionate developer to build beautiful, pixel perfect user interfaces (React-Native) along with all front-end logic (JavaScript), connecting the app to the APIs and managing local data. You will play a key role in building important features that people use everyday and will have the opportunity to craft an amazing user experience.\n\nWe’re ideally looking for a flexible software engineer who could also work on (or at least have an understanding of) native iOS and/or Android development for when react-native’s magic doesn’t work very well. Interest in design and animation is also an advantage.\n\f\nMust have experience:\n- Frontend development\n- React-Native\n- JavaScript, HTML & CSS\n- UI/UX design\n\n\nNice to have experience:\n- Native mobile development (iOS and/or Android)\n- React-Redux\n- UI & E2E testing\n- Node.js\n- RESTful APIs\n\n\nLast words:\n- Must have the right to work in the UK\n- Position to start in October/November 2018 (negotiable)\n- Although the platform is designed for women we are open to applicants of any gender",
+      "descriptionHtml": "<p>Did you know?<br>\nApproximately 1 in 4 people in the UK will experience a mental health problem each year.  However, reports suggest that only 1 in 8 adults with a mental health condition are currently receiving treatment​.</p>\n\n<p>What we do:<br>\nThe Frida Project is an online community for women&#39;s self-care and wellbeing. We provide online mental health support groups and workshops guided by professional therapists and coaches in specific areas (anxiety, stress, etc…).</p>\n\n<p>Our goal is to remove the stigma around mental health and self-care by creating a fun, relaxed and anonymous environment where people are encouraged to share their experiences and learn from each other in groups guided by certified professionals, while also making it more affordable so more people can benefit.</p>\n\n<p>How we work:</p>\n\n<ul>\n<li>We are a very agile, bureaucracy-free environment</li>\n<li>We like people that have a lot of initiative and do things on their own</li>\n<li>We love people that are passionate about what they do</li>\n<li>We don’t believe in rigid working hours</li>\n<li>We don’t really require that people come to our office either (but you kinda have to be around so we can have meetings and stuff)</li>\n<li>We do, however, believe work must be fun! (VERY IMPORTANT)</li>\n</ul>\n\n<p>Where we’re at:<br>\nWe are currently a team of 4 young entrepreneurs, half of which being on the tech side. We only started operating about 6 months ago, but we’re growing fast and are looking to hire at least two more developers before the end of the year.</p>\n\n<p>The role:<br>\nWe need a very talented and passionate developer to build beautiful, pixel perfect user interfaces (React-Native) along with all front-end logic (JavaScript), connecting the app to the APIs and managing local data. You will play a key role in building important features that people use everyday and will have the opportunity to craft an amazing user experience.</p>\n\n<p>We’re ideally looking for a flexible software engineer who could also work on (or at least have an understanding of) native iOS and/or Android development for when react-native’s magic doesn’t work very well. Interest in design and animation is also an advantage.<br>\n\f<br>\nMust have experience:</p>\n\n<ul>\n<li>Frontend development</li>\n<li>React-Native</li>\n<li>JavaScript, HTML &amp; CSS</li>\n<li>UI/UX design</li>\n</ul>\n\n<p>Nice to have experience:</p>\n\n<ul>\n<li>Native mobile development (iOS and/or Android)</li>\n<li>React-Redux</li>\n<li>UI &amp; E2E testing</li>\n<li>Node.js</li>\n<li>RESTful APIs</li>\n</ul>\n\n<p>Last words:</p>\n\n<ul>\n<li>Must have the right to work in the UK</li>\n<li>Position to start in October/November 2018 (negotiable)</li>\n<li>Although the platform is designed for women we are open to applicants of any gender</li>\n</ul>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Node.js",
+        "Mobile Development",
+        "UI/UX Design",
+        "React Native"
+      ],
+      "payment": {
+        "salary": "£25k – £40k",
+        "equity": "0.0% – 2.0%"
+      },
+      "recruiter": {},
+      "refs": {
+        "angelListId": "416013",
+        "angelListUrl": "https://angel.co/company/the-frida-project/jobs/416013-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "name": "Katana Labs",
+  "avatar": "https://photos.angel.co/startups/i/7301299-697b19dbda437acb09daba13165642c3-medium_jpg.jpg?buster=1573148538",
+  "slogan": "Augmented intelligence in asset management",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.katanalabs.io"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Financial Services",
+    "Fin Tech",
+    "Financial Technology"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/androniki-menelaou",
+      "name": "Androniki Menelaou",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7301299",
+    "angelListUrl": "https://angel.co/company/katana-labs"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Full stack Developer",
+      "description": "Katana is an ING innovation project that is spinning out of the bank with backing from ING Ventures and other investors. The tool uses advanced analytics powered by machine learning to help investment teams discover relative value opportunities in the bond market. It has been used by a large asset manager since the first prototype release in April 2018 and by a growing number of other asset managers in the last few months. Katana has attracted considerable media attention and won prestigious awards for innovation in capital markets, including the “top Corporate Finance innovator 2019” by the Global Finance magazine. \nKatana is designed to help asset managers make better decisions. Portfolio managers find opportunities faster and execute profitable ideas that they would otherwise miss. Our purpose is to enhance the investment process with data driven insights and a superior user experience. There is no competing product in the market and our plan is to evolve into a relative value trading platform for bonds. \nWe are a dynamic early-stage start-up supported by large institutions as investors and clients. Our ambition over the next 24 months is to capitalise on our first mover advantage, develop the functionality to capture execution flow and scale up the business. \nThe team comprises of a UX designer, developers, data scientists and subject matter experts. We believe in putting together our strengths for developing a great product. The customer is at the centre of our product development and we incorporate design thinking, cloud technologies and AI algorithms. We strive to be lean, agile and learn continuously. We claim ownership as a team on every feature we define, develop and implement. We celebrate outcomes and not outputs.\nIf you would like to work in a London-based fintech at the core of the digital revolution in capital markets, in a small diverse team with big ambitions and can’t wait to see your creations become a product that users love, please read on!  \n\n*Your passion* \nAs an experienced developer you are excited by the prospect of building and maintaining the foundation on which our application is built. You are comfortable with using multiple languages as you believe in using the right tool for the right job. Leveraging them to build a resilient, high performing platform. Cloud native technologies and their strengths and challenges are known to you.\n\nAs a strong believer in DevOps practices, you work with our data scientists, UX’ers, frontend developers and the rest of our multidisciplinary team, to deliver complete features and improvements. You take ownership and pride in your work : from the first line of code, to automated tests and monitoring in production. You take a scientific approach to your work, only being content when it has been proven to add value to our customers.\n\nAs a true full stack developer, you like working on features front to back, on occasion making the frontend changes you need to complete your work. \nYou take a proactive stance towards our system. Actively seeking out improvements and participating in architectural discussions.\n\n\n*Our Stack*\nWithin Katana we mainly use the following technologies and frameworks:\n\n>Go\n>JavaScript (React, TypeScript)\n>Python\n>Kubernetes / Docker\n>Apache Beam\n>GitLab CI\n>Google Cloud Platform (GKE, Dataflow, Pub/Sub, BigQuery)\n\n\n*Do you recognise yourself in this profile?*\nRequired:\n>Bachelor’s Degree in Software Engineering / AI / Computer Science;\n>Strong programming skills in Go and Javascript. Familiarity with React, Python, and/or Apache Beam is a strong plus;\n>Proven proficiency with cloud technologies. Experience with Google Cloud Platform is a strong plus;\n>A DevOps mindset. You take ownership from the first line of code to monitoring in production; \n>You have a learning attitude. Not only to master new technologies and programming languages, but also on the interpersonal level. You are proven to be able to ask and give feedback;\n>You feel at home in a high-performing team and you make the other team members feel at home as well. You have the independence to speak up when needed;\n>Solid understanding GIT, CI/CD;\n>Strong problem-solving skills;\n>Fluent in written and spoken English;\n\n*Nice to have*:\n>Knowledge of Machine learning (preferred experience with real implementations), or at least strong affinity with it;\n>Experience with container-based development and Kubernetes;\n>Good understanding of big data technologies like Hadoop, Spark, Apache Beam;\n>Good understanding of streaming technologies like Google Pub/Sub and Apache Beam;\n>Good understanding of databases, both RDBMS (PostgreSQL) and non-SQL databases (e.g., BoltDB);\n>Good understanding of engineering tools like Docker and Kubernetes;\n>Experience in building 0-downtime applications / components;\n>Good understanding of automated testing frameworks;\n\n\n*What do we offer?*\nWorking at Katana means working in a dynamic and international setting. Individual development of our employees is very important and that is why we offer excellent courses and programs. If you become a member of our team, you will join a prestigious, no-nonsense and high-output data-science & engineering team. Diva behaviour is not tolerated, neither is underperformance. We only hire people with exceptional talents and capabilities! You will work on the most innovative projects within Katana. In addition we offer:\n\n>Fun!\n>Stock options\n>Working with highly skilled people\n>Working in a startup environment\n>A relaxed and energetic team\n>An International atmosphere\n>A full time position (40 hour week)\n>Great training and education opportunities\n>Developing a cloud native application",
+      "descriptionHtml": "<p>Katana is an ING innovation project that is spinning out of the bank with backing from ING Ventures and other investors. The tool uses advanced analytics powered by machine learning to help investment teams discover relative value opportunities in the bond market. It has been used by a large asset manager since the first prototype release in April 2018 and by a growing number of other asset managers in the last few months. Katana has attracted considerable media attention and won prestigious awards for innovation in capital markets, including the “top Corporate Finance innovator 2019” by the Global Finance magazine. <br>\nKatana is designed to help asset managers make better decisions. Portfolio managers find opportunities faster and execute profitable ideas that they would otherwise miss. Our purpose is to enhance the investment process with data driven insights and a superior user experience. There is no competing product in the market and our plan is to evolve into a relative value trading platform for bonds. <br>\nWe are a dynamic early-stage start-up supported by large institutions as investors and clients. Our ambition over the next 24 months is to capitalise on our first mover advantage, develop the functionality to capture execution flow and scale up the business. <br>\nThe team comprises of a UX designer, developers, data scientists and subject matter experts. We believe in putting together our strengths for developing a great product. The customer is at the centre of our product development and we incorporate design thinking, cloud technologies and AI algorithms. We strive to be lean, agile and learn continuously. We claim ownership as a team on every feature we define, develop and implement. We celebrate outcomes and not outputs.<br>\nIf you would like to work in a London-based fintech at the core of the digital revolution in capital markets, in a small diverse team with big ambitions and can’t wait to see your creations become a product that users love, please read on!  </p>\n\n<p><em>Your passion</em> <br>\nAs an experienced developer you are excited by the prospect of building and maintaining the foundation on which our application is built. You are comfortable with using multiple languages as you believe in using the right tool for the right job. Leveraging them to build a resilient, high performing platform. Cloud native technologies and their strengths and challenges are known to you.</p>\n\n<p>As a strong believer in DevOps practices, you work with our data scientists, UX’ers, frontend developers and the rest of our multidisciplinary team, to deliver complete features and improvements. You take ownership and pride in your work : from the first line of code, to automated tests and monitoring in production. You take a scientific approach to your work, only being content when it has been proven to add value to our customers.</p>\n\n<p>As a true full stack developer, you like working on features front to back, on occasion making the frontend changes you need to complete your work. <br>\nYou take a proactive stance towards our system. Actively seeking out improvements and participating in architectural discussions.</p>\n\n<p><em>Our Stack</em><br>\nWithin Katana we mainly use the following technologies and frameworks:</p>\n\n<blockquote>\n<p>Go<br>\nJavaScript (React, TypeScript)<br>\nPython<br>\nKubernetes / Docker<br>\nApache Beam<br>\nGitLab CI<br>\nGoogle Cloud Platform (GKE, Dataflow, Pub/Sub, BigQuery)</p>\n</blockquote>\n\n<p><em>Do you recognise yourself in this profile?</em><br>\nRequired:</p>\n\n<blockquote>\n<p>Bachelor’s Degree in Software Engineering / AI / Computer Science;<br>\nStrong programming skills in Go and Javascript. Familiarity with React, Python, and/or Apache Beam is a strong plus;<br>\nProven proficiency with cloud technologies. Experience with Google Cloud Platform is a strong plus;<br>\nA DevOps mindset. You take ownership from the first line of code to monitoring in production; <br>\nYou have a learning attitude. Not only to master new technologies and programming languages, but also on the interpersonal level. You are proven to be able to ask and give feedback;<br>\nYou feel at home in a high-performing team and you make the other team members feel at home as well. You have the independence to speak up when needed;<br>\nSolid understanding GIT, CI/CD;<br>\nStrong problem-solving skills;<br>\nFluent in written and spoken English;</p>\n</blockquote>\n\n<p><em>Nice to have</em>:</p>\n\n<blockquote>\n<p>Knowledge of Machine learning (preferred experience with real implementations), or at least strong affinity with it;<br>\nExperience with container-based development and Kubernetes;<br>\nGood understanding of big data technologies like Hadoop, Spark, Apache Beam;<br>\nGood understanding of streaming technologies like Google Pub/Sub and Apache Beam;<br>\nGood understanding of databases, both RDBMS (PostgreSQL) and non-SQL databases (e.g., BoltDB);<br>\nGood understanding of engineering tools like Docker and Kubernetes;<br>\nExperience in building 0-downtime applications / components;<br>\nGood understanding of automated testing frameworks;</p>\n</blockquote>\n\n<p><em>What do we offer?</em><br>\nWorking at Katana means working in a dynamic and international setting. Individual development of our employees is very important and that is why we offer excellent courses and programs. If you become a member of our team, you will join a prestigious, no-nonsense and high-output data-science &amp; engineering team. Diva behaviour is not tolerated, neither is underperformance. We only hire people with exceptional talents and capabilities! You will work on the most innovative projects within Katana. In addition we offer:</p>\n\n<blockquote>\n<p>Fun!<br>\nStock options<br>\nWorking with highly skilled people<br>\nWorking in a startup environment<br>\nA relaxed and energetic team<br>\nAn International atmosphere<br>\nA full time position (40 hour week)<br>\nGreat training and education opportunities<br>\nDeveloping a cloud native application</p>\n</blockquote>\n",
+      "position": "full-time",
+      "experience": 5,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Javascript",
+        "Machine Learning",
+        "Computer Science",
+        "Git",
+        "DevOps",
+        "Problem Solving",
+        "Google Cloud Platform",
+        "React.js",
+        "English language",
+        "Kubernetes",
+        "Go",
+        "Apache Beam",
+        "CI/CD"
+      ],
+      "payment": {
+        "salary": "£55k – £70k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/androniki-menelaou",
+        "name": "Androniki Menelaou",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "658892",
+        "angelListUrl": "https://angel.co/company/katana-labs/jobs/658892-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Front-end Developer",
+      "description": "Katana is designed to help asset managers make better decisions. Portfolio managers find opportunities faster and execute profitable ideas that they would otherwise miss. Our purpose is to enhance the investment process with data driven insights and a superior user experience. There is no competing product in the market and our plan is to evolve into a relative value trading platform for bonds. \nWe are a dynamic early-stage start-up supported by large institutions as investors and clients. Our ambition over the next 24 months is to capitalise on our first mover advantage, develop the functionality to capture execution flow and scale up the business. \nThe team comprises of a UX designer, developers, data scientists and subject matter experts. We believe in putting together our strengths for developing a great product. The customer is at the centre of our product development and we incorporate design thinking, cloud technologies and AI algorithms. We strive to be lean, agile and learn continuously. We claim ownership as a team on every feature we define, develop and implement. We celebrate outcomes and not outputs.\nIf you would like to work in a London-based fintech at the core of the digital revolution in capital markets, in a small diverse team with big ambitions and can’t wait to see your creations become a product that users love, please read on!  \n\nYour passion\nAs an experienced frontend developer with a good feeling for visual design, you are comfortable being the connecting link between our UX research and our end users. You help visually design the features and improvements we, as a team, identify and implement them in our innovative trading interface.\n\nArmed with a DevOps mindset, you work together with our data scientists, UX’ers, backend developers, and the rest of our multidisciplinary team, to deliver complete features and improvements. You take ownership and pride in your work: from the first line of code, to automated tests and monitoring in production. You take a scientific approach to your work, only being content when it has been proven to add value to our customers.\n\nNot afraid to step out of your comfort zone, you on occasion make the backend changes you need to our Go backend to be able to complete your work.\n\n\n*Our Stack*\nWithin Katana we mainly use the following technologies:\n\n>JavaScript (React, TypeScript)\n>Go\n>Python\n>Kubernetes / Docker\n>Apache Beam\n>GitLab CI\n>Google Cloud Platform (GKE, Dataflow, Pub/Sub, BigQuery)\n\n\n*Do you recognize yourself in this profile?*\n\n*Required:*\n>Strong JavaScript development skills;\n>Good proficiency with React or a comparable component-based framework;\n>Experience with- and affinity for visual design;\n>A DevOps mindset. You take ownership from the first line of code to monitoring in production;\n>You have a learning attitude. Not only to master new technologies and programming languages, but also on the interpersonal level. You are proven to be able to ask and give feedback;\n>You feel at home in a high-performing team and you make the other team members feel at home as well. You have the independence to speak up when needed;\n>Solid understanding GIT, CI/CD;\n>Strong problem-solving skills;\n>Fluent in written and spoken English;\n\n*Nice to have:*\n>Experience using TypeScript;\n>Experience with container-based development;\n>Backend experience, especially with Go, is a strong plus;\n\n\n*What do we offer?*\nWorking at Katana means working in a dynamic and international setting. Individual development of our employees is very important and that is why we offer excellent courses and programs. If you become a member of our team, you will join a prestigious, no-nonsense and high-output data-science & engineering team. Diva behaviour is not tolerated, neither is underperformance. We only hire people with exceptional talents and capabilities! You will work on the most innovative projects within Katana. In addition we offer:\n\n>Fun!\n>A competitive salary\n>Stock options\n>Working with highly skilled people\n>Working in a startup environment\n>A relaxed and energetic team\n>An International atmosphere\n>A full time position (40 hour week)\n>Great training and education opportunities\n>Developing a cloud native application",
+      "descriptionHtml": "<p>Katana is designed to help asset managers make better decisions. Portfolio managers find opportunities faster and execute profitable ideas that they would otherwise miss. Our purpose is to enhance the investment process with data driven insights and a superior user experience. There is no competing product in the market and our plan is to evolve into a relative value trading platform for bonds. <br>\nWe are a dynamic early-stage start-up supported by large institutions as investors and clients. Our ambition over the next 24 months is to capitalise on our first mover advantage, develop the functionality to capture execution flow and scale up the business. <br>\nThe team comprises of a UX designer, developers, data scientists and subject matter experts. We believe in putting together our strengths for developing a great product. The customer is at the centre of our product development and we incorporate design thinking, cloud technologies and AI algorithms. We strive to be lean, agile and learn continuously. We claim ownership as a team on every feature we define, develop and implement. We celebrate outcomes and not outputs.<br>\nIf you would like to work in a London-based fintech at the core of the digital revolution in capital markets, in a small diverse team with big ambitions and can’t wait to see your creations become a product that users love, please read on!  </p>\n\n<p>Your passion<br>\nAs an experienced frontend developer with a good feeling for visual design, you are comfortable being the connecting link between our UX research and our end users. You help visually design the features and improvements we, as a team, identify and implement them in our innovative trading interface.</p>\n\n<p>Armed with a DevOps mindset, you work together with our data scientists, UX’ers, backend developers, and the rest of our multidisciplinary team, to deliver complete features and improvements. You take ownership and pride in your work: from the first line of code, to automated tests and monitoring in production. You take a scientific approach to your work, only being content when it has been proven to add value to our customers.</p>\n\n<p>Not afraid to step out of your comfort zone, you on occasion make the backend changes you need to our Go backend to be able to complete your work.</p>\n\n<p><em>Our Stack</em><br>\nWithin Katana we mainly use the following technologies:</p>\n\n<blockquote>\n<p>JavaScript (React, TypeScript)<br>\nGo<br>\nPython<br>\nKubernetes / Docker<br>\nApache Beam<br>\nGitLab CI<br>\nGoogle Cloud Platform (GKE, Dataflow, Pub/Sub, BigQuery)</p>\n</blockquote>\n\n<p><em>Do you recognize yourself in this profile?</em></p>\n\n<p><em>Required:</em></p>\n\n<blockquote>\n<p>Strong JavaScript development skills;<br>\nGood proficiency with React or a comparable component-based framework;<br>\nExperience with- and affinity for visual design;<br>\nA DevOps mindset. You take ownership from the first line of code to monitoring in production;<br>\nYou have a learning attitude. Not only to master new technologies and programming languages, but also on the interpersonal level. You are proven to be able to ask and give feedback;<br>\nYou feel at home in a high-performing team and you make the other team members feel at home as well. You have the independence to speak up when needed;<br>\nSolid understanding GIT, CI/CD;<br>\nStrong problem-solving skills;<br>\nFluent in written and spoken English;</p>\n</blockquote>\n\n<p><em>Nice to have:</em></p>\n\n<blockquote>\n<p>Experience using TypeScript;<br>\nExperience with container-based development;<br>\nBackend experience, especially with Go, is a strong plus;</p>\n</blockquote>\n\n<p><em>What do we offer?</em><br>\nWorking at Katana means working in a dynamic and international setting. Individual development of our employees is very important and that is why we offer excellent courses and programs. If you become a member of our team, you will join a prestigious, no-nonsense and high-output data-science &amp; engineering team. Diva behaviour is not tolerated, neither is underperformance. We only hire people with exceptional talents and capabilities! You will work on the most innovative projects within Katana. In addition we offer:</p>\n\n<blockquote>\n<p>Fun!<br>\nA competitive salary<br>\nStock options<br>\nWorking with highly skilled people<br>\nWorking in a startup environment<br>\nA relaxed and energetic team<br>\nAn International atmosphere<br>\nA full time position (40 hour week)<br>\nGreat training and education opportunities<br>\nDeveloping a cloud native application</p>\n</blockquote>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/androniki-menelaou",
+        "name": "Androniki Menelaou",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "659501",
+        "angelListUrl": "https://angel.co/company/katana-labs/jobs/659501-"
+      }
+    }
+  ]
+}

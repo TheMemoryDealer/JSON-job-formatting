@@ -1,0 +1,150 @@
+{
+  "name": "Trainline",
+  "avatar": "https://photos.angel.co/startups/i/1096556-2e6119c9fac074f047efa78f192e186c-medium_jpg.jpg?buster=1585658161",
+  "slogan": "Change the way millions of people travel across Europe!",
+  "description": "Trainline is an innovative, tech business with a mission to bring together the world’s rail, coach and other travel services into one simple experience. We aim to make travel easier and more accessible, encouraging people to make more environmentally sustainable travel choices. We’re hugely proud to be the world’s leading independent rail and coach travel platform and rank among the highest-rated travel and ticketing apps globally. Today, we offer our customers travel to thousands of destinations in and across 45 countries in Europe and beyond. That’s more than £3.2 billion in ticket sales annually, and over 96 million visits to our apps and websites each month. In another major milestone, last summer Trainline listed on the London Stock Exchange and is now part of the FTSE 250.\n\n- Take a look at our open vacancies > https://jobs.lever.co/thetrainline",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.thetrainline.com/"
+    },
+    {
+      "type": "blog",
+      "url": "https://engineering.thetrainline.com/"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/thetrainline"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/thetrainlinecom/?fref=ts"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/96955?trk=tyah&trkinfo=clickedvertical%3acompany%2cclickedentityid%3a96955%2cidx%3a2-1-2%2ctarid%3a1461146354431%2ctas%3atrainline"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "Edinburgh",
+    "Paris"
+  ],
+  "marketTags": [
+    "Ecommerce",
+    "Transportation",
+    "Mobile"
+  ],
+  "employees": "SIZE_501_1000",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "Talent Acquisition Specialist ",
+      "role": "Employee",
+      "url": "https://angel.co/u/lily-kemp",
+      "name": "Lily Kemp",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Talent Acquisition Specialist  at Trainline"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/ben-ross-7",
+      "name": "Ben Ross",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/joe-krebs",
+      "name": "Joe Krebs",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "1096556",
+    "angelListUrl": "https://angel.co/company/trainline"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Web Engineer",
+      "description": "Our Mission 🚀\nTrainline is the leading independent rail and coach travel platform selling rail and coach tickets to millions of travellers worldwide.  Via our highly rated website and mobile app, people can seamlessly search, book and manage their journeys all in one place. We bring together millions of routes, fares and journey times from 260 rail and coach carriers across 45 countries.  We offer our customers the best price for their journey and smart, real time travel information on the go.  Our aim is to make rail and coach travel easier and more accessible, encouraging people to make more environmentally sustainable travel choices.\n \n\nTechnology @ Trainline \nOver half of our staff are technologists, we're changing the way that people travel through the use of high quality software and technological innovation.\n\nWe know that great software requires great coding practices. Trainline is used by millions of people every day, we process over 200 ticket sales per minute, and 80 million+ transactions per month. It simply would not be possible to move fast enough if we were not able to trust our engineers to produce code of the highest quality. Here are some key practices which we insist upon across our teams that allow us to release over 300 times per week.\n\nWe review code via pull requests ✔️\nWe pair smartly✔️\nWe advocate Test-Driven Development (TDD)✔️\nWe treat staging like production✔️\n\nIntroducing the Web team 👋\nOur web team are a key front end channel team. They own the web applications that allow our customers to buy a ticket ie. the web flows from home page to confirmation page across both Desktop Web and Mobile Web platforms. The team is split into small focused squads composed of engineers at varying seniority and a Team Lead, with an Engineering Manager overseeing strategic direction and delivery. The main stack is React/Redux, Node, Typescript, RxJS, with a focus on test driven development.\n\nAs a Senior Web Engineer at Trainline, here's some things you'll be working on... \n\n- Join a high performing, inclusive team - inspire people, own results\n- Work on checkout and payment pages for one of the largest ecommerce sites in the UK\n- Contribute to process improvements, iterating along the way\n- Operate in a full stack environment with a focus on clean, quality code\n- Improve upon, and build solutions for web performance, accessibility, web analytics, localisation, multi-currency support, and browser compatibility.\n\nWe'd love to hear from you if you.. 🔎\n- Consider yourself reliable, transparent and considerate\n- Thrive in a diverse, open and collaborative environment\n- Have strong understanding of functional programming and associated design patterns\n\nand you've worked on..\n- Highly scalable web applications, or high traffic web sites\n- Frontend and Backend systems\n- Reactjs, or significant Javascript experience with other libraries\n- Test driven javascript using Selenium and Jest\n\n\n\n\n\n\n\nOur Culture 🤗\nEverything begins with great people, as well as aptitude, we put a heavy emphasis on attitude.\nCoaches Over Heroes\n- We prioritise the focus on being one team over elevating the heroics of an individual, for us the true heroes are those individuals who are excellent at nurturing, coaching and generous in sharing their knowledge with others.\nWell-being\n- Everything that we do takes into account the morale of every member of our team, their opportunities for growth and for participation in exciting challenges.\nMentoring and Learning\n- We have a mentoring community that is constantly growing, we provide people with mentors or buddies from various teams.\nTrust\n- We hire awesome people capable of making smart decisions - empowerment is a great enabler of agility.\n\nWe value open expression at Trainline, we believe it’s the diversity of experience, backgrounds and perspectives of our employees that makes us who we are. We encourage everybody to play a part in changing the way people travel across the world.",
+      "descriptionHtml": "<p>Our Mission 🚀<br>\nTrainline is the leading independent rail and coach travel platform selling rail and coach tickets to millions of travellers worldwide.  Via our highly rated website and mobile app, people can seamlessly search, book and manage their journeys all in one place. We bring together millions of routes, fares and journey times from 260 rail and coach carriers across 45 countries.  We offer our customers the best price for their journey and smart, real time travel information on the go.  Our aim is to make rail and coach travel easier and more accessible, encouraging people to make more environmentally sustainable travel choices.</p>\n\n<p>Technology @ Trainline <br>\nOver half of our staff are technologists, we&#39;re changing the way that people travel through the use of high quality software and technological innovation.</p>\n\n<p>We know that great software requires great coding practices. Trainline is used by millions of people every day, we process over 200 ticket sales per minute, and 80 million+ transactions per month. It simply would not be possible to move fast enough if we were not able to trust our engineers to produce code of the highest quality. Here are some key practices which we insist upon across our teams that allow us to release over 300 times per week.</p>\n\n<p>We review code via pull requests ✔️<br>\nWe pair smartly✔️<br>\nWe advocate Test-Driven Development (TDD)✔️<br>\nWe treat staging like production✔️</p>\n\n<p>Introducing the Web team 👋<br>\nOur web team are a key front end channel team. They own the web applications that allow our customers to buy a ticket ie. the web flows from home page to confirmation page across both Desktop Web and Mobile Web platforms. The team is split into small focused squads composed of engineers at varying seniority and a Team Lead, with an Engineering Manager overseeing strategic direction and delivery. The main stack is React/Redux, Node, Typescript, RxJS, with a focus on test driven development.</p>\n\n<p>As a Senior Web Engineer at Trainline, here&#39;s some things you&#39;ll be working on... </p>\n\n<ul>\n<li>Join a high performing, inclusive team - inspire people, own results</li>\n<li>Work on checkout and payment pages for one of the largest ecommerce sites in the UK</li>\n<li>Contribute to process improvements, iterating along the way</li>\n<li>Operate in a full stack environment with a focus on clean, quality code</li>\n<li>Improve upon, and build solutions for web performance, accessibility, web analytics, localisation, multi-currency support, and browser compatibility.</li>\n</ul>\n\n<p>We&#39;d love to hear from you if you.. 🔎</p>\n\n<ul>\n<li>Consider yourself reliable, transparent and considerate</li>\n<li>Thrive in a diverse, open and collaborative environment</li>\n<li>Have strong understanding of functional programming and associated design patterns</li>\n</ul>\n\n<p>and you&#39;ve worked on..</p>\n\n<ul>\n<li>Highly scalable web applications, or high traffic web sites</li>\n<li>Frontend and Backend systems</li>\n<li>Reactjs, or significant Javascript experience with other libraries</li>\n<li>Test driven javascript using Selenium and Jest</li>\n</ul>\n\n<p>Our Culture 🤗<br>\nEverything begins with great people, as well as aptitude, we put a heavy emphasis on attitude.<br>\nCoaches Over Heroes</p>\n\n<ul>\n<li>We prioritise the focus on being one team over elevating the heroics of an individual, for us the true heroes are those individuals who are excellent at nurturing, coaching and generous in sharing their knowledge with others.\nWell-being</li>\n<li>Everything that we do takes into account the morale of every member of our team, their opportunities for growth and for participation in exciting challenges.\nMentoring and Learning</li>\n<li>We have a mentoring community that is constantly growing, we provide people with mentors or buddies from various teams.\nTrust</li>\n<li>We hire awesome people capable of making smart decisions - empowerment is a great enabler of agility.</li>\n</ul>\n\n<p>We value open expression at Trainline, we believe it’s the diversity of experience, backgrounds and perspectives of our employees that makes us who we are. We encourage everybody to play a part in changing the way people travel across the world.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Node.js",
+        "React.js",
+        "AWS",
+        "Webpack",
+        "Graph Ql"
+      ],
+      "payment": {
+        "salary": "£50k – £80k"
+      },
+      "recruiter": {
+        "title": "Talent Acquisition Manager (Engineering)",
+        "role": "Employee",
+        "url": "https://angel.co/u/jack-roberts-5",
+        "name": "Jack Roberts",
+        "avatar": "https://photos.angel.co/users/4419069-medium_jpg?1571148135"
+      },
+      "refs": {
+        "angelListId": "260193",
+        "angelListUrl": "https://angel.co/company/trainline/jobs/260193-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Web Engineer H/F",
+      "description": "Our Mission 🚀\nWe’re Trainline, Europe’s leading rail and coach travel app. We know travel’s better when there’s less stress and less time spent planning, therefore our aim is to bring together all rail, coach and other services into one simple experience, so customers get the best prices and smart, real time travel info on the go 🚝🚌🌎\n\nTechnology @ Trainline 👩‍💻👨‍💻\nOver half of our staff are technologists, we're changing the way that people travel through the use of high quality software and technological innovation.\n\nWe know that great software requires great coding practices. Trainline is used by millions of people every day, we process over 200 ticket sales per minute, and 80 million+ transactions per month. It simply would not be possible to move fast enough if we were not able to trust our engineers to produce code of the highest quality. Here are some key practices which we insist upon across our teams that allow us to release over 300 times per week.\n\nWe review code via pull requests ✔️\nWe pair smartly✔️\nWe advocate Test-Driven Development (TDD)✔️\nWe treat staging like production✔️\n\nIntroducing the Web team 👋\nOur web team are a key front end channel team. They own the web applications that allow our customers to buy a ticket ie. the web flows from home page to confirmation page across both Desktop Web and Mobile Web platforms. The team is split into small focused squads composed of engineers at varying seniority and a Team Lead, with an Engineering Manager overseeing strategic direction and delivery. The main stack is React/Redux, Node, Typescript, RxJS, with a focus on test driven development.\n\nAs a Web Engineer at Trainline, here's some things you'll be working on... \n\n- Join a high performing, inclusive team - inspire people, own results\n- Work on checkout and payment pages for one of the largest ecommerce sites in the UK\n- Contribute to process improvements, iterating along the way\n- Operate in a full stack environment with a focus on clean, quality code\n- Improve upon, and build solutions for web performance, accessibility, web analytics, localisation, multi-currency support, and browser compatibility.\n\nWe'd love to hear from you if you.. 🔎\n- Consider yourself reliable, transparent and considerate\n- Thrive in a diverse, open and collaborative environment\n- Have strong understanding of functional programming and associated design patters\n\nand you've worked on..\n- Highly scalable web applications, or high traffic web sites\n- Frontend and Backend systems\n- Reactjs, or significant Javascript experience with with other libraries\n- Test driven javascript using Selenium and Jest\n\nWhy should you join?\n- You will be working in a multi-cultural team with regular contact with our London office. We have over 48 nationalities across our 3 offices in Paris, London and Edinburgh who work closely together – an amazing chance to develop international experience.\n- We pay special attention to flexible working as we value a strong work/life balance.\n- Additionally, we have a range of benefits such as RTT, lunch vouchers, travel discounts but also a friendly and welcoming team environment\n\nSi vous n'avez pas un excellent niveau d'anglais, ne vous en faites pas. Nous travaillons dans un environnement où plusieurs langues et nationalités se côtoient, et nous vous proposerons des cours afin de renforcer vos compétences en anglais.\n\nOur Culture 🤗\nEverything begins with great people, as well as aptitude, we put a heavy emphasis on attitude.\nCoaches Over Heroes\n- We prioritise the focus on being one team over elevating the heroics of an individual, for us the true heroes are those individuals who are excellent at nurturing, coaching and generous in sharing their knowledge with others.\nWell-being\n- Everything that we do takes into account the morale of every member of our team, their opportunities for growth and for participation in exciting challenges.\nMentoring and Learning\n- We have a mentoring community that is constantly growing, we provide people with mentors or buddies from various teams.\nTrust\n- We hire awesome people capable of making smart decisions - empowerment is a great enabler of agility.\n\nWe value open expression at Trainline, we believe it’s the diversity of experience, backgrounds and perspectives of our employees that makes us who we are. We encourage everybody to play a part in changing the way people travel across the world.",
+      "descriptionHtml": "<p>Our Mission 🚀<br>\nWe’re Trainline, Europe’s leading rail and coach travel app. We know travel’s better when there’s less stress and less time spent planning, therefore our aim is to bring together all rail, coach and other services into one simple experience, so customers get the best prices and smart, real time travel info on the go 🚝🚌🌎</p>\n\n<p>Technology @ Trainline 👩‍💻👨‍💻<br>\nOver half of our staff are technologists, we&#39;re changing the way that people travel through the use of high quality software and technological innovation.</p>\n\n<p>We know that great software requires great coding practices. Trainline is used by millions of people every day, we process over 200 ticket sales per minute, and 80 million+ transactions per month. It simply would not be possible to move fast enough if we were not able to trust our engineers to produce code of the highest quality. Here are some key practices which we insist upon across our teams that allow us to release over 300 times per week.</p>\n\n<p>We review code via pull requests ✔️<br>\nWe pair smartly✔️<br>\nWe advocate Test-Driven Development (TDD)✔️<br>\nWe treat staging like production✔️</p>\n\n<p>Introducing the Web team 👋<br>\nOur web team are a key front end channel team. They own the web applications that allow our customers to buy a ticket ie. the web flows from home page to confirmation page across both Desktop Web and Mobile Web platforms. The team is split into small focused squads composed of engineers at varying seniority and a Team Lead, with an Engineering Manager overseeing strategic direction and delivery. The main stack is React/Redux, Node, Typescript, RxJS, with a focus on test driven development.</p>\n\n<p>As a Web Engineer at Trainline, here&#39;s some things you&#39;ll be working on... </p>\n\n<ul>\n<li>Join a high performing, inclusive team - inspire people, own results</li>\n<li>Work on checkout and payment pages for one of the largest ecommerce sites in the UK</li>\n<li>Contribute to process improvements, iterating along the way</li>\n<li>Operate in a full stack environment with a focus on clean, quality code</li>\n<li>Improve upon, and build solutions for web performance, accessibility, web analytics, localisation, multi-currency support, and browser compatibility.</li>\n</ul>\n\n<p>We&#39;d love to hear from you if you.. 🔎</p>\n\n<ul>\n<li>Consider yourself reliable, transparent and considerate</li>\n<li>Thrive in a diverse, open and collaborative environment</li>\n<li>Have strong understanding of functional programming and associated design patters</li>\n</ul>\n\n<p>and you&#39;ve worked on..</p>\n\n<ul>\n<li>Highly scalable web applications, or high traffic web sites</li>\n<li>Frontend and Backend systems</li>\n<li>Reactjs, or significant Javascript experience with with other libraries</li>\n<li>Test driven javascript using Selenium and Jest</li>\n</ul>\n\n<p>Why should you join?</p>\n\n<ul>\n<li>You will be working in a multi-cultural team with regular contact with our London office. We have over 48 nationalities across our 3 offices in Paris, London and Edinburgh who work closely together – an amazing chance to develop international experience.</li>\n<li>We pay special attention to flexible working as we value a strong work/life balance.</li>\n<li>Additionally, we have a range of benefits such as RTT, lunch vouchers, travel discounts but also a friendly and welcoming team environment</li>\n</ul>\n\n<p>Si vous n&#39;avez pas un excellent niveau d&#39;anglais, ne vous en faites pas. Nous travaillons dans un environnement où plusieurs langues et nationalités se côtoient, et nous vous proposerons des cours afin de renforcer vos compétences en anglais.</p>\n\n<p>Our Culture 🤗<br>\nEverything begins with great people, as well as aptitude, we put a heavy emphasis on attitude.<br>\nCoaches Over Heroes</p>\n\n<ul>\n<li>We prioritise the focus on being one team over elevating the heroics of an individual, for us the true heroes are those individuals who are excellent at nurturing, coaching and generous in sharing their knowledge with others.\nWell-being</li>\n<li>Everything that we do takes into account the morale of every member of our team, their opportunities for growth and for participation in exciting challenges.\nMentoring and Learning</li>\n<li>We have a mentoring community that is constantly growing, we provide people with mentors or buddies from various teams.\nTrust</li>\n<li>We hire awesome people capable of making smart decisions - empowerment is a great enabler of agility.</li>\n</ul>\n\n<p>We value open expression at Trainline, we believe it’s the diversity of experience, backgrounds and perspectives of our employees that makes us who we are. We encourage everybody to play a part in changing the way people travel across the world.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "Paris"
+      ],
+      "remote": true,
+      "remoteLocations": [
+        "France"
+      ],
+      "skills": [
+        "Node.js",
+        "React.js"
+      ],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "Talent Acquisition Manager (Engineering)",
+        "role": "Employee",
+        "url": "https://angel.co/u/jack-roberts-5",
+        "name": "Jack Roberts",
+        "avatar": "https://photos.angel.co/users/4419069-medium_jpg?1571148135"
+      },
+      "refs": {
+        "angelListId": "595523",
+        "angelListUrl": "https://angel.co/company/trainline/jobs/595523-"
+      }
+    }
+  ]
+}

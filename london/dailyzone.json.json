@@ -1,0 +1,112 @@
+{
+  "name": "DailyZone",
+  "avatar": "https://photos.angel.co/startups/i/7614547-e2154e8140e8b0491fdb6db5bacc0fa4-medium_jpg.jpg?buster=1586358907",
+  "slogan": "Your Personalised Meditation Zone",
+  "description": "DailyZone is a daily meditation app with an AI-backed sound engine for personalised meditation experience.\n\nIt is developed to create unique meditative sessions.\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://dailyzone.io"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": ""
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": ""
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Health and Wellness",
+    "Artificial Intelligence / Machine Learning",
+    "Music"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/can-ince",
+      "name": "Can Ince",
+      "avatar": "https://photos.angel.co/users/6542600-medium_jpg?1523183347",
+      "bioHtml": "Software Developer || Instrument Designer"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/gurkan-serbetci",
+      "name": "Gürkan Şerbetçi",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/ceren-karagul",
+      "name": "Ceren Ince",
+      "avatar": "https://photos.angel.co/users/3487203-medium_jpg?1564744427",
+      "bioHtml": "Digital Intelligence analyst with experience of business insight and data analytics. Involved in product testing, management and development of growth strategy"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "7614547",
+    "angelListUrl": "https://angel.co/company/dailyzone"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "SwiftUI Developer (Remote / 25 hours per week)",
+      "description": "DailyZone is a RnD startup that develops a generative audio engine for meditation. \r\n\r\nWe are currently looking for a junior/mid level front-end developer to polish the application and ship its client facing side to the users. The application is written Swift and the UI is written in SwiftUI so some experience on that end would be preferable \r\n\r\nIt's a 25 hours per week contract and a fully remote position. \r\n\r\nDrop us a message if you'd like to talk more about it",
+      "descriptionHtml": "<p>DailyZone is a RnD startup that develops a generative audio engine for meditation. </p>\n\n<p>We are currently looking for a junior/mid level front-end developer to polish the application and ship its client facing side to the users. The application is written Swift and the UI is written in SwiftUI so some experience on that end would be preferable </p>\n\n<p>It&#39;s a 25 hours per week contract and a fully remote position. </p>\n\n<p>Drop us a message if you&#39;d like to talk more about it</p>\n",
+      "position": "contract",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London",
+        "Istanbul"
+      ],
+      "remote": true,
+      "remoteLocations": [],
+      "skills": [
+        "Swift",
+        "SwiftUI"
+      ],
+      "payment": {
+        "salary": "$0k – $1k",
+        "equity": "1.0% – 3.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/can-ince",
+        "name": "Can Ince",
+        "avatar": "https://photos.angel.co/users/6542600-medium_jpg?1523183347"
+      },
+      "refs": {
+        "angelListId": "808904",
+        "angelListUrl": "https://angel.co/company/dailyzone/jobs/808904-"
+      }
+    }
+  ]
+}

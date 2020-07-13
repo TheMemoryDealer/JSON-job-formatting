@@ -1,0 +1,91 @@
+{
+  "name": "Browser London",
+  "avatar": "https://photos.angel.co/startups/i/576772-da3fb3f015995b25843b67ec8ef806ba-medium_jpg.jpg?buster=1483634212",
+  "slogan": "Making businesses more productive with digital tools and applications",
+  "description": "As an agency, we have successfully designed, developed and taken to market a succession of our own digital tools and applications. With over 80,000 users our Twine App is a great example of our work. At its core, Twine is a modular based intranet that helps big companies work like small ones by bringing teams, content and ideas together.\n\nOver the next 6 months, we're looking to extend Twine's capabilities and expand into new markets, hence we're looking to increase the team with like-minded thinkers. If you are interested then give Twine a try for yourself at https://signup.twinehr.com\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.browserlondon.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "SaaS"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/renemorency",
+      "name": "René Morency",
+      "avatar": "https://photos.angel.co/users/5329221-medium_jpg?1525261363",
+      "bioHtml": "15 years exp in tech, 10 at C-suite, founder @browsergroup @twineintranet <a href=\"https://angel.co/company/gloople\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Gloople</span></a>. Core beliefs lie in simplicity, consistency and meaningful design.\n\n\n"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "576772",
+    "angelListUrl": "https://angel.co/company/browser-london"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Lead Front-End Developer",
+      "description": "Working closely with our technical director and with the support of our cross-functional team, you will lead the front-end development of our clients' projects and play a crucial role in providing strategy and insight. From building bespoke SPAs and living pattern libraries for our clients in the security and intelligence sector to building more traditional content websites for government departments, you’ll help improve efficiency, streamline workflows and ultimately change the way these organisations operate. \n \nDay-to-day you’ll work on new and existing projects and be involved in our discovery, strategic planning, and development processes. Our projects are very diverse and will provide the opportunity to learn a wide variety of emerging technologies, engaging with both software and on occasion, its hardware counterpart. As we move towards the second half of the year you will have the opportunity to mentor new team members as we continue to expand the business.\n \nOur stack varies per project. As a team we’re currently using: ES6, React, Vue, Webpack, Babel, Gulp, Twig, Craft, Wordpress, Git, Sass, BEM, AWS, Docker, Laravel, Symfony and Go.\n\nWe are looking for someone who enjoys working in small cross-functional teams and who shares similar principles when it comes to collaborating and supporting one another. Ideally, you’ll have at least three years of experience working in an agency or product development role with modern industry standard languages and practices.\n \nYour previous experience will have given you the confidence to voice your opinion on subjects such as UX design, development processes, and choosing the right tools for the tasks ahead. It’s okay if you don’t have experience working in an agile environment, or participating in discovery workshops - with ten years behind us we can teach you everything you’ll need to know.\n \nPerhaps your entrepreneurial spirit has even led you to build a few web apps of your own, if so then you’ll fit right in at one of our bi-annual JAMS hackathons.",
+      "descriptionHtml": "<p>Working closely with our technical director and with the support of our cross-functional team, you will lead the front-end development of our clients&#39; projects and play a crucial role in providing strategy and insight. From building bespoke SPAs and living pattern libraries for our clients in the security and intelligence sector to building more traditional content websites for government departments, you’ll help improve efficiency, streamline workflows and ultimately change the way these organisations operate. </p>\n\n<p>Day-to-day you’ll work on new and existing projects and be involved in our discovery, strategic planning, and development processes. Our projects are very diverse and will provide the opportunity to learn a wide variety of emerging technologies, engaging with both software and on occasion, its hardware counterpart. As we move towards the second half of the year you will have the opportunity to mentor new team members as we continue to expand the business.</p>\n\n<p>Our stack varies per project. As a team we’re currently using: ES6, React, Vue, Webpack, Babel, Gulp, Twig, Craft, Wordpress, Git, Sass, BEM, AWS, Docker, Laravel, Symfony and Go.</p>\n\n<p>We are looking for someone who enjoys working in small cross-functional teams and who shares similar principles when it comes to collaborating and supporting one another. Ideally, you’ll have at least three years of experience working in an agency or product development role with modern industry standard languages and practices.</p>\n\n<p>Your previous experience will have given you the confidence to voice your opinion on subjects such as UX design, development processes, and choosing the right tools for the tasks ahead. It’s okay if you don’t have experience working in an agile environment, or participating in discovery workshops - with ten years behind us we can teach you everything you’ll need to know.</p>\n\n<p>Perhaps your entrepreneurial spirit has even led you to build a few web apps of your own, if so then you’ll fit right in at one of our bi-annual JAMS hackathons.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript"
+      ],
+      "payment": {
+        "salary": "£45k – £50k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Founder",
+        "url": "https://angel.co/u/renemorency",
+        "name": "René Morency",
+        "avatar": "https://photos.angel.co/users/5329221-medium_jpg?1525261363"
+      },
+      "refs": {
+        "angelListId": "552155",
+        "angelListUrl": "https://angel.co/company/browser-london/jobs/552155-"
+      }
+    }
+  ]
+}

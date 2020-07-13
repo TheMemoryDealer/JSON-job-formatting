@@ -1,0 +1,164 @@
+{
+  "name": "Second Nature",
+  "avatar": "https://photos.angel.co/startups/i/998929-330c6bf6d3c11943b55019325f783a92-medium_jpg.jpg?buster=1584696015",
+  "slogan": "Using the science of habit change, we're working for a world free of chronic conditions",
+  "description": "Obesity has become a global epidemic; in the UK, we spend £9 billion a year alone on diseases like type 2 diabetes (that’s 10% of the NHS budget). What’s shocking is most of this is preventable – through sustained lifestyle and habit change.\n\nEnter Second Nature.\n\nWe’re here to help people take control of their health. By bringing together behavioural science, technology, and incredible people, our grand mission is to eradicate the global epidemic of chronic lifestyle diseases once and for all.\n\nOur digital habit change programme – delivered digitally through mobile and web apps – helps people to improve their lifestyle, lose weight, and ultimately reduce their risk for conditions such as type 2 diabetes.\n\nWe’re also one of the few consumer health brands that are also actively commissioned by the NHS (for us, it’s to help people living with type 2 diabetes).\n\nOur Stage:\nWe have just closed our Series A fundraising (Dec 2019). We have a team of 75 people, which will continue to expand over the coming years.\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://www.secondnature.io"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.secondnature.io/guides"
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/sn_health2"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/secondnature.io"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/3305270"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Healthcare",
+    "Health Care Information Technology",
+    "Personal Health",
+    "Technology",
+    "Health and Wellness",
+    "Mobile Application",
+    "Diabetes"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 14336092,
+    "rounds": [
+      {
+        "type": "Series A",
+        "closedAt": 1576800000,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1533859200,
+        "valuation": 0
+      },
+      {
+        "type": "Seed",
+        "closedAt": 1493596800,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": "Co-founder & President",
+      "role": "Founder",
+      "url": "https://angel.co/u/mike-gibbs-2",
+      "name": "Mike Gibbs",
+      "avatar": "https://photos.angel.co/users/5041290-medium_jpg?1505142796",
+      "bioHtml": "Founder @ourpath"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/jivan-virdee",
+      "name": "Jivan Virdee",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": "Product Manager at OurPath"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/daniel-james-27",
+      "name": "Daniel James",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/michael-whitman-2",
+      "name": "Michael Whitman",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "998929",
+    "angelListUrl": "https://angel.co/company/secondnature_health"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Senior Software Engineer",
+      "description": "**Our mission**\r\n\r\nObesity has become a global epidemic; in the UK, we spend £9 billion a year alone on diseases like type 2 diabetes (that’s 10% of the NHS budget). What’s shocking is most of this is preventable – through sustained lifestyle and habit change.\r\n\r\nEnter Second Nature.\r\n\r\nWe’re here to help people take control of their health. By bringing together behavioural science, technology, and incredible people, our grand mission is to eradicate the global epidemic of chronic lifestyle diseases once and for all.\r\n\r\nOur digital habit change programme – delivered digitally through mobile and web apps – helps people to improve their lifestyle, lose weight, and ultimately reduce their risk for conditions such as type 2 diabetes.\r\n\r\nWe’re also one of the few consumer health brands that are also actively commissioned by the NHS (for us, it’s to help people living with type 2 diabetes).\r\n\r\n**Our Stage**\r\nWe have just closed our Series A fundraising (Dec 2019). We have a team of 80 people, which will continue to expand over the coming years.\r\n\r\nYou can find out more about working with us [here](https://www.secondnature.io/about-us).\r\n\r\n**The role**\r\nYou’ll architect and build features across our whole product. You’ll work closely with our health coaching and growth teams to fully understand our users. You’ll mentor junior engineers as the leader in your pod. You’ll leave your mark on our engineering culture with your technical leadership. You will keep growing yourself.\r\n\r\n**Who you are**\r\n* You have 4+ years of software engineering experience\r\n* You want to build a product that changes people’s lives\r\n* You take ownership of product features from inception to release\r\n* You are thorough and take pride in your work\r\n* You appreciate software design as a craft but make pragmatic decisions when needed\r\n* You build iteratively so you can see features in the hands of users within days\r\n* You embrace being a generalist, working on both frontend and backend\r\n* You adapt and enjoy the ride in a fast-changing start up environment\r\n* You are empathetic, thoughtful and dedicated\r\n* You never stop learning\r\n\r\n**As a bonus, we’d love it if you tick any of these boxes**\r\n* You have a deep understanding of Node.js\r\n* You have experience building complex infrastructure on AWS\r\n* You have experience monitoring production infrastructure and applications\r\n* You have have implemented lean management practices in your previous teams\r\n\r\n**And, if you’re interested, this is our all-JavaScript tech stack**\r\n* React Native for iOS and Android apps\r\n* Node.js + Express for our API servers\r\n* MongoDB our main database\r\n* Next.js for our web frontend\r\n\r\n**How to apply**\r\nThis position is available to start immediately (but we can wait with notice periods for the right person). If you believe you’re a good fit, please a CV and cover letter via this link: https://apply.workable.com/j/82293A9E57",
+      "descriptionHtml": "<p><strong>Our mission</strong></p>\n\n<p>Obesity has become a global epidemic; in the UK, we spend £9 billion a year alone on diseases like type 2 diabetes (that’s 10% of the NHS budget). What’s shocking is most of this is preventable – through sustained lifestyle and habit change.</p>\n\n<p>Enter Second Nature.</p>\n\n<p>We’re here to help people take control of their health. By bringing together behavioural science, technology, and incredible people, our grand mission is to eradicate the global epidemic of chronic lifestyle diseases once and for all.</p>\n\n<p>Our digital habit change programme – delivered digitally through mobile and web apps – helps people to improve their lifestyle, lose weight, and ultimately reduce their risk for conditions such as type 2 diabetes.</p>\n\n<p>We’re also one of the few consumer health brands that are also actively commissioned by the NHS (for us, it’s to help people living with type 2 diabetes).</p>\n\n<p><strong>Our Stage</strong><br>\nWe have just closed our Series A fundraising (Dec 2019). We have a team of 80 people, which will continue to expand over the coming years.</p>\n\n<p>You can find out more about working with us <a href=\"https://www.secondnature.io/about-us\" target=\"_blank\" rel=\"nofollow\">here</a>.</p>\n\n<p><strong>The role</strong><br>\nYou’ll architect and build features across our whole product. You’ll work closely with our health coaching and growth teams to fully understand our users. You’ll mentor junior engineers as the leader in your pod. You’ll leave your mark on our engineering culture with your technical leadership. You will keep growing yourself.</p>\n\n<p><strong>Who you are</strong></p>\n\n<ul>\n<li>You have 4+ years of software engineering experience</li>\n<li>You want to build a product that changes people’s lives</li>\n<li>You take ownership of product features from inception to release</li>\n<li>You are thorough and take pride in your work</li>\n<li>You appreciate software design as a craft but make pragmatic decisions when needed</li>\n<li>You build iteratively so you can see features in the hands of users within days</li>\n<li>You embrace being a generalist, working on both frontend and backend</li>\n<li>You adapt and enjoy the ride in a fast-changing start up environment</li>\n<li>You are empathetic, thoughtful and dedicated</li>\n<li>You never stop learning</li>\n</ul>\n\n<p><strong>As a bonus, we’d love it if you tick any of these boxes</strong></p>\n\n<ul>\n<li>You have a deep understanding of Node.js</li>\n<li>You have experience building complex infrastructure on AWS</li>\n<li>You have experience monitoring production infrastructure and applications</li>\n<li>You have have implemented lean management practices in your previous teams</li>\n</ul>\n\n<p><strong>And, if you’re interested, this is our all-JavaScript tech stack</strong></p>\n\n<ul>\n<li>React Native for iOS and Android apps</li>\n<li>Node.js + Express for our API servers</li>\n<li>MongoDB our main database</li>\n<li>Next.js for our web frontend</li>\n</ul>\n\n<p><strong>How to apply</strong><br>\nThis position is available to start immediately (but we can wait with notice periods for the right person). If you believe you’re a good fit, please a CV and cover letter via this link: <a href=\"https://apply.workable.com/j/82293A9E57\" target=\"_blank\" rel=\"nofollow\">https://apply.workable.com/j/82293A9E57</a></p>\n",
+      "position": "full-time",
+      "experience": 4,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": ""
+      },
+      "recruiter": {
+        "title": "EA & People Operations Manager",
+        "role": "Employee",
+        "url": "https://angel.co/u/stella-9",
+        "name": "Stella Arenillas",
+        "avatar": "https://photos.angel.co/users/8174357-medium_jpg?1547725205"
+      },
+      "refs": {
+        "angelListId": "708178",
+        "angelListUrl": "https://angel.co/company/secondnature_health/jobs/708178-"
+      }
+    },
+    {
+      "role": "Operations",
+      "title": "Dietitian Manager and Registered Dietitian",
+      "description": "**Dietitian Manager and Registered Dietitian at Second Nature (OurPath Ltd)**\r\n\r\n\r\nObesity has become a global epidemic; in the UK, we spend £9 billion a year alone on diseases like type 2 diabetes (that’s 10% of the NHS budget). What’s shocking is most of this is preventable – through sustained lifestyle and habit change.\r\n\r\nEnter Second Nature.\r\n\r\nWe’re here to help people take control of their health. By bringing together behavioural science, technology, and incredible people, our grand mission is to eradicate the global epidemic of chronic lifestyle diseases once and for all.\r\n\r\nOur digital habit change programme – delivered digitally through mobile and web apps – helps people to improve their lifestyle, lose weight, and ultimately reduce their risk for conditions such as type 2 diabetes.\r\n\r\nWe’re also one of the few consumer health brands that are also actively commissioned by the NHS (for us, it’s to help people living with type 2 diabetes).\r\n\r\n**Our Stage**\r\n\r\nWe have just closed our Series A fundraising (Dec 2019). We have a team of 83 people, which will continue to expand over the coming years.\r\n\r\nYou can find out more about working with us here: https://www.secondnature.io/about-us\r\n\r\n**The Role**\r\n\r\nThis position will be based in our offices, full-time, in Shepherd’s Bush, London.\r\n\r\nOne of the critical components of the Second Nature programme is the health coach that supports and guides our users through the lifestyle changes they need to make. All of the health coaching is delivered digitally, so there is no face-to-face interaction. This allows regular contact with users so you can help support them every step along the way, as well as an opportunity to manage and support a larger users base. Areas that the health coach provides support and guidance on are:\r\nNutrition\r\nExercise\r\nSleep\r\nStress\r\nMindset\r\n\r\nNow that we are growing in size, we are looking to hire new health coaches to help deliver our programme to paying users (i.e. those purchasing the Second Nature programme through our website). The role will be focused on coaching users going through the Second Nature programme (3-month core programme and beyond), via group chat and private, one-to-one chat. Alongside health coaching, there will be the opportunity to spend part of your time managing a small team of remote health coaches below you (either registered nutritionists or registered dietitians). \r\n\r\nIn this role, you will undertake multiple responsibilities as: \r\n\r\n1) a healthcare professional and Registered Dietitian providing a high standard of Type 2 Diabetes care via a digital platform; \r\n2) an internal management lead, acting as the primary link between a remote working team and the internal team, as well as liaising between multiple teams within the company to ensure a smooth workflow; and finally \r\n3) a contributor to on-going programme, platform, and app development. \r\n\r\n**Requirements**\r\nA health and wellbeing geek that is excited by working with startups and the potential for technology to change the world. Highly organised with a strong operational mindset, and not afraid to roll up their sleeves and get stuff done.\r\n\r\n• Minimum qualification: Bachelor of Biomedical Science (majoring in Nutrition and Metabolism in Human Health) and a Masters degree in Nutrition and Dietetics (MDiet). \r\n• Registered with Health and Care Professions Council (Registered Dietitian) and minimum 3 years dietetic experience, including international experience. \r\n• Current member of the British Dietetic Association (BDA). \r\n• Management experience leading a team of remote-working registered dietitians and nutritionists. \r\n• Previous experience delivering group education for healthy lifestyle interventions in Type 2 Diabetes. \r\n• Proficiency in communicating via digital platforms and ability to learn and navigate new digital systems quickly e.g. WordPress, Slite, Trello and Slack.\r\n• Previous experience in Cognitive Behavioural Therapy and Neuro-Linguistic Programming and application of this to dietetic practice to guide behavioural and habitual changes.\r\n• Experience writing and developing nutrition resources to communicate nutrition and lifestyle messages for specific population groups (e.g. type 2 diabetes and cancer). \r\n• Experience working within a start-up company and sound understanding of a fast-paced and ever-changing work environment.  \r\n• Demonstrated experience leading on projects and adhering to strict timelines.\r\n• Exceptional communication skills and proven experience communicating with key stakeholders within the nutrition or food industries.\r\n• Previous experience in recipe development is a plus.\r\n\r\n\r\n**What can we offer you?**\r\nAn exciting job at one of the first digital behavioural change programmes ever commissioned by the NHS\r\nA large amount of autonomy with how you work best\r\nOpportunities to provide direct input into the development of OurPath\r\nDaily inspiration, exposure to lots of interesting and passionate people in our work space that are also helping to solve big, important problems\r\n\r\n**To Apply**\r\nThis position is available to start immediately, so please send your CV and cover letter to rosie@secondnature.io\r\nClosing date for applications: 15th June 2020",
+      "descriptionHtml": "<p><strong>Dietitian Manager and Registered Dietitian at Second Nature (OurPath Ltd)</strong></p>\n\n<p>Obesity has become a global epidemic; in the UK, we spend £9 billion a year alone on diseases like type 2 diabetes (that’s 10% of the NHS budget). What’s shocking is most of this is preventable – through sustained lifestyle and habit change.</p>\n\n<p>Enter Second Nature.</p>\n\n<p>We’re here to help people take control of their health. By bringing together behavioural science, technology, and incredible people, our grand mission is to eradicate the global epidemic of chronic lifestyle diseases once and for all.</p>\n\n<p>Our digital habit change programme – delivered digitally through mobile and web apps – helps people to improve their lifestyle, lose weight, and ultimately reduce their risk for conditions such as type 2 diabetes.</p>\n\n<p>We’re also one of the few consumer health brands that are also actively commissioned by the NHS (for us, it’s to help people living with type 2 diabetes).</p>\n\n<p><strong>Our Stage</strong></p>\n\n<p>We have just closed our Series A fundraising (Dec 2019). We have a team of 83 people, which will continue to expand over the coming years.</p>\n\n<p>You can find out more about working with us here: <a href=\"https://www.secondnature.io/about-us\" target=\"_blank\" rel=\"nofollow\">https://www.secondnature.io/about-us</a></p>\n\n<p><strong>The Role</strong></p>\n\n<p>This position will be based in our offices, full-time, in Shepherd’s Bush, London.</p>\n\n<p>One of the critical components of the Second Nature programme is the health coach that supports and guides our users through the lifestyle changes they need to make. All of the health coaching is delivered digitally, so there is no face-to-face interaction. This allows regular contact with users so you can help support them every step along the way, as well as an opportunity to manage and support a larger users base. Areas that the health coach provides support and guidance on are:<br>\nNutrition<br>\nExercise<br>\nSleep<br>\nStress<br>\nMindset</p>\n\n<p>Now that we are growing in size, we are looking to hire new health coaches to help deliver our programme to paying users (i.e. those purchasing the Second Nature programme through our website). The role will be focused on coaching users going through the Second Nature programme (3-month core programme and beyond), via group chat and private, one-to-one chat. Alongside health coaching, there will be the opportunity to spend part of your time managing a small team of remote health coaches below you (either registered nutritionists or registered dietitians). </p>\n\n<p>In this role, you will undertake multiple responsibilities as: </p>\n\n<p>1) a healthcare professional and Registered Dietitian providing a high standard of Type 2 Diabetes care via a digital platform; <br>\n2) an internal management lead, acting as the primary link between a remote working team and the internal team, as well as liaising between multiple teams within the company to ensure a smooth workflow; and finally <br>\n3) a contributor to on-going programme, platform, and app development. </p>\n\n<p><strong>Requirements</strong><br>\nA health and wellbeing geek that is excited by working with startups and the potential for technology to change the world. Highly organised with a strong operational mindset, and not afraid to roll up their sleeves and get stuff done.</p>\n\n<p>• Minimum qualification: Bachelor of Biomedical Science (majoring in Nutrition and Metabolism in Human Health) and a Masters degree in Nutrition and Dietetics (MDiet). <br>\n• Registered with Health and Care Professions Council (Registered Dietitian) and minimum 3 years dietetic experience, including international experience. <br>\n• Current member of the British Dietetic Association (BDA). <br>\n• Management experience leading a team of remote-working registered dietitians and nutritionists. <br>\n• Previous experience delivering group education for healthy lifestyle interventions in Type 2 Diabetes. <br>\n• Proficiency in communicating via digital platforms and ability to learn and navigate new digital systems quickly e.g. WordPress, Slite, Trello and Slack.<br>\n• Previous experience in Cognitive Behavioural Therapy and Neuro-Linguistic Programming and application of this to dietetic practice to guide behavioural and habitual changes.<br>\n• Experience writing and developing nutrition resources to communicate nutrition and lifestyle messages for specific population groups (e.g. type 2 diabetes and cancer). <br>\n• Experience working within a start-up company and sound understanding of a fast-paced and ever-changing work environment.<br><br>\n• Demonstrated experience leading on projects and adhering to strict timelines.<br>\n• Exceptional communication skills and proven experience communicating with key stakeholders within the nutrition or food industries.<br>\n• Previous experience in recipe development is a plus.</p>\n\n<p><strong>What can we offer you?</strong><br>\nAn exciting job at one of the first digital behavioural change programmes ever commissioned by the NHS<br>\nA large amount of autonomy with how you work best<br>\nOpportunities to provide direct input into the development of OurPath<br>\nDaily inspiration, exposure to lots of interesting and passionate people in our work space that are also helping to solve big, important problems</p>\n\n<p><strong>To Apply</strong><br>\nThis position is available to start immediately, so please send your CV and cover letter to <a href=\"mailto:rosie@secondnature.io\" target=\"_blank\" rel=\"nofollow\">rosie@secondnature.io</a><br>\nClosing date for applications: 15th June 2020</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": true,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [],
+      "payment": {
+        "salary": "£30k – £35k"
+      },
+      "recruiter": {
+        "title": "EA & People Operations Manager",
+        "role": "Employee",
+        "url": "https://angel.co/u/stella-9",
+        "name": "Stella Arenillas",
+        "avatar": "https://photos.angel.co/users/8174357-medium_jpg?1547725205"
+      },
+      "refs": {
+        "angelListId": "825772",
+        "angelListUrl": "https://angel.co/company/secondnature_health/jobs/825772-"
+      }
+    }
+  ]
+}

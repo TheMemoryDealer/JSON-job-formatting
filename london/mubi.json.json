@@ -1,0 +1,187 @@
+{
+  "name": "MUBI",
+  "avatar": "https://photos.angel.co/startups/i/780-b71741d3ea226f5976c348b4dbdc1c59-medium_jpg.jpg?buster=1562335668",
+  "slogan": "Curated Film Streaming Service ",
+  "description": "MUBI is a curated streaming service. A never-ending collection of hand-picked films. From new directors to award-winners. From everywhere on earth. Beautiful, interesting, incredible movies — a new one, every single day. Always chosen by us. MUBI is available to watch in 195 countries, and the films we pick are guided by local cultures and cinema. We are the world’s biggest community of film-lovers, with over 9 million members around the globe. You can stream or download all our movies, anytime. On any screen or device, anywhere. And you’ll never see a single ad on MUBI. Ever.\n",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://mubi.com"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/mubi"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/mubi"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/mubi"
+    },
+    {
+      "type": "productHunt",
+      "url": "https://www.producthunt.com/posts/mubi"
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Film Distribution",
+    "Film",
+    "Digital Media",
+    "Communities"
+  ],
+  "employees": "SIZE_51_200",
+  "funding": {
+    "totalRaised": 27050000,
+    "rounds": [
+      {
+        "type": "Series D",
+        "closedAt": 1419984000,
+        "valuation": null
+      },
+      {
+        "type": "Series D",
+        "closedAt": 1394668800,
+        "valuation": 0
+      },
+      {
+        "type": "Series C",
+        "closedAt": 1294531200,
+        "valuation": null
+      },
+      {
+        "type": "Series B",
+        "closedAt": 1238025600,
+        "valuation": null
+      },
+      {
+        "type": "Series A",
+        "closedAt": 1185926400,
+        "valuation": null
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/p/efe",
+      "name": "Efe Cakarel",
+      "avatar": "https://photos.angel.co/users/36291-medium_jpg?1405464685",
+      "bioHtml": "Founder of <a href=\"https://angel.co/company/mubi\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">MUBI</span></a>.  Worked at Goldman Sachs and SAP. <a href=\"https://angel.co/massachusetts-institute-of-technology\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Massachusetts Institute of Technology</span></a> BS in Electrical Engineering and Computer Science 1998. Stanford MBA 2005."
+    },
+    {
+      "title": "Senior Infrastructure Engineer",
+      "role": "Employee",
+      "url": "https://angel.co/u/tolgaakyuz",
+      "name": "Tolga Akyüz",
+      "avatar": "https://photos.angel.co/users/459862-medium_jpg?1559308867",
+      "bioHtml": "Worked at Contentful, usepanda.com. Experience with Node.js, Redis, GoLang, Python, Scalable cloud applications."
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/timothy-hague-1",
+      "name": "Timothy Hague",
+      "avatar": "https://photos.angel.co/users/10671990-medium_jpg?1582118608",
+      "bioHtml": ""
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/jstuehler",
+      "name": "Johannes Stühler",
+      "avatar": "https://photos.angel.co/users/338005-medium_jpg?1405636106",
+      "bioHtml": "My mind revolves around today&#39;s electronic lifestyle, mobile devices, usability and future communication.\n\nCurrently I&#39;m building the best mobile app <a href=\"https://angel.co/company/amen\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Amen</span></a>"
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "780",
+    "angelListUrl": "https://angel.co/company/mubi"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Junior Devops Engineer",
+      "description": "MUBI is seeking a full-time Junior DevOps Engineer to join our team in our London Office. The ideal candidate is extremely familiar with pure Ruby, proficient with Chef, Terraform and Docker Swarm. Your primary role will be to assist operations of our infrastructure, as well as develop / maintain / scale tools that we use.\r\n\r\n**ABOUT MUBI**\r\nAvailable in over 200 countries around the globe and across multiple devices, MUBI brings you a new hand-picked film everyday that is available to watch for 30 days. At any time there are 30 films to choose from.\r\n\r\nSupporting our CDN using Infrastructure-as-code, supporting services running on multiple non cloud providers.\r\n\r\nImprove and maintain CI Process using Jenkins.\r\n\r\nWe build and maintain a hybrid CDN infrastructure incorporating our own solutions with other CDN providers. We deploy our applications to AWS, and infrastructure related tools to our Docker cluster. We mainly use Prometheus, Grafana, and ELK stack for monitoring.\r\n\r\n**QUALIFICATIONS**\r\n* 1+ Years of familiarity with DevOps and Infrastructure Operations\r\n* Familiar with the Site Reliability concepts\r\n* Strong Knowledge of Linux (Ubuntu), and TCP/IP\r\n* Excellent communication and collaborative skills\r\n* Experienced with or interested in the development and operation of an Video Streaming CDN\r\n* Infrastructure as Code ( Configuration Management ) Chef and Terraform\r\n* Experienced with hosting with baremetal servers as well as containerized cluster environments\r\n* Experienced with Nginx and Apache Webservers\r\n* Automating CI processes using Jenkins\r\n* Proactive, personable and able to hit the ground running\r\n\r\n**RESPONSIBILITIES**\r\n* Build / maintain tools to support operation of our CDN and other infrastructure\r\n* Work closely with our infrastructure / devops team members\r\n* Work with our Software Engineers in developing and designing systems that are resilient and performs at scale\r\n\r\nIf working on a wide range of interesting, impactful projects with a world class team excites you, then we want to hear from you!",
+      "descriptionHtml": "<p>MUBI is seeking a full-time Junior DevOps Engineer to join our team in our London Office. The ideal candidate is extremely familiar with pure Ruby, proficient with Chef, Terraform and Docker Swarm. Your primary role will be to assist operations of our infrastructure, as well as develop / maintain / scale tools that we use.</p>\n\n<p><strong>ABOUT MUBI</strong><br>\nAvailable in over 200 countries around the globe and across multiple devices, MUBI brings you a new hand-picked film everyday that is available to watch for 30 days. At any time there are 30 films to choose from.</p>\n\n<p>Supporting our CDN using Infrastructure-as-code, supporting services running on multiple non cloud providers.</p>\n\n<p>Improve and maintain CI Process using Jenkins.</p>\n\n<p>We build and maintain a hybrid CDN infrastructure incorporating our own solutions with other CDN providers. We deploy our applications to AWS, and infrastructure related tools to our Docker cluster. We mainly use Prometheus, Grafana, and ELK stack for monitoring.</p>\n\n<p><strong>QUALIFICATIONS</strong></p>\n\n<ul>\n<li>1+ Years of familiarity with DevOps and Infrastructure Operations</li>\n<li>Familiar with the Site Reliability concepts</li>\n<li>Strong Knowledge of Linux (Ubuntu), and TCP/IP</li>\n<li>Excellent communication and collaborative skills</li>\n<li>Experienced with or interested in the development and operation of an Video Streaming CDN</li>\n<li>Infrastructure as Code ( Configuration Management ) Chef and Terraform</li>\n<li>Experienced with hosting with baremetal servers as well as containerized cluster environments</li>\n<li>Experienced with Nginx and Apache Webservers</li>\n<li>Automating CI processes using Jenkins</li>\n<li>Proactive, personable and able to hit the ground running</li>\n</ul>\n\n<p><strong>RESPONSIBILITIES</strong></p>\n\n<ul>\n<li>Build / maintain tools to support operation of our CDN and other infrastructure</li>\n<li>Work closely with our infrastructure / devops team members</li>\n<li>Work with our Software Engineers in developing and designing systems that are resilient and performs at scale</li>\n</ul>\n\n<p>If working on a wide range of interesting, impactful projects with a world class team excites you, then we want to hear from you!</p>\n",
+      "position": "full-time",
+      "experience": 1,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Ruby",
+        "Linux",
+        "Nginx",
+        "Video Streaming",
+        "Chef",
+        "Docker",
+        "Terraform",
+        "Apache Web Server"
+      ],
+      "payment": {
+        "salary": "£30k – £40k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/federico-keen",
+        "name": "Federico Keen",
+        "avatar": "https://photos.angel.co/users/7463202-medium_jpg?1518547682"
+      },
+      "refs": {
+        "angelListId": "758629",
+        "angelListUrl": "https://angel.co/company/mubi/jobs/758629-"
+      }
+    },
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "MUBI is seeking a full-time Ruby on Rails developer to join our team in our London office. The ideal candidate is very strong in pure Ruby and/or Rails. Your primary role will be to assist development of our core application infrastructure as part of our development team, as well as supporting development requests from the rest of the company.\r\n\r\n**ABOUT MUBI**\r\nAvailable in over 200 countries around the globe and across multiple devices, MUBI brings you a new hand-picked film everyday that is available to watch for 30 days. At any time there are 30 films to choose from.\r\n\r\nFrom a development perspective, our server stack is primarily built with Ruby &amp; Ruby on Rails. We have one core Rails app that powers our website and API. We also run our own bespoke video CDN on bare metal servers which manages packaging, distribution and delivery of video data to the web and all our platform clients.\r\n\r\nOur front-end is currently built with Backbone+Marionette, although we in the process of migrating to React. Our back-end uses MySQL, redis, and Elasticsearch. We currently have apps on iOS, tvOS, Android, Android TV, Fire TV, Roku, PlayStation, and many TVs and TV set top boxes.\r\n\r\nWe deploy our technology to AWS (for application concerns) and SoftLayer (for video CDN concerns). For monitoring and metrics we use Sensu / InfluxDB / Grafana. For centralized logging we use ELK. For APM we use New Relic. For exception tracking we use Sentry and Fabric. For story/task management and planning we use Trello. For collaboration we use Slack. For continuous integration we use TravisCI. For code review and some internal hosting we use GitHub.\r\n\r\n**OUR IDEAL CANDIDATE**\r\nWe are looking for someone who has experience in handling diverse data-informed requests, and can deliver and communicate results clearly within the organization. The person we are looking for has a high level of independency and is resourceful. You analyze complex, dimensional data sets from different sources. And you develop tools and software that we use to collect better data every day.\r\n\r\n**QUALIFICATIONS:**\r\n* Strong web development experience, both websites and HTTP APIs\r\n* Strong ruby experience, especially with Rails\r\n\r\n**BONUS FOR EXPERIENCE WITH ANY OF THE FOLLOWING:**\r\n* Video encoding (h.264) and streaming protocols (HLS, MPEG-DASH, SmoothStreaming)\r\n* DRM technology\r\n* CDN technology\r\n* Chef\r\n* Docker\r\n* RequireJS / AMD\r\n\r\n**WHY YOU’D LIKE WORKING HERE**\r\n* A small team with big ambitions\r\n\r\nMUBI works in the same world as Netflix and Amazon, but as a much smaller company with a unique business model, we are free to explore new approaches and ideas to how we can provide the most engaging and useful experience to our customers. Currently around 40 people, you’ll be joining a small, agile development team with the opportunity to make a real impact to the direction of development, and the company as a whole.\r\n\r\nIf working on a wide range of interesting, impactful projects with a world class team excites you, then we want to hear from you!",
+      "descriptionHtml": "<p>MUBI is seeking a full-time Ruby on Rails developer to join our team in our London office. The ideal candidate is very strong in pure Ruby and/or Rails. Your primary role will be to assist development of our core application infrastructure as part of our development team, as well as supporting development requests from the rest of the company.</p>\n\n<p><strong>ABOUT MUBI</strong><br>\nAvailable in over 200 countries around the globe and across multiple devices, MUBI brings you a new hand-picked film everyday that is available to watch for 30 days. At any time there are 30 films to choose from.</p>\n\n<p>From a development perspective, our server stack is primarily built with Ruby &amp; Ruby on Rails. We have one core Rails app that powers our website and API. We also run our own bespoke video CDN on bare metal servers which manages packaging, distribution and delivery of video data to the web and all our platform clients.</p>\n\n<p>Our front-end is currently built with Backbone+Marionette, although we in the process of migrating to React. Our back-end uses MySQL, redis, and Elasticsearch. We currently have apps on iOS, tvOS, Android, Android TV, Fire TV, Roku, PlayStation, and many TVs and TV set top boxes.</p>\n\n<p>We deploy our technology to AWS (for application concerns) and SoftLayer (for video CDN concerns). For monitoring and metrics we use Sensu / InfluxDB / Grafana. For centralized logging we use ELK. For APM we use New Relic. For exception tracking we use Sentry and Fabric. For story/task management and planning we use Trello. For collaboration we use Slack. For continuous integration we use TravisCI. For code review and some internal hosting we use GitHub.</p>\n\n<p><strong>OUR IDEAL CANDIDATE</strong><br>\nWe are looking for someone who has experience in handling diverse data-informed requests, and can deliver and communicate results clearly within the organization. The person we are looking for has a high level of independency and is resourceful. You analyze complex, dimensional data sets from different sources. And you develop tools and software that we use to collect better data every day.</p>\n\n<p><strong>QUALIFICATIONS:</strong></p>\n\n<ul>\n<li>Strong web development experience, both websites and HTTP APIs</li>\n<li>Strong ruby experience, especially with Rails</li>\n</ul>\n\n<p><strong>BONUS FOR EXPERIENCE WITH ANY OF THE FOLLOWING:</strong></p>\n\n<ul>\n<li>Video encoding (h.264) and streaming protocols (HLS, MPEG-DASH, SmoothStreaming)</li>\n<li>DRM technology</li>\n<li>CDN technology</li>\n<li>Chef</li>\n<li>Docker</li>\n<li>RequireJS / AMD</li>\n</ul>\n\n<p><strong>WHY YOU’D LIKE WORKING HERE</strong></p>\n\n<ul>\n<li>A small team with big ambitions</li>\n</ul>\n\n<p>MUBI works in the same world as Netflix and Amazon, but as a much smaller company with a unique business model, we are free to explore new approaches and ideas to how we can provide the most engaging and useful experience to our customers. Currently around 40 people, you’ll be joining a small, agile development team with the opportunity to make a real impact to the direction of development, and the company as a whole.</p>\n\n<p>If working on a wide range of interesting, impactful projects with a world class team excites you, then we want to hear from you!</p>\n",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "MySQL",
+        "REST APIs",
+        "Ruby on Rails",
+        "Sidekiq"
+      ],
+      "payment": {
+        "salary": "£45k – £70k",
+        "equity": "No equity"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/federico-keen",
+        "name": "Federico Keen",
+        "avatar": "https://photos.angel.co/users/7463202-medium_jpg?1518547682"
+      },
+      "refs": {
+        "angelListId": "758631",
+        "angelListUrl": "https://angel.co/company/mubi/jobs/758631-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "name": "Arup",
+  "avatar": "https://photos.angel.co/startups/i/6944277-95b313d629d40a128f93e8ceb3ffca52-medium_jpg.jpg?buster=1557836447",
+  "slogan": "Infrastructure",
+  "description": "",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://arup.com"
+    },
+    {
+      "type": "blog",
+      "url": null
+    },
+    {
+      "type": "twitter",
+      "url": null
+    },
+    {
+      "type": "facebook",
+      "url": null
+    },
+    {
+      "type": "linkedIn",
+      "url": null
+    },
+    {
+      "type": "productHunt",
+      "url": null
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Infrastructure"
+  ],
+  "employees": "SIZE_201_500",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/elena-niculaie-4",
+      "name": "Elena Niculaie",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "6944277",
+    "angelListUrl": "https://angel.co/company/arup-4"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Frontend Developer",
+      "description": "",
+      "descriptionHtml": "",
+      "position": "full-time",
+      "experience": 2,
+      "visaSponsorship": false,
+      "locations": [
+        "City of London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Javascript",
+        "Data Visualization",
+        "Frontend Development",
+        "D3.js",
+        "HTML5 & CSS3",
+        "AngularJS",
+        "3D Modeling",
+        "Three.js",
+        "JavaScript Frameworks/Libraries",
+        "React.js",
+        "Chart.js",
+        "Agile methodology",
+        "Front-End/Full-Stack (UI-AngularJS-JS-NodeJS)",
+        "Babylon Js",
+        "NodeJS"
+      ],
+      "payment": {
+        "salary": "$30k – $45k"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/elena-niculaie-4",
+        "name": "Elena Niculaie",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "567990",
+        "angelListUrl": "https://angel.co/company/arup-4/jobs/567990-"
+      }
+    }
+  ]
+}

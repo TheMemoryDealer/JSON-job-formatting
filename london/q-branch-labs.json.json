@@ -1,0 +1,147 @@
+{
+  "name": "Q-Branch Labs",
+  "avatar": "https://photos.angel.co/startups/i/5741155-3de5d530a41014534238b49ab338572e-medium_jpg.jpg?buster=1526407563",
+  "slogan": "Home cybersecurity, simplified",
+  "description": "Q-Branch Labs was founded by the former lead of Facebook's security tools team to protect your home network using the same technology he used to protect Facebook from some of the best hackers on the planet.\n\nThe Q-Branch Vektor is a high-performance home cyber-security solution that protects your smart home and connected devices from hackers and snoopers.  Easy to install, easy to use, with extremely powerful protection.  The Vektor provides enterprise-grade security that learns what traffic on your network should look like and notifies you of anomalies and attacks. Built-in ad and web tracker blocking along with a VPN router protects user privacy, while the network control functions of the Vektor enable users to decide what devices can connect to their network and even allow them to block devices that are already connected.",
+  "links": [
+    {
+      "type": "website",
+      "url": "https://www.q-branch-labs.com/"
+    },
+    {
+      "type": "blog",
+      "url": "https://www.q-branch-labs.com/blog"
+    },
+    {
+      "type": "twitter",
+      "url": "http://twitter.com/@q_branch_labs"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/q.branch.labs"
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/q-branch-labs/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London"
+  ],
+  "marketTags": [
+    "Cyber Security",
+    "Smart Home",
+    "Privacy",
+    "Internet of Things"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 0,
+    "rounds": []
+  },
+  "team": [
+    {
+      "title": "",
+      "role": "Founder",
+      "url": "https://angel.co/u/jim-mccoy",
+      "name": "Jim McCoy",
+      "avatar": "https://photos.angel.co/users/7873662-medium_jpg?1526409089",
+      "bioHtml": "Founder of Q-Branch Labs, Facebook security tools lead, was playing with crypto-currency back when we called it ecash."
+    },
+    {
+      "title": "",
+      "role": "Employee",
+      "url": "https://angel.co/u/wood-star",
+      "name": "Wood Star",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "5741155",
+    "angelListUrl": "https://angel.co/company/q-branch-labs"
+  },
+  "jobs": [
+    {
+      "role": "Sales",
+      "title": "Sales Pioneer",
+      "description": "Q-Branch Labs is looking for a dynamic and accomplished sales professional who can help us create an effective and repeatable sales process and build our sales toolchain and support system.\n\nAn ideal candidate will be one who is adept at juggling multiple start-up roles, from creating and running online advertising campaigns, directing our social media efforts, to getting down in the weeds of landing page design and building an effective funnel for converting leads into customers.  Experience at PR and business development is a win but not a strict requirement.\n\nThe company is starting an enterprise pivot with our core technology and are looking for someone who can bring passion and experience to the role of building our sales and marketing infrastructure.",
+      "descriptionHtml": "<p>Q-Branch Labs is looking for a dynamic and accomplished sales professional who can help us create an effective and repeatable sales process and build our sales toolchain and support system.</p>\n\n<p>An ideal candidate will be one who is adept at juggling multiple start-up roles, from creating and running online advertising campaigns, directing our social media efforts, to getting down in the weeds of landing page design and building an effective funnel for converting leads into customers.  Experience at PR and business development is a win but not a strict requirement.</p>\n\n<p>The company is starting an enterprise pivot with our core technology and are looking for someone who can bring passion and experience to the role of building our sales and marketing infrastructure.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Facebook Advertising",
+        "Sales",
+        "Social Media Marketing",
+        "Inside Sales",
+        "Advertising"
+      ],
+      "payment": {
+        "salary": "£40k – £60k",
+        "equity": "1.0% – 2.0%"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Founder",
+        "url": "https://angel.co/u/jim-mccoy",
+        "name": "Jim McCoy",
+        "avatar": "https://photos.angel.co/users/7873662-medium_jpg?1526409089"
+      },
+      "refs": {
+        "angelListId": "366862",
+        "angelListUrl": "https://angel.co/company/q-branch-labs/jobs/366862-"
+      },
+      "postedAt": 1589658366862
+    },
+    {
+      "role": "Software Engineer",
+      "title": "React Native and Front-end Developer",
+      "description": "No agencies or recruiters.\r\n\r\nStarting 1st of June\r\n\r\nWhat you will be working on:\r\n\r\nAn intuitive and easy to use app that distills a lot of complex security and networking options into an interface that is accessible for non-experts.  The Q-Branch Vektor is a home cybersecurity device and VPN router and this app is the primary interface between the user and the services running on the device.\r\n\r\nWe have developed an initial version of an iOS and Android app using React Native but it is time to bring in a professional to improve the user experience.  We are looking for an experienced React Native developer who is curious, eager to learn about a variety of different aspects and systems involved in network security, and who can coordinate with the teams responsible for the other layers of the product to help build something a performant app for both iOS and Android.  This will eventually also involve making a web app version of the interface that will be run on the device as an alternative UI as well as occasional CSS/HTML for our public facing sites.\r\n\r\nSkills you need to have:\r\n\r\n• Experience building React Native apps or React apps in general\r\n• Proficiency in JavaScript, latest language features, type annotations\r\n• Understanding of both GraphQL and REST api styles\r\n• Understanding of React component lifecycle and state management\r\n• Previous iOS or Android development experience\r\n• Previouse UI and UX design\r\n• Knowledge of deployment to the Apple app store / Google play is helpful\r\n• Experience with developing for security/privacy is especially appreciated\r\n• A basic background in Linux and understanding of Python is a plus\r\n• Familiar with TDD and 1 app testing framework for react-native \r\n\r\nWhat we are looking for in a candidate:\r\n\r\n• Native english speaker\r\n• Someone who is excited at the prospect of constantly adapting to work on new challenges\r\n• A keen problem solver who can thrive in a high pace, fast learning environment.\r\n• Care about good software architecture and code practices; we try to use TDD when we can and believe in automating as much process as possible.\r\n• Willing to learn new skills and expand your range of professional expertise as needed.\r\n• Are fantastic at communicating your thinking and design decisions.\r\n• Understand what it takes to succeed in an entrepreneurial startup.\r\n• Have a good sense of humour!\r\n\r\n\r\nIn addition to the basic skills necessary we believe that a good interface developer communicates well both with the back-end services team as well as the users of the app.  We are looking for someone who can collaborate closely with the rest of the development team and who has good communication skills.   Q-Branch Labs supports flexible hours, the option for remote work (from the uk only), and a focus on results and not hours spent at a task.",
+      "descriptionHtml": "<p>No agencies or recruiters.</p>\n\n<p>Starting 1st of June</p>\n\n<p>What you will be working on:</p>\n\n<p>An intuitive and easy to use app that distills a lot of complex security and networking options into an interface that is accessible for non-experts.  The Q-Branch Vektor is a home cybersecurity device and VPN router and this app is the primary interface between the user and the services running on the device.</p>\n\n<p>We have developed an initial version of an iOS and Android app using React Native but it is time to bring in a professional to improve the user experience.  We are looking for an experienced React Native developer who is curious, eager to learn about a variety of different aspects and systems involved in network security, and who can coordinate with the teams responsible for the other layers of the product to help build something a performant app for both iOS and Android.  This will eventually also involve making a web app version of the interface that will be run on the device as an alternative UI as well as occasional CSS/HTML for our public facing sites.</p>\n\n<p>Skills you need to have:</p>\n\n<p>• Experience building React Native apps or React apps in general<br>\n• Proficiency in JavaScript, latest language features, type annotations<br>\n• Understanding of both GraphQL and REST api styles<br>\n• Understanding of React component lifecycle and state management<br>\n• Previous iOS or Android development experience<br>\n• Previouse UI and UX design<br>\n• Knowledge of deployment to the Apple app store / Google play is helpful<br>\n• Experience with developing for security/privacy is especially appreciated<br>\n• A basic background in Linux and understanding of Python is a plus<br>\n• Familiar with TDD and 1 app testing framework for react-native </p>\n\n<p>What we are looking for in a candidate:</p>\n\n<p>• Native english speaker<br>\n• Someone who is excited at the prospect of constantly adapting to work on new challenges<br>\n• A keen problem solver who can thrive in a high pace, fast learning environment.<br>\n• Care about good software architecture and code practices; we try to use TDD when we can and believe in automating as much process as possible.<br>\n• Willing to learn new skills and expand your range of professional expertise as needed.<br>\n• Are fantastic at communicating your thinking and design decisions.<br>\n• Understand what it takes to succeed in an entrepreneurial startup.<br>\n• Have a good sense of humour!</p>\n\n<p>In addition to the basic skills necessary we believe that a good interface developer communicates well both with the back-end services team as well as the users of the app.  We are looking for someone who can collaborate closely with the rest of the development team and who has good communication skills.   Q-Branch Labs supports flexible hours, the option for remote work (from the uk only), and a focus on results and not hours spent at a task.</p>\n",
+      "position": "full-time",
+      "experience": 3,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Python",
+        "Javascript",
+        "Web Development",
+        "Mobile Development",
+        "UI/UX Design",
+        "Linux",
+        "React Native"
+      ],
+      "payment": {
+        "salary": "£40k – £60k",
+        "equity": "0.5% – 2.0%"
+      },
+      "recruiter": {
+        "title": "",
+        "role": "Founder",
+        "url": "https://angel.co/u/jim-mccoy",
+        "name": "Jim McCoy",
+        "avatar": "https://photos.angel.co/users/7873662-medium_jpg?1526409089"
+      },
+      "refs": {
+        "angelListId": "575089",
+        "angelListUrl": "https://angel.co/company/q-branch-labs/jobs/575089-"
+      },
+      "postedAt": 1589658575089
+    }
+  ]
+}

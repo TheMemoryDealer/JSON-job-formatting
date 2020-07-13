@@ -1,0 +1,123 @@
+{
+  "name": "Teller",
+  "avatar": "https://photos.angel.co/startups/i/909575-1a9dfa754bf52b4a046a081b1c761fa0-medium_jpg.jpg?buster=1571138096",
+  "slogan": "The API for your bank account",
+  "description": "Teller is a fully transactional banking API for your existing bank account. Build apps that access your user's bank account to view historical transactions and make payments regardless of who they bank with.\n\nAll banks, One API.",
+  "links": [
+    {
+      "type": "website",
+      "url": "http://teller.io"
+    },
+    {
+      "type": "blog",
+      "url": ""
+    },
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/tellerapi"
+    },
+    {
+      "type": "facebook",
+      "url": ""
+    },
+    {
+      "type": "linkedIn",
+      "url": "https://www.linkedin.com/company/teller-inc/"
+    },
+    {
+      "type": "productHunt",
+      "url": ""
+    }
+  ],
+  "locations": [
+    "London",
+    "San Francisco"
+  ],
+  "marketTags": [
+    "Developer APIs",
+    "Finance Technology",
+    "Banking",
+    "Enterprise Software",
+    "Software",
+    "Fin Tech"
+  ],
+  "employees": "SIZE_1_10",
+  "funding": {
+    "totalRaised": 4000000,
+    "rounds": [
+      {
+        "type": "Seed",
+        "closedAt": 1580083200,
+        "valuation": 0
+      }
+    ]
+  },
+  "team": [
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/dnlplmr",
+      "name": "Dan Palmer",
+      "avatar": "https://photos.angel.co/users/10567735-medium_jpg?1581004710",
+      "bioHtml": "CTO <a href=\"https://angel.co/company/tellerapi\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Teller</span></a>\n\nWe are hiring - https://jobs.lever.co/teller"
+    },
+    {
+      "title": null,
+      "role": "Founder",
+      "url": "https://angel.co/u/steviegraham",
+      "name": "Stevie Graham",
+      "avatar": "https://photos.angel.co/users/142965-medium_jpg?1578675685",
+      "bioHtml": "Founder Teller • Early <a href=\"https://angel.co/company/twilio\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Twilio</span></a>"
+    },
+    {
+      "title": null,
+      "role": "Employee",
+      "url": "https://angel.co/u/tim-morgan-14",
+      "name": "Tim Morgan",
+      "avatar": "https://angel.co/images/shared/nopic.png",
+      "bioHtml": ""
+    }
+  ],
+  "perks": [],
+  "refs": {
+    "angelListId": "909575",
+    "angelListUrl": "https://angel.co/company/tellerapi"
+  },
+  "jobs": [
+    {
+      "role": "Software Engineer",
+      "title": "Software Engineer",
+      "description": "Teller is the API for bank accounts. Our API enables developers to build applications that connect with their users’ bank accounts in a manner that is many more times reliable, predictable, performant, and fair than anything else available. This seems like something that should be a solved problem in 2019 but before Teller, the state of the art was to rely on antiquated techniques such as screen-scraping online banking HTML pages. Of course these pages were never designed for this so it’s no surprise that anything using this approach is hopelessly broken and the bane of fintechs everywhere. \n\nBanks do have real APIs. Externally facing APIs are necessary for their own apps to work, they would just rather you don’t have access to them. We reverse engineer these apps to discover their secret API contracts and then implement clients for them. \n\nOur approach has enabled us to deliver a solution that is a 100x improvement.\n\n\n**The Product Engineer Role**\n\nProduct Engineers are responsible for everything from building the dashboards, onboarding flows, and billing through to building the API itself and implementing new bank integrations alongside the Reverse Engineers on the Teller Red Team.",
+      "descriptionHtml": "<p>Teller is the API for bank accounts. Our API enables developers to build applications that connect with their users’ bank accounts in a manner that is many more times reliable, predictable, performant, and fair than anything else available. This seems like something that should be a solved problem in 2019 but before Teller, the state of the art was to rely on antiquated techniques such as screen-scraping online banking HTML pages. Of course these pages were never designed for this so it’s no surprise that anything using this approach is hopelessly broken and the bane of fintechs everywhere. </p>\n\n<p>Banks do have real APIs. Externally facing APIs are necessary for their own apps to work, they would just rather you don’t have access to them. We reverse engineer these apps to discover their secret API contracts and then implement clients for them. </p>\n\n<p>Our approach has enabled us to deliver a solution that is a 100x improvement.</p>\n\n<p><strong>The Product Engineer Role</strong></p>\n\n<p>Product Engineers are responsible for everything from building the dashboards, onboarding flows, and billing through to building the API itself and implementing new bank integrations alongside the Reverse Engineers on the Teller Red Team.</p>\n",
+      "position": "full-time",
+      "experience": null,
+      "visaSponsorship": false,
+      "locations": [
+        "London"
+      ],
+      "remote": false,
+      "remoteLocations": [],
+      "skills": [
+        "Erlang",
+        "Product Development",
+        "Software",
+        "Elixir"
+      ],
+      "payment": {
+        "salary": "£50k – £100k",
+        "equity": "0.1% – 1.0%"
+      },
+      "recruiter": {
+        "title": null,
+        "role": "Employee",
+        "url": "https://angel.co/u/tim-morgan-14",
+        "name": "Tim Morgan",
+        "avatar": "https://angel.co/images/shared/nopic.png"
+      },
+      "refs": {
+        "angelListId": "644392",
+        "angelListUrl": "https://angel.co/company/tellerapi/jobs/644392-"
+      }
+    }
+  ]
+}
